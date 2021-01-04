@@ -47,7 +47,7 @@ Be part of the largest human-edited directory on the web.
 <tr bgcolor="#f9f9f9" align="center">
 <td><font face="sans-serif, Arial, Helvetica" size="2">
 <a href="https://curlie.org/docs/en/help/become.html">Suggest a Site</a> -
-<a href="https:/curlie.org/about.html"><b>Curlie Directory</b></a> -
+<a href="https://curlie.org/"><b>Curlie Directory</b></a> -
 <a href="https://curlie.org/docs/en/help/become.html">Become an Editor</a>
 </font></td></tr>
 </table>
