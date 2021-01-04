@@ -32,4 +32,4 @@ The dataset is made available for research, teaching, and scholarship purposes o
 If you use this dataset as part of a publication, you must cite the following paper:
 Zaeem, R. N., & Barber, K. S. A Large Publicly Available Corpus of Website Privacy Policies Based on DMOZ. In the 11th ACM Conference on Data and Application Security and Privacy (CODASPY 2021).
 
-For more details about the database please see the paper and contact the authors: razieh@identity.utexas.edu and nokhbeh@gmail.com
+For more details about the dataset please see the paper and contact the authors: razieh@identity.utexas.edu (personal email nokhbeh@gmail.com).
