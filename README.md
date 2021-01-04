@@ -34,7 +34,7 @@ For more details about the dataset please see the paper and contact the authors:
 
 The dataset is made available for research, teaching, and scholarship purposes only, with further parameters in the spirit of a Creative Commons Attribution-NonCommercial License.
 
-This dataset is partically based on DMOZ, later inherited by Curlie.
+This dataset is partially based on DMOZ, later inherited by Curlie.
 
 <table border="0" bgcolor="#bc001f" cellpadding="3" cellspacing="0">
 <tr><td>
