@@ -1,0 +1,353 @@
+http://www.pangaea.de/about/terms.php
+Terms of Use
+We are delighted that you show interest in our website and services.
+Please read these Terms of Use carefully because they are a binding
+agreement between You and PANGAEA's hosting institutions.
+1. Preliminary statement
+The
+information system PANGAEA is operated as an Open Access library aimed at
+archiving, publishing and re-usage of georeferenced data from earth system
+research. The system provides a platform at pangaea.de and guarantees long-term
+availability of its content through a commitment of the following hosting
+institutions (hereinafter referred to as PANGAEA): the Alfred Wegener
+Institute, Helmholtz Center for Polar- and Marine Research (AWI) and the Center
+for Marine Environmental Sciences, University of Bremen (MARUM).
+2. Scope of application
+These
+terms of use governs the provisions of the services and the use of these
+services offered through the PANGAEA platform to their users. The use of the
+services on the platform is governed exclusively by these terms of use, unless
+PANGAEA expressly draws the attention of the user to any supplemental terms.
+The
+user can view and print out the currently valid terms of use on the PANGAEA
+website.
+3. Subject Matter of the Agreement
+3.1 PANGAEA provides a platform at pangaea.de for institutions
+or individual scientists for different services. The system is operated in the
+sense of the Berlin Declaration on Open Access to Knowledge in the Sciences and
+Humanities, which is a follow up to the Budapest Open Access Initiative. The
+services will be delivered as follows:
+3.1.1 Data submission:
+PANGAEA
+enables the long-term archiving, publication and dissemination of scientific
+data and provides scientific data management for projects and scientific
+institutes according to international standards and protocols:
+The PANGAEA data submission
+system accepts data from earth system and environmental research for archiving,
+publishing and re-usage.
+The Service provides you with
+the ability to add, create, upload, submit, distribute or post content,
+articles, data, text, photographs, images, illustrations, or other information
+on or to PANGAEA.
+The PANGAEA issue tracker
+assists you in providing metadata and uploading data files. Any communication
+with the PANGAEA data editors goes through this issue tracker.
+Data curation at PANGAEA
+includes editorial treatment of deposited data by well-trained data editors
+from the geological and biological domains. This includes quality control of
+data and metadata as well as harmonization of metadata, which is supported by
+using and developing ontologies and vocabularies. Data curation ensures
+FAIRness (findability, accessibility, interoperability and reusability) of all
+data by checking for completeness, correctness, and machine readability of data
+and metadata as well as transfer of data submissions into PANGAEA’s ingest
+format.
+A moratorium can be assigned
+to data so that access may be restricted as defined in section 5.2. Metadata is always freely
+accessible.
+Data publication at PANGAEA
+includes the registration of a DOI (Digital Object Identifier) to allow the
+citation of each dataset.
+All data published via
+PANGAEA are long-term stored (minimum 10 years) on redundant file systems and
+tapes.
+3.1.2 Data Discovery:
+PANGAEA provides an open
+access data portal and programmatic access delivered as:
+Search portal on the website.
+This includes full-text search with faceted navigation. Users can search the
+whole data inventory of PANGAEA based on dataset’s metadata.
+Retrieval and download of
+metadata in different formats, download of data tables and data files.
+API services for programmatic
+access. This includes metadata harvesting via certain protocols.
+3.1.3 Data Publication:
+All published datasets get a
+unique identifier (DOI name) that links to a splash web page with detailed
+information like citation, abstract, size, observed properties, related
+literature.
+PANGAEA is entitled to change
+the services provided at any time, to make new services available or to
+suspend services. PANGAEA will always take the users legitimate interests into
+consideration.
+3.2 The services available on the PANGAEA platform also
+includes third party services to which access is only provided. The use of such
+services may be subject to regulations that differ from these terms of use or
+may be subject to additional regulations, which the respective service provider
+will point out to the user in the context of their terms of use. In this case
+any contractual relationship arises exclusively between the participating
+service provider and the participating user, PANGAEA is neither a
+representative nor does PANGAEA become a contractual partner.
+3.3 Within the scope of the technical and operational
+possibilities, PANGAEA endeavour to ensure that the use of the services is as
+uninterrupted as possible. However, technical faults, such as hardware and
+software errors, technical problems in the data lines, temporary restrictions
+or interruptions occur.
+4. Registration and Conclusion of a contract
+4.1 In order to use certain services via the
+platform pangaea.de, the user will be required to register and provide the
+following data ("login data"): e-mail-address (will be verified), a self-chosen
+username, first and family name and a unique password. Optionally the following
+additional data may also be provided to allow easier communication:
+organization (e.g. research institution) and telephone number. Users are also
+advised to link their account with an ORCID ID. The services can be used by any
+scientist who has understood, accepted and approved these terms of use and are
+at least 18 years of age.
+4.2 By completing the online registration process, a contract
+of use is concluded between the user and PANGAEA subject to these terms of use.
+The subject of the contract of use is the use of the services via the platform
+pangaea.de.
+4.3 There is no claim to the use of the services available via
+the PANGAEA platform; therefore, the user registration can be rejected without
+giving reasons.
+4.4 The user is obliged to handle the login-data with care. In
+particular, the user is prohibited from disclosing the login data to third
+parties and/or allowing third parties to access the services via the PANGAEA
+platform by bypassing the login data. PANGAEA may disable the user’s login-data
+at PANGAEA’s sole discretion without notice or explanation.
+4.5 If the user breaches the obligations under the preceding
+paragraph 4.4 and his login-data is used by third parties, the user is liable
+for all activities that take place using the login data. The user is not liable
+if the user is not responsible for the abuse of the login data. The user shall
+immediately notify PANGAEA of any unauthorized use of the login-data or any
+other breach or threatened breach of the security on the PANGAEA platform.
+4.6 The user assures that the login data used are correct. The
+user shall inform PANGAEA of any updates or changes to such login-data as soon
+as possible.
+4.7 Contract language is exclusively English.
+5. Conditions of use
+5.1 PANGAEA provides different services via the PANGAEA
+platform covering the archiving, publishing and re-usage of georeferenced data
+from earth system and environmental research as defined in section 3.1.
+5.2 PANGAEA
+provides an area on the platform for the upload of the user’s research contents from
+earth and life sciences - within the scope of these terms of use. Research
+contents mean material including and without limitation research data such as
+numerical values, text, images, audio and video materials. The uploaded
+research contents have to match the specific intended research context comply
+with the strict research orientation of PANGAEA and fully comply with the
+relevant national and European legal framework for biological environmental and
+geospatial research data like e.g. the Nagoya Protocol. During the research
+contents submission, the user is obliged to set a minimum of descriptive
+metadata to ensure the findability, accessibility, interoperability and
+reusability of the research contents. Metadata should contain basic structured
+information about the research contents, so that others can understand and use
+the contents without further information. The user can request a moratorium of
+a maximum of two years until the publication of the research contents - after
+this time research contents will be automatically published by PANGAEA.
+5.3 Research
+contents uploaded to the PANGAEA platform will be subject to different services
+which includes in particular an automatic and manual curation by domain experts
+following the FAIR data principles (Finable, Accessible, Interoperable,
+Re-usable), minting a Digital Object Identifier (DOI) for all data, advice and
+assistance to the user the scope of which is at the discretion of PANGAEA. The
+curation process and minting the DOI may take up to eight weeks. The user is
+obliged to proof-read before the final version is published for the review
+process by third parties (e.g. journals) a temporary handle might be provided
+upon request of the user. If the research contents are supplementary to a
+journal article the user is obliged to reference the data in the article.
+5.4 The
+uploading of research content to the PANGAEA platform is not a guarantee that
+the services will be provided; it is at the discretion of PANGAEA to decide
+whether the research contents are suitable for the services or not. If the
+uploaded research content will be not suitable, PANGAEA strives to inform the
+user within five working days. In this case any uploaded research content and
+metadata will be completely removed from the PANGAEA platform. In any case
+research contents are not suitable for the services if the services are not
+fair used by the user.
+The fair use for the PANGAEA platform includes:
+a maximum service request of three working hours.
+a maximum data volume of 10 GB.
+a maximum of one submission per day and ten per month.
+PANGAEA reserves the right to refuse the upload of the
+research contents or to charge fees for uploaded research content beyond the
+aforementioned limits and/or for third-party fees resulting from data curation,
+storage and publication, in either case only after consultation of the user.
+5.5 The
+offered service of data search via the PANGAEA platform includes the fair use
+of the access to the open access data portal and its Application Programming
+Interfaces (APIs); By accessing the API, the user accepts the currently valid terms of use described
+here. PANGAEA is
+entitled at its own discretion to technically limit the retrieval and download
+of research contents through those interfaces of the PANGAEA platform, which
+means in particular:
+Requests significantly beyond the average number of access attempts per time unit by other users of PANGAEA or
+mass download of metadata and associated data e.g. for the purpose of content duplication or
+the use of automated systems to extract data from the PANGAEA web pages for commercial purposes except for keeping web search indexes up to date.
+Such
+exceeding inquiries will automatically lead to error messages and/or a forced
+disconnection from the service unless prior authorization from PANGAEA is
+requested by the user. Additional usage limitations of specific API services
+are described in the published API documentation.
+5.6 PANGAEA does not assume any responsibility for the uploaded
+research contents and metadata (contents) - no matter what kind. The user is
+solely responsible for the contents and undertakes to PANGAEA not to upload any
+contents which, by its content or its form or design or in any other way
+violates applicable law, morality or these terms of use, is free form
+third-party rights, i.e. do not violate the rights of third parties and that
+the user is authorized to use these contents. In particular, it is not
+permitted to upload and publish the following contents, which are not to be
+understood as a final list:
+contents violate the rights
+of third parties, in particular personal rights, copyrights, trademark rights
+and design rights;
+contents are or contain commercial advertising;
+contents which are
+threatening, degrading, insulting, slanderous or untrue,
+contents which are
+pornographic, vulgar, obscene, offensive, harassing, discriminatory or glorify
+violence;
+contents with depictions of violence;
+contents which contain
+propaganda material of unconstitutional organizations or are inflammatory,
+anti-constitutional, racist or xenophobic.
+5.7 The user must refrain from
+any activity that could impair the operation of the PANGAEA platform or the
+technical infrastructure behind it. These included in particular:
+the use of software, scripts
+or databases in connection with the use of the PANGAEA platform;
+the automatic reading,
+blocking, overwriting, modifying, copying of data and/or other content, unless
+this is necessary for the proper use of the platform.
+5.8 Should
+there be any disruptions in the use of the platform or its functionalities, the
+user shall inform PANGAEA of this disruption immediately. The same applies if
+the user obtains information about content published by third parties which
+obviously violates applicable law or the rights of third parties.
+5.9 PANGAEA
+can temporarily or permanently block or rather delete the user’s access to the services at
+the PANGAEA platform, if there is concrete evidence that a user is violating
+these terms of use or the applicable law or if PANGAEA has any other justified
+interest in blocking or deleting.
+5.10 PANGAEA may delete some or all the contents the user uploaded
+on the PANGAEA platform without notice. The prerequisite for this is that there
+are concrete indications that the user have violated applicable law, good
+morals, these terms of use or third party rights, such as copyrights.
+6 Rights of use
+6.1 By submitting research content to the PANGAEA platform the
+user grants PANGAEA a royalty-free, irrevocable, transferrable,
+fully-sublicensable, non-exclusive, spatially and temporally unlimited right to
+use the research contentwith
+the corresponding metadata for the respective purposes referred to in section
+3.1 and subject to these terms of use. This includes in particular
+the right to reproduce and
+process/edit the submitted research content for archive, publication and
+re-usage purposes,
+the right to store the contents
+on PANGAEA server to archive, and publish them, in particular to make them
+available to the public via the PANGAEA platform and
+the right to deposit the
+research content and metadata at associated/collaborating, publicly accessible
+data centers which are committed to the long-term preservation of research data
+and providing permanent open access. These data centers are granted the same
+rights as PANGAEA.
+6.2 By
+submitting research content and metadata to the PANGAEA platform the content
+will be published under the Creative Commons license CC0 for metadata and CC-BY
+for data. Exceptions have to be negotiated on an individual basis with PANGAEA.
+Once a license has been issued, it cannot be changed retroactively.
+6.3 The
+user declares to be entitled to the granting of rights of use made in section
+6.1 and assures that the research content submitted is free of third party
+rights which are contrary to the use for the purpose of this terms of use. The
+user releases PANGAEA from all claims of third parties arising from the demands
+of third parties.
+7. Protection of content/Responsibility for content
+7.1 The research content available on the PANGAEA platform is
+primarily protected by the copyright or other property rights of PANGAEA, the
+users or other third parties who have made the respective content available.
+This content may only be used in accordance with these terms of use and the
+applicable law.
+7.2 PANGAEA
+does not check the completeness, accuracy and legality of the research contents
+of the users and other third parties. PANGAEA therefore assumes no
+responsibility for the completeness, accuracy, legality and topicality of these
+research contents. This also applies to the quality of the research contents
+and their suitability for a specific purpose, and insofar as it concerns third
+party contents on linked external websites.
+8. Privacy Policy
+All
+information on the processing of personal data can be found in the privacy
+policy of PANGAEA. This is available at
+https://www.pangaea.de/about/privacypolicy.php.
+9. Liability
+9.1 Those contents available on the PANGAEA platform provided
+by PANGAEA were created with best care and attention and will be updated on a
+regular basis. PANGAEA does not accept liability for the quality, topicality or
+completeness of the contents provided by PANGAEA offered on the PANGAEA
+platform and their suitability for specific purposes. Liability claims which
+refer to material and/or non-material damage, which are caused by the use or
+disuse of the offered contents provided by PANGAEA on the PANGAEA platform
+respectively the use of inaccurate and incomplete contents are excluded,
+insofar as there is no evidence of willful or gross negligence on the part of
+PANGAEA. All offers are non-binding and without obligation. For damages
+resulting from slightly negligent violations of essential contractual
+obligations, the liability is limited to typical or foreseeable damages. The
+above limitations of liability also apply in the event of breaches of duty by
+the legal representatives, senior employees, or vicarious agents of PANGAEA.
+PANGAEA is liable for damages resulting from injury to life, body or health,
+which are based on a willful and negligent breach of duty, as well as for
+damages according to the Product Liability Act without limitations.
+9.2 PANGAEA
+is not liable for damages whose causes are beyond its control, in particular
+not for damages due to force majeure or for damages caused by users or third parties in
+violation of these terms of use.
+9.3 PANGAEA
+expressly reserves the right to edit, expand or delete sections of pages, or
+the entire publication, or to suspend publication temporarily or permanently,
+without separate announcement.
+9.4 PANGAEA does not guarantee that the PANGAEA platform is
+compatible with the hardware and software of the devices of the user. In
+addition, PANGAEA does not guarantee that this content is available at any time
+or at certain times without restriction or that it meets certain performance or
+functional requirements.
+10. Termination of use
+10.1 PANGAEA and the user may terminate the user relationship at
+any time, without the need for a reason. The user may terminate the user
+relationship by discontinuing the use of the services via the PANGAEA platform.
+Upon termination the user no longer has access to his user account and the uploaded
+contents in the user account; PANGAEA reserves the right to delete the account
+as well as the uploaded contents.
+10.2 The
+termination of usage does not include the deletion of research contents of the
+user already published via the PANGAEA platform except for the case that the
+user revokes the rights on the basis of § 42 UrhG (the work no longer
+corresponds to the conviction of the author); in this case PANGAEA is entitled
+to charge the costs incurred.
+11. Amendment of the terms of use
+11.1 PANGAEA
+is entitled to amend or supplement the provision of these terms of use at any
+time with effect for the future, if this is required due to legal or functional
+adaptations of the PANGAEA platform, for example in the case of technical
+changes.
+11.2 An
+amendment or supplement shall be notified to the user by e-mail at the latest
+six weeks before its entry into force, without the need to send the details of
+the amended or supplemented conditions or the overall revision of the
+conditions; it shall suffice to inform the user of the amendments and
+supplements made. In the announcement, PANGAEA will provide a link under which
+the new version for the terms of use can be viewed in its entirety.
+11.3 If
+the user does not object to the amendments and supplements within 30 day of the
+announcement of the amendments and supplements and continues to use the
+service, this shall be deemed to be agreement with the amendments and
+supplements; PANGAEA will point this out separately in the announcement.
+12. Final provisions
+12.1 Should any provision of these terms of use be or become
+ineffective, this shall not affect the validity of the remaining provisions.
+12.2 These terms of use are subject to German law. The place of
+jurisdiction for all disputes arising from these terms of use is, as far as
+legally permissible, Bremen.
+These Terms of Use were last updated on 2020-07-28 (version 1.0).
+Developed in cooperation with:
+MLS LEGAL (Institut für IT-, Medien- und
+Immaterialgüterrecht und Rechtsanwalts- und Fachanwaltsgesellschaft, Bremen).

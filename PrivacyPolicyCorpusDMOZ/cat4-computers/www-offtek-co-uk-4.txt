@@ -1,0 +1,97 @@
+https://www.offtek.co.uk/help-and-faqs/memory-questions
+Coronavirus Status – We Are Open And Shipping Orders
+Home Page ›
+Help and FAQs ›
+Memory Questions
+Help
+New to OFFTEK
+Manage your Account
+Manage your Orders
+Returns, refunds and payment methods
+Product Questions
+OFFTEK policies
+Memory Questions
+Delivery Queries
+Flash cards/Card Reader Questions
+Dram FAQ
+Desktop FAQ
+Laptop FAQ
+Dell FAQ
+Other Links
+About
+Site Map
+Help & FAQ
+Blog
+Memory Questions
+What is the difference between ECC/Non-ECC/ECC Reg
+Non-ECC modules are used in the majority of desktops and laptops and do not have any error detection or correction capability. ECC modules are normally used in Servers and Workstations and are able to detect and correct certain types of memory errors and therefore offer an additional level of reliability. ECC registered modules contain a register which delays the data by one clock cycle and are generally used on Servers that require a lot of memory.
+Do I have to buy matched upgrades or can I mix different sizes?
+In earlier machines that are using either SDRAM or DDR SDRAM, you will be able to install modules of different sizes without any compatibility issues. For example, if your computer currently has a 256MB memory module, you would be able to add a 512MB module for a total of 768MB of RAM. However, within DDR machines if you have a "dual-channel" motherboard and want to take advantage of this technology, you will need to install the modules in matched pairs
+After installing my new memory module I get an error message and my PC won't boot?
+This problem my have been caused on installation of your new memory module, possible by dislodging a cable. For a machine to be able to boot a complete circuit needs to be made. To solve this issue all of the connections within the machine will need to be inspected to ensure that they are securely located in the appropriate slot.If this doesn't help, please contact us at support@offtek.co.uk or you can find our telephone number on our Contact Information page.
+What is CAS Latency?
+CAS latency is the amount of time between the memory receiving a read request and the first piece of data being output from the memory. Latency is measured in terms of clock cycles. A CL2 module takes 2 clock cycles to respond to a command and a CL3 modules takes 3. After the first piece of data, all future requests are processed at the same speed, therefore the difference in performance between CL2 and CL3 modules is negligible.
+What Are Banks?
+Some motherboards use a system that divides the memory slots into banks. Your system may or may not use banks. If your computer has eight 30 Pin Memory slots they are probably banked into 2 banks of four slots. If your system is banked you will need to fill each bank with matching pairs of SIMMS. These banks are usually numbered, such as bank 0 or bank 1. As a general rule, on a 486 based system, each socket operates as 1 bank, therefore 1 module can be installed at a time.
+Modules must be installed in pairs for Pentium based system that use 72 Pin Simms.168 Pin and 184 Pin and 240 Dimms can be installed in single pieces. Rimm modules are installed in pairs with motherboards that have 4 memory slots but can be installed in single pieces on motherboards that have 2 memory slots.If you have a "dual-channel" system and want to take advantage of that technology, you will need to ensure that the modules in each memory slot are the same density.
+After I have installed my new module the machine seems slower?
+Unfortunately there can also be times when installations slow down the machine. If you have come across this problem then the likely cause will be that the machine does not have enough cache to handle the extra memory. Therefore in order to upgrade the machine you will need to first obtain a new motherboard.
+What is Unbuffered/Buffered/Registered Memory ?
+EDO (Enhanced Data Output) and FPM (Fast Page Mode) modules can be buffered or unbuffered. Buffered modules contain a buffer to help the motherboard cope with the electrical load when the system has a lot of memory.
+DDR (Double Data Rate) and SDRAM (Sync Data Random Access Module) modules are either unbuffered or registered. Registered modules have a register that delays the transfer of data by one clock cycle.Unbufferred modules are generally found in desktops and laptops. Bufferred and Registered modules are typically found in servers/workstations where data is extremely important.
+Should I install the larger memory module in the first slot?
+Yes, by installing the largest capacity module in the first slot on the board you will normally receive better performance
+Will installing more memory help my applications run faster?
+By adding more memory to your machine, you are allowing the system to use the memory as and when it needs to. If you are running intensive memory applications such as games, image software or large databases then the more memory you have installed the quicker and easier the system can cope with the data processing requirements.
+If you have installed a memory upgrade and you cannot see any performance advantage you may find that they system does not need to utilise the memory for the applications that you are using. Also take into consideration that memory is not the only upgrade available to increase the performance of machines.
+How do I know if I need more memory?
+If you have begun to see your machines system performance start to slow down and you can also hear the hard drive working constantly then you will need to upgrade your memory.The hard drive is working overtime as there is not enough RAM memory for the system to use in order to complete its tasks. Therefore the system is sending information to and from the hard drive to accomplish this. As RAM memory works faster then hard drives the system performance will therefore seem slower.
+What is the difference between Parity and ECC modules?
+For EDO or FPM modules. there are Parity or Non-Parity modules. Parity modules detect single-bit data errors.With SDRAM and DDR modules you will see ECC or Non-ECC modules. Error correcting code (ECC) modules detect and correct single-bit errors but they also detect and report double-bit errors.
+Is it difficult is it to install memory?
+It is very straightforward to add memory to a machine. The task generally requires you to locate the memory expansion slots on the machine, push the memory into the expansion slots and then re-boot the machine. The system will then recognise the memory automatically.
+What are 168 Pin Dimms (Dual Inline Memory Module) ?
+A 168 Pin Dimm is approximately 5 inches in length and 1 inch in height and contains 84 Pins on either side. It is referred to as a 168 Pin Dimm because it reads both sides of the Dimm simultaneously. The Dimm is different from the Simm in that it has two notches on the contact edge and inserts into the socket straight down, without the need for tilting. Dimm sockets also have release tabs at each end which acts as a lever to push the module up out of the socket during removal. There are several different flavours of Dimm, including FPM, SDRAM (7, 8,10,12 Megahertz), EDO (Buffered, Non-Buffered, 3.3V & 5V). ECC (Error Correction Code) and Registered. It is imperative to select the correct type of module when upgrading. Our memory configurator located on our home page will identify the correct upgrades for your model.
+Should I install PC66, PC100 or PC133 ?
+As a general rule, SDRAM is backwards compatible, therefore a PC133 Dimm can operate at 133Mhz, 100Mhz and 66Mhz. Certain systems though that require 66Mhz SDRAM modules will not accept PC100 or PC133 modules. In addition to the speed, the chip configuration of the module is also important. Use our memory search facility located on our home page for guaranteed compatibility.
+What is 2-clock SDRAM ?
+2-clock SDRAM refers to the first generation of SDRAM that used 2 CK, or Clock lines, to synchronize the memory chips with the motherboard. The important thing to note is that systems that require 2-clock SDRAM won't accept 4-clock SDRAM and vice versa.
+What are 184pin Rambus Rimms ?
+A 184 Pin Rimms is approximately 5 inches in length and 1 inch in height and contains 92 Pins on either side. 184 Pin Direct Rambus Rimm Modules delivers pure performance where it matters most: leading-edge applications. RDRAM's 32 bank architecture supports up to four simultaneous transactions per device. Clock frequency currently offered include 800Mhz and the latest 1066Mhz modules.
+What are 232pin Rambus Rimms ?
+A 232 Pin Rimm is approximately 5 inches in length and 1 inch in height and contains 116 Pins on either side. 232 Pin Direct Rambus Rimm Modules (PC4200 - 32bit) are an industry first high-speed RDRAM module. The module has a 2-channel feature, boasting record operating speeds of 4.2gigabytes per second (GBps). This is 4X faster than a conventional SDRAM module and 2X the performance of DDR SDRAM module. Present RDRAM based PCs are found with single channel modules that normally has at least two modules working as a pair. In contrast, the RIMM4200 module can be installed in single pieces which facilitates easier memory upgrades for the end user.
+What are 184 Pin Dimms (Dual Inline Memory Module) ?
+A 184 Pin Dimm is approximately 5 inches in length and 1 inch in height and contains 92 Pins on either side. 184 Pin DDR Dimms are designed for the latest desktops and servers. Each 184 Pin Dimm provides a 64-bit data path, so they can be installed singly in 64-bit systems. To use DDR memory, your system motherboard must have 184-pin DIMM slots and a DDR-enabled chipset. DDR SDRAM (Double Data Rate-Synchronous DRAM) is a type of SDRAM that supports data transfers on both edges of each clock cycle, effectively doubling the memory chip's data throughput.
+Can I install PC3200 (400Mhz) alongside my original PC2700 (333Mhz)?
+DDR memory has been manufactured to be backward compatible so you can add faster memory modules to your machine. For example, if you install a PC3200 module alongside an original PC2700 module the memory will wor and be fully compatible but you will not gain any performance benefit, as the PC3200 module will be clocking down to PC2700 to run alongside the original PC2700 module installed.
+Can I install PC2700 (333Mhz) alongside my original PC2100 (266Mhz)?
+DDR memory has been manufactured to be backward compatible so you can add faster memory modules to your machine. For example, if you install a PC2700 module alongside an original PC2100 module the memory will work and be fully compatible but you will not gain any performance benefit, as the PC2700 module will be clocking down to PC2100 to run alongside the original PC2100 module installed.
+What is dual-channel DDR/DDR2 memory
+Dual channel refers to the DDR/DDR2 chipset on specific motherboards that have two memory channels. Motherboards with this feature can provide upto an additional 10% performance improvement. In order to take advantage of this technology you simply need to order and install the modules in pairs but they must be exactly the same specification to perform correctly.
+What are 240pin DDR Dimms?
+DDR2 memory modules are currently offered in three frequency ranges, 400MHz, 533MHz and 667Mhz.240-pin DIMMs are used to provide DDR2 SDRAM memory for desktop computers. Each 240-pin DIMM provides a 64-bit data path (72-bit for ECC or registered modules), so they are installed singly in 64-bit systems.240-pin DIMMs are available in DDR2 PC2-5300 (DDR2-667), DDR2 PC2-4200 (DDR2-533) or DDR2 PC2-3200 (DDR2-400) but faster speeds are frequently being developed. To use DDR2 memory, your system motherboard must have 240-pin DIMM slots and a DDR2-enabled chipset.
+My machine uses DDR modules Can I install DDR2 memory?
+No, DDR2 DIMM memory modules are not backwards compatible with DDR DIMM, due to incompatible pin configurations, core voltage, and memory chip technology. DDR2 modules are designed with a different "key" in the edge connector to prevent insertion into incompatible memory sockets such as DDR motherboard. A DDR2 SDRAM DIMM will not fit into a standard SDRAM DIMM socket or a DDR DIMM socket. DDR2 modules use a 1.8V power supply, providing a big power saving over the 2.5V DDR modules.
+What are 200 Pin SoDimms (Small Outline Dual Inline Memory Module) ?
+A 200 Pin DDR SDRAM Module is approximately 2.625 inches in length x 1 inch in height and are designed for the latest laptops. Each 200 Pin module provides a 64-bit data path, so they can be installed singly in 64-bit systems. DDR SDRAM (Double Data Rate-Synchronous DRAM) is a type of SDRAM that supports data transfers on both edges of each clock cycle, effectively doubling the memory chip's data throughput.
+What are 200pin DDR2 SoDimms ?
+200 Pin DDR2 SDRAM Modules are designed for the latest laptops. Each 200 Pin DDR2 module provides a 64-bit data path, so they can be installed singly in 64-bit systems. DDR2 SDRAM (Double Data Rate-Synchronous DRAM) is a type of SDRAM that supports data transfers on both edges of each clock cycle, effectively doubling the memory chip's data throughput. Manufactured using premium brand chips from Samsung, Hyundai, NEC etc.
+What are 144 Pin SoDimms (Small Outline Dual Inline Memory Module) ?
+A 144 pin SoDimm is approximately 2.625 inches in length and 1 inch high and are commonly found in laptop computers. Each 144-pin SODIMM provides a 64-bit data path, so they are installed singly in 64-bit systems. 144-pin SODIMMs are available in EDO, PC66, PC100 and PC133 SDRAM.
+What are 144pin MicroDimms ?
+A 144 Pin SDRAM MicroDimm is approximately 1.545" x 1 inch in height and is designed for laptops. Each 144-pin MicroDimm provides a 64-bit data path, so they are installed singly in 64-bit systems. 144-pin MicroDimm are available in PC100/PC133 SDRAM.
+What are 172pin DDR MicroDimms?
+A 172 Pin DDR MicroDimm is 1.75" in length x 1.25" high and is designed for laptops. Each 172-pin MicroDimm provides a 64-bit data path, so they are installed singly in 64-bit systems.
+×
+Contact form for the Privacy Officer
+You can contact the Offtek Privacy Officer at any point should you have any queries relating to our "Privacy Policy".
+This form allows you execute your right to be forgotten. You have the right to object to our use of your personal data, or ask us to view, edit, remove or stop using it if there is no need for us to keep it.
+In order to comply with your request, we may ask you to verify your identity.
+If you request removal of your personal information, we may as detailed within our Privacy Policy be required to retain some of your data for a minimum period.
+First Name
+Last Name
+Company Name(if Applicable)
+Email Address
+Enquiry
+We will only use your details to provide a response and/or to complete your request.
+By submitting this form you confirm you are aged 16 years or older and agree to our Privacy & Cookies Policy and Terms & Conditions. Submit

@@ -1,0 +1,492 @@
+https://jeffjonas.typepad.com/jeff_jonas/privacy/
+Jeff Jonas
+A collection of thoughts on information management and privacy in the information age, injected with a few personal stories.
+About
+Your email address:Powered by FeedBlitz
+April 2018
+Sun
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Archives
+April 2018
+January 2018
+November 2016
+February 2016
+January 2015
+January 2014
+November 2013
+January 2013
+November 2012
+June 2012
+Subscribe to this blog's feed
+Blog powered by Typepad
+Become a Fan
+January 27, 2018
+Meet Senzing. Meet G2. Say Hello to Entity Resolution 2.0
+[Re-posted in full from my LinkedIn blog post]
+Good morning world!
+We are Senzing and this is a big week for us.
+We’ve been operating in stealth mode since August 2016 when we signed a unique partnership with IBM to license the G2 technology.
+Following an additional year and a half of engineering, today I can confidently tell you that Senzing has the most advanced Entity Resolution technology on the planet. Our new tag line Smarter Entity Resolution™ speaks to a slew of new advanced features like G2’s ability to self-tune and self-correct the past, all in real time.
+G2 is Entity Resolution 2.0.
+What is Entity Resolution 2.0? It’s technology that determines who is who in your data. Entity Resolution helps any organization, large or small, transform piles of identity data into actionable data that can be used for fraud detection, risk, marketing and just about everything.
+Entity Resolution has been an expensive, complex and time-consuming practice to make work. No more. We reinvented Entity Resolution so that it no longer requires Entity Resolution experts. Never has Entity Resolution been so easy to use. Never has Entity Resolution been so affordable.
+After creating five generations of Entity Resolution software over several decades, we ultimately decided a true next generation capability would require starting over from scratch. In 2009, nine years ago, we started designing G2 with Privacy by Design (PbD) being a first principle.
+Now G2 is self-learning and self-correcting. It’s plug and play – you download the software, feed it your data, and run it at your location or on your cloud. No training is required. Anyone can use it.
+We are very proud to introduce you to the first real-time machine learning Entity Resolution product on the market – G2.
+Who needs it? Financial services, marketing companies, law enforcement … anyone hunting bad guys, looking for fraud, interested in GDPR compliance, wanting to know customers better. You need G2.
+More on G2’s approach to these use cases can be found on Senzing’s website or in future blog posts.
+Stay tuned.
+07:06 AM in Information management, Privacy
+| Permalink
+|
+Comments (0)
+January 29, 2015
+G2 is 4
+Following two and a half years of incubation, G2 was revealed four years ago yesterday.  You ask, “What is G2?” Well, it is specialized Context Computing software, of course. “What is Context Computing?” you now ask. Well, check out this six minute video I made to explain Context Computing!
+G2 is seeing some exciting successes. Successes that my team and I are quite proud of. For example:
+In conjunction with the Singaporean government and in partnership with Singapore Technologies, we used G2 to help better focus human attention. In this case, G2 is helping the government decide which vessel traveling through the Malacca and Singapore Straits is of the greatest interest, right this second. With half the world’s oil supply and one-third of the world’s commodities passing through these water ways, this is a non-trivial, mission critical task (see video). One reason we picked this project to “sea trial” G2 is because of the substantial amount of geospatial data – data about where vessels are, and when and how they move. Combining geospatial data with other structured and unstructured sources dramatically improves the ability to discover truly interesting insights.
+In conjunction with The Pew Charitable Trusts, we used G2 to help modernize voter registration in America, enabling several states to get hundreds of thousands of new voters registered, as well as ensuring that their voter lists are more accurate and up-to-date. Using “Selective Anonymization,” one of our baked-in Privacy by Design (PbD) features, the system keeps private data private as member states are not sharing any human readable Personally Identifiable Information (PII) when they send their data to the data center. The ability to perform Context Computing over anonymized data to discover insights was essential to this system’s adoption and subsequent success (see video). When organizations can share anonymized data and get a materially similar result, why would they ever share data any other way? It is for this reason I am very optimistic that Selective Anonymization is going to become rather popular.
+Over 1,000 customers have downloaded G2 via our “Entity Analytics” and/or “Entity Analytics Unleashed” feature that ships inside of SPSS Modeler Premium, a data mining tool (see video and paper). This super easy-to-use feature helps organizations quickly determine who is who and who is related to whom. The enhanced context that comes with reconciling and relating entities helps organizations discover higher quality models. Higher quality models means better business outcomes. One example: At a recent conference someone walked up to me thanked me for the technology – he said G2 discovered over a hundred thousand falsely enrolled students, unraveling a huge scam in his country’s education system.
+Most recently, we have been heads down developing and deploying a new end-to-end solution that will soon hit the market called “Sensemaking for Anti-Money Laundering (AML).” This G2-based system helps banks better triage the massive number of AML leads that their existing transaction monitoring engines generate – primarily false leads that misdirect analyst attention. G2 insights help inform the analyst of critical data points. More informed analysts are then able to be more productive (higher quality work) and more efficient (significantly less time) on each case they investigate. While the solution is very lightweight and easy to attach to existing infrastructure and investments; it is nonetheless a heavily logged and fully reconciling system, as one would expect from such a highly regulated activity. We have seen fantastic results at customer one. Other financial institutions are now lining up to achieve similar gains.
+A few technical details for my techie friends.
+While we can run on a SQL engine (Oracle, DB2) we are optimized for Key Value data stores. We have a new Key Value data store we are testing with that runs on Remote Direct Memory Access (RDMA). This is scaling linearly and due to its ultra-low latency, it is the first data store we have ever seen where the bottleneck moves from I/O to CPU! Damn exciting.
+Thanks to the underlying high speed streaming engine called InfoSphere Streams, we are able to compute Space Time Boxes (STB) and Hang Outs (places things dwell) at a rate of 200k per second per core. I’ve long been fascinated with geospatial data. Recently, we used our STBs to forecast asteroid vs. asteroid interactions over the next 25 years – an astronomy paper is forthcoming. More details here in this speech: Asteroid Hunting & Other Stealthy Things. Geospatial data related to people is going to be extraordinarily useful; but also will come with major privacy issues. We are envisioning that anonymized STBs (using our Selective Anonymization feature) will greatly reduce the risk of unintended disclosure and/or misuse of geospatial data too.
+Near term focus is now on reducing CPU in the G2 core and getting data in, out, and onto Hadoop File Systems (HDFS) for those organizations landing more and more data and analytics on Big Data – on premise and/or in the Cloud.
+Many more exciting things to come including features I refer to as Selective Curiosity and the Hint Service.
+2015 will be a big year for G2.
+FYI: My new title over here at IBM is: Chief Scientist, Context Computing. Fitting, as this does happen to be my obsession.
+RELATED POSTS:
+G2 | Sensemaking – One Year Birthday Today. Cognitive Basics Emerging.
+G2 | Sensemaking – Two Years Old Today
+G2 | Sensemaking and its 7 Secret Sauces
+09:16 PM in Information management, Privacy
+| Permalink
+|
+Comments (0)
+January 28, 2014
+G2 | Sensemaking and its 7 Secret Sauces
+Once a year, on its birthday, I say a few words about my G2 project.  Three years ago today, G2 was made public on International Privacy Day in 2011.  With two years of secret “skunk works” development before that; G2 is now five years in the making.  It is no small endeavor.
+More background on G2 | Sensemaking can be found here.
+I get asked from time-to-time to describe what makes G2 different.  So this year, I’m going to highlight seven rather unique features of G2 – aka seven not so secret sauces.
+1. Principle-based Context Accumulation
+Systems that make decisions about “when things are the same or related” generally require lots of data for training and/or experts to dictate very domain specific rules.  Lots of data for training is easier said than done, unless you are Google.  And domain experts can be hard to come by when you need them; and after they come and go, one finds themselves being encumbered by an ever growing and complex set of rules – rules few if any will ever fully understand.
+Principle-based context accumulation is a new technique to determine “when things are the same or related” that requires neither training data nor experts.  As new data sources (e.g., the company’s asset management system), entity types (e.g., vehicles) and features (e.g., VIN numbers) are introduced to G2, there is no need to first see training data or extend an already unwieldy set of rather brittle rules.
+Preparing G2 to make sense of new data sources, new entity types and new features will often take less than ten minutes.  Immediately thereafter, one can start pumping vehicle related data into G2 and G2 will be able to differentiate when two vehicles are the same or related, without any other configurations/complexity.
+How? Adding new data sources and entity types is nearly effortless – so simple that this should take no more than two minutes to introduce G2 to these concepts.  Describing the new kinds of features to be expected (e.g., for a vehicle these might include VIN, license plate, make, model, year, color) is the time-consuming part … might even take eight minutes.  This configuration step requires that the user define three behavior options for each added feature:
+Frequency: How many entities generally share the same value? One, Few, Many?
+Exclusivity: Does an entity generally have only one such value? Yes, No?
+Stability: Is this value generally stable over the lifetime of the entity? Yes, No?
+For example, a VIN number is simply introduced to G2 as an “F1ES” (Frequency one, Exclusive and Stable) because a VIN number typically refers to exactly one vehicle, a vehicle generally have only one VIN number (i.e., Exclusive), and a VIN number remains the same over its lifetime (i.e., Stable).  The “Make” feature is “FMES” (Frequency Many, Exclusive and Stable).  Color would be “FM” (Frequency Many, and not Exclusive or Stable) because a car can have multiple colors and can be repainted anytime.  Keep in mind these are guidelines, not hard and fast behaviors.  For example, G2 would detect that a VIN of “00000000” is not behaving as expected and take this into account, auto-magically.
+Because all features are described as having expected behaviors; a small, manageable number of abstracted rules (aka principles) rely on only these feature behaviors to assert, persist and manage context (determining same and related).  As a result, in most cases, G2’s default principles will be all you will ever need.  So an organization can start with people and organizations and then pivot to vehicles, vessels and routers without training data and without the need for experts to build upon ever expanding, elaborate, rules.
+2. Sequence Neutrality at Scale
+I use the term “Sequence Neutrality” to mean: Did the records arrive in the order of [A, B, C] or some other order like [C, A, B]?  Regardless of the arrival order of the data, the end-state should be the same.  It took my team and me roughly 20 years of building and deploying entity resolution systems before we stumbled into this most subtle, essential behavior.
+Imagine if you learned of a [Mark, 111-22-333] first and a [Mark, Mark@email.com] second.  With just these two records there is no basis to claim they are the same (based on just the same first name) so they become Entity1 and Entity2.  Some time later you learn of a [Mark, 111-22-3333, Mark@email.com]; with this information, one could reasonably assert that Entity1 and Entity2 are the same.  As such, this third record should cause Entity1 and Entity2 to collapse into a single Entity – an entity now containing all three observations (records).
+Many systems cannot do the above; something we call “re-resolve.”
+Few systems can do the reverse, using a new observation to fix previous false positives; something we call “un-resolve.”
+And no other technology, to my knowledge, can perform such re-resolve and un-resolve events while managing the relationship graph, in real-time, and at scale.  The fastest we can do this today in our existing industrial strength engine is roughly 2k/second over a database containing >10B records and >500M entities.  G2 is specifically designed to smoke these numbers.
+Sequence Neutrality is non-trivial.  Essentially, this concept means that new observations can reverse earlier assertions.  Imagine that.  When ingesting the 10 billionth observation, not only does G2 figure out how it relates to what is known, it also asks the question “Had I known this in the beginning, over the 10B previous observations and assertions I have already made, should I have made any of these assertions differently?”  And if so, these Sequence Neutral algorithms fix the past while integrating the new observation.  G2 has been specifically designed to do this at extraordinary scale, far beyond anything the world has seen yet.
+How?  We have fundamentally re-engineered the underlying schemas to work on a distributed number of computers (call it “optimized for the elastic cloud” if you like).  We also have introduced a slight increase in compute during ingestion that pays off big time later when dealing with entities containing very large numbers of conjoined records.  That is about all I am willing to share at this time.
+I think this will be the single most difficult aspect of G2 for others to replicate.  And its importance is paramount.  Without Sequence Neutrality new data can cause databases to drift from the truth – data drift.  One common remedy for data drift involves periodically tearing down and reloading the entire database; obviously, the larger the database the less fun this is.  As well, the exciting “Big Data. New Physics.” phenomenon I have described, whereby a system becomes more accurate and faster as more data is loaded cannot be attained without this Sequence Neutrality behavior.
+How hard is this?  Now with over 10 years of engineering experience in Sequence Neutral algorithms, my G2 team and I continue to learn, tune, weep, fix and dream.  Nonetheless, I think we are years ahead – if not a decade ahead.
+3. Privacy by Design (PbD)
+We, just three of us at the time, spent the first year designing G2 on paper, drafting detailed design specifications.  From day one, we felt it was important to bake-in as many privacy and civil liberties protecting features as we could fathom.
+All seven of our Privacy by Design features can be read about here: Privacy by Design in the Era of Big Data.  We are proud to say that G2 may have more baked-in privacy features than any other, even remotely similar, technology.
+Features like Selective Anonymization (a capability that now ships with SPSS Modeler Premium V16) will allow an organization to perform rich analytics without using human readable forms of Personally Identifiable Information (PII).  This PbD feature reduces the risk of unintended disclosure – and in this day and age given all of the data breaches – this one feature may very well become a business imperative.
+4. High Tolerance for Uncertainty
+“The test of a first rate intelligence isthe ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.”
+F. Scott Fitzgerald, "The Crack-Up", Esquire Magazine (February 1936)
+There is a lot of uncertainty, ambiguity and conflicting information in the real world.  Traditional systems and processes spend considerable effort trying to remedy uncertainties and errors … as they yearn to establish a single version of truth.  Not G2.    There are stark differences between the intentions of Master Data Management (MDM) vs. Sensemaking.
+The G2 technology has a high tolerance for uncertainly (e.g., they might be the same or related), ambiguity (e.g., this Pat record could be this Patrick or that Patricia) and information in conflict (e.g., a person who reportedly has eleven reported dates of birth).  In fact, we find that all this natural variability in data – albeit disconcerting at times – is valuable and makes our system smarter.
+Turns out: Sometimes bad data is good.  Before you pooh-pooh this crazy talk, might I remind you that you have already seen and benefitted from similar nonsense.
+When you search Google and it says “Did you mean this?”
+Google is not using a dictionary.
+Rather, it has remembered all the errors.
+If Google had not remembered all the errors (natural variability), it would not be so smart.
+G2 is well suited to manage millions and even billions of uncertainties, ambiguities, and contradictions.  And there is no compelling need for humans to review all these maybes.  Instead G2 is quite comfortable letting all these uncertainties just fester – waiting for new information to bring clarity, or not.
+G2 is smarter for this reason.  For example, because G2 has such a high tolerance for information in conflict (e.g., noting someone has eleven different dates of birth) G2 comes to realize on its own that it is confused.  Why is this important?  Well, if you are looking to analytics to make important decisions, wouldn’t you want to know during the decision-making process if there was any related confusion before action is taken?
+5. Selective Curiosity
+Now imagine all of those maybes, uncertainties, ambiguities and dissent, floating around as described above.  Most of those maybes don’t matter and never will.
+Imagine a system that routinely comes upon maybe conditions.  And with each such occurrence the system asks itself “If this was true, would it matter?”  Of course, most of the time the answer would be no.  In this case G2 moves on, as it lets this uncertainty fester.  But every now and then, as you might imagine, one stumbles upon a maybe whereby if it turned out to be true … Holy Crap!  Summon the police – Billy the Kid is in the house!
+The G2 Selective Curiosity feature, is just that, selectively curious.  It finds a maybe that would matter.  It figures out what it wishes it knew (e.g., If I just knew the work address …).  It figures out where it should go to ask for such a data point (e.g., Google, LexusNexus or … wait for it … a Jeopardy! champion).  Then G2 asks.  And if lucky, the next inbound observation from this inquiry confirms or denies.  It won’t always be so lucky, of course, but such is life.
+6. Geospatial Awareness
+I firmly believe geospatial data – data about where things are when – will prove to be the highest order bits when it comes to Sensemaking systems.
+The power of geospatial data and the privacy ramifications are mind-numbing.  If you want to get excited and creeped-out at the same time about all the potential of geospatial data, check out this session Jennifer Lynch of EFF and I delivered at the 2013 SxSW Conference entitled “I Know Where You're Going: Location as Biometric.”
+With G2 I have introduced the notion of Space-Time-Boxes (STB’s).  A STB is used to group nearby coordinates with nearby time.  The conversion of geospatial data to STB’s enables exceptionally fast correlation of space and time.  The technique also helps account for rather large errors in precision, although these details are beyond the scope of a happy birthday G2 blog post.  [We have a few techie papers.  If you want to know more and are willing to agree to no further redistribution, drop me a note and make your case.]  In short, STB’s will allow G2 to contribute to new and exciting domains ranging from better identity theft protection and maritime domain awareness to the hunt for asteroids.
+Note: While asteroids don’t have privacy, when dealing with geospatial data about consumers I first strongly recommend you let them opt-in.  And then if you are going to perform compute over their geospatial data I would encourage you to use STB’s in conjunction with G2’s Selective Anonymization feature (as discussed above in the Privacy by Design section).  This means rich geospatial analysis can be performed while at the same time reducing the risk of unintended disclosure.
+7. Diverse Perspective
+Imagine a rather large pile of messy puzzle pieces (some pieces missing, some duplicates, some professionally fabricated lies, etc).   If we gave exactly this same set of puzzle pieces to two people, and gave them each some finite amount of time to make the most of it.  Do you think both assemblies would be exactly the same?  Of course not.  Now, while much of the puzzle assembly is likely to be in agreement between these two people, one may have missed a few obvious connecting pieces (false negatives).  The other may have inadvertently connected two pieces in error (false positives).
+Why is this?  Despite having the same observation space presented to them … they each used their own strategy and biases to assert which pieces belonged where.
+For example, one analyst considers name and date of birth sufficient evidence to claim someone is the same (rarely a good idea by the way).  Another analyst believes this should be treated as just a potential match – at least until more evidence emerges such as a similar address.  Maintaining both perspectives allows G2 to notice there may be different opinions about the contextual interpretation of things, despite the fact the observation space is the same.
+Under the covers, G2 utilizes the notion of a “Lens.”  Raw observations are maintained in a single place and in a single state.  Interpretations about how these observations relate to each other are managed and maintained through one or more “Lenses.”  This Lens construct allows varying perspectives to co-exist over a single observation space.
+The ability to recognize Diverse Perspectives is essential to Sensemaking as this enables, among other things, one to notice there is a Minority Report when considering critical decisions.
+Disclaimer
+Of the seven capabilities described above, items 1, 2, 3, 4 and 6 are in relatively decent working order.  We have not yet started working on items 5 (‘Selective Curiosity’) and 7 (‘Diverse Perspectives’) – these are on our road map.  I have lots of things on the G2 roadmap – at least a few more years’ worth of exciting features.
+In Closing
+G2 is not trying to deliver Artificial Intelligence or Cognitive Computing.  That said, I think G2’s capacity to deliver “incremental context accumulation” may be a fundamental stepping stone for such things as Artificial Intelligence and Cognitive Computing in the future.
+To be clear about what G2 is and is not:  G2 does not extract structure from unstructured data.  G2 does not discover new patterns (more about the relationship between what G2 does versus “Deep Reflection” here in this video).  G2 does not express itself in any human consumable, visual form (think XML in, XML out).  While G2 does not do these things, one day G2 may help these technologies do these things better.
+So what does G2 do?  Put in the simplest terms: G2 helps finds the obvious.
+“All truths are easy to understand once they are discovered; the point is to discover them.”
+Galileo Galilei (1564-1642)
+So what is so great about G2?  Well … yes, it finds the obvious … at the moment it becomes knowable, over billions and billions of historical observations, in real-time, responding fast enough to do something about it while it is still happening.
+Availability, you ask … How do you get some?  Well, this is not open source, my friend.  And if you are waiting for anything close to appear in open source, I suggest you do not hold your breath.  Fear not, there is a relatively inexpensive way to get your hands on G2.  In fact, there is some chance if you work for a big company you may already own it.  A light-weight version of G2 is now commercially available via SPSS Modeler Premium V16.  This very easy to use version of G2, manifesting itself as the “Entity Analytics” node, which is included at no charge.  If you own this, you can get real business done today.  It comes with Selective Anonymization and Space-Time-Boxes (STB’s) too.  And, if you have more than 10M records and want to benefit from degrees of separation (how entities are related) there is an “Entity Analytics Unleashed” version that will cost you a few more bucks.
+As you can probably tell, this project is my “MAIN THING” and is very exciting.  I would like to thank my team that works tirelessly as they perform their engineering feats of strength.  And, last but not least, I would like to thank IBM, my employer, for their faith in this work and the significant investment they have made to date and continue to be making.
+MORE ABOUT SPSS MODELER WITH ENTITY ANALYTICS (G2):
+Using Entity Analytics to Greatly Increase the Accuracy of Your Models Quickly and Easily (Video and paper)
+RELATED SPEECHES:
+Analytics Education Series.  Case Study: Entity Resolution
+I Know Where You're Going: Location as Biometric (SxSW Conference 2013)
+RELATED POSTS:
+G2 | Sensemaking – One Year Birthday Today. Cognitive Basics Emerging.
+G2 | Sensemaking – Two Years Old Today
+Big Data. New Physics
+Entity Resolution Systems vs. Match Merge/Merge Purge/List De-duplication Systems
+It Turns Out Both Bad Data and a Teaspoon of Dirt May Be Good For You
+Privacy by Design in the Era of Big Data
+To Anonymize or Not Anonymize, That is the Question
+Your Movements Speak for Themselves: Space-Time Travel Data is Analytic Super-Food!
+Structuring Unstructured Data
+10:43 AM in Information management, Privacy
+| Permalink
+|
+Comments (0)
+|
+TrackBack (0)
+January 13, 2014
+NSA Superheroes Help Fix Everyone’s Internet #WildIdeas #SpyReboot
+I do believe it is game over for business as usual for those in the intelligence business.  Radical reinvention of the US intelligence community is in order.  What we need now are big, creative, wild ideas as we re-create our next generation, world-class, trusted, hyper-efficient, and globally admired intelligence apparatus.  I explained this thinking here #SpyReboot.
+With this in mind … how about this crazy idea for starters:
+Maybe one of the NSA’s new roles would include: timely and vigilant disclosure of every zero-day exploit, design weakness or other discovered vulnerability they find in the world’s information and communications technology infrastructure.  These discreet disclosures would be made to manufacturers globally – US and foreign companies alike, including for example the Chinese company Huawei.  Why?  Well, most of the world is friend, not foe … and lots of our friends use other people’s stuff.
+While patching these hardware and software deficiencies is the responsibility of the manufacturer; just because they are notified is no guarantee they act.  So maybe one way to compel manufacturers to take action would involve publishing some specific statistics about how many discovered/disclosed vulnerabilities remain un-answered- all in the name of transparency, of course.  If manufacturers competed for security and trust around these public statistics, maybe everybody wins.
+The NSA will still be sneaky.  And if this sneaky work uncovers new vulnerabilities being eyed by foreign governments or criminal organizations, these too will be revealed.
+True, we will be shooting ourselves in the foot with respect to our ability to penetrate some significant, hard to reach adversaries.  But balance this cost with the many upsides: (1) The world’s infrastructure is more secure; 2) Global banking is less at risk; (3) There are fewer data breaches as it becomes harder for bad guys to steal data; (4) Average citizens world-wide will have more confidence in the security of their private communications; (5) Dissidents in oppressive countries will be less at risk when speaking up; (6) The amount of stolen US intellectual property over cyber channels will see all-time lows; (7) US technology manufacturers will recover much of the world’s trust in its ability to produce safe and secure products.  Outcomes of such significance may well be worth the loss of some intelligence collection.  Oh and by the way, I think foreign intelligence organizations will be at least as disadvantaged as the US, as their exploited foreign (and domestic) pipes that they currently enjoy also begin to dry up.
+This one shift in mission would help level the cyber playing field in a way that the US could lead with credibility – yes, in part because the world now knows (thanks to the leaked documents) just how superior the NSA is, offensively.
+The word ‘loved’ might be too strong, but do not underestimate the goodwill and trust towards the USA that would come from the free, voting people of the world as the NSA takes on the mission to help secure the Internet for everyone.
+The NSA will still be expected to carry out offensive espionage, including SIGINT collection against foreign targets.  And just because they have discretely disclosed the vulnerability to a manufacturer does not mean they won’t exploit the hell out of it until someone patches it.  The NSA will also surely be investing in and using other clever (secret) methods – methods other than weakened, commercially available technology.
+This might actually be a horrible idea.  I don’t know.  The devil is in the details.  How would this be implemented?  What is the new oversight mechanism?  What kind of transparency would accompany this mission?  Would publishing the total number of disclosed vs. fixed vulnerabilities by manufacturer and product really compel companies to make fixes faster?
+Oh, and while I am thinking about it: to maximize this Jiu-jitsu move, maybe this white hat team of NSA geniuses should be moved from the NSA to a different organization, e.g., National Institute of Standards and Technology (NIST), National Telecommunications & Information Administration (NTIA) at the Department of Commerce, or Federal Communication Commission (FCC).
+This idea might be too wild, or God forbid, not wild enough.  One thing is clear – we need to break out of the old ways of thinking.  Instead, let’s all start focusing on wild ideas in general, ideally hundreds of such ideas, as we envision a next generation, trusted, world-class, hyper-efficient, and globally admired intelligence apparatus.
+Lots of law and policy have to be fixed too – wait till you hear my wild idea about what to do about the problematic “3rd Party Doctrine.”
+RELATED POSTS:
+#SpyReboot
+03:13 PM in National security, Privacy
+| Permalink
+|
+Comments (3)
+|
+TrackBack (0)
+#SpyReboot
+When the captain of the Titanic learned five compartments of its hull had been breached by the iceberg, he knew what was going to happen next.  When thinking about the scope of Snowden’s disclosed documents (e.g., NSA’s ANT Division Catalog of Exploits), it seems to me one could come to a pretty quick conclusion about what happens next: Game over for business as usual for the US intelligence community.  It is time to reboot the US intelligence community – doing this will require big, creative, wild ideas.
+The intelligence community is already in a monster pickle and the world has only seen a fraction of the documents, if the reported number of stolen documents is true.
+From the 80,000 foot view I can foresee so many second and third order effects in the future – it’s quite mind numbing.  Sure, we now have a bigger chunk of the US population that does not trust our government; a growing concern over the erosion of our 4th Amendment in the name of national security; and a global outcry saying ”foul.” Important debates around these things are happening now.  But this is not even remotely half the problem for the US intelligence community.
+Foreign manufacturers of information and communications technology (ICT) are surely going to use these revelations to undermine US products in their sales pitches.  US industry is at risk of losing billions in business over coming years, whether they were called out in the Snowden documents or not.
+Foreign intelligence organizations may look upon these documents as roadmaps and best practices.  If these organizations point these new capabilities inward, especially in less democratic countries, the citizens of these countries will be subject to unprecedented levels of government surveillance.  So the US becomes more transparent and our 300 million US citizens benefit from less wholesale surveillance all the while several billion people experience exactly the opposite.  Unremedied, we, the US, will bear responsibility for this.
+On the current trajectory, trust at home and abroad is going to shake the rafters, economically and otherwise.  All the while our intelligence apparatus is going to see ever-shrinking yields on the money we spend.  Said another way, on the current heading, given the vessel, current weather and coming forecast, the risk to the crew (our democracy) is unacceptably high while at the same time the previous well-traveled route will now prove to be an epic waste of energy.
+While the recent recommendations by the President’s Review Group on Intelligence and Communications Technologies cover a wide range of things worth considering and/or fixing, these are incremental tweaks (e.g., where the metadata lives).  Even if all of these recommendations are followed, a major ‘methods of operations’ reboot is still in order.  From my point of view, making incremental tweaks at this point is akin to the Titanic captain proposing to preserve ship power by re-wiring the electrical system, while the vessel will still, no matter what, be going nose-down.
+Radical reinvention of US intelligence community is in order.  What we need now are big, creative, wild ideas as we re-create our next generation, world-class, trusted, hyper-efficient, and globally admired intelligence apparatus.
+I plan on posting some of my own wild ideas soon.
+I encourage you to propose your own wild ideas too – use the #SpyReboot #WildIdeas hash tags so folks can find them.
+09:33 AM in National security, Privacy
+| Permalink
+|
+Comments (1)
+|
+TrackBack (0)
+January 28, 2013
+G2 | Sensemaking – Two Years Old Today
+My latest big, bold, new invention, is two years old today!
+What is G2?
+When I speak about Context Accumulation, Data Finds Data and Relevance Finds You, and Sensemaking I am describing various aspects of G2.
+In simple terms G2 software is designed to integrate diverse observations (data) as it arrives, in real-time.  G2 does this incrementally, piece by piece, much in the same way you would put a puzzle together at home.  And just like at home, the more puzzle pieces integrated into the puzzle, the more complete the picture.  The more complete the picture, the better the ability to make sense of what has happened in the past, what is happening now, and what may come next.  Users of G2 technology will be more efficient, deliver high quality outcomes, and ultimately will be more competitive.
+Early adopters seem to be especially interested in one specific use case: Using G2 to help organizations better direct the attention of its finite workforce.  With the workforce now focusing on the most important things first, G2 is then used to improve the quality of analysis while at the same time reducing the amount of time such analysis takes.  The bigger the organization, the bigger the observation space, the more essential sensemaking is.
+About Sensemaking
+One of the things G2 can already do pretty darn well – considering she just turned two years old – is ”Sensemaking.”  Imagine a system capable of paying very close attention to every observation that comes its way.  Each observation incrementally improving upon the picture and using this emerging picture in real-time to make higher quality business decisions; for example, the selection of the perfect ad for a web page (in sub-200 milliseconds as the user navigates to the page) or raising an alarm to a human for inspection (an alarm sufficiently important to be placed top of the queue).  G2, when used this way, enables Enterprise Intelligence.
+Of course there is no magic.  Sensemaking engines are limited by their available observation space.  If a sentient being would be unable to make sense of the situation based on the available observation space, neither would G2.  I am not talking about Fantasy Analytics here.
+From Insight to Relevance
+Not often does a single observation fully contain sufficient information to trigger a high quality, immediate reaction.
+Imagine looking out your kitchen windows only to witness your neighbors in an epic fight.  A few days later you witness the husband purchasing a handgun.  A few days later, while trying to fall asleep, you hear a somewhat muffled ”bang” sound from next door.  The next morning, as you leave the house for work, you see the husband dragging a sleeping bag loaded up with something very heavy toward his pickup truck.
+Insights add up.
+From a G2 | Sensemaking perspective, the notion is ”Insight to Relevance.”  Of course, determining what is a bona fide insight and combinations of insights become relevant (for action) and requires domain knowledge, modeling, and other real work.  However, unlike brittle rule-based systems, G2 (like any good Sensemaking engine) performs best when taught principles.
+General Purpose Context Accumulation
+After recently sizing up G2 in action, I pondered what set of features make General Purpose Context Accumulation so unique.
+Complete Context: General purpose context accumulation systems must be indifferent to diverse observations e.g., originating from such sources as structured, semi-structured, unstructured text, social media, pictures, and video each containing events and transactions with temporal, geospatial, identifiers, biographics, biometrics and other features.  To the extent features can be extracted from an observation and delivered to such engines, they contextualize these diverse observations at the same time, in the same data space – every individual observation having an equal opportunity to find and benefit from all other observations.
+Current Context: New observations are incrementally integrated with the whole (puzzle) in real time.  As such, G2 is fully capable of recognizing opportunity and risk at the split-second such relevance becomes knowable.
+Conflicting Context: There is no such thing as a single version of truth when it comes to general purpose context accumulation.  Context accumulating engines let dissent fester.  When you search Google and it says “Did you mean ____?”,  the same principle is at work.  Google is not looking in a static dictionary.  No, Google is remembering everyone’s errors.  If Google did not remember the errors, it would not be so smart.  In the same way, context accumulating systems let disagreement coexist; otherwise new emerging trends and weak signal will never have a chance to add up to anything.
+Self-Correcting Context: This is the most essential ingredient of context accumulation.  I believe few, if any, analytics in the world can do this – and especially at our scale.  Imagine having already seen and contextualized billions of historical observations, and now the next record arrives.  At this moment one must not only decide where to place this new observation, one must also decide if this new observation (had it been known in the beginning of time i.e., first), warrants the reversal of any of the billions of previous assertions.  And if so fix them.  The effect being: new observation can reverse earlier assertions.  Smart Systems Flip-Flop.  Doing this in real-time over billions of observations is non-trivial.  This happens to be the single most technically sophisticated aspect of context accumulation and well worth the last 10 years of effort we have spent researching, tweaking, and tuning our technique.  The difference between our previous method and the new G2 method should be more than an order of magnitude more efficient when dealing with some of the nastiest scenarios that one stumbles upon when implementing algorithms that can change their minds about the past.  In any case, it is this behavior alone that delivers what I call “Big Data. New Physics.”  Essentially, as the observation space widens natural variability in the data (errors) start to become your friend, the false positives and false negatives both begin to self-correct, and at the same time the computation effort required to make sense of the next observation begins to DECREASE as the observation space grows!  Translation: As the database grows, predictions become more accurate while computational effort decreases.  Absolute magic.
+To tell you the truth, one of the most exciting things for me is this: when considering the wide range of unrelated domains I have explored with G2 (from maritime domain awareness and anti-money laundering to genealogy work using the 1880 census) – believe it or not, I think G2 could perform context accumulation over all of them at the same time, on the same computer, in the same database schema, using the same configuration.  Not that anyone would want to, mind you, or should.  Nonetheless, this idea that G2 is so general purpose quickens my pulse simply because this has never been possible before.  You see, I am hopeful that this means G2 will (one day) be able to readily make almost anything smarter – from managing my personal calendar (while better protecting my privacy) to helping researchers head-off some of the most debilitating diseases like Alzheimer’s.
+Exciting Times Ahead
+There is a lite-version of G2 on the market now, deeply embedded in an off-the-shelf predictive modeling product.  I continue to hand select special projects for the big Sensemaking version of G2 to press and stress this technology in new ways – using these “sea trials” to drive her development.   I can’t share details about these efforts just yet but boy she is growing up quickly.  And just to be clear: I am not saying this is easy, far from it, especially in these formative years.  Make no mistake; this is very hard work requiring the team and I to work crazy long hours
+I am a dreamer with a long list specific engineering tasks to further advance G2 – things like ‘selective curiosity’ where G2 thinks of its own questions and knows whom to ask (e.g., a Jeopardy! Champion) and a ”hint service” that among other things may help feature extraction algorithms perform much better (without traditional training data).
+G2 is different than other software, very different.  Another example, saving the best for last, we have built a series of features into G2 for enhanced privacy and civil liberties protections.  These socially responsible features factored into the original blueprints – from conception – a design approach called Privacy by Design (PbD).
+Finally: While I may be driving the G2 vision, I am certainly not building it.  I have an amazing group of engineers who actually do all the real work.  We also have some very patient customers willing to tolerate all the ups and downs that come with being early adopters.  And without both of them none of this would be possible.  So to them I say … thank you.
+[TECH NOTES]
+A few technical comments for my more technically minded friends.  Entirely coded in C++.  Schemas designed specifically for primary key row stores (although capable of running against a SQL back-end).  One index per table, never two.  Application-aware sharding (supporting heterogeneous data stores, table partitioning, and uniform distribution of records over the available grid nodes).  Most tested on DB2.  Eager to finish testing against other popular SQL back-ends.  Hoping to be able to demonstrate near linear scale against a NoSQL row store very soon.  G2 does not run on Hadoop Map/Reduce (because it is not batch), although Hadoop-based systems will certainly benefit from G2’s accumulated context.
+Talk to G2 via HTTP, flat file, SPSS Modeler stream jobs, or compile it into InfoSphere Streams for stream computing over big data.  No user interface work being done at this time.  Using our standard and very simple XML-based Universal Message Format (UMF), G2 eats inbound observations and spits out interesting chunks of the puzzle, aka resumes, when it has something useful to say.
+G2 does not do entity/feature extraction on unstructured data.  G2 does not do pattern discovery or anomaly detection.  Hopefully G2 will one day help such things perform better.
+Just to be clear, G2 is far from perfect – as upon close inspection she clearly has some moles and warts and even still makes poopy pants from time-to-time.  And I am already fretting the teen years.  Nonetheless, despite these distractions, I can say with certainty this is a journey I am deeply committed to, it is the right direction, hence my ongoing and relentless focus and motivation.
+RELATED VIDEOS (In my own words, Courtesy of Redbooks)
+Enterprise Amnesia versus Enterprise Intelligence
+Using Entity Analytics to Greatly Increase the Accuracy of Your Models Quickly and Easily
+RELATED POSTS:
+On A Smarter Planet … Some Organizations Will Be Smarter-er Than OthersWhat Came First, the Query or the Data?
+The Data is the Query
+Data Finds Data
+Puzzling: How Observations Are Accumulated Into Context
+Accumulating Context: Now or NeverAsserting Context: A Prerequisite for Smart, Sensemaking Systems
+Smart Sensemaking Systems, First and Foremost, Must be Expert Counting SystemsSensemaking on Streams – My G2 Skunk Works Project: Privacy by Design (PbD)G2 | Sensemaking – One Year Birthday Today. Cognitive Basics Emerging.
+General Purpose Sensemaking Systems and Information ColocationSmart Systems Flip-Flop
+Big Data. New Physics.There Is No Such Thing As A Single Version of Truth
+Master Data Management (MDM) vs. Sensemaking
+It Turns Out Both Bad Data and a Teaspoon of Dirt May Be Good For You
+Federated Discovery vs. Persistent Context – Enterprise Intelligence Requires the Later
+When Federated Search Bites
+Enterprise Intelligence – My Presentation at the Third Annual Web 2.0 Summit
+Self-Correcting False Positives/Negatives: Exonerate the Innocent
+Privacy by Design in the Era of Big Data
+Responsible Innovation: Designing for Human Rights
+08:15 PM in Information management, Privacy
+| Permalink
+|
+Comments (2)
+|
+TrackBack (0)
+June 18, 2012
+Privacy by Design in the Era of Big Data
+Ann Cavoukian, Information and Privacy Commissioner, Ontario, Canada and I released a joint paper June 8, 2012 entitled “Privacy by Design in the Era of Big Data” available here.
+In this paper, Ann describers her aspirations for Privacy by Design (PbD) to which I call out specific PbD inspired engineering decisions the team and I made during the development of my latest (software) invention.
+Internally code named “G2,” this now 3.5+ year effort started with a full year first working on paper only.  No different than first rendering detailed architectural plans to paper before building a house, our first year was dedicated to overcoming what we thought were our performance limitations of the past while simultaneously weaving in as many advances in privacy and civil liberty protections as we could fathom at the time.
+As a result, I can say that this new technology (something you may come to hear about one day called Sensemaking) has more privacy and civil liberties protecting features than any technology my team and I have ever created in the past.  In fact this technology may have more baked-in privacy and civil liberties enhancing features of any advanced analytic software ever engineered.  I would love to be wrong about this – starting a fierce competition over “I have more privacy features than you” is going to be a good thing for planet Earth.
+Here are a few highlights from the report that you may find interesting:
+While organizations have practical incentives to make the most of their ever growing observation space (the data they have access to), they also have a pressing need to embed in these systems enhanced privacy protections.  We outline in this paper just such an example — how an advanced Big Data sensemaking technology was, from the ground up, engineered with privacy-enhancing features. Some of these features are so critical to accuracy that the team decided they should be mandatory — so deeply baked-in they cannot be turned off.
+~ page 2
+But as technological advances improve our ability to exploit Big Data, potential privacy concerns could stir a regulatory backlash that would dampen the data economy and stifle innovation.
+~ page 3
+A new class of analytic capability is emerging that one might characterize as “general purpose sensemaking.” These sensemaking techniques integrate new transactions (observations) with previous transactions — much in the same way one takes a jigsaw puzzle piece and locates its companions on the table — and use this context-accumulating process to improve understanding about what is happening right now. Crucially, this process can occur fast enough to permit the user do something about whatever is happening while it is still happening. Unlike many existing analytic methods that require users to ask questions of systems, these new systems operate on a different principle: the data finds the data, and the relevance finds the user.
+~ page 5
+However, in these new systems the task of ensuring data security and privacy becomes harder as more copies of information are created. Large data stores containing context-accumulated information are more useful not only to their mission holders but also to those with interests in misuse. That is, the more personally identifiable information Big Data systems contain, the greater the potential risk. This risk arises not only from potential misuse of the data by unauthorized individuals, but also from misuse of the system itself.
+~ page 7
+PbD prescribes that privacy be built directly into the design and operation, not only of technology, but also how a system is operationalized (e.g., work processes, management structures, physical spaces and networked infrastructure.)  Today, PbD is widely recognized internationally as the standard for developing privacy compliant information systems. As a framework for effective privacy protection, PbD’s focus is more about encouraging organizations to both drive and demonstrate their commitment to privacy than some strict technical compliance definition.
+In short, in the age of Big Data, we strongly encourage technologists engaged in the design and deployment of advanced analytics to embrace PbD as a way to deliver responsible innovation.
+~ page 9
+In late 2008, Jeff Jonas embarked on an ambitious journey to create a sensemaking-style system. This effort started with overall architecture planning and design specifications. Over the first year of this project, while drafting and redrafting these blueprints, his team worked to embed properties that would enhance, rather than erode, the privacy and civil liberties of data subjects.
+To engineer for privacy, his team weighed performance consequences, default settings, and which, if any, PbD features should be so hard wired into the system they literally cannot be disabled.
+Over the year that spanned the preliminary and detailed design, the team created a robust suite of PbD features.
+~ page 9
+The dynamic pace of technological innovation requires us to protect privacy in a proactive manner in order to better safeguard privacy within our societies. In order to achieve this goal, system designers should be encouraged to practice responsible innovation in the field of advanced analytics.
+With this in mind, we strongly encourage those designing and building next-generation analytics of any kind to carry out this work while being informed by Privacy by Design as it relates to personally identifiable data.
+~ page 13-14
+One thing is for sure: our PbD efforts are a work in progress – much has yet to be done.  Comments and critiques are most welcome.
+In the meantime, if you are an engineer consider becoming a student of privacy yourself and then begin engineering with PbD in mind.  And if you are a privacy/civil liberties advocacy type, find yourself an engineer to take under your wing – and be gentle as you nurse these newbies along.
+RELATED MATERIAL:
+Privacy by Design (PbD)
+RELATED POSTS:
+Big Data Q&A for the Data Protection Law and Policy Newsletter
+Sensemaking on Streams – My G2 Skunk Works Project: Privacy by Design (PbD)
+G2 | Sensemaking – One Year Birthday Today. Cognitive Basics Emerging.
+Responsible Innovation: Designing for Human Rights
+Responsible Innovation: Some Things are Best Left Un-invented
+Responsible Innovation: Staying Engaged with the Privacy Community
+08:41 AM in Information management, Privacy
+| Permalink
+|
+Comments (1)
+May 12, 2012
+Self-Correcting False Positives/Negatives: Exonerate the Innocent
+This blog entry is dedicated to false positives and false negatives, specifically why it is so essential that systems find and fix them.  A false negative occurs when an assertion about something true, is missed e.g., the true perpetrator of a crime is overlooked.  A false positive occurs when an assertion is made about something being true when, in fact, it is not true, e.g., when a court convicts someone for a crime he/she did not commit.
+Imagine for a moment a DNA database.  What if a subject’s second DNA profile does not match the subject’s previously collected DNA profile? Would anyone notice this false negative?  Or, what if a DNA profile from a new criminal investigation is submitted to the DNA database and it matches someone who has been in prison for 15 years.  Is this proof of a false positive?
+How could such errors happen?  Contamination?  Incompetence?  Criminal negligence?  Regardless, such tragic things really do happen.
+Las Vegas police reveal DNA error put wrong man in prison
+“It did not catch the mistake in Jackson's case, however, because the mistake was not merely a mislabel -- it was the wrong DNA in the wrong vial.”
+DNA EVIDENCE: Officials admit error, dismiss case
+“… acknowledging that the police lab accidentally had placed Sotolusson's name on another man's DNA sample.”
+Asheville area murder case turns on missteps
+“… revelations DNA evidence that might have cleared the men never made it to defense attorneys.”
+Now the million dollar question: If a DNA database like the Combined DNA Index System (CODIS) were to get new evidence that brought doubt to an earlier assertion; can the system itself detect it?  Is anyone notified?  Better yet, is the defendant notified?
+Systems with the ability to use new observations to reverse earlier assertions are able to self-correct false negatives and self-correct false positives – in essence, changing their minds about the past.  Yes … smart systems flip flop.
+Traditional systems are generally unable to use new observations to reverse earlier assertions and thus end up with internal inconsistencies – the evidence exists right before your eyes (in the database) while an errant assertion from the past lives on.  Some call this “database drift.”
+One common remedy to database drift involves periodically re-processing all the data.  Which begs the question: How long do you want to wait for a right answer, when the correct answer is in hand, and right before your eyes?  The other big issue is that if your system requires periodic reprocessing to correct for this database drift, how long is that going to take?  Point being, in very large databases this can take a very long time.
+I have been extremely interested in how to prevent this type of database drift – detecting previous false negatives and false positives at the split second each new observation arrives – doing this over billions of rows of historical data while sustaining thousands of transactions a second.
+In essence, this kind of algorithm works like this: Now that I know this, had I known this first, are there any assertions I have made that would have been made differently – in real-time at high transaction rates over ALL historical data?
+From a privacy and civil liberties perspective, systems incapable of correcting previous false negative and false positives are problematic e.g., an innocent person remains harmed (incarcerated) despite the fact that late-arriving evidence clears his/her name.
+Fortunately for some wrongly convicted, the Innocence Project is addressing this problem.  This organization uses DNA evidence to exonerate the wrongfully convicted.  They have nearly 300 examples (like Michael Morton) of folks wrongly imprisoned – in some cases these innocent folks have been incarcerated for many decades.  This amazing group does this by hand, it takes a lot of work, and they have an enormous backlog of cases worth reviewing.
+I encourage those working on identity-based assertion systems to add self-correcting false negatives and self-correcting false positives to your systems.
+[TECHNICAL NOTES]
+Technical Note #1: A Mini-Demonstration of a Self-Correcting False Positive
+I first stumbled across the need for self-correcting false positives about a decade ago when we discovered a particular data set in which three out of every eight million people, a Patrick and a Patricia, lived at the same address with the same last name.
+Imagine what might happen in this scenario.  You already have this one record in your database:
+Entity #1
+Record 1, Patrick Smith, Male, 123 Main Street, 555-1212
+And today you get Record 2 containing:
+Pat Smith, 123 Main Street, 555-1212 and date of birth 03/17/1986
+Let’s say for the sake of argument that same name, address and phone number are deemed sufficient evidence to assert that an entity is the same (not always a great idea by the way).  The results:
+Entity #1
+Record 1, Patrick Smith, Male, 123 Main Street, 555-1212
+Record 2, Pat Smith, 123 Main Street, 555-1212 and date of birth 03/17/1986
+This is fine and dandy and all … until Record 3 appears on the scene:
+Patricia Smith, Female, 123 Main Street, 555-1212, and date of birth 03/17/1986
+At this moment, one has an opportunity to recognize the earlier error … in this case, the Pat Smith record is now most likely to be Patricia, NOT Patrick.  At this split second, a system capable of self-correcting false positives fixes the past replacing it with these new assertions:
+Entity #1
+Record 1, Patrick Smith, Male, 123 Main Street, 555-1212
+Entity #2
+Record 2, Pat Smith, 123 Main Street, 555-1212, and date of birth 03/17/1986
+Record 3, Patricia Smith, Female, 123 Main Street, 555-1212, and date of birth 03/17/1986
+Technical Note #2: A More In-depth Look at CODIS Processes
+Over the course of my research, I was fortunate to come across background information about CODIS.  Some may find this interesting or helpful.
+CODIS has three tiers:  LDIS (local lab databases), SDIS (statewide databases), and NDIS (USA database).  Selective LDIS records roll-up to SDIS and selective SDIS records roll-up to NDIS.
+The criteria to enter the LDIS tier are the least stringent while the criteria to reach the NDIS level are the most stringent.  A profile in the NDIS database will have come from a SDIS database.  And entries in a SDIS database may have come from a LDIS database below it, possibly varying by each state’s lab structure/organization.
+Each tier is broken down further into several indices:  Forensic, Convicted Offender, Arrestees (depending on state legislation), Missing Persons, Relatives of Missing Persons, and Unidentified Human Remains (LDIS, SDIS, NDIS).  Some LDIS/SDIS databases also have a Volunteer and or Suspect Index (depending on respective local/state legislation).
+DNA Profile Submission
+Each sample’s profile is generally only eligible for submission to a single index.  If a forensic profile matches an individual and is uploaded to the forensic index, that individual’s reference profile can’t simply be added to the convicted offender index later after conviction.  Also, the reference sample collected for comparison to the evidence profile cannot be retested to re-obtain the individual’s profile for convicted offender submission either—an entirely new sample is collected upon conviction for submission to the convicted offender index.
+The only information contained in each of these databases is:
+a) the DNA profile
+b) the lab submitting the profile
+c) the lab employee responsible for submitting the profile
+d) some numerical identifier for the submitting lab/employee to track the profile
+CODIS Search Procedures
+Only certain index combinations are compared against each other.  For example, the Relatives of Missing Persons Index is only compared to the unidentified Human Remains Index while the Convicted Offender Index is compared against all indices except the Relatives of Missing Person’s index.
+If a profile only meets LDIS criteria, it resides in the LDIS database and is only compared within the appropriate indices to other LDIS profiles  (profiles belonging to the individual laboratory)
+For example, if a profile meets Miami’s LDIS upload criteria, but not Florida’s SDIS criteria, the profile would simply reside in and be compared against the appropriate indices within Miami’s LDIS.
+If the profile meets SDIS criteria, it is compared within the appropriate indices to other profiles in both the respective LDIS and SDIS databases but not outside LDIS databases within the state (Put differently, a profile that has reached SDIS will not be compared against other states’ LDIS or SDIS profiles.)
+For example, if a profile meets both Miami’s LDIS and Florida’s SDIS upload criteria, but not NDIS’s, the profile would reside in both the LDIS and SDIS and be compared against the appropriate indices at both levels. It would not, however, be compared against any profiles contained in NDIS, nor would it be compared against the LDIS and SDIS of other states, say New Orleans’s LDIS and Louisiana’s SDIS.
+If the profile meets NDIS criteria, it is compared to other profiles within the appropriate indices in the respective LDIS, SDIS, and NDIS databases, but not outside SDIS/LDIS databases
+For example, if a profile meets Miami’s LDIS, Florida’s SDIS, and NDIS upload criteria, it would reside at all three levels and be compared against appropriate indices at each.  It would not, however, be compared against profiles residing only in other states’ LDIS or SDIS systems.
+CODIS Matches and DNA Identification Errors
+The CODIS software performs comparisons between the appropriate indices/tiers of the databases and then reports back any matching profiles with their associated identifiers to the submitting lab(s).  Then the lab(s) must follow up on their end to retest their matching sample(s) and report back the confirmation results to each other (the exception being forensic profiles are NOT re-tested to avoid consumption of evidence).  If the source (DNA donor) of the matching DNA profiles is known, this info is exchanged between the individual submitting lab(s) and it is at this time a “false-positive” match is discovered.
+Basically, this type DNA identification error can only be caught after a match has occurred – meaning the falsely matching profiles have to wind up in an index/tier where they will be compared to each other … an erroneous LDIS profile residing in the SDIS database will not be detected if the falsely matching profile resides in the NDIS database, a different SDIS database, or even an unsearchable index in the same SDIS!  Note: this can take an unreasonably long time, if it ever happens at all.
+Additionally, since the database contains minimum identifying attributes for each entity or DNA profile, and the attributes mostly contain information that can only be utilized by the submitting lab, the CODIS software doesn’t have any capability to detect “false negative” non-matches.  It’s important to note that this inherent limitation was developed intentionally to protect individuals’ privacy … but as a consequence this may lead to erroneous identification and wrongful incarceration.
+Here is another interesting weakness in CODIS.  When a subject’s DNA becomes crime scene evidence, this DNA profile may possibly appear in the databases up to four times over the entire course of a single investigation:  First as a forensic sample (the evidence profile attributed to him), second as a volunteer (the reference specimen he consented to database entry according to local/state law), third as an arrestee (the reference specimen collected from him when arrested for a qualifying offense according to local/state law), and fourth as a convicted offender (the reference specimen collected from him when convicted of a qualifying offense according to local/state/federal law).
+Matches should occur at each of these stages of submission if there are no DNA identification errors, and multiple matches would definitely validate each individual testing result.  However, if a match does not occur at one or more of these submission stages, then an error has occurred.  After the forensic profile was uploaded, each subsequent related submission provided an opportunity to detect an identification error because each subsequent match reported by CODIS would be returned to the lab for confirmation.  CODIS’s inability to detect a falsely-negative non-match at any and each of the submission stages means opportunities to detect errant results are missed – this faulty evidence means the wrong people are convicted or freed.
+Even if CODIS had the capability to detect/correct a false positive, waiting for that false-positive match to occur is problematic because it takes longer to occur/detect than a false-negative non-match, or even worse, might never occur at all.  To obtain the false positive association, the true DNA donor to the forensic profile must somehow get uploaded to an index/tier that will be compared to the forensic profile that was erroneously attributed to the original subject.  The match might occur immediately if the true donor’s profile is already there, but might never occur if it’s residing in an ineligible index/tier or the true donor’s profile is forever absent altogether.
+Basically, detecting/correcting the false-positive match prevents a subject from being wrongfully convicted for the second crime, but might only minimally exonerate him for the first wrongful conviction (he may have already served his sentence, be deceased, etc.).  A false-negative non-match actually precludes a false-positive match unless the falsely matching profile is immediately available for comparison when the erroneous profile is uploaded to the database.
+RELATED POSTS:
+Smart Systems Flip-Flop
+Smart Sensemaking Systems, First and Foremost, Must be Expert Counting Systems
+04:59 PM in Information management, Privacy
+| Permalink
+|
+Comments (5)
+|
+TrackBack (0)
+April 18, 2012
+Big Data Q&A for the Data Protection Law and Policy Newsletter
+I have been given permission to re-publish an interview I did with the Data Protection & Law Policy newsletter.  Also to appear in the e-Finance and Payments Law & Policy newsletter.
+May be of interest to some of my readers.
+[INTERVIEW]
+1. Data protection challenge of the future: what is Big Data?
+The three V’s - Volume, Velocity, and Variety – are the essential characteristics of “Big Data”. While data protection and privacy laws are still busy catching up with technologies of yesterday, Big Data is growing at a lightning speed on a daily basis. How can companies deal with the data protection challenges brought about by Big Data in order to truly benefit from the opportunities introduced by Big Data? First, one must truly grasp what is Big Data. We interview Jeff Jonas, Chief Scientist at IBM Entity Analytics, to obtain his perspectives and definition of Big Data, and his experience handling Big Data.
+2. When did data become big?
+Big Data did not become big overnight.  What I think happened is data started getting generated faster than organizations could get their hands around it.  Then one day you simply wake up and feel like you are drowning in data.  On that day, data felt big.
+3. Please explain and elaborate on the characteristics of Big Data?
+Big Data means different things to different people.
+Personally, my favorite definition is: “something magical happens when very large corpuses of data come together.”  Some example of this can be seen at Google, for example Google flu trends and Google translate.  In my own work, I witnessed this first in 2006.  In this particular system, the system started getting higher quality predictions and faster as it ingested more data.  This is so counter intuitive.  The easiest way to explain this though is to consider the familiar process of putting a puzzle together at home.  Why is it do you think the last few pieces are as easy as the first few – even though you have more data in front of you then ever before?  Same thing really that is happening in my systems these days.  It’s rather exciting to tell you the truth.
+To elaborate briefly on the new physics of Big Data, I pinpointed the three phenomena of Big Data physics in my blog entry - Big Data. New Physics – drawing from my personal experience of 14 years of designing and deploying a number of multi-billion row context accumulating systems:
+1. Better Prediction.  Simultaneously lower false positives and lower false negatives
+2. Bad data good.  More specifically, natural variability in data including spelling errors, transposition errors, and even professionally fabricated lies – all helpful.
+3. More data faster.  Less compute effort as the database gets bigger.
+Another definition of Big Data is related to the ability for organizations to harness data sets previously believed to be “too large to handle.” Historically, Big Data means too many rows, too much storage and too much cost for organizations who lack the tools and ability to really handle data of such quantity. Today, we are seeing ways to explore and iterate cheaply over Big Data.
+4. When did data become big for you? What is your “Big Data” processing experience?
+As previously mentioned, for me, Big Data is about the magical things that happen when a critical mass is reached.  To be honest, Big Data does not feel big to me unless it is hard to process and make sense of.  A few billion rows here and a few billion rows there – such volumes once seemed a lot of data to me. Then helping organizations think about dealing volumes of 100 million or more records a day seemed like a lot.  Today, when I think about the volumes at Google and Facebook, I think: “Now that really is Big Data!”
+My personal interest and primary focus on Big Data these days is: how to make sense of data in real time, that is fast enough to do something about the transaction while the transaction is still happening. While you swipe that credit card, there is only a few seconds to decide if that is you or maybe someone pretending to be you.  If an unauthorized user is inside your network, and data starts getting pumped out, an organization needs sub-second “sense and respond” capabilities. End of day batch processes producing great answers is simply late!
+5. What are the technologies currently adopted to process Big Data?
+The availability of Big Data technologies seems to be growing by leaps and bounds and on many fronts.  We are seeing a large corporate investments resulting in commercial products – at IBM two examples would be IBM InfoSphere Streams for Big Data in motion and IBM InfoSphere Big Insights for pattern discovery over data at rest.  There are also many Big Data open source efforts under way for example HADOOP, Cassandra and Lucene.  If one were to divide these into types one would find some well suited for streaming analytics and others for batch analytics.  Some help organizations harness structured data while others are ideal for unstructured data.  One thing is for sure – there are many options, and there will be many more choices to come as Big Data continues to get investment.
+6. How can companies benefit from the use of Big Data?
+I’d like to think consumers benefit too, just to be clear.  To illustrate my point, I find it very helpful when Google responds to my search with “did you mean ______”.  To pull this very smart stunt, Google must remember the typographical errors of the world, and that I do believe would qualify as Big Data.  Moreover, I think health care is benefiting from Big Data, or let’s hope so.  Organizations like financial institutions and insurance companies are benefitting from Big Data also by using these insights to run more efficient operations and mitigate risks.
+We, you and I, are responsible in part for generating so much Big Data.  These social media platforms we use to speak our mind and stay connected are responsible for massive volumes of data.  Companies know this and are paying attention.  For example, my friend’s wife complained on Twitter about a specific company’s service.  Not long thereafter they reached out to her because they too were listening.  They fixed the problem and she was as happy as ever.  How did the company benefit? They kept a customer.
+7. What is the trend of processing Big Data?
+I think a lot of Big Data systems are running as periodic batch processes, for example, once a week or once a month.  My suspicion is as these systems begin to generate more and more relevant insight, it will not be long before the users say: “Why did I have to wait until the end of the week to learn that?  They already left the web site.”; or, “I already denied their loan when it is now clear I should have granted them that loan.”
+8. What are the complications dealing with the privacy implications brought about by Big Data compare to average sized data?
+There are lots of privacy complications that come along with Big Data.  Consumers, for example, often want to know what data an organization collects and the purpose of the collection.  Something that further complicates this: I think many consumers would be surprised to know what is computationally possible with Big Data.  For example, where you are going to be next Thursday at 5:35pm or your three best friends, and which two of them are not on Facebook. Big Data is making it harder to have secrets. To illustrate using lines from my blog entry - Using Transparency As A Mask – ‘Unlike two decades ago, humans are now creating huge volumes of extraordinarily useful data as they self-annotate their relationships and yours, their photographs and yours, their thoughts and their thoughts about you … and more. With more data, comes better understanding and prediction.  The convergence of data might reveal your “discreet” rendezvous or the fact you are no longer on speaking terms your best friend.  No longer secret is your visit to the porn store and the subsequent change in your home’s late night energy profile, another telling story about who you are … again out of the bag, and little you can do about it.  Pity … you thought that all of this information was secret.’
+9. What are the privacy concerns & threats Big Data might bring about - to companies and to individuals whose data are contained in 'Big Data'?
+My number one recommendation to organizations is “Avoid Consumer Surprise.”
+That said, my concern is many consumers don’t seem to give a hoot. When is the last time you actually read the privacy statement or terms of use on your favourite social media site? I think in the future we’ll see Big Data being used to make the services offered even more irresistible.  Your Internet searches will become custom crafted lenses.  As a student of privacy and someone building Privacy by Design (PbD) into my inventions, I think about these things all the time.
+10. How are companies currently applying privacy protection principles before/after Big Data has been processed?
+I think there are many best practices being adopted.  One of my favorites involves letting consumers opt-in instead of opting them in automatically and then requiring them to opt-out.  One new thing I would like to see become a new best practice is: a place on the web site, for example my bank, where I can see a list of third parties whom my bank has shared my data with.  I think this transparency would be good and certainly would make consumers more aware.
+11. What is “Big Data”, according to Jeff Jonas?
+Big Data is a pile of data so big - and harnessed so well - that it becomes possible to make substantially better predictions, for example, what web page would be the absolute best web page to place first on your results, just for you.
+08:04 PM in Information management, Privacy
+| Permalink
+|
+Comments (3)
+|
+TrackBack (0)
+January 28, 2012
+G2 | Sensemaking – One Year Birthday Today.
+Cognitive Basics Emerging.
+Following a quiet two-plus year gestation period, G2 came to life January 28th, 2011 – one year ago today – when I formally announced its existence here: Sensemaking on Streams – My G2 Skunk Works Project: Privacy by Design (PbD).
+“This new technology, something that might be characterized as a “big data analytic sensemaking” engine, is designed to make sense of new observations as they happen, fast enough to do something about it, while the transaction is still happening.”
+Oh, the difference a year makes.  Over the last twelve months G2 has evolved in many ways. Three of the more exciting characteristics to emerge are:
+Orders of Magnitude, appreciation of
+G2 now has the ability to consider proportions when determining the best way to count things … evolving counting methods in real-time, without external influence (humans).  There is a big difference between zero, one, two, three, etc.  But at some point why take the effort to increment a counter from 4,090,223 to 4,090,224?  Why is this important?   Imagine how much attention it would take if you had to keep an exact count of everything you had ever seen.  What a waste.  In the interest of saving its energy for more important tasks, G2 starts using orders of magnitude to optimize its resources.  Of course, G2 can be told to keep exact counts (despite scale); if an exact count is needed from time to time, G2 will count them, one-by-one.
+Geospatial and Temporal Reasoning, use of
+G2 is showing early promise in the area of geospatial and temporal reasoning.  Using the basic physics principle “Two different things cannot occupy the same space at the same time,” G2 can more accurately assert when things are the same.  Also, G2 can now tell the difference between something happening “here and now” versus “then and there.”  If you were reading a book about the 1906 fire that swept through San
+Francisco, you would not be freaking out about the danger, filling the bathtub and watering the roof of your house.  No, you understand that this is information about “then and there,” not “here and now.”  Why is this important?  When it comes to making recommendations about a “next best action,” if one doesn’t take into account geospatial and temporal factors, be prepared for a slew of bogus recommendations.
+Confusion, awareness of
+And, just today, G2 suddenly developed the ability to notice when it becomes confused about something, making “note to self” about this important fact.  This awareness of confusion is triggered when facts appear to disagree.  If someone has three phone numbers – no big deal.  On the other hand, if someone has five different dates of birth, that just doesn’t seem quite right does it?  That would be confusing.  Why is this important?  Well, if you are looking to analytics to make important decisions, wouldn’t you want to know during the decision making process if there was related confusion … before action is taken?
+While G2 is showing no signs of evolving any motor function any time soon … the cognitive advances we are seeing and the benefits we hope this will bring society … make these exciting times.
+Happy Birthday G2!
+Sincerely,
+Jeff Jonas and the entire
+G2 Development Team
+RELATED POSTS:
+Sensemaking on Streams – My G2 Skunk Works Project: Privacy by Design (PbD)Smart Sensemaking Systems, First and Foremost, Must be Expert Counting SystemsOn A Smarter Planet … Some Organizations Will Be Smarter-er Than OthersData Finds DataAccumulating Context: Now or NeverGeneral Purpose Sensemaking Systems and Information ColocationBig Data. New Physics.Master Data Management (MDM) vs. Sensemaking
+09:54 PM in Information management, Privacy
+| Permalink
+|
+Comments (6)
+|
+TrackBack (0)
+Next
+»
+Categories
+Huh?
+Information management
+Las Vegas
+National security
+Privacy
+Triathlons, marathons and such
+See More
+Recent Posts
+Democratizing Entity Resolution.
+Meet Senzing. Meet G2. Say Hello to Entity Resolution 2.0
+Black Unicorn Hunting
+Data Visualization: Outing Hype
+G2 is 4
+G2 | Sensemaking and its 7 Secret Sauces
+NSA Superheroes Help Fix Everyone’s Internet #WildIdeas #SpyReboot
+#SpyReboot
+Structuring Unstructured Data
+G2 | Sensemaking – Two Years Old Today

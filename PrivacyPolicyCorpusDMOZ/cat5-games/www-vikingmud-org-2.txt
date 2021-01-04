@@ -1,0 +1,318 @@
+http://www.vikingmud.org/privacy.shtml
+Privacy Policy
+This Privacy Policy explains how Viking MUD processes personal data.
+All personal data are collected, stored, processed, transferred and
+disposed of in accordance with the Norwegian Personal Data Act
+(Personopplysningsloven) and the European Union's General Data
+Protection Regulation (GDPR).
+This Privacy Policy last revised on 18 August 2018, and this version replaces
+all previous revisions of the document.
+We have also published
+a simplified version of this
+document, covering the essentials.
+Who we are and how to contact us:
+Viking MUD is an unregistered, informal, volunteer, non-profit
+organization, consisting of current and former players of the
+game.
+Viking MUD is an Internet-based text-mode multi-user
+role-playing game.
+Viking MUD operates in Norway and under
+Norwegian jurisdiction. Our contact information can be found on
+our contact page. MUD players can
+also contact us in-game via mudmail to "admin", or by chatting
+directly with an Administrator.
+Personal data we collect from you:
+Player character registration data:
+When you register a Viking MUD player character, you need to enter:
+A name for your player character, which does
+not need to have any relation to your real name or other
+identities you use anywhere.
+A password of your choosing, which we recommend
+is unique for this player character and not used for any
+other service, here or elsewhere.
+An e-mail address, which according to your
+preference can be either a) public, b) secret, c) none.
+Your character's gender identity, which does
+not need to have any relation to your personal gender
+identity.
+Volunteered information associated with your player character:
+At a later stage, you may also volunteer additional
+information about yourself, either to the administration or to
+be publicly available. For instance, you have the option to
+request an in-MUD marriage with another player, or a divorce
+at any time, or volunteer other information.
+System account user data:
+Some persons may be granted system access, and thereby have a
+system user account.
+In association with such an account, we
+may, but do not necessarily store the following system account
+data:
+User name
+User password
+Person name (optional)
+Other contact information (optional)
+Connected IP address and other connection data
+E-mail account data and metadata, including any messages stored therein
+Files, code, and content stored in the account's home directory, or other directories/locations it has access to
+Automatically collected data:
+This is data that you do not submit to us directly, but that
+are automatically gathered by our systems when you use our
+services or contact us.
+This data has two sub-categories,
+in-MUD and other data.
+In-MUD collected data:
+This category specifically uses in-MUD terminology. Not
+all data is structured, and are therefore not necessarily
+possible to directly link to a specific player character.
+Access, activity, and event logs
+Command history
+Bulletin board metadata
+Chat metadata
+Connected IP address and connection status
+Mail metadata
+Message metadata
+Area information and metadata
+Item/equipment/object information and metadata
+Club/guild membership information and metadata
+Player-generated character information and metadata
+Other collected data:
+Web server access logs
+E-Mail server logs
+Other automatically generated system logs and system data
+Logs may include:
+Timestamps
+IP addresses
+E-Mail addresses
+E-Mail headers
+Names, user names, character names, and aliases
+HTTP request headers
+Other data
+Our webpages may also make use of cookies, which may be used
+to identify individual persons. Cookies are used to ensure the
+proper operation of web areas that require a login session,
+and for related user preferences.
+How we use your data:
+In general, any data we collect may be used
+to maintain, protect, and improve our services, and to detect,
+investigate, prevent, or otherwise address rules violations,
+disputes, fraud or other criminal activities, security issues,
+or technical issues.
+As Viking MUD is one of the first, and
+therefore oldest, MUDs, your data is also used for archival
+and historical purposes.
+All connections to the Viking MUD game are
+using the telnet protocol, which is unencrypted, all
+information you send and receive is transmitted in
+cleartext.
+Backups are automatically and regularly
+processed, both locally and by a remote backup service hosted
+by our colocation provider Domeneshop AS, which is subject to
+their Data
+Processing Agreement.
+Specific categories mentioned above:
+Player character registration data:
+Your player character name is considered public
+information, and when you are logged in, this name may be
+visible to all other logged-in players, and to the special
+"guest" user, as well as being publicly available via the
+login prompt by using the special login name "users".
+Your password is cryptographically hashed, and
+the digest is only available to privileged users.
+Your e-mail address is, depending on your
+choice, either publicly visible, "secret", or "none". Your
+"secret" e-mail address is visible only to privileged
+users, and may be used for contacting you if there is an
+issue with your player character, or we need to contact
+you regarding game issues.
+Your character's gender identity is used for
+customizing in-game content.
+Volunteered information associated with your player character:
+Any personal data that you or others volunteer, submit,
+upload, send, store, or process using our services are not
+covered by this Privacy Policy. This includes personal
+data that you add in free-text forms such as the "plan",
+post to bulletin boards, send via MUD-mail, "tell" others
+(in-game direct messages), mention on chat boards, store
+in files, in code, or otherwise submit outside the scope
+of the personal data that we require for using the service
+(Player character registration data).
+Information that is given in confidence to the
+administration, will be treated as information that you do not
+wish to share with everyone.
+Files, code, and content that player characters
+with such access (Contributors) store in their personal
+"home" directory is available for modification or deletion
+in-MUD, and via MUD-FTP.
+Regarding the examples, your in-MUD marriage status -
+whether you are married and to whom - is considered public
+information, and may be used for customizing in-game
+content.
+Information that you e.g. publish publicly in
+your "plan", is outside the scope of this Privacy Policy.
+System account user data:
+The user name is used to uniquely identify the
+account. If identical to a player character name,
+it is assumed to be linked to the player character. It is
+available to anyone with access to the system.
+The user password is cryptographically hashed,
+and the digest is only available to privileged system
+users.
+The optional person name is used to identify
+which person an account belongs to, if not linked to
+a player character name. The person name
+can also be a pseudonym. It is available to anyone with
+access to the system.
+The optional contact information is available
+to anyone with access to the system, and used to provide
+an alternate means of getting in touch with the person
+responsible for the account.
+Connected IP address and other connection data
+is used for the proper operation of the system, and to
+identify where a connection comes from. The information is
+available to other logged-in users.
+The e-mail account is provided for an
+Internet-reachable e-mail access to certain MUD users, and
+the content is only available to the account itself, and
+to any privileged system users, and to users/groups of
+users to whom the account holder has granted
+access. Privileged system users will not access such
+e-mail accounts, except when granted by the account
+holder, or as required for investigation into violations
+of our Service Agreement where
+e-mail accounts are relevant.
+Files, code, and content that the user stores
+in their personal "home" directory is available under the
+same terms as the e-mail account.
+Files, code, and content that the user stores
+in other directories/locations than their personal "home"
+directory, is available under the terms of use and
+permissions of that specific location/directory. Such
+terms of use and permissions are granted in-system and
+dynamically, and may be volatile.
+Automatically collected data:
+In-MUD collected data is used to automatically or
+manually customize in-game content, maintain, protect, and
+improve our services, and to detect, investigate, prevent,
+or otherwise address rules violations, disputes, fraud or
+other criminal activities, security issues, or technical
+issues.
+In-MUD collected data related to areas,
+equipment, items, clubs, guilds, and other in-game objects
+and functions, as well as connection data, may be
+available to the contributors of the underlying code, and
+can be used for the purposes described above.
+Web server access logs and e-mail server
+logs are available to privileged system users, and
+may be used for system maintenance, debugging,
+improvement, and investigation into terms and AUP
+violations
+Other automatically collected data is available
+to unprivileged or privileged users, depending on the
+data, and may be used for system maintenance, debugging,
+improvement, and investigation into terms and AUP
+violations.
+How you can access, update, delete, or restore your personal data:
+In order to authenticate your request, MUD players need to
+login to the MUD to prove ownership of the player character.
+People with other kinds of accesses, who have provided a valid
+and verified email address, may also get in touch via email,
+see our contact page.
+MUD players can, at any time, login and modify their data,
+except their character name.
+MUD players may request a character name change from a
+representative of the administration.
+Character name changes
+may be either public - keeping information about your previous
+character name - or discreet - discarding information about
+your previous character name.
+MUD players may also erase their character data.
+Regular
+player characters do so by "entering the pit".
+The character
+data is then moved to a specific "deleted character file", in
+case you change your mind.
+If you want to have this erased as
+well, please contact a representative of the administration
+before "entering the pit".
+Contributors or players with other special privileges cannot
+"enter the pit", and will need to login and contact a
+representative of the administration.
+In exceptional circumstances overriding the archival and
+historical purposes of the MUD, a representative of the
+administration may take additional steps to ensure that as
+much as practically possible of personal data is erased.
+Retroactive erasure from backups is not practically possible.
+System account users may update their password via SSH login
+to the server.
+They may delete E-mail messages and personal
+files, code and content via SSH.
+Account information changes,
+as well as account deletion, must be handled by a privileged
+system user on authorized request.
+How we share your personal data:
+Your player character name, its selected gender, marriage
+status, and, if selected as public, your email address, may be
+publicly listed to other logged-in player characters.
+Additionally, your connection status, your connecting IP
+address and/or the IP address' registered geolocation, may be
+made publicly listed while you are logged in, and while you
+are logged out, the last known information publicly listed to
+logged-in characters.
+Any logged-in player, including the
+special guest user, may look up public information about any
+other logged-in player.
+If you have a system user account, your account information
+(except the password digest), including the IP address you
+connect from, is available to anyone else logged in with a
+system user account.
+We may also share personal data with third parties who have a
+legitimate interest for this, to investigate technical
+problems, potential copyright or trademark infringement, or
+fraud and other criminal activities. In addition, we may share
+personal data with Norwegian police or other public
+authorities if presented with a court order, seizure warrant
+or other equivalent request for disclosure of information.
+Transfer of personal data outside EU/EEA:
+There is no systematic transfer of personal data to parties
+outside the EU/EEA.
+Automatic processing and decision-making based on personal data:
+Viking MUD may use any and all supplied data for automatic and
+dynamic processing, content, and decision-making.
+Data may be
+subject to automated checks for syntax and correctness, and be
+flagged for manual inspection.
+Dataportability:
+On request, a representative of the administration may provide you
+with your personal data in a standardized format, e.g. CSV.
+How long we keep your personal data:
+Personal data directly stored with the character object is kept
+for as long as the player character is registered, and for deleted
+characters as long as the "deleted character file" exists, which
+is until the player requests its destruction.
+The same goes for
+system user accounts.
+Character creation and name change logs,
+are stored indefinitely.
+System logs, e.g. for e-mail and web,
+are stored for up to a year.
+Local backups are stored for up to
+25 years, or briefer, depending on capacity.
+Remote backups are
+subject to Domeneshop AS' backup retention policy.
+Why we store some data for a long time:
+Viking MUD is one of first multi-player networked roleplaying
+games to exist, and has a rich history.
+Most of the information
+we store, is archival and historical, and not actively used.
+Very
+little data is directly usable for identifying real persons,
+living or dead.
+Your right to complain:
+If you are a natural person residing in the European Union or
+European Economic Area and you believe that our use and processing
+of your personal data are not in compliance with the General Data
+Protection Regulation (GDPR) or any other applicable legislation,
+you have the right to complain to the Supervisory Authority in
+either Norway (Datatilsynet) or in your country of domicile.
+Last update: 2018-08-18 15:39 UTC
+Updated by: <webmaster <-> vikingmud.org>

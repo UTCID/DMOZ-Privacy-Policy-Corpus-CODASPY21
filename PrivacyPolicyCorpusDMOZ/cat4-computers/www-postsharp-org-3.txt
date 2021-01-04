@@ -1,0 +1,41 @@
+http://www.postsharp.org/downloads/legal
+Download PostSharp
+No matter your license, the downloads are the same:
+NuGet [Packages]
+To get started with PostSharp, install the right NuGet packageand start coding.
+PM> Install-Package
+.NET Framework, .NET Core, Xamarin and Blazor are fully tested and supported.
+Other .NET Standard platforms at your own risk.
+Requirements >    Release notes >
+PACKAGE LIST
+Activate your trial or license after
+download.
+PostSharp Tools for Visual Studio
+Install tooling for an optimal coding and debugging experience:
+Enhanced debugging: step over aspect, clean call stack.
+Enhanced Intellisense: see which aspects are present in your code.
+Code actions: get started easily.
+DOWNLOAD
+Activate your trial or license after
+download.
+Get started
+1. Download
+Add the NuGet packages to your project.Optionally, install PostSharp Tools for Visual Studio.
+2. Choose free or pro
+The first time you start PostSharp, you will get the following options:
+Start with the free PostSharp Community
+Start with
+free trial of PostSharp Ultimate
+Enter a commercial license key
+3. Get started
+When you're all set, you can start adding aspects to your application. Click here to get started.
+In addition
+Get a free license
+If you are a freelancer, MVP, blogger, author, student or teacher you can apply for PostSharp Ultimate Free License.
+FREE LICENSE
+Get the latest bits
+Download the latest version of PostSharp.
+6.8 RC
+Previous versions
+All versions dating back from 2009 are still available for download.
+DOWNLOAD ARCHIVE

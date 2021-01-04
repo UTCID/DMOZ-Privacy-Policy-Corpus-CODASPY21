@@ -1,0 +1,31 @@
+http://www.cs.umd.edu/event/2020/09/privacy-first-data-management-systems
+Skip to main content
+Privacy-first Data Management Systems
+Talk
+Amol DeshpandeTalk Series: Dept. ColloquiumTime: 09.25.2020 11:00 to 12:00Location: Virtual-https://umd.zoom.us/j/93637673064?pwd=TzJYcE15UXg0MTJSQXJ5UFFLMlBNZz09
+URL: https://talks.cs.umd.edu/talks/2650Responsible data stewardship has largely been an afterthought over the last two decades as new techniques and tools were being rapidly developed to harness the potential of "big data". However, increased scrutiny by regulatory bodies (resulting in regulations like GDPR, CCPA, etc.), high-profile data breaches, and wide-spread use of data-driven processes to make life-altering decisions, have brought to the forefront the issues of transparency, trust, and responsible and ethical usage of data. In this talk, I will discuss of some of the new data management challenges that have emerged as a result of these developments, focusing in particular on the need to build novel privacy-first database systems to operationalize privacy-by-design principles. I will discuss some preliminary work that uses pseudonymization and synthetic data generation to transparently rearchitect a relational database system to achieve a variety of privacy goals, and research challenges moving forward. I will then briefly discuss other recent research projects in my group, including our prior and ongoing work on graph databases, and on building a unified provenance and metadata management system to support data science lifecycle management.
+Upcoming Events
+Talk
+12.11.2020 12:00 to 14:00
+Remote
+PhD Defense: Composing and Decomposing OS Abstractions
+James Litton
+Event
+12.11.2020 14:00 to 15:00
+APT Meeting
+Talk
+12.15.2020 13:00 to 15:00
+Remote
+PhD Defense: Revealing Perceptual Proxies in Comparative Data Visualization
+Brian Ondov
+Talk
+12.16.2020 14:00 to 16:00
+Remote
+PhD Proposal: Fairness and Scalability for Massive Networks
+Marina Knittel
+Talk
+12.22.2020 12:00 to 14:00
+Remote
+PhD Proposal: Transfer Learning in Natural Language Processing through Interactive Feedback
+Michelle Yuan
+Browse Our Calendar Visit talks.cs for All Talks Meeting & Event Space Requests

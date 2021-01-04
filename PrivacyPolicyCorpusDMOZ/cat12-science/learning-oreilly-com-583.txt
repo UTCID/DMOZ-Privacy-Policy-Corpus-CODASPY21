@@ -1,0 +1,25 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch22s03.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Obtaining a Software Publishing Certificate
+Although Microsoft’s Authenticode technology should work
+with software publishing digital certificates from any recognized
+certification authority, when this book went to press the only CA
+issuing these certificates was VeriSign.As of July 2001, VeriSign issues two kinds of software
+publisher’s certificates, which the company now calls Code Signing
+Digital IDs. The CodeSigner Standard ID costs $400 and comes with
+$50,000 of “NetSure Protection,” promises a “Keynote Performance
+Audit” from 10 cities, and promises 2-day express delivery. For
+practical purposes, the real difference is that if you pay more money,
+you can get faster turnaround.Previously, VeriSign had offered “Personal” certificates for use
+with Authenticode. These certificates were handy because they cost
+roughly half as much as the commercial certificates and they were
+available to individuals, rather than corporations, yet they were as
+powerful as commercial certificates. Perhaps that is the reason that
+the personal certificates were discontinued.
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

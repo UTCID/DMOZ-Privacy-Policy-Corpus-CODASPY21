@@ -1,0 +1,265 @@
+http://domainpeople.com/legal/terms-of-use.html
+Home
+Legal
+Terms of Use
+LAST UPDATED: AUGUST 16, 2011
+These Terms of Use ("TOU") constitute a binding agreement between you, the customer or end user, and DomainPeople, Inc. (“DomainPeople”) with respect to your use of the services provided by DomainPeople.
+All users of DomainPeople’s services, and all customers upon signing up for DomainPeople’s services, agree to comply with DomainPeople’s Terms of Use ("TOU"). The spirit of the TOU is to ensure customers are using DomainPeople’s services with due regard to the rights of other Internet users and in conformity with the requirements of DomainPeople’s network environment. The TOU are not exhaustive and DomainPeople reserves the right to add, delete, or modify any provision of its TOU at any time without notice, effective upon the posting of the modified TOU to www.domainpeople.com (or such other URL as DomainPeople may designate from time to time). Any complaints about a customer's violation of the TOU should be sent to abuse@domainpeople.com. Except when expressly agreed to the contrary in writing by an authorized representative of DomainPeople, this TOU supersedes any other agreement with DomainPeople, whether written, oral, by conduct, or otherwise.
+A. Web Hosting & Ecommerce Customer Restrictions
+B. Dedicated Server Customer Restrictions
+C. All Customer Terms of Use
+D. Copyright Violations and Abuse
+E. All Customer Billing Policy
+A. WEB HOSTING & ECOMMERCE CUSTOMER RESTRICTIONS
+The following Terms of Use apply only to DomainPeople’s Web Hosting and Ecommerce customers, and supplement the terms in sections C, D, and E that apply to all DomainPeople customers:
+SERVER RESOURCES
+Any website that uses a high amount of server resources (such as, but not limited to, CPU time, memory usage, and network resources) will be given the option to either pay additional fees (which will depend on the resources required), reduce the resources used to an acceptable level, or upgrade its service to a Dedicated Server plan. DomainPeople will be the sole arbiter of what is considered to be a high server usage level. All Web Hosting and Ecommerce accounts come with a limit of 5,000 files per account. Each block of 5,000 files after the initial 5,000 will incur an additional charge of US$9.95/month. Any Web Hosting and Ecommerce account deemed to be adversely affecting server performance or network integrity will be shut down without prior notice.
+CGI SCRIPTS
+Any scripts that pose a potential security risk or are deemed to be adversely affecting server performance or network integrity will be shut down or will be automatically removed without prior notice. DomainPeople does not permit CGI script sharing with domains not hosted by DomainPeople or any scripts that may be abused for UCE purposes.
+CHAT ROOMS
+DomainPeople does not allow Web Hosting and Ecommerce customers to install their own chat rooms. Chat rooms tend to require significant system resources and therefore cannot be permitted as an account option. However, for a small charge, DomainPeople provides Java chat rooms that meet most users' needs and run without hindering system performance.
+BACKGROUND RUNNING PROGRAMS AND CRON JOBS
+DomainPeople may allow programs to run in the background. These programs will be considered on an individual basis and Web Hosting and Ecommerce customers will incur extra charges based on system resources used and operational maintenance needed. If you wish to run background programs please contact DomainPeople Support by logging into your account at https://sitecontrol.domainpeople.com and clicking on Contact Us.
+IRC
+DomainPeople does not allow IRC or IRC bots to be operated by Web Hosting and Ecommerce customers.
+SOFTWARE DISTRIBUTION
+DomainPeople’s Web Hosting and Ecommerce accounts are not configured for the purposes of distributing software and/or multimedia products. If you wish to distribute software and/or multimedia files, please contact DomainPeople at http://www.domainpeople.com/contact/ to make special arrangements.
+MULTIMEDIA FILES
+Multimedia files are defined as any graphics, audio, and video files. DomainPeople Web Hosting and Ecommerce accounts are not to be used for the purposes of distributing and storing unusual amounts of multimedia files. Any website whose disk space usage for storing multimedia files exceeds 70% of its total usage, in terms of total size or number of files, will be considered to be using an unusual amount of multimedia files.
+DATABASES
+Any database stored on DomainPeople’s Web Hosting and Ecommerce servers will be limited in size to 10% of the total disk space allotted for that particular domain's plan/Web hosting account.
+B. DEDICATED SERVER CUSTOMER RESTRICTIONS
+The following Terms of Use apply only to DomainPeople’s Dedicated Server customers, and supplement the terms in sections C, D and E that apply to all DomainPeople customers:
+CUSTOMER SECURITY RESPONSIBILITIES
+You are solely responsible for any breaches of security affecting servers under or associated with your account. If your server is involved in an attack on another server or system, it will be shut down and an immediate investigation will be launched to determine the cause/source of the attack. In such event, you are responsible for the cost to rectify any damage done to your server and any other requirement affected by the security breach.
+IRC
+DomainPeople allows Dedicated Server customers the use of IRC inside the DomainPeople network as long as the use of IRC on a DomainPeople server does not violate any of the other terms of these TOU. As a policy, DomainPeople will not provide vanity IRC reverse DNS records. To enforce this policy DomainPeople does not turn the reverse address of IPs over to the customer. Authority over this information remains with DomainPeople.
+BILLING FOR NETWORK RESOURCES
+You understand that you are responsible for paying for any network resources that are used to connect your server to the Internet. You may request that your server be disconnected from the Internet, but you will still be responsible for paying for any network resources used up to the point of suspension or cancellation.
+C. ALL CUSTOMER TERMS OF USE
+The following terms apply to ALL DomainPeople customers, including you:
+DOMAINPEOPLE SERVICES
+DomainPeople’s services include, but are not limited to:
+any act of preparing, setting up, connecting, maintaining, terminating, or reconnecting customers' account (including all billing data and the space on the particular Web server that DomainPeople provides to customers);
+any use by customers, or any access provided to customers by DomainPeople, of computing, telecommunications, software, information, hardware, and equipment;
+any act, or provision of any service, by DomainPeople to customers, related to Web hosting and domain name registrations (including server usage and technical support), regardless of duration and whether paid for or not;
+any provision by DomainPeople to customers, of any space, Internet connectivity, or electrical power;
+any access or use related to the DomainPeople’s website, including the website itself;
+any other service mentioned in the TOU;
+any other service provided by DomainPeople to customers, whether used or not;
+any other DomainPeople services that are used by customers, whether offered or provided by DomainPeople to customers.
+THIRD PARTY PROVIDERS
+You agree that certain services may be provided by third party providers of DomainPeople and that your use of such services may be subject to further agreements, policies, terms, and conditions in addition to those contained or referenced in this Agreement. DomainPeople makes a reasonable effort to provide customers with technologies, developments, and innovations (collectively "Technologies"), part of which may be licensed, or co-branded, from or by, third party entities. However, DomainPeople makes NO warranty of any kind, either express or implied, regarding the quality, accuracy, reliability, validity, or continued existence of any or all aspects of such Technologies. Moreover, DomainPeople specifically disclaims all warranties of merchantability and fitness for a particular purpose for such Technologies. Furthermore, no customer will hold DomainPeople liable in any way for the revocation of any license, which has been licensed to DomainPeople. The use of the Technologies obtained from or through DomainPeople, or any other referred third party, whether directly or indirectly, is at the sole risk of customers.
+PROXY SERVICES
+For domain name registration services where a third party provider is named in your place (“Proxy Services”), you agree that if DomainPeople or the third party provider does not receive a response to a communication sent to you within 48 hours of such communication being sent, then the sender of such communication may, at its sole discretion, suspend or terminate the Proxy Services. If DomainPeople provides the particular Proxy Services, then DomainPeople reserves the right to suspend or terminate any or all of the services provided to you entirely in such event.
+REVOCATION OF DOMAIN NAME
+DomainPeople reserves the right to immediately suspend, terminate, transfer, or modify your domain name registration for reasons including (i) your breach of this Agreement, (ii) your use of the domain name registration services in a manner that is in contradiction of applicable laws or customarily acceptable usage policies of the Internet industry, including sending mass unsolicited commercial advertisements or otherwise spamming, making or sending threats, harassments or obscenities, (iii) your use of the domain name registration services in connection with unethical activity, (iv) DomainPeople’s receipt of an order from a court of competent jurisdiction or an arbitration award, or (iv) any other grounds that impose a legal risk to DomainPeople as determined at its sole reasonable discretion. You agree that you shall not receive any refund whatsoever for any such suspension, termination, transfer, or modification to your domain name registration.
+OWNERSHIP OF WEBSITE
+The legal owner of your website(s) and account(s) with DomainPeople will be the individual or organization whose name is listed in DomainPeople’s database as the owner. You will fully cooperate with and abide by any and all of DomainPeople’s security measures and procedures in the event of any dispute over ownership of customers' websites and accounts with DomainPeople.
+EMAIL ACCOUNTS
+All email accounts (including, but not limited to POP email accounts) that have not been logged into for a period of 4 consecutive months or more shall be deemed abandoned and DomainPeople shall have the right to delete the email account (“Abandoned Mailbox”) and/or all emails residing in such Abandoned Mailbox (“Abandoned Emails”). At least 2 weeks prior to such deletion, DomainPeople shall send to the master email account a notice that the Abandoned Mailbox and/or the Abandoned Emails shall be deleted if the user or customer does not log into the Abandoned Mailbox within 2 weeks. DomainPeople has the right to delete all content stored in any of customer’s spam folders or email accounts for 30 days or more.
+CUSTOMER RESPONSIBILITY
+You are required to use the DomainPeople network responsibly. This includes respecting the other customers of DomainPeople. DomainPeople reserves the right to suspend and/or cancel service with any customer who uses the DomainPeople network in such a way that adversely affects other DomainPeople customers. While DomainPeople may monitor its service electronically to determine that its facilities are operating satisfactorily, as a general practice, DomainPeople does not monitor its customers' communications or activities to determine whether they are in compliance with the TOU. However, when DomainPeople becomes aware of any violation of the TOU or other user agreements, DomainPeople may take any action to stop or correct such violation, including, but not limited to, denying you access to DomainPeople’s services and equipment or to the Internet. In addition, DomainPeople reserves the right to take action against you or your end user because of the activities of such end user. DomainPeople anticipates that if you are a customer who offers Internet services you will cooperate with DomainPeople in any corrective or preventive action that DomainPeople deems necessary. Failure to cooperate with such corrective or preventive measures is a violation of DomainPeople policy and DomainPeople reserves the right to take any such action even though such action may affect your other end users.
+ILLEGAL USE
+DomainPeople servers may be used for lawful purposes only. Transmission, storage, or distribution of any information, data, or material in violation of any applicable law or regulation, or that may directly facilitate the violation of any particular law or regulation is prohibited. This includes, but is not limited to: copyrighted material; trademarks; trade secrets or other intellectual property rights used without proper authorization; material that is obscene, defamatory, constitutes an illegal threat, or violates export control laws. Additionally, in purchasing DomainPeople services, you certify that you and/or the organization that you represent in procuring services from DomainPeople are not, nor have been designated, a suspected terrorist as defined in Executive Order 13224; are not owned or controlled by a 'suspected terrorist' as defined in Executive Order 13224; and are not on, are not a member of, related to, associated with, or controlled by any organizations on the list contained in the Annex to Executive Order 13224 and all updates thereto. Further prohibited uses of the DomainPeople services are described in Section D below.
+ACTIONS TAKEN BY DOMAINPEOPLE
+You acknowledge that the failure to meet or follow any of the TOU is grounds for account deactivation. DomainPeople will be the sole arbiter as to what constitutes a violation of the TOU. DomainPeople reserves the right to remove any account without prior notice and to refuse service to anyone at any time. When DomainPeople becomes aware of an alleged violation of its TOU, DomainPeople will initiate an investigation. During the investigation, DomainPeople may restrict your access in order to prevent further potentially unauthorized activity. Depending on the severity of the violation, DomainPeople may, at its sole discretion, restrict, suspend, or terminate a customer's Web hosting account and/or pursue other civil remedies. If such violation is a criminal offense, DomainPeople will notify the appropriate law enforcement authorities of such violation. An unlisted activity may also be a violation of the TOU if it is illegal, irresponsible, or constitutes
+disruptive use of the Internet. DomainPeople does not issue credits for outages incurred through service disablement resulting from TOU violations. Violators of the policy are responsible, without limitations, for the cost of labor to rectify any damage done to the operation of the network and business operations supported by the network, and to respond to complaints incurred by DomainPeople.
+DISCLAIMER
+DomainPeople’s services are provided on an as is, as available basis without warranties of any kind, either express or implied, including, but not limited to, warranties of merchantability, fitness for a particular purpose or non-infringement. DomainPeople expressly disclaims any representation or warranty that DomainPeople’s services will be error-free, secure or uninterrupted. No oral advice or written information given by DomainPeople, its employees, licensors or the like, will create a warranty; nor may you rely on any such information or advice. DomainPeople and its partners and suppliers will not be liable for any cost or damage arising either directly or indirectly from any transaction or use of the service.
+NON-DOMAINPEOPLE PRODUCTS
+Any mention of non-DomainPeople products by DomainPeople, its employees, or any third party entity related to DomainPeople is for information purposes only and does not constitute an endorsement or recommendation by DomainPeople. DomainPeople disclaims any and all liabilities for any representation or warranty made by the vendors of such non-DomainPeople products or services.
+MODIFICATIONS
+DomainPeople may discontinue, upgrade, replace, modify, or change in any way, without limitation, any software, application, program, data, hardware, equipment, or portions or components thereof, used to provide customers with DomainPeople’s services. Certain changes to DomainPeople’s services may affect the operation of your personalized applications and content. You are solely responsible, and DomainPeople is not liable, for any and all such personalized applications and content, except as expressly agreed to by DomainPeople.
+INDEMNIFICATION
+You agree to protect, defend, hold harmless, and indemnify DomainPeople, any third party entity related to DomainPeople (including, without limitation, third party vendors), and DomainPeople’s executives, directors, officers, attorneys, managers, employees, consultants, contractors, agents, parent companies, subsidiaries, and affiliates, from and against any and all liabilities, losses, costs, judgments, damages, claims, or causes of actions, including, without limitation, any and all legal fees and expenses, arising out of or resulting in or from your use of DomainPeople’s services.
+LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT, AND UNDER NO THEORY OF LAW OR EQUITY, WILL DOMAINPEOPLE (INCLUDING, WITHOUT LIMITATION, DOMAINPEOPLE’S EXECUTIVES, DIRECTORS, OFFICERS, ATTORNEYS, MANAGERS, EMPLOYEES, CONSULTANTS, CONTRACTORS, AGENTS, PARENT COMPANIES, SUBSIDIARIES, AFFILIATES, THIRD-PARTY PROVIDERS, MERCHANTS, LICENSORS, OR THE LIKE) OR ANYONE ELSE INVOLVED IN CREATING, PRODUCING, OR DISTRIBUTING DOMAINPEOPLE’S SERVICES, BE LIABLE FOR THE LOSS OF A DOMAIN NAME, OR ANY BUSINESS OR PERSONAL LOSS, REVENUES DECREASE, EXPENSES INCREASE, COSTS OF SUBSTITUTE PRODUCTS AND/OR DOMAINPEOPLE SERVICES, OR ANY OTHER LOSS OR DAMAGE WHATSOEVER, OR FOR ANY CONSEQUENTIAL, SPECIAL, INCIDENTAL, PUNITIVE OR INDIRECT DAMAGES OF ANY KIND ARISING OUT OF ANY USE OF, OR ANY INABILITY TO USE, ANY DOMAINPEOPLE SERVICES EVEN IF DOMAINPEOPLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. DOMAINPEOPLE’S TOTAL CUMULATIVE LIABILITY, IF ANY, TO CUSTOMER, OR ANY THIRD PARTY, FOR ANY AND ALL DAMAGES, RELATED TO THE TOU OR DOMAINPEOPLE’S SERVICES, INCLUDING, WITHOUT LIMITATION, THOSE FROM ANY NEGLIGENCE, ANY ACT OR OMISSION BY DOMAINPEOPLE OR DOMAINPEOPLE’S REPRESENTATIVES, OR UNDER ANY OTHER THEORY OF LAW OR EQUITY, WILL BE LIMITED TO, AND WILL NOT EXCEED, THE ACTUAL DOLLAR AMOUNT PAID BY THE CUSTOMER FOR THE SERVICES WHICH GAVE RISE TO SUCH DAMAGES, LOSSES AND CAUSES
+OF ACTIONS DURING THE 3-MONTH PERIOD PRIOR TO THE DATE THE DAMAGE OR LOSS OCCURRED OR THE CAUSE OF ACTION AROSE.
+BACKUP OF DATA
+Except where DomainPeople has expressly agreed in writing to the contrary, you are solely and entirely responsible, and DomainPeople is in NO way responsible, for the management and backup of all of your data, and all updates, upgrades, and patches to any software that you use in connection with DomainPeople services.
+DOMAINPEOPLE’S INTELLECTUAL PROPERTY
+You will not, without DomainPeople’s express written consent, copy, reproduce, republish, or otherwise use any material, in whole or in part, that is located on DomainPeople’s website, and customers will not use any of DomainPeople’s trademarks, service marks, copyrighted materials, or other intellectual property without DomainPeople’s express written consent. You will not, in any way, misrepresent your relationship with DomainPeople, attempt to pass yourself off as DomainPeople, or claim that you are DomainPeople.
+ASSIGNMENT
+You may not assign or delegate their rights or obligations under the TOU or other agreement for DomainPeople’s services, either in whole or in part, without the prior written consent of DomainPeople.
+DISPUTE RESOLUTION
+Any and all claims or disputes arising out of or relating in any way to this TOU or DomainPeople’s services provided under this TOU (including but not limited to requests for specific performance) shall be submitted to mandatory binding arbitration. The arbitration shall be administered by the American Arbitration Association (“AAA”) and conducted pursuant to the AAA’s then current Commercial Arbitration Rule (the “Rules”). The arbitration hearing shall be conducted in the English language and shall take place in Chicago, Illinois before a single arbitrator selected in accordance with the Rules. The parties shall each bear the costs of the arbitration in equal shares. The parties shall also bear their own legal fees (including but not limited to attorneys’ fees) in connection with the arbitration, and the arbitrator(s) may not reallocate the legal fees in conjunction with their award. Any award rendered by the arbitrator shall be confirmed in a state or federal court of competent jurisdiction in Chicago, Illinois and each party hereby irrevocably submits and consents to, and waives any objection to, personal jurisdiction and venue in such court.
+GOVERNING LAW AND SEVERABILITY
+The TOU, and any other agreement for DomainPeople services, will be governed by and construed in accordance with the laws of the State of Illinois, USA without reference to its conflicts of laws principles. Any litigation or arbitration between a customer and DomainPeople will take place in Illinois, and the customer will consent to personal jurisdiction and venue in that jurisdiction. If any provision or portion of the TOU or other DomainPeople agreement is found by a court of competent jurisdiction to be unenforceable for any reason, the remainder of the TOU or the agreement will continue in full force and effect.
+FORCE MAJEURE
+DomainPeople will not be liable for delays in its performance of the TOU or DomainPeople’s services caused by circumstances beyond DomainPeople’s reasonable control, including acts of God, wars, insurrection, civil commotions, riots, national disasters, earthquakes, strikes, fires, floods, water damage, explosions, shortages of labor or materials, labor disputes, transportation problems, accidents, embargoes, or governmental restrictions (collectively "Force Majeure"). DomainPeople will make reasonable efforts to reduce to a minimum and mitigate the effect of any Force Majeure. Notwithstanding anything contained elsewhere herein, lack of finances will not be considered an event of Force Majeure nor will any event of Force Majeure suspend any obligation of customers for the payment of money due.
+WAIVER AND AMENDMENT
+Any waiver, modification, or amendment of any provision of the TOU or other agreement for DomainPeople services, initiated by a customer, will be effective only if accepted in writing and signed by an authorized representative of DomainPeople.
+INDEPENDENT CONTRACTORS
+Nothing in this Agreement will be construed as creating a partnership or relationship of employer and employee, principal and agent, partnership or joint venture between you and DomainPeople. You and DomainPeople will each be deemed an independent contractor at all times and will have no right or authority to assume or create any obligation on behalf of the other, except as may be expressly provided herein.
+MINIMUM AGE REQUIREMENT
+All DomainPeople customers must be at least 18 years of age. Any individual under the age of 18 years ("Minor") must have a parent or guardian accept the TOU in order for the Minor to become a DomainPeople customer. A parent or guardian who accepts the TOU on behalf of a Minor will be primarily liable for ensuring complete and proper compliance with the TOU, including the timely and full payment of the charges for DomainPeople services, and such primary liability will continue even when the Minor has attained the age of 18, unless the parent or guardian obtains DomainPeople’s express written consent to the contrary. Any acceptance of the TOU or any other agreement for DomainPeople’s services will be deemed null and void to the extent that DomainPeople will not be liable in any way as a result of the Minor's age or legal incapacity or the Minor's use of DomainPeople’s services.
+PRIVACY
+DomainPeople is concerned with the privacy of on-line communications and websites. In general, the Internet is neither more nor less secure than other means of communication, including mail, facsimile, and voice telephone service, all of which can be intercepted and otherwise compromised. As a matter of prudence, however, DomainPeople urges its customers to assume that all of their on-line communications are insecure. DomainPeople cannot take any responsibility for the security of information transmitted over DomainPeople’s facilities. Additional details on privacy and DomainPeople’s use of customer information can be found in DomainPeople’s Privacy Statement.
+CONSTRUCTION AND INTERPRETATION
+Wherever in this TOU the masculine, feminine, or neuter gender is used, it will be construed as including all genders, and wherever the singular is used, it will be deemed to include the plural and vice versa, where the context so requires. The division of the TOU into sections/paragraphs, and the insertion of headings/captions, are for convenience of reference only and will not affect the construction or interpretation of the TOU. Any rule of construction to the effect that any ambiguity is to be resolved against the drafting party will not be applicable in the construction or interpretation of the TOU.
+COMPLETE AGREEMENT AND EXCLUSIVITY
+The TOU, and/or any other specific agreement for DomainPeople services, constitutes the complete understanding and agreement between you and DomainPeople. Except when expressly agreed to the contrary in signed writing by an authorized representative of DomainPeople, the TOU supersedes any other written (including digitized/computerized) agreement, oral agreement, and/or agreement by conduct. This TOU, and/or any other specific agreement for DomainPeople services is between you and DomainPeople only and will not confer any rights in any third party except as otherwise expressly provided by DomainPeople.
+D. COPYRIGHT VIOLATIONS AND ABUSE
+COPYRIGHT VIOLATION
+The Digital Millennium Copyright Act ("DMCA") sets forth the law regarding the use of copyrighted materials on the Internet. All DomainPeople customers are subject to the requirements of the DMCA. Individuals or entities submitting notifications of copyright infringement by a DomainPeople customer (per the DMCA) to DomainPeople must follow the below procedures. Customers who are the subject of a DMCA notification that meets the below criteria may be subject to account termination at DomainPeople’s sole discretion.
+DMCACopyright Infringement Notification Requirements:
+Physical or electronic signature of the copyright owner or a person authorized to act on the copyright owner's behalf (the "Claimant").
+Identification of the copyrighted work(s) claimed to have been infringed.
+Identification of the material claimed to infringe the copyright(s), and enough information for DomainPeople to locate it including URLs and specific descriptions of the infringing material at each URL.
+The Claimant's name, address, and telephone number(s).
+A statement that the Claimant has a good faith belief that use of the disputed material is not authorized by the copyright owner or his agent.
+A statement, under penalty of perjury, that the information in the notification of copyright infringement is accurate and that the Claimant is authorized to act on behalf of the copyright owner.
+Send the notification via mail, email, or fax to:
+DomainPeople Legal Department - DMCA Complaints
+550 Burrard Street, Suite 200 Vancouver, BC Canada V6C 2B5
+Email: legal@domainpeople.com Fax: 604-688-9013.
+The DMCA contains very specific guidelines as to what proper notification of claimed infringement must contain. Copyright owners may obtain a copy of the DMCA, including these guidelines, by visiting the website of the U.S. Copyright Office at http://www.copyright.gov/title17/92chap5.html#512.
+DomainPeople is not required to respond to notices that do not meet the requirements of the DMCA. Copyright owners should be aware that there are substantial penalties for false claims and that DomainPeople will actively refer complainants who use the DMCA for improper purposes to relevant law enforcement agencies.
+In the event that DomainPeople must remove, or disable access to, material on your website that is alleged to infringe another's copyright under the DMCA, you acknowledge and agree that DomainPeople may do so by disabling access to your entire website.
+If you believe that you have received a DMCA notice in error, the DMCA allows you to submit a counter-notice to respond to the complainant. The DMCA contains very specific guidelines as to what proper counter-notification of claimed non-infringement must contain.
+DMCA Counter Notification Requirements:
+Physical or electronic signature of the Customer (ie., allegedly infringing website's owner) or a person authorized to act on the Customer's behalf.
+Identification of the copyrighted work(s) claimed to have been infringed.
+Identification of the material claimed to infringe the including URLs and specific descriptions of the infringing material at each URL.
+The Customer's name, address, and telephone number(s).
+A statement under penalty of perjury that the Customer has a good faith belief that the material was removed or disabled or is a result of a mistake or misidentification.
+A statement that the Customer consents to the jurisdiction of Federal District Court for the judicial district in which the Customer's address is located, or if the Customer's address is outside the U.S., for any judicial
+district in which the service provider may be found, and that the Customer will accept service of process from the complainant (or agent thereof).
+Email the counter notification to legal@domainpeople.com.
+ABUSE
+Each of the following prohibited activities constitutes abuse of DomainPeople’s services and is a violation of this TOU. DomainPeople may take any action it deems necessary in response to such abuse, including but not limited to immediate deactivation of your account. The list of activities below is not exhaustive and DomainPeople reserves the right to determine what is or is not abuse at any time in its sole discretion.
+2.1 Spamming Sending unsolicited bulk and/or commercial messages over the Internet (known as "spamming") is prohibited, regardless of whether or not it overloads a server or disrupts service to DomainPeople’s customers. The term "spamming" also includes, but is not limited to, maintaining an open SMTP policy, engaging in spamming using the service of another ISP or IPP and referencing in the spam a website hosted on a DomainPeople server, and selling or distributing software (on a website residing on a DomainPeople server) that facilitates spamming. Violators will be assessed a minimum fine of US$200 and will face immediate suspension. DomainPeople reserves the right to determine, in its sole and absolute discretion, what constitutes a violation of this provision.
+2.2 System and Network Abuse Violations of system or network security are prohibited and may result in criminal and civil liability. Examples of system or network security violations include, without limitation the following: unauthorized access to or use of data, systems or networks, including any attempt to probe, scan or test the vulnerability of a system or network or to breach security or authentication measures without express authorization of the owner of the system or network; interference with service to any user, host or network including, without limitation, mail bombing, flooding, deliberate attempts to overload a system and broadcast attacks; forging of any TCP-IP packet header or any part of the header information in an email or a newsgroup posting.
+2.3 Viruses and Other Destructive Activities Use of DomainPeople’s services or equipment for creating or sending Internet viruses, worms or Trojan horses, or for pinging, flooding or mail bombing, or engaging in denial of service attacks is prohibited. It is also prohibited for any customer to engage in other activity that is intended to disrupt or interfere with, or that results in the disruption of or interference with, the ability of others to effectively use DomainPeople’s services and equipment (or any connected network, system, service or equipment) or conduct their business over the Internet.
+2.4 Child Pornography The use of DomainPeople’s services to store, post, display, transmit, advertise or otherwise make available child pornography is strictly prohibited. DomainPeople is required by law, and will, notify law enforcement agencies when it becomes aware of the presence of child pornography on, or being transmitted through, its services, and your account will be terminated immediately without notice.
+E. All Customer Billing Policy
+The following Terms of Use constitute DomainPeople’s Billing Policy and apply to ALL DomainPeople customers, including you:
+PAYMENTS
+All charges are shown in either US or Canadian Dollars depending on the currency associated with your account. Payments are to be made in US dollars for all accounts created through http://www.domainpeople.com, and
+payments are to be made in Canadian dollars for all accounts created through http://www.domainpeople.ca. DomainPeople accepts the following types of payment:
+Check or Money Order
+Credit Card (VISA, MasterCard, American Express)
+Bank Wire Transfer
+All payments are due on the Account Statement Date. The Account Statement Date is the monthly anniversary of the date the account was activated. If you provide DomainPeople your credit card information, you authorize DomainPeople to automatically charge your credit or debit card for charges that apply to your account. Recurring charges will be posted to your credit card until such time that you cancel your account in accordance with DomainPeople’s Billing Policy in the TOU. Charges subsequent to your initial order will accumulate in your account until such charges exceed $9.95. DomainPeople will then automatically charge your credit card on the next Account Statement Date. You are responsible for directly updating, or notifying DomainPeople, of any changes to your credit card (including, but not limited to card number, expiration date, billing address, or card status).
+Customers not paying by credit card agree to make payment of their balance due within ten (10) days of the Account Statement Date.
+Accounts that are thirty (30) days past due will be automatically suspended. All past due and unpaid balances are subject to collection. In the event of collection, you will be liable for costs of collection including attorney's fees, court costs, and collection agency fees.
+BILLING CYCLES (TERMS)
+DomainPeople offers three Billing Cycles (terms) for hosting charges: Monthly, Quarterly (3 months) and Yearly (12 months). The Billing Cycle begins on the Plan Activation Date. Resellers are limited to the monthly Billing Cycle for all of their charges. Non-credit card payment methods are limited to Annual or Quarterly Billing Cycles.
+You may elect to change your Billing Cycle at any time; however, the new Billing Cycle will only take effect at the time of the next plan renewal.
+All additional features added to an account, including any domains, are charged monthly, or otherwise according to the schedule agreed to upon signing up for said features. Additional items are non-refundable.
+ACCOUNT RENEWALS
+In order to insure that your services remain uninterrupted, all services, including without limitation, hosting, domains, and any additional features, will automatically renew at the end of the relevant billing cycle or registration term. All renewal charges are based on the prevailing rate on the date of renewal according to the service selected. All services are renewed for the same billing cycle/term, with the exception of domain registrations, which are renewed for successive one-year terms. If you wish to cancel any of your services before the relevant expiration/renewal date, please refer to the Cancellation section below
+Important Notice Domain name registrations and Web hosting accounts are handled by separate entities. In the event you need to cancel, you must specify whether you would like to cancel your domain name only, your hosting plan only, or both your domain and hosting accounts. The cancellation or expiration of your domain name does not automatically terminate your hosting account (or vice versa). If at any time you elect to manually renew any of your services (in whole or in part), you then become responsible for all future renewals of such services unless and until you notify DomainPeople otherwise.
+STATEMENTS
+DomainPeople does not mail paper invoices or statements. Statements can be viewed and printed through
+SiteControl. Customers may elect to receive their monthly account billing statement via email. This option may be selected in SiteControl.
+FEES
+Returned (NSF) Checks DomainPeople charges a $25.00 fee for returned (NSF) checks. Customers that issue an NSF check will be required to submit future payments with a certified check or money order.
+Credit Card Chargebacks A $25.00 chargeback fee will be assessed for each credit card chargeback received by DomainPeople.
+Bank Wire Payments DomainPeople does NOT charge fees for accepting payment via bank wire, however, international wire transfers may be assessed a $20.00USD processing fee by an intermediary bank in New York. In addition, your issuing bank may also charge a fee for sending the wire. Please add these fees to the amount that you are sending to DomainPeople or the amount credited to your account will be less than your intended payment.
+Reactivation Customers that wish to reactivate a closed account will be assessed a $19.95 reactivation fee. A $99.95 fee will be assessed if DomainPeople restores your data files to your reactivated account.
+Hosting Plan Changes Customers electing to change to a lower priced hosting plan on the same platform will be charged a $19.95 downgrade fee. There is no upgrade fee for upgrading to a higher priced plan, however, you will be charged any difference between the setup fee applicable to your new and former plans.
+Platform Change Customers that elect to change plans to a different operating system platform will be charged a $19.95 platform change fee.
+Account Splits and Mergers DomainPeople encourages customers to merge hosting plans contained in two or more accounts into one account. There is no fee for this service. Customers may also request that DomainPeople separate one or more plans contained under one account into separate accounts. The fee for this service is $19.95 for each new account created and is charged to the new account. Please direct all requests for these services to DomainPeople’s Billing Support Team by logging into your account at https://sitecontrol.domainpeople.com and clicking on “Contact Us”.
+CANCELLATIONS
+Hosting plans will automatically renew until a plan is cancelled. In order to cancel service, you must contact DomainPeople’s Billing Support Team by logging into your account at https://sitecontrol.domainpeople.com and clicking on Contact Us, or email us directly at billing@domainpeople.com.. Please be aware that there are no pro-rated refunds after the first 30 days of service. Cancellation requests must be received by DomainPeople a minimum of thirty (30) days prior to the end of your current Billing Cycle. Cancellations submitted later than this time may result in automatic renewal of your hosting plan for the next Billing Cycle, and the plan will not be terminated until the expiration of that subsequent Billing Cycle. Cancellations become effective on the day processed by DomainPeople. DomainPeople is unable to cancel your account effective for a future date.
+DomainPeople does not monitor, and will not automatically cancel, plans for problems related to domain name transfers, non-usage, Internic, your ISP, or any other secondary issues not directly related to DomainPeople’s services. Cancellation of services does not relieve you from paying any outstanding balance owed on the account. DomainPeople reserves the right to cancel any account, at any time, without notice, for any reason DomainPeople considers appropriate.
+30-DAY MONEY BACK GUARANTEE
+Each of DomainPeople’s shared hosting plans carries a 30-day unconditional money back guarantee. If you are not completely satisfied with our services or support within the first 30 days, you will be given a full refund of the fees paid in advance (excluding setup fees) upon plan cancellation. The following services do not qualify for the 30 Day Money Back Guarantee: additional items and services; domain name registration; dedicated servers; items and services ordered through the reseller program; domain parking plus; and overage fees.
+REFUND POLICY
+Refunds are only available in accordance with the 30 Day Money Back Guarantee (above). Any refund (if available) will be provided in the same payment method as the original payment. Cancellation requests received beyond the first 30 days of services will not be eligible for any refund, either in whole or in part, of the fees already paid.
+CREDIT CARD DISPUTES/CHARGEBACKS
+DomainPeople has a zero tolerance policy for chargebacks. Any customer who disputes a credit card payment is subject to a fine, suspension and account termination at DomainPeople’s discretion. A charge of $25.00 per chargeback will be assessed to all accounts that receive a chargeback.
+BILLING/PRICE CHANGES
+DomainPeople’s policies and prices are subject to change without notice. Any price changes become effective in the next billing cycle.
+TERMINATION FOR BANKRUPTCY OR INSOLVENCY
+If you at any time become insolvent, or file a bankruptcy petition on your own behalf, or any third party files a bankruptcy petition against you, DomainPeople may immediately terminate DomainPeople’s services to without prior notice or penalty. In such an event, you consent to the grant of relief from any automatic stay of proceedings against DomainPeople.
+Domain Name Registration
+Home
+About Us
+Contact Us
+Whois Lookup
+Alerts
+Support
+Login
+Call Sales Today: 1-877-734-3667
+Domains
+Web Hosting
+More Products
+Resellers
+FAQs
+Bulk Domain Registration
+Domain Registration
+Domain Renewal
+Domain Transfer
+.CA Domains
+.CO Domains
+.TEL Domains
+.ASIA Domains
+Search All Domains
+New Products & Promotions
+My Account Management
+Top-Level Domains
+Pricing
+Comparison
+Benefits
+Sitemail Xchange
+WhoisProtector
+DomainGuard
+PrivateBrand Enterprise
+PartnerDirect API
+Rates
+How It Works
+FAQs
+Free Consultations
+.com
+.co
+.net
+.org
+.info
+.pro
+.mobi
+.biz
+.ca
+.us
+.de
+.eu
+.name
+.asia
+Section Navigation
+Overview
+Web Site Usage
+Terms of Use
+Privacy Statement
+Downloads
+Website Usage
+Terms of Use
+Privacy Statement
+Registration Agreement
+Registrant Name Change Agreement
+Administrative Contact Change Form
+Reseller Agreement
+Registrant Rights and Responsibilities
+.CO 1st Year Discount
+The fastest growing ccTLD. Get a new .CO - 1st year only 12.95!
+Register Your .CO
+.INFO 1st Year Discount
+Provide Information with .INFO! Get your's now only $14.95!
+Get Started Now
+Huge Savings on .CA
+Show
+your Canadian presence with .ca domains. Best value at $14.95
+Order .CA
+.MOBI 1st Year Discount
+Tap into millions of mobile divices. - 1st year only $12.95!
+Order .MOBI
+Twitter
+About DomainPeople
+Contact Us
+Whois Lookup
+Support
+Legal
+Site Map
+© 1999 -
+DomainPeople. All rights reserved. Privacy Statement | Terms of Use | Report Abuse

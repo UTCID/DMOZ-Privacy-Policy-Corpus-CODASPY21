@@ -1,0 +1,165 @@
+https://www.iab.org/documents/correspondence-reports-documents/2011-2/response-to-arins-request-for-guidance-regarding-draft-policy-arin-2011-5/
+Home»Documents»IAB Correspondence, Reports, and Selected Documents»2011»Response to ARIN's request for guidance regarding Draft Policy ARIN-2011-5
+Request
+Response
+ARIN’s Request
+ARIN’s request for guidance on  draft policy ARIN-2011-5.
+From:
+John Curran
+To: IAB Chair Bernard Aboba & IETF/IESG Chair Russ Housley
+Subject: Request for IAB/IESG guidance regarding Draft Policy ARIN-2011-5
+(Shared Transition Space for IPv4 Address Extension)
+Date: Tue, 14 Jun 2011 06:32:10 +0000
+As noted in the communication of 10 April 2011 (attached), the ARIN community
+has been working on a Draft Policy (ARIN-2011-5, Shared Transition Space for
+IPv4 Address Extension) which would result in the allocation of a /10 IPv4 address
+block for facilitating transition technologies. I am writing to provide an update on
+the status of this Draft Policy and to seek guidance from the IAB & IESG regarding
+appropriate next steps.
+After significant deliberation both online and during the ARIN Public Policy meeting,
+the ARIN Advisory Council (which consists of 15 members elected by the ARIN
+community) met in late May and recommended adoption of the Draft Policy by the
+ARIN Board. I have made to the ARIN AC as well as the community at large that
+since the proposed reservation is for shared use, it arguably could be considered
+as a specialized address block in accordance section 4.3 of RFC 2860, and would
+need to made under the guidance of IAB and IESG.
+On June 10th 2011, the ARIN Board of Trustees took the recommendation to adopt
+the Draft Policy under advisement, and directed me to consult with the IAB and IESG
+regarding any issues in adopting this Draft Policy.
+I am hereby requesting that the IAB and IESG consider this matter, and provide any
+guidance regarding recommendations for moving forward as deemed appropriate.
+I am available to discuss the matter by phone at the IAB and IESG's convenience;
+please let me know via email if this is desirable at any time.
+Best wishes and thank you for your consideration,
+/John
+John Curran
+President and CEO
+ARIN
+cc: Nate Davis, ARIN Chief Operating Officer
+Reference: Email of 10 April 2011
+The April 10 email:
+Date: April 10, 2011 7:27:43 AM EDT
+To: Olaf Kolkman
+Cc: Russ Housley , Nate Davis
+Subject: ARIN early notice to IETF regarding "Draft Policy ARIN-2011-5
+(Shared Transition Space for IPv4 Address Extension)"
+Olaf, Russ -
+As I mentioned in Miami, there is a policy proposal in the ARIN region
+which would result in a /10 block of IPv4 being reserved to facilitate IPv4
+address extension. In particular, this block would not be allocated or
+assigned to any single organization, but is to be shared by Service
+Providers for internal use for IPv4 address extension deployments
+until connected networks fully support IPv6. Examples of such needs
+include: IPv4 addresses between home gateways and NAT444
+translators. The policy text and related information may be found here:
+As this is a reserved block for technical purposes which is not assigned
+to any specific ISP or end-user, it resembles an "IANA reserved" block for
+technical purposes, and as such raises some concerns about having an
+RIR make a determination in this matter. In particular, ARIN staff made
+comments on the policy to the effect:
+"In keeping with the spirit of RFC 2860 with respect to the assignment
+of specialized address blocks, ARIN Staff will consult with the IANA and
+the IAB regarding implementation of this draft policy."
+This policy has not been adopted, but will be up for consideration at
+this weeks ARIN meeting in San Juan PR. If well-supported by the
+community and recommended by the ARIN Advisory Council, it will
+go to last call and then the ARIN Board for adoption. I do consider
+the policy proposal to be in scope for ARIN's consideration, as the
+address space would be put to constructive use collectively by the
+Service Provider community, but could equally see how it could be
+viewed as a matter which has typically been handled within the IETF.
+ARIN has sufficient IPv4 reserves to implement this policy if adopted,
+but we will formally ask at that time for guidance from the IETF before
+implementing. This most likely would occur in the June timeframe.
+I expect that you will want to share this message with your colleagues
+and that is encouraged, and to the extent that you'd like to share your
+views at any time, they would be most welcome.
+Thanks!
+/John
+John Curran
+President and CEO
+ARIN
+cc: Nate Davis, ARIN Chief Operating Officer
+The IAB’s response
+From: Bernard Aboba
+Sent: Wed 6/22/11 1:37 PM
+To: John Curran
+Dear John,
+The IAB has reviewed your request for IAB/IESG guidance regarding Draft
+Policy ARIN-2011-5. We would like to submit the following for the ARIN
+board's consideration.
+== A Procedural Issue: ARINA 2011-005 and RFC2860 section 4.3 ==
+The IAB honors and values the division of responsibilities as
+documented in RFC 2860 section 4.3. That section forms the basis for
+Unicast address allocation via ICANN through the RIR system.
+The second paragraph of that section excludes 'assignments of
+specialised address blocks (such as multicast or anycast blocks)' from
+that IANA-> RIR model, leaving such blocks as the responsibility, and
+under the authority, of the IETF.
+Policy proposal 2011-005 is not a regular proposal in the sense that
+it adheres to Unicast space. In contrast, it allows for an allocation
+of addresses for special and global use very similar to, and almost
+indistinguishable from, RFC1918 local addresses. Because of the impact
+beyond the ARIN region the management (i.e. creation
+and subsequent changes) of such reservation should be global and RFC2860
+puts the management responsibility with the IETF.
+The IAB believes that the adoption by ARIN would be in conflict with the
+provisions in RFC2860 and would set a bad precedent: Setting aside
+special addresses should be done within the existing process, i.e. by
+the IETF.
+It is our expectation that the IAB and the ARIN Board are in general
+agreement about this interpretation.
+== Re-reviewing the Operational and Technical merits in the IETF ==
+The IAB is aware that earlier variations of the proposal have been brought
+to the IETF. However, there was very little support and some strong
+opposition to them, consequently, the IETF never reached consensus to
+approve them.
+If there is consensus for 2011-005 in the ARIN region we would be
+happy to work with you to resubmit the proposal to the IETF and, as
+usual, have the IESG judge consensus. This would include our reaching
+out to other RIRs to have members of their community provide input on
+this proposal. Clear support from the various RIR communities might
+bring new insights into to the IETF, producing a level of support that
+was not present with the earlier drafts.
+Obviously the IAB cannot commit to the outcome of that process, but we
+can work with you to make sure the proposal gets maximum exposure
+within the IETF and the broader community.
+[for the IAB],
+Bernard Aboba
+IAB Chair
+Recent Posts
+IAB Reappoints Warren Kumari to the ICANN Technical Liaison Group
+Reappointment of Colin Perkins as IRTF Chair
+IAB Report to the Community for IETF 109
+Call for nominations: IETF appointment to the ISOC Board of Trustees
+Call for Feedback on the ICANN Technical Liaison Group Appointment
+Search for:
+IAB Work
+IAB Agenda
+IAB Minutes
+IAB Documents
+IAB Open Meetings
+IAB Wiki
+Technical Plenaries
+IAB Programs
+Evolvability, Deployability, and Maintainability Program
+IANA Program
+Internet Threat Model Program
+Liaison Oversight
+Plenary Planning Program
+RFC Editor Future Development Program
+RFC Editor Series Oversight Committee (RSOC)
+Related Organizations
+IETF Administration LLC
+RFC Editor
+IANA
+IRTF
+IETF Trust
+ISOC
+Privacy Statement
+IETF/IRTF/IAB Privacy Statement
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org

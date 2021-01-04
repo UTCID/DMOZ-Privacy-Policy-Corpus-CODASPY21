@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch06s02.html#websec2-CHP-6-SECT-2.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Using Public Keys for Identification The identification and authentication techniques
+mentioned in the first part of this chapter all share a common flaw:
+to reliably identify an individual, that person must be in the
+presence of the person or computer that is performing the
+identification. If the person is not present—if the identification is
+being performed by telephone, by fax, or over the Internet—then there
+is high potential for fraud or abuse because of replay attacks.Replay AttacksTo understand replay attacks, consider the case of a computer that
+verifies its user’s identity with a fingerprint scanner. Under ideal
+conditions, a person sits down at the computer, presses his thumb to
+the scanner, and the computer verifies his identity. But consider
+the case shown in Figure
+6-5, in which one computer acquires the fingerprint and
+another performs the verification. In this case, it is possible for
+an attacker to intercept the code for the digitized fingerprint as
+it moves over the network. Once the attacker has the fingerprint
+transmission, the attacker can use it to impersonate the
+victim.Figure 6-5. When a biometric verification is performed remotely over a
+computer network, the identification can be compromised by replay
+attacks (by tampering with the computer or software that measures
+the biometric).Replay attacks aren’t a problem for biometrics alone: they represent a fundamental ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

@@ -1,0 +1,25 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch20.html#websec2-CHP-20-SECT-1.2.1
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 20. Controlling Access to Your Web ContentOrganizations run web servers because they are an easy way to
+distribute information to people on the Internet. But sometimes you
+don’t want to distribute your information to
+everybody. For instance, you might have:Information on your web server intended only for employees of
+your organizationAn electronic publication that contains articles that are only
+available to customers who have paid a monthly subscription
+fee.Confidential technical information that is only for customers
+who have signed nondisclosure agreementsA web-based interface to your order-entry system that is open
+to preauthorized users, but should not be open to the general
+public These scenarios have different access control
+requirements. Fortunately, today’s web servers have a variety of ways to
+restrict access to information.Access Control StrategiesThere are a number of techniques that can be used to control
+access to web-based information:Restricting access by using URLs that are “secret”—that is,
+URLs that are hidden and unpublishedRestricting access to a particular group of computers based
+on those computers’ hostnames or Internet addressesRestricting access to a particular group of users based on
+their identityMost web servers can use these techniques to restrict access to HTML pages, CGI scripts, and API-invoking files. These techniques can be used alone or in combination. You can also add additional access control mechanisms to your own CGI and API programs. ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

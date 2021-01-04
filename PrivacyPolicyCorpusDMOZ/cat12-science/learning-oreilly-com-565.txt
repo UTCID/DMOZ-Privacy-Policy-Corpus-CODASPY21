@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch21.html#websec2-CHP-21-SECT-1.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 21. Client-Side Digital CertificatesIn the previous chapter, we looked at the use of digital
+certificates by organizations. In this chapter, we’ll look at how
+digital certificates can certify the identity of individuals. We’ll also
+walk through the VeriSign Digital ID Center, the first certification
+authority to offer public services on the Web.Client Certificates A client certificate
+is a digital certificate designed to certify the
+identity of an individual. As with certificates for web sites, client
+certificates bind a particular name to a particular secret key. They
+are issued by certification authorities. Client certificates have many
+uses and benefits:Digital certificates can eliminate the need to remember
+usernames and passwords. You simply sign your digital signature
+whenever you enter a restricted space (provided that the server
+accepts your digital signature).Instead of deploying a large distributed database,
+organizations can simply use an authorization digital certificate
+issued by a particular CA as proof that the individual is
+authorized to access the resource. (Many organizations use the
+existence of a valid certificate from a CA as authorization in
+itself. This works, but it is costly because you then need a
+different CA for every service that you wish to be able to
+authorize separately.)Because authenticating your identity with a digital certificate requires access to a secret key, it is harder for groups of individuals to share a single digital ID than ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

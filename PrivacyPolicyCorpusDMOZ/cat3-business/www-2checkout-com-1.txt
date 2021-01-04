@@ -1,0 +1,172 @@
+http://www.2checkout.com/legal/cookie-policy.php
+This Site Uses Cookies
+Allow
+We use cookies to enhance site navigation, analyze site usage, and assist us to improve your website experience as set out in our Cookie Policy.
+Legal Overview
+All you need to know about 2Checkout Legal
+Cookies Policy
+We use cookies and tracking technologies on our websites to enable us to analyze use of our online services, to improve your experience of our services, and to allow you to use certain features of the online services, such as sharing content via social networks or other communications channels. We never sell your information; we use cookies data to enhance your experience with our website.
+Use of cookies
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide web services and functionalities for the users.
+Cookies may be either "persistent" cookies or "session" cookies. A persistent cookie consists of a text file sent by a web server to a web browser, which will be stored by the browser and will remain valid until its set expiry date (unless deleted by the user before the expiry date). A session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+Strictly Necessary
+2Checkout
+cookiesPolicyAccept
+Read More
+Hide
+FUNCTION
+cookiesPolicyAccept: The master cookie is used to manage all website cookies. All cookie settings set by the user are stored in this master cookie.
+EXPIRY DATE
+cookiesPolicyAccept: 10 years
+2Checkout
+PHPSESSID
+Read More
+Hide
+FUNCTION
+PHPSESSID: This cookie is a session cookie used to establish a user session and to pass state data via a temporary cookie.
+EXPIRY DATE
+PHPSESSID: Session
+2Checkout
+initialTrafficSource
+Read More
+Hide
+FUNCTION
+initialTrafficSource: This cookie is used only to identify first contact with our site. The cookie collects information on where visitors have come from. Collected information is used to compile reports to help improve website experience including the sign-up process.
+EXPIRY DATE
+initialTrafficSource: Session
+2Checkout
+referral
+Read More
+Hide
+FUNCTION
+referral: This cookie is used only to identify if a user is referred by a partener via a refferal link. The cookie collects the link variable information to be used for future payment processing.
+EXPIRY DATE
+referral: 1 year
+Incapsula (Imperva)
+incap_ses_{Proxy-ID}_{Site-ID}
+visid_incap_{Site-ID})
+nlbi_*
+Read More
+Hide
+FUNCTION
+incap_ses_{Proxy-ID}_{Site-ID}: This is used to filter out malicious request.
+visid_incap_{Site-ID}): The cookie enhances website performance and security. It remembers visitors across the virtual firewall/CDN.
+nlbi_*: Incapsula DDoS Protection and Web Application Firewall: Load balancing cookie. Ensures requests by a client are sent to the same origin server.
+EXPIRY DATE
+incap_ses_{Proxy-ID}_{Site-ID}: 1 year
+incap_ses_{Proxy-ID}_{Site-ID}: Session
+nlbi_*: Session
+AWS Classic Load Balancer
+AWSALB
+Read More
+Hide
+FUNCTION
+AWSALB: This cookie enables server traffic allocation to optimise the user experience. A load balancer is used to determine which server has the best availability. The information generated cannot identify you as an individual.
+EXPIRY DATE
+AWSALB: 7 days
+Google Analytics / Google Universal Analytics
+_gid
+_ga
+_gali
+__utmzzses
+Read More
+Hide
+FUNCTION
+_gid
+_ga
+__utmzzses
+We use Google Analytics to track anonymously: number of visits, traffic sources, average session time. The data we collect will not be used for advertising purposes unless the visitor gives specific consent to enable marketing cookies.
+EXPIRY DATE
+_gid: 1 day
+_ga: 2 years
+__utmzzses: Session
+Performance
+2Checkout
+__reff
+__sreff
+Read More
+Hide
+FUNCTION
+__reff: This cookie stores all the details about all past referrers
+__sreff: This cookie is used to calculate time spent on website and number of viewed pages
+EXPIRY DATE
+__reff: 2 year
+__sreff: Session
+Omniconvert
+mktz_engagement
+mktz_ab
+mktz_sess
+mktz_client
+Read More
+Hide
+FUNCTION
+mktz_engagement
+mktz_ab
+mktz_sess
+mktz_client
+These are functional cookies used by the Omniconvert A/B testing and pop-up tool in order to provide useful business information .
+EXPIRY DATE
+mktz_engagement: 1 hour
+mktz_ab: 1 year
+mktz_sess: 10 hours
+mktz_client: 1 year
+Google Ad Features
+_dc_gtm_UA-xxxxxxxx
+_gat_UA-xxxxxxxx-x
+Read More
+Hide
+FUNCTION
+_dc_gtm_UA-xxxxxxxx:
+Google Analytics Advertising Features is a collection of features that allows us to:
+- Use demographic and interest data in our Analytics reports
+- Create Segments based on demographic and interest data
+- Create Remarketing Audiences based on specific behavior, demographic, and interest data, and share those lists with Google Ads
+_dc_gtm_UA-xxxxxxxx:
+EXPIRY DATE
+_dc_gtm_UA-xxxxxxxx: Session
+_gali: 30 seconds
+Quora Pixel
+m-b
+Read More
+Hide
+FUNCTION
+m-b
+EXPIRY DATE
+m-b: 2 year
+Hotjar
+_hjIncludedInSample
+_hjid
+Read More
+Hide
+FUNCTION
+_hjIncludedInSample
+_hjid
+These cookies are associated with web analytics functionality and services from Hot Jar, a Malta based company. It uniquely identifies a visitor during a single browser session and indicates they are included in an audience sample.
+EXPIRY DATE
+_hjIncludedInSample: Session
+_hjid: 1 year
+G2Crowd
+__cfduid
+Read More
+Hide
+FUNCTION
+__cfduid
+This cookie helps Cloudflare detect malicious visitors to our Customers’ websites and minimizes blocking legitimate users. It may be placed on the devices of our customers' End Users to identify individual clients behind a shared IP address and apply security settings on a per-client basis. It is necessary for supporting Cloudflare's security features.
+This cookie collects and anonymizes End User IP addresses using a one-way hash of certain values so they cannot be personally identified.
+The _cfduid cookie does not:
+- allow for cross-site tracking,
+- follow users from site to site by merging various _cfduid identifiers into a profile, or
+- correspond to any user ID in a Customer’s web application.
+EXPIRY DATE
+__cfduid: 30 days
+Contact us
+This website is owned and operated by Avangate B.V (DBA 2Checkout).
+If you have any questions about our cookies or this cookies policy, please contact us:
+(a) by email to: info@2checkout.com
+(b) by post to: De Cuserstraat 93, 1st floor, 101 office, 1081 CN Amsterdam, The Netherlands
+Privacy policy and cookies policy
+This Cookies policy constitutes an inseparable part of the Terms of Use and Privacy Policy of this site. Click here for Terms of Use and Privacy Policy.
+Simplify the eCommerce process. Try 2Checkout.
+The most flexible digital commerce platform that can give your business a real boost.
+TALK TO SALES
+SIGN UP for FREE

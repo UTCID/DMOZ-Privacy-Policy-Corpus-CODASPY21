@@ -1,0 +1,96 @@
+http://www.truthaboutscientology.com/privacy.htm
+Skip to main content
+Home
+Especially for Scientologists
+Protecting Your Privacy
+Protecting Your Privacy
+Many people interested in learning more about Scientology are, understandably, concerned about protecting their privacy ... but anonymity online is an issue that affects a wide range of people, from free-speech advocates to whistle-blowers to journalists.
+Do I need to protect my privacy?
+You might not need to take any steps to protect your privacy online. You shouldn't get so paranoid that you think that simply visiting a web site will tell the site's owner everything there is to know about you. However, your computer does store information about sites you've visited (in your browser's History cache), keywords you've searched for (in the Google cookie), and sometimes, information that COULD be used to identify you personally - especially if you're the only person who uses your computer, and if that computer connects to the Internet using a static IP address.
+Some Scientologists are concerned that visiting a web site might reveal their identity to the owner of that site.
+When you visit a web site, the site usually tracks visits in its access logs. This is very helpful to site owners - it tells them what information people visiting the site are most interested in.
+Here's an example of a visit to one of my non-Scientology web sites, the Racer Records site. This is a line straight out of one of my web logs.
+p1014-ipad92marunouchi.tokyo.ocn.ne.jp - - [01/Aug/2004:01:04:34 -0600] "GET /SampleContractComments.html HTTP/1.1" 200 31832 "http://www.google.co.jp/search?q=Contract%E3%80%80Paper%E3%80%80Sample&h..." "Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)"
+The part that's most likely to reveal information to me about this visitor is the first part - the p1014-ipad92marunouchi.tokyo.ocn.ne.jp . That's the IP address of the computer that visited the site. For me, the site owner, it's nice information to have - for one thing, it tells me that the person was visiting from Japan (the .jp), which is kind of interesting to me - but it doesn't tell me the person's name or address or anything further than that. (Note that the big long thing in quotes, the google address, tells me that the visitor searched using the terms Contract, Paper, and Sample.)
+Now, if I were REALLY motivated to find out this person's name - if, for example, I saw evidence that he or she had tried to hack into my system and I wanted to prosecute - I could, conceivably, contact the ISP and request the identity of the account owner who was using that computer at that time. In many cases, I'd have to have a subpoena to get that information - but not always. But many ISPs randomly assign users their IP addresses each time they access the Internet (often called "dynamic addressing"), so the ISP might not even be able to tell me which user it was. Even if they could, though, I might still have the wrong person - if the account owner's friend or child was using the computer instead.
+This is why one way to protect your privacy is to use a computer at a library or a public place like an Internet cafe. You might want to make sure they don't require a real name or have surveillance cameras, though.
+In addition to the access logs, there are other mechanisms a site can use to find out more about you, including cookies, JavaScript, and PHP.
+So what do I do now?
+There's a lot of information on the Internet about protecting your privacy. A Scientologist posting under the nickname "Safe" put together a good list of resources that can serve as a good (if potentially out of date) starting point.
+The newsgroup alt.privacy.anon-server is dedicated to discussions about protecting privacy online.
+My own suggestion for your first step would be to avoid using Internet Explorer. Microsoft's browser is riddled with security holes, but there are alternatives, including Mozilla and Opera.
+Here are some other pages listing information, tools, and techniques you can use to protect your privacy on the Internet:
+Further reading:
+Anonymity at InfoAnarchy
+Privacy.net
+Online Anonymity at Doing Freedom
+Tools and Resources
+EPIC - the Electronic Privacy Information Center
+information, tools, news - probably your best single resource
+Scott Squires' page on Privacy
+the Pig-Monkey Freedom page
+TOR
+The Onion Router, a project of the U.S. Navy
+TOR Documentation
+About TOR and Privacy
+JAP - Java Anonymous Proxy
+JAP makes it possible to surf the internet anonymously and unobservably.
+Scientology's Statistics Scientology's Statistics
+2019 Scientology Stats Analysis
+Advance
+Celebrity
+Freewinds
+Source
+Scientology Clears
+Scientology Publications Advance
+Auditor
+Celebrity
+Freewinds
+Impact
+Source
+Especially for Scientologists Altering the Tech
+CoS Outpoints
+Determining What's True
+Erasing History
+Got M/Us?
+Knowledge Reports
+Protecting Your Privacy
+Recommended Reading
+Sources for Standard Tech
+Things to Think About
+About This Site Send Me Stuff!
+Legal Threat from Scientology
+Scientology's DMCA Complaint
+About Kristi Wachter
+Search the database
+Name
+Apply
+Search articles
+Search
+Have You Read The Aberree?
+Interested in the early days of Scientology, Dianetics, Humanics, and Synergetics? Check out The Aberree, a decidedly unauthorized, explicitly non-serious journal from the 1950s and 1960s.
+New Look; Same Data
+I redesigned the site in 2019 for more flexibility and better layout. If you have trouble finding something, or have questions, please feel free to contact me. (Or visit the old site at version1.truthaboutscientology.com.)
+What's New
+New Lists, July 2020
+July 15, 2020
+I've just uploaded five new lists:
+Auditor volume 54 number 1
+Auditor volume 54 number 2
+Celebrity 451
+Freewinds 129
+Source 261
+As always, MANY thanks to the people who helped enter and proofread this data.
+New 2019 Lists
+December 05, 2019
+I've just uploaded five new lists:
+Advance volume 51 number 3
+Advance UK volume 51 number 3
+Celebrity 450
+Freewinds 128
+Source 259
+As always, MANY thanks to the people who helped enter and proofread this data.
+New Stats Analysis for 2019
+November 14, 2019
+After many years, I've finally done some more recent analysis.
+Check out the Scientology Stats Analysis 2019 for charts for various services, including OT III.

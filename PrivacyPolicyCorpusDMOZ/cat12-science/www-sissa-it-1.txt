@@ -1,0 +1,192 @@
+http://www.sissa.it/cookie-policy
+Skip to content
+Skip to navigation
+English
+Italiano
+Find file
+Web services
+Webmail
+Library
+Phonebook
+Scuola Internazionale Superiore di Studi Avanzati
+Toggle navigation
+MENU
+Home
+About
+Training
+Research
+Innovation
+Quality
+Media
+Tenders
+Recruitment
+Admission
+Forum
+Find file
+Web services
+Webmail
+Library
+Phonebook
+English
+Italiano
+Search form
+Search
+You are hereHome » Cookie Policy
+Cookie Policy
+Cookie Policy
+This page outlines the cookie policy in use in this website along with details of cookies used by the website. This information may change over time and the latest version can be found at this page.
+Most websites you visit use cookies. Cookies are small text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies do lots of different jobs, like letting you navigate between pages efficiently, storing your preferences, and generally improving your experience of a website. Further information about what cookies are can be found on wikipedia: http://en.wikipedia.org/wiki/HTTP_cookie
+Types of cookies
+The Italian Data Protection Authority broadly divides cookies into different categories depending on their use and on who sends (sets) the cookie.
+Technical cookies
+Technical cookies are cookies necessary for website navigation or to provide the services offered by the website. They are not used for ulterior purposes.
+To quote the Italian Data Protection Authority,
+Technical cookies are those used exclusively with a view to "carrying out the transmission of a communication on an electronic communications network, or insofar as this is strictly necessary to the provider of an information society service that has been explicitly requested by the contracting party or user to provide the said service."
+Profiling cookies
+Profiling cookies are cookies used to track user navigation and create a profile of their habits which can then be used to send advertising messages to the user's device.
+Once again quoting the Italian Data Protection Authority,
+Due to the particular invasiveness that such devices may have in the private sphere of users, European and Italian legislation requires the user to be adequately informed about their use and to express their valid consent.
+Cookies can also be categorized into first party and third party cookies depending on who sets the cookie.
+First party cookies
+These are set directly by the website that you are visiting and can only be accessed by that site.
+Third party cookies
+Third party cookies are set by a different organisation to the owner of the website you are visiting. For example, the website might use a third party analytics company who will set their own cookie to perform this service. The website you are visiting may also contain content embedded from, for example YouTube or Flickr, and these sites may set their own cookies.
+Cookies used by this website
+First party cookies
+This website uses the Drupal CMS platform and the Matomo (formerly Piwik) analytics tool which use first party technical cookies. Like many websites we collect analytics data to help improve the services offered to users. We use Matomo - https://matomo.org/ (an open source alternative to Google Analytics) which has the advantage that any data collected is stored on servers owned by us and not transferred to third parties.
+The following cookies are used by this site:
+Cookie Name
+Type
+Duration
+Details
+has_js
+Drupal technical cookies
+browser session
+helps the website understand browser Javascript functionality
+PHPSESSID
+browser session
+PHP session cookie
+SESSxxxx
+23 days
+session cookie for logged in users
+Drupal.toolbar.collapsed
+100 years
+used to store user interface preferences when logged in
+_pk_ses.*
+Matomo (formerly Piwik) technical cookie
+30 mins
+used by Matomo to track a session, i.e., how long a visitor is on the website
+_pk_cvar.*
+30 mins
+used by Matomo for internal statistics
+_pk_id.*
+13 months
+used by Matomo to avoid counting a person twice when counting how many people visit the website
+_pk_ref.*
+6 months
+used by Matomo to identify the page from which visitors have come to the web site to enable us to identify which websites generates the most traffic
+cookie-agreed
+technical cookie
+1 year
+used to remember if a visitor has agreed to the use of cookies.
+Third party cookies and services
+The following third party cookies are set by stats.sissa.it:
+Cookie Name
+Type
+Duration
+Details
+PIWIK_SESSID
+Matomo (formerly Piwik) technical cookie
+browser session
+used by Matomo for the user session
+piwik_ignore
+2 years
+tells Matomo to ignore this user when they choose to opt-out of Matomo (see box below)
+The following third party cookies are set by external organisations, you can check the relevant third party websites indicated below for further information about their cookie policies.
+Set By
+Cookie Name
+Duration
+Details
+Youtube
+YSC
+browser session
+Youtube is used to provide video content to visitors. When you watch a video embedded on our site, YouTube creates these cookies in order to optimize streaming performance and update the watch counters of our videos etc.
+See the Google Privacy Policy - http://www.google.com/policies/privacy/ for further details.
+Youtube
+PREF
+240 days
+Youtube
+VISITOR_INFO1_LIVE
+240 days
+Youtube
+GEUP
+2 years
+.list-manage.com
+__utmc
+browser session
+MailChimp (list-manage.com) is used to manage the subscription to our newsletter. These cookies are set if you subscribe to the newsletter.
+See the MailChimp Privacy Policy http://mailchimp.com/legal/privacy/ for further details.
+sissa.us4.list-manage.com
+_AVESTA_ENVIRONMENT
+browser session
+.list-manage.com
+__utmt
+30 mins
+.list-manage.com
+__utmb
+1hour
+.list-manage.com
+__utmz
+6 months
+.list-manage.com
+__utma
+2 years
+flickr.com
+_gt
+10 minutes
+These cookies are set by Flickr which is used to provide some image galleries in the website.
+See the Flickr Privacy Policy - http://info.yahoo.com/privacy/uk/yahoo/ for further details.
+flickr.com
+_ga
+2 years
+google.com
+NID
+6 months
+This cookie is set by Google Maps which is used in some parts of the website.
+See the Google Privacy Policy - http://www.google.com/policies/privacy/ for further details.
+reCAPTCHA
+We use the reCAPTCHA service provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ("Google").
+This function mainly serves to distinguish if a form submission (e.g. the "Contact Us" form) was initiated by a real person or improperly
+carried out through a mechanical and automated process (spam bots). This service includes the sending of the IP address and, if applicable, other data required by Google for the Google reCAPTCHA service. For this purpose your input will be communicated
+to and used by Google. This data collection is subject to the data protection regulations of Google.
+Further information on Google reCAPTCHA and Google's data privacy policy, please visit: https://www.google.com/intl/en/policies/privacy/
+How to manage cookies
+You can manage cookies by modifying your web browser preferences (see the following paragraph for more details of how to do this). Typically you can accept or reject cookies or ask to be notified when a cookie is set. Please remember if you choose to block cookies you may not be able to access all or parts of this website. If you do wish to restrict or block cookies which are set on your device then you can do this through your web browser settings (the help function within your browser should tell you how). You can also visit www.aboutcookies.org which contains comprehensive information on how to do this on a wide variety of web browsers.
+The following are links to information about managing cookies in some commonly used browsers:
+Mozilla Firefoxhttps://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+Google Chromehttps://support.google.com/chrome/answer/95647?hl=en
+Apple Safarihttps://support.apple.com/kb/PH19214?locale=en_US
+Internet Explorerhttp://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie=ie-11
+Matomo opt-out
+If you wish, you can opt out of web analytics data collection. Please note that this does not have any effect on your use of the website. If you prefer us not to gather analytical information please untick the checkbox below:
+Contact details
+If you have any questions regarding our cookie policy we will gladly answer them. You can contact us at:
+Scuola Internazionale Superiore di Studi Avanzatiinfo@sissa.it
+Via Bonomea, 265
+34136 Trieste - Italy
+Phone +39 040 3787 111
+This cookie policy was last updated in April 2018
+Share Facebook
+Google+
+LinkedIn
+Twitter
+Print HTML
+Scuola Internazionale Superiore di Studi Avanzati - via Bonomea, 265 - 34136 Trieste ITALY
+Codice Fiscale 80035060328 - TEL: (+39)0403787111 - INFO: info@sissa.it PEC: protocollo@pec.sissa.it
+Amministrazione trasparente
+Albo Pretorio
+Il 5 x mille alla SISSA
+Cookie Policy
+Contact Us
+Emergency Numbers
+Privacy

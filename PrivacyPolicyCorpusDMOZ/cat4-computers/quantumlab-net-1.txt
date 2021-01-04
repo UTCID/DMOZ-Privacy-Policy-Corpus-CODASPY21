@@ -1,0 +1,251 @@
+http://quantumlab.net/pine_privacy_guard/
+Pine Privacy Guard
+Table of Contents
+Introduction
+Demo
+License
+Required Software
+Download
+Installation
+Some Important Notes About Security
+Tips, Suggestions, And Other Notes
+Other Software
+FAQ
+Introduction
+Pine Privacy Guard is a small perl
+script to interface Pine
+and GnuPG for the secure exchange
+of email.
+It allows Pine users to conveniently:
+Encrypt email.
+Decrypt email.
+Clear-sign email.
+Verify clear-signed email.
+Other features:
+Securely remember secret key passphrases, so that the passphrase
+need only be typed in once per Pine session.
+Aliases, so that mail sent to an email address can automatically be
+encrypted with any number of specified public keys.
+Simple installation.
+The necessary files consist of only one perl script
+called by Pine via four symbolic links, and an optional aliases file.
+A short script means no funny business.
+The compact, well-documented
+code makes it easier to see what is going on for yourself, so you
+don't need to trust the author to not put in backdoors or
+spyware.
+Demo
+Here is a sample session of using Pine with
+Pine Privacy Guard.
+License
+GNU General Public License
+Required Software
+Perl 5 or higher
+Command: perl -v
+http://www.perl.com/
+Pine 4.10 or higher
+Command: pine -v
+http://www.washington.edu/pine/
+GnuPG 1.0.5 or higher
+Command: gpg --version
+http://www.gnupg.org/
+shellutils 2.0 or higher (for the stty program)
+Command: stty --version
+(This is usually preinstalled on popular Linux distributions.)
+http://www.gnu.org/directory/shellutils.html
+The most recent versions of both Pine and GnuPG are preferred, as many
+of the software upgrades are security updates.
+Download
+The most recent version is Pine Privacy Guard 1.02.
+You can download it
+here: pinepg-1.02.tgz
+Installation
+Brief instructions
+Unzip+untar the package to the installation directory.
+Verify path names are correct for your system in pine_privacy_guard.pl,
+as well as the Unix permissions of pine_privacy_guard.pl.
+Set the two pine settings: display-filters and sending-filters.
+See below.
+Configure your own aliases file (optional).
+If you haven't done so already, you will need to have generated your own
+public/private GnuPG key pair in order to sign your messages.
+See this HOWTO for getting this setup
+quickly.
+It is recommended however that the GnuPG documentation be
+read in order to understand why the procedure is how it is.
+Detailed instructions
+Unzip and untar the package to where you want to install the
+installation directory.
+Where you install it need not be in
+your $PATH, as it will only be called by pine by its full path.
+For example, for single-user use, it would be appropriate to run
+unzip and untar from your home directory.
+gunzip -c pinepg-x.x.tgz | tar xvf -
+will create a pinepg-x.x subdirectory.
+(If you are using a GNU version
+of tar, as is the case on most Linux systems, then you can just do
+"tar zxvf pinepg-x.x.tgz") To install system-wide, execute the above,
+as root, from /usr/local/, for example.
+In the script pine_privacy_guard.pl, the top line should consist of
+the full path to the perl executable, preceded by the 2 characters
+"#!".
+Find out what it should be with the command "which perl".
+Similarly, make sure the paths are correct for the variables under
+"Set full paths to files".
+Also make sure the permissions are set
+correctly: chmod 755 pine_privacy_guard.pl.
+There is
+no loss of security if the script is made publicly readable and
+executable.
+However, it would be a major security hole if the script
+were to be world-writable.
+Set the Pine display-filters and sending-filters settings as given
+below.
+From within pine, go to
+(M)ain Menu >> (S)etup >> (C)onfig >> (W)hereIs
+Word to find : display-filters
+Substitute /usr/local/pinepg below to where ever your installation
+directory is.
+For example, if you installed to your home directory,
+you may have /home/myusername/pinepg/decrypt below instead
+of /usr/local/pinepg/decrypt.
+Everything else should not be changed.
+display-filters = _LEADING("-----BEGIN PGP MESSAGE-----")_ /usr/local/pinepg/decrypt _RESULTFILE_ _DATAFILE_ _PREPENDKEY_, _LEADING("-----BEGIN PGP SIGNED MESSAGE-----")_ /usr/local/pinepg/verify _TMPFILE_ _RESULTFILE_
+sending-filters = /usr/local/pinepg/clearsign _RESULTFILE_ _DATAFILE_ _PREPENDKEY_, /usr/local/pinepg/encrypt _RECIPIENTS_ _RESULTFILE_ _DATAFILE_ _PREPENDKEY_
+(The variable names like _RESULTFILE_ are special tokens recognized
+by Pine, that it will substitute for its own values.)
+Pine Privacy Guard includes a feature in which email sent to any
+particular address (staff@example.com for example) can automatically
+be encrypted using a specified set of email addresses from your public
+GPG keyring (alice@example.com and bob@example.com for example).
+This is done with an aliases file.
+The default location for the
+aliases file is .pinepg_aliases in your home directory.
+Copy it
+there by doing:
+cp pinepg_aliases ~/.pinepg_aliases
+To enable the example, add the following line to the aliases file
+(with no indentation):
+staff@example.com	alice@example.com bob@example.com
+This feature can also be used for individual email addresses as well.
+For example, the email address associated with Alice's public key
+may be alice@example.com but she prefers to receive email at
+wonderland@example.com.
+Then include the line (with no indentation)
+wonderland@example.com	alice@example.com
+in the aliases file.
+For users who have multiple public keys with
+identical email addresses, the 8-digit hexadecimal ID for the key can be
+used in place of the email address for distinguishing the public key in
+the keyring.
+See the GPG documentation for more details on this ID.
+Some Important Notes About Security
+As with all security software, Pine Privacy Guard is a tool for
+security, not a fool-proof solution.
+As with any tool, it must
+be understood, at least in part, in order to be used effectively.
+If complete security is the goal, there is no substitute for an
+understanding of the underlying security protocols themselves.
+An excellent text about security protocols and algorithms is Applied Cryptography
+by Bruce Schneier.
+For the user who wants to quickly setup and use Pine Privacy Guard,
+here is an example of a few considerations that are no substitute for
+understanding the underlying protocols:
+During the pine session, your passphrase will be asked for, and
+you will need to type it in.
+Any component between your keyboard and
+the machine on which pine is running may intercept your passphrase.
+In particular, if you are running pine on a remote machine via an insecure
+channel (telnet, for example) then you are susceptible to an eavesdropper
+obtaining your passphrase.
+For convenience, Pine Privacy Guard encrypts your passphrase,
+and writes it to the temp directory for automatic retrieval during the
+pine session.
+Your passphrase is encrypted (using GPG) using the pine
+session key, which is unique to each user-initiated pine session, (see
+the pine documentation for details) and may exist in insecure memory.
+To retrieve your passphrase, an attacker would have to get this session
+key as well as the encrypted passphrase file, which is also protected
+by the Unix permissions system.
+In general, if you believe the system administrator, root user, or
+anyone who can obtain the super user permissions of your system may try
+to circumvent these security measures, then you are using an insecure
+system and no amount of cryptography will help.
+In such a situation,
+the nosy administrator could, if they tried hard enough, capture all
+key strokes from the keyboard, and all text sent to your terminal, in
+the extreme case.
+In less extreme cases, they can simply read all of
+your files, including email.
+Tips, Suggestions, and Other Notes
+Setting up GnuPG
+In order to sign messages, you will need to have generated
+your own public/private key pair with GnuPG.
+Here is a ``HOWTO Setup GnuPG Quickly'' page for the
+impatient user.
+For those who are interested in real security, there is
+no substitute for an understanding of the cryptographic protocols.
+It
+is recommended that the GnuPG documentation be read.
+Be careful using Bcc with encrypted email
+If you send out an encrypted email while having someone receive a blind
+carbon copy, for example:
+To: Alice <alice@example.com>
+Bcc: Bob <bob@example.com>
+then Pine Privacy Guard will encrypt the message with both Alice's and
+Bob's public keys.
+When Alice decrypts the message, she will see that
+the message was also encrypted with Bob's key even though he would not
+be listed as a recipient in the email header.
+Thus if you truly want to
+keep the Bcc recipients out of the picture when sending encrypted email,
+the Bcc recipients should be emailed separately.
+Clear-signing when the word "From" starts a line in the email
+Some email transport software look for a special line in the email header
+which starts with a "From" in order to extract transport information.
+In order to distinguish these special lines from a line in the email body
+that may begin with a "From", some software will insert a prefix character
+">" just before the "From" in the email body so that it doesn't confuse
+other email software down the line as email gets passed along through
+the Internet.
+This effect can produce what seem to be bad signatures
+on clear-signed messages.
+That is, Alice may sign an email that says:
+From the past to the present, the future is always ahead.
+When Bob receives it, some email transport program between Alice and Bob
+may have transformed it into:
+>From the past to the present, the future is always ahead.
+Alice signed the first version, but Bob is checking Alice's signature
+against the second version.
+Since the versions are different, Bob sees
+that the signature is bad.
+Pine Privacy Guard solves this problem by automatically prefixing lines
+that begin with a "From" with the ">" character before clear-signing
+the message.
+This is a user-configurable feature; by default it
+is on.
+To turn it off, set the $prefix_From variable near the top of
+pine_privacy_guard.pl to 0 instead of 1.
+Here's a FAQ.
+Other Software
+Here are some links to other security software.
+These packages are not
+endorsed, nor necessarily have been used by any of the developers of
+Pine Privacy Guard; they are provided in the hope that anyone looking
+to use a secure email program will find the best package for their
+particular needs.
+If there are any additional software packages that
+I missed of this variety that should be included here, please send an
+email to pinepg at quantumlab.net.
+pgp4pine
+``pgp4pine is an interactive program for using encryption within the
+Pine email client. It is compatible with PGP 2/5/6 and GnuPG 1.0.''
+pgpenvelope
+``pgpenvelope is an interface to meld using Pine with GnuPG,
+the GNU Privacy Guard. It allows one to sign/encrypt/decrypt/verify
+one's mail messages using GnuPG from within Pine. Ease of installation
+and use, and a nice interface are primary goals during development.''
+PinePgp
+``PinePgp is set of display and sending filters which enables
+pine to send and receive signed and/or encrypted e-mails.''
+pine-pgp-filters

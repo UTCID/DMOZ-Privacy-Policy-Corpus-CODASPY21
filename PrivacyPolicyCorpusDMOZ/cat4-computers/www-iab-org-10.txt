@@ -1,0 +1,68 @@
+https://www.iab.org/documents/correspondence-reports-documents/2016-2/iab-comment-on-revised-proposed-implementation-of-gnso-thick-whois-consensus-policy-requiring-consistent-labeling-and-display-of-rdds-whois-output-for-all-gtlds/
+Home»Documents»IAB Correspondence, Reports, and Selected Documents»2016»IAB comment on "Revised Proposed Implementation of GNSO Thick Whois Consensus Policy Requiring Consistent Labeling and Display of RDDS (Whois) Output for All gTLDs
+On 7 December 2016, the IAB responded to the ICANN call for public comments on the Revised Proposed Implementation of GNSO Thick Whois Consensus Policy Requiring Consistent Labeling and Display of RDDS (Whois) Output for All gTLDs:
+Thank you for the opportunity to provide public comment on the
+"Revised Proposed Implementation of GNSO Thick WHOIS Consensus Policy
+Requiring Consistent Labeling and Display of RDDS (WHOIS) Output for
+All gTLDs."
+RDAP was developed within the IETF, by technical contributors whose
+affiliations include registries, registrars, and other WHOIS users and
+providers, to resolve the technical shortcomings of WHOIS.  Given the
+well known issues with WHOIS, the IAB strongly encourages ICANN,
+Registrars, and Registries to begin experimenting with RDAP as soon
+as possible.  In particular, the IAB recommends the removal of all
+barriers to the deployment and use of RDAP.
+WHOIS lacks support for authenticated access and differentiated
+responses.  Since RDAP can make use of HTTP authentication, the
+IAB believes that authenticated access should be one of the features
+Registrars and Registries investigate through experimentation.  We do
+not believe that authenticated access will necessarily incur more
+costs for any users, and we hope that experimentation will
+demonstrate that to be the case.
+The IAB understands that ICANN policy development is needed to
+determine which registration data ought to be available to the public
+and which registration data deserves additional protection.  We hope
+experimentation with RDAP can provide insight to that policy
+development work.
+Finally, the IAB strongly encourages the use of RDAP only over TLS
+in order to offer server authentication as well as protection for
+registration data.
+Respectfully submitted for the IAB,
+Andrew Sullivan
+IAB Chair
+Recent Posts
+IAB Reappoints Warren Kumari to the ICANN Technical Liaison Group
+Reappointment of Colin Perkins as IRTF Chair
+IAB Report to the Community for IETF 109
+Call for nominations: IETF appointment to the ISOC Board of Trustees
+Call for Feedback on the ICANN Technical Liaison Group Appointment
+Search for:
+IAB Work
+IAB Agenda
+IAB Minutes
+IAB Documents
+IAB Open Meetings
+IAB Wiki
+Technical Plenaries
+IAB Programs
+Evolvability, Deployability, and Maintainability Program
+IANA Program
+Internet Threat Model Program
+Liaison Oversight
+Plenary Planning Program
+RFC Editor Future Development Program
+RFC Editor Series Oversight Committee (RSOC)
+Related Organizations
+IETF Administration LLC
+RFC Editor
+IANA
+IRTF
+IETF Trust
+ISOC
+Privacy Statement
+IETF/IRTF/IAB Privacy Statement
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org

@@ -1,0 +1,114 @@
+https://oxfordmosaic.web.ox.ac.uk/platform-privacy
+Skip to main content
+Home
+Oxford Mosaic Privacy Statement
+Oxford Mosaic Privacy Statement
+About this statement
+Oxford Mosaic is the University of Oxford’s Web Platform. This statement explains how private information will generally be handled when you visit websites run on the Oxford Mosaic platform. Individual websites may also provide further details of specific site usage in their own privacy statement which will supersede or supplement this Privacy Statement.
+The University’s main website, www.ox.ac.uk, is managed separately to Oxford Mosaic. A privacy policy for the main University of Oxford site is maintained independently.
+Contact Web forms
+On some Oxford Mosaic websites you may be asked to provide some limited personal information via a contact form. This information will be submitted by email to the owner of the site. By supplying this information you are consenting to the University holding and using it for the purposes for which it was provided. Further details may be provided in a site-specific privacy policy, regarding the storage and use of this information, if relevant.
+Social Media sharing
+Some Oxford Mosaic websites may provide the facility to share content with a social media site. In these cases there is no data held by the website, but the social media vendor may maintain their own records.
+Cookies
+Oxford Mosaic websites use "cookies". A cookie is a small file of letters and numbers that we place on your computer, or mobile device, if you agree. These cookies allow us to distinguish you from other website users, which helps us to provide you with a good experience and to continually improve our websites.
+Cookies may be set either by the website ("first party cookies"), or by a third party website ("third party cookies"). The tables below identify the cookies we use and explains the purposes for which they are used. Details of third party cookies, in the tables below, are based on information available to date. We continue to collect this and accordingly, may update this information from time to time.
+Individual Oxford Mosaic websites may use additional cookies to those associated with the core platform. These may be listed separately in the site’s individual privacy statement.
+Drupal
+Oxford Mosaic is run on the Drupal content management system (CMS). Drupal sets some cookies in order to improve the user experience and assist in the delivery of the site (e.g. to test whether a user has JavaScript enabled.) The following cookies are set by Drupal on this site:
+Cookie ID
+Purpose
+Contains or Links to personal data
+Data
+Type
+Lifespan
+ccShowCookieIcon
+Records whether or not to show the Cookie Control icon
+no
+text
+Persistent
+90 days
+[sitename]_cookiecontrol
+Records the fact that you as a user have agreed to accept cookies from this site
+no
+text
+Persistent
+90 days
+has_js
+Determines whether or not JavaScript is enabled so that Drupal can more efficiently perform operations to enhance the user experience
+no
+boolean
+Session
+End of session
+Please note that the only cookie that is set before you consent to cookies is the has_js cookie, it is not currently possible for the site to function without setting this cookie.
+Cookies for logged-in users
+In addition to the cookies listed above, the following cookies are set when you log in to the site:
+Cookie ID
+Purpose
+Contains or Links to personal data
+Data
+Type
+Lifespan
+SESS[random string]
+Identifies the user's session
+no
+unique string
+Persistent
+23 days
+Drupal.toolbar.collapsed
+Determines the display preference of the toolbar for the user
+no
+boolean
+Persistent
+100 years
+Google Analytics
+Oxford Mosaic websites use Google Analytics to collect information about how visitors use the sites. Google Analytics uses a cookie to record information about usage. Site owners and platform administrators use the information to compile reports and to help improve websites and management of the platform. The cookie collects information in an anonymous form, including the number of visitors to websites, where visitors have come from and the pages they visited. For further information on how Google Analytics handles user data please see the overview of Google Analytics privacy. The table below shows details of the cookie that Google analytics uses:
+Cookie ID
+Purpose
+Contains or Links to personal data
+Data
+Type
+Lifespan
+_ga
+Tracking for statistics
+no
+Visitor ID (Anonymous)
+Persistent
+2 years
+New Relic
+The platform on which Oxford Mosaic is hosted uses New Relic to monitor the performance of the system. Platform administrators analyse the information to identify potential performance enhancements. Further information can be seen on New Relic's cookie information page.
+Cookie ID
+Purpose
+Contains or Links to personal data
+Data
+Type
+Lifespan
+JSESSIONID
+Used to monitor Mosaic performance
+No
+Visitor ID (Anonymous)
+Session
+End of Session
+Further information
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, please visit www.allaboutcookies.org.
+To opt out of being tracked by Google Analytics across all websites visit https://tools.google.com/dlpage/gaoptout.
+Access to information
+The Data Protection Act 1998 gives you the right to access information held about you. For further information about this right and how to exercise it, please see the University’s Policy on Data Protection.
+Changes to our Privacy Statement
+Any changes we may make to our Privacy Statement in the future will be posted on this page.
+Contact
+Any queries or concerns about privacy on the Oxford Mosaic web platform may be sent by email to oxfordmosaic@it.ox.ac.uk. Queries respecting site-specific usage should be sent to the Contact address provided on the site privacy statement page.
+1
+Start
+2
+Complete
+Was this page useful? *
+Yes
+No
+Please tell us why:
+Feedback for page
+Leave this field blank
+Submit
+powered by
+oxford mosaic
+List of site pages

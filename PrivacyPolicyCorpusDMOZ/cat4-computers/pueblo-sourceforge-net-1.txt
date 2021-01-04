@@ -1,0 +1,133 @@
+http://pueblo.sourceforge.net/doc/privacy.php
+Pueblo/UE Privacy Policy
+We just thought it would be a good idea to explain in more detail and
+upfront any possible privacy concerns that may arise from use of the
+Pueblo/UE client software or website.
+Similar information has always
+been provided in the readme and in the About dialog.
+We respect your
+privacy -- and if you're paranoid and don't believe us, since Pueblo/UE
+is open source you can verify it for yourself! :-)
+If you have any concerns, or desire further clarification, then please
+feel free to contact us using the feedback link to the left.
+Website Privacy
+Like all websites, the server automatically logs your IP address, browser
+identification string (not a unique id, just an indicator of the name and
+version of your browser software, and by extension what operating system
+you are running it on), which page you are visiting, and which page you
+just came from.
+This happens whenever you visit any page of the site, and
+is outside our control (meaning that we can't turn it off).
+This information contains no "personal" information, with the possible
+exception of the IP address.
+Even that doesn't really count, since most
+people (especially home users) have a dynamic IP address, meaning that the
+next time you visit, it will probably be different, and therefore useless
+as a means of identification.
+We do not use tracking cookies (or indeed any other sort of cookies), so
+your privacy while browsing our site is assured.
+What little information
+we do gather is used only to improve the site (for example, by discovering
+and correcting broken links).
+Software Privacy
+There are three potential areas of privacy concern in the Pueblo/UE client
+software itself:
+Registration
+Free registration is required to continue using the Pueblo/UE software.
+This involves filling in a little questionnaire provided within the client
+itself.
+Information entered here (with the single exception of the street
+address) is then sent to our website and stored in our database.
+This
+information is not publically accessible, and will never be intentionally
+disclosed to any third parties.
+(I use the word "intentionally" because
+someone might hack into our system and obtain the information.
+But it's
+unlikely.)
+Since Pueblo/UE does not contain any kind of unique installation, user, or
+computer-specific id, there is no way for anyone to correlate a particular
+installation of Pueblo/UE with a registration entry in our database.
+At
+the time of writing this statement, the registration info itself has not
+been used for anything at all -- it's been collected merely for historical
+reasons (ie. Pueblo 2.01 did it too).
+Again, we will never willingly give
+ANY registration details to any third parties, nor use them to send spam.
+We hate spam.
+It is possible (although unlikely) that some information
+may be used (in aggregate form only) to show some statistics on the website;
+for example, the percentages of male and female users of Pueblo/UE.
+But
+again, however we use the information, there will be no way to
+"reverse-engineer" it back to individual details.
+World and version tracking
+At certain times, Pueblo/UE will contact its central server in order to
+perform a version check and collect usage data.
+The information provided
+by this is stored in our database, along with the time that it occurred.
+While the communication is in the form of an HTTP request (thereby meaning
+that we receive your IP address), neither the IP address nor any other
+personal or computer-identifying id is stored.
+Specifically:
+On startup, Pueblo/UE will contact our server in order to perform a
+version check.
+If you do not have the latest version of Pueblo/UE, it
+will then display a dialog box informing you that a later version is
+available, and giving you the option of visiting our website in order
+to download it.
+The only information (other than the time) sent on
+this event is the version of Pueblo/UE that you are currently using.
+When you connect to or disconnect from a world, Pueblo/UE notifies us
+of the version you are using, the hostname, and the port number of the
+world.
+It also notifies us if the world claims to be Pueblo-enhanced
+or not.
+It's important to note that it does NOT send your
+username and/or password, nor does it send us any commands you enter or
+content displayed by the world itself.
+Also, since we do not store any
+identifying information, there is no way for us to even associate a
+particular connection with a disconnection, so we cannot even tell how
+long you are connected for.
+Currently, the world connection information is not used for anything, though
+we do intend sometime in the future to cross-check it against the Pueblo/UE
+World List, thereby allowing us to determine if a certain world is
+Pueblo-enhanced but not listed as such (or the reverse), or if a world is
+popular (connected to frequently), but not listed at all -- telling us that
+perhaps we should add it to the list.
+It's also worth pointing out that just like the registration, this is
+nothing new -- Pueblo 2.01 did and does the exact same thing.
+All of this
+tracking information is only stored online for a very brief time before it
+is transferred to offline storage, so someone hacking into our system would
+see very little data -- and what little they could see wouldn't be of much
+use to a hacker anyway, since there's nothing personal there.
+World-displayed or user-entered content
+Pueblo/UE provides a means whereby you can connect to a world, send commands
+to it, and receive content back.
+As far as Pueblo is concerned, this is a
+closed loop -- it does not send any of this information either to us or to
+any third parties.
+However, there are two important points you should bear in mind:
+The connection is not encrypted.
+This means that it is possible
+for someone else to intercept your communication in-transit, without the
+knowledge of you, Pueblo, or of the world.
+The Internet is not an
+inherently secure medium.
+However due to the size of the Internet, the
+chances of this happening to you are fairly remote.
+Most clients have a logging feature.
+And that includes Pueblo.
+This means that it's possible for your words or actions to "come back to
+haunt you," if some witness to the event happened to have their client
+performing logging at the time.
+(Or, for that matter, simply
+copy&pasted it into another application.)
+uecasm@users.sf.net
+Website copyright © 2001-05 by Ultra Enterprises.
+Chaco, Pueblo, and the Chaco logo were trademarks of Andromedia, Inc.
+(About)
+Ultra Enterprises, UE, Pueblo/UE, and the UE logo are trademarks of
+Gavin Lambert. (About)

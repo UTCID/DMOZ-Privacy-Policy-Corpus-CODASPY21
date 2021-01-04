@@ -1,0 +1,27 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch06s03.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Real-World Public Key ExamplesIn this section, we’ll explore how two systems use public key cryptography to authenticate identity: PGP,
+an offline system that uses public keys to prove authorship of
+electronic documents; and SSH, an online system that uses public keys
+to authenticate the identity of interactive users and remote
+systems.Document Author Identification Using PGP
+If you get an email message, how do you know who it is
+really from? Today’s email programs allow users to enter any “From:”
+address that they wish, so how do you know that a message is really
+from the person listed in the message header? Email messages can
+travel through many different computers and be repeatedly forwarded,
+so how do you know that the message you are reading hasn’t been
+altered since it was originally sent?The underlying infrastructure of the Internet doesn’t provide
+any mechanism for verifying the authorship of email messages. It’s
+all too easy to claim you are somebody—or something—you aren’t. It’s
+this reality that was behind Peter Steiner’s cartoon in the July 5,
+1993 issue of The New Yorker, which portrayed
+two dogs in front of a computer; one says to the other, “On the
+Internet, nobody knows you’re a dog.”But while it is possible to anonymously post messages and claim to be something that you aren’t in the online world, it is also possible to establish your identity, and authenticate your authorship of documents and email messages that you create. One of the best ways to do this is ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

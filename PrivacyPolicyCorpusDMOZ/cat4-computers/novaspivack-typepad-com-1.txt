@@ -1,0 +1,337 @@
+https://novaspivack.typepad.com/nova_spivacks_weblog/2006/08/privacy_and_sea.html
+This Blog has Moved to NovaSpivack.com
+PLEASE NOTE: This blog has moved to www.novaspivack.com -- Go there for current content from now on. You should follow me on Twitter for unusual news and ideas at @novaspivack
+Get my RSS Feed
+Profile
+Home
+« What is in frame 2:19, Anyone? |
+Main
+| A Problem with Space Travel »
+August 17, 2006
+Privacy and Search
+The recent negative hype about the lack of privacy in search results got me thinking about the needs of online services versus those of individuals. Is there a way to satisfy both constraints?
+AOL's accidental data release was one thing that worried me. Google's "personal search" feature, where the log of all your searches is displayed, was another. The fact that everything you search for and click on, during your entire life, could potentially be logged, owned, accessed, and shared, by and with parties other than yourself, without your consent or even your knowledge, is a step towards a world I wouldn't want to live in.
+The arguments in favor of allowing this to continue either hinge on commercial needs or homeland security and law enforcement. Regarding commercial needs: just as in other situations where commercial needs pose risks to individual privacy (such as medical records for example), the government needs to step in and regulate if the industry can't do an adequate job of self-regulating. And regarding industry self-regulation, it can easily become a case of wolves guarding sheep, and so has to be carefully regulated by government on a meta-level. As for the needs of homeland security and law enforcement, access should be strictly regulated (and in theory, it already is).
+The thing is, even if governments and industry stepped up and took responsibility for regulating this situation, one can never be
+sure that future regime change, accidents, or individuals or groups
+with both access and a motive won't lead to future privacy violations. As a result
+even ironclad assurances, laws, and strict procedures by organizations
+and governments, won't protect anyone against such unknowns. The only truly safe solution is one that puts all of the control, and all of the responsibility and liability, for one's own private data, in one's own hands. In a digital world, where everything is potentially recorded and logged forever, this is really important.
+The solution is, I think, that individuals, rather than search companies, should own and control their searchstreams and their clickstreams such that they can make use of that information for their own personalization needs, and they can selectively (and either authentically or anonymously) share it with other services if and when they want to. Someone should build an infrastructure that enables this and then make it an API that all services and apps can use. The folks at Attention Trust and Root Markets are on the right track. This is a very interesting business opportunity.
+I would like to see a search engine and a search toolboar for Firefox that enable you to search anonymously. I did a little research (on Google, how ironic) and found Proxify, Kaxy and Mezzy. They seem interesting although perhaps a little clunky seeming. What we need is a high-profile, really polished, professional, well-funded, simple anonymous proxy for Google. And a Firefox toolbar to go with it.
+If a service like what I am describing existed (and there was some level of independent audit that could assure me that it really didn't capture or save anything private without my permission -- for example if all the code was open source and vetted), then I would definitely always use it instead of going directly to Google. Does it exist already? Let me know. If not, someone should build it. In fact, I wouldn't mind if it showed me ads, just like Google does. So it could make money from my searching. I would bring my business there as would most people who have educated themselves about this issue.
+Finally, wearing my corporate hat for the moment, as someeone building an online service in the search space, if there was a suitable (and that is the key term here...) way that the service my company is building could give individuals control of their private data while also still being able to learn from it in aggregate and/or anonymously for individuals, that would be great. As an online service provider I don't really want to have to worry about keeping such private information and all the overhead and potential liability that goes with it.
+Online services do need to learn from the behavior of their users in order to personalize content and target ads, etc. But they don't need to necessarily house that data themselves, nor do they need to necessarily be able to key it to the real identities of their users. If there was an infrastructure that enabled my service to learn, personalize and target, without having to hold and manage the dataset underlying that capability, that would actually be a potential savings to my business, and a reduction of risk, and a benefit to my users. The thing is, while early attempts to enable this do exist, they aren't mature enough to rely on, and nobody knows how well they will scale or whether they will have enough funding and traction to last. So in the meantime those of us building online services are in a gray area -- we need certain features for our services to function well, and we also would like to find a way to protect privacy for the individual. This is the connundrum of the moment. It's a business opportunity for someone out there.
+Posted on August 17, 2006 at 08:56 AM in Business, Democracy 2.0, Government, Intelligence Technology, Knowledge Management, Search, Society, Technology, Terrorism, Web 2.0, Web/Tech
+| Permalink
+Reblog
+(0)
+|
+Comments
+The comments to this entry are closed.
+Recent Posts
+Republished from March 11: Twine CEO Comments about Evri Acquisition
+If You See This Post...
+Please update your RSS subscription for this blog
+This Blog has Moved to NovaSpivack.com
+The Web Wide World -- The Web Spreads Into the Physical World
+A New Economic Framework for Content in Web 3.0
+What's After the Real Time Web?
+Check out Factual
+Vote for My Panels & Twine at SXSWi 2010
+The Future of the Web: BBC Interview
+Nova
+1
+Following
+104
+Followers
+Archives
+March 2010
+January 2010
+December 2009
+November 2009
+October 2009
+August 2009
+May 2009
+April 2009
+March 2009
+February 2009
+More...
+About
+Twine | Nova Spivack - My Public Twine items
+Radar Networks
+Nova's Trip to Edge of Space
+In 1999 I flew to the edge of space with the Russian air force, with Space Adventures. I made it to an altitude of just under 100,000 feet and flew at Mach 3 in a Mig-25 piloted by one of Russia's best test-pilots. These pics were taken by Space Adventures from similar flights to mine. I didn't take digital stills -- I got the whole flight on digital video, which was featured on the Discovery Channel.
+Nova & Friends, Training For Space...
+In 1999 I was invited to Russia as a guest of the Russian Space Agency to participate in zero-gravity training on an Ilyushin-76 parabolic flight training aircraft. It was really fun!!!! Among other people on that adventure were Peter Diamandis (founder of the X-Prize and Zero-G Corporation), Bijal Trivedi (a good friend of mine, science journalist), and "Lord British" (creator of the Ultima games). Here are some pictures from that trip...
+Featured Past Articles
+Web 3.0 Roundup
+Web 3.0 - A Visual Timeline
+Minding The Planet -- The Meaning and Future of the Semantic Web
+Minding the Planet: Why Machines Will Never be Conscious
+On Privacy and Search
+Great News for Radar Networks
+Tip for Entrepreneurs: On Using Technical Recruiters
+Tip for Entrepreneurs: On Raising Venture Capital -- You Do Not Need Finders!!!
+Semantic Web - The Ontology Integration Problem
+A Proposal to Make the Media (and Society) Better
+Collective Intelligence 2.0
+Want a Link to Your Blog from Minding The Planet?
+Towards a World Wide Database (WWDB)
+My Grandfather, Peter Drucker, Died Today
+The Spherical Desktop
+Minding the Planet: A Physics of Ideas: Measuring The Physical Properties of Memes
+Proposal For A New Constitutional Amendment: A Separation of Corporation and State
+The Genesis Project
+Minding the Planet: From Semantic Web to Global Mind
+From the Metaweb to the Semantic Web: A Roadmap
+Minding the Planet: Superdistribution is the Solution to Digital Piracy and Marketing -- and a Venture Opportunity too!
+Is There a Hidden Message in DNA?
+A Solution to the Landmine Problem
+Semantic Linking
+Integrating Blogs and Wikis
+The Birth of "The Metaweb" -- The Next Big Thing -- What We are All Really Building
+Stop Minting Small Change
+On the Separation of Corporation and State
+ThePeople.net -- New Technology for Emergent Democracy
+"Memes" are the units of the Metaweb: Microcontent by Another Name
+A New Solution to Spam: "The Internet Member's License"
+The Metaweb: Beyond Weblogs
+Neuromarketing and Memetic Attenuation
+Calculating the Maximum Effective Size of a Social Network?
+Graph Automata -- What Can Social Networks Teach us About Underlying Physical Laws?
+Humans Should Intentionally Seed Life on Mars. Why We Must Start Now.
+It's Time for a Virtual Species Diversity Ark
+The Physics of the Web
+The Global Environmental Tax Proposal
+Is Consciousness Fundamental?
+Are Organizations Organisms?
+New Version of My "Metaweb" Graph -- The Future of the Net
+The Human Menome Project
+Autocaching: A New Blogging Feature I Would Like to Have...
+Minding the Planet: Should Corporations be Democracies?
+Are We Living In a Simulated Reality?
+On the Separation of Corporation and State
+I Want Wireless Power
+The Emerging Science of Synchrony
+Every Revolution Needs a Name: The Metaweb...
+Defining Microcontent
+How to Make the iPod Better
+From Application-Centric to Data-Centric Computing: The Metaweb
+Humor: How to Spam Me More Effectively
+Social Networks, Physics, Civilizations -- Do they All Obey the Same Underlying Rules?
+Using Nanoparticles to Augment Human Brains...?
+Pages
+Other Articles I've Written
+Categories
+AJAX
+Alternative Medicine
+Alternative Science
+Artificial Intelligence
+Biology
+Books
+Buddhism
+Business
+Cellular Automata
+Cognitive Science
+Collaboration Tools
+Collective Intelligence
+Conferences and Events
+Consciousness
+Cool Products
+Current Affairs
+Defense and Intelligence
+Democracy 2.0
+Digital Music Devices
+ecology
+Email
+Environment
+Family
+Film
+Food and Drink
+Fringe
+Games
+Genetic Engineering
+Global Brain and Global Mind
+Government
+Group Minds
+Groupware
+Humor
+Intelligence Technology
+Interesting People
+Interspecies Communication
+Knowledge Management
+Knowledge Networking
+Medicine
+Memes & Memetics
+Microcontent
+Military
+Mobile Computing
+Music
+My Best Articles
+My Proposals
+New Energy Sources
+Philosophy
+Physics
+Politics
+Productivity
+Radar Networks
+Religion
+RSS and Atom
+Science
+Search
+Security
+Semantic Blogs and Wikis
+Semantic Web
+Social Networks
+Society
+Software
+Space
+Systems Theory
+Technology
+Television
+Terrorism
+The Future
+The Metaweb
+The Semantic Graph
+Things I Don't Like
+Things I like
+Things I Want
+Transhumans
+Travel
+Twine
+Unexplained
+Venture Capital
+Virtual Reality
+Web 2.0
+Web 3.0
+Web/Tech
+Weblogs
+Wild Speculation
+Wireless Power
+Wireless Technology
+Categories
+AJAX
+Alternative Medicine
+Alternative Science
+Artificial Intelligence
+Biology
+Books
+Buddhism
+Business
+Cellular Automata
+Cognitive Science
+Collaboration Tools
+Collective Intelligence
+Conferences and Events
+Consciousness
+Cool Products
+Current Affairs
+Defense and Intelligence
+Democracy 2.0
+Digital Music Devices
+ecology
+Email
+Environment
+Family
+Film
+Food and Drink
+Fringe
+Games
+Genetic Engineering
+Global Brain and Global Mind
+Government
+Group Minds
+Groupware
+Humor
+Intelligence Technology
+Interesting People
+Interspecies Communication
+Knowledge Management
+Knowledge Networking
+Medicine
+Memes & Memetics
+Microcontent
+Military
+Mobile Computing
+Music
+My Best Articles
+My Proposals
+New Energy Sources
+Philosophy
+Physics
+Politics
+Productivity
+Radar Networks
+Religion
+RSS and Atom
+Science
+Search
+Security
+Semantic Blogs and Wikis
+Semantic Web
+Social Networks
+Society
+Software
+Space
+Systems Theory
+Technology
+Television
+Terrorism
+The Future
+The Metaweb
+The Semantic Graph
+Things I Don't Like
+Things I like
+Things I Want
+Transhumans
+Travel
+Twine
+Unexplained
+Venture Capital
+Virtual Reality
+Web 2.0
+Web 3.0
+Web/Tech
+Weblogs
+Wild Speculation
+Wireless Power
+Wireless Technology
+See More
+People I Like
+Peter F. DruckerPeter F. Drucker was my grandfather. He was one of my principal teachers and inspirations all my life. My many talks with him really got me interested in organizations and society. He had one of the most impressive minds I've ever encountered. He died in 2005 at age 95. Here is what I wrote about his death. His foundation is at http://www.pfdf.org/
+Mayer SpivackMayer Spivack is my father; he's a brilliant inventor, cognitive scientist, sculptor, designer and therapist. He also builds carbon fiber trimarans in his spare time, and studies animal intelligence. He is working on several theories related to the origins of violence and ways to prevent it, new treatments for learning disabilities, and new theories of cognition. He doesn't have a Web site yet, but I'm working on him...
+Marin SpivackMarin Spivack is my brother. He is the one of the only western 20th generation lineage holders of the original Chen Family Tai Chi tradition in China. He's been practicing Tai Chi for about 6 to 10 hours a day for the last 10 years and is now one of the best and most qualified Tai Chi teachers in America. He just returned from 3 years in China studying privately with a direct descendant of the original Chen family that created Tai Chi. The styles that he teaches are mainly secret and are not known or taught in the USA. One thing is for sure, this is not your grandmother's Tai Chi: This is serious combat Tai Chi -- the original, authentic Tai Chi, not the "new age" form that is taught in the USA -- it's intense, physically-demanding, fast, powerful and extremely deadly. If you are serious about Tai Chi and want to learn the authentic style and applications, the way it was meant to be, you should study with my brother. He's located in Boston these days but also travels when invited to teach master classes.
+Louise FreedmanLouise specializes in art-restoration. She does really big projects like The Museum of Fine Arts in Boston, The Gardner Museum and Harvard University. She's also a psychotherapist and she's married to my dad. She likes really smart parrots and she knows how to navigate a large sailboat.
+Kris ThorissonKris has been working with me for years on the design of the Radar Networks software, a new platform for the Semantic Web. He has a PhD from the MIT Media Lab. He designs intelligent humanoids and virtual realities. He is from Iceland, which makes him pretty cool.
+Kimberly RubinKim is my girlfriend and partner, and also a producer of 11 TV movies, and now an entrepreneur in the pet industry. She is passionate about animals. She has unusual compassion and a great sense of humor.
+Kathleen SpivackKathleen Spivack is my mother. She's a poet, novelist and creative writing teacher. She was a personal student of Robert Lowell and was in the same group of poets with Silvia Plath, Elizabeth Bishop and Anne Sexton. She coaches novelists, playwrites and poets in France and the USA.
+She teaches privately and her students, as well as being published, have won many of the top writing prizes.
+Josh KirschenbaumJosh is a visual effects whiz, director and generalist hacker in LA. We have been pals and collaborators since the 1980's. Josh is probably going to be the next Jim Cameron. He's also a really good writer.
+Joey TamerJoey is a long-time friend and advisor. She is an expert on high-tech strategic planning.
+Jim WissnerJim is among the most talented software developers I've ever worked with. He's a prolific Java coder and an expert on XML. He's the lead engineer for Radar Networks.
+Jerry MichalskiI have been friends with Jerry for many years; he's been advising Radar Networks on social software technology.
+Chris JonesChris is a long-time friend and now works with me in Radar Networks, as our director of user-experience. He's a genius level product designer, GUI designer, and product manager.
+Bram BorosonBram is an astrophysicist and college pal of mine. We spend hours and hours brainstorming about cellular automata simulations of the universe. He's one of the smartest people I ever met.
+Bari KoralBari Koral is a really talented singer songwriter. We co-write songs together sometimes. She's getting some buzz these days -- she recently opened for India Arie. She worked at EarthWeb many years ago. Now she tours almost all year long and she just had a hit in Europe. Check out her video, on her site.
+Adam CohenAdam Cohen is a long-term friend; we were roommates in college. He is a really talented composer and film-scorer. He doesn't have a Web site but I like him anyway! He's in Hollywood living the dream.
+Interesting Links
+Minding the Planet --
+www.mindingtheplanet.netMy Weblog (the one you are presently reading) can alternately be reached through the URL http://www.mindingtheplanet.net
+The Global Consciousness Project -- Do Global Events Affect Random Number Generators?This network of distributed, highly-shielded random number generators seems to deviate from expected statistical randomness in synchrony with major global events. What's going on here???
+Principia Cybernetica -- the Global Brain GroupA really interesting consortia and monograph on collective intelligence on the Web.
+Philosophy of mind - Wikipedia
+Lucid VenturesMy tech incubator in NYC.
+Radar NetworksThis is my new semantic web venture. Shhh!!! Very Secret!!!
+Nova Spivack's Ryze Business Networking Page
+Amazon.com: Listmania! The Semantic Web: XML, Internet, RDF, AI, Ontologies & KMThis is my reading list of books on the Semantic Web, XML, RDF, etc.
+Amazon.com: Listmania! Buddhist and Bonpo Dzogchen MeditationThis is my list of advanced books on Tibetan meditation techniques. Serious heavy reading!
+KDnuggets: Data Mining, Web Mining, and Knowledge Discovery Guide
+W3C Semantic Web
+The center of it all...
+SemanticWeb.orgGood portal for Semantic Web researchers
+CiteSeer: The NEC Research Institute Scientific Literature Digital LibraryThe best site for computer science research
+Blog powered by Typepad
+Member since 08/2003
+This Blog has Moved - Click Here for New URL
+Powered by TypePad

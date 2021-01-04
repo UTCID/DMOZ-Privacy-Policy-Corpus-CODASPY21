@@ -1,0 +1,30 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch15s05.html#websec2-CHP-15-SECT-5.3
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Secure Remote Access and Content UpdatingOnce you have your web server up and running, securely logged
+and monitored, you will next be faced with a troubling real-world
+question: how will your users update the web server’s content?In the early days of the World Wide Web, most content was
+created live on web servers by programmers and developers using Unix
+text editors such as emacs and
+vi. These days most content is created on desktop
+PCs and Macs and then uploaded to the web server. This upload is
+fundamentally a file transfer operation. Unfortunately, a holdover of
+the U.S. government’s two-decade war on cryptography is that the
+Internet’s most common file transfer protocol, FTP, sends usernames
+and passwords without first encrypting them. This makes the protocol
+vulnerable to password sniffing.The Risk of Password SniffingPassword sniffing is a significant security risk on the
+Internet today. Passwords sent without encryption can be intercepted
+by a network monitor program and conveyed to attackers. Stolen
+passwords can be used to rewrite web pages and break into other
+Internet accounts. When the stolen passwords belong to system
+administrators with additional security privileges, even more
+serious mayhem can be wrought.Unfortunately, usernames and passwords sent unencrypted over
+the Internet remain one of the most common ways of authenticating
+users on the network today. Plaintext passwords are widely used by
+many Internet protocols, including remote login (Telnet/rlogin), ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

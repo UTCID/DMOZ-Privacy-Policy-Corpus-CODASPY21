@@ -1,0 +1,75 @@
+http://www.petefinnigan.com/services/policy_development.htm
+PoliciesHome/Policies
+Oracle Security Policy Development
+PeteFinnigan.com Limited offer an Oracle security policy development service to clients and customers. Policies can take any
+number of forms and can span small areas (such as database authentication) or larger areas such as an Oracle database hardening
+guide. Policies can also take varied forms such as the more traditional documents, policies for commercial database security
+scanners or SQL and PL/SQL check scripts, or even custom development. PeteFinnigan.com Limited has experience in all of these areas.
+We have extensive experience in creating many types of Oracle security related policies for many customers. These range from:
+Oracle Security Policy
+Oracle basline standards
+Oracle lockdown stanards
+Scripts and policies for commercial tools such as PFCLScan
+Audit trail policy or high level designs
+Change control policy
+Incident response and breach policy for the Oracle database
+How Does This Service Work?
+We follow the same basic process when helping customers design and write security policies related to their Oracle databases. These
+steps can be laid out as follows:
+We hold an initial meeting with the client to understand their budget and their goals and to discuss the initial layout and
+structure of the policy and its style. This initial meeting allows us to then develop and scope a policy that can be acheived
+and fully implemented in every database.
+We need the clients input to thge proposed list of measures at a high level sentence based approach - for instance for an
+Oracle database security policy - the client may wish to include company wide assess and use controls. Perhaps the client is
+also interested to include measures to control DBA access to the database. The clients initial list can be supplied to us as
+an email or document.
+We next prepare a draft of the events or countermeasures that will be in the policy (dependant on the policy type of course).
+including the clients requests and also our controls that are influenced by our intial meetings. Our aim is to create a policy
+that is pragmatic and completely implementable. We firmly beleive that there is no point in creating a policy that is impossible
+to implement and measure against.
+We supply a draft copy of the policy for the client to pre-read.
+We next have a meeting with the clients security team and management and the relevant team that will implement the policy
+(This may be DBAs internally or external contractors or even developers for some policies). We walk through the policy and
+discuss each countermeasure to make sure everyone understands them and that they are sufficient to increase the security level
+of the systems the policy relates to and also that they are fully implementable and the team agrees that this is the case
+Any final changes and ammendments are made by us to the policy
+The policy is handed over and signed off
+The implementation team should now fully implement the policy in a small test group of databases to ensure that it acheives
+what is intended and that it can be implemented fully. PeteFinnigan.com Limited can also help with this phase in terms of helping
+define and roll out measures and creating proof of concepts.
+Next Steps
+Please email info@petefinnigan.com to book this service, to discuss your individual
+requirements, to get more details or to discuss partnering with PeteFinnigan.com Limited. We will be pleased to hear from you.
+PFCLScan
+Simply connect PFCLScan to your Oracle database and
+it will automatically discover the security issues that could make your Oracle
+database vulnerable to attack and to the potential loss of your data.
+Learn more
+PFCLCode
+PFCLCode is a tool to allow you to analyse your PL/SQL code for many different types of security issues.
+PFCLCode gives you a detailed review and reports and includes a powerful colour syntax highlighting code editor
+Learn more
+PFCLObfuscate
+PFCLObfuscate is the only tool available that can automatically add license controls to your PL/SQL code. PFCLObfuscate
+protects your Intellectual Property invested in your PL/SQL database code.
+Learn more
+PFCLForensics
+PFCLForensics is the only tool available to allow you to do a detailed live response of a breached Oracle database and
+to then go on and do a detailed forensic analysis of the data gathered.
+Learn more
+PFCLUserRights
+PFCLUserRights allows you to create a very detailed view of database users rights. The focus of
+the reports is to allow you to decide what privileges and accounts to keep and which to remove.
+Learn more
+PFCLATK
+PFCLATK is a toolkit that allows detailed pre-defined policy driven audit trails for your Oracle
+database. The toolkit also provides for a centralised audit trail and centralised activity reporting
+Learn more
+PFCLTraining
+PFCLTraining is a set of expert training classes for you, aimed at teaching how to audit your own Oracle database,
+design audit trails, secure code in PL/SQL and secure and lock down your Oracle database.
+Learn more
+PFCLServices
+Choose PFCLServices to add PeteFinnigan.com Ltd to your team for your Oracle Security needs. We are
+experts in performing detailed security audits, data security design work and policy creation
+Learn more

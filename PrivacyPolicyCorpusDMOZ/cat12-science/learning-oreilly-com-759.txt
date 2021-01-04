@@ -1,0 +1,26 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/apd.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Appendix D. The PICS SpecificationThe PICS specification introduced in Chapter 23 consists of two parts:A specification for the protocols that must be supported by a
+rating service. This specification is located at http://w3.org/PICS/services.html.A specification for the format of the labels themselves. This
+specification is located at http://w3.org/PICS/labels.html. An excellent article describing PICS is “PICS: Internet
+Access Controls Without Censorship,” by Paul
+Resnick and James Miller, Communications of the
+ACM, October 1996, p. 87. The online version of the article
+is at http://w3.org/PICS/iacwcv2.htm.Rating ServicesThe PICS rating service specifications are designed to enable
+many different kinds of ratings services on the World Wide Web. A
+rating service is any person, organization, or other entity that
+issues ratings. Ratings can be distributed with the document being
+rated, by a third-party site, on a CD-ROM, or by any other electronic
+means.The PICS standard specifies a syntax for text files that
+describe the different kinds of ratings that a rating service can
+issue. This lets computer programs automatically parse the kinds of
+ratings that a service provides.In their article describing PICS, Resnick and Miller
+create a sample PICS rating service based on the MPAA’s movie-rating
+scheme:((PICS-version 1.0) (rating-system "http://moviescale.org/Ratings/Description/") (rating-service "http://moviescale.org/v1.0") (icon "icons/moviescale.gif") (name "The Movies Rating ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

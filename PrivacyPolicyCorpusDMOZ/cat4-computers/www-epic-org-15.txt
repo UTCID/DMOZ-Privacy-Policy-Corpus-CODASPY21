@@ -1,0 +1,756 @@
+http://www.epic.org/privacy/biometrics/factabiometrics.html
+Before the
+Department of the Treasury
+Washington, D.C. 20220
+In the Matter of
+FACT Act Biometric Study
+File No. R411005
+COMMENTS OF THE
+ELECTRONIC PRIVACY INFORMATION CENTER
+April 1, 2004
+The Electronic Privacy Information Center (EPIC) applauds the Department
+of the Treasury for soliciting public comment on the use of biometrics and
+similar technologies to combat identity theft.[1] EPIC is a public interest
+research center in Washington, D.C. It was established in 1994 to focus public
+attention on emerging civil liberties issues and to protect privacy, the First
+Amendment, and constitutional values. EPIC maintains an archive of information
+about biometrics online at http://www.epic.org/privacy/biometrics/.
+Increased use of biometrics will not combat identity theft in an effective
+or cost-efficient manner. In fact, such technologies could worsen the identity
+theft situation for some members of the public and impose a new nationwide
+system of identity for virtually all Americans. Furthermore, less invasive
+and less costly alternatives could be implemented to effectively combat identity
+theft. Below, we comment that it is not necessary to implement a nationwide
+system of biometrics to curb identity theft. Instead, we could address identity
+theft in a more cost-effective and privacy-friendly manner by changing aspects
+of the credit granting system.
+I. Less Invasive, Privacy Friendly Changes to the Credit Granting
+System Could Stem Identity Theft.
+In performing an analysis of methods to reduce risk of identity theft, the
+Department of the Treasury should consider less invasive and less expensive
+alternatives, including making simple changes in the credit granting system.
+Below we propose changes that could have a dramatic effect on identity theft
+while avoiding the creation of a costly and privacy invasive nationwide system
+of biometrics.
+a. To Prevent Identity Theft, The Department of the Treasury Should
+Address Sloppy Credit Granting Practices.
+We need changes in the credit granting system to prevent impostors from
+opening tradelines. As Professor Daniel Solove has argued, "many modern
+privacy problems are systemic in nature. They are the product of information
+flows…"[2] Identity theft is such a problem, as the availability
+of personal data under current information architectures makes it simple for
+impostors to obtain the identifiers needed to apply for credit. Solove argues
+that to address these "problems that are architectural, the solutions
+should also be architectural."[3] By creating an architecture that secures
+personal information and by establishing rights for individuals and responsibilities
+on data collectors, we can reduce the risk of misuse of personal information.
+Such an architecture encourages more involvement from the individual with
+respect to data, and often provides incentives for companies and governments
+to reduce the amount of information they collect.
+But even if the information architecture were revamped to create greater
+protections for data, identity theft may continue to occur because of lax
+credit granting practices. Lax granting practices have continued because the
+credit reporting system law treats credit issuers, such as retailers and credit
+card issuers, as trusted insiders. As trusted insiders, credit issuers can
+easily gain access to reports with or without legal justification.
+Lax credit granting practices are evidenced by the number of tradelines
+that are extended to household pets. Most recently, Chase Manhattan bank issued
+a platinum visa card to one "Clifford J. Dawg."[4] In this instance,
+the owner of the dog had signed up for a free e-mail account in his pet's
+name and later received a pre-approved offer of credit for "Clifford
+J. Dawg." The owner found this humorous and responded to the pre-approved
+offer, listing nine zeros for the dog's Social Security number, the "Pupperoni
+Factory" as employer, and "Pugsy Malone" as the mother's maiden
+name. The owner also wrote on the approval: "You are sending an application
+to a dog! Ha ha ha." The card arrived three weeks later.[5]
+Mr. Dawg's owner contacted the issuing bank to cancel the card. According
+to the owner, the issuing bank explained that Mr. Dawg's name had been acquired
+from a marketing list.[6] The issuing bank's representative joked that the
+incident could be used as a commercial with the slogan "Dogs don't chase
+us, we chase them."[7] Mr. Dawg's Visa card illustrates some of the problems
+with credit granting. All systems, especially complex ones that are used millions
+of times, can fail and occasionally produce errors. But Mr. Dawg's case suggests
+that there is a more systemic problem in the credit application approval process.
+The financial services industry might argue that this is an isolated event.
+But it is not a single slip up. Credit has been offered and issued to other
+dogs, including Monty, a Shih-Tzu who was extended a $24,600 credit line.[8]
+It also has been granted to children and babies.[9] These events suggest that
+the credit issuers are lax in their marketing and authentication efforts.
+It suggests that the applications are processed by a computer, and no human
+error-checks them to prevent fraudulent or improper credit granting.
+i. More Scrutiny Needs to Be Focused on Users of Credit Reports.
+Three factors lead to lax lending practices and inadequate protection of
+the credit report. The first is that under the Fair Credit Reporting Act (FCRA),
+credit reporting agencies only are required to "maintain reasonable procedures
+designed" to prevent unauthorized release of consumer information.[10]
+In practice, this means that credit reporting agencies must take some action
+to ensure that individuals with access to credit information use it only for
+permissible purposes enumerated in the Act. The Federal Trade Commission Commentary
+on the FCRA specifies that this standard can be met in some circumstances
+with a blanket certification from credit issuers that they will use reports
+legally.[11]
+This certification standard is too weak. It allows a vast network of companies
+to gain access to credit reports with little oversight. It treats credit issuers
+and other users of credit reports as trusted insiders, and their use of credit
+reports and ultimate extension of credit as legitimate. The problem is that
+insiders can pose a serious risk to security of personal information.[12]
+In this context, trusted insiders can obtain credit reports for use in fraudulent
+credit acquisition. For instance, criminals relied upon the relationship between
+Ford Motor Credit Company and credit reporting agency Experian to steal credit
+reports for identity theft purposes.[13] To create this relationship as a
+trusted user of the credit system, Ford Motor Credit Company would have had
+to certify that it only obtained and used credit reports for permissible purposes.
+Nevertheless, the criminals were still able to order 30,000 reports without
+a permissible purpose.[14] Since this fraud occurred over a three-year period,
+it suggests that a mere certification does not include adequate monitoring
+or auditing of access to the credit database.
+ii. Credit Issuers Are Lax in Customer Authentication, Causing Impostors
+to Gain Access to Credit.
+The second factor in leading to lax issuance is that credit grantors do
+not have adequate standards for verifying the true identity of credit applicants.
+Credit issuers sometimes open tradelines to individuals who leave obvious
+errors on the application, such as incorrect dates of birth or fudged Social
+Security Numbers.[15] Identity theft expert Beth Givens has argued that many
+incidences of identity theft could be prevented by simply requiring grantors
+to more carefully review credit applications for obviously incorrect personal
+information.[16]
+TRW Inc. v. Andrews illustrates the problems with poor standards for customer
+identification.[17] In that case, Adelaide Andrews visited a doctor's office
+in Santa Monica, California, and completed a new patient's information form
+that requested her name, birth date, and Social Security Number.[18] The doctor's
+receptionist, an unrelated woman named Andrea Andrews, copied the information
+and used Adelaide's Social Security Number and her own name to apply for credit
+in Las Vegas, Nevada. On four occasions, Trans Union released Adelaide's credit
+report because the Social Security Number, last name, and first initial matched.
+Once Trans Union released the credit reports, it made it possible for creditors
+to issue new tradelines. Three of the four creditors that obtained a credit
+report issued tradelines to the impostor based on Adelaide's file, despite
+the fact that the first name, birth date, and address did not match.[19]
+California has attempted to address the customer identification problem
+by requiring certain credit grantors to comply with heightened authentication
+procedures. California Civil Code § 1785.14 requires credit grantors
+to actually match identifying information on the credit application to the
+report held at the credit reporting agency. Credit cannot be granted unless
+three identifiers from the application match those on file at the credit bureau.
+However, this protection only applies when an individual applies for credit
+at a retailer.[20]
+iii. Competition to Acquire New Customers Encourages Bad Practices Contributing
+to Identity Theft.
+The last factor is leading to irresponsible credit granting is competition
+to obtain new customers. Grantors have flooded the market with "pre-screened"
+credit offers, pre-approved solicitations of credit made to individuals who
+meet certain criteria. These offers are sent in the mail, giving thieves the
+opportunity to intercept them and accept credit in the victim's name.[21]
+Once credit is granted, the thief changes the address on the account in order
+to obtain the physical card and to prevent the victim from learning of the
+fraud.[22] The industry sends out billions of these pre-screened offers a
+year. It 1998, it was reported that 3.4 billion were sent.[23] In 2003, the
+estimate increased to 5 billion sent.[24]
+Competition also drives grantors to quickly extend credit. Once a consumer
+(or impostor) expresses acceptance of a credit offer, issuers approve the
+transaction with great speed. Experian, one of the "big three" credit
+reporting agencies, performs in this task in a "magic two seconds."[25]
+In a scenario published in an Experian white paper on "Customer Data
+Integration," an individual receives a line of credit in two seconds
+after only supplying his name and address.[26] Such a quick response heightens
+the damage to business and victims alike, because thieves will generally make
+many applications for new credit in hopes that a fraction of them will be
+granted.
+This evidence of sloppy credit granting practices leads us to a simple question:
+why should all Americans have to enroll in biometric systems to prevent identity
+theft when credit card companies could instead clean up their sloppy practices?
+Why should Americans be subject to privacy invasive systems, ones that also
+create new security risks, when we could first clean up an industry that regularly
+issues credits to pets?
+b. Identity Theft Could Be Prevented Through Giving Retailers and
+Issuers Better Incentives to Avoid Lending to Impostors.
+Retailers and credit issuers deal directly with identity thieves when they
+give credit to them. Accordingly, retailers and credit issuers are in a better
+position than victims to prevent identity theft. There should be heightened
+incentives for retailers and credit issuers to avoid credit granting to impostors.
+Identity theft victims' attorneys have attempted to curb identity theft
+by bringing negligence actions against sloppy credit grantors. The goal of
+the cases is to establish a duty of care between the credit issuer and the
+identity theft victim, and thus give the issuers a stronger incentive to make
+decisions more responsibly. However, the courts have been reluctant to assign
+liability to the credit granting companies.
+In Huggins v. Citibank, the South Carolina Supreme Court rejected the tort
+of "negligent enablement of imposter fraud."[27] In that case, the
+plaintiff identity theft victim alleged that banks owe a duty to identity
+theft victims when they negligently extend credit in their name. The defendants
+argued that no such duty existed because the victim was not actually a customer
+of the bank. Focusing on the requirement that an actual relationship exist
+between victim and tortfeasor before a legal duty arises, the court rejected
+the proposed cause of action:
+"We are greatly concerned about the rampant growth of identity theft
+and financial fraud in this country. Moreover, we are certain that some
+identity theft could be prevented if credit card issuers carefully scrutinized
+credit card applications. Nevertheless, we…decline to recognize a
+legal duty of care between credit card issuers and those individuals whose
+identities may be stolen. The relationship, if any, between credit card
+issuers and potential victims of identity theft is far too attenuated to
+rise to the level of a duty between them.[28]
+Similar suits have failed as well.[29]
+An array of credit-industry groups followed the Huggins case closely and
+wrote briefs as amici. These included the American Bankers Association, American
+Financial Services Association, America's Community Bankers, Consumer Bankers
+Association, the Financial Services Roundtable, MasterCard International,
+Inc., and Visa U.S.A., Inc.[30] These groups must be concerned about liability
+because periodically, absurd errors in the credit business come to light,
+such as the Clifford J. Dawg platinum Visa card.
+c. Credit Card Fraud Could be Curbed Through Technical Changes in
+Credit Card Number Storage and Through the Adoption of Better Credit Cards.
+Some credit card fraud could be addressed through changes in storage of
+personal information. For instance, some online retailers store customers'
+credit card numbers, often without the individuals' consent. These databases
+of credit card numbers are honey pots for malicious crackers. While storing
+the credit card number with an online vendor does speed transactions and provide
+more convenience, it comes with a cost of heightened credit card fraud. The
+Department of the Treasury should consider whether the practice of retailers
+collecting and storing credit card numbers without consent are exposing their
+customers to unnecessary and unfair risk of credit card fraud.
+There are other technical steps that are less invasive than biometrics that
+could reduce credit card fraud. For instance, it has long been technically
+possible to create a credit card that does not "swipe" or produce
+an account number until the individual enters a pin to activate the card.
+Encouraging the use of such cards would not implicate individuals' privacy,
+and allow individuals to exercise more control over their credit card numbers.
+d. The Department of the Treasury Should Analyze the Role that Affiliate
+Sharing and Marketing Play in Causing Consumer Fraud and Identity Theft.
+While information sharing can be employed to detect fraud, it can also be
+used to commit fraud. For instance, major financial institutions have used
+their customer lists to target consumers for fraudulent telemarketing schemes.
+Capital One,[31] Chase Manhattan,[32] Citibank,[33] First U.S.A.,[34] Fleet
+Mortgage,[35] GE Capital,[36] MBNA America,[37] and U.S. Bancorp[38] all have
+provided their customers' personal and confidential information to fraudulent
+telemarketers.
+The financial institutions provided the telemarketers with the names, telephone
+numbers and other information about their customers. They also gave them the
+ability to charge customers' accounts without having to ask consumers to provide
+an account number. This practice, called preacquired account telemarketing,
+has subjected thousands of individuals to unauthorized charges for products
+and services they never wanted or ordered. In one case, during a thirteen-month
+period a national bank processed 95,573 cancellations of membership clubs
+and other products that were billed by preacquired account telemarketers without
+customers' authorization.[39]
+In some cases, financial information flows have allowed businesses to defraud
+non-customers. This can occur where a bank sells personal information to another
+business. Charter Pacific Bank sold its database containing 3.6 million valid
+credit card account numbers to a convicted felon who then fraudulently billed
+the accounts for access to Internet pornography sites that victims had never
+visited.[40] In fact, approximately 45% of the victims did not even own a
+computer. Charter Pacific did not develop the database from its own customers'
+information. Instead, it compiled the information from credit card holders
+who had purchased goods and services from merchants that had accounts at Charter
+Pacific. The information included the date of sale, account number, and dollar
+amount of every credit card transaction processed by the bank's merchant customers.
+The unrestricted sharing of this information resulted in over $44 million
+of unauthorized charges.
+Affiliate sharing can expose the elderly and other at risk consumers to
+increased likelihood of fraud. NationsBank, for example, shared with its affiliated
+securities company data on bank customers with low-risk, maturing federally
+insured CDs.[41] The affiliate, NationsSecurity, then aggressively marketed
+high-risk investments to these conservative investors, misleading many customers
+to believe that the investments were as safe and reliable as federally insured
+CDs. Many customers, including retired elderly, lost significant portions
+of their life savings. After an investigation, the Securities and Exchange
+Commission found that the companies intentionally blurred the distinction
+between the bank and the brokerage, and between the insured CDs and riskier
+investment products. Affiliate sharing of customers' information made this
+possible. NationsBank provided the investment representatives with maturing
+CD customer lists, as well as customers' financial statements and account
+balances. As a result, when these investment representatives called NationsBanks'
+customers and indicated that they were with the "investment division"
+of the bank, many customers reasonably believed that they were bank employees,
+not brokers. NationsBank is not the only bank to have engaged in such a practice.
+First Union settled a private lawsuit alleging a similar scheme.[42]
+Many identity theft cases are "insider jobs," committed by employees
+who obtain access and misuse individuals' personal information stored in their
+employers' databanks. Other reports note that many identity fraud cases stem
+from the perpetrator's purchase of consumers' personal information from commercial
+data brokers. Financial institutions information sharing practices contribute
+to the risk of identity theft by greatly expanding the opportunity for thieves
+to obtain access to sensitive personal information.
+e. Limits on Use of the Social Security Number Could Curb Identity
+Theft While Avoiding Privacy-Invasive Deployment of Biometrics.
+Although biometric techniques provide a variety of methods to identify individuals,
+the best way to reduce the specific problem of identity theft is to reduce
+the use of the Social Security number as a record locator and personal identifier.
+States are now recognizing the source of the identity theft problem and have
+begun to enact legislation protecting use of the Social Security number. In
+Georgia, businesses face fines of up to $10,000 for not protecting consumer
+personal data. California gives consumers a right to freeze their credit report,
+so that no business can access it without their consent. Florida, as part
+of a Grand Jury Report on Identity Theft, has recently recommended that Social
+Security numbers be prohibited from being used as identifiers unless required
+by law, and that both government agencies and individuals should be held accountable
+for releasing personal identifying information with public records.
+II. Biometrics Overview.
+Biometric identification systems are automated methods of recognizing a
+person based on one or more physical characteristics, such as fingerprints,
+voice, or facial characteristics. Computer-based pattern matching is at the
+core of all biometric systems. The technologies available are subject to varying
+degrees of error, which means that there is an element of uncertainty in any
+match.
+The accuracy of biometric systems is measured by their false acceptance
+and false rejection rates. A false acceptance is when the wrong individual
+is matched to a stored biometric. A false rejection is when an individual
+is not recognized who should have been. The two measures are dependent. In
+reducing false acceptances, the false rejection rate will increase. Reducing
+false rejections will cause the false acceptance rate to go up. Most biometric
+systems adjust false acceptances or false rejections to the type of application
+and the amount of security required. High security areas, such as bank vaults
+and military installations are protected by biometric systems that minimize
+fraudulent acceptances. The false acceptance rate must be low enough to prevent
+imposters, but as a result, people who rightfully should be accepted, are
+sometimes refused. In these cases, human intervention is typically available
+to provide authentication when the biometric system fails.
+Fraud occurs when either an imposter is trying to be accepted as someone
+else to gain entry or usurp funds, or when an imposter is trying to avoid
+being recognized as someone already enrolled in the system and tries to enroll
+multiple times. The first is a form of identity theft, the second creates
+multiple identities for a single individual. Both types of fraud must be safeguarded
+against in any biometric system, however, depending on the application, it
+may be reasonable to relax one criterion to prevent the other.
+There is no perfect biometric system. Each type of biometric system has
+its own advantages and disadvantages, and must be evaluated according to the
+application for which it is to be used.
+a. Creating and Using an Identity Database.
+There is a distinction between Authentication, Identification and Enrollment.
+Authentication is the easiest task for a biometric system to perform. Identification
+is more difficult and much more time consuming. The enrollment process determines
+the ultimate accuracy of the biometric system. A single biometric system can
+be created for identification or authentication, but not both, although the
+two applications can share the same database of biometric samples. b. One-to-One Matching.
+Authentication answers the question, am I who I say I am? A person presents
+a biometric sample, and some additional identifying data, such as a photograph
+or password, which is then compared to the stored sample for that person.
+If the person is not an imposter, the two samples should match. This is known
+as a one-to-one match. If a nonmatch occurs, some systems retake up to three
+samples from the person to find a best match. This is the simplest task of
+a biometric system because the independent identifiers help to corroborate
+the individual. The biometric acts as a secondary password to protect the
+individual. Authentication of an individual takes at most a few seconds. c. One-to-Many Matching.
+Identification means to answer the question, who am I? A person provides
+a sample biometric, sometimes without his knowledge, and the system must compare
+that sample to every stored record to attempt to return a match. This is known
+as a one-to-many match, and is done without any corroborating data. Because
+the matching process is based on the closeness of the new sample to a stored
+sample, most systems return a likely list of matches. Others return a single
+match if the sample is similar enough. The time for the result depends on
+the size of the database. The FBI's Integrated Automated Fingerprint Identification
+System (IAFIS), which is used to identify criminals, can perform over 100,000
+comparisons per second, usually completing an identification in 15 minutes
+with a database of over 42 million records.[43] If identification must be
+done on a wide-scale basis, the number of comparisons that will need to be
+done simultaneously will be astronomical. In addition, consumers might be
+unwilling to wait more than a few seconds to be able to use their bank ATMs
+or on-line service.
+Negative identification is when an individual can be accepted to receive
+a benefit only if he is not yet enrolled in a database, such as a government-run
+welfare program or drivers registry. Even negative identification is susceptible
+to fraud. A person already enrolled in the system can avoid being recognized
+by attempting to falsify his biometric or skew the data collection. Rejecting
+imperfect images in the enrollment process, improves the integrity of the
+database, but cannot solve all enrollment problems.
+d. Entering a New Person into the Database.
+Enrollment is the process of introducing a new person into the database.
+The person's biometric must be sampled and stored together with his or her
+identity. The greatest problem is there is no existing guarantee as to that
+identity. A biometric system can only be as good as the accuracy of any background
+information that is relied on. If fraudulent information is used to enroll
+an individual, through a fake birth certificate or stolen social security
+number, a biometric can only verify the person is who they said they were
+at the time of enrollment. One important enrollment test is to match every
+new person against all other entries to check for duplicate entries and possible
+fraud. Without this check, once a person is in the database, it will be impossible
+to trace an imposter assuming multiple identities.
+III. Identity theft will not be prevented through the use of biometrics.
+Because of the numerous practical, logical, and technological flaws inherent
+in any biometric implementation, use of biometric technologies will not serve
+to effectively prevent identity theft. Instead, it will create new liabilities
+while draining away resources and threatening the privacy of those the technology
+ostensibly protects.
+a. There are too many practical problems with Biometrics.
+It is not possible to issue a new biometric if it is compromised.
+It is important to understand that once a biometric identifier is compromised,
+there will be severe consequences for the individual. It is possible to replace
+a credit card number or a social security numbers, but how does one replace
+a fingerprint, voiceprint, or retina? These questions need to be considered
+in the design and deployment of any system of biometric identification for
+a large public user base.
+Because biometrics systems are being sold as a more effective method for
+authentication and verification, it follows that users of these systems will
+have an increased trust, and thus reliance, in the systems performance. As
+such, if a biometric is compromised, the actions of the imposter who successfully
+circumvented the system would be more trusted than actions by non-biometric
+imposters as a result of the users perceived trust in the biometric system.
+As a result, the trust placed in the effectiveness biometric system will
+act as a double edged sword that will greatly increase the damage done to
+victims of identity theft. Such trust in a biometric system is harmful and
+counterproductive for two reasons. First, because a biometric cannot be replaced
+if corrupted (stolen or used for identity theft), victims will effectively
+be expelled from the "trusted" system, prohibiting their participation
+in whatever the biometric system protects. Second, this trust will likely
+instill a false sense of security that will prompt users to entrust more valuable
+information to the system. This, in turn, creates a greater damage for the
+victim. In short, the more you entrust to the system, the more you will lose
+when it is corrupted.
+b. It is too cost prohibitive to use biometrics on a wide-scale
+basis.
+A user wishing to implement a biometrics system must pay for not only the
+"readers," but also must pay for the setup, instillation, and maintenance
+of a system that must be continuously updated due to the fluid nature of biometric
+identifiers. Additionally, a user must be financially prepared to deal with
+the cost of correcting the system if it is compromised with corrupted information
+(a knowingly forged fingerprint or vocal reproduction, etc…).
+In order to deal with such a "corrupted information" problem,
+some companies require a card to be carried that contains an identifier embedded
+in a magnetic strip or smart chip.[44] Authentication is then based on the
+possession of the card in addition to the biometric feature. Therefore, if
+the information is compromised, the user will simply be issued a new card
+as the old one is cancelled. Thus, although the system can relatively remain
+effective, it is done at the expense of maintaining two infrastructures --the
+biometric sensors and the card readers.[45] "As a result, the costs of
+biometric authentication schemes will be considerably higher than those of
+a traditional system that is based on a card and a PIN or just on a password.
+These infrastructure costs pose a formidable barrier to widespread deployment
+of biometric technologies."[46] c. A substantial number of people will be unable to enroll in biometric
+systems.
+There will always be a small but substantial percentage of users who cannot
+enroll in biometric systems either because they are unable to produce the
+necessary biometric (a missing finger or eye) or they are unable to provide
+a quality sample at enrollment. Others repeatedly cannot match their biometric
+to the stored template. These individuals will never be identified by the
+biometric system. Even if only 1% of the general population, which is approximately
+3 million people, could not participate in a biometric system, this number
+is significant enough to raise serious concerns about the effectiveness the
+system.
+This fact not only raises the cost for biometric uses by requiring additional
+verification tools, but also increases the liability for identity theft. By
+accommodating those unable to participate in the biometrics system, users
+are unwillingly opening a backdoor to those wishing to circumvent the biometrics
+system. Such a liability could potentially render the existence of a biometrics
+system irrelevant.
+Since some biometrics deteriorate with age, the elderly will be particularly
+affected. They will constitute the largest portion of those unable to enroll
+or be recognized by a biometric system. There needs to be an alternative solution
+for those who cannot be recognized by a biometric system so that they will
+not be denied rightful benefits.
+d. The collection information for biometrics systems creates new
+threats to privacy.
+It is important to recognize in the design of any system of biometric identification
+that the creation of a database linked to the individual and containing access
+to sensitive, personally identifiable information will create a new series
+of privacy issues. Administrators of these systems as well as those who gain
+access to these databases unlawfully will have access to personal information
+as if they were themselves the individual subject. It is conceivable that
+data could be altered either by administrators or by those who gain unlawful
+access to the database. The result would be records that wrongly indicate
+biometric authentication when in fact the subject did not engage in the event
+recorded. There are techniques to minimize these risks, but no system is foolproof. e. There are too many technical problems with biometrics.
+Biometric technology is too technologically flawed to effectively combat
+identity theft. In addition to inherent problems with any biometric system,
+the different types of biometric systems all have unique flaws, each of which
+are susceptible to some form of circumvention.
+i. Uniqueness of biometric data is affected by time, variability and
+data collection.
+The key to any biometric system is that the biometric being measured is
+unique between individuals and unchanging over time. Otherwise the stored
+biometric associated with an individual needs to be periodically updated.
+There are several factors affecting the accuracy of any identification. Biometric
+data collection can be affected by changes in the environment, such as positioning,
+lighting, shadows and background noise. But the biometrics of an individual
+are also susceptible to change through aging, injury and disease. Because
+of this, the accuracy of all biometric systems diminishes over time.
+ii. Collecting biometric data introduces errors in the data.
+Any biometric sample, whether a fingerprint, voice recording, or iris scan,
+is not matched from the raw data. There is too much data to store and compare
+during each attempted match, especially if the sample needs to be transmitted
+to a central database for matching. Instead, biometric systems use templates
+that represent key elements of the raw data. Face recognition systems need
+the most number of features to be extracted and hand scans need the least.
+The extracted features are compressed further into a sample template which
+is then compared to a stored template to determine if there is a match. Information
+is lost with each level of compression making it impossible to reconstruct
+the original scan from the extracted points. Since even minor changes in the
+way a sample is collected can create a different template for a single individual,
+matches are based on probability. Systems are adjustable to the amount of
+difference they will tolerate to confirm a match. The more independent the
+data available for matching, the more credible the match.[47] iii. Increasing the speed of biometric systems can introduce error.
+In extremely large populations, storage of templates is partitioned into
+characteristics, or bins, for ease of searching. These bins can be based on
+external characteristics such as gender or race, or they can be based on the
+biometric's internal characteristics. Traditional fingerprint identification
+has been based on the binning idea, with classifications based on whorls,
+loops and arches. Computerized systems take advantage of this concept. While
+binning can speed the time for identification and allows for better statistical
+matches within each bin, if a template is wrongly binned, it can never be
+found.[48] f. Each type of biometric system contains substantial flaws.
+i. Fingerprint scanning is the best known and most widely used biometric.
+Fingerprints are the best-known and most studied biometric. Basic fingerprint
+technology has been around for over a century. Technically-sophisticated fingerprint
+scanners are available from $300 to just over $1,000, although an entire biometric
+installation can cost upwards of a million dollars. The FBI's IAFIS, which
+has cost several hundreds of millions of dollars, is 98% accurate with a database
+of over 42 million sets of ten-finger prints.[49] But fingerprint authentication
+systems still reject over 3% of authorized users when false acceptances are
+minimized.[50] Systems currently in use by state and local governments must
+use at least two-finger identification schemes in order to achieve that level
+of accuracy for much smaller populations, usually around a few hundred thousand
+people.[51]
+Fingerprint patterns are created from the ridges on your fingers. The patterns,
+consisting of loops, whorls and arches, have been shown to be unique between
+people. Even on a single individual, each of the ten fingers has a different
+pattern. However, the ridges necessary to create the pattern age and deteriorate
+over time. Fingerprint templates are influenced by the pressure, position,
+and dryness of the finger on the scanner. Scars, calluses or cracks in the
+skin can change the template. While more sophisticated scanners can compensate
+for dirt or other contaminates, simple household cleaners can remove the ridges
+necessary to obtain a readable print. Even long fingernails can prevent a
+scanner from correctly taking a fingerprint. Still, fingerprint technology
+is the most cost-effective biometric available today.
+ii. Retinal scans are the most accurate, but least acceptable to the
+public.
+Retinal scans are the most accurate. They capture the pattern of blood vessels
+in the eye. No two patterns are the same, even between the right and left
+eye, or identical twins. Nor do retinal patterns change with age. The drawback
+to retinal scans is that typically the data capture process is also the most
+invasive. This makes them the most difficult to administer, thus making any
+sample subject to the most errors in data collection. To get a usable sample,
+an individual must cooperate by keeping his head fixed and focusing on a target
+while an infrared beam is shown through the pupil. The reflected light is
+then measured and captured by a camera. Retinas are also susceptible to diseases,
+such as glaucoma or cataracts, which would pose difficulties for those who
+suffer from these common conditions.[52]
+iii. Iris scans are less invasive, but not proven.
+Iris scans are a fairly new technology that appears to be almost as accurate
+as retinal scans. The advantage over retinal scans is collection of the sample
+template is not as invasive: a video camera is used to take a picture of the
+iris. Cooperation of the individual is still necessary, though. The person
+must be within 19 to 21 inches of the camera and focused on a target in order
+to get a quality scan, although work has been done with inserting lenses to
+sharpen the sampled image. Movement, glasses and colored contact lenses can
+change the template created from a single individual. Eyelids and eyelashes
+obscure part of the surface of the iris. Since the scan is based on the size
+of the pupil, drugs dilating the eye could defeat an iris scan.
+Iris patterns are thought to be unique. However, since the technology is
+fairly new, a large enough database has not yet been assembled to prove this
+assumption. The iris allows for the fastest comparisons against a database,
+checking 100,000 records of iris codes in two seconds, compared with 15 minutes
+for a fingerprint scan to do the same task.[53]
+iv. Face Recognition systems are the least reliable.
+Face recognition is the least reliable of the biometrics available today.
+Lab tests by two of the nation's biggest testing centers, the Biometrics Fusion
+Center in West Virginia, run by the United States Department of Defense, and
+the International Biometric Group, a research and consulting firm in New York,
+show that correct matches are produced only about 54% of the time.[54]
+Face recognition is a difficult task, usually requiring a system to isolate
+an image in a complex environment and then to compare it to a stored template
+that was sampled in a controlled environment. Face recognition relies on matching
+the same head position and angle, so several poses need to be collected to
+create a single template. Light, shadows, facial expression, weight gain,
+and sunglasses all affect the system's ability to produce a match, oftentimes
+making mistakes across gender. Even when the sample is taken in a similar
+controlled environment to the stored template, face recognition systems have
+trouble matching to images that were stored more than one year earlier.[55]
+Research groups are now trying different approaches to improve face recognition
+systems.
+v. Other biometrics are only accurate for smaller groups of people.
+Other biometric products and research are available, with differing degrees
+of success: signature scanners, vein patterns, gait recognition are a few.
+However, most are inappropriate to identity protection. For example, hand
+readers are currently in use in many installations. However, because they
+contain the smallest dataset, and because hand geometry is neither time-invariant
+or unique, their effectiveness breaks down in large populations, producing
+too many duplicate matches. Hand readers can also be defeated by jewelry and
+weight gain.
+Voice recognition is skewed by background noise, and whether an analog or
+cell phone is used. While it is impossible to fool a voice recognition system
+through impersonation or mimicry, it is possible to use a tape recorder to
+commit fraud.
+g. Every biometric system is subject to circumvention; some can
+be evaded with little difficulty.
+There are several ways to try to circumvent a biometric system. False identification
+at enrollment, physically altering a personal biometric, skewing the sample
+collection by not cooperating, and hacking into or falsifying the database
+are all ways that biometric recognition can be compromised. Sample data could
+even be altered or stolen during transmission to a central database. How a
+biometric system is set up, protected and maintained will determine the effectiveness
+of the system.
+One of the most often asked question is whether biometrics can be defeated
+by prosthetic devices. The best biometric scanners would detect a pulse or
+heat from the individual to make sure that the sample has come from a live
+human being. However, it should be noted that if biometric systems are going
+to be implemented on a grand scale, it is unlikely that the "best"
+(i.e. more expensive) scanners will be purchased, but rather the scanners
+will more than likely be bought with an eye toward budget.[56]
+Additionally, a group of Japanese scientists have conducted a study whereby
+they were able to deceive fingerprint scanners with an astonishing success
+rate by using a mold made from a material similar to that which makes up "gummy
+bears."[57] The experiment, which tested 11 different types of fingerprint
+systems, found that all of the fingerprint systems accepted the gummy finder
+in their verification procedure more than 67% of the time.
+VI. Conclusion
+We urge the Department of the Treasury to consider non-invasive, effective
+methods to curb identity theft through making changes to the credit granting
+system. Such changes would be more cost effective and friendlier to privacy
+interests.
+Furthermore, a system of biometric identification, for the reasons articulated
+above, will not combat identity theft. Such a system would be expensive to
+deploy, would be privacy invasive, and excessive in light of alternatives,
+such as requiring credit issuers to be more careful in granting credit.
+Respectfully Submitted, Chris Jay Hoofnagle
+Associate Director
+W. Neal Hartzog
+IPIOP Clerk
+Electronic Privacy Information Center
+1718 Connecticut Ave. NW 200
+Washington, DC 20009
+[1] Public Comment on Formulating and Conducting a Study on the Use of Biometrics
+and Other Similar Technologies to Combat Identity Theft, 69 Fed. Reg. 9895,
+(Mar. 2, 2004) available at http://a257.g.akamaitech.net/7/257/2422/14mar20010800/edocket.access.gpo.gov/2004/04-4604.htm.
+[2] Daniel J. Solove, Identity Theft, Privacy, and the Architecture of Vulnerability,
+54 Hastings L. J. 1227, 1232 (2003). EPIC has attached this article to our
+comments.
+[3] Id. at 1241. One generally accepted architectural framework is "Fair
+Information Practices" as specified by the Organization for Economic
+Cooperation and Development. See Marc Rotenberg, What Larry Doesn't Get: Fair
+Information Practices and the Architecture of Privacy, 2001 Stan. Tech. L.
+Rev. 1 (2001); Will Thomas DeVries, Protecting Privacy in the Digital Age,
+18 Berk. Tech. L.J. 283 (2003).
+[4] Dog Gets Carded, Wash. Times (Jan. 30, 2004), available at http://washingtontimes.com/upi-breaking/20040129-031535-6234r.htm;
+Dog Issued Credit Card, Owner Sends In Pre-Approved Application As Joke, NBC
+San Diego (Jan. 28, 2004), available at http://www.nbcsandiego.com/money/2800173/detail.html.
+[5] Id.
+[6] Id.
+[7] Id.
+[8] Identity thieves feed on credit firms' lax practices, USA Today, Sept.
+12, 2003, p. 11A; Kevin Hoffman, Lerner's Legacy: MBNA's customers wouldn't
+write such flattering obituaries, Cleveland Scene, Dec. 18, 2002; Scott Barancik,
+A Week in Bankruptcy Court, St. Petersburg Times, Mar. 18, 2002, p 8E.
+[9] Identity Theft Resource Center, Fact Sheet 120: Identity Theft and Children,
+available at http://www.idtheftcenter.org/vg120.shtml.
+[10] 15 U.S.C. § 1681e(a).
+[11] The Federal Trade Commission is statutorily barred from promulgating
+regulations on the FCRA. 15 U.S.C. § 1681s(a)(4). The agency issues a
+non-binding commentary on the Act. Credit, Trade Practices, 16 CFR §
+600, 607 (1995).
+[12] Brooke A. Masters & Caroline E. Mayer, Identity Theft More Often
+an Inside Job, Old Precautions Less Likely to Avert Costly Crime, Experts
+Say, Wash. Post, Dec. 3, 2002, p. A1.
+[13] Benjamin Weiser, Identity Ring Said to Victimize 30,000, N.Y. Times,
+Nov. 26, 2002, p A1.
+[14] Id.
+[15] See Nelski v. Pelland, 2004 U.S. App. LEXIS 663 (6th Cir. 2004) (phone
+company issued credit to impostor using victim's name but slightly different
+Social Security Number); United States v. Peyton, 353 F.3d 1080 (9th Cir.
+2003) (impostors obtained six American Express cards using correct name and
+Social Security Number but directed all six to be sent to the impostors' home);
+Aylward v. Fleet Bank, 122 F.3d 616 (8th Cir. 1997) (bank issued two credit
+cards based on matching name and Social Security Number but incorrect address);
+Vazquez-Garcia v. Trans Union De P.R., Inc., 222 F. Supp. 2d 150 (D.P.R. 2002)
+(impostor successfully obtained credit with matching Social Security Number
+but incorrect date of birth and address); Dimezza v. First USA Bank, Inc.,
+103 F. Supp. 2d 1296 (D.N.M. 2000) (impostor obtained credit with Social Security
+Number match but incorrect address)..
+[16] Legislative Hearing on H.R. 2622, The Fair and Accurate Credit Transactions
+Act of 2003, Before the Committee on Financial Services, Jul. 9, 2003 (testimony
+of Chris Jay Hoofnagle, Deputy Counsel, Electronic Privacy Information Center).
+[17] 534 U.S. 19 (2001); Erin Shoudt, Comment. Identity theft: victims "cry
+out" for reform, 52 Am. U. L. Rev. 339, 346-7 (2002).
+[18] 534 U.S. at 23-25.
+[19] Id.
+[20] Cal. Civ. Code § 1785.14(a)(1).
+[21] Identity crises -- millions of Americans paying price, Chi. Tribune,
+Sept. 11, 2003, p2.
+[22] Id.
+[23] Identity Theft: How It Happens, Its Impact on Victims, and Legislative
+Solutions, Hearing Before the Senate Judiciary Subcommittee on Technology,
+Terrorism, and Government Information, Jul. 12, 2000 (testimony of Beth Givens,
+Director, Privacy Rights Clearinghouse) (citing Edmund Sanders, Charges are
+flying over credit card pitches, L.A. Times, Jun. 15, 1999, p. D-1), available
+at http://www.privacyrights.org/ar/id_theft.htm.
+[24] Rob Reuteman, Statistics Sum Up Our Past, Augur Our Future, Rocky Mountain
+News, Sept. 27, 2003, p 2C; Robert O'Harrow, Identity Crisis; Meet Michael
+Berry: political activist, cancer survivor, creditor's dream. Meet Michael
+Berry: scam artist, killer, the real Michael Berry's worst nightmare, Wash.
+Post Mag., Aug. 10, 2003, p W14.
+[25] Experian, Inc., Customer Data Integration: The essential link for Customer
+Relationship Management White paper 15, 2000, available at http://www.experian.com/whitepapers/cdi_white_paper.pdf.
+[26] Id.
+[27] 355 S.C. 329 (SC 2003).
+[28] Id. at 334.
+[29] Garay v. U.S. Bancorp, 2004 U.S. Dist. LEXIS 1331 (E.D.N.Y. 2004); Smith
+v. Citibank, 2001 U.S. Dist. LEXIS 25047, (W.D. Mo. 2001); Polzer v. TRW,
+Inc., 256 A.D.2d 248 (N.Y. App. Div. 1998).
+[30] 355 S.C. 329 (SC 2003).
+[31] Office of the Washington State Attorney General, "Settlement with
+Discount Buying Club Highlights Privacy Concerns," Aug. 4, 2000, available
+at http://www.wa.gov/ago/releases/rel_branddirect_080400.html.
+[32] Id.
+[33] National Association of Attorneys Generals, "Multistate Actions:
+27 States and Puerto Rico Settle with Citibank," Feb. 27, 2002, available
+at http://www.naag.org/issues/20020301-multi-citibank.php; Settlement document
+available at http://www.oag.state.ny.us/press/2002/feb/feb27b_02_attach.pdf.
+[34] Office of the New York Attorney General, "First USA to Halt Vendor's
+Deceptive Solicitations," Dec. 31, 2002, available at http://www.oag.state.ny.us/press/2002/dec/dec31a_02.html.
+[35] Minnesota v. Fleet Mortgage Corp., 158 F. Supp. 2d 962 (D. Minn. 2001),
+available at http://www.ag.state.mn.us/consumer/PR/Fleet_Opinion_61901.html.
+[36] Office of the Washington State Attorney General, "Settlement with
+Discount Buying Club Highlights Privacy Concerns," Aug. 4, 2000, available
+at http://www.wa.gov/ago/releases/rel_branddirect_080400.html.
+[37] Id.
+[38] Office of the Minnesota Attorney General, "Minnesota AG and U.S.
+Bancorp Settle Customer Privacy Suit," July 11, 1999, available at http://www.ag.state.mn.us/consumer/Privacy/PR/pr_usbank_07011999.html.
+[39] Supplemental Comments of the Minnesota Attorney General Office, FTC Telemarketing
+Sales Rule, FTC File No. R411001, http://www.ftc.gov/os/comments/dncpapercomments/supplement/minnag.pdf.
+[40] Federal Trade Commission, "FTC Wins $37.5 Million Judgment from
+X-Rate Website Operator; Bank Sold Defendants Access to Active MasterCard,
+Visa Card Numbers," Sept. 7, 2000, available at http://www.ftc.gov/opa/2000/09/netfill.htm.
+[41] Nationssecurities and Nationsbank, N.A., SEC Release No. 33-7532, May
+4, 1998, available at http://www.sec.gov/litigation/admin/337532.txt.
+[42] Risky Business in the Operating Subsidiary: How the OCC Dropped the Ball,
+Hearing Before the Subcommittee on Oversight and Investigations of the House
+Committee on Commerce., 106th Cong. (June 25, 1999) (statement of Jonathan
+Alpert, Sr. Partner, Baker and Rodems).
+[43] What Could Biometrics Have Done?, at http://www.biometricgroup.com/e/Brief.htm
+(last visited Jul. 15, 2002).
+[44] Deutsche Ban Research, Biometrics - hype and reality, at http://www.dbresearch.com/PROD/999/PROD0000000000043270.pdf
+(last visited 3-30-04). EPIC has appended this report to our testimony.
+[45] Id.
+[46] Id. at 6.
+[47] James L. Wayman, Generalized Biometric Identification System Model, U.S.
+National Biometric Test Center, Proc. 31st IEEE Asilomar Conf. Signals, Systems
+and Computing (1997), http://www.engr.sjsu.edu/biometrics/nbtccw.pdf
+[48] James L. Wayman, Large-Scale Civilian Biometric Systems, U.S. National
+Biometric Test Center, Proc. CardTech/SecurTech Government (1997), http://www.engr.sjsu.edu/biometrics/nbtccw.pdf.
+[49] Congressional Statement, 2000 - Crime Regarding HR 3410 and Name Check
+Efficacy , athttp://www.fbi.gov/congress/congress00/loesch.htm (last visited
+Jul. 9, 2002).
+[50] Erik Bowman, Everything You Need to Know About Biometrics, Identix Corporation
+(Jan. 2000), http://www.ibia.org/EverythingAboutBiometrics.PDF.
+[51] Wayman, supra note 6.
+[52] Bowman, supra note 9.
+[53] John Daugman, How Iris Recognition Works, University of Cambridge, at
+http://www.cl.cam.ac.uk/users/jgd1000/ (last visited Mar. 30, 2004).
+[54] See P. Jonathon Phillips et al, An Introduction to Evaluating Biometric
+Systems, Computer (2000), http://www.dodcounterdrug.com/facialrecognition/DLs/Feret7.pdf.
+[55] William A. Barrett, A Survey of Face Recognition Algorithms and Testing
+Results, U.S. National Biometric Test Center, at http://www.engr.sjsu.edu/biometrics/nbtccw.pdf
+(last visited Jul. 15, 2002).
+[56] See e.g. Lisa Thalheim, Jan Krissler & Peter-Michael ZieglerBody
+Check, Heise Online, Nov. 2002, available at http://www.heise.de/ct/english/02/11/114/.
+EPIC has appended this article these comments.
+[57] Tsutomu Matsumoto, et. al., Impact of Artificial "Gummy" Fingers
+on Fingerprint Systems, Prepared for Proceedigns of SPIE vol. #4677, Optical
+Security and Counterfeit Deterrence Techniques IV (January 2002), at http://cryptome.org/gummy.htm.
+The paper concludes that "gummy finders, namely artificial fingers that
+are easily made of cheap and readily available gelatin, were accepted by extremely
+high rates by particular fingerprint devices with optical or capacitive sensors."
+Id.
+EPIC Privacy Page | EPIC
+Home Page
+Last Updated:
+April 1, 2004
+Page URL: http://www.epic.org/privacy/biometrics/factabiometrics.html

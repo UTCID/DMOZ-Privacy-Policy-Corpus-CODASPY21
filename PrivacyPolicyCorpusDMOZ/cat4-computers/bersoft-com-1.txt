@@ -1,0 +1,41 @@
+https://bersoft.com/pages/privacy_policy.htm
+HOME
+PRIVACY POLICY
+Bersoft Software & Technology Privacy Policy
+We do not use cookies to track your use of our site and we only collect the
+information that you voluntarily supply when you purchase an application.
+We outsource our sales, they are handled by MyCommerce, a leading Online Payment Processor, who acts as our only reseller.
+Hence, we don't collect any credit card or bank account information about our customers, because we never see it.
+You can download any of our applications without entering
+any information.
+If you purchase any of our applications, only your email, name, location and registration name will be stored in our database. We need that information to verify our customers identity when providing technical support by email.
+The collected information will not be shared with anyone and it is NOT stored
+online, so your data hardly can be stolen.
+Junk emailers and forged return addresses
+Be aware that Junk emailers often use forged return addresses. If you receive
+unsolicited e-mail that seems to came from bersoft.com, please take
+the time to read the e-mail headers to notice from where the email really comes.
+At the bottom of this page there is an example of a typical e-mail that comes
+from a known spammer who used a forged e-mail return address to simulate that
+the email comes from ad_ad_path@bersoft.com.
+Notice that the headers below have three Received:
+fields. Every mail server that handles the message adds another Received:
+field to the header. You can use this field to see where a message came from
+and where it has been.
+The last received IP Number (marked below in blue) is the one that shows where
+the spam came from. That means that this message was sent, but no by a Yahoo
+user, as it seems, but most probably he was
+one spammer in Taiwan, since Whois search shows that the country for the number 218.32.192.58 is Taiwan, and that coincides with the email address at the bottom, marked in green.
+Return-Path: <ad_ad_path@bersoft.com>
+Received: from 203.189.231.40
+(EHLO mail.speedgate.net) (203.189.231.40)
+by mta214.mail.scd.yahoo.com with SMTP; 23 Feb 2003 10:13:43 -0800 (PST)
+Received: from [10.0.0.99] (HELO localhost.localdomain)
+by mail.speedgate.net (CommuniGate Pro SMTP 3.5.9)
+with ESMTP id 1220662; Mon, 24 Feb 2003 00:02:13 +0600
+Received: from yahoo.com ([218.32.192.58])
+by localhost.localdomain (8.12.5/8.12.5) with SMTP id h1NIND7C016083;
+Mon, 24 Feb 2003 00:23:18 +0600
+Message-Id: <200302231823.h1NIND7C016083@localhost.localdomain>
+From: "Download Trial Version For FREE" <asiaad@pchome.com.tw>
+© Bersoft 2020 About us  |  Privacy Policy

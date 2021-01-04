@@ -1,0 +1,106 @@
+http://www.kroll-software.ch/help-chapter/bulkmailer-logging-on-protocol-level/
+When you want to analyze connection problems or track the delivery of single mails by comparing send logs with mail server logs, it can sometimes be useful to have a complete SMTP dialogue dump in a log-file.
+For this reason BulkMailer has a trace-log function implemented.
+You may also find this useful, when you are technically interested in what BulkMailer finally sends and how the different encodings in a typical mime message (multipart, header encodings, quoted-printable, line length and line-breaks in UTF-8 encoded emails, challenge-response with authentication, etc.) are performed.
+BulkMailer has it's very own SMTP and MIME implementation developed by Kroll-Software and not influenced by any other library. It was built up from the ground by strictly following the relevant RFCs. This might be one reason for BulkMailer's success: It complies better with RFC standards than most other mailers do.
+1. Activate the trace log
+In the send dialog window, just before you click on "Start" to start sending, press the keys <Ctrl-t>. A message box should open and ask for confirmation.
+2. Send some mails
+Click on the [ Start ] button to send some emails.
+3. Analyze the trace log
+You can find the file 'trace.log' in the BulkMailer data directory.
+To know what your current data directory is, open menu "Extras->Set data directory". You can see the full path in the first input-box. Close this dialog without doing any changes by "Cancel".
+Open the trace-log file with any text editor.
+Share this trace-log with the administrator of the mail-server, so that he can help to analyze problems. But don't give it to others, because it could contain secret passwords.
+Limitations
+Log files can become quite big and can exceed the 2,4 gig file size limit with ease.
+This trace-log function always appends to the file. Errors are not handled. It was designed to analyze certain problems and is not meant to be used for general every-day logging. If you want to start a new log, simply delete the trace.log file before doing the next trace.
+BackUp your BulkMailer data or transfer it to a new computerBulkMailer Network Installation
+Products
+BulkMailer 2020 Professional
+FuzzyDupes 2020
+KS-ProjectPlanner Pro 2020
+KS-ProjectPlanner 2014 FreeWare
+KS.CRM
+KS.CRM Core Framework
+KS.CRM Opportunities PlugIn
+KS.CRM Products PlugIn
+KS.CRM Sales PlugIn
+KS.CRM DeDupe PlugIn
+KS.CRM Plug-In Bundle
+MP3db – The MP3-Database
+InterReg 2014
+Developer Products
+Summer GUI X-Platform
+Gantt Control for DotNet Windows Forms
+FuzzyDupes:NET
+Research
+Protein Folding by a Neural Network
+Detecting the Chirality of a Protein by a Neural Network
+The Brain – A Spiking Neural Network (SNN)
+Pages
+Sitemap
+Imprint
+Languagesdeutsch | english
+Search
+Recent Posts
+Detecting the Chirality of a Protein by a Neural Network
+BulkMailer PlugIn for ACT! CRM
+Protein Folding by a Neural Network
+Kroll-Software on GitHub
+SummerGUI
+BulkMailer Network Installation
+My recommendation for WordPress sites with dynamic content and custom types
+Categories
+Business / Office
+Customer-Relationship-Management
+Data Quality
+Home / Entertainment
+Project Management
+Research
+Software Development
+Uncategorised
+TagsBM-Feedback
+BulkMailer
+Bundle
+Contacts
+CRM
+Customers
+data-cleansing
+Database
+dedupe
+Development
+E-Mail
+EULA
+extensible
+free
+FreeWare
+FuzzyDupes
+FuzzyDupes.NET
+Gantt
+Industry
+interpolation
+InterReg
+KS.CRM
+math
+MP3
+MP3db
+Music
+Office
+Opportunities
+Plug-In
+Project Management
+ProjectPlanner
+Project Planning
+regression
+Sales
+WordPress
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept Imprint / Privacy PolicyImprint / Privacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.

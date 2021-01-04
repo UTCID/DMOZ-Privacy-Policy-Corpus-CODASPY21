@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/apas05.html#websec2-APP-A-SECT-5.4
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Ongoing OperationsBefore Vineyard.NET, I always handled the security of my own
+computer system with a few simple and reliable policies: don’t run any
+services that might be unsecure; don’t give out accounts to people you
+don’t know; disconnect your computer from the Internet when you are
+not around. The monitoring that I did, insofar as I did any, was
+haphazard.Those techniques wouldn’t work for a commercial service such as
+Vineyard.NET. Instead, I needed to design and deploy a system that
+could be readily maintained, defended, and scaled.Security ConcernsFrom the start, Vineyard.NET’s security was one of my primary
+concerns. As the coauthor of several books on computer security, I
+knew any Internet service that I was involved with might be a
+target.But there were other reasons that I was concerned about
+security. Vineyard.NET was a company that depended on computers that
+were connected to the Internet. If these computers were broken into
+and compromised, our reputation would be damaged, we would lose
+customers, and we would lose time required to put our systems back
+in order. We might lose so much in the way of customers, reputation,
+and time, that we might even go out of business.Because of these problems, we followed a few simple rules for
+our system and networks: minimize vulnerabilities and plan for
+break-ins.Lesson: Don’t run programs with a history of security
+problems.From the beginning, we avoided running programs that had a history of security problems. The primary offender ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

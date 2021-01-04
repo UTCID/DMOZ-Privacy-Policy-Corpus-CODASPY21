@@ -1,0 +1,215 @@
+https://www.techdirt.com/articles/20141127/02534629263/will-new-free-certificate-authority-help-hinder-online-security.shtml
+Sign In
+Register
+Preferences
+Techdirt
+Techdirt
+Greenhouse
+Tech & COVID
+Free Speech
+Deals
+Jobs
+Support Techdirt
+DailyDirt: We Should Have Written Down ET's Phone Number...
+Like The NSA And GCHQ, Germany's Foreign Intelligence Agency Uses A Legal Loophole To Spy On Its Own Citizens
+Will New Free Certificate Authority Help Or Hinder Online Security?
+Privacy
+from the first-things-first deptTue, Dec 2nd 2014 9:08pm —
+Glyn Moody
+A couple of weeks ago, Techdirt wrote about Let's Encrypt, an interesting new project from the EFF, Mozilla and others to set up a free certificate authority (CA) that will allow anyone running a website to offer encrypted connections. That sounds like a great idea, since it will make snooping on web traffic much harder. But a post (on LinkedIn, unfortunately) by Alexander Hanff, Chief Privacy Officer at Connect In Private, wonders if it might actually make things worse. Here's why:
+Creating a new Super Certificate Authority is the equivalent of painting a huge red target onto the backs of all the people who use it.
+Let's not mix our words here, it will become a target -- that much is completely indisputable, it would be utterly naive to believe the US Government will not target this new CA with court orders. What's more, given the historical evidence, there is a strong chance that such orders will be for "super master keys" allowing them to pretend to be whomever they like [for man-in-the-middle attacks] and it will be done under the guise of National Security because of course a CA which provides free certificates for everyone is (in the eyes of law enforcement) a hotbed for criminals and terrorists -- why on earth would a terrorist pay Verisign for an SSL certificate, leaving a paper trail, if they can obtain an anonymous certificate for free from Let's Encrypt?
+Techdirt asked the EFF to respond to this concern, and Peter Eckersley, the organization's Technology Projects Director, replied as follows:
+Mr Hanff is right to be concerned about structural flaws in the CA infrastructure, but he hasn't understood the problem. This is something
+we've been working on for years: https://eff.org/observatory https://www.youtube.com/watch?v=9VAreZZhue4 and we certainly wouldn't have picked a design to make the situation worse.
+Anyone who looks at the CA infrastructure is going to think, "oh, there are expensive high security CAs, and weaker low security CAs, and hundreds of others run by various corporations and governments, I'd better pick one I can trust". But it turns out not to matter which one *you* pick, because our web browsers have been designed to trust hundreds of them. So even if you buy from the one with the best combination of security and jurisdictional robustness, a would-be man-in-the-middle attacker will pick a weak one to use against you. We've seen this play out for instance with the Iranian attack on Gmail via a CA in the Netherlands, and a Turkish CA issuing improper certs for Google.
+Let's Encrypt's first mission will be to solve the grand problem of HTTPS, which is that hundreds of millions of sites don't use it at all. But it will also be engineered to begin addressing the structural flaws in the whole CA marketplace. For sites that it want it, we'll assist in using mechanisms like pinning to protect against the hundreds of other CAs that the site isn't using (pinning lets a site declare that only a small and specified number of CAs can sign certs for it). And for our
+own CA, we will use Certificate Transparency or equivalent mechanisms to ensure that if our operations were ever compromised or compelled in any way, that would be recorded and rapidly visible to the whole Internet.
+As that points out, the first problem is to get people using encrypted connections; after that, we need to work on those "structural flaws in the CA
+infrastructure" that Hanff and Eckersley agree are a serious issue that needs addressing.
+Follow me @glynmoody on Twitter or identi.ca, and +glynmoody on Google+
+Thank you for reading this Techdirt post. With so many things competing for everyone’s attention these days, we really appreciate you giving us your time. We work hard every day to put quality content out there for our community.
+Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis.
+While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising, we have always kept Techdirt open and available to anyone. But in order to continue doing so, we need your support. We offer a variety of ways for our readers to support us, from direct donations to special subscriptions and cool merchandise — and every little bit helps. Thank you.
+–The Techdirt Team
+Filed Under: alexander hanff, certificate authority, certificates, let's encrypt, privacy, security, surveillanceCompanies: eff, let's encrypt
+45 Comments | Leave a Comment
+If you liked this post, you may also be interested in...
+TSA Oversight Says Agency's Suspicionless Surveillance Program Is Worthless And The TSA Can't Prove It Isn't
+DHS Inspector General Is Going To Take A Look At The DHS's Purchase Of Cell Location Data From Data Brokers
+After Being Notified Of Info It Should Have Already Been Aware Of, LAPD Bans Clearview Use By Investigators
+GitHub, EFF Push Back Against RIAA, Reinstate Youtube-dl Repository
+Join The Fan Fiction Deep State And Watch This Latest Video That Addison Cain Really Doesn't Want You To See
+Reader Comments
+Subscribe: RSS
+View by: Time | Thread
+ltlw0lf (profile), 2 Dec 2014 @ 8:45pm
+Put the CA out of reach... it would be utterly naive to believe the US Government will not target this new CA with court orders.It is only vulnerable if it is within the jurisdiction of the US government. I wonder if putting the CA on a small satellite or in international waters would make it less vulnerable to court orders (though, at that point, physical security would likely be more of an issue, since they can just blow it up.)Maybe the answer is to adopt more of a Skipjack approach to CAs, where multiple CAs are involved in generating new certificates, and no single CA can generate a certificate from a CSR. That way, if one CA is compromised, the keys to the castle aren't completely lost. Will mean a lot more infrastructure costs...[ reply to this | link to this | view in chronology ]
+oliver (profile), 2 Dec 2014 @ 11:38pm
+Let's play devils advocate here: How much is that "concern" by this Privacy Officer legitimate, and how much of is just plain and simple MS-grade FUD?!?![ reply to this | link to this | view in chronology ]
+Anonymous Coward, 2 Dec 2014 @ 11:53pm
+but it's progress...Even if governments have master keys, it's still progress on the privacy front because... not all governments will have the keys, it will protect privacy of people surfing on public connections, and it will encourage websites to setup the infrastructure necessary to provide secure connections.At that point, it's trivial to change CAs to one that is more "trustworthy" - but for the vast majority of websites that isn't probably a big deal anyway.[ reply to this | link to this | view in chronology ]
+TKnarr (profile), 3 Dec 2014 @ 12:46am
+Pinning plus private CASite pinning solves most of the problem. A site can create it's own private CA and issue it's own certificates for use on it's servers, specifying that the site's own CA certificate is the only one permitted to sign certificates for it's domain. Then establish a norm of the first time you visit a site you accept it's CA certificate and pinning information. Once that's done no other CA can be used for a MITM attack because of the pinning, and since the site itself is the only one with the private key for it's CA certificate there's nobody any government can give an order to disclose the key to except for the site itself (and presumably they don't want to do
+that, otherwise they'd go directly to the site with the order in the first place rather than using an MITM attack).For places that don't have an IT staff capable of dealing with OpenSSL, I can already sketch out the hardware and software for a small turnkey box that's a dedicated certificate authority capable of generating it's own root and intermediate keys and certificates, generating server and client keys and certificates and writing them out to an external flash drive for transfer, and managing a historical database of generated certificates (it wouldn't retain client or server keys for obvious reasons). The most expensive part of it would probably be the display, the rest shouldn't cost more than your average home WiFi router. Sure it's not going to be as secure as Verisign can manage, but conversely it's not going to be nearly as attractive a target as Verisign would be either and it wouldn't need network connectivity which right there severely limits possible attacks.Let's face it, in most non-corporate situations you don't care about the absolute physical identity of the entity running the Web site. You care mostly about whether you're talking to the same site every time and that nobody's hijacked you to a bogus server. The biggest risk there isn't validating the site's server certificate, it's that someone'll have used a malicious link to take you to a completely different site in it's own domain without you realizing it.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 12:55am
+Re: Pinning plus private CAhmmm... interesting idea...But if when you first visit the "site" it's actually the MITM attacker serving you the certificates to be trusted...?I still think there are benefits to a more central approach - though obviously some risks as well. (and I would trust an EFF run PKI A more than one by joe-blows-cousin for just one website)Lets have a go at this (with Secure DNS) before we palm it out to every site individually... [plug - not affiliated just like it] try Calomel plugin to check (and validate) certificate strengths for every website you visit & run ssl observatory - we need to do our part also :)[ reply to this | link to this | view in chronology ]
+TKnarr (profile), 3 Dec 2014 @ 10:45am
+Re: Re: Pinning plus private CAYes, there's that vulnerability. But you're only vulnerable if the attacker intercepts you before you've ever visited the site. Most of the time the attacker won't be able to manage that since it'd involve having started the MITM before they knew they wanted to do an MITM on that site, and it's certainly better than the current situation where an MITM can be initiated at any time without any indication to the user.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 3:23am
+Re: Pinning plus private CA plus client certificatesThere is one more thing you can do with a private CA for each site: sign client certificates too!The user agent applies for an anonymous client certificate, devoid of identifying information. It can be used to log in at that site only.In combination with DNSSEC and DANE, it allows the browser to do a proper authenticated public key exchange.
+The strongest protection comes from this: As the server and client certificates are signed using the same private CA, they have a way to mutually authenticate each other. No more MitM, DNS-hijacking, IP-rerouting attacks. All without the user having to make a single security/cryptography decision.Details are in my paper:
+http://eccentric-authentication.org/Usable-Security.pdf or check out that site.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 5:46am
+Re: Re: Pinning plus private CA plus client certificatesIt would be nice to see DANE used. One major problem is that Firefox doesn't support it, and it was a bit strange to not see this mentioned in the announcement since Mozilla was one of the parties making the announcement.[ reply to this | link to this | view in chronology ]
+Michael, 3 Dec 2014 @ 4:02am
+Re: Pinning plus private CAThe last thing you want to do is get people used to clicking "accept" for a CA every time you visit a site.SSL will be useless very quickly because people will simply not remember if they accepted it before or if their browser lost the information somehow and you will find that people just trust everyone claiming to be a CA.[ reply to this | link to this | view in chronology ]
+lolz, 3 Dec 2014 @ 4:53am
+Re: Re: Pinning plus private CAssl is already useless because no one uses it[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 8:53am
+Re: Pinning plus private CA"it's own private CA"and how would that CA be authenticated by the browser? By a higher CA that's already in the browser? That higher CA can be compromised.
+Oh, you mean the private CA should already be within the browser? So every browser should have the public key of every website out there? Isn't that the entire problem that having a certificate hierarchy system is supposed to solve?[ reply to this | link to this | view in chronology ]
+John Fenderson (profile), 3 Dec 2014 @ 9:30am
+Re: Re: Pinning plus private CAI believe the commenter meant "it's own private
+root CA". Obviously, like all root CAs, you have to trust it. With the ones built into the browser, you trust them based on little more than pure faith. Using a private root CA, you can go one better than that.I use a private root CA for all my needs. If someone needs the cert, they get it directly from me, and check it based on the fingerprint. This is an order of magnitude more trustworthy than any of the commercial certificate authorities. While it's not automatic (and therefore requires a tiny bit more effort on the part of both the site and the users), any site can easily do this.Personally, I don't consider certs signed by commercial authorities to be trustworthy. There's been too many cases of them being subverted to just take them on faith anymore. I consider them "sortof trusted": in other words, I would never use them thinking that they are providing strong security, but they are good enough for everyday use.Private root certs can actually be trusted.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 9:35am
+Re: Re: Re: Pinning plus private CA"it's own private root CA"So every website is going to have their own 'root CA' and the browser must pre-contain the root CA of every website out there?[ reply to this | link to this | view in chronology ]
+John Fenderson (profile), 3 Dec 2014 @ 9:48am
+Re: Re: Re: Re: Pinning plus private CANo, I said nothing about pre-containing the root CAs. In fact, I implied (and am now saying it outright) the opposite: the certs
+should not be preloaded. Preloading the certs -- regardless of whether they're private or not -- is a large part of what makes the entire system less than trustworthy.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 9:55am
+Re: Re: Re: Re: Re: Pinning plus private CAOK then how should the certs be authenticated? Yes, pre-loading the certs creates its own set of problems but how do you expect the certs to be authenticated if there are no preloaded certs to begin with?[ reply to this | link to this | view in chronology ]
+John Fenderson (profile), 3 Dec 2014 @ 10:13am
+Re: Re: Re: Re: Re: Re: Pinning plus private CAI already gave my answer to that: by getting them directly from a trusted source (the entity the cert applies to).The whole notion of independent root CAs was a broken idea from the very start. In fact, this was a big part of the debate when the idea first came around. It subverts the entire chain of trust from the root of it. The only reason that people went along with it was because it's far more convenient than doing things the right way.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 10:23am
+Re: Re: Re: Re: Re: Re: Re: Pinning plus private CAWell if I have to physically prove that I am talking to the site owner (ie: visit Bank of America and get their certs) for every website what if it's some website in another state? Over the phone? That maybe even less secure because phone calls generally have no encryption (and even if they did how do you securely share encryption keys?).[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 10:23am
+Re: Re: Re: Re: Re: Re: Re: Re: Pinning plus private CAHeck, how do you even prove the phone number given to you is the right one and not some third party inserted number?[ reply to this | link to this | view in chronology ]
+John Fenderson (profile), 3 Dec 2014 @ 11:07am
+Re: Re: Re: Re: Re: Re: Re: Re: Pinning plus private CA"Well if I have to physically prove that I am talking to the site owner (ie: visit Bank of America and get their certs) for every website what if it's some website in another state?"Getting the certs in a secure and trustworthy way isn't as hard as you might think (even if they're on the other side of the planet) -- but, as I said, it is inconvenient."That maybe even less secure because phone calls generally have no encryption (and even if they did how do you securely share encryption keys?)."The lack of phone encryption is not an issue. If an attacker eavesdrops on the key exchange, the attacker has not learned anything that is useful -- they've only obtained the same public cert that they could get by asking for it themselves anyway. That's one of the beauties of public key encryption: the key exchange can take place over insecure channels without compromising the crypto.The issue of knowing who's giving you the key is obviously a big problem -- but one that there is currently no good, universal, and convenient solution to in any case. Third party root CAs are not trustworthy and therefore a key signed by them should not be trusted. This includes every preloaded key on your system.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 4 Dec 2014 @ 2:29am
+Re: Re: Re: Re: Re: Re: Re: Pinning plus private CA"The whole notion of independent root CAs was a broken idea from the very start. ... The only reason that people went along with it was because it's far more convenient than doing things the right way."Doing it the right way is what I propose in my paper.
+Please see
+http://eccentric-authentication.org/blog/2014/11/30/spot-the-differences.html and the paper:
+http://eccentric-authentication.org/Usable-Security.pdf[ reply to this | link to this | view in chronology ]
+John Fenderson (profile), 4 Dec 2014 @ 9:09am
+Re: Re: Re: Re: Re: Re: Re: Re: Pinning plus private CAThat's an interesting proposal. I've only scanned it, so I have little to say at the moment, but right off the bat, I have a question:It recommends using DANE to ensure that the CA is actually the CA you think it is. That's well and good, but doesn't really impact the problem I'm discussing here: that the CA itself cannot be considered trustworthy. This problem is why I say that the concept of independent root CAs is a broken one, and people only accept it because they're making a tradeoff in favor of convenience over security.Have I misunderstood? What we need is a way of eliminating independent CA authorities altogether.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 9:37am
+Re: Re: Re: Pinning plus private CA"I believe the commenter meant "it's own private root CA"."Which addresses nothing and leaves the same problem I mentioned.[ reply to this | link to this | view in chronology ]
+John Fenderson (profile), 3 Dec 2014 @ 9:49am
+Re: Re: Re: Re: Pinning plus private CANot sure I see how. Perhaps I misunderstood what you were saying?[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 9:58am
+Re: Re: Re: Re: Re: Pinning plus private CASo if there are no preloaded certs when you visit a website with its own 'root CA' how do you know the credentials (the public key) given to you belongs to the website and not a man in the middle?[ reply to this | link to this | view in chronology ]
+John Fenderson (profile), 3 Dec 2014 @ 10:15am
+Re: Re: Re: Re: Re: Re: Pinning plus private CAAgain, by getting the cert directly from the site operator.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 10:17am
+Re: Re: Re: Re: Re: Re: Re: Pinning plus private CASo they have to ... what ... call up the site operator on a phone?[ reply to this | link to this | view in chronology ]
+John Fenderson (profile), 3 Dec 2014 @ 11:09am
+Re: Re: Re: Re: Re: Re: Re: Re: Pinning plus private CAYes, that's one way for sure.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 4 Dec 2014 @ 6:37am
+Re: Re: Re: Re: Re: Re: Re: Re: Re: Pinning plus private CAWhich, as stated before, is even less secure because phone calls are not encrypted or, rather (maybe how I should have stated it better), there is no cryptographic method of verifying who you are talking to (if they're encrypted with a pre-shared key only known by both parties then at the very least you know who you are talking to).[ reply to this | link to this | view in chronology ]
+John Fenderson (profile), 4 Dec 2014 @ 9:14am
+Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Pinning plus private CA"is even less secure because phone calls are not encrypted"That does not make the exchange less secure. It doesn't matter if the call is eavesdropped on."(maybe how I should have stated it better), there is no cryptographic method of verifying who you are talking to"Oh,
+now I understand. You're mixing different things here -- here, you're talking about authentication, not cryptography. Although certain types of cryptography can be used for authentication, authentication is a totally distinct thing -- and can be done in the total absence of cryptography.For example, let's say you want to authenticate that the person you're talking to on the phone really is working for the bank that you think they are. This can be easily authenticated by the simple expedient of you calling the bank's well-known and widely publicized contact number.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 10:19am
+Re: Re: Re: Re: Re: Re: Re: Pinning plus private CAAre you suggesting that they have to physically meet the site operator? So if I want to visit Bank of America I must physically go to Bank of America and get the required information to prove I am communicating with Bank of America?Because any other way would mean needing to prove you are directly talking to the site operator (and not a man in the middle) through your computer over the Internet.[ reply to this | link to this | view in chronology ]
+John Fenderson (profile), 3 Dec 2014 @ 11:10am
+Re: Re: Re: Re: Re: Re: Re: Re: Pinning plus private CA"Because any other way would mean needing to prove you are directly talking to the site operator (and not a man in the middle) through your computer over the Internet."That's correct, and that's a security risk. But it's no different than the risk you take in accepting the keys that are preloaded into your system anyway, so it doesn't represent an overall decrease in trustworthiness.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 10:14pm
+Re: Re: Re: Re: Re: Re: Re: Re: Re: Pinning plus private CANo, there is a difference. When you download your browser, say Firefox, your operating system already has a set of keys in it. So you can right click on the exe file, click on properties, click on digital signatures, and verify with a much greater degree of certainty that the exe file came from Mozilla.Sure, this means that you are relying on the operating system certs that are pre-installed but, presumably, you got your computer/operating system from a much more secure channel which is better than just randomly downloading files online with no preloaded certs. and, yes, the certificate authorities on your operating system could also be compromised.So when you download firefox you know with some degree of certainty that the exe file came from Mozilla and so any pre-installed certs within the setup file came from Mozilla and weren't compromised in transit. So yes, there are two potential points of failureMozilla could be sending you bad certs (ie: the feds could be working with Mozilla)The CA's that come preloaded with your OS could be compromised.But that's still much better than just downloading the exe file without any preloaded certs whatsoever and trusting that you are getting those certs from the site owner. It's much better than just visiting random websites without any preloaded certs whatsoever and trusting that the certs given are authentic. At that point you have no way to know whatsoever. At the very least when you bought your operating system they came preloaded with certs and you can compare those certs with certs from other people that have gotten their operating system from different sources, Microsoft and other cert authorities can ensure various MS operating system retail outlets distribute their operating system with the proper certs or else someone will likely catch it.[ reply to this | link to this | view in chronology ]
+John Fenderson (profile), 4 Dec 2014 @ 9:22am
+Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Pinning plus private CA"When you download your browser, say Firefox, your operating system already has a set of keys in it."That's right. And you're taking it on faith that those certs are the correct ones. Because of that, those keys are
+less trustworthy than the ones that your obtained and verified directly from the entity the keys are meant to represent."but, presumably, you got your computer/operating system from a much more secure channel which is better than just randomly downloading files online with no preloaded certs."If you take the "much" out of that statement, then I agree. However, I'm not saying "don't use certs". I'm saying that the preloaded certs are less trustworthy than the ones you've properly obtained yourself."Mozilla could be sending you bad certs (ie: the feds could be working with Mozilla)"My point exactly, although it is unlikely that the attacker would need to work directly with Mozilla (or any other browser maker) to accomplish that. At least, when bad certs have been included in the past, it hasn't been because anyone
+was working directly with them."The CA's that come preloaded with your OS could be compromised."Indeed, and some have been. For this discussion, there's no difference between the OS certs and the browser certs. All preloaded certs are suspect.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 10:28am
+Re: Re: Re: Re: Re: Re: Re: Pinning plus private CASo lets say I want to connect to Amazon.com. So I request that they send me the necessary credentials in the mail. Now 'Amazon' sends me a piece of paper with the required information to prove I am really talking to them. How do I know this envelope really came from Amazon?[ reply to this | link to this | view in chronology ]
+John Fenderson (profile), 4 Dec 2014 @ 9:24am
+Re: Re: Re: Re: Re: Re: Re: Re: Pinning plus private CAYou call Amazon up and ask them for the key's fingerprint (a short series of numbers). You compare that fingerprint with the fingerprint of the key you have. If they match, the odds near certainty that your key is the correct one.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 4 Dec 2014 @ 2:23am
+Re: Re: Re: Re: Pinning plus private CA" "I believe the commenter meant "it's own private root CA"."Which addresses nothing and leaves the same problem I mentioned."Here's the commenter: The site specifies the certificate of the private CA in the DANE-records. This ties the CA to the domain name.
+We could add Certificate Transparency to monitor long term stability of that tie. It protects against DNS-manipulations as well.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 4:50am
+I don't see how adding another certificate authority to the mix can make things any worse. The current CA system was already insecure and broken long before Let's Encrypt joined the party.[ reply to this | link to this | view in chronology ]
+Applesauce, 3 Dec 2014 @ 6:41am
+The problem is trustThe problem with all certificate authorities is that they rely on a trust model. The DEFINITION of a trusted system under the DOD's Blue Book (and under Microsoft's Trusted Computing initiative) is a system that can BREAK your security provisions.The solution is not to trust anyone. Trust makes things easy because you transfer the security problem to another authority, but the more difficult (but the only secure one) path is to be fully responsible for your own security.[ reply to this | link to this | view in chronology ]
+Hephaestus (profile), 3 Dec 2014 @ 6:54am
+Re: The problem is trustThe solution is Bitcoin style block chain registration of self generated public keys. With the private keys only being held by the site or individual using them.[ reply to this | link to this | view in chronology ]
+Hanno, 3 Dec 2014 @ 8:25am
+Key Pinning and CTI often feel this CA discussion stopped some time some years ago.While there is no good solution to replace the whole CA system yet there are actually pretty nice workarounds for a large number of problems. They are called HTTP Public Key Pinning and Certificate Transparency.You can start adding Key Pinning to your site today. Chrome supports it, Firefox and IE work on it, it will improve your security a lot and it'll make CA compromises much less of an issue.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 9:39am
+Re: Key Pinning and CTI think changing PKI infrastructure would be better. The system is inherently broken because people in power like it that way, unfortunately, every backdoor, super access key, or what have you will also be abused by the criminals, and not just abused by those in power.Here would be a better solution.2 Tier PKI.Tier 1. CryptoAuthentication (These would be certs issued publicly just like our current CA PKI saying this entity is legit enough to issue you/self trusted certs)Tier 2. CryptoEncryption (These would be Cert servers actually signing and encrypting the certs... then issuing them)Tier 1 Signs Tier 2 which work effectively just like Extended Validation certificates that require intermediaries. Except the intermediary would be a private CA while the root is the public CA.This would prevent government snooping dead in it tracks, and with some added features can also be used to allow automatic tracking of issued certs so that the moment a pseduo MITM attack cert was circulating it would be near instantly discovered!Yes, this would require changes to how the current PKI system works, but would be DAMN worth it! It also has the added benefit of mitigating compromised public Root Certificates.The pinning method is not sufficient because it still has too FEW people involved. With my method, anyone that wants encryption will have to run a PKI server, and with a good open sourced PKI product this would not be too much to ask![ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 8:50am
+Their response is similar to what I said in an earlier post.https://www.techdirt.com/articles/20141106/05305729062/are-apple-google-microsoft-mozilla-helpi ng-governments-carry-out-man-in-the-middle-attacks.shtml#c552[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 9:01am
+Re:The solution is that the browser should cross reference other CA's to see if they also authenticate the website. A MITM can lie about which CA authenticates the website and choose one that it can compromise.[ reply to this | link to this | view in chronology ]
+Anonymous Coward, 3 Dec 2014 @ 9:01am
+Re: Re:(or at least it's a partial solution *)[ reply to this | link to this | view in chronology ]
+Whoever, 3 Dec 2014 @ 12:19pm
+Canary?They could use a canary approach: Post an item every month that says they have not been forced to provide certificates to a government agency and then stop posting when the inevitable happens.[ reply to this | link to this | view in chronology ]
+Add Your Comment
+Close
+Add A Reply
+Have a Techdirt Account? Sign in now. Want one? Register here
+Subscribe to the Techdirt Daily newsletter
+this is for spambots, do not use this
+Comment Options:
+Use markdown.
+Use plain text.
+Remember name/email/url (set a cookie)
+DailyDirt: We Should Have Written Down ET's Phone Number...
+Like The NSA And GCHQ, Germany's Foreign Intelligence Agency Uses A Legal Loophole To Spy On Its Own Citizens
+Follow Techdirt
+Techdirt Daily Newsletter
+Special Affiliate Offer
+Essential Reading
+New To Techdirt?
+Explore some core concepts:
+The Grand Unified Theory On The Economics Of Free
+Step One To Embracing A Lack Of Scarcity: Recognize What Market You're Really In
+Perhaps It's Not The Entertainment Industry's Business Model That's Outdated
+read all »
+Trending Posts
+TSA Oversight Says Agency's Suspicionless Surveillance Program Is Worthless And The TSA Can't Prove It Isn't
+As Predicted: Parler Is Banning Users It Doesn't Like
+The Neighbors Are Watching Via Surveillance Video
+Techdirt Insider Chat
+Join the Insider Chat
+Recent Stories
+Thursday19:52
+Nintendo Hates You: DMCA Takedowns Of Game Music Continue While Nintendo Offers No Legit Way To Listen (6)15:35
+Tillis Release Details Of His Felony Streaming Bill; A Weird Gift To Hollywood At The Expense Of Taxpayers (28)13:48
+As A Parting Shot, Tulsi Gabbard Teams Up With Paul Gosar To Introduce Yet Another Unconstitutional Attack On Section 230 (51)12:23
+AZ GOP Goes Full Bullshit: Claims It took Down Violence-Inciting Tweet Over Copyright Concerns (29)10:50
+New Report Shows Cellphone Encryption Isn't Really Stopping Cops From Searching Phones (8)10:47
+Daily Deal: The Complete Web Developer Coding Bundle (0)09:37
+Not This Again: Senator Tillis Tries To Slide Dangerous Felony Streaming Bill Into Must Pass Government Funding Bill (29)06:17
+Stupid Cable TV Retrans Feuds And Blackouts Make Their Way To Streaming TV (13)03:14
+TSA Oversight Says Agency's Suspicionless Surveillance Program Is Worthless And The TSA Can't Prove It Isn't (8)Wednesday19:55
+Nintendo Plays 'Control Inception', Cancelling Splatoon Broadcast After Teams Protest Canceling Smash Bros. Tourney (18)
+More
+Tools & Services
+Twitter
+Facebook
+RSS
+Podcast
+Research & Reports
+Company
+About Us
+Advertising Policies
+Privacy
+Contact
+Help & Feedback
+Media Kit
+Sponsor/Advertise
+Submit a Story
+More
+Copia Institute
+Insider Shop
+Support Techdirt
+Brought to you by Floor64
+CA Advertising Privacy Preferences
+This site, like most other sites on the web, uses cookies. For more information, see our privacy policy.
+Got it
+Close
+Email This
+This feature is only available to registered users. Register or sign in to use it.

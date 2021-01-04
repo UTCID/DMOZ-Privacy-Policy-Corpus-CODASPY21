@@ -1,0 +1,136 @@
+http://www.mailmoat.com/help/faqs.html
+www.MailMoat.com
+Stop the spammersfrom invading!
+Fequently Asked QuestionsAccount ManagementI forgot my MailMoat Username, Password or Both!
+I keep getting logged out of MailMoat's Members Area.
+GeneralCan I get a regular e-mail account on MailMoat?
+Can't MailMoat aliases be guessed with a computer?
+How does MailMoat work?
+What features does mailmoat offer?
+Why is junk email called SPAM?
+Doesn't Hormel Foods get angry about its trademark being used this way?
+Why should I pay for MailMoat.com's services?
+Will MailMoat ever send me unsolicited email?
+Will MailMoat work with my computer?
+Message InformationWhat happens when a message is sent to an expired MailMoat alias?
+My PrivacyDo you keep my credit card number on file?
+What could someone learn by analyzing my MailMoat alias?
+Your Privacy Policy is too long and complicated. Can you summarize it?
+Account Management
+Q.
+I forgot my MailMoat Username, Password or Both!
+A.
+Follow the "I Forgot My Password" link on the Member Login page.
+On the next page, you will be asked for your MailMoat Username and Primary Email Address.
+1) If you forgot your Password, enter your Username and Primary Email Address, then press the [Send Me My Info] button.
+A new password will be emailed to you.
+2) If you forgot your Username (or both), just enter your Primary Email Address and press the [Send Me My Info] button.
+A new Username will be emailed to you.
+Go back to the "I Forgot My Password" page and enter your new Username along with your Primary Email Address.
+Then a new Password will also be emailed to you.
+(This extra step is to prevent other people from using these features to change your password)
+(If your Primary Email Address is no longer current, you must contact Customer Service by email at support@mailmoat.com or by phone at (734) 997-7000, M-F 9:30am - 4:00pm EST)
+Q.
+I keep getting logged out of MailMoat's Members Area.
+A.
+Your login is handled by a session cookie.*
+If your browser is set to not accept session cookies, then MailMoat will not be able to keep track of your session and you will be logged out.
+See your browser's help file on how to change settings for more info.
+Occasionally, an incorrect time setting on your computer can cause problems with session cookies.
+*Session cookies reside only in system memory, they disappear after the session is over, and they do not contain any personal information.
+General
+Q.
+Can I get a regular e-mail account on MailMoat?
+A.
+Not yet.
+This is something that we plan to do in the future, but it will take a while.
+There are lots of useful and just-plain-cool things that would be easy to do with a combined MailMoat & regular e-mail account, but it'll take a lot more programming, disk space for mailboxes, and bandwidth to do.
+(The first reason for the "free email accounts" folks to sell you to half the world's slimy advertisers is to pay the bills!)
+Q.
+Can't MailMoat aliases be guessed with a computer?
+A.
+It's somewhat like guessing winning lottery numbers with a computer.
+A default-strength MailMoat alias is 8 letters - there are 208,827,064,576 possibilities.
+A junk mail pusher can't learn anything about which MailMoat user might have what active aliases - he's just making random guesses, trying to get lucky and "hit" an alias that's active right now.
+MailMoat's computers notice after a few wrong guesses, and start responding slower and slower....and.......slower to the spammer's guesses.
+If this doesn't sound tough enough, MailMoat offers stronger
+aliases - all the way up to 16 letters & numbers, for 1,208,925,819,614,629,174,706,176 possibilities.
+Q.
+How does MailMoat work?
+A.
+See the How MailMoat.com Works page for more information.
+Q.
+What features does mailmoat offer?
+A.
+See the MailMoat Features and Rates page for more information.
+Q.
+Why is junk email called SPAM?
+Doesn't Hormel Foods get angry about its trademark being used this way?
+A.
+Hormel Foods would be happier if everyone called junk email "UCE" (for Unsolicited Commercial Email), but is quite reasonable about the
+words "spam", "spammer", "spamming", etc.
+(The SPAM on your grocer's shelves is spelled with all capital letters; Hormel wants folks to use lower case letters for the bad kind.)
+For Hormel Foods' quick history of UCE & SPAM, and their official Position Statement, click here.
+Q.
+Why should I pay for MailMoat.com's services?
+A.
+For more information, visit our Why should I choose MailMoat.com page.
+Q.
+Will MailMoat ever send me unsolicited email?
+A.
+MailMoat.com will never send you SPAM.
+Occasionally, we may send you email to notify you of a problem with your account, or of important changes to MailMoat.
+For more information, see the MailMoat Privacy Statement.
+Q.
+Will MailMoat work with my computer?
+A.
+MailMoat runs on our servers, not on your computer.
+The email part works with all standard internet email.
+Our web site works with virtually any web browser that allows temporary cookies (to remember that you're logged in).
+Your browser will need SSL security if you're sending us your credit card number or using PayPal.
+(No SSL is needed if you fax us your credit card number.)
+Message Information
+Q.
+What happens when a message is sent to an expired MailMoat alias?
+A.
+Before MailMoat accepts even part of a message, the alias is checked to verify that it is current.
+If the alias has expired, then MailMoat will reject the message.
+If the alias is current, then MailMoat will initiate delivery.
+Before MailMoat accepts the delivered message, the alias is verified once again.
+If the alias is expired at that point, MailMoat will return an error message to the sending server, and not accept the message for delivery.
+MailMoat never keeps copies of failed messages.
+My Privacy
+Q.
+Do you keep my credit card number on file?
+A.
+If your bank refused to let us charge your credit card (for any reason), we may keep your number on file.
+If we do, we will use a secure one-way encryption method to store this number. (The exact details on our method is obviously confidential).
+If your bank honors your credit card, then we are required by our merchant agreement to keep your credit card information on file for cargeback and for fraud control.
+We will store your information in a very strong encrypted mannor and it will not be stored on a server that is directly connected to the internet and only accpets information from our server and will never send any data out.
+(The exact details of the encryption and setup are obviously confidential).
+In the future, we may offer a service to automatically re-bill your credit card when your account expires, if we do this, you will have to specify that you wish for this to happen.
+Q.
+What could someone learn by analyzing my MailMoat alias?
+A.
+Anyone can see whether an alias is default strength (8 letters, "only" 208+ BILLION possible aliases) or one of the higher strengths that MailMoat offers.
+If you gave the same alias to several different people (or companies) and they bothered to compare notes, they could learn that they were all dealing with the same person.
+Other than that, NOTHING.
+MailMoat aliases are encrypted random numbers with NO data about you or your other aliases.
+Only the carefully-secured MailMoat alias database can tell that your aliases are connected to you.
+Q.
+Your Privacy Policy is too long and complicated. Can you summarize it?
+A.
+Sure!
+We collect & keep four types of information from & about you:
+A) Payment related information: Credit card #, Name, Billing address, payment amounts & dates, etc.
+B) Information needed for MailMoat to work: Your username, One-Way Encrypted password, real e-mail addresses, MailMoat aliases, etc.
+C) Misc. Personal Information: E-mails to our support department, etc.
+D) Semi-Anonymous Information: Suggestion Box ideas from you, size of e-mail messages passing through the system, etc.
+We have to send the "A" information out to the bank to charge your credit card (if you pay by credit card).
+We also keep this information as secret as possible.
+The "B" information has to be on the MailMoat servers for your account to function.
+"C" & "D" information is used to help make MailMoat a better place.
+Privacy Statement
+Terms & Conditions
+Copyright © 1999-2020Patent Pending
+Michigan Integrated Solutions, Inc.

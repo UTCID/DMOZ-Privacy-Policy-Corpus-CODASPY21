@@ -1,0 +1,97 @@
+http://www.wti.com/pages/information-security-policy
+Skip to content
+You are ${ shippingDifference | toUSD } away from free shipping
+Your cart qualifies for free ground shipping
+${ minicartMessage }
+${ item.title }
+,
+${ key }:
+${ value }
+${ option.name }:
+${ option.value }
+${ item.price | toUSD }
+Remove
+Qty
+${ item.quantity }
+Subtotal
+${ cartTotal | toUSD }
+You have FREE shipping
+Taxes will be calculated at checkout.
+Secure Checkout
+Continue Shopping
+Your cart is currently empty.
+${ cartItemCount }
+Information Security Policy
+WTI - Western Telematic, Inc. - Information Security Policy
+WTI considers the security and privacy of customer data to be a very serious matter. We take great care to make certain that customer data obtained via our website is safe from unauthorized access and we employ state of the art security, authentication and encryption measures to make certain that your data remains confidential. It is our firm policy to never sell your customer data to third parties and to only share data in cases where the law requires us to do so.
+In an effort to comply with the European Union's GDPR regulations, WTI has implemented the following Information Security Policy.
+Information Collected
+Customer data collected by Western Telematic, Inc. generally falls into one of the two following categories:
+Data from Browsers: Data collected from cookies, web logs and pixel tags. When users visit our website, WTI employs cookies, pixel tags and data from our web log to track the pages that you visit at WTI.com, the time and date of your visit, your Internet domain and IP address and other information.
+Data from Transactions: Data collected from sales transactions, web forms and marketing events. Whenever a customer completes a sales transaction, fills out a web form or paticipates in a marketing event, WTI will collect the information supplied in the process of the transaction. This usually includes the user’s name, contact information, organization represented and other information entered during the transaction.
+Data from Browsers
+Data collected from browsers generally consists of information related to your online activity on WTI.com. If you don’t want WTI.com to retrieve data from cookies, you can disable or restrict access to cookies via your web browser. For instructions regarding the procedure for disabling cookies, please consult the help menu for your web browser. Note that if you decide to suppress the use of cookies, this may limit the functionality of our website.
+Data collected from browsers often includes the following:
+Your IP Address
+The date and time of your visit to WTI.com
+The type and version of browser used
+Your geographic location
+Pages you viewed on WTI.com
+Information regarding the route that you took to arrive at WTI.com. This may include the search engine(s) used and any external links that lead you to our site.
+Metadata regarding your use of our services and emails sent to WTI (including clicks and opens)
+Interactions with videos on WTI.com
+The type of device used to interact with WTI.com
+Other information determined from cookies, web logs and pixel tags
+Data from Transactions
+Data collected from transactions will include any information that you enter in the process of completing a sales transaction, responding to a web form on WTI.com or participating in a WTI marketing event. This includes information entered in the process of completing an online purchase, completing a phone based transaction, completing an email transaction, responses to marketing events, requests for technical support or assistance, requests for additional product information and other interactions with WTI.
+Transaction data collected by WTI will be deleted and/or updated upon user request. To delete or update your transaction data, simply send a request via email to info@wti.com or call us at (800) 854-7226. We will gladly delete and/or edit your transaction data per your instructions.
+Data collected from transactions can include the following:
+First and last names
+Contact information
+Shipping address
+The company or organization represented
+Products Purchased
+Credit card information
+Dates that you ordered products from WTI.com, communicated with WTI or edited your account info at WTI.com
+Requests for support or assistance
+Information entered in the process of creating an account at WTI.com
+Other information that was entered into a form at WTI.com
+Use of Collected Information
+WTI uses personal information collected via online sales transactions and forms for the purpose of completing online sales transactions, fulfilling customer requests and orders and communicating with customers. WTI uses information collected via cookies and web logs for analytical purposes, to improve user experience at our site and for helping us to determine customer trends and needs.
+We will only contact you via telephone if you specifically request a sales call, or if we require some clarification regarding your information request or product order. If you supply us with your postal address on-line, you may receive periodic hard-copy mailings from us with information on new products and services or upcoming events. If you respond to hard-copy mailings, you may also receive follow-up email regarding your response.
+If you do not wish to receive mailings or follow-up email, please email us at info@wti.com and ask to be removed from our mailing list.
+In order to provide effective access to products, services and content on WTI.com, we may use collected information for the following:
+To respond to requests for our products and services
+To make certain that our web content is helpful to our customers
+To monitor use of WTI.com and ensure that the site functions properly
+To track customer needs and interests in order to improve our products and services
+To respond to customer requests for information and support
+To determine how to make WTI.com more easily navigable and responsive to customer needs
+To determine ways in which our advertising and marketing programs can be made more effective and useful
+To aid our security and compliance programs
+To link potential customers with appropriate products and services
+To personalize WTI.com to fit customer needs and interests
+Disclosure of Collected Information
+WTI will not disclose user information collected via our web site without your consent. The only exceptions to this rule are cases where disclosure is mandated by law.
+WTI will never distribute, sell or lease your personal data to third party organizations.
+Protection of User Information
+WTI is committed in ensuring the security of your information. We have implemented reasonable physical, technical and administrative safeguards to prevent unauthorized access to the information collected online. Although data transmission via internet can never be guaranteed to be 100 percent secure, WTI uses the most up-to-date security measures available, such as HTTPS and Transport Layer Security.
+Credit card transactions are transmitted using secure socket layer and transport layer security (SSL/TLS) encryption.
+WTI regularly reviews the information collection, storage and processing procedures practiced at WTI.com to guard against unauthorized access to data and systems.
+WTI.com is currently PCI compliant.
+External Links
+WTI.com may contain links to other websites. We provide these links for your convenience, but we do not review, control or monitor the security and privacy practices of websites operated by others.
+WTI is not responsible for the policies and standards of other websites or for your user experiences at these sites. Whenever you follow a link from WTI.com, WTI recommends that you review the target websites’ privacy and security policies.
+Unauthorized Accounts
+If you determine that an unauthorized account was created in your name on WTI.com without your approval, please notify us immediately. Once notified of an unauthorized account, we will investigate the issue, and remove the unauthorized account.
+Retention of Personal Information
+We retain your personal information as needed to provide services to you and as otherwise necessary to comply with legal obligations, resolve disputes, and enforce agreements.
+Children and Privacy
+WTI does not knowingly ask for personal information from children under 13 years old, nor knowingly send requests to them seeking personal information.
+Changes to Our Security Policy
+WTI reserves the right to amend our Security Policy at any time and for any reason. We encourage our website visitors to review this Security Policy regularly.
+How to Contact Us
+If you have further questions regarding our Security Policy, please contact us at info@wti.com.
+Access live products in our demo lab
+Schedule a Webex with a WTI product engineer
+Request an eval unit

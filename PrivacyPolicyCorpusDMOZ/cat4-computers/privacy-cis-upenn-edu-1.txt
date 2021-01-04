@@ -1,0 +1,39 @@
+http://privacy.cis.upenn.edu/
+--
+Home
+--  Contributors
+--  Software
+--  Publications
+--
+A wealth of data about individuals is
+constantly accumulating in various databases in the form of medical
+records, social network graphs, mobility traces in cellular networks,
+search logs, and movie ratings, to name only a few. There are many
+valuable uses for such datasets, but it is difficult to realize these
+uses while protecting privacy. Even when data collectors try to protect
+the privacy of their customers by releasing anonymized or aggregated
+data, this data often reveals much more information than intended. To
+reliably prevent such privacy violations, we need to replace the
+current ad-hoc solutions with a principled data release mechanism that
+offers strong, provable privacy guarantees. Recent research on differential
+privacy has brought us a big
+step closer to achieving this goal. Differential privacy allows us to
+reason formally about what an adversary could learn from released data,
+while avoiding the need for many assumptions (e.g. about what an
+adversary might already know), the failure of which have been the cause
+of privacy violations in the past. However, despite its great promise,
+differential privacy is still rarely used in practice. Proving that a
+given computation can be performed in a differentially private way
+requires substantial manual effort by experts in the field, which
+prevents it from scaling in practice.
+This project aims to
+put differential privacy to work---to build a system that supports
+differentially private data analysis, can be used by the average
+programmer, and is general enough to be used in a wide variety of
+applications. Such a system could be used pervasively and make strong
+privacy guarantees a standard feature wherever sensitive data is being
+released or analyzed. The
+long-term goal is to combine ideas from differential privacy,
+programming languages, and distributed systems to make data analysis
+techniques with strong, provable privacy guarantees practical for
+general use.

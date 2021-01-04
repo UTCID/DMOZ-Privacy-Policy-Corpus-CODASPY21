@@ -1,0 +1,72 @@
+http://www.bartoncenter.org/privacy-policy
+INTRODUCTION
+Barton Center for Diabetes Education, Inc. (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website www.bartoncenter.org, including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the “Site”). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
+We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site, and you waive the right to receive specific notice of each such change or modification.
+You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Site after the date such revised Privacy Policy is posted.
+COLLECTION OF YOUR INFORMATION
+We may collect information about you in a variety of ways. The information we may collect on the Site includes:
+Personal Data
+Personally identifiable information, such as your name, shipping address, email address, and telephone number, that you voluntarily give to us [when you contact us through our Site or, when you choose to participate in various activities related to the Site. You are under no obligation to provide us with personal information of any kind.
+Derivative Data
+Information our servers automatically collect when you access the Site, such as your IP address, your browser type, your operating system, your access times, and the pages you have viewed directly before and after accessing the Site.
+Data From Social Networks
+User information from social networking sites, such as [Facebook, Google+, Instagram, Pinterest, Twitter], including your name, your social network username, location, gender, birth date, email address, profile picture, and public data for contacts, if you connect to your social network account from our Site.
+Mobile Device Data
+Device information, such as your mobile device ID, model, and manufacturer, and information about the location of your device, if you access the Site from a mobile device.
+Third-Party Data
+Information from third parties, such as personal information or network friends, if you connect your account to the third party and grant the Site permission to access this information.
+DISCLOSURE OF YOUR INFORMATION
+We may share information we have collected about you in certain situations. Your information may be disclosed as follows:
+By Law or to Protect Rights
+If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation. This includes exchanging information with other entities for fraud protection and credit risk reduction.
+Marketing Communications
+With your consent, or with an opportunity for you to withdraw consent, we may share your information with third parties for marketing purposes, as permitted by law.
+THIRD-PARTY WEBSITES
+The Site may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the Site [or our mobile application], any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the Site [or our mobile application].
+SECURITY OF YOUR INFORMATION
+We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
+POLICY FOR CHILDREN
+We do not knowingly solicit information from or market to children under the age of 13. If you become aware of any data we have collected from children under age 13, please contact us using the contact information provided below.
+CONTROLS FOR DO-NOT-TRACK FEATURES
+Most web browsers and some mobile operating systems [and our mobile applications] include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Policy. Most web browsers and some mobile operating systems [and our mobile applications] include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. If you set the DNT signal on your browser, we will respond to such DNT browser signals.
+Emails and Communications
+If you no longer wish to receive correspondence, emails, or other communications from us, you may opt-out by:
+– Noting your preferences at the time you register your account with the Site [or our mobile application].
+Logging into your account settings and updating your preferences.
+– Contacting us using the contact information provided below.
+If you no longer wish to receive correspondence, emails, or other communications from third parties, you are responsible for contacting the third party directly.
+CONTACT US
+If you have questions or comments about this Privacy Policy, please contact us at:
+The Barton Center for Diabetes Education, Inc.
+30 Ennis Road
+P.O. Box 356
+North Oxford, MA 01537-0356
+E-mail: info@bartoncenter.org
+Phone: 508-987-2056
+Fax: 508-987-2002
+Our Programs Our programs focus on fun and support; the goal is to educate children and their families on how to manage the daily rigors of diabetes, so they can live fuller and healthier lives.
+Latest News & Events
+2021 Campership Fundraising
+Fundraise for your own camp fee or for our general campership fund which provides financial aid for those in need. We are using new online fundraising software which makes your fundraising experience fun and easy. It’s also easy to donate directly to a specific camper or to the general campership fund. Click here to get started fundraising or make a donation to camperships.
+Summer 2021 Camp Dates
+Our summer 2021 camp dates are available now. Please click here for our Programs Calendar. At this time, we are still planning to open registration for summer 2021 programs in January as usual, but the decision on whether we can open will need to factor in local and state mandates regarding COVID-19. We are optimistic that at a minimum, we’ll be able to open at a lesser capacity to allow for distancing, cleaning, etc.
+Virtual Winter Camp–December 27th to 31st
+Join us during winter break for Virtual Winter Camp! We will be offering 1-3 hours a day of virtual programming for campers aged 6-16. Using zoom, we will meet for arts and crafts, diabetes discussions, games, and much more. Please click here for more information.
+News & Events Page »
+Search
+Type and Press “enter” to Search
+/* ----------------------------------------- */
+/* View slug: news-side-bar - start */
+/* ----------------------------------------- */
+.title, #title {
+font-size:100%!important;
+font-weight:700!important;
+margin-top: 4px;
+margin-bottom: 4px;
+}
+.ex, #ex { font-size: 13px!important;line-height: 145%;}
+.rm, #rm { font-size: 12px!important;float:right;}
+hr {border-top: 1px solid #B7E6B3;margin: 1em 0 0em 0;clear:both;}
+/* ----------------------------------------- */
+/* View slug: news-side-bar - end */
+/* ----------------------------------------- */

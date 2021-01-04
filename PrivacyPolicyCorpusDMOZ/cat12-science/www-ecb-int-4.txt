@@ -1,0 +1,174 @@
+http://www.ecb.int/stats/policy_and_exchange_rates/banknotes+coins/html/index.en.html
+Navigation Path:
+Home›Statistics›ECB/Eurosystem policy and exchange rates›Banknotes and coins› Circulation
+Statistics
+Main features
+Governance and quality framework
+Public consultations
+Co-operation and standards
+Banking Industry Dialogue on ESCB statistics
+Banks’ data reporting
+INEXDA - granular data network
+Implementation of BPM6
+Implementation of ESA 2010 in euro area accounts
+SDMX – statistical data exchange model
+SMCube Information Model
+About the Statistical Data Warehouse (SDW)
+Overview of key euro area indicators
+Selected euro area statistics and national breakdowns
+ECB/Eurosystem policy and exchange rates
+Official interest rates
+Minimum reserves and liquidity
+Eurosystem balance sheet
+Banknotes and coins
+Circulation
+Production
+Cash logistics
+TARGET balances of participating NCBs
+Euro foreign exchange reference rates
+Money, credit and banking
+Monetary aggregates
+MFI balance sheets
+Credit institutions and money market funds
+Electronic money
+Estimated MFI loans to NFCs by economic activity (NACE)
+AnaCredit
+AnaCredit Q&A
+Financial corporations
+Financial vehicle corporations
+Financial corporations engaged in lending
+Investment funds
+Insurance corporations
+Pension funds
+Lists of financial institutions
+Financial markets and interest rates
+Bank interest rates
+MFI interest rates
+Coefficients of cross-country variation
+Composite cost of borrowing indicators
+Long-term interest rate statistics for convergence purposes
+Securities issues
+Seasonally adjusted
+Listed shares
+Debt securities
+Securities holdings statistics
+Reporting documentation
+Short-Term European Paper (STEP)
+Euro short-term rate (€STR)
+€STR Transparency on errors
+Euro area yield curves
+Euro money market
+Financial integration and structure in the euro area
+Balance of payments and other external statistics
+Balance of payments and international investment position
+International reserves and foreign currency liquidity
+ECB foreign exchange interventions
+Template on international reserves
+External debt
+External trade in goods
+Daily nominal effective exchange rate
+Harmonised competitiveness indicators
+Macroeconomic and sectoral statistics
+Sector accounts
+GDP, output and demand
+Government finance
+Measuring inflation - HICP
+Other prices and costs
+Labour markets
+Payment statistics
+TARGET/Euro LVPS
+Cross-border collateral in Eurosystem credit operations
+Payment services, large-value and retail payment systems
+Securities trading, clearing and settlement
+ECB surveys
+Survey of monetary analysts (SMA)
+ECB survey of professional forecasters (SPF)
+Bank lending survey (BLS)
+Survey on the access to finance of enterprises (SAFE)
+Household finance and consumption survey (HFCS)
+Survey on credit terms and conditions in euro-denominated securities financing and over-the-counter derivatives markets (SESFOD)
+Consumer expectations survey (CES)
+Supervisory and prudential statistics
+Banking supervision
+Consolidated banking data
+Macroprudential statistics
+Banknotes and coins circulation
+The statistics referenced on this page are updated around the 14th working day	of each month. They cover
+data on outstanding amounts (stocks) of euro banknotes and coins in circulation
+transactions data (flows) on the banknotes and coins issued into circulation, returned from circulation, sorted to check authenticity & fitness and sorted to unfit during the reporting period
+the number of NCBs/commercial banks branches providing cash in the euro area
+the value of euro collector coins not intended for circulation issued by the euro area Member States.
+The main aggregates for these statistics are shown on this page. More data are available through the Statistical Data Warehouse (see below).	Data are not seasonally adjusted.
+The ECB closely monitors the stock and circulation of euro banknotes and coins. It is the Eurosystem’s task to ensure a smooth and efficient supply of euro banknotes and to maintain their integrity.
+Data
+Background
+Glossary of terms
+Data
+Statistical Data Warehouse – interactive data access
+Circulation of euro banknotes
+quantities: report sheet, data
+values: report sheet, data
+Circulation of euro coins
+quantities: report sheet, data
+values: report sheet, data
+All time series
+Time series start from January 2002. Stock data refer to the amount	outstanding at the end of the reporting period. Flows data refer to	the cumulated amount between the first and the last day of the reporting period.
+All time series of banknotes and coins statistics
+Background
+The different datasets on banknotes and coins
+Three datasets with different objectives, scopes and methodologies provide information on banknote and coin circulation. These data do not indicate whether the banknotes or coins are physically circulating within the euro area or outside the euro area. Any economic interpretation of the data should take into account the methodologies and differences presented below.
+Banknote and coin (BKN) statistics: “net circulation of euro banknotes/coins”
+(monthly data as at the last calendar day of a month)
+This item provides data on banknotes/coins put into circulation in the euro area. It is calculated for each individual country as the total euro banknotes/coins put into circulation by the national central bank (NCB) of that country since the introduction of the euro, minus all euro banknotes/coins returned to that NCB. Outstanding amounts may also be negative if the value/number of banknotes returned to an NCB is greater than the value/number it has issued because of banknote migration between the euro area countries.
+Aggregated for the whole euro area, these amounts give the “net circulation of banknotes” or “net circulation of coins” data item.
+“Net circulation of coins” excludes any stocks of euro coins credited to the legal issuer but still physically held by the NCB (in countries where coins are issued by the treasury).
+Monetary financial institution balance sheet items (BSI) statistics: “currency in circulation”
+(monthly data as at the last calendar day of a month)
+This item provides data on the aggregated and consolidated balance sheet of the monetary financial institutions (MFI) sector.
+Euro banknotes in circulation are recorded as a liability of the Eurosystem. They are split between the NCBs and the ECB according to the banknote allocation key agreed by the Governing Council. When this liability does not match with the value of euro banknotes that a central bank has actually put into circulation, the difference is recorded as that central bank’s claim on, or liability towards, the Eurosystem. As the ECB does not put any euro banknotes into circulation, it always records a net claim on the Eurosystem.
+Euro coins are always treated as a central bank liability for statistical purposes, even though it is typically governments that are the legal issuers.
+“Currency in circulation” reflects the circulation of euro banknotes and coins outside the MFI sector as a whole. Any euro banknotes or coins held by MFIs in order to meet day-to-day business needs (“vault cash”) are therefore netted out.
+Internal liquidity management (ILM) statistics: “banknotes in circulation”
+(monthly data as at the Friday following the last Monday of a month)
+This item reflects the consolidated financial statement of the Eurosystem and the banking system’s liquidity position.
+The amount of “banknotes in circulation” is recorded as a liability of the Eurosystem and split among the NCBs and the ECB according to the banknote allocation key. Euro coins are by definition not part of this item.
+Glossary of terms
+Net circulation of banknotes and coins
+The number and value of euro banknotes issued by the Eurosystem central banks, without further distinction as to who is holding the currency issued, i.e. also including the stocks held by credit institutions.
+Collector coins issued net of collector coins returned
+The total face value of all euro collector coins, which are defined as coins not intended for circulation. Euro collector coins have legal tender status only in the country of issue. They must be readily distinguishable from euro circulation coins. Official definitions of “euro circulation coins” and “euro collector coins” can be found in the Official Journal of the European Union (OJ C 247, 15.10.2003, p.5).
+Banknotes and coins returned from circulation
+The number and value of banknotes and coins returned to the reporting national central bank (NCB) during the reporting period.
+Banknotes and coins sorted to check authenticity &
+fitness
+The number and value of banknotes checked for authenticity and fitness by the reporting NCB, either using banknote sorting machines or manually, during the reporting period.
+Sorted to unfit
+The number and value of banknotes found to be unfit, and thus withdrawn from circulation, during the reporting period.
+Banknotes series
+The design series of euro banknotes issued by
+the Eurosystem central banks.
+Figures for “banknotes returned from circulation” and “net circulation of banknotes” split by design series (first series and Europa series) are estimates.
+Twitter
+facebook
+linkedin
+Whatsapp
+email
+Our website uses cookies
+We are always working to improve this website for our users. To do this, we use the anonymous data provided by cookies.
+Learn more about how we use cookies
+I understand and I accept the use of cookies
+I do not accept the use of cookies
+Thank you!
+Thank you!
+We have updated our privacy policy
+We are always working to improve this website for our users. To do this, we use the anonymous data provided by cookies.
+See what has changed in our privacy policy
+I understand and I accept the use of cookies
+I do not accept the use of cookies
+Your cookie preference has expired
+We are always working to improve this website for our users. To do this, we use the anonymous data provided by cookies.
+Learn more about how we use cookies
+I understand and I accept the use of cookies
+I do not accept the use of cookies
+This feature requires cookies.
+Privacy statement

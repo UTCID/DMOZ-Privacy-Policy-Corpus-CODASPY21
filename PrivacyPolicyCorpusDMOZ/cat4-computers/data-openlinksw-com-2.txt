@@ -1,0 +1,50 @@
+http://data.openlinksw.com/oplweb/collect-data-and-make-it-simple-and-accessible-without-compromising-privacy#this
+Not logged in
+: Login
+Facets (new session)
+Description
+Metadata
+Settings
+Rule:
+asEquivalentb3sb3sifpfacetshttp://www.w3.org/2002/07/owl#ldpoffers ontologyoplwebschema-oloskos-transvirtrdf-eturtle-containersvirtrdf-hashtagvirtrdf-ifpvirtrdf-labelvirtrdf-meta-entity-classNone
+Inverse Functional Properties:
+Disabled (fastest)
+Apply to subjects only
+Apply to objects only
+Apply to both subjects and objects
+"Same As":
+Disabled (fastest)
+Apply to subjects only
+Apply to objects only
+Apply to both subjects and objects (recommended)
+Apply to subjects, objects and predicates (not recommended on big datasets)
+Apply to predicates only (special use cases only)
+About:
+Collect data and make it simple and accessible, without compromising privacy
+Goto
+Sponge
+NotDistinct
+Permalink
+An Entity of Type : owl:Thing,
+within Data Space : www.openlinksw.com associated with source document(s)
+AttributesValuesdescription
+Collect data of every type, wherever it lives and use hyperlinks as super-keys for creating a change-sensistive and conceptually flexible web of linked data.described by
+https://www.openlinksw.com/about/id/entity/urn/webdev:wwwtitle
+Collect data and make it simple and accessible, without compromising privacyimage
+http://www.openlin...y/oplcorp#hasRank
+3(xsd:integer)is topic
+of urn:webdev:wwwis has value proposition
+of OpenLink Software
+Faceted Search & Find service v1.17_git51 as of Sep 16 2020
+Alternative Linked Data Documents:
+iSPARQL
+|
+ODE
+Content Formats:
+RDF
+ODATA
+Microdata
+About
+OpenLink Virtuoso version 08.03.3319 as of Sep 16 2020, on Linux (x86_64-generic-linux-glibc25), Single-Server Edition (30 GB total memory)
+Data on this page belongs to its respective rights holders.
+Virtuoso Faceted Browser Copyright © 2009-2020 OpenLink Software

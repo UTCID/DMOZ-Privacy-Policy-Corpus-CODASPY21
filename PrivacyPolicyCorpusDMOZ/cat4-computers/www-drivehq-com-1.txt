@@ -1,0 +1,75 @@
+https://www.drivehq.com/help/features/Backup.aspx
+Cloud-to-Cloud Backup
+DriveHQ Cloud IT Service can completely replace your in-house file servers. If you have migrated to the cloud completely,
+you might want to back up your cloud data, esp. if your data is extremely important.
+By default, DriveHQ's cloud storage is extremely secure and reliable based on our system and infrastructure design. However,
+in certain special cases, data loss is still possible.
+Cloud-to-cloud backup can add an extra layer of protection.
+Manage C2C Backup Task
+Local-to-Cloud Online Backup
+DriveHQ Online Backup software is an enterprise-class backup program that allows
+you to create many real-time or scheduled backup tasks.
+You can back up any number of laptops, desktops and servers. It is extremely easy, efficient and reliable.
+DriveHQ Online Backup software supports both Windows and Mac, and can be managed remotely by a system administrator.
+DriveHQ also offers a robust Unix/Linux/Mainframe data backup solution
+and
+Custom Server Backup solution with FTP backup program/script.
+DriveHQ's Command FTP client
+is a powerful command-line FTP tool designed to replace the default Windows FTP client. It supports FTP, FTPS and SFTP. With its powerful FTP scripting features,
+you can easily create a custom FTP backup solution.
+Download DriveHQ Online Backup
+DriveHQ Online Backup Manual
+Cloud-to-Local Backup
+For businesses who have completely migrated to the cloud, if you have any concern about losing
+cloud data access, you can back up cloud files to a local file server. DriveHQ FileManager software
+can be used for this purpose. You just need to create a one-way folder synchronization task,
+syncing a cloud folder with a folder on your local file server.
+Download DriveHQ FileManager
+Email / Outlook Backup
+Backing up Outlook emails can be very inefficient. Most Outlook backup software can only backup .PST files. Since a .PST file is so huge and is constantly modified, it is very hard to backup and restore just a few emails.
+DriveHQ EmailManager software is extremely efficient as it can parse the .PST file. It can incrementally back up and restore emails one-by-one.
+Your backed-up emails can be accessed via DriveHQ webmail.
+Download DriveHQ EmailManager
+More details about DriveHQ Online Backup software
+Better Protection:
+DriveHQ
+Online Backup software automatically backs up your data to DriveHQ's state-of-the-art data center.
+The data center has 24x7 onsite monitoring and surveillance, using multiple layers of redundancy and collocated
+with Hurrican Electrics powerfule server farms.
+Set and Forget:
+Once DriveHQ's Online Backup
+client software has been installed, it will run in the background automatically. Therefore, it can backup your data
+even if no one is logged onto the computer.
+Scheduled or real-time backup:
+Create scheduled
+backup tasks that run throughout the day or backup your files in real time as soon as a document is updated. There is
+no limit to the number of tasks you can setup
+No Limit on Machines:
+DriveHQ's Online Backup
+client software is free, so you may backup as many computers as you'd like without an additional charge. Create
+different tasks for different computers, restore files on a new PC, or migrate tasks to an old PC. There are no
+limitations with our service.
+Incremental Backup:
+With incremental backup,
+our Online Backup client software will only backup files that have been changed, saving both time and storage space.
+It will also compress data for better upload/download speeds and has magic upload technology so that existing tasks
+run even more quickly.
+File Versioning:
+In the event of accidental
+deletion or overwrite, you can "travel back in time" and restore the old version. By default, DriveHQ Online Backup
+keeps up to 10 versions, though you can customize this to save as many versions as you'd like.
+Ultimate Privacy:
+DriveHQ's service is designed
+with enterprise-level security in order to meet business and government agency requirements. Our client software
+supports HTTPS/SSL, protecting your data during transmission and client side encryption, therefore no one
+(not even DriveHQ employees) can access your files without this secure, encryption key.
+Back Up SQL Database, Quickbooks, MS Exchange, Outlook PST Files,
+Virtual Machine/VHD Backup:
+DriveHQ Online Backup supports Volume Shadow Copy and can back up locked files. Moreover, it is extremely efficient with incremental
+data backup and data compression. It can back up large files such as database files, MS Exchange files, Outlook PST files, VHD files and Quickbooks files.
+IP Camera or DVR Backup / Cloud Surveillance
+If you need more than just data protection, DriveHQ has a subsidiary (CameraFTP) that offers
+Cloud Surveillance and Recording service.
+CameraFTP Cloud surveillance
+is more secure than regular surveillance services.
+Regular IP cameras / DVRs are not secure as intruders can easily steal the devices. You need to back up the recorded footage to the Cloud.

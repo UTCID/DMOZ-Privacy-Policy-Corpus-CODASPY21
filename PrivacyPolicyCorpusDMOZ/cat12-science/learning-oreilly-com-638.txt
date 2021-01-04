@@ -1,0 +1,34 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch25s02.html#websec2-CHP-25-SECT-2.2.3
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Internet-Based Payment Systems
+Although most purchases made on the Internet today are
+made with credit cards, increasingly merchants and consumers are
+turning their attention to other kinds of Internet-based payment
+systems. In contrast to credit cards, these new systems seem to
+promise a number of possible advantages:Reduced transaction costCredit card charges cost between 25 cents and 75 cents per
+transaction, with a hefty 2 to 3 percent service fee on top of
+that. New payment systems might have transaction costs in the
+pennies, making them useful for purchasing things that cost only
+a quarter.AnonymityWith today’s credit card systems, the merchant needs to
+know the consumer’s name, account number, and frequently the
+address as well. Some consumers are hesitant to give out this
+information. Some merchants believe that their sales might
+increase if consumers were not required to give out this
+information.Broader marketCurrently, there are many individuals in the world who use
+cash because they are not eligible for credit cards. Payment
+systems that are not based on credit might be usable by more
+people.From the consumer’s point of view, all electronic payment
+systems consist of two phases. The first phase is
+enrollment
+: the consumer needs to establish some sort of account
+with the payment system and possibly download necessary software. The
+second phase is the actual purchase operation.
+Some payment systems have a third phase,
+settlement , in which accounts are settled among ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

@@ -1,0 +1,180 @@
+http://www.plasticscm.com/cookie-policy
+Features
+Cloud
+Games
+DevOps
+Gallery
+Download
+Pricing
+Doc
+Support
+Company
+Sign in
+Try Now
+Search in Plastic SCM
+Search
+×
+HOME
+Cookies policy
+Codice Software Web sites use "cookies". This Cookies Policy describes the purposes of the cookies
+used in this Web site and how can you manage your preferences relating to its use.
+1. What are Cookies?
+Cookies are small text files placed on your hard disk by a Web server. Cookies contain information
+that can later be read by a Web server in the domain that issued the cookie to you. Cookie can be
+use for different purposes, such as to recognize a user, collect information your browsing habits
+or to display your personalized content on your later visits to these sites.
+According to when they expire, Cookies may be either "persistent" cookies or "session" cookies.
+Cookies may also be
+"first party Cookies" or "third Party cookies":
+a first party cookie is issued
+by a domain managed by the website's own editor;
+a third party cookie is issued by a domain
+managed managed by our service providers.
+2. Cookies used in this Web site
+We use cookies for the following purposes:
+Strictly necessary cookies: cookies strictly necessary for the provision of our
+Web site and services requested by the users.
+Name
+Origin
+Description
+Duration
+cookiePanelValue
+First Party
+Save user dismissal of cookie warning panel
+1 year
+.AspNetCore.Antiforgery.{id}
+First Party
+Antiforgery token (XSRF protection)
+Session
+.AspNetCore.Cookies
+First Party
+Authentication information
+Session
+.AspNetCore.Session
+First Party
+Session data (ongoing purchases, etc.)
+Session
+Analytics cookies: cookies which allow us to analyse the use and performance of
+our website and services.
+Name
+Origin
+Description
+Duration
+More information
+amplitude_id_{id}plasticscm.com
+Amplitude
+Uniquely identify the user's machine
+10 years
+amplitude.com/privacy
+amplitude_id_idundefinedplasticscm.com
+Amplitude
+Anonymous identifier
+Session
+amplitude.com/privacy
+arrafinity
+First Party
+Session affinity cookie
+Session
+visitor_id{id}
+Pardot/Salesforce
+Uniquely identify the user's machine
+10 years
+www.pardot.com/company/legal/privacy-policy.html
+visitor_id{id}-hash
+Pardot/Salesforce
+Security measure to avoid malicious access
+10 years
+www.pardot.com/company/legal/privacy-policy.html
+ajs_anonymous_id
+Segment
+Used to distinguish anonymous (i.e. not logged in) users
+1 year
+segment.com/legal/privacy/
+ajs_user_id
+Segment
+Used to distinguish logged-in users
+1 year
+segment.com/legal/privacy/
+ai_user
+Microsoft
+Used to distinguish users
+1 year
+privacy.microsoft.com/en-us/privacystatement
+ai_session
+Microsoft
+Used to distinguish users
+30 minutes
+privacy.microsoft.com/en-us/privacystatement
+_gali
+Google
+Register the navigation source to reach the current page
+Immediate
+support.google.com/analytics/answer/6004245
+_gat_{id}
+Google
+Throttle request rate for property ID
+1 minute
+support.google.com/analytics/answer/6004245
+_ga
+Google
+Used to distinguish users
+2 years
+support.google.com/analytics/answer/6004245
+_gid
+Google
+Used to distinguish users
+24 hours
+support.google.com/analytics/answer/6004245
+__stripe_mid
+Stripe
+Fraud prevention and detection (machine ID)
+1 year
+stripe.com/cookies-policy/legal
+__stripe_sid
+Stripe
+Fraud prevention and detection (session ID)
+30 minutes
+stripe.com/cookies-policy/legal
+stripe.csrf
+Stripe
+Cross-site request forgery protection
+1 year
+stripe.com/cookies-policy/legal
+intercom-id-{id}
+Intercom
+uniquely identify the user's machine
+9 months
+www.intercom.com/es/legal/cookie-policy
+intercom-session-{id}
+Intercom
+uniquely identify a browser session
+1 week
+www.intercom.com/es/legal/cookie-policy
+plasticscm_download_data
+First Party
+Save user anonymous ID and campaign info for instrumentation
+Session
+3. Managing cookies
+Insofar as those cookies are not strictly necessary for the provision of our website and services,
+we will ask you to consent to our use of cookies when you first visit our website.
+Alternatively, most Web browsers allow to accept or decline cookies through the browser setting.
+If you choose to decline cookies, you may not be able to sign in or use other interactive features
+of Codice Software site and services that depend on cookies. 	If you choose to accept cookies, you
+also have the ability to delete later cookies that you have accepted following your web browser of
+choice instructions. If you choose to delete cookies, any settings and preferences controlled by
+those cookies will be deleted and may need to be recreated.
+You can learn how to manage cookies on most popular browsers, on the following links:
+If you use Chrome:
+support.google.com/chrome/answer/95647?hl=en-GB
+If you use Explorer:
+support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies
+If you use Firefox:
+support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectlocale=en-US&redirectslug=enable-and-disable-cookies-website-preferences
+If you use Safari:
+https://support.apple.com/en-gb/safari
+Similarly, Google offers a "Google Analytics Opt-out Browser Add-on" which can be downloaded in
+the following link:
+tools.google.com/dlpage/gaoptout?hl=en
+4. Contact information
+For further information about this Cookies Policy, please contact us at
+privacy@codicesoftware.com

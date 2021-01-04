@@ -1,0 +1,75 @@
+http://cdli.ucla.edu/?q=news/cdli-website-encrypted-ensure-user-privacy
+Jump to navigation
+Main menu
+Home
+Associates/Staff
+CDLI Wiki
+PublicationsCuneiform Digital Library Journal
+Cuneiform Digital Library Bulletin
+Cuneiform Digital Library Notes
+Cuneiform Digital Library Preprints
+CollectionsBritish Museum
+Musée du Louvre, Paris
+National Museum of Iran
+Penn Museum
+Ashmolean Museum, Oxford
+Harvard Museum of the Ancient Near East
+Oriental Institute, Chicago
+Princeton Theological Seminary
+Free Library of Philadelphia
+Iraq Museum, Baghdad
+Royal Ontario Museum, Toronto
+Syracuse University Libraries
+Hermitage Museum, St Petersburg
+Israel Museum, Jeruslaem
+Montserrat
+Musées d’art et d’histoire, Geneva
+Syrian Museums
+Hearst Museum of Anthropology
+Spurlock Museum, University of Illinois
+Kelsey Museum of Archaeology
+National Museums Scotland
+Charles University, Prague
+New York Public Library
+Horn Museum, Berrien Springs
+JRL Manchester
+Bibliothèque Nationale et Universitaire de Strasbourg
+CUNES
+Columbia University Libraries
+Museo di Antichità, Turin
+Musées royaux d'Art et d'Histoire
+Walters Art Museum, Baltimore
+Institut Catholique, Paris
+World Museum, Liverpool
+Emory
+Rosicrucian Egyptian Museum, San Jose
+Support CDLI
+Quick Search
+Publication
+Collection no.
+Provenience
+Period
+Transliteration
+CDLI no.
+Full search >>
+CDLI website encrypted to ensure user privacy
+Following suggestions from the Center for Digital Humanities at UCLA (and generally Google Inc.), CDLI has migrated from the common HTTP protocol to an encrypted HTTPS connection. This means that any information exchanged between a visitor's web browser and CDLI servers through our website is virtually impossible to track from outside this connection. For instance, an internet service provider or a hacker cannot know what information you entered in any of the CDLI forms. Note that because the CDLI search exposes your search parameters in the URL (web address) so you can share the results with colleagues, the information you enter in the search fields is thus exposed by CDLI as a feature of our search policy. URLs of pages visited are not, and cannot be hidden. Forms concerning more sensitive information than the search form, such as editors accounts login forms on the CDLI front page and on the search/transliteration module, are thus safer. The same applies in the case of an editor using forms in the administrative sections of CDLI, for instance when they change their profile information.
+As best practice, it is now recommended to encrypt all websites, especially those that have input forms in which users actively interact in some way with the served content. In an age of ever more intrusive surveillance, every bit of information a user exposes in the web can be captured and exploited to create a profile, that can then be used with intentions that may be benevolent (to sell you more of the same kind of soap), or malicious (to track your passwords and enter your bank account). Although the use of CDLI with its open access policies is not likely to attract the interest of particularly offensive actors, we feel it is important for us to establish good web security practice now to protect the privacy of our users going forward. We are committed to sharing information about cuneiform artifacts freely and in the safest way possible for all users, and encrypting the CDLI website fosters unencumbered access while ensuring a good level of user privacy.
+The implementation of HTTPS encryption in CDLI pages is now underway. The Center for Digital Humanities at UCLA provided us with a signed encryption certificate for the cdli.ucla.edu subdomain that we installed on our web server. Employing this certificate, we enable secure connections on the server, and redirect incoming traffic from HTTP links to HTTPS. In the next few weeks, we will work on making all of our website fully secure. At the moment, some pages have hybrid content, that is, encrypted data mixed with external information from third parties. These third party data are generally style sheets or java scripts that aid in displaying the CDLI data requested by users. In addition to browsers' behavior with mixed contents, we have had problems with certain versions of the FireFox browser on Apple OS and Windows. In those instances, the website was completely innaccessible and the browser would display a warning indicating the website was not secure. Adding an intermediary certificate resolved the problem, as described in this FireFox help page. Should you receive security warnings from your browser while requesting or viewing CDLI content, please assist us by posting the details of your ‘encounters’ to cdli@ucla.edu. At the end of this transition process, and in all future iterations of the website, CDLI pages will be fully secured.
+EPP
+Date: 2017/10/07
+Main menu
+Home
+Associates/Staff
+CDLI Wiki
+Publications
+Collections
+Support CDLI
+Catalog Search
+Terms of Use
+Traffic
+Twitter
+Support for the project has been generously provided by the Mellon Foundation, the NSF, the NEH, the IMLS, and by the MPS, Oxford and UCLA; network services are from UCLA’s Center for Digital Humanities.
+© 2020 Cuneiform Digital Library Initiative. All rights reserved.
+site by Pendari
+admin login

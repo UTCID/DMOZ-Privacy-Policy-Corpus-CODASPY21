@@ -1,0 +1,27 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch15s06.html#websec2-CHP-15-SECT-6.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Firewalls and the WebIn the world of fire prevention and control, a
+firewall
+is a barrier that is designed to prevent the spread of
+fire from one area to another. Firewalls in buildings are typically
+thick brick affairs, with only a few openings for doors that
+automatically close when the fire alarm gets set off. In a car,
+firewalls are designed to protect the occupants from engine fires.
+Overall, the fundamental guiding principle is that a firewall does not
+prevent fires, but instead merely contains the fire and gives people
+time to escape.In the world of the Internet, the term
+firewall is taken to mean some kind of filter
+or barrier that affects the Internet traffic passed between two
+networks. Firewalls are often used as a perimeter defense, making it
+possible for an organization to decide which protocols it will
+exchange with the outside world. Firewalls can also be used to block
+access to particular sites on the Internet—for example, to prevent
+employees from downloading information from servers that are on a
+blacklist of pornographic sites.One problem with firewalls is that organizations tend to adopt laxer internal security controls once a firewall is deployed. After all, the thinking goes, if a firewall is deployed and is keeping out the bad guys, why bother with internal controls such as encryption and passwords? The problem with this thinking is that it overlooks the fact that many attacks come from trusted insiders—according to the FBI, organizations should assume that ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

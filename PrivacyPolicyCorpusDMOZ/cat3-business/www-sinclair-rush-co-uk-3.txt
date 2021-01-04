@@ -1,0 +1,373 @@
+http://www.sinclair-rush.co.uk/cookies-policy/
+Cookie Policy
+Home
+Cookies Policy
+This Cookies Policy sets out the basis on which we, Sinclair & Rush Limited, use cookies and similar technologies on or in relation to our website, https://www.sinclair-rush.co.uk (our website). This Cookies Policy is effective from 25/05/2018.
+‘Essential’ cookies are automatically placed on your computer or device when you access our website or take certain actions on our website. ‘Non-essential’ cookies and other technologies are only placed on your computer or device if you have consented to us doing so. For information on the difference between essential and non-essential cookies, see the section below entitled About cookies.
+For information on how you consent and how you can withdraw your consent to us placing non-essential cookies and other technologies on your computer or device, see the section below entitled How to accept or reject cookies.
+Contents
+About cookies
+List of cookies used
+Essential cookies
+Non-essential cookies
+How to accept or reject cookies
+Copyright
+About cookies
+What are cookies?
+Cookies are small data files sent by a website’s server to a web browser, processor memory or hard drive and stored there. They can be used for a range of different purposes, such as customising a website for a particular user, helping a user navigate a website, improving that user’s website experience, and storing that user’s preferences and login information.
+Essential and non-essential cookies
+Cookies can be classified as either ‘essential’ or ‘non-essential’.
+Essential cookies: these are cookies that are either:
+used solely to carry out or facilitate the transmission of communications over a network; or
+strictly necessary to provide an online service (e.g. our website or a service on our website) which you have requested.
+Non-essential cookies: these are any cookies that do not fall within the definition of essential cookies, such as cookies used to analyse your behaviour on a website (‘analytical’ cookies) or cookies used to display advertisements to you (‘advertising’ cookies).
+Session and persistent cookies
+Cookies can be classified as either ‘session’ or ‘persistent’, depending on how long they last after they are placed on your browser.
+Session cookies: session cookies last for as long as you keep your browser open. They expire when you close your browser.
+Persistent cookies: persistent cookies expire at a fixed point in time or if you manually delete them from your browser, whichever occurs first.
+First and third-party cookies
+Cookies can be classified as ‘first party’ or ‘third party’.
+First party cookies: these are cookies placed on your device by our website domain.
+Third party cookies: these are cookies placed on your device by third party website domains.
+If you require further information about cookies in general, please visit www.allaboutcookies.org
+List of cookies used
+We use the following cookies on or in relation to our website:
+Name of Cookie
+Essential or Non-essential?
+Type of cookie
+First or Third party?
+Session or Persistent?
+Expiry Time
+Purpose
+PHPSESSID
+Essential
+User state preservation related
+First and third party
+Session
+End of browser session
+Preserves user session state across page requests. Essential for site operation, including basket and checkout functionality.
+SIDCC
+Non-essential
+Functional
+Third party
+Session
+End of browser session
+Security cookie to protect user’s data from unauthorised access.
+__livechat
+Non-essential
+Functional
+Third party
+Persistent
+3 years
+Used to hide the user's personal customisation of LiveChat.
+__livechat_lastvisit
+Non-essential
+Functional
+Third party
+Persistent
+3 years
+Stores when the user last used LiveChat.
+3rdparty
+Non-essential
+Functional
+Third party
+Session
+End of browser session
+Used to hide the user's personal customisation of LiveChat.
+main_window_timestamp#
+Non-essential
+Functional
+Third party
+Session
+End of browser session
+Used to hide the user's personal customisation of LiveChat.
+recent_window
+Non-essential
+Functional
+Third party
+Session
+End of browser session
+Used to hide the user's personal customisation of LiveChat.
+__lc_mcid
+Non-essential
+Functional
+Third party
+Persistent
+3 years
+The live chat service on our website relies on this cookie, which allows us to talk to visitors through live messaging on our website.
+__lc_mcst
+Non-essential
+Functional
+Third party
+Persistent
+3 years
+The live chat service on our website relies on this cookie, which allows us to talk to visitors through live messaging on our website.
+__lc_vv
+Non-essential
+Functional
+Third party
+Session
+End of browser session
+This cookie is set by LiveChat to provide online chat software to our website.
+lastvisit
+Non-essential
+Functional
+First party
+Persistent
+20 years
+This cookie is set by LiveChat to provide online chat software to our website.
+lc_window_state
+Non-essential
+Functional
+First party
+Session
+End of browser session
+This cookie is set by LiveChat to provide online chat software to our website.
+message_text
+Non-essential
+Functional
+Third party
+Session
+End of browser session
+This cookie is set by LiveChat to provide online chat software to our website.
+notification[status_ping]
+Non-essential
+Functional
+Third party
+Session
+End of browser session
+This cookie is set by LiveChat to provide online chat software to our website.
+__utmt
+Non-essential
+Functional
+Third party
+Session
+End of browser session
+Used to throttle the speed of requests to the server.
+_gat
+Non-essential
+Functional
+First party
+Session
+End of browser session
+Used by Google to throttle the request rate.
+_ga
+Non-essential
+Analytical
+First party
+Persistent
+2 years
+To distinguish website visitors.
+_gid
+Non-Essential
+Analytical
+First party
+Session
+End of browser session
+Generates statistical data on how a visitor uses the website.
+__utma
+Non-essential
+Analytical
+Third party
+Persistent
+2 years
+Collects data on the number of times a user has visited the web site as w ell as dates for the first and most recent visit. Used by Google Analytics.
+__utmb
+Non-essential
+Analytical
+Third party
+Session
+End of browser session
+Registers a timestamp with the exact time of when the user leaves the web site. Used by Google Analytics to calculate the duration of a web site visit.
+__utmc
+Non-essential
+Analytical
+Third party
+Session
+End of browser session
+Registers a timestamp with the exact time of when the user leaves the web site. Used by Google Analytics to calculate the duration of a web site visit.
+__utmz
+Non-essential
+Analytical
+Third party
+Persistent
+6 months
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+HSID
+Non-essential
+Analytical
+Third party
+Persistent
+2 years
+Used by Google to store user preferences and information of Google maps.
+SSID
+Non-essential
+Analytical
+Third party
+Persistent
+2 years
+Used by Google to store user preferences and information of Google maps.
+SAPISID
+Non-essential
+Analytical
+Third party
+Persistent
+2 years
+Used by Google to store user preferences and information of Google maps.
+SID
+Non-essential
+Analytical
+Third party
+Persistent
+2 years
+Used by Google to store user preferences and information of Google maps.
+APISID
+Non-essential
+Analytical
+Third party
+Persistent
+2 years
+Used by Google to store user preferences and information of Google maps.
+OGPC
+Non-essential
+Analytical
+Third party
+Persistent
+2 years
+These cookies are used by Google to store user preferences and information when viewing pages with Google maps on them.
+NID
+Non-essential
+Advertising
+Third party
+Persistent
+6 months
+Registers a unique ID that identifies a returning user’s device. The ID is used for targeted ads.
+1P_JAR
+Non-essential
+Advertising
+Third party
+Session
+End of browser session
+These cookies are used to gather website statistics, and track conversion rates.
+personalization_id
+Non-essential
+Advertising
+Third party
+Persistent
+2 years
+Twitter cookie used for ad personalisation purposes.
+guest_id
+Non-essential
+Advertising
+Third party
+Persistent
+2 years
+Collects anonymous data related to the user’s visit to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service.
+Essential cookies
+These are cookies which are strictly necessary for our website to be able to operate or to provide you with a service on our website which you have requested. We use the following essential cookies on our website:
+first and third-party session cookie which preserve a user’s state across pages on the website. This cookie is essential for the website to operate, including its basket functionality. This cookie is PHPSESSID.
+Legal basis for processing: we process information about you contained in or obtained from essential cookies in our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). Legitimate interests: ensuring our site functions properly and providing you with online services you have requested.
+How to opt out of essential cookies
+Most browsers allow you to block all cookies, including essential cookies. Please note, however, that if you block all cookies, parts of our website and its functionality may not work or display properly.
+You can delete existing cookies from your browser by clearing your browsing data and ensuring that the option to delete cookies is selected.
+For more detailed information on how to accept and reject cookies, including guidance for specific browsers, please see the section below entitled How to accept or reject cookies
+Non-essential cookies
+We use the following types of non-essential cookies on our website:
+Functional cookies
+Analytical (or performance) cookies
+Targeting (or advertising) cookies
+Functional cookies
+These are cookies that are designed for purposes such as enhancing a website’s functionality. These are either not strictly essential for the website or functionality which you have requested to work, or are cookies which serve non-essential purposes in addition to their essential purpose. We use the following functional cookies on our website:
+a first party session cookie used to help Google Analytics manage the number of users on our website. This Cookie is called _gat
+a first party session cookie used to throttle the speed of requests to the server. This Cookie is called __utmt
+a third-party session cookie used as a security cookie to protect user’s data from unauthorised access. This cookie is called SIDCC
+we use an instant customer messenger function called “LiveChat”. It allows you to get in touch with our experts to help solve any queries our website users may have. We use a mixture of temporary and persistent cookies to make sure live chat will work on your computer and to recognise any returning visitors so we can have a clear understanding of previous conversations and help with enquiries that much quicker. These cookies include the following: third party persistent cookies, __livechat, __livechat_lastvisit, __lc_mcid and __lc_mcst which expire after 3 years. LiveChat also uses third and first party session cookies which include the following; 3rdparty, main_window_timestamp#, recent_window, notification[status_ping], message_text, lc_window_state, lastvisit and __lc_vv.
+More information
+LiveChat cookies are classified as both first party and third-party cookies, although LiveChat processes information from our use of their cookies. To find out more about how LiveChat handles information collected from its cookies, see LifeChat’s’ privacy policy, which is available here: https://www.livechatinc.com/privacy-policy/
+How to opt in or out from functional cookies
+See the section below entitled How to accept or reject cookies
+Processing information about you contained in or obtained from functional cookies
+Legal basis for processing: we process information about you contained in or obtained from functional cookies in our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). We will only process such personal information if you have consented to us placing cookies on your computer or device. Legitimate interests: improving your website experience and providing and enhancing the website’s functionality.
+Analytical (or performance) cookies
+Analytical (or performance) cookies track and gather data about what a user does on a website. These cookies are not essential for our website or its functionality to work. We use the following analytical cookies on our website:
+Google Analytics cookies to help us understand how you engage and interact with our website, including how you came to our website, which pages you visited, for how long and what you clicked on and your location (based on your IP address). The Google Analytics cookies used on our website are: _ga and __utma which are persistent cookies and expire after 2 years, __utmz which is a persistent cookie and expires after 6 months and _gid, __utmb and __utmc which are session cookies. We also use the Google Analytics cookie _gat and __utmt, which are explained in more detail in the ‘functional cookies’ section above.
+Google also sets several cookies on any page that includes a Google Map or CAPTCHA image. These cookies are used by Google to generate images for maps or to generate CAPTCHA images to help protect our site from spambots. These cookies are: SID, APISID, HSID, SSID and SAPISID, which are all third-party persistent cookies that expire after 2 years.
+More information
+Google Analytics cookies are classified as first party cookies as they are set by our website domain, although Google collects and processes information from our use of Google Analytics. To find out more about how Google handles information collected from Google Analytics, see Google Analytics’ privacy policy, which is available here: https://support.google.com/analytics/answer/6004245
+For information on how Google uses data from cookies it uses, please visit www.google.com/policies/privacy/partners/
+For YouTube’s (Google’s) privacy policy, please visit https://policies.google.com/privacy?hl=en
+How to opt in or out from analytical cookies
+See the section below entitled How to accept or reject cookies
+To opt out of Google Analytics tracking across all websites in general, you can do so here: http://tools.google.com/dlpage/gaoptout
+Processing information about you contained in or obtained from analytical cookies
+Legal basis for processing: we process information about you contained in or obtained from analytical cookies in our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). Legitimate interests: analysing how individuals use our website to help us improve our website and business. For further information on how we use the information gathered from our use of analytical cookies, including profiling, please see the section entitled Our use of automated decision making and profiling in our privacy policy, which is available here: https://www.sinclair-rush.co.uk/privacy-policy
+Targeting (or advertising) cookies
+Targeting (or advertising) cookies record information about your visit to and use of our website, for advertising purposes. We use the targeting cookies for the following purposes on our website:
+a third party persistent cookie used by Google’s AdSense network which registers a unique ID that identifies a returning user’s device which is used to target advertisements to the user. This cookie is called NID and expires after 6 months.
+a third party session cookie used by Google’s AdSense network is used to gather website statistics, and track conversion rates. This cookie is called 1P_JAR.
+a third party Twitter persistent cookie used for ad personalisation purposes. This cookie is personalization_id and expires after 2 years.
+a third party persistent cookie which collects anonymous data related to the user’s visit to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service. This cookie is guest_id and expires after 2 years.
+For further information on Google’s advertising cookies, please see their cookies policy here: https://policies.google.com/technologies/types
+How to opt in or out from advertising cookies
+See the section below entitled How to accept or reject cookies
+Processing information about you contained in or obtained from analytical cookies
+Legal basis for processing: consent (Article 6(1)(a) of the General Data Protection Regulation). Consent: you give your consent to the purposes for which we process your information using advertising cookies by accepting the use of such cookies via our cookie control tool. For further information on how we use the information gathered from our use of advertising cookies, including profiling and automated decision-making please see the section entitled Our use of automated decision making and profiling in our privacy policy, which is available here: https://www.sinclair-rush.co.uk/privacy-policy
+How to accept or reject cookies
+There are a number of different ways in which you can accept or reject some or all cookies and similar technologies. Some of the main methods of doing so are described below.
+You are welcome to block the use of some or all of the cookies we use on our website. However, please be aware that doing so may impair our website and its functionality or may even render some or all of it unusable.
+You should also be aware that clearing all cookies from your browser will also delete any cookies that are storing your preferences, for example, whether you have accepted cookies on a website or any cookies that are blocking other cookies.
+You can find more detailed information about cookies and adjusting your browser settings by visiting www.allaboutcookies.org
+Accepting or rejecting cookies
+Cookie control tool
+You can accept or reject non-essential cookies by using our cookie management tool.
+Browser settings
+You can accept or reject some or all cookies (for example, blocking all third party cookies) by adjusting your browser settings. If you do not know how to do this, the links below set out information about how to change your browser settings for some of the most commonly used web browsers:
+Google Chrome: https://support.google.com/chrome/answer/95647?hl=en-GB
+Mozilla Firefox: https://support.mozilla.org/en-US/kb/delete-browsing-search-download-history-firefox?redirectlocale=en-US&redirectslug=Clear+Recent+History
+Microsoft Internet Explorer: https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer
+Apple Safari: https://support.apple.com/kb/PH5042?locale=en_US
+Some browsers, such as Chrome and Firefox, allow you to change your settings to browse in ‘incognito’ mode, limiting the amount of data placed on your machine and automatically deleting any persistent cookies placed on your device when you finish your browsing session. There are also many third-party applications which you can add to your browser to block or manage cookies.
+Existing cookies
+To clear cookies that have previously been placed on your browser, you should select the option to clear your browsing history and ensure that the option to delete or clear cookies is included when you do so.
+Google Analytics Opt-out Browser Add-on
+You can opt out of Google Analytics tracking by installing the browser add-on which is available here: http://tools.google.com/dlpage/gaoptout
+Google Adsettings
+You can manage and opt out of personalisation of advertisements by Google by visiting Google’s ad settings page here https://adssettings.google.com/ and by:
+unticking the button entitled ‘Also use Google Account activity and information to personalize ads on these websites and apps and store that data in your Google Account’; and
+switching the ‘Ads Personalisation’ setting off (i.e. by ensuring the switch at the top of the page is set to the left/grey and not the right/blue).
+Alternatively, you can install a free browser plugin here: https://support.google.com/ads/answer/7395996
+Copyright
+The copyright in this Cookies Policy is either owned by, or licensed to, us and is protected by copyright laws around the world and copyright protection software. All intellectual property rights in this document are reserved.
+Customer Reviews
+"Jodie helped me find an invoice from last year and was quick bout it too! Even offered to send it to me via email. 5* to Jodie!"
+Natalie - Online Customer
+Quick, efficient service with a wide selection of products and samples!
+Josh Spruyt
+"I have recently requested a number of samples and received all the next day, I subsequently placed an order which I also received the next day. The service provided by Sinclair & Rush has been absolutely first class, helpful salesperson (Ryan) clear and concise website and easy online ordering, these points cannot be said of the majority of companies nowadays so many thanks for the excellent service."
+Peter - Procurement
+Fantastic company with exceptional service. Pierre was incredibly helpful at every stage of the order process and made the procurement a pleasure.
+Josh Neusinger
+Ryan, many thanks for your quick turn around and great service, makes my life so much easier!
+Adam, Product Designer
+Sinclair_rush
+Our entire workforce appreciates it when a customer gets in touch to feed back on their experience with us.
+Take… https://t.co/ahivw7yTvI
+10 December 2020
+Our website hosts a large range of documents which are required by most businesses when they purchase from us.
+Wh… https://t.co/fEG9tLdqZl
+07 December 2020
+We pride ourselves in offering a personalised service to our customers.
+When you purchase from us, you'll get a p… https://t.co/jVN4DdAy2h
+03 December 2020
+Our Product Overview Brochure is a fantastic tool giving you a quick insight into just some of the products Sinclai… https://t.co/8GMsPkAZVv
+30 November 2020
+5pm marks the end of another busy week at Sinclair & Rush.
+Have no fear, we will be open at 8:30am on Monday morn… https://t.co/4AQTp0xcqp
+27 November 2020
+By continuing to use this site you consent to the use of cookies on your device as described in our cookie policy unless you have disabled them. You can change your cookie settings at any time but parts of our site may not function correctly without them. You can view our cookie policy here
+Agree
+Log into your account
+Username
+Password
+Forgotten password
+Submit

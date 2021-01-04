@@ -1,0 +1,128 @@
+https://www.claytex.com/privacy-statement/
+Toggle navigation
+Home
+Applications
+Academia
+ADAS Development and Testing
+Automotive
+Autonomous Vehicle Simulation
+Building Simulation
+Electrified Powertrains, HVAC and Thermal Management
+Flight Dynamics
+Industrial Equipment
+Motorsport
+Virtual Proving Ground
+Products
+Dymola
+Modelica Libraries
+Multirun Tool
+Reqtify
+rFpro
+Sensor Realistic Simulation
+VeSyMA
+Services
+rFpro services
+FMI Tool Development and Support
+Training – Now available online
+Publications
+News
+Tech Blog
+Technical Webinars
+About
+Claytex Story
+Contact Us
+Newsletters
+Home
+Privacy Statement
+Privacy Policy
+Claytex means Claytex Services Limited, which is a UK based company, and its subsidiaries which includes Claytex USA, Inc. This privacy policy explains how Claytex uses any personal information we collect about you when you use this website and interact with us in relation to the products and services we offer.
+Collection of your Personal Information
+When you submit forms on our website or contact us for information about our products and service we will collect personally identifiable information about you, such as your name, e-mail address, postal address and telephone number. We may also collect data when you voluntarily complete surveys, provide feedback and participate in competitions.
+When you access the website, there is also information about your computer hardware and software that is automatically collected using cookies. This information can include: your IP address, browser type, domain names, access times and referring website addresses.
+Use of your Personal Information
+We collect information about you to process your order, manage your account and, if you agree, to email you about other products and services we think may be of interest to you. To do this we may need to share your information with our software suppliers and service providers for the purpose of processing your request.
+We use your information collected from the website to personalise your repeat visits to our website and share your information with third party service providers for statistical analysis of our website traffic.
+Claytex will not share your information for marketing purposes with third parties.
+Marketing
+We would like to send you information about products and services of ours which may be of interest to you. If you are currently receiving marketing information from Claytex, you may opt out at any time and unsubscribe links will be included in all the marketing material you receive. You have the right at any time to stop us from contacting you for marketing purposes.  When you register to download information from this website you will be asked if you want to opt-in to receive this marketing material.
+Access to your information and correction
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email or write to us at the address below. We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.
+Cookies
+Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to compile statistical reports on website activity.
+When you first arrive at our website you will see a message asking whether you want to accept the use of all cookies. If you don’t accept this then the website will still use some cookies so that it can function properly but we will not activate the cookies that are used to track your visit and update our usage statistics.
+You can set your browser not to accept cookies and the websites below tell you how to remove cookies from your browser. However in a few cases some of our website features may not function as a result.
+For further information visit www.aboutcookies.org or www.allaboutcookies.org.
+Other websites
+Our website contains links to other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies.
+Changes to our privacy policy
+We keep our privacy policy under regular review and we will place any updates on this web page.
+How to contact us
+Our contact details are shown below and in the footer of every page on this website.
+Products
+AUTOSAR Builder
+ControlBuild
+Dymola
+FMI Tool Development and Support
+Modelica Libraries
+RegressionTest Tool
+Reqtify
+rFpro
+VeSyMA
+Customer Stories
+RATP – ControlBuild dedicated to system qualification and integration
+22nd May 20132nd August 2017
+RATP – ControlBuild Success Story RATP is the major operator of Parisian public transports and chose ControlBuild to develop a simulation environment dedicated to system qualification and integration. With 10 million passengers transported every day, 44,800 employees, and a turnover of four billion Euro, RATP is the world’s... Continue reading
+Lyonnaise des Eaux – Suez – ControlBuild Validation for dynamic testing
+22nd May 20132nd August 2017
+Lyonnaise des Eaux – Suez, ControlBuild Success Story Lyonnaise des Eaux – Suez, a wastewater treatment and drinking water distribution company chose ControlBuild Validation to perform dynamic tests, without waiting for facilities to be built, in order to anticipate issues and correct the system right from the design phase.... Continue reading
+Lilly – ControlBuild for the simulation and validation of conveyor systems
+22nd May 20132nd August 2017
+Lilly – ControlBuild success story Lilly opted for ControlBuild Validation and the handling library delivered with the product, for the simulation and validation of a conveyor system for pharmaceutical products before it was commissioned. The project team had to produce a complex system made up of a series... Continue reading
+PSA Peugeot Citroen – Reqtify in support of Embedded Systems development
+17th May 20132nd August 2017
+PSA Peugeot Citroen Reqtify in support of Embedded Systems development at PSA. PSA uses Reqtify in embedded electronics (EE) systems design for requirement traceability and coverage analysis, as well as requirement change measurement and inconsistency check. Find out more here: PSA Reqtify Success Story Continue reading
+Alstom – Reqtify used to deliver a model driven engineering process
+17th May 20132nd August 2017
+Alstom Alstom have used Reqtify to enable them to deploy a requirements engineering approach across all their projects. As part of their transformation from a document driven engineering process to a model driven process, Reqtify has been introduced to provide the traceability graph on existing documents and highlight “holes”... Continue reading
+More Customer Stories
+Tech Blog
+Stability of explicit Euler solvers
+4th December 20204th December 2020
+This post looks at the stability of an explicit Euler solver and explicit Euler Runge Kutta solvers from the point of view of using this solver for Hardware in the Loop experiments. Why use an inline explicit Euler solver for Hardware in the Loop? Explicit Euler solvers have a... Continue reading
+A few more Dymola translation modifiers
+1st December 20201st December 2020
+Translation in Dymola is fundamental in the process of creating a simulation model. All components comprising of Modelica code are assembled and interpreted by Dymola, resulting in C code which is then compiled into some form of binary. It is this binary which is the end product of Dymola... Continue reading
+Dymola Python Training
+23rd November 202023rd November 2020
+A new training course has been developed to allow students to use the Python Interface with Dymola. The interface, shipped with Dymola, is freely available to use. The half day course focuses on the basics of how to use the interface effectively in any application. Setting up the interface,... Continue reading
+The cost of not using version control
+17th November 202017th November 2020
+Last week we published a blog post my colleague Hannah wrote on our library development process. The process included the use of version control to manage regular library revision backups and also merging of multiple user developments into one central repository. The purpose of this blog post though, is... Continue reading
+Effective Modelica Library Development
+12th November 202012th November 2020
+In this blog post I’m going to tell you about the approach we use here at Claytex for our Modelica library development, including some of the tools we use to make our lives easier and our libraries more robust. Some of the factors that influence our development approach are:... Continue reading
+More Tech Articles
+Useful InfoTrademarks
+Privacy Statement
+Terms of use
+Location
+Head office
+Claytex
+Edmund House
+Rugby Road,
+Leamington Spa
+CV32 6EL
+UK
+Contact Us To contact Claytex for more information or to discuss your requirements please choose the appropriate method:
++44 1926 885900
+sales [@] claytex.com
+support [@] claytex.com
+Follow Us TwitterFacebookLinkedinYoutube
+CONTACT USGot a question?
+Just fill in this form and send it to us and we'll get back to you shortly.
+© Copyright 2010-2020 Claytex Services Ltd All Rights Reserved
+Log in with your credentials
+Forgot your details?
+We use cookies to ensure that we give you the best experience on our website. Some of these cookies are necessary for the normal function of the website and others help us understand how you use the site.
+Clicking OK will mean you accept the use of all these cookies.
+Continued use of the site without clicking OK will limit the use of cookies to those essential for the basic functioning of the website.OkNoRead more

@@ -1,0 +1,189 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/pr01s02.html#websec2-PREF-SECT-2.1
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+About This BookThis is a book about how to enhance security, privacy, and
+commerce on the World Wide Web. Information in this book is aimed at
+three distinct but related audiences: the ordinary users of the Web, the
+individuals who operate the Web’s infrastructure (web servers, hosts,
+routers, and long-distance data communications links), and finally, the
+people who publish information on the Web.For users, this book explains:How the Web worksThe threats to your privacy and your computer that await you
+on the WebHow you can protect yourself against these threatsHow encryption works, and why a web server that you access
+might demand that you use this techniqueFor people who are operating the Web’s infrastructure, this book
+discusses:How to lessen the chances that your server will be
+compromisedHow you can use encryption to protect your data and your web
+site’s visitorsSelected legal issuesFor web content providers, this book discusses:The risks and threats facing your dataHow to control access to information on your web serverProcedures that you should institute so you can recover
+quickly if your server is compromisedSecurity issues arising from the use of Java, JavaScript,
+ActiveX, and Netscape plug-insThis book covers the fundamentals of web security, but it is not
+designed to be a primer on computer security, operating systems, or the
+World Wide Web. For that, we have many recommendations.Some especially good O’Reilly books on security- and
+web-related topics include the following: Æleen Frisch’s
+Essential System Administration, Chuck Musciano and
+Bill Kennedy’s HTML & XHTML: The Definitive
+Guide, Shishir Gundavaram’s CGI Programming on the World Wide Web, Elizabeth Zwicky, Simon Cooper, and Brent
+Chapman’s Building Internet Firewalls, and
+finally our own book, Practical Unix & Internet Security.We also have some recommendations for books from other publishers.
+For in-depth information on cryptography, we heartily recommend Bruce
+Schneier’s excellent book Applied Cryptography. For
+detailed information on configuring the Apache web server, we recommend
+Lincoln Stein’s Web Security. And for a general
+overview of security engineering and practices, we recommend Ross
+Anderson’s Security Engineering.These books and other helpful references are listed Appendix E.Organization of This BookThis book is divided into five parts; it includes 27 chapters
+and 5 appendixes:Part I, examines the
+underlying technology that makes up today’s World Wide Web and the
+Internet in general.Chapter 1 examines the
+basics of web security—the risks inherent in running a web server, in
+using the Web to distribute information or services, and finally, the
+risks of being a user on the Internet.Chapter 2 is a detailed
+exploration of computers, communications links, and protocols that
+make up the Web. It provides a technical introduction to the systems
+that will be discussed throughout the rest of the book and that
+underlie web security concepts.Chapter 3 introduces the
+science and mathematics of cryptography, with a particular emphasis on
+public key encryption.Chapter 4 specifically
+looks at the encryption algorithms that are used on the Web
+today.Chapter 5 looks more
+closely at the Secure Sockets Layer (SSL) and the Transport Layer
+Security (TLS) system that are used by “secure” web servers.Chapter 6 introduces the
+topic of authentication and gives an overview of several classes of
+authentication systems in use on the Internet.Chapter 7 focuses on the
+use of digital certificates for authentication and introduces
+certification authorities (CAs) and the public key infrastructure
+(PKI).Part II, looks at the
+concerns of people using the Web to access information—that is,
+anybody who runs a web browser.Chapter 8 discusses the
+technical means by which personal information can be compromised on
+the Web.Chapter 9 explores
+techniques that you can follow to increase your privacy while using
+the Web.Chapter 10 continues the
+discussion of privacy self-help, by exploring programs and services
+that can further enhance your privacy.Chapter 11 shows you how
+to protect against data loss and theft of both data and
+equipment.Chapter 12 explores how
+programs that travel over the Web can threaten your computer system
+and your personal information. This chapter focuses on the most
+dangerous programs that can be downloaded with email or through web
+pages.Chapter 13 continues the
+discussion of mobile programs that can threaten computer users. This
+chapter focuses on the “safer” technologies that, it turns out, still
+have some security implications.Part III is addressed to
+people and organizations that are operating servers attached to the
+Internet. The chapters in this part focus on the mechanics of web
+server operation. They are particularly relevant to corporations that
+operate their own web servers, administrators at Internet service
+providers (ISPs), and home users who run their own servers at the end
+of cable modems or DSL lines.Chapter 14 addresses one
+of the most important but frequently overlooked topics—how to protect
+your computer’s physical well-being.Chapter 15 explores
+security having to do with your computer’s operating system.Chapter 16 discusses the
+added security issues that arise when running web servers that can
+execute programs or scripts.Chapter 17 gives
+step-by-step instructions for enabling SSL on the Apache and Internet
+Information Services (IIS) web servers.Chapter 18 broadens the
+security discussion to show how to defend your service against
+problems resulting from your ISP or the Internet’s Domain Name Service
+(DNS).Chapter 19 explores the
+specific legal options available to you after your computer system has
+been broken into, as well as other legal issues of concern to
+administrators.Part IV focuses on issues
+surrounding the content of the web server, rather than the mechanics
+of the web server’s operation.Chapter 20 looks at
+techniques for controlling information to “private” areas of your web
+server.Chapter 21 expands on the
+access control techniques described in Chapter 20 by discussing how you can
+use digital certificates for access control and secure
+messaging.Chapter 22 shows how you
+can sign Windows binaries, including ActiveX controls and .EXE files, using Microsoft’s Authenticode
+technology.Chapter 23 discusses the
+politics and the technology of controlling pornography on the
+Internet.Chapter 24 explores the
+concept of data protection and discusses legislative and
+self-regulatory techniques for controlling the use of personal
+information.Chapter 25 is a how-to
+guide for sending and receiving money over the Internet. For those
+interested in e-commerce history, this chapter also discusses a number
+of failed digital payment systems.Chapter 26 discusses
+trademarks, copyright, and patents—all legal structures that can be
+used to protect information.Part V, is filled with
+lists and nitty-gritty technical information that is too detailed for
+the main body of this book.Appendix A is a
+first-person account of the first five years of operation of
+Vineyard.NET, the oldest, largest, and currently only ISP that offers
+service exclusively on Martha’s Vineyard.Appendix B contains more
+detailed information about the SSL and TLS protocols. This chapter
+won’t give you enough information to write your own SSL or TLS
+implementation, but it will give you an understanding of what is
+happening on the wire.Appendix C is a detailed
+introduction to the P3P specification. This chapter, written by Lorrie
+Faith Cranor and included with permission, includes information on how
+to write your own P3P policy.Appendix D provides
+detailed information on the PICS specification. Although PICS appears
+largely dead today, an implementation is included in Microsoft’s
+Internet Explorer, so PICS is still there for anybody who wants to use
+it.Appendix E lists books,
+articles, and web sites containing further helpful information about
+web security, privacy, and commerce.What You Should KnowWeb security is a complex topic that touches on many aspects of
+traditional computer security, computer architecture, system design,
+software engineering, Internet technology, mathematics, and the law.
+To keep the size of this book under control, we have focused on
+conveying information and techniques that are not readily found
+elsewhere.To get the most out of this book, you should already be familiar
+with the operation and management of a networked computer. You should
+know how to connect your computer to the Internet; how to obtain,
+install, and maintain computer software; and how to perform routine
+system management tasks, such as backups. You should have a working
+knowledge of the World Wide Web, and know how to install and maintain
+your organization’s web server.That is not to say that this is a book written solely for
+“propeller-heads” and security geeks. Great effort has been made to
+make this book useful for people who have a working familiarity with
+computers and the Web, but who are not familiar with the nitty-gritty
+details of computer security. That’s why we have included introductory
+chapters on such topics as cryptography and SSL.Web Software Covered by This BookA major difficulty in writing a book on web security is that the
+field moves incredibly quickly. Configuration information and screen
+shots that look up-to-date one month seem antiquated and obsolete a
+few months later. This is partially the result of the steady release
+of new software versions, and the integration of new features into
+commonly-used software. The difficulty in keeping current is
+complicated by the steady drumbeat of warnings from vendors and
+organizations such as SANS and CERT/CC, announcing a significant new
+security vulnerability every few days—often caused by the vendors’
+rush to deliver all those new features without carefully testing them
+for security flaws!But in fact, the field of web security is not moving as fast as
+it may seem. Although new vulnerabilities have been created and
+discovered, the underlying concepts of web security have changed
+little since the first edition of this book was published in the
+spring of 1997. We have therefore refrained from updating all of our
+screenshots and code examples simply to match the latest revisions of
+Microsoft and Netscape’s offerings. If a point is well made by a
+screenshot that featured an older version of a product, we have
+generally opted to leave the screenshot in place.To avoid the planned obsolescence that seems to beset many
+computer books, this book concentrates on teaching concepts and
+principles, rather than specific sequences of commands and
+keystrokes.In writing this book, we used a wide variety of software.
+Examples in this book are drawn primarily from two web servers:ApacheApache is one of the most popular web servers
+currently in use. Apache runs on a wide variety of computers,
+including most versions of Unix and Windows NT. When combined
+with the mod_ssl encryption module, Apache
+can be the basis for creating an extremely sophisticated web
+publishing system. Apache is freely available in both source
+code and precompiled form; it is even preinstalled on many
+computer systems.Microsoft Internet Information ServerIIS is Microsoft’s cryptographically enabled web
+server that is bundled with the Windows NT Server and Windows
+2000 operating systems.The following web browsers were used in the creation of this
+book:Netscape NavigatorNetscape Navigator is the web browser that ignited
+the commercialization of the Internet. Versions 1, 2, 3, 4, and
+6 were used in the preparation of this book. Navigator is
+available on a wide variety of computer platforms, including
+various versions of Windows, Unix, Linux, and the
+Macintosh.Microsoft Internet ExplorerThe Microsoft Internet Explorer is a cryptographically
+enabled web browser that is deeply interconnected with the
+Microsoft Windows operating system, and is also available for
+Macintosh computers. Versions 3, 4, 5, and 6 were used in the
+preparation of this book.OperaWe also used Opera Software’s browser, “the fastest browser on
+earth.” Opera is available for BeOS, EPOC, Linux, Mac, OS/2, and
+Windows.
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

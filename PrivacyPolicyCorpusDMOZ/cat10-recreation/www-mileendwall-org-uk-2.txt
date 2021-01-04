@@ -1,0 +1,64 @@
+https://www.mileendwall.org.uk/compliance/cookies-policy
+Toggle navigation
+menu
+Home
+About
+Plan a Visit
+Courses
+Juniors
+Learn
+News
+Corporate
+Contact
+Sign In
+0 items
+Compliance
+Compliance:
+Cookies Policy
+Privacy Notice
+Cookies Policy
+1.      Introduction
+1.1    Our website uses cookies.
+1.2    By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
+2.      Credit
+2.1    This document was created using a template from SEQ Legal (http://www.seqlegal.com).
+3.      About cookies
+3.1    A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+3.2    Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+3.3    Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+3.4    Cookies can be used by web servers to identify and track users as they navigate different pages on a website and identify users returning to a website.
+4.      Our cookies
+4.1    We use both session and persistent cookies on our website.
+4.2    The names of the cookies that we use on our website, and the purposes for which they are used, are set out below:
+(a)     we use exp_csrf_token to protect against Cross Site Request Forgery (CSRF). A CSRF attack forces a logged-on victim’s browser to send a forged HTTP request, including the victim’s session cookie and any other automatically included authentication information, to a vulnerable web application. This allows the attacker to force the victim’s browser to generate requests the vulnerable application thinks are legitimate requests from the victim.
+(b)      we use exp_tracker; which is a temporary cookie that remains in the internet browser’s folder of your computer until you close the browser. It contains the last 5 pages viewed and is typically used for form or error message returns.
+(c)      we use exp_last_visit. This cookie remains in your browser for one year and contains the date of the user’s last visit.
+(d)      we use exp_last_activity; which remains in your browser for one year and records the time of the last page load. It is used in conjunction with the exp_last_visit cookie.
+(e)      we use exp_sessionid. This is used when cookie and session are set as the session type. Used only for logged in members.
+5.      Analytics cookies
+5.1    We use Google Analytics to analyse the use of our website.
+5.2    Our analytics service provider generates statistical and other information about website use by means of cookies.
+5.3     The analytics cookies used by our website have the following names: analytics.js, _ga (used to distinguish users0 and _gat (used to throttle request rate).
+5.4    The information generated relating to our website is used to create reports about the use of our website.
+5.5    Our analytics service provider's privacy policy is available at: [http://www.google.com/policies/privacy/].
+6.      Blocking cookies
+6.1    Most browsers allow you to refuse to accept cookies; for example:
+(a)    in Internet Explorer (version 11) you can block cookies using the cookie handling override settings available by clicking "Tools", "Internet Options", "Privacy" and then "Advanced";
+(b)    in Firefox (version 47) you can block all cookies by clicking "Tools", "Options", "Privacy", selecting "Use custom settings for history" from the drop-down menu, and unticking "Accept cookies from sites"; and
+(c)     in Chrome (version 52), you can block all cookies by accessing the "Customise and control" menu, and clicking "Settings", "Show advanced settings" and "Content settings", and then selecting "Block sites from setting any data" under the "Cookies" heading.
+6.2    Blocking all cookies will have a negative impact upon the usability of many websites.
+6.3    If you block cookies, you will not be able to use all the features on our website.
+7.      Deleting cookies
+7.1    You can delete cookies already stored on your computer; for example:
+(a)    in Internet Explorer (version 11), you must manually delete cookie files (you can find instructions for doing so at http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie=ie-11);
+(b)    in Firefox (version 47), you can delete cookies by clicking "Tools", "Options" and "Privacy", then selecting "Use custom settings for history" from the drop-down menu, clicking "Show Cookies", and then clicking "Remove All Cookies"; and
+(c)     in Chrome (version 52), you can delete all cookies by accessing the "Customise and control" menu, and clicking "Settings", "Show advanced settings" and "Clear browsing data", and then selecting "Cookies and other site and plug-in data" before clicking "Clear browsing data".
+7.2    Deleting cookies will have a negative impact on the usability of many websites.
+8.    Our details
+8.1  This website is owned and operated by Mile End Climbing Wall .
+8.2  Our principal place of business is at Mile End Climbing Wall, Haverfield Road, Bow, London E3 5BE.
+8.3  You can contact us:
+(a)    by post, using the postal address given above;
+(b)     by telephone, on the contact number published on our website from time to time; or
+(c)    by email, using enquiries@mileendwall.org.uk.
+Development through Challenge. Registered Charity number 299332. Company limited by guarantee. Cookies Policy

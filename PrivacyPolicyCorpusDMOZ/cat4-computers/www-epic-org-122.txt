@@ -1,0 +1,462 @@
+http://www.epic.org/privacy/poverty/hmiscomments.html
+Before the Department of Housing
+and Urban Development
+Washington, DC 20410
+In The Matter of
+Homeless Management Information Systems (HMIS)
+Data and Technical Standards Notice
+HUD Docket No. FR-4848-N-01
+COMMENTS OF THE ELECTRONIC PRIVACY INFORMATION CENTER;
+PRIVACY RIGHTS CLEARINGHOUSE; PAM DIXON; CONSUMER ACTION; NATIONAL CONSUMERS
+LEAGUE; ROBERT ELLIS SMITH; CENTER FOR DEMOCRACY AND TECHNOLOGY; THE AMERICAN
+CIVIL LIBERTIES UNION; AND THE NATIONAL LEGAL AID AND DEFENDER ASSOCIATION
+September 22, 2003
+INTRODUCTION
+The commenters express strong reservations with the Department of Housing
+and Urban Development's (HUD) proposed guidelines for implementation of Homeless
+Management Information Systems (HMIS).[1] We set forth in detail below that
+while the goals of HMIS are laudable, the proposed guidelines are highly privacy-invasive,
+and create a system of tracking similar to those imposed on individuals convicted
+of crimes. HMIS will exacerbate risks to the homeless, including politically-motivated
+purges of homeless populations, and the risk that domestic violence victims
+will be located by abusive partners through the system. Furthermore, HUD does
+not have Congressional approval to track the homeless at the level of detail
+it proposes. It is clear that Congress advised HUD to enumerate the homeless,
+but it did not advocate a tracking system or new collections of personal information
+for the homeless. Additionally, we strongly object to law enforcement, Secret
+Service, and Homeland Security access to HMIS data. The final section of our
+comments argue that a census-style "point in time" snapshot of benefits
+recipients is less-invasive and can meet the otherwise well-intentioned goals
+of HMIS.
+PARTIES
+EPIC is a public interest research center in Washington, D.C. It was established
+in 1994 to focus public attention on emerging civil liberties issues and to
+protect privacy, the First Amendment, and constitutional values. EPIC maintains
+a web page on privacy and poverty issues at http://www.epic.org/privacy/poverty/.
+The Privacy Rights Clearinghouse is a nonprofit consumer information and
+advocacy program. It offers consumers a unique opportunity to learn how to
+protect their personal privacy.
+Pam Dixon is the author of eight books, and a privacy researcher.
+Consumer Action is a non-profit, membership-based organization that was founded
+in San Francisco in 1971. Since then, Consumer Action has continued to serve
+consumers nationwide by advancing consumer rights, referring consumers to
+complaint-handling agencies through our free hotline, publishing educational
+materials in Chinese, English, Korean, Tagalog, Russian, Vietnamese, and other
+languages, advocating for consumers in the media and before lawmakers, and
+comparing prices on credit cards, bank accounts, and long distance services.
+The National Consumers League is a private, nonprofit advocacy group representing
+consumers on marketplace and workplace issues. It is the nation's oldest consumer
+organization. Its mission is to identify, protect, represent, and advance
+the economic and social interests of consumers and workers.
+Robert Ellis Smith is an author, attorney, and publisher of Privacy Journal,
+the most authoritative publication in the world on the individual's right
+to privacy. Founded in 1974, it is the oldest publication on privacy in the
+world. Smith is the author of Ben Franklin's Web Site: Privacy and Curiosity
+From Plymouth Rock to the Internet.
+The Center for Democracy and Technology works to promote democratic values
+and constitutional liberties in the digital age. With expertise in law, technology,
+and policy, CDT seeks practical solutions to enhance free expression and privacy
+in global communications technologies. CDT is dedicated to building consensus
+among all parties interested in the future of the Internet and other new communications
+media.
+The American Civil Liberties Union ("ACLU"), The American Civil
+Liberties Union is the nation's largest civil liberties organization with
+approximately 400,000 members spread across the United States. In its 80 year
+history, the ACLU has defended the principles of liberty enshrined in the
+Bill of Rights , including the right of Privacy and has frequently represented
+homeless persons and organizations.
+The National Legal Aid and Defender Association ("NLADA") is the
+nation's leading advocate for front-line attorneys and other equal justice
+professionals--those who make a difference in the lives of low-income clients
+and their families and communities. Representing legal aid and defender programs,
+as well as individual advocates, NLADA is proud to be the oldest and largest
+national, nonprofit membership association devoting 100 percent of its resources
+to serving the broad equal justice community.
+HMIS OVERVIEW
+Homeless Management Information Systems (HMIS) are programs intended to track
+recipients of benefits in order to assess the number of persons receiving
+care, and to improve efficiency of services to the poor. While well intentioned,
+proposed mandatory guidelines for HMIS issued by the Department of Housing
+and Urban Development (HUD) are highly privacy-invasive. Under the proposed
+guidelines, federally-funded entities that provide support for the poor (Continuums
+of Care, or "CoCs") will have to:
+Collect extensive amounts of personally identifiable information from
+everyone who receives care. CoCs will have to collect: full legal names,
+dates of birth, Social Security Numbers, ethnicity and race, gender, veteran
+status, and the person's residence prior to program entry.[2]
+Collect other sensitive information from those who receive care: The HMIS
+questionnaire delves deeply into the personal lives of the homeless, tracking
+where they have been, what services they have used, their income, benefits,
+disabilities, health status, pregnancy status, HIV status, behavioral health
+status, education, employment, and whether they have experienced domestic
+violence.[3]
+Collect information on individuals who seek care during a brief episode
+of their lives.[4] For instance, individuals who sought shelter during the
+recent blackouts in the Northeast would be tracked by the system.
+Store this information for at least seven years.[5]
+Report it regularly (at least once a year) to central servers (in the
+state or region).[6]
+Store all of the information in an exportable format, such as CSV.[7]
+THE PROPOSED GUIDELINES ARE HIGHLY PRIVACY INVASIVE
+The proposed guidelines for HMIS are highly privacy invasive. They will expose
+the homeless to a degree of tracking normally employed against criminals.
+The proposal to collect sensitive data will have profound effects on individuals'
+fundamental rights to travel, rights to receive benefits,[8] and personal
+autonomy.
+An Implementation Guide prepared for HUD by the McCormack Institute of Public
+Affairs on HMIS advises that the agency should resist the temptation to collect
+too much personal information:
+Although a temptation to collect every piece of client information exists,
+there are several reasons to avoid collecting too much data. For one, the
+more data that are collected about a client, the greater the privacy risk
+to that individual. Another reason-the more data the system collects, the
+greater potential for data entry errors. Finally, buy-in at the agency level
+will be easier to obtain if case managers are not required to collect much
+additional information. Balancing the opportunity of data collection and analysis
+with the privacy concerns and data collection burdens of an HMIS is important.[9]
+HUD's proposed guidelines on HMIS abandons this advice. Rather than limiting
+collection of sensitive information, the proposed guidelines are detailed
+in requiring the maximum possible personal information about the homeless.
+The information requirements far exceed Congressional direction to obtain
+an unduplicated count of the homeless. Instead, the agency has proposed an
+expansive homeless surveillance system that will place the homeless at risk.
+HMIS Lays the Infrastructure for a Centralized, National Homeless Tracking
+System
+HUD's guidelines contain all the necessary elements to create a centralized,
+nation-wide homeless tracking system. No aspect of the guidelines creates
+any legally or technically enforceable guarantee or precaution against the
+creation of such a database in the future.
+The proposed guidelines are specific in detailing data consistency standards,
+and in the requirement that all HMIS data be exportable in a universal formal.
+This specificity in data collection and portability evinces an intent for
+future aggregation of personal information.
+Even if there is no attempt to nationalize the HMIS database, the CoCs may
+self-organize over large geographical areas. CoCs could create state-wide
+or region-wide information sharing agreements.[10]
+HMIS Should Not Track Aid Recipients by the Social Security Number
+The Social Security Number (SSN) plays a central role in the tracking, identification,
+and authentication of Americans. In order to protect individuals' privacy
+with regards to the SSN, Congress passed the Privacy Act of 1974.[11] Among
+other things, the Act makes it unlawful for a governmental agency to deny
+a right, benefit, or privilege merely because the individual refuses to disclose
+his SSN.
+Section 7 of the Privacy Act further provides that any agency requesting
+an individual to disclose his SSN must "inform that individual whether
+that disclosure is mandatory or voluntary, by what statutory authority such
+number is solicited, and what uses will be made of it."[12] This provision
+in the Privacy Act attempts to limit the use of the number to only those purposes
+where there is clear legal authority to collect the SSN.
+A database of SSNs presents privacy and identity theft risks to individuals
+enrolled in the system. HUD should employ an alternate identifier to mark
+aid recipients. A recent Federal Trade Commission report notes that 27.3 million
+Americans have been victims of identity theft in the last five years. 9.9
+million have been victimized in the last year alone. The FTC also found that
+consumer victims experienced $5 billion in out-of-pocket expenses. [13] HMIS
+could exacerbate this growing crime by requiring greater use and exposure
+of the SSN.
+HMIS Is Poised to Expand
+A HUD-funded report on six sample HMIS products shows that the systems are
+capable of collecting more data elements, and centralizing the data. One system
+made by Bowman Internet Systems can collect driver's license numbers, aliases,
+immigration status, and voter registration status, in addition to the elements
+required by the guidelines.[14] Other HMIS implementations can collect a photograph
+of the data subject, their native language, and parental status.[15]
+HMIS Is Expensive and Will Detract from CoC's Ability to Serve the Needy
+While some HMIS software is free, many of the systems are very expensive,
+and will cut into budgets of CoCs who are trying to directly assist the homeless.
+For instance, the HUD-sponsored In Depth Report showed that the two-year operating
+cost of a system could cost between $37,000-290,000.[16]
+HMIS Creates Unreasonable Security Risks
+Individuals enrolled in the HMIS database will be exposed to significant
+information security risks. When information is aggregated in a single place,
+such as a state or regional HMIS database, it becomes more valuable to malicious
+actors, and is more likely to be attacked.
+As the Implementation Guide prepared for HUD notes, there are structural
+security risks in HMIS. These include risks presented by placing individuals'
+data online and in staff members divulging information, especially at facilities
+with high turnover rates.[17]
+Additionally, the In Depth Report on HMIS indicates that several popular
+database implementations present security risks. For example, one system made
+by "Bowman Internet Systems" uses Microsoft IIS to place data subjects'
+information online.[18] IIS is no longer even used by the majority of Internet
+servers. IIS has been the successful target of many malicious attacks, including
+the Nimda and Code Red viruses.
+Another HMIS implementation, ANCHoR, which currently is used across the country,
+does not even have an audit trail.[19] Audit trails are essential, especially
+in environments where "insiders" are unsupervised or otherwise able
+to disclose information without oversight.
+HMIS Will Cause Concrete Harms to the Homeless
+HMIS Will Exacerbate the Risk of Politically-Motivated Purges of the Homeless
+The homeless are frequently purged from neighborhoods for political reasons.
+The practice, sometimes referred to as "homeless dumping," has been
+documented by many newspapers and human rights groups. The homeless are also
+targeted by laws that are selectively enforced to rid certain areas of them.
+We have documented instances of discrimination against the homeless below.
+These acts of discrimination could be much more intense if HMIS programs were
+available to the police or other officials who wish to rid an area of homeless
+persons.
+Furthermore, security agents in advance of a major event like the Olympics
+may use the HMIS database for improper purposes under the pretense of "national
+security" interests. Under the national security access provisions, they
+could gain access to the entire database with very little oversight or public
+accountability.
+Amnesty International alleged that police in Puerto Rico purged the homeless
+from public areas in advance of the "Miss Universe" contest for
+the past two years. Homeless persons reported that they were also forcibly
+removed from public areas in commercial districts of San Juan and dropped
+off in remote regions. Ivan Roman, Island Makes Amnesty International's
+List of Human Rights Violators, Orlando Sentinel Tribune, Jun. 2, 2002.
+A December 2001 study by the Atlanta Task Force for the Homeless found
+that: "The trend of criminalizing homelessness is particularly blatant
+in Atlanta, Georgia. In 1995 and 1996, the upcoming Olympics and their promise
+of growth and profit for Atlanta led to the arrest of over 9,000 individuals
+experiencing homelessness in a 12 month period. Since the 1996 Olympics,
+Atlanta's City Council and many local business leaders have cooperated in
+a concerted effort to 'clean' the streets of Atlanta...Homeless individuals
+are incarcerated in the City of Atlanta Detention Center for infractions
+of the host of 'quality of life' ordinances drafted by CAP (Central Atlanta
+Progress) and members of City Council. Homeless individuals in jail, on
+the street and in shelters testify to regular 'sweeps' of homeless people
+from Atlanta streets. Homeless individuals in Atlanta pay the price for
+these policies through continuous arrests, lost jobs and housing, bodily
+injury and death." Criminalization Report, Atlanta Task Force
+for the Homeless, December 2001, available at http://homelesstaskforce.org/rights_comments.php?id=P230_0_3_0_C.
+The Atlanta Task Force for the Homeless noted that "Atlanta built
+a new city jail, described in one article as 'the first Olympic project
+completed on time.' Additionally, the Task Force found that African Americans
+made up the largest numbers of homeless people arrested under the new ordinances
+[quality of life laws that prohibited " aggressive panhandling, lying
+down on a public park bench, either remaining in or walking across a public
+parking lot unless one had a car parked in that lot, and occupying vacant
+buildings"]. They estimated that Atlanta spent between $300,000 and
+$500,000 annually to incarcerate homeless detainees, which obviously took
+funding away from other programs such as housing." Karen Denton, The
+Olympics, Homelessness, and Civil Rights, ACLU (Utah) Reporter, Fall
+1999, at http://www.acluutah.org/99fall.htm
+The Problem of Law Enforcement Abuse of Databases Is Well Documented;
+HMIS Provides More Opportunities for Such Abuse
+Police misuse of law enforcement and other databases occurs so frequently
+that Tech Television, a news media organization that focuses on technology,
+published the "Top 10 List of Police Database Abuses" in June 2002.[20]
+That article details occurrences where police used law enforcement databases
+to locate individuals that they eventually killed,[21] and a case where agents
+sold database information to organized crime syndicates.[22]
+In January 2001, a 12-year veteran of the Drug Enforcement Agency, Emilio
+Calatayud, was charged with selling personal information from police databases.
+Calatayud made thousands of dollars by selling the personal information to
+private investigators from the National Crime Information Center (NCIC), California
+Law Enforcement Telecommunications System (CLETS), and the Narcotics and Dangerous
+Drug Information System (NDDIS) databases. On the first day of this trial
+in February 2002, the DEA agent skipped bail but was eventually captured in
+Mexico.
+In May 2002, FBI agents Lynn Wingate and Jeffrey Royer were indicted on fraud
+charges relating to use of government databases.[23] The FBI agents allegedly
+used their access to agency databases to provide information on companies
+for stock manipulation purposes. One agent allegedly searched the NCIC database
+and used information contained within it to smear a company executive and
+lower stock prices. Both allegedly used confidential FBI databases to monitor
+government investigations of the other stock manipulators.
+HMIS Will Increase Risks of Domestic Violence
+Studies have demonstrated that many people seeking benefits are doing so
+because they have recently been a victim of domestic violence:[24]
+Many studies demonstrate the contribution of domestic violence to homelessness,
+particularly among families with children. A 1990 Ford Foundation study found
+that 50% of homeless women and children were fleeing abuse...More recently,
+in a study of 777 homeless parents (the majority of whom were mothers) in
+ten U.S. cities, 22% said they had left their last place of residence because
+of domestic violence...In addition, 46% of cities surveyed by the U.S. Conference
+of Mayors identified domestic violence as a primary cause of homelessness."[25]
+HMIS will increase risks to these vulnerable populations. Victims are at
+greatest risk of further violence immediately after fleeing an abusive relationship.
+Violent family members and others may be able to locate individuals in shelters
+through the HMIS database. This can occur through employees who have access
+and improperly disclose information, through the broad law enforcement exemptions,
+or through database security problems.
+HUD has attempted to address this risk by exempting domestic violence shelters
+from reporting requirements. This solution does not fully address the risk,
+because victims of domestic violence may seek assistance from many different
+kinds of CoCs. To fully protect this vulnerable population, identifying information
+regarding victims of domestic violence should not reported.
+LESS INVASIVE ALTERNATIVES COULD ACCOMPLISH CONGRESS'
+GOALS
+No Law Has Passed Mandating HMIS, Or Homeless Surveillance on the Level
+HUD Has Proposed
+HUD has clearly overreacted to Congressional requests to more effectively
+enumerate the homeless. No Congressional recommendation cited by HUD in the
+Data and Technical Standards Notice calls for homeless tracking at the level
+specified by the agency. Furthermore, all Congressional recommendations listed
+are derived from conference or committee reports that do not have the effect
+of law.
+Language excerpted by HUD from the Omnibus Appropriations Act of 2003 (Pub.
+L. No. 108-7) expresses concern that the agency was "not taking the proper
+steps to determine the extent to which HUD's homeless assistance programs
+are meeting the needs of chronically homeless people." This section further
+states: "Therefore, HUD is directed to begin collecting data on the percentage
+and number of beds and supportive services programs that are serving people
+who are chronically disabled and/or chronically homeless." [26] This
+direction by Congress does not require tracking of individuals at the level
+HUD has proposed.
+Similarly, other reports urge greater collection of data without an actual
+requirement that identity be tracked. For instance, House Report 105-610 stated
+that HUD should: "collect, at a minimum, the following data: The unduplicated
+count of clients served; client characteristics such as age, race, disability
+status, units [days] and type of housing received (shelter, transitional,
+permanent); and services rendered. Outcome information such as housing stability,
+income, and health status should be collected as well."[27] Again, nothing
+in this directive requires HUD to track the homeless as the level specified
+in the Data and Technical Standards Notice.
+Senate Report 106-410 provides support for a less-invasive alternative that
+we have described below. It directs HUD "to continue on an annual basis
+to provide a report on a nationally representative sample of jurisdictions
+whose local MIS data can be aggregated yearly to document the change in demographics
+of homelessness, demand for homeless assistance, to identify patterns in utilization
+of assistance, and to demonstrate the effectiveness of assistance.[28] As
+we describe in greater detail below, assessing the needs of the homeless based
+on a nationally-representative sample will be less privacy-invasive, and less
+expensive.
+Congress' and HUD's Goals Could be Met With Less Invasive Alternatives
+The goal of HMIS is to "accurately describe the scope of the problem
+[homelessness] and the effectiveness of efforts to ameliorate it."[29]
+HUD could reach this goal through less invasive measures. For instance, the
+agency could pursue a "point in time" approach, where a representative
+sample of the homeless are surveyed at one time. This would serve the purpose
+of achieving an unduplicated count of the chronically homeless and a history
+of benefits received, and it would require no collection of personal identifying
+information at all. Just as the Census is performed, information from the
+data collection could be compared over time to evaluate trends in serving
+the poor.
+Such an approach will not only be more respectful of privacy, but on balance
+will be more effective. Some individuals may not be able to remember all the
+services they have received. However, since this is an approach that does
+not require the capture and storage of personal information, it will encourage
+individuals to be more forthcoming about their situation and past care. In
+this case, privacy enables truthfulness and the collection of more accurate
+data, as individuals surveyed by a point in time snapshot will can be assured
+that their information will not be tracked and linked to their identities
+over time. A point in time system is also a more balanced approach to those
+who are situationally homeless. It is simply unfair and unbalanced to subject
+the situationally homeless to HMIS on the terms that HUD has proposed.
+RECOMMENDATIONS
+HUD Should Not Mandate HMIS As Proposed
+HUD should not mandate a HMIS as proposed in the Federal Register notice.
+For reasons explained above, the system is too privacy invasive, exceeds the
+Congressional call for an enumeration of the homeless, and less invasive alternatives,
+such as a snapshot performed on a nationally-representative sample of the
+homeless, could satisfy Congress' goals.
+HUD Should Rewrite the Law Enforcement, Secret Security, and National
+Security Access Provisions in their Entirety
+The examples of misuse of government databases are many. Accordingly, HUD
+should exercise great care in fashioning the rules for access to HMIS, which
+contains information that could be more sensitive than the arrest and location
+information that is stored in many law enforcement databases. Therefore, we
+recommend that the law enforcement, Secret Service, and national security
+access provisions be rewritten in their entirety. Absent exigent circumstances,
+agents of all three interests should have to present a warrant or court order
+before gaining access to HMIS information. The HMIS user should minimize the
+amount of information given to the agent to the least amount necessary to
+accomplish a lawful government goal. Only in rare instances, such as a public
+emergency, should the entire database be exposed to law enforcement, Secret
+Service, or national security agents. A mere visit by a public official, or
+claim of an interest in protecting national security should never justify
+access to HMIS data.
+When law enforcement, Secret Service, or national security agents do obtain
+HMIS information, there should be a record made of the access that includes
+the purposes for which the information was transferred, what information was
+transferred, and who transferred and received it. The HMIS user should strive
+to give notice to the affected data subjects of the access to their personal
+information, unless directed not to by a court.
+With All Approaches, Stronger Privacy and Security Protections Are Needed
+To reiterate, we strongly urge HUD to start anew and to adopt a less privacy
+and security threatening approach. The new proposal should adopt stronger
+technical and legal protections for personal information in any HMIS system.
+This could be achieved through structural and procedural changes to the HMIS
+system, including:
+Minimization: HMIS should follow a general policy of minimization. For
+instance, the system should contain the minimum amount of personal information
+necessary to meet legitimate agency or shelter functions. When employees
+access HMIS, the system should only display information necessary to effect
+a legitimate purpose; the system should not by default display an entire
+file. When disclosing HMIS data to law enforcement or others, a user should
+disclose the minimum amount of information necessary to meet the recipient's
+need.
+Access controls: Access to the HMIS should be limited to only employees
+who need to obtain personal information. Before access is granted, users
+should sign an agreement that explains the sensitivity of the information,
+and the duties upon the user to not disclose personal information without
+proper procedure. Access controls should be put in place to ensure that
+users only obtain information that they are authorized to receive.
+Data Retention: Data retention of personally-identifiable information
+should be reduced. The current standard of seven years is entirely too long,
+and is not tied to any agency or academic finding showing that such a long
+period of retention is necessary.
+Consent: HUD should ensure that the homeless can meaningfully consent
+to this system of data collection and tracking. Under the standard specified
+by HUD, the homeless are not fully apprised of the privacy and security
+risks present. For meaningful consent, individuals must receive notice of
+the system's access, sharing, and data retention policies. Individuals must
+also be notified of the law enforcement, Secret Service, and national security
+access provisions.
+Auditing: All HMIS implementations should contain an audit trail that
+prevents users from falsifying or otherwise altering logs of access to personal
+information.
+Data Quality: To the maximum extent possible, information should be collected
+directly from the enrolled individual. Individuals should have a right to
+access their personal information, and correct it. Individuals should have
+a right to delete their personal information in the system, especially after
+they can demonstrate a period of time where they are not receiving benefits.
+Domestic Violence: HUD should not require the submission of any identifying
+information relating to victims of domestic violence. It is particularly
+important that the location of domestic violence victims not be transmitted
+to any central server on a real time basis.
+Accountability: HMIS users should be held accountable for breaches of
+personal privacy.
+Respectfully submitted,
+Chris Jay Hoofnagle
+Associate Director
+Electronic Privacy Information Center
+1718 Connecticut Ave. NW 200
+Washington, DC 20009
+202-483-1140 x108
+hoofnagle@epic.org
+1 Homeless Management Information Services (HMIS) Data and Technical Standards
+Notice, "Data and Technical Standards Notice," 68 Fed. Reg. 43,430
+(Jul. 22, 2003), available at http://www.hud.gov/offices/cpd/homeless/rulesandregs/fr4848-n-01.pdf/.
+2 Id. at 43,438-9.
+3 Id. at 43,439-49/
+4 Id. at 43,431.
+5 Id. at 43,454.
+6 Id.
+7 Id.
+8 Goldberg v. Kelly, 394 U.S. 254 (1970) (receipt of benefits is an entitlement,
+protected by due process rights).
+9 Homeless Management Information Systems: Implementation Guide ("Implementation
+Guide"), Center for Social Policy, John W. McCormack Institute of Public
+Affairs, Sept. 2002, at 21, available at http://www.hud.gov/offices/cpd/homeless/hmis/implementation/index.cfm.
+10 Implementation Guide, at ii, 1.
+11 5 U.S.C. § 552a.
+12 Id.
+13 Identity Theft Survey Report, Federal Trade Commission, Sept. 2003, http://www.ftc.gov/os/2003/09/synovatereport.pdf.
+14 Homeless management Information Systems: An In-Depth Look ("In Depth
+Report"), Center for Social Policy, John W. McCormack Institute of Public
+Affairs, at 23-30, Jan. 2001, available at http://www.hud.gov/utilities/intercept.cfm?/offices/cpd/homeless/hmis/consumerreport.pdf.
+15 Id.
+16 Id.
+17 Implementation Guide, at 4.
+18 In Depth Report, at 23.
+19 Id. at 62-69.
+20 James Hamilton, Top 10 List of Police Database Abuses, TechTV, June 11,
+2002, at http://www.techtv.com/cybercrime/privacy/story/0,23008,3387549,00.html
+21 M. L. Elrick, Police say suspended cop abused database, Detective says
+he checked on wife before her fatal shooting, Detroit Free Press, Aug. 8,
+2001, at http://www.freep.com/news/mich/lein8_20010808.htm.
+22 Jeff German, FBI-leaks investigation widens, Law Vegas Sun, Aug. 28, 2001,
+at http://www.lasvegassun.com/sunbin/stories/sun/2001/aug/28/512276279.html.
+23 FBI stock fraud alleged, Agents allegedly passed confidential information
+on investigations to Internet stock analyst, CNN, May 23, 2002, at http://money.cnn.com/2002/05/23/news/fbi_stocktips/.
+24 Domestic Violence and Homelessness, NCH Fact Sheet #8, National Coalition
+for the Homeless, April 1999, at http://www.nationalhomeless.org/domestic.html.
+25 Id. (internal citations omitted).
+26 Data and Technical Standards Notice, at 43430.
+27 Id. at 43431.
+28 Id. at 43431.
+29 Implementation Guide at 1.

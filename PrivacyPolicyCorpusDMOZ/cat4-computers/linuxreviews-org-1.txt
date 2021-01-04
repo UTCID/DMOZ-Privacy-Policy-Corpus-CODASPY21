@@ -1,0 +1,47 @@
+http://linuxreviews.org/LinuxReviews:Privacy_policy
+LinuxReviews:Privacy policyFrom LinuxReviewsJump to navigationJump to search We at LinuxReviews try to collect and store as little information about our visitors as possible. We do use Google AdSense to serve advertisements which means that you will be tracked if you have JavaScript enabled and your browser does not send a "do not track" web browser header and/or you do not block ad-related scripts using a browser extension like Ublock Origin or a privacy-focused browser like Privacy Browser for Android.
+EU users are shown a annoying cookie warning. Europeans are shown Google AdSense ads if they agree to it.
+Contents
+1 How Google AdSense Tracks You
+2 The Information We Store And Collect
+3 HOWTO Opt-Out From Third Party Tracking On This Website
+4 Why We Subject You To Third Party Tracking By Advertisement Partners
+How Google AdSense Tracks You
+This website does utilize third party advertisements from Google AdSense of you are outside the EU or you agree to have cookies set when our "cookie warning" pop-up appears (assuming your browser is configured to accepts cookies). The JavaScript our Google AdSense advertisement partner provides will set cookies and use those to track you and your interest in the advertisements served on this website. Some degree of web browser fingerprinting is utilized.
+You can read "How Google uses data when you use our partners’ sites or apps" to see how Google AdSense describes their use of web browser cookies and other tracking.
+The Information We Store And Collect
+We use the free software MediaWiki content management system. It stores some information about our users such as what registered and logged-in users do which page edits. We do not store information about users who opt to edit anonymously, without creating an account, beyond the contents of the edits they submit.
+Your information is, quite frankly, not very important to us. We count the number of visitors and store some statistics like the number of people using various web browsers and operating systems every six hours and then we throw those logs away. The only reason to store any information on random users would be to sell that information to third parties. We are not willing to do that. Thus; your user data is worth zero and that is why we don't collect your worthless information. When other sites write "Your information is very important to us" they actually mean that "We are collecting and selling your personal data and that revenue stream is very important to us".
+Another reason we don't collect anything beyond what the MediaWiki CMS system requires to ensure that you can login if you register an account (and things like that) is that your information really is non-essential to this sites operation. When other sites make statements like "To make Medium work, we log user data" they are, in fact, lying. Our web server does not need to know anything about you or your personal life in order to send you some web page over the Internet. Data collection is not a requirement to make HTTPS connections work.
+EU users who reject the tracking/cookie warning and users who send a "Do Not Track" web browser header get first party advertisements served from this domain. Those advertisements are simple static images wrapped in Easylist compatible div tags (topAdvertisement and bottomAdvertisement). They can be removed using any ad-blocker such as Ublock Origin.
+We do zero tracking of who sees the first party advertisements server as images from this websites domain. First party advertisements are "targeted" by a combination of rand(); and country-level GeoIP lookups.
+HOWTO Opt-Out From Third Party Tracking On This Website
+European visitors get the Cookie Warning.
+First, understand that we, and other websites on the Internet, can not set cookies or store data in your browser. Web-servers can ask web browsers to store cookies. It is up to you to configure your web browser running on your computer to behave according to your desires. Politicians and law-makers who think "cookie warnings" and similar web pollution make sense are blundering morons who simply fail to understand how the Internet works. You can configure your web browser so you do not get any third party tracking when you use this website using any of these alterantives:
+You can opt-out from third party tracking by selecting Do Not Track in your web browser.
+You also opt-out from third party tracking by disabling JavaScript in your web browser
+You can leave JavaScript enabled and opt-out from third party tracking by installing a browser extensions that prevents the Google AdSense advertisement scripts from running. Ublock Origin is one of many great choices.
+European users can opt-out by clicking screw you when they see the cookie warning. Most non-European users do not get the cookie warning. Some due because the GeoIPCountry library isn't that accurate and "unknown" country results in the Cookie Warning.
+You can reduce tracking if you leave JavaScript on by disabling both first and third party cookies in your web browser. You may still be subject to web browser fingerprinting. Do note that we allow the Google AdSense scripts to set first party cookies in order to maximize profits now, blocking third party cookies will make little practical difference. All the browsers that claim you get some kind of "enhanced protection" by limiting third party cookies are giving you a false sense of security. In contrast, using Ublock Origin to prevent scripts from running actually works. Sending a Do Not Track will work great on this site since we don't show third party advertisements to those who send that header but it won't make any difference on other sites.
+Why We Subject You To Third Party Tracking By Advertisement Partners
+"Digital content is to a large degree funded by advertising, which means that rather than paying for services with money, companies monetize our behaviour, attention and personal data."
+From an
+From the AdTech study "OUT OF CONTROL"published the Norwegian Consumer Protection Agency "Forbrukerrådet" on January 14th, 2020
+Writing in-depth articles is quite time-consuming. Third party advertisements are how we exchange a lot of time for a minimal amount of money.
+We would love to sell advertisements directly if you want to advertise on this website and you don't require that your ads employ cookies or web browser fingerprinting techniques.
+We would also love to be able to not have any advertisements at all. We will remove the advertisements from this website if user donations match the current level of advertisement revenue. The total sum of donations received since 2004 is less than $10 (less than $1/year). That is nowhere near enough to be an alternative to third party advertisements. You can donate if you want this site to be advertisement-free. $5 a month from 1% of our readers would be more than enough to remove all advertising.
+See our about page for contact information if you want to contact us with questions regarding our privacy policy.
+Sort by date
+Sort by score
+Enable comment auto-refresher
+Add your comment
+LinuxReviews welcomes all comments. If you do not want to be anonymous, register or log in. It is free.
+Retrieved from "https://linuxreviews.org/w/index.php?title=LinuxReviews:Privacy_policy&oldid=17653"
+Category: The LinuxReviews websiteNavigation menuPage actionsProject pageDiscussionView sourceHistoryPage actionsProject pageDiscussionMoreToolsPersonal toolsCreate accountLog inSearch  NavigationFront PageBreaking NewsSoftware ReviewsK-pop newsfun free gamesBlue NebulaChessGbrainySolitaireNaval BattleSecret Chronicles of Dr. M.SuperTuxSuperTuxKartUnvanquishededucational videosLinux memory management at scaleOvertaking Proprietary Software Without Writing CodeArch Conf 2020X.Org Developers Conference 2020ComparisonsBitTorrent clientsDesktop EnvironmentsImage ViewersVideo EditorsRSS feed readersSystem Monitoring ProgramsGreat softwareCantata mpd music playermpv media playerfor beginnersLearn to touch-typeLearn to compress and decompress archives with tarLearn how to convert video files with ffmpegMake GIMPs interface colorful and happyLearn to lists the ports a system is listening oncheat sheetsBourne Shell ReferenceTao of Regular ExpressionsMagic Command Line Collectionsoftware benchmarksSix Browsers On Four Linux Computersbzip2 vs lzip vs xzHOWTOsee a games FPS Second and other data in a HUD overlayuse the numeric keyboard keys as mouse in XOrgconfused?Ask LinuxReviewsNews feedRSSAtomtry your luckRandom PageRandom news storyRandom GamelogsRecent ChangesCommentsToolsWhat links hereRelated changesSpecial pagesPrintable versionPermanent linkPage information
+This page was last edited on 1 October 2020, at 21:43.Privacy PolicyAbout LinuxReviews
+Front page
+Latest News
+Latest Reviews
+LinuxReviews
+Poetry
+Web

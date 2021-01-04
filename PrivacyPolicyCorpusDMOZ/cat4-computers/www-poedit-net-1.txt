@@ -1,0 +1,35 @@
+http://www.poedit.net/terms
+Terms of Use & Privacy Policy
+These terms cover the use of Poedit’s online service and supplement application license agreement.
+We may make changes to our terms when needed. When we do so, we’ll update the “last updated” date at the very bottom of this page.
+Privacy policy
+tl;dr: We try to not collect any personal data in the first place. Sometimes we have to in order to provide the service or because we are required by law to do so.
+Purchasing and activating license
+When you purchase Poedit Pro, you do it through FastSpring or Paddle who acts as merchant of record who you enter a contract with. They share order data with us, which allows us to provide license (including forgotten license retrieval) and support. In particular, email address and order number are associated with your license key on Poedit’s server.
+During license activation, basic information about the device (HW identifier, MAC address, username, device name) is collected for the purpose of fraud prevention and license accounting.
+Online suggestions
+If you use online suggestions or pre-translation, the strings you translate are sent to Poedit’s server so that it can provide the suggestions. They are not logged and are not associated with you in any way. You can disable this online functionality in Preferences.
+If you allow Poedit to contribute your translations to the collaborative translation memory in order to improve the suggestions, they will be stored anonymously with no association to you. They may also be also shared with MyMemory, the backend Poedit uses to provide this functionality for some languages or older versions of Poedit. Poedit will never send your translations to the server without your permission; you have to explicitly allow it first.
+Usage statistics of online suggestions and pre-translation are collected on license key basis for the purpose of license metering.
+Passwords
+Poedit never stores passwords anywhere other than in your operating system’s secure credentials storage, and only if you check that you want the password remembered.
+Email
+If you subscribe to Poedit’s newsletter, we may infrequently email you with news and updates through our email partner. We will not subscribe you automatically and we will never ever under any circumstances sell your email address.
+We will only email you, even if you didn’t subscribe to the newsletter, in connection with your purchase: to send you your license key and invoice or to alert you to issues with your purchase (e.g. a failing credit card).
+If you send email to support, it will be stored in the email and/or support system.
+Analytics
+We use anonymous analytics, including Google Analytics. We don’t share your full IP address with analytics, but anonymize it first. We don’t associate analytics with individual users.
+Logs
+Our web servers log access in the standard way for the purpose of diagnosing issues and maintaining information security. These logs, which include IP addresses, are kept for the maximum of 14 weeks and are not included in longer-term backups.
+We track crashes and server errors for the purpose of improving the product and its security. Crash reports may contain your IP address and email address (if you provide it), but they won’t upload your files or other sensitive data.
+Data deletion
+You are entitled to request complete deletion of your data. You won’t be able to continue to use Poedit after data deletion, though, because your license is tied to them.
+Terms of Use
+Online suggestions and pre-translation
+Pre-translation does not provide perfect-quality final translation. It is a CAT service intended to be used
+by a human translator as the first step of their work and to be followed by their corrections and post-edits.
+Use for mass-translation in volume without post-editing, particularly into multiple languages, is not intended
+use of this service and is not allowed. You acknowledge that pre-translation may be rate-limited or otherwise degraded in case of Terms of Use violation.
+The service can only be used in accordance with Poedit’s license terms, including being limited to use by a single person (license owner). We reserve the right to suspend the license without refund in case of Terms of Use violation.
+This service may contain translations powered by Google. Google disclaims all warranties related to the translations, express or implied, including any warranties of accuracy, reliability, and any implied warranties of merchantability, fitness for a particular purpose and noninfringement.
+Last updated: October 1st, 2019

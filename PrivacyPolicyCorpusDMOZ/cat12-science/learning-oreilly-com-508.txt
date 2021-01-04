@@ -1,0 +1,26 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch17s04.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Obtaining a Certificate from a Commercial CA The self-signed certificates created earlier in this
+chapter allow you to take advantage of the capabilities of any
+SSL-enabled client or server. These certificates are sufficient for
+the overwhelming majority of uses. However, many organizations choose
+to purchase a certificate from a certification authority such as
+VeriSign. There are several advantages to using a certificate that is
+signed by a commercial CA in preference to a key that is
+self-signed:Because VeriSign and other CAs have their keys distributed
+with Internet Explorer and Netscape, your users will not have to
+manually add your internal CA’s key to their web browser.Because VeriSign and other CAs attempt to verify the
+identity of an organization before signing that organization’s
+key, your users may have some assurance that your web server
+actually belongs to the organization whose name is on the
+certificate. This can be useful in e-commerce applications where
+you are asking users to divulge personal information such as their
+names, addresses, Social Security numbers, or credit card
+numbers.If you wish to use a certificate from a commercial CA, you will need to create a certificate signing request, send the CSR to the organization, convince the CA to sign your key, and install the certificate that you get back from the CA. The process of convincing the CA to sign your key usually involves presenting the organization with some sort of tangible proof that you represent the ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

@@ -1,0 +1,30 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch10.html#websec2-CHP-10-SECT-1.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 10. Privacy-Protecting TechnologiesIn this chapter, we’ll look at a few classes of programs that you
+can use to safeguard your privacy while using the Web. Collectively,
+these technologies are frequently referred to as
+privacy-protecting technologies.
+For each major section in this chapter, we have attempted to
+introduce the broad program category (blocking ads, crushing cookies,
+anonymous browsing, and secure email), give a few examples of programs
+in the category, and then finally show one or two of these programs in
+action. Because the Internet is a fast-changing place, it’s quite
+possible that some or all of the programs discussed here will no longer
+be available by the time this book appears in print. It’s also possible
+that new programs will be introduced that are not mentioned here. That’s
+why you should use this chapter as a survey of the kinds of tools that
+are available for enhancing web privacy, rather than as an actual
+buyer’s guide.Blocking Ads and Crushing CookiesIf you are interested in protecting your privacy from web
+advertisers—or if you simply want to see fewer advertisements when you
+browse the Internet—then you will find yourself in something of a
+quandary. That’s because the companies that are developing web browsers—Microsoft, Netscape, and Opera
+Software—have all developed business units that make money by showing
+advertisements to consumers.[115] Browsers have become programs for delivering ads (see
+Figure 10-1).Figure 10-1. On today’s Internet, ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

@@ -1,0 +1,116 @@
+http://www.spbug.ch/j/privacy
+HomeEvent HistoryMeetingMembershipArchiveContact
+HomeEvent HistoryMembershipArchiveContact
+Privacy Policy
+<span></span>
+<h2 class="n">reCAPTCHA</h2><p class="n">We use the reCAPTCHA service provided by Google LLC (Google) to protect your submissions via internet submission forms on this site. This plugin checks if you are a person in order to prevent certain website functions from being (ab)used by spam bots (particularly comments). This plugin query includes the sending of the IP address and possibly other data required by Google for the Google reCAPTCHA service. For this purpose your input will be communicated to and used by Google. However, your IP address is previously truncated by Google within member states of the European Union or in other states which are party to the agreement on the European Economic Area and is, as such, anonymized. Only in exceptional cases is a full IP address transmitted to a Google server in the United States and truncated there. On behalf of the operator of this website, Google will use this information to evaluate your use of this service. The IP address provided by reCaptcha from your browser shall not be merged with any other data from Google.<br />
+This data collection is subject to the data protection regulations of Google (Google Inc.). For more information about Google's privacy policy, please visit:
+<a href="https://policies.google.com/privacy?hl=en" target="_blank">https://policies.google.com/privacy?hl=en</a><br />
+By using the reCAPTCHA service, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</p><br/>
+</div>
+</div>
+</div>
+<div class="jtpl-section-aside">
+<!-- _subnavigation.sass -->
+<div class="jtpl-subnavigation subnavigation-colors">
+<div data-container="navigation"><div class="j-nav-variant-nested"></div></div>
+</div>
+<!-- END _subnavigation.sass -->
+<div class="jtpl-sidebar sidebar-options">
+<div data-container="sidebar"><div id="cc-matrix-1634858051"><div id="cc-m-6709436451" class="j-module n j-header "><h3 class="" id="cc-m-header-6709436451">Twitter</h3></div><div id="cc-m-6709435751" class="j-module n j-htmlCode "><a class="twitter-timeline" href="https://twitter.com/spbug_ch?ref_src=twsrc%5Etfw">Tweets by spbug_ch</a> <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8" type="text/javascript">
+</script></div><div id="cc-m-6705554051" class="j-module n j-header "><h3 class="" id="cc-m-header-6705554051">About SPBUG</h3></div><div id="cc-m-6705554151" class="j-module n j-text "><p>
+The User Group is dedicated to
+</p>
+<ul>
+<li>applying PowerBuilder's capabilities to actual problems (how something can be done);
+</li>
+<li>using PowerBuilder to its full potential (what can be done);
+</li>
+<li>promoting and achieving the further development of PowerBuilder;
+</li>
+<li>acting as a forum for tips and tricks, work-arounds and problem resolutions;
+</li>
+<li>maintaining good contacts with Appeon and actively and specifically referring SPBUG member requests and problems concerning PowerBuilder to Appeon;
+</li>
+<li>lobbying Appeon to provide early, clear and comprehensive information on the further development of the PowerBuilder product, in particular information required for the timely, forward
+looking design of PowerBuilder based solutions;
+</li>
+<li>marketPowerBuilder and its development environment.
+</li>
+</ul></div><div id="cc-m-6705709451" class="j-module n j-header "><h3 class="" id="cc-m-header-6705709451">Steering Committee</h3></div><div id="cc-m-6705554351" class="j-module n j-text "><ul>
+<li>President: Preben Hansen
+</li>
+<li>Nuno Madeira
+</li>
+<li>Damian Dominiuk
+</li>
+<li>Georg Brodbeck
+</li>
+</ul></div><div id="cc-m-6710512451" class="j-module n j-header "><h3 class="" id="cc-m-header-6710512451">Links</h3></div><div id="cc-m-6710513151" class="j-module n j-text "><ul>
+<li>
+<a href="https://www.appeon.com/products/appeon-powerbuilder.html" target="_blank" title="https://www.appeon.com/products/appeon-powerbuilder.html">PowerBuilder at Appeon</a>
+</li>
+<li>
+<a href="https://www.appeon.com/consultants/consulting-partners" target="_blank" title="https://www.appeon.com/consultants/consulting-partners">Appeon Consulting Partners</a>
+</li>
+<li>
+<a href="http://www.sap.com" target="_blank" title="http://www.sap.com">SAP Website</a>
+</li>
+</ul></div></div></div>
+</div>
+</div>
+</div>
+<!-- END _section.sass -->
+<!-- _footer.sass -->
+<div class="jtpl-footer footer-options border-options">
+<div class="jtpl-footer__inner">
+<div id="contentfooter" data-container="footer">
+<div class="j-meta-links">
+<a href="//www.spbug.ch/j/privacy">Privacy Policy</a> | <a id="cookie-policy" href="javascript:window.CookieControl.showCookieSettings();">Cookie Policy</a><br/>2017 - 2018 SPBUG, maintained by CATsoft Development GmbH
+</div>
+<div class="j-admin-links">
+<span class="loggedout">
+<a rel="nofollow" id="login" href="/login">Log in</a>
+</span>
+<span class="loggedin">
+<a rel="nofollow" id="logout" target="_top" href="https://cms.e.jimdo.com/app/cms/logout.php">
+Log out
+</a>
+|
+<a rel="nofollow" id="edit" target="_top" href="https://a.jimdo.com/app/auth/signin/jumpcms/?page=1200779851">Edit</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<!-- END _footer.sass -->
+<!-- _cart.sass -->
+<div class="jtpl-cart">
+</div>
+<!-- END _cart.sass -->
+</div>
+<!-- END _main.sass -->
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var _gaq = [];
+_gaq.push(['_gat._anonymizeIp']);
+if (window.CookieControl.isCookieAllowed("jimdo_analytics")) {
+_gaq.push(['b._setAccount', 'UA-24231837-147'],
+['b._setCustomVar', '1', 'websiteid', 's0d73b74b4ea12027'],
+['b._setDomainName', 'none'],
+['b._setAllowLinker', true],
+['b._trackPageview']);
+}
+if (window.CookieControl.isCookieAllowed("jimdo_analytics") || window.CookieControl.isCookieAllowed("ga")) {
+(function() {
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
+ga.async = true;
+ga.src = 'https://www.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+}
+//
+Close

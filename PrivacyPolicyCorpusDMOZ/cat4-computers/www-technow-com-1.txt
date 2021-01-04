@@ -1,0 +1,11 @@
+https://www.technow.com/training/security/information-privacy-protection/
+800-324-2294
+Here are the Information Privacy Protection course offerings:
+PP-212: CIPP/E Certified Information Privacy Professional Europe and GDPR Compliance PP-222: CIPM Certified Information Privacy Manager and GDPR Compliance PP-244:CIPM + CIPP/E 4 Day GDPR Ready
+Array
+(
+[type] => 2048
+[message] => Only variables should be assigned by reference
+[file] => /var/www/html/wp-content/themes/prostyler-theme/comments.php
+[line] => 133
+)

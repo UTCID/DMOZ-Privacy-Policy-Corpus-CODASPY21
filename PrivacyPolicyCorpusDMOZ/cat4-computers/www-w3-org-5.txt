@@ -1,0 +1,231 @@
+https://www.w3.org/TR/2010/NOTE-dap-privacy-reqs-20100629/
+Device API Privacy RequirementsW3C Working Group Note 29 June 2010This version:http://www.w3.org/TR/2010/NOTE-dap-privacy-reqs-20100629/Latest version:http://www.w3.org/TR/dap-privacy-reqs/Latest editor's draft:http://dev.w3.org/2009/dap/privacy-reqs/Editors:Alissa Cooper, Center for Democracy and TechnologyFrederick Hirsch, NokiaJohn Morris, Center for Democracy and TechnologyCopyright © 2010 W3C® (MIT, ERCIM, Keio), All Rights Reserved. W3C liability, trademark and document use rules apply.
+Abstract
+This document provides definitions, use cases, and
+requirements
+for making device APIs more privacy-friendly.
+Status of This DocumentThis section describes the status of this document at the time of its publication. Other documents may supersede this document. A list of current W3C publications and the latest revision of this technical report can be found in the W3C technical reports index at http://www.w3.org/TR/.
+This is the first public Working Group Note of the Device API Privacy Requirements. This document is expected to be further updated based on both Working Group input and public comments. The Working Group anticipates to
+eventually publish a stabilized version of this document as a W3C
+Working Group Note.
+This document was published by the Device APIs and Policy Working Group. If you wish to make comments regarding this document, please send them to public-device-apis@w3.org (subscribe, archives). All feedback is welcome.Publication as a Working Group Note does not imply endorsement by the W3C Membership. This is a draft document and may be updated, replaced or obsoleted by other documents at any time. It is inappropriate to cite this document as other than work in progress.This document was produced by a group operating under the 5 February 2004 W3C Patent Policy. W3C maintains a public list of any patent disclosures made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent. An individual who has actual knowledge of a patent which the individual believes contains Essential Claim(s) must disclose the information in accordance with section 6 of the W3C Patent Policy.Table of Contents1. Introduction1.1 Architectural Approach1.2 Privacy Principles relevant to APIs2. Requirements for API Definitions2.1 Notice2.2 Consent2.3 Minimization2.4 Control2.5 Access3. Requirements related to User Expectations of Data Use3.1 Retention3.2 Secondary Use3.3 SharingA. AcknowledgementsB. ReferencesB.1 Normative referencesB.2 Informative references
+1. Introduction
+Privacy considerations are important to Device APIs, since misuse of information exposed by the APIs can have potentially harmful financial, physical safety, reputational and other impacts. Privacy needs a systemic solution that includes
+functional requirements on user agents, web sites and other components
+of the system, since any opportunity for misuse of private information
+is a risk. Addressing privacy may include functional requirements in
+technical standards, laws and regulations, and best practices.
+While privacy is an important consideration for all APIs, privacy
+risks may vary according to the information exposed by an individual
+API. For example, inappropriate disclosure of contacts or location
+information could create serious personal safety issues in a broad
+range of cases, while disclosure of certain system information might
+create privacy risks in fewer contexts.
+1.1 Architectural Approach
+Privacy is a broad topic with various aspects that involve
+different parties in a system. In order to be clear which
+aspects are addressed and how, we take an architectural
+approach of breaking down the problem into smaller
+pieces. This should provide clarity and enable
+privacy-respecting solutions that can be adopted. We have
+identified the following pieces:
+Defining APIs in such a way that they are as “naturally” privacy-respecting as possible
+This is similar to writing APIs in such a way that they are
+security-friendly; you can't
+keep people from making mistakes, but you can make it easier
+and more natural to be privacy-respecting through the API
+design.
+An example is supporting the concept of
+Minimization by designing APIs
+that return the minimum data needed for a task, such as
+only obtaining address fields when an address is needed.
+Requiring from user agents what they can realistically enforce
+User agents are crucial to ensuring that user privacy is protected, but this capability must take implementation and adoption considerations into account. User agent design decisions can be separated to a large degree from API design decisions.
+Empowering users to express privacy preferences
+This can be hard to manage technically but might be possible through a simpler approach of defining and agreeing upon a small set of privacy preferences, similar to
+Creative Commons copyright licenses, that users can attach to their data.
+Defining a simple vocabulary
+for privacy could enable privacy rulesets that can be
+referenced by URI.
+Other
+people
+have had this idea as well.
+Conducting education and outreach, similar to the accessibility efforts
+WAI and the Web community at large have done a great job
+raising awareness about accessibility
+issues, and while implementations are not perfect, their effort has had a very
+measurable impact. There is therefore experience to be
+tapped in such an approach for the parts
+of the problem that depend on convincing people to do the
+right thing (which in some cases can be wide-ranging, including making script libraries support the solution directly, or having various organizations enforce it internally).
+1.2 Privacy Principles relevant to APIs
+Privacy protections are frequently understood as a set of
+principles or elements (one such set is described in
+[PRIVACY-ISSUES-GEO]). The core elements of privacy that are
+relevant to Device APIs, user agents that support the APIs, and
+applications that use the APIs are as follows:
+Notice: Informing users about the data collected through Device APIs
+Consent: Obtaining user agreement to sharing data through Device APIs
+Minimization: Limiting the amount and level of detail of data collected through Device APIs
+Control: Allowing users to control access to their data once they have consented to having it collected through Device APIs
+Access: Providing users with access to information about the data that has been collected about them through Device APIs
+Retention: Limiting how long applications retain data that was collected through Device APIs
+Secondary
+Use: Limiting applications from using data
+collected through Device APIs for purposes other than the
+purpose for which it was collected
+Sharing: Limiting applications from sharing data collected through Device APIs with third parties
+These elements will each need to be approached in different ways. Approaches include specific requirements
+on individual APIs, conveying user expectations together with
+the data itself, and/or documenting best practices for application
+and content developers. Certain approaches are better suited to safeguarding certain privacy elements than others.
+This document provides specific requirements for individual APIs, addressing the elements that are most relevant to API definitions: notice, consent, minimization, control, and access. Requirements involving user expectations, which primarily address retention, secondary use, and sharing, will be documented separately. Best practices for developers will also be documented separately, covering notice, minimization, control, access, retention, secondary use, and sharing in the application developer context.
+The following table summarizes the breakdown of how each element is covered:
+Privacy Element
+Requirements for API Definitions
+Requirements
+related to User Expectations of Data Use
+Best practices for developers
+Notice
+X
+X
+Consent
+X
+X
+Minimization
+X
+X
+Control
+X
+X
+Access
+X
+X
+Retention
+X
+X
+Secondary Use
+X
+X
+Sharing
+X
+X
+The privacy requirements for individual APIs are provided in the next section. The requirements described in this document are intended
+to be applicable to device APIs both in the context of
+widgets and web applications.
+The breakdown described above foreshadows the idea of providing API hooks that allow users to attach their expectations/preferences/policies about privacy to the data they share through the APIs. Attaching policy rules to the data that get shared can provide a legal basis for enhancing the control users have
+over their data once they are shared; but doing so create the
+following challenges:
+getting the user to understand and set rules on sharing their information, and to understand that limits of those rules, is hard;
+if users set their preferences in the user agent, they may expect
+the
+user agent to enforce these preferences while it cannot actually control
+the data flow once the data has been transmitted;
+developers may ignore policy rules sent along with the data they're actually interested in (at the risk of encountering legal or market consequences)
+2. Requirements for API Definitions
+Many of the requirements listed here are recommendations (SHOULDs) rather than absolute requirements (MUSTs). In many cases this is because making a requirement absolute is appropriate for only a subset of the APIs, but not every API. As appropriate, individual APIs may place stronger normative requirements on user agents than the requirements in this document place on APIs.
+2.1 Notice
+Making sure that users understand the implications of using an application that relies on a Device API is fundamental to ensuring the protection of their data. The following requirements can help to make sure that users are properly notified:
+APIs must make it possible for user agents to notify users that their
+data is being collected via the API. This notification must
+identify the application (for example, by displaying its document
+origin [HTML5]) and the precise data being collected.
+APIs should provide support for visual indicator(s) that data
+is being collected via the APIs.
+Should the APIs have a hook for applications to
+convey the intended usage of the data? If they do, should it be a
+required parameter? And how can this information be conveyed without
+misleading the user about the trustworthiness of that information?
+2.2 Consent
+The semantics of some APIs are defined such that user
+interaction is essential to make use of the API. An example is
+a camera API that enables the user to take a photograph, but
+is defined to require the user to press a shutter key to take
+the photograph. Another example
+is an API that produces a message template, but requires the
+user to press "send" to actually send the message.
+Such user actions constitute implicit consent to
+collection of data via the API, since the user has a choice
+to perform these actions and doing so implies consent for
+the application to access the associated Device
+Capabilities. In such situations where it is obvious that
+performing the action involves sharing data with the
+application and the application’s intended use of the data
+is also obvious, additional dialogs that prompt users for
+consent may not be necessary.
+Device APIs may also be defined such that consent must be explicit, not implicit. Examples are a camera API that takes a photograph without user involvement, or a messaging API that sends a message without the user pressing "send." In these cases dialogs may be required.
+To ensure that data is not collected without users knowing or realizing, APIs should be designed with the presumption that the explicit consent model will be used, and should explain the specific circumstances under which implicit consent may be acceptable. This gives rise to the following requirements:
+APIs must make it possible for user agents to obtain user
+consent before sharing any data via the APIs.
+APIs must be defined in such a way that explicit consent is assumed, and they should articulate the circumstances under which implicit consent is acceptable.
+An important caveat to the consent model supported by Device APIs relates to data about other people that the user may have on his or her device and be able to share via the APIs (other people’s contact or calendar information, for example).
+A user should not be able to consent through the Device APIs to use of other people’s information beyond the original interaction with the API. Thus, for example, a user should be able to consent to have an application contact another person mentioned in a calendar entry (perhaps to say “I am running late”), but the user should not also be able to consent to have the application make later use of the person’s contact information (perhaps to send marketing messages to that person). This caveat should be conveyed where appropriate in the APIs, best practices, and other Device APIs documents.
+2.3 Minimization
+To reduce the risks of over-exposing users data, it is important to
+design APIs so that Web developers can request as little information
+as they need to accomplish their goals.
+An example use case is a social networking case where the contacts
+API is used to contacts who are also members of a
+social network. Email addresses serve as the social network
+handles. In this case limiting results to the addresses and not
+other personal information is an example of minimization.
+This gives rise to the following requirements:
+APIs must make it easy to request as little information as
+required for the intended usage.
+For instance, an API call should require specific parameters to be
+set to obtain more information, and should default to little or no
+information.
+APIs should make it possible for user agents to convey the
+breadth of
+information that the requester is asking for.
+For instance, if a developer only needs to access a specific field
+of a user address book, it should be possible to explicitly mark that
+field in the
+API call so that the user agent can inform the user that this single
+field of data will be shared.
+APIs should make it possible for user agents to let the user
+select, filter, and transform information before it is shared with the requester.
+The user agent can then act as a broker for trusted data, and will
+only transmit data to the requester that the user has explicitly
+allowed.
+2.4 Control
+Given the sensitivity of the data made available through Device APIs, it is important for users to be able to control which applications have access to that data. The following requirements ensure that (1) users have control over their data even after they have shared it with an application, and (2) users have robust controls over which applications can obtain their data to begin with:
+APIs must make it possible for user agents to support the revocation
+of user consent to sharing of data via the APIs.
+APIs should support the ability for user agents to allow users to whitelist trusted applications and blacklist untrusted applications.
+2.5 Access
+Notice and control cannot be fully implemented unless users can review how they have shared data in the past. The following requirements suggest how APIs can support users’ access to this information:
+APIs should make it possible for user agents to allow users to view the applications with whom they have shared data.
+APIs should make it possible for user agents to allow users to view, edit, and delete the history of the user's data sharing with each.
+3. Requirements related to User Expectations of Data Use
+Users may have expectations of how their data is used, in
+particular related to data retention, use for other purposes, and
+sharing.
+How applications specify how they plan to meet these expectations
+(application policy), how users express their desires (user policy)
+and constraints on data use may all be related to managing these
+expectations. A license approach similar to Creative Commons may
+offer a simple manner to address these requirements.
+This section does not currently contain any requirements. Because retention, secondary use, and sharing are largely out of the control of the APIs, it's not entirely clear that it makes sense to have any API requirements about these aspects. On the other hand, one can envision a requirement that supports the ruleset model, such as:
+APIs must support a mechanism for users to convey their preferences about retention, secondary use, and sharing to applications in the context of an API interaction.
+Likewise, if we wanted the APIs to support applications' ability to convey their intended policies about these aspects, we could have a requirement like:
+APIs must support a mechanism for applications to convey their policies about retention, secondary use, and sharing to users prior to or during API interactions.
+3.1 Retention
+Retention
+is about to user expectations about how long data they
+provide will be retained, and whether applications must dispose of
+collected data after
+fulfilling the purpose for which it was collected.
+3.2 Secondary Use
+Secondary Use is about to user expectations regarding whether
+applications can use data for purposes other than that for which
+the data was collected.
+3.3 Sharing
+Sharing is about user expectations on how data will be shared. Once
+data have been made available to a requester, the
+requester is in a position to store and redistribute these data, with
+or without the user consent. Granularity of data shared is an
+important aspect of sharing.
+A. Acknowledgements
+B. ReferencesB.1 Normative referencesNo normative references.B.2 Informative references[HTML5]Ian Hickson; David Hyatt. HTML 5. 4 March 2010. W3C Working Draft. (Work in progress.) URL: http://www.w3.org/TR/2010/WD-html5-20100304/
+[PRIVACY-ISSUES-GEO]Doty, N. Mulligan, D. Wilde, E. Privacy Issues of the W3C Geolocation API. UC Berkeley School of Information. 24 February 2010. URI: http://escholarship.org/uc/item/0rp834wf

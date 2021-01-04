@@ -1,0 +1,62 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch25s03.html
+How to Evaluate a Credit Card Payment System - Web Security, Privacy & Commerce, 2nd Edition [Book]
+Skip to main content
+Sign In
+Try Now
+Teams
+Individuals
+Features
+Certifications
+Interactive learning
+Live online sessions
+What’s New
+O’Reilly for marketers
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+How to Evaluate a Credit Card Payment System There are many credit card systems being developed for
+web commerce; any list here would surely be out of date before this
+book appears in bookstores. Instead, we have listed some questions to
+ask yourself and your vendors when trying to evaluate any payment
+system:If the system stores credit card numbers on the consumer’s
+computer, are they stored encrypted? They should be. Otherwise, a
+person who has access to the consumer’s computer will have access
+to personal, valuable, and easily abused information.If the system uses credit card numbers, are they stored on
+the server? They should not be stored unless recurring charges are
+expected. If the numbers are stored, they should be stored
+encrypted. Otherwise, anyone who has access to the server will be
+able to steal hundreds or thousands of credit card numbers at a
+time.Are stored credit card numbers purged from the system after
+the transaction is completed? If a transaction is not recurring,
+they should be. Otherwise, a customer could be double-billed
+either accidentally or intentionally by a rogue employee.Does the system test the check digit of the supplied credit
+card number when the numbers are entered? It should, as it is
+easier to correct data-entry errors when they are made (and,
+presumably, while the customer’s card is still out), than later,
+when the charges are submitted.Can the system do preauthorizations in real time? This is a feature that depends on your situation. If you ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+About O’Reilly
+Teach/write/train
+Careers
+Community partners
+Affiliate program
+Diversity
+Support
+Contact us
+Newsletters
+Privacy policy
+facebook-logo
+linkedin-logo
+youtube-logo
+Download the O’Reilly App
+Take O’Reilly online learning with you and learn anywhere, anytime on your phone and tablet.
+Get unlimited access to books, videos, and live training.
+Sync all your devices and never lose your place.
+Learn even when there’s no signal with offline access.
+Do not sell my personal information
+Exercise your consumer rights by contacting us at donotsell@oreilly.com.
+© 2020, O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
+Terms of service • Privacy policy • Editorial independence

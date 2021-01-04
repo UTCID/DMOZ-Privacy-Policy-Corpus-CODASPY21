@@ -1,0 +1,414 @@
+https://www.match.com/help/sitemap.aspx?lid=4
+discover
+search
+search
+mutual search
+reverse search
+likes
+likes
+phonebook
+inbox
+events
+Subscribe
+me
+who’s viewed me
+safety center
+sign in
+help
+Boost
+00:00
+{{#if HasResults}}
+{{#each Visible}}
+{{/each}}
+{{else}}
+{{#if Repurchased}}
+{{#if IsMultiPack}}
+Thanks for redeeming.
+{{else}}
+Success! Thanks for repurchasing.
+{{/if}}
+{{else}}
+{{#if Expired}}
+Increase my visibility!
+{{else}}
+{{#if IsMultiPack}}
+{{#if HasMultiPack}}
+You have {{MultiPackCount}} Boost(s) left. Now loading you into the search listings...
+{{else}}
+You have used all Boosts. Now loading you into the search listings...
+{{/if}}
+{{else}}
+We are loading you into the search listing pages...
+{{/if}}
+{{/if}}
+{{/if}}
+{{/if}}
+{{#if Expired}}
+{{#if HasResults}}
+{{Current}} just saw you!
+{{/if}}
+{{#if IsProfileOn}}
+{{#if BillingPageRedemption}}
+BUY MORE
+{{else}}
+GO AGAIN
+{{/if}}
+{{else}}
+UNHIDE AND GO AGAIN
+{{/if}}
+{{#if LastTopSpotPurchaseIsMulti }}
+{{#if HasAnyTopSpot}}
+{{#if HasFreeTopSpot }}
+{{ UnclaimedTopSpotFree }} Free
+{{/if}}
+{{#if HasPaidTopSpot }}
+{{#if HasFreeTopSpot }}
+&
+{{/if}}
+{{ MultiPackCount }}
+Boost{{#if Plural}}s{{/if}} Left
+{{else}}
+Boost{{#if Plural}}s{{/if}} Left
+{{/if}}
+{{else}}
+0
+Boost{{#if Plural}}s{{/if}} Left
+{{/if}}
+{{else}}
+{{#if HasFreeTopSpot }}
+{{ UnclaimedTopSpotFree }} Boost{{#if Plural}}s{{/if}} Left
+{{/if}}
+{{/if}}
+{{else}}
+{{#if HasResults}}
+{{Current}} see you now!
+{{else}}
+{{/if}}
+{{/if}}
+previous next
+X
+Site Map
+About Match.com
+Discover the who's who and what's what of Match.com.
+Account Setting
+Manage the details of your Match.com account.
+Add/Edit Photos
+Add, edit or delete photos whenever you want.
+Auto Sign In
+Turn auto sign in ON/OFF.
+Blocking
+Block members from contacting you.
+Careers at Match.com
+Join the Match.com team and help spread the love.
+Contact Us
+Got a question? We have the answer.
+Daily Matches
+We search for matches, you do the choosing.
+Edit Profile
+Keep your profile fresh by making changes that are sure to get you noticed.
+Email History
+Review your recent messages with other members.
+Email Options
+Tell us which emails you wish to receive.
+Favorites
+Save the names and profiles of up to 100 of your favorite members.
+Happen Magazine
+Read our weekly online magazine devoted to enhancing your love life.
+Help
+Got a problem? Let us help.
+How It Works
+Discover how Match.com works and learn the benefits of membership.
+Linked Accounts
+Use your Match.com username with Windows Live™ ID.
+Love Poll
+Share your opinions in quick quizzes and sexy surveys.
+Match International
+Find romance in your native country/language.
+Match Media Room
+Read what they're writing about the pioneer of online dating.
+Match By Mail
+We'll deliver your matches directly to your inbox.
+matchMobile
+Search for matches, wink and send Match.com emails right from your mobile phone.
+matchPhone
+Talk or text on your phone anytime—while still keeping your personal number private
+Mutual Matches
+Find the members you're looking for—but only those who are looking for you..
+My Match
+Check your connections and get status updates for your favorite members.
+Online Safety Tips
+Get tips to date smarter, safer.
+Profile
+Keep your profile fresh by making changes that will get you more attention.
+ProfilePro
+Our professional writers will write your profile for you.
+Registration
+Register so you can connect with millions of available singles.
+Resignation
+Cancel your membership or subscription once you've found your special someone.
+Search
+Browse millions of profiles and photos based on any criteria you choose.
+Subscribe to send and receive emails.
+Subscription Status
+Check on your subscription status or update billing information.
+Success Stories
+Read real stories of other satisfied members.
+Terms of Use.
+Review the fine print in our Terms of Use.
+Username Search
+Find a member using only his or her username.
+Winks
+Break the ice—let other members know you're interested in them.
+Your Privacy
+Learn how we work to preserve your privacy.
+Quick Search
+I am a
+Man
+Man
+seeking
+Men
+Women
+between
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+and
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+years old
+located within
+miles
+of ZIP/Postal code
+Photos only
+Online now
+Custom Search »
+Community Sites
+Christian Dating
+Jewish Dating
+Atlanta Dating
+Austin Dating
+Baltimore Dating
+Boston Dating
+Bronx Dating
+Brooklyn Dating
+Chicago Dating
+Dallas Dating
+Denver Dating
+Houston Dating
+Indianapolis Dating
+Jacksonville Dating
+Las Vegas Dating
+Los Angeles Dating
+Miami Dating
+Minneapolis Dating
+New York Dating
+Orlando Dating
+Philadelphia Dating
+Phoenix Dating
+San Antonio Dating
+San Diego Dating
+San Francisco Dating
+Seattle Dating
+Washington Dating

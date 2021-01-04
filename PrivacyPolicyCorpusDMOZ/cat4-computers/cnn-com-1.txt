@@ -1,0 +1,151 @@
+http://cnn.com/2000/TECH/computing/01/14/email.privacy.idg/index.html
+MAIN PAGE
+WORLD
+U.S.
+LOCAL
+POLITICS
+WEATHER
+BUSINESS
+SPORTS
+TECHNOLOGY
+computing
+personal technology
+SPACE
+HEALTH
+ENTERTAINMENT
+BOOKS
+TRAVEL
+FOOD
+ARTS & STYLE
+NATURE
+IN-DEPTH
+ANALYSIS
+myCNN
+Headline News brief
+news quiz
+daily almanac
+MULTIMEDIA:
+video
+video archive
+audio
+multimedia showcase
+more services
+E-MAIL:
+Subscribe to one of our news e-mail lists.
+Enter your address:
+Or:Get a free e-mail account
+DISCUSSION:
+message boards
+chat
+feedback
+CNN WEB SITES:
+AsiaNow
+En Español
+Em Português
+Svenska
+Norge
+Danmark
+Italian
+FASTER ACCESS:
+europe
+japan
+TIME INC. SITES:
+Go To ...
+Time.com
+People
+Money
+Fortune
+EW
+CNN NETWORKS:
+more networks
+transcripts
+SITE INFO:
+help
+contents
+search
+ad info
+jobs
+WEB SERVICES:
+From...
+Read an e-mail, lose your privacy
+January 14, 2000
+Web posted at: 12:13 p.m. EST (1713 GMT)
+by Rich Morin
+(IDG) -- The headline shouted "E-Mail May Be Peril to Privacy" from the business section's front page in the San Francisco Chronicle. Reading the December 4 article by Associated Press writer Kalpana Srinivasan, I was happy to see the issue getting some attention but hardly surprised to hear about yet another privacy threat.
+David Brin, the author of The Transparent Society, writes that a lack of privacy is inevitable. Although I don't agree with everything he says, the odds look pretty good that Brin might be right about this.
+And while I hope Scott McNealy is using hyperbole when he says, "You have zero privacy now. Get over it" (the PC Week "Quote of the Week," Feb. 1, 1999), it's not at all clear that he is. Every time I'm asked to have my signature digitized for posterity during a credit card purchase (which I refuse, as a matter of principle), I am reminded of just how invasive our society has become.
+Hiding HTML links in email Enough generalized paranoia, however. Let's look at some specific threats.
+Most Web browsers hide the HTML portion of a link, showing only a highlighted word or two. Many e-mail clients, particularly those embedded in Web browsers, perform this service as well.
+MESSAGE BOARD
+Internet Society
+It is a useful feature, in most cases. After all, HTML code is both bulky and mysterious; most e-mail users have neither the expertise, time, nor motivation to analyze every incoming bit of HTML. Unfortunately, however, it can leave an unwary user open to privacy attacks.
+Let's say I get a piece of spam from a porn site, containing includes the following bit of HTML:
+<A HREF="http://www.smuttystuff.com">www.smuttystuff.com</A>
+No problem so far: www.smuttystuff.com is just a Website, so I should be pretty anonymous visiting it. All the site will get from my visit, in general, is an IP number or perhaps a domain name. The site can't use either of those to send me more spam or identify me as a visitor.
+Unfortunately, URLs can contain other items, including parameters that can be transmitted back to the site:
+<A HREF="http://www.smuttystuff.com?u=foo@bar.com">www.smuttystuff.com</A>
+If I take the bait and visit the site, my e-mail address, foo@bar.com, can be put on a hot list. Of course, the site managers had already obtained my address from an existing list, but they didn't know I would take the offered bait. Now they do.
+It gets worse. If I am using such a Web browser to handle my e-mail, even opening the email message may be enough to initiate a serious loss of privacy. Many Web browsers are capable of enhancing e-mail messages with all sorts of (possibly invisible) images, retrieving them when a message is opened from any specified URL. The spammer is free to include an IMG tag that includes my email address in a parameter, as follows:
+<IMG SRC="http://www.smuttystuff.com/x.jpg?u=foo@bar.com">
+Wanna cookie? The spammer now knows that I opened his message, but even that's not the worst part. The Website can also return a cookie to my browser containing my (possibly disguised) e-mail address. This means that any future visit I make to his site (or other, cooperating sites) can be recorded and indexed to my email address.
+In short, my privacy will have been severely compromised by my e-mail software, without my knowledge or permission. For more information on this specific kind of attack, see the Electronic Frontier Foundation's press release or the technical report by security expert Richard M. Smith (links below). Variations These sorts of attacks can take many forms. For instance, it is quite possible to eliminate the need for a parameter altogether. Let's say the image request looks like this:
+<IMG SRC="http://www.smuttystuff.com/blonds/susie_q.jpg">
+That seems pretty innocent, from a privacy perspective, but it might not be. In one possible scenario, the spammer could generate a unique URL for each outgoing email message, joining random names (susie, tammy, ...) with random letters (q, r, and so on). As each piece of email is sent, the spammer saves the outgoing email address in a database, keyed by the unique portion (susie_q) of the URL.
+When the image request is received, a hidden CGI script (http://www.smuttystuff.com/blonds) can record the request in the database, send me an identifying cookie, and so on. In short, any image request could be tagged.
+Finally, if I am foolish enough to click on an unknown URL, the spammer doesn't need parameters or even "hidden" HTML:
+http://www.smuttystuff.com/blonds/susie_q.html
+The same logic applies: because the spammer knows whom he told about susie_q, he knows who is asking to see the Web page. Welcome to spamland, sucker.
+MORE COMPUTING INTELLIGENCE
+IDG.net home page
+SunWorld home page
+IDG.net's server hardware page
+IDG.net's workstation page
+Previous Rich Morin columns in SunWorld
+Reviews & in-depth info at IDG.net
+E-BusinessWorld
+Year 2000 World
+Questions about computers? Let IDG.net's editors help you
+Subscribe to IDG.net free daily newsletter for system admins
+Search IDG.net in 12 languages
+News Radio
+Fusion audio primers
+Computerworld Minute
+Conclusions One moral of this story, like that of Ken Thompson's classic paper, "Reflections on Trusting Trust" (link below), is that Trojan horses can come in many guises, and one should not trust a stranger's offerings, even if they contain no visible threats.
+Another moral is that convenient "features," made possible by aggregating pieces of software (in this case, e-mail and Web clients), can lead to unexpected security holes. Microsoft is the most obvious perpetrator here, but Netscape and others have contributed to the situation.
+In an environment where random miscreants can send e-mail to unsuspecting victims, keeping a few barriers in place seems only prudent. The spate of e-mailed "macro viruses" provides a clear example of the reasons.
+Putting macros -- interpretable code -- into word processors and other programs is clearly a powerful and useful idea. Having e-mail software start up a copy of the word processor, so you can read formatted mail, is also quite convenient. Unfortunately, the combination means that ill-wishers can run macros on a victim's machine merely by sending e-mail.
+I don't have any global solutions to offer, but I can offer some advice: Don't use Web browsers or highly integrated systems, such as Microsoft Outlook, as e-mail clients; they're far too accommodating to spammers.
+If you must use unsafe e-mail software, try to use it in a conservative manner. Turn off any automated features, such as automated program invocation, that might allow others to take over your machine. Until the vendors add some real security, the risks far outweigh any possible convenience.
+Editor's note: The domain name Smuttystuff.com was not registered at the time this article was published. Any similarity to an existing domain name or Website is purely coincidental.
+RELATED STORIES:
+Massachusetts to monitor employees' Net useJanuary 13, 2000
+NSI makes free e-mail security blunderSeptember 20, 1999
+RELATED IDG.net STORIES:
+Anti-spam organizations petition against DMA plan(InfoWorld.com)
+McNealy advocates increased surveillance(IDG.net)
+The perils of privacy(Network World Fusion)
+Privacy groups ask FTC to close e-mail loophole(IDG.net)
+Online bookseller caught snooping(IDG.net)
+Can Uncle Sam protect your privacy?(PC World Online)
+Online profiling worries privacy advocates(Computerworld),
+Real Networks apologizes for invading user privacy(IDG.net)
+Note: Pages will open in a new browser window
+External sites are not endorsed by CNN Interactive.
+RELATED SITES:
+The Transparent Society, David Brin (Perseus Books, 1999)
+Prepublication version of Chapter 1, The Transparent Society
+"The Cookie Leak Security Hole in HTML Email Messages," Richard M. Smith
+Electronic Frontier Foundation press release
+"Reflections on Trusting Trust," Ken Thompson (Communication of the ACM, August 1984)
+Note: Pages will open in a new browser window
+External sites are not endorsed by CNN Interactive.
+LATEST HEADLINES:
+SEARCH
+CNN.com
+Enter
+keyword(s)
+go
+help
+Back to the top
+© 2001 Cable News Network. All Rights Reserved. Terms under which this service is provided to you.
+Read our privacy guidelines.

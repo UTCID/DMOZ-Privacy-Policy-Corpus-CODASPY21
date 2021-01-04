@@ -1,0 +1,216 @@
+https://www.thoughtco.com/record-helpers-for-sets-1058204
+Share
+Flipboard
+Email
+Print
+Computer Science
+Delphi Programming
+Delphi Tutorials
+Database Applications
+Advanced
+PHP Programming
+Perl
+Python
+Java Programming
+Javascript Programming
+C & C++ Programming
+Ruby Programming
+Visual Basic
+View More
+By
+Zarko Gajic
+Computer Science Expert
+MSCS, Computer Science, University of Osijek
+Zarko Gajic is experienced in SQL and has working knowledge of DB systems such as MS SQL Server, Firebird, Interbase, and Oracle. He is also proficient in XML, DHTML, and JavaScript.
+our editorial process
+Twitter
+Twitter
+Zarko Gajic
+Updated January 13, 2018
+Understanding Delphi Class (and Record) Helpers introduces a feature of the Delphi language allowing you to extend the definition of a class or a record type by adding functions and procedures (methods) to existing classes and records without inheritance.
+In XE3 Delphi version, record helpers became more powerful by allowing to extend simple Delphi types like strings, integers, enums, sets and alike.
+The System.SysUtils unit, from Delphi XE3, implements a record named "TStringHelper" which is actually a record helper for strings.
+Using Delphi XE3 you can compile and use the next code:
+var
+s : string;
+begin
+s := 'Delphi XE3';
+s.Replace('XE3', 'rules', []).ToUpper;
+end;
+For this to be possible, a new construct was made in Delphi "record helper for [simple type]". For strings, this is "type TStringHelper = record helper for string". The name states "record helper" but this is not about extending records - rather about extending simple types like strings, integers and alike.
+In System and System.SysUtils there are other predefined record helpers for simple types, including: TSingleHelper, TDoubleHelper, TExtendedHelper, TGuidHelper (and a few others). You can get from the name what simple type the helper extends.
+There are also some handy open source helpers, like TDateTimeHelper.
+Enumerations? Helper for Enumerations?
+Enumerations and sets being treated as simple types can also now (in XE3 and beyond) be extended with functionality a record type can have: functions, procedures and alike.
+Here's a simple enumeration ("TDay") and a record helper:
+type
+TDay = (Monday = 0, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday);
+TDayHelper = record helper for TDay
+function AsByte : byte;
+function ToString : string;
+end;
+function TDayHelper.AsByte: byte;
+begin
+result := Byte(self);
+end;
+function TDayHelper.ToString: string;
+begin
+case self of
+Monday: result := 'Monday';
+Tuesday: result := 'Tuesday';
+Wednesday: result := 'Wednesday';
+Thursday: result := 'Thursday';
+Friday: result := 'Friday';
+Saturday: result := 'Saturday';
+Sunday: result := 'Sunday';
+end;
+end;
+var
+aDay : TDay;
+s : string;
+begin
+aDay := TDay.Monday;
+s := aDay.ToString.ToLower;
+end;
+Sets? Helper for Sets?
+TDays = set of TDay;
+var
+days : TDays;
+s : string;
+begin
+days := [Monday .. Wednesday];
+days := days + [Sunday];
+end;
+BUT, how GREAT would it be to be able to do:
+var
+days : TDays;
+b : boolean;
+begin
+days := [Monday, Tuesday]
+b := days.Intersect([Monday, Thursday]).IsEmpty;
+type
+TDaysHelper = record helper for TDays
+function Intersect(const days : TDays) : TDays;
+function IsEmpty : boolean;
+end;
+...
+function TDaysHelper.Intersect(const days: TDays): TDays;
+begin
+result := self * days;
+end;
+function TDaysHelper.IsEmpty: boolean;
+begin
+result := self = [];
+end;
+For every set type constructed around an enumeration you would need to have a separate helper as, unfortunately, enumerations and sets do not go along generics and generic types.
+This means that the following cannot be compiled:
+//NO COMPILE OF ALIKE!
+TGenericSet = set of <T : [?Enumeration?]>;
+Record Helper For Set Of Byte!
+type
+TByteSet = set of Byte;
+TByteSetHelper = record helper for TByteSet
+We can have the following in the definition of the TByteSetHelper:
+public
+procedure Clear;
+procedure Include(const value : Byte); overload; inline;
+procedure Include(const values : TByteSet); overload; inline;
+procedure Exclude(const value : Byte); overload; inline;
+procedure Exclude(const values : TByteSet); overload; inline;
+function Intersect(const values : TByteSet) : TByteSet; inline;
+function IsEmpty : boolean; inline;
+function Includes(const value : Byte) : boolean; overload; inline;
+function Includes(const values : TByteSet) : boolean; overload; inline;
+function IsSuperSet(const values : TByteSet) : boolean; inline;
+function IsSubSet(const values : TByteSet) : boolean; inline;
+function Equals(const values : TByteSet) : boolean; inline;
+function ToString : string; inline;
+end;
+{ TByteSetHelper }
+procedure TByteSetHelper.Include(const value: Byte);
+begin
+System.Include(self, value);
+end;
+procedure TByteSetHelper.Exclude(const value: Byte);
+begin
+System.Exclude(self, value);
+end;
+procedure TByteSetHelper.Clear;
+begin
+self := [];
+end;
+function TByteSetHelper.Equals(const values: TByteSet): boolean;
+begin
+result := self = values;
+end;
+procedure TByteSetHelper.Exclude(const values: TByteSet);
+begin
+self := self - values;
+end;
+procedure TByteSetHelper.Include(const values: TByteSet);
+begin
+self := self + values;
+end;
+function TByteSetHelper.Includes(const values: TByteSet): boolean;
+begin
+result := IsSuperSet(values);
+end;
+function TByteSetHelper.Intersect(const values: TByteSet) : TByteSet;
+begin
+result := self * values;
+end;
+function TByteSetHelper.Includes(const value: Byte): boolean;
+begin
+result := value in self;
+end;
+function TByteSetHelper.IsEmpty: boolean;
+begin
+result := self = [];
+end;
+function TByteSetHelper.IsSubSet(const values: TByteSet): boolean;
+begin
+result := self <= values;
+end;
+function TByteSetHelper.IsSuperSet(const values: TByteSet): boolean;
+begin
+result := self >= values;
+end;
+function TByteSetHelper.ToString: string;
+var
+b : Byte;
+begin
+for b in self do
+result := result + IntToStr(b) + ', ';
+result := Copy(result, 1, -2 + Length(result));
+end;
+var
+daysAsByteSet : TByteSet;
+begin
+daysAsByteSet.Clear;
+daysAsByteSet.Include(Monday.AsByte);
+daysAsByteSet.Include(Integer(Saturday);
+daysAsByteSet.Include(Byte(TDay.Tuesday));
+daysAsByteSet.Include(Integer(TDay.Wednesday));
+daysAsByteSet.Include(Integer(TDay.Wednesday)); //2nd time - no sense
+daysAsByteSet.Exclude(TDay.Tuesday.AsByte);
+ShowMessage(daysAsByteSet.ToString);
+ShowMessage(BoolToStr(daysAsByteSet.IsSuperSet([Monday.AsByte,Saturday.AsByte]), true));
+end;
+There's a but :(
+Note that TByteSet accepts byte values - and any such value would be accepted here. The TByteSetHelper as implemented above is not enumeration type strict (i.e. you can feed it with a non TDay value) ... but as long as I am aware .. it does work for me.
+Understanding Delphi Class (and Record) Helpers
+Using a Function or a Procedure as a Parameter in Another Function
+Ordinal and Enumerated Data Types for Delphi
+How to Return Multiple Values From a Delphi Function
+Understanding and Using Record Data Types in Delphi
+How to Send Information (String, Image, Record) Between Two Applications
+Synchronizing Threads and GUI in a Delphi Application
+String Handling Routines: Delphi Programming
+Delphi Method Overloading and Default Parameters
+Understanding and Using Functions and Procedures
+Create a Delphi Form From a String
+How to Implement the OnCreate Event for a Delphi TFrame Object
+Create a Database Using Delphi's File Of Typed Files
+Pos Function
+Determine Your IP with Delphi
+Date/Time Routines - Delphi Programming

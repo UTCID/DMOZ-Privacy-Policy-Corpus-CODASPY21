@@ -1,0 +1,52 @@
+http://www.emeraldinsight.com/insight/content/doi/10.1108/LHT-11-2018-0166/full/pdf?title=social-network-analysis-of-law-information-privacy-protection-of-cybersecurity-based-on-rough-set-theory
+Abstract
+Purpose
+The purpose of this paper is to solve the problem of information privacy and security of social users. Mobile internet and social network are more and more deeply integrated into people’s daily life, especially under the interaction of the fierce development momentum of the Internet of Things and diversified personalized services, more and more private information of social users is exposed to the network environment actively or unintentionally. In addition, a large amount of social network data not only brings more benefits to network application providers, but also provides motivation for malicious attackers. Therefore, under the social network environment, the research on the privacy protection of user information has great theoretical and practical significance.
+Design/methodology/approach
+In this study, based on the social network analysis, combined with the attribute reduction idea of rough set theory, the generalized reduction concept based on multi-level rough set from the perspectives of positive region, information entropy and knowledge granularity of rough set theory were proposed. Furthermore, it was traversed on the basis of the hierarchical compatible granularity space of the original information system and the corresponding attribute values are coarsened. The selected test data sets were tested, and the experimental results were analyzed.
+Findings
+The results showed that the algorithm can guarantee the anonymity requirement of data publishing and improve the effect of classification modeling on anonymous data in social network environment.
+Research limitations/implications
+In the test and verification of privacy protection algorithm and privacy protection scheme, the efficiency of algorithm and scheme needs to be tested on a larger data scale. However, the data in this study are not enough. In the following research, more data will be used for testing and verification.
+Practical implications
+In the context of social network, the hierarchical structure of data is introduced into rough set theory as domain knowledge by referring to human granulation cognitive mechanism, and rough set modeling for complex hierarchical data is studied for hierarchical data of decision table. The theoretical research results are applied to hierarchical decision rule mining and k-anonymous privacy protection data mining research, which enriches the connotation of rough set theory and has important theoretical and practical significance for further promoting the application of this theory. In addition, combined the theory of secure multi-party computing and the theory of attribute reduction in rough set, a privacy protection feature selection algorithm for multi-source decision table is proposed, which solves the privacy protection problem of feature selection in distributed environment. It provides a set of effective rough set feature selection method for privacy protection classification mining in distributed environment, which has practical application value for promoting the development of privacy protection data mining.
+Originality/value
+In this study, the proposed algorithm and scheme can effectively protect the privacy of social network data, ensure the availability of social network graph structure and realize the need of both protection and sharing of user attributes and relational data.
+Keywords
+Equal opportunities
+Data
+Government
+Data storage
+Document management
+Conversion
+Citation
+Li, Y. and Hu, X. (2019), "Social network analysis of law information privacy protection of cybersecurity based on rough set theory", Library Hi Tech, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/LHT-11-2018-0166
+Download as .RIS
+Publisher:
+Emerald Publishing Limited
+Copyright © 2019, Emerald Publishing Limited
+Please note you do not have access to teaching notes
+You may be able to access teaching notes by logging in via Shibboleth, Open Athens or with your Emerald account.
+Login
+If you think you should have access to this content, click the button to contact our support team.
+Contact us
+To read the full version of this content please select one of the options below
+You may be able to access this content by logging in via Shibboleth, Open Athens or with your Emerald account.
+Login
+If you think you should have access to this content, click the button to contact our support team.
+Contact us
+×
+Support & Feedback
+Manage cookies
+We’re listening — tell us what you think
+Something didn’t work…
+Report bugs here
+All feedback is valuable
+Please share your general feedback
+Member of Emerald Engage?
+You can join in the discussion by joining the community or logging in here.You can also find out more about Emerald Engage.
+Join us on our journey
+Platform update page
+Visit emeraldpublishing.com/platformupdate to discover the latest news and updates
+Questions & More Information
+Answers to the most commonly asked questions here

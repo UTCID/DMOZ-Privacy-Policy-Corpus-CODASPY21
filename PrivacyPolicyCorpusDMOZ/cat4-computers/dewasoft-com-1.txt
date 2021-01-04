@@ -1,0 +1,43 @@
+http://dewasoft.com/privacy/file-ext-security.htm
+The Hidden Danger of Hidden File Extensions
+By Yohanes Aristianto
+- Why your computer is infected with spyware, adware, malware, virus, trojans, worms, keyloggers, dialers, and so on...
+- Unwanted pop-ups, slow-loading web pages, degrading performance...
+- Or worse: stolen passwords, credit card numbers, emails, private documents, etc.
+There are two main sources of spyware and virus:
+1. Malicious [components of] web pages
+2. YOU executed the virus on your Windows system
+Microsoft's ActiveX technology and browser flaws have made it easy for virus and spyware makers to install their malicious software into your computer. You open some web pages, accept a security warning, and then... you are in big trouble. To prevent this from happening, the easiest way is to use another browser (Internet Explorer has a large user base, so there are many exploits for IE). Use an alternative web browser like Opera or Firefox:
+In this short tutorial I will focus on the second source of spyware, virus, and other nasty threats:
+Without Knowing It, You May Execute a Malicious Software on Your Computer
+Yes it is true. The spyware is installed in your computer because YOU installed it.
+Of course you won't be that stupid to open any of these files:
+You recognize their ICONS:
+You know they are applications, they are computer programs, they may harm your computer.
+And how about these? Would you try to open them?
+Just double-click. Are you not curious? It costs nothing to try!
+You also recognize their ICONS:
+You know they are a ZIP file, a folder, and a text file.
+You think it is safe to open them. (a folder is never a virus)
+But... have you ever thought... that the above files might be some viruses in disguise?
+It is possible to disguise a computer program as a "folder" simply by changing the program's icon. A programmer can use any icon for his program. This means he can choose a Windows folder icon (or text file icon, ZIP file icon, etc.) for his program. Once executed, this seemingly harmless program can do anything: it can record your keystrokes, log your activities, display random pop-up windows, slow down your computer, and so on.
+Why did you open these malicious programs in the first place? Simply because they have some interesting names and you recognized their icons; you thought it's safe to open them. The case would be different if this is what you see:
+Most likely you will notice the .exe file extension.
+You know .exe is the file extension for applications.
+Unknown applications are dangerous; you won't open them.
+What is a "file extension"?
+It is the one or several characters at the end of a filename. For example, if you have a file MY LETTER.TXT, the file extension is TXT, and it indicates the file can be opened with Notepad. Of course you have
+heard of MP3, JPG, ZIP, MPEG, EXE, ... They are all file extensions.
+Common file extensions for applications are EXE, COM, and BAT.
+You should not open files with suspicious extensions.
+The Solution: Show File Extensions
+File extensions are hidden by default, so you have to unhide the file extensions.
+Open Windows Explorer, click Tools — Folder Options...
+In the Folder Options windows, click the "View" tab and unmark the option "Hide extensions for known file types". Click OK.
+You are done!
+Now you can see the file extensions and won't be vulnerable to the cheap trick explained above.
+Other ways to keep your computer safe, or specifically, to protect your privacy:
+- KL-Detector: my free key logger detector
+- I Hate Keyloggers: my commercial anti-keylogger (please buy it to support me)
+DewaSoft home page: http://www.dewasoft.com/
+Site privacy policy

@@ -1,0 +1,191 @@
+http://www.flowmaster.com/terms_conditions/privacy
+Electronic Design Automation
+High-Level Synthesis
+RTL Low-Power Opt & Analysis
+Functional Verification
+Tanner AMS IC Design Flow
+Tanner MEMS Design Flow
+Photonic Design
+IC Design
+IC Manufacturing
+IC Test
+Intellectual Property
+FPGA
+Systems
+Electrical Systems, Networks & Harnesses
+System Modeling & Design Management
+PCB & IC Package Design
+PCB Manufacturing, Assembly & Test
+CAE Simulation & Test
+CAD-Embedded CFD
+Electronics Cooling CFD
+Low-Frequency Electromagnetics & Motors
+Semiconductor Device Thermal Testing
+1D CFD
+Automotive
+Connectivity
+Electrification
+Autonomous
+Architecture
+Embedded
+Products
+IoT Solutions
+Toolchain Services
+Runtime Services
+Industries
+Home
+Products
+Mechanical Analysis
+FloMASTER
+FloMASTER
+Mechanical Analysis
+Simcenter Flotherm
+FloTHERM
+FloTHERM XT
+FloTHERM PCB
+FloTHERM PACK
+FloTHERM Flexx
+Simcenter FLOEFD
+FloEFD Creo
+FloEFD CATIA V5
+FloEFD NX
+FloEFD Flexx
+FloEFD Standalone
+FloEFD Solid Edge
+FloMASTER
+FloMASTER
+1D-3D CFD
+MagNet
+MagNet
+ElecNet
+ThermNet
+OptiNet
+MotorSolve
+BLDC Module
+IM Module
+SRM Module
+DCM Module
+Thermal Module
+MicReD
+T3Ster
+TeraLED
+DynTIM
+Power Tester 1500A
+CADRA
+CADRA for Home Use
+Consulting Services
+Industry Solutions
+Aerospace and Defense
+Automotive and Transportation
+Electronics
+Computing & Storage
+Datacenters
+Lighting/LED
+Mobile and Consumer
+Power Electronics
+Semiconductors
+Telecoms and Networks
+Plant & Process
+Chemical
+Medical
+Metals and Mining
+Water
+Power & Energy
+Oil and Gas
+Power Generation
+Other Industries
+General Manufacturing
+HVAC and Buildings
+Marine and Shipbuilding
+Water Distribution
+Resource Center
+Downloads & Evaluations
+White Papers
+Videos
+Success Stories
+Training
+Events & Webinars
+News
+Engineering Edge
+Volume 7, Issue 1
+Volume 6, Issue 2
+Volume 6, Issue 1
+Volume 5, Issue 2
+Volume 5, Issue 1
+Volume 4, Issue 2
+Volume 4, Issue 1
+Volume 3, Issue 2
+Volume 3, Issue 1
+Volume 2, Issue 3
+Volume 2, Issue 2
+Volume 2, Issue 1
+Volume 1, Issue 1
+Blogs
+Where to Buy
+All Products
+About Mechanical
+Awards and Publications
+Partners
+Research and Education Programs
+History
+Contact Mechanical
+Email Us
+Chat Online
+Chat OnlineNo agents are available
+1-800-547-3000
+Direct: (503) 685-8000
+Follow MAD
+Resources
+Where to Buy
+How-To
+FloMASTER Products
+FloMASTER
+Fluid thinking for systems engineers
+FloMASTER Cloud-Based Trial
+Virtual Lab
+Overview
+Industries
+Application Examples
+Options and Modules
+Overview
+FloMASTER, formerly known as Flowmaster, is the leading general purpose 1D computational fluid dynamics (CFD) solution for the modeling and analysis of fluid mechanics in complex piping systems of any scale.
+Companies can maximize their return on investment by integrating FloMASTER at every stage of the development process, taking advantage of the data management and collaborative capabilities of this analytical tool. It is used by companies across a wide range of industries to reduce the development time and costs of their thermo-fluid systems. It helps systems engineers to:
+Simulate pressure surge, temperature and fluid flow rates system-wide
+Understand how design alterations, component size, selection and operating conditions will affect the overall fluid system performance accurately and quickly.
+Get Your Copy Today
+Internal Flow Systems, by D.S. Miller, 3rd Edition
+Essential reading for practitioners, researchers, lecturers and students of any thermo-fluid system for automotive, offshore, civil, process, manufacturing, power and water engineering applications. Learn more
+“Our team will utilize FloMASTER to analyze a full simulation on our Hardware In the Loop (HIL). This innovative tool will also be used for our vehicle’s complex thermal management system to optimize our vehicle’s efficiency. The use of this tool and its convenience will allow our team to spend less time on these tasks and more time on other complex facets of our vehicle.”
+Embry-Riddle EcoCAR 3 Team
+“When modelling multi arm junctions such as automotive thermostats and pump housings, characterizing individual flow paths as parallel and independent losses can give rise to 15 to 20% error in predicting mass flow rates through an outlet. This error is eradicated by considering the effect of changes in branch pressure drops with changing flow rates in the other branches. Using FloEFD to perform full spectrum 3D CFD characterization of the housing and integrating inter-dependent flow channel interactions into a FloMASTER N-Arm component improves simulation accuracy, confidence and trust reducing physical testing times and ultimate time to market.”
+Sudhi Uppuluri, Principal Investigator, Computational Sciences Experts Group
+“The use of FloMASTER within ZF Wind Power has resulted in an efficiency way of developing oil distribution networks for wind turbine gearboxes.””
+Jo Loenders, Design Engineer, ZF Wind Power
+Powerful Transient Solver
+Versatile steady state and transient simulation of incompressible and compressible systems with heat transfer analysis
+Pressure surge analysis, temperature and fluid flowrate prediction
+Extensive catalog of customizable component models with built-in empirical data
+Open, Extendable Architecture
+Create bespoke component models
+Create scripts for controlling components or networks
+Open API structure allows integration into user product development process including in-house codes, CAE, manufacturing and optimization tools
+Functional Mock-up Interface (FMI) support for model export and co-simulation allows FloMASTER models to be shared across other CAE tools during the design process through an independent standard for model exchange.
+Export the hydrodynamic forces generated by a transient event as a time history to leading pipe stress analysis tools such as SST CAEPIPE and Integraph® CAESAR II®.
+Secure Traceable Data
+Secure storage of networks, performance data, components and results in an industry standard relational database
+Audit trail & tracking of model design history with ‘roll back’ functionality
+Administration controls for user access permissions to project data
+Database synchronization to enable engineers to work safely onsite, offline from the server
+Design Optimization Capability
+The ‘Experiments’ feature in FloMASTER provides users with the ability to conduct superior ‘what-if’ analyses for 1D thermo-fluid analysis.
+Using a Latin Square algorithm, FloMASTER helps users generate unique combinations of distributed input values between specific bounds. This ability creates an ideal foundation for the creation of meta-models and response surfaces that characterize a FloMASTER system response
+Monte Carlo simulations can be performed to produce simulation results based on a probability distribution generated from a mean and standard deviation for selected input parameters. This allows the effect of small variations in input values to be examined and enables FloMASTER to be used in risk analysis and quality control environments such as Design for Six Sigma (DFSS)
+1D-3D Design and Simulation
+Using CAD2FM, engineers can automatically generation system level models in FloMASTER from 3D geometry in tools such as NX, Solid Edge, CATIA, Creo, and Solidworks, reducing the network creation time by up to 95%.
+Simulation Based Characterization (SBC) allows unique or novel component level designs to be characterized thermally or with respect to pressure drop using 3D CFD in FloEFD.  This characterization can then be used inside FloMASTER for more accurate analysis of the overall system behavior.
+OneSim is a tightly coupled co-simulation workflow that enables a 3D CFD model in FloEFD to be considered as part of a 1D CFD FloMASTER network.  Such a workflow enables the accuracy of a 3D CFD simulation to be applied to parts that would otherwise be overly simplified when represented as system level components.
+This site uses cookies to improve your user experience and to provide you with content we believe will be of interest to you. Detailed information on the use of cookies on this website is provided in our Privacy Policy. By using this website, you consent to the use of our cookies.
+Ok, don't show me this again
+Chat
+|
+Contact

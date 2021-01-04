@@ -1,0 +1,469 @@
+https://www.appgate.com/legal/cookie-policy
+Blog
+Resources
+Support
+Contact Us
+Secure Access
+To Your Network
+Solving today's network access challenges with Zero Trust security
+Remote Access & VPN Replacement
+Third-Party Access
+Unified Cloud & On-Prem Access
+Secure DevOps Access
+Zero Trust Access
+Federal Organizations
+For Your Consumers
+Providing consumers with seamless access while reducing risk
+Consumer Protection
+Fraud Protection
+Phishing Protection
+Risk Orchestration
+Mobile Protection
+Products & Services
+Software-Defined Perimeter
+Overview
+How it Works
+Implement and Deploy
+Demo SDP
+For Developers
+Support
+Risk-Based Authentication
+Overview
+Strong Authentication
+Transaction Monitoring
+Digital Threat Protection
+Overview
+DTP Features
+Offensive Services
+About Appgate
+About Appgate
+Leadership
+Partners
+Careers
+News & Press
+Blog
+Resources
+Support
+Contact Us
+Search
+Hamburger
+Secure Access
+Back
+Secure Access
+To Your Network
+Back
+To Your Network
+Overview
+Remote Access & VPN Replacement
+Third-Party Access
+Unified Cloud & On-Prem Access
+Secure DevOps Access
+Zero Trust Access
+Federal Organizations
+For Your Consumers
+Back
+For Your Consumers
+Overview
+Consumer Protection
+Fraud Protection
+Phishing Protection
+Risk Orchestration
+Products & Services
+Back
+Products & Services
+Software-Defined Perimeter
+Back
+Software-Defined Perimeter
+Overview
+How it Works
+Implement and Deploy
+Demo SDP
+For Developers
+Risk-Based Authentication
+Back
+Risk-Based Authentication
+Overview
+Strong Authentication
+Transaction Monitoring
+Digital Threat Protection
+Back
+Digital Threat Protection
+Overview
+DTP Features
+Offensive Services
+About Appgate
+Back
+About Appgate
+Overview
+Partners
+Leadership
+Careers
+News & Press
+Legal
+Cookie Policy
+Appgate Cookie Policy
+1. What Are Cookies and Why Does Appgate Use Them?
+Cookies are small text files that help your web browser navigate through a particular website and that are stored on your device when you visit a website. Cyxtera Cybersecurity, Inc. d/b/a AppGate uses cookies and similar technologies to facilitate your use of all of the websites maintained by us that display a link to this AppGate Cookie Policy in order to customize your browsing experience, to track your movements within our Websites, and to analyze usage trends and patterns. Our Websites use “first party cookies” (i.e., cookies served by us) and/or “third party cookies” (i.e., cookies served by third-parties that we work with). Please note that the processing of any information collected from you in connection with cookies used by our Websites is governed by our Privacy Policy.
+2. Types of Cookies Used by Appgate.
+The types of cookies which may be used by AppGate from time to time are detailed below:
+Strictly Necessary Cookies. These cookies are necessary for our Websites to function and cannot be switched off without impairing the functioning of our Websites. They are set to respond to actions taken by you to make a request for services, such as setting your privacy preferences or filling in forms. You can set your browser to block or alert you about these cookies, but if you do so, some parts of our Websites will not work. Strictly Necessary Cookies are collected by all of our Websites except for: https://testdrive.appgate-sdp.com, www.compliancesheriff.com, www.infiltratecon.com and www.immunitysec.com. The cookies include the following:
+Cookie Name
+Description/Purpose
+First or Third Party
+Duration of Cookie
+Website
+ASP.NET_SessionId
+General purpose platform session cookie, used by sites written with Microsoft.NET based technologies. Usually used to maintain an anonymised user session by the server.
+First party
+Session cookie
+www.cynthiasays.com
+visid_incap_2152593
+Incapsula DDoS Protection and Web Application Firewall: The cookie on which sessions are related to a specific visitor (visitor representing a specific computer) in order to identify clients which have already visited Incapsula.
+First party
+1 year
+www.brainspace.com
+incap_ses_1183_2152593
+Incapsula DDoS Protection and Web Application Firewall: The cookie on which HTTP requests are related to a certain session (AKA visit). Re-opening the browser and accessing same site is supposed to be considered different visits.
+First party
+Session
+www.brainspace.com
+visid_incap_2216666
+Incapsula DDoS Protection and Web Application Firewall: The cookie on which sessions are related to a specific visitor (visitor representing a specific computer) in order to identify clients which have already visited Incapsula.
+First party
+1 year
+www.appgate.com
+nlbi_2216666
+Incapsula DDoS Protection and Web Application Firewall: It’s a load balancing cookie which ensure requests by a client are sent to the same origin server.
+First party
+Session
+www.appgate.com
+incap_ses_1183_2216666
+Incapsula DDoS Protection and Web Application Firewall: The cookie on which HTTP requests are related to a certain session (AKA visit). Re-opening the browser and accessing same site is supposed to be considered different visits.
+First party
+Session
+www.appgate.com
+gtm_id
+The purpose of this cookie is to obtain statistical data related to the user’s website visits to assist in the Intercom livechat module.
+Third party
+A few seconds
+www.appgate.com
+Performance Cookies. These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our Websites. They help us to know which pages are the most and least popular and see how visitors move around the Websites. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our Websites and will not be able to monitor its/their performance during your visit. Performance Cookies are collected by all of our Websites except for: www.immunitysec.com. The cookies include the following:Cookie Name
+Description/Purpose
+First or Third Party
+Duration of Cookie
+Website
+_gat_UA-151196869-1
+This is a pattern type cookie set by Google Analytics, where the pattern element on the name contains the unique identity number of the account or website it relates to. It appears to be a variation of the _gat cookie which is used to limit the amount of data recorded by Google on high traffic volume websites.
+First party
+A few seconds
+www.infiltratecon.com
+_gid
+Cookie placed by Google Analytics to register a unique ID that is used to generate statistical data on how the visitor uses the website.
+First party
+1 day
+https://testdrive.appgate-sdp.com, www.infiltratecon.com, www.brainspace.com, www.compliancesheriff.com, and www.appgate.com
+_ga
+This cookie name is associated with Google Universal Analytics - which is a significant update to Google's more commonly used analytics service. This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the site analytics reports.
+First party
+2 years
+https://testdrive.appgate-sdp.com, www.infiltratecon.com, www.brainspace.com, www.compliancesheriff.com, and www.appgate.com
+_gat_UA-48420415-1
+This is a pattern type cookie set by Google Analytics, where the pattern element on the name contains the unique identity number of the account or website it relates to. It appears to be a variation of the _gat cookie which is used to limit the amount of data recorded by Google on high traffic volume websites.
+First party
+A few seconds
+www.brainspace.com
+intercom-id-63982d58ffa65dff581108e175da192af9fb498a
+An anonymous visitor identifier cookie applied upon visiting the site
+First party
+9 months
+www.brainspace.com, www.compliancesheriff.com and www.appgate.com
+intercom-session-63982d58ffa65dff581108e175da192af9fb498a
+Identifier for each unique browser session. This session cookie is refreshed on each successful logged-in ping, extending it to 1 week from that moment. The user can access their conversations and have data communicated on logged out pages for 1 week, as long as the session isn't intentionally terminated with 'Intercom('shutdown'); which usually happens on logout.
+First party
+7 days
+www.brainspace.com, www.compliancesheriff.com and www.appgate.com
+_gat_UA-109696071-1
+This is a pattern type cookie set by Google Analytics, where the pattern element on the name contains the unique identity number of the account or website it relates to. It appears to be a variation of the _gat cookie which is used to limit the amount of data recorded by Google on high traffic volume websites.
+First party
+A few seconds
+www.compliancesheriff.com
+__CSRFCOOKIE
+Security Cookie to prevent counterfeits. CSRF stands for cross-site request forgery
+First party
+Session
+www.cynthiasays.com
+_gat_UA-154308004-1
+This is a pattern type cookie set by Google Analytics, where the pattern element on the name contains the unique identity number of the account or website it relates to. It appears to be a variation of the _gat cookie which is used to limit the amount of data recorded by Google on high traffic volume websites.
+First party
+A few seconds
+www.appgate.com
+_gat_UA-154308004-2
+This is a pattern type cookie set by Google Analytics, where the pattern element on the name contains the unique identity number of the account or website it relates to. It appears to be a variation of the _gat cookie which is used to limit the amount of data recorded by Google on high traffic volume websites.
+First party
+Session
+https://testdrive.appgate-sdp.com
+trackalyzer
+Trackalyzer is a cookie used by LeadLander, a third-party provider that helps AppGate monitor site traffic and use. This process includes the collection of IP addresses and search-related data in order to evaluate visits to, and monitor use of, the site.
+Third party
+1 year
+www.brainspace.com, www.compliancesheriff.com, www.cynthiasays.com and www.appgate.com
+visitor_id436732-hash
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes.
+Third party
+2 years
+www.brainspace.com, www.compliancesheriff.com, www.cynthiasays.com and www.appgate.com
+_ga
+This cookie name is associated with Google Universal Analytics - which is a significant update to Google's more commonly used analytics service. This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the site analytics reports.
+Third party
+2 years
+www.brainspace.com, www.compliancesheriff.com, www.cynthiasays.com and www.appgate.com
+_gid
+Cookie placed by Google Analytics to register a unique ID that is used to generate statistical data on how the visitor uses the website.
+Third party
+1 day
+www.brainspace.com, www.compliancesheriff.com, www.cynthiasays.com and www.appgate.com
+visitor_id#####
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes.
+Third party
+2 years
+www.brainspace.com, www.compliancesheriff.com, www.cynthiasays.com and www.appgate.com
+p_0
+This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.
+Third party
+1 year
+www.appgate.com
+lkqdid
+This cookie is used to collect information on a visitor. This information will become an ID string with information on a specific visitor – ID information strings can be used to target groups with similar preferences, or can be used by third-party domains or ad-exchanges.
+Third party
+1 year
+www.appgate.com
+_gat_gtag_xxxxxxxxxxxxxxxxxxxxxxxxxxx
+Cookie used by Google Analytics to throttle request rate.
+Third party
+A few seconds
+www.appgate.com
+lidid
+This cookie collects data on visitors' behavior and interaction. This is used to make advertisement on the website more relevant. The cookie also allows the website to detect any referrals from other websites.
+Third party
+2 years
+www.appgate.com
+lkqdidts
+This cookie is used to identify the frequency of visits and how long the visitor is on the website.
+Third party
+1 year
+www.appgate.com
+sr12
+Pending
+Third party
+1 year
+www.appgate.com
+__cfduid
+This cookie collects and anonymizes End User IP addresses using a one-way hash of certain values so they cannot be personally identified.
+Third party
+1 month
+www.appgate.com
+sr46
+Pending
+Third party
+1 year
+www.appgate.com
+sr43
+Pending
+Third party
+1 year
+www.appgate.com
+intercom-id-63982d58ffa65dff581108e175da192af9fb498a
+An anonymous visitor identifier cookie applied upon visiting the site
+Third party
+9 months
+https://testdrive.appgate-sdp.com
+intercom-session-63982d58ffa65dff581108e175da192af9fb498a
+Identifier for each unique browser session. This session cookie is refreshed on each successful logged-in ping, extending it to 1 week from that moment. The user can access their conversations and have data communicated on logged out pages for 1 week, as long as the session isn't intentionally terminated with 'Intercom('shutdown'); which usually happens on logout.
+Third party
+7 days
+https://testdrive.appgate-sdp.com
+Functional Cookies. These cookies enable our Websites to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these services associated with these cookies may not function properly. Functional Cookies are collected by all of our Websites except for: https://testdrive.appgate-sdp.com, www.compliancesheriff.com, www.cynthiasays.com, www.infiltratecon.com, and www.immunitysec.com. The cookies include the following:
+Cookie Name
+Description/Purpose
+First or Third Party
+Duration of Cookie
+Website
+___utmvc
+This cookie enables the function of Google Analytics.
+First party
+A few seconds
+www.brainspace.com and www.appgate.com
+__bakery_session
+Cookies used by Wistia - a video player we use on the site. The cookies are used to help determine the best format of video to send you and to record usage data.
+Third party
+Session
+www.appgate.com
+rack.session
+Cookie used by Wistia - a video player we use on the site. These cookies enable the website to provide enhanced functionality and personalization.
+Third party
+Session
+www.appgate.com
+Targeting Cookies. These cookies may be set through our Websites by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant advertisements on other sites. They do not store directly personal information but are based on uniquely identifying your browser and device. If you do not allow these cookies, you will experience less targeted advertising. Targeting Cookies are collected by all of our Websites except for: www.immunitysec.com. The cookies include the following:Cookie Name
+Description/Purpose
+First or Third Party
+Duration of Cookie
+Website
+_fbp
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+First party
+3 months
+https://testdrive.appgate-sdp.com and www.appgate.com
+IDE
+This domain is owned by Doubleclick (Google). The main business activity is: Doubleclick is Google’s real time bidding advertising exchange
+Third party
+1 year
+www.brainspace.com, www.cynthiasays.com, www.compliancesheriff.com and www.appgate.com
+pardot
+This domain is owned by Pardot, a marketing automation platform which provides lead generation services to businesses.
+Third party
+Session
+https://testdrive.appgate-sdp.com, www.brainspace.com, www.cynthiasays.com, www.compliancesheriff.com and www.appgate.com
+test_cookie
+These cookies set by a third party (DoubleClick) and are used for serving targeted advertisements that
+are relevant to you across the web. Targeted advertisements may be displayed to you based on your
+previous visits to this website. For example, advertisements about a topic you have expressed an
+interest in while browsing our site may be displayed to you across the web. In addition, these cookies
+measure the conversion rate of ads presented to the user.
+Third party
+A few seconds
+www.brainspace.com, www.cynthiasays.com, www.compliancesheriff.com and www.appgate.com
+lidc
+This domain is owned by LinkedIn, the business networking platform. It typically acts as a third-party host where website owners have placed one of its content sharing buttons in their pages, although its content and services can be embedded in other ways. Although such buttons add functionality to the website they are on, cookies are set regardless of whether or not the visitor has an active Linkedin profile, or agreed to their terms and conditions. For this reason it is classified as a primarily tracking/targeting domain.
+Third party
+1 day
+https://testdrive.appgate-sdp.com, www.infiltratecon.com, www.compliancesheriff.com, and www.appgate.com
+UserMatchHistory
+This domain is owned by LinkedIn, the business networking platform. It typically acts as a third-party host where website owners have placed one of its content sharing buttons in their pages, although its content and services can be embedded in other ways. Although such buttons add functionality to the website they are on, cookies are set regardless of whether or not the visitor has an active Linkedin profile, or agreed to their terms and conditions. For this reason it is classified as a primarily tracking/targeting domain.
+Third party
+1 month
+https://testdrive.appgate-sdp.com, www.compliancesheriff.com, www.appgate.com, and www.infiltratecon.com
+bscookie
+This domain is owned by LinkedIn, the business networking platform. It typically acts as a third-party host where website owners have placed one of its content sharing buttons in their pages, although its content and services can be embedded in other ways. Although such buttons add functionality to the website they are on, cookies are set regardless of whether or not the visitor has an active Linkedin profile, or agreed to their terms and conditions. For this reason it is classified as a primarily tracking/targeting domain.
+Third party
+2 years
+https://testdrive.appgate-sdp.com, www.compliancesheriff.com, www.infiltratecon.com and www.appgate.com
+lang
+This domain is owned by LinkedIn, the business networking platform. It typically acts as a third-party host where website owners have placed one of its content sharing buttons in their pages, although its content and services can be embedded in other ways. Although such buttons add functionality to the website they are on, cookies are set regardless of whether or not the visitor has an active Linkedin profile, or agreed to their terms and conditions. For this reason it is classified as a primarily tracking/targeting domain.
+Third party
+Session
+https://testdrive.appgate-sdp.com, www.compliancesheriff.com, www.infiltratecon.com and www.appgate.com
+lissc
+This domain is owned by LinkedIn, the business networking platform. It typically acts as a third-party host where website owners have placed one of its content sharing buttons in their pages, although its content and services can be embedded in other ways. Although such buttons add functionality to the website they are on, cookies are set regardless of whether or not the visitor has an active Linkedin profile, or agreed to their terms and conditions. For this reason it is classified as a primarily tracking/targeting domain.
+Third party
+1 year
+https://testdrive.appgate-sdp.com, www.infiltatecon.com, www.compliancesheriff.com and www.appgate.com
+bcookie
+This domain is owned by LinkedIn, the business networking platform. It typically acts as a third-party host where website owners have placed one of its content sharing buttons in their pages, although its content and services can be embedded in other ways. Although such buttons add functionality to the website they are on, cookies are set regardless of whether or not the visitor has an active Linkedin profile, or agreed to their terms and conditions. For this reason it is classified as a primarily tracking/targeting domain.
+Third party
+2 years
+https://testdrive.appgate-sdp.com, www.compliancesheriff.com, www.infiltratecon.com and www.appgate.com
+personalization_id
+This domain is owned by Twitter. The main business activity is: Social Networking Services. Where twitter acts as a third party host, it collects data through a range of plug-ins and integrations, that is primarily used for tracking and targeting.
+Third party
+2 years
+www.infiltratecon.com and www.appgate.com
+GPS
+YouTube is a Google owned platform for hosting and sharing videos. YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites.
+Third party
+A few seconds
+www.appgate.com
+sa-user-id-v2
+This domain is owned by Stackadapt. The company provides marketing and advertising services.
+Third party
+1 year
+https://testdrive.appgate-sdp.com and www.appgate.com
+tuuid
+This domain is owned by IPONWEB and is used to provide a real time bidding platform for online advertising.
+Third party
+1 year
+www.appgate.com
+This domain is owned by Facebook, which is the world's largest social networking service. As a third party host provider, it mostly collects data on the interests of users via widgets such as the 'Like' button found on many websites. This is used to serve targeted advertising to its users when logged into its services. In 2014 it also started serving up behaviourally targeted advertising on other websites, similar to most dedicated online marketing companies.
+Third party
+Session
+https://testdrive.appgate-sdp.com and www.appgate.com
+pid
+This domain is owned by Smart Ad Server. The main business activity is: Advertising
+Third party
+1 year
+www.appgate.com
+tuuid_lu
+This domain is owned by IPONWEB and is used to provide a real time bidding platform for online advertising.
+Third party
+1 year
+www.appgate.com
+TestIfCookieP
+This domain is owned by Smart Ad Server. The main business activity is: Advertising
+Third party
+1 year
+www.appgate.com
+sa-user-id
+This domain is owned by Stackadapt. The company provides marketing and advertising services.
+Third party
+1 year
+https://testdrive.appgate-sdp.com and www.appgate.com
+PUBMDCID
+This domain is owned by Pubmatic. It operates an advertising exchange platform where online publishers can sell targeted advertising space to media buyers using real time bidding.
+Third party
+3 months
+www.appgate.com
+PugT
+This domain is owned by Pubmatic. It operates an advertising exchange platform where online publishers can sell targeted advertising space to media buyers using real time bidding.
+Third party
+1 month
+www.appgate.com
+c
+This domain is owned by IPONWEB and is used to provide a real time bidding platform for online advertising.
+Third party
+1 year
+www.appgate.com
+VISITOR_INFO1_LIVE
+This cookie is used as a unique identifier to track viewing of videos
+Third party
+6 months
+www.appgate.com
+KRTBCOOKIE_xxxx
+This cookie is used to correlate IDs with those of Pubmatic partners (such as demand side platform clients or other advertising technology companies). Pubmatic passes information stored by the partner in this cookie to the partner when it is considering whether to purchase advertisements. This enables the partner to make better decisions about whether to display an advertisement to you.
+Third party
+1 month
+www.appgate.com
+csync
+This domain is owned by Smart Ad Server. The main business activity is: Advertising
+Third party
+1 year
+www.appgate.com
+t_gid
+This domain is owned by Taboola Inc, a USA based company with multi-national presence. It provides tageted native advertising services.
+Third party
+1 year
+www.appgate.com
+_li_ss
+This domain is owned by liadm.com. The company provides a range of marketing and advertising services.
+Third party
+1 month
+www.appgate.com
+YSC
+YouTube is a Google owned platform for hosting and sharing videos. YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites.
+Third party
+Session
+www.appgate.com
+fr
+Contains browser and user unique ID combination, used for targeted advertising.
+Third party
+3 months
+https://testdrive.appgate-sdp.com and www.appgate.com
+TS01fac3f6
+Cookie used by TechTarget, a third-party provider to personalize content you see and to build a profile of your interests in order to show relevant advertisements on other sites.
+Third party
+Session
+www.appgate.com
+3. Managing Cookies on the AppGate Websites.
+You do not have to accept all of the cookies used by our Websites. When you arrive on each of our Websites, a pop-up window will appear informing you that such Website uses cookies and asking you to first agree to the storage of cookies on your device in order to navigate such Website. Through this pop-up window, you can choose to accept all cookies or customize your cookie settings on such Website. If you wish to delete or block cookies, you can do so at any time by deleting existing cookies from your browser and activating the appropriate setting on your browser. These websites provide information on how to adjust the cookies settings on some of the browsers:
+Apple SafariGoogle ChromeMicrosoft EdgeMicrosoft Internet ExplorerMozilla Firefox
+4. AppGate’s Use of Google Analytics.
+Our Websites also use Google Analytics, a third-party web analytics tool that helps website owners understand how their visitors engage with their website. Google Analytics collects information anonymously, and reports web site trends without personally identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. The Google Analytics cookie is used to store information, such as what time the current visit occurred, whether the visitor has been to the site before, and what site referred the visitor to the web page. A different Google Analytics cookie is used for each website that uses the Google Analytics tool, and visitors are not tracked across multiple websites. To disable this type of cookie, some browsers will indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis. In addition to declining cookies, you can also install the Google Analytics Opt-out Add-on in your browser, which prevents Google Analytics from collecting information about your website visits. Information collected by the Google Analytics cookie is transmitted to, and stored by, Google in accordance with its privacy practices. To see an overview of privacy at Google and how this applies to Google Analytics, please visit: https://support.google.com/analytics/answer/6004245. To opt out of Google Analytics, please visit: https://tools.google.com/dlpage/gaoptout.
+Last Updated: September 3, 2020

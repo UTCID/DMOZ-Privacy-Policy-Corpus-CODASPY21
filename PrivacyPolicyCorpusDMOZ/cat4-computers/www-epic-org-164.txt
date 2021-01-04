@@ -1,0 +1,546 @@
+http://www.epic.org/privacy/internet/rotenberg-testimony-398.html
+Testimony and Statement for the Record
+of Marc Rotenberg
+Director, Electronic Privacy Information Center
+Adjunct Professor, Georgetown University Law Center
+on Communications Privacy
+before the Subcommittee on Courts and Intellectual
+Property
+House Judiciary Committee
+U.S. House of Representatives March 26, 1998 SUMMARY Public opinion polls show that privacy is the
+number one concern of Internet users. Everyone is aware that a great
+deal of personal information is collected, and that virtually no
+meaningful protections are in place. In the McVeigh-AOL case, a person almost lost
+his job because of information that was improperly disclosed by an
+online service provider. An amendment to Electronic Communications
+Privacy Act could help prevent similar incidents in the future. But
+the example is just one of the many privacy risks that people using
+the Internet today face. The Internet lacks adequate privacy protection.
+A survey by the Electronic Privacy Information Center in 1997 of the
+100 top web sites found that less than half had privacy policies, and
+those with policies offered little real protection. Still, anonymity
+plays a critical role in online privacy as it gives individuals the
+ability to control the disclosure of their identity. Even though the Internet is a very new
+communications environment, the commitment to establish privacy
+protection by law in the United States is long-standing. The US
+developed important legal safeguards to protect the privacy of
+communications and established the fundamental approach to the
+protection of personal information -- generally described as "Fair
+Information Practices" -- that make clear the responsibilities of
+organizations that collect data and the rights of individuals who
+give up personal information. But our policies US have not kept up to date.
+The absence of new legal protections for privacy coupled with
+government efforts to restrict the use of new privacy enhancing
+techniques, such as encryption, have produced a privacy policy that
+is almost exactly backward. This becomes particularly clear if you
+contrast our current policy with our own history of privacy
+protection and current developments in other parts of the
+world. Several steps must be taken to set our privacy
+policy back on course. First, enforceable Fair Information Practices
+should be applied to the Internet. This is best done by legislation.
+The self-regulatory approach is not working. Second, techniques to
+protect privacy and anonymity should be encouraged and restrictions
+on encryption should be lifted. Finally, a privacy agency should be
+established to develop additional recommendations for privacy
+protection and to provide permanent leadership within the federal
+government on this important issue. We are at the beginning of a long and difficult
+period for the protection of privacy in this country. Technology is
+racing ahead. Our laws and institutions are lagging far behind. The
+level of public concern about privacy is growing. There is much work
+to be done. My name is Marc Rotenberg. I am the Director of
+the Electronic Privacy Information Center, a non-partisan research
+organization in Washington, DC. I am an adjunct professor at
+Georgetown University Law Center and Senior Lecturer at the
+Washington College of Law. I am also editor, with Philip E. Agre,
+of Technology and Privacy: The New
+Landscape (MIT Press 1997). I appreciate the opportunity to testify before
+the Subcommittee today. I’d like to thank the Subcommittee for
+holding this hearing and also for your ongoing work in support of
+Representative Goodlatte’s SAFE bill that would help reform our
+nation’s policy on encryption.
+The McVeigh-AOL Case The growing concern about the loss of privacy
+on the Intenet was made clear earlier this year when the Navy began
+discharge proceedings against a decorated sailor based on personal
+information about the sailor disclosed by America Online. A Navy
+investigator, suspecting that Mr. McVeigh might be in violation of
+the "Don’t Ask, Don’t Tell" policy, obtained information
+that linked Mr. McVeigh’s "screen name," which was not his
+actual identity, with his real identity. Once the connection was
+established, the discharge proceeding began. The McVeigh-AOL case raised a complicated set
+of legal issues. The AOL Terms of Service agreement specifically
+prohibited this disclosure. But a civil action against the company
+would not mean reinstatement by the Navy. The disclosure also
+appeared to violate the Electronic Communications Privacy Act, but
+the statute is ambiguous about the remedies available to victims of
+such disclosure. Mr. McVeigh filed suit against Navy Secretary
+John Dalton in federal court. Judge Stanley Sporkin found that the
+Navy had violated the "Don’t Ask, Don’t Tell policy" when
+it pursued the investigation. In the course of the decision, Judge
+Sporkin also considered whether the Navy violated the Electronic
+Communications Privacy Act. The opinion is a little less clear on
+this point. Judge Sporkin said the investigation undertaken by the
+Navy was "likely illegal" under the ECPA because the Navy
+investigator failed to obtain a warrant before he sought personal
+information from America Online about Mr. McVeigh. The government
+contended that the obligation to comply with ECPA fell not on the
+government actor but rather on the online service provider.
+Judge Sporkin said that the statute read as a
+whole made clear the intent to regulate the conduct of government
+agents. He found that even if the relevant provision did not apply to
+the actions of government (18 USC § 2703), "it is elementary
+that information obtained improperly can be suppressed where an
+individual’s rights have been violated." Judge Sporkin concluded
+"in these days of ‘big brother,’ where through technology
+and otherwise the privacy interests of individuals from all walks of
+life are being ignored or marginalized, it is imperative that statues
+explicitly protecting these rights be strictly observed." The McVeigh case is critical for several
+reasons. First, it makes clear that privacy violations have real
+consequences. Mr. McVeigh’s life was forever changed by the
+decision of America Online to disclose personal information about him
+to his employer. Second, the case shows the shortcomings of
+contractual solutions. Even with a very clear contract provision
+detailing when personal information may be disclosed, the Navy
+investigator was still able to obtain personal information about Mr.
+McVeigh. Third, the case shows that we are all becoming increasingly
+dependent on these new services to safeguard our privacy. America
+Online today has more than eleven million subscribers. Mr. McVeigh’s case, because the improper
+disclosure of information was so well documented, received national
+attention. But there are many other people in this country who face
+similar privacy risks, whose names will never be known. Indeed, they
+themselves may never know that information about them was improperly
+disclosed.
+What is Privacy?
+In some respects, the McVeigh case appears
+complicated. AOL didn’t actually disclose personal information
+about Mr. McVeigh, such as an unlisted phone number or a Social
+Security Number. Rather, the company disclosed information that
+linked his actual identity to an assumed identity. The Internet
+raises many privacy issues that seem novel or unusual:
+Search engines allow people to find
+information all across the Internet but can also store the
+identity of the user and the inquiry the person made. Should this
+information be saved, should it be disclosed or sold, or used for
+marketing?
+Copyright management systems will record
+the individual use of digital works such as books sold online and
+newspapers read over the Internet. Should personally identifiable
+information be collected or should techniques to protect anonymity
+be pursued?
+Internet software makes it possible to
+track the web sites that a user visits and the pages he or she
+views. Should advertisers compile individual preferences to
+customize ads or place products on web displays?
+Operators of web sites can easily collect a
+great deal of information from individuals, far more than would be
+available in a typical commercial transaction. Should companies
+collect this information, use it, or it?
+Marketers are developing one-to-one
+marketing techniques specifically designed to target young people.
+Are special privacy safeguards necessary for children?
+Internet Service Providers provide a
+critical gateway to the on-line world. Should they have a special
+obligation to protect privacy and be subject to legal
+rules?
+As complicated as these examples may seem, the
+basic privacy analysis is not so difficult. The premise that
+virtually all privacy law and policy is based on is the belief that
+when individuals give up personally identifiable information to
+organizations, the organizations take on some obligation and the
+individuals are granted some rights. We call these responsibilities
+and rights "Fair Information Practices." The critical elements of Fair Information
+Practices include:
+Distinguishing personally information from
+other information. Demographic data and aggregate data generally
+do not raise privacy concerns, but data that can be a linked to a
+specific, identifiable individual does raise a privacy issue.
+Articulating the responsibilities of data
+collectors, such as the responsibility to limit disclosure of
+personal information, to ensure that it is used for the purpose
+collected, and to provide adequate security to protect that
+data
+Articulating the rights of data subjects,
+such as the right to inspect and correct data, to seek redress,
+and to receive damages
+You will find this approach to privacy
+protection in virtually all of the privacy laws in the United States,
+including many of the recent statutes that address new technologies,
+such as the subscriber privacy provision in the Cable Act of 1984,
+the Electronic Communications Privacy Act of 1986, the Video Privacy
+Protection Act of 1998 (video tape rentals), the Telephone Consumer
+Protection Act of 1991 (auto-dialers and junk faxes), and even the
+CPNI rules contained in the Telecommunication Reform Act of 1996
+(customer billing information). To be effective, Fair Information Practices
+must be enforced and must provide redress. It is not enough to say
+what a policy is without providing a means to enforce the policy.
+That is why voluntary guidelines, professional standards, and codes
+of conduct that are based on Fair Information Practices do not
+necessarily provide significant privacy protection. There are also some novel issues. One very
+interesting and very important policy question is brought about by
+the development of new technologies that make it possible to protect
+privacy in ways we had not previously imagined. Traditionally, we
+understood that technology was a threat to privacy and that it was
+the proper role of government to restrict the use of techniques that
+might intrude on privacy. But now we see in such techniques as public
+key encryption and anonymous payment schemes the opportunity to
+develop new means to limit the disclosure of personal
+information. The critical question then becomes what role
+government should play in promoting, regulating, or restricting
+techniques such as encryption that allow individuals to protect
+personal information. In the United States this debate has largely
+been framed in terms of the need to balance the interests of privacy
+and commerce against the concerns of law enforcement and national
+security. But in most other parts of the world that have looked at
+this issue, there is a very different view. Many governments believe
+that these new technologies should be promoted and that efforts to
+impose controls for law enforcement purposes are short-sited and will
+ultimately prove futile. In my view, privacy in the information age
+means both the extension of Fair Information Practices to new
+information environments and the active promotion of techniques,
+often based on encryption, to protect the disclosure of personal
+information. This is the fundamental policy goal.
+Understanding the Problem of Privacy on
+the Internet To understand the problem of privacy on the
+Internet in more detail, EPIC conducted a survey of the top 100 web
+sites in the summer of 1997. It was the first comprehensive survey of
+Internet privacy. We looked at the policies and practices actually in
+place on the most popular web sites. For each site, we checked
+whether personally identifiable information was collected, whether a
+notice describing privacy polices was displayed, whether the policy
+was adequate, and similar questions. We found that about half of the sites that we
+surveyed collected personal information. This was typically done for
+on-line registration, surveys, user profiles and order fulfillment.
+Seventeen sites had privacy notices or statements, but the policies
+were often not easy to locate and some policies we could only find
+after we registered at the site. We believed it was important to look not simply
+at whether the site had a privacy policy. It is critical that a
+privacy policy explain the responsibilities of organizations
+collecting data and rights of the person who provides data. We found
+that few of the sites provided adequate protection. A critical
+question for the future of Internet privacy will be whether there is
+a means to enforce Fair Information Practices. One of the most interesting findings in our
+survey was that anonymity was largely respected by the websites. Most
+websites allow users to visit and receive information — about
+products, or news, or almost anything else you can find on the
+Internet — without collecting personal information. In the conclusions of our report we said
+that:
+Web sites should establish a privacy policy
+that is easy to find
+Policies should state clearly what personal
+information is collected and how it will be used
+Web sites should make it possible for
+individuals to access their own data
+Cookies transactions should be more
+transparent
+Anonymity should be encouraged
+We closed with the warning "surfer beware"
+because we concluded that there was simply too little privacy
+protection on the Internet for users to feel secure, and we hoped
+stronger privacy standards would be developed. Several web operators wrote to us after
+Surfer Beware was released to say that they were developing privacy
+policies for their sites. The New York Times web site added a privacy
+policy a few days after our report came out. The response has been
+very good. This month the Federal Trade Commission is
+conducting a similar survey of 1,200 web sites. I suspect that the
+FTC will find that a growing numbers of web sites do now have privacy
+polices. But whether those policies are meaningful or provide any
+redress to users of these services remains unclear. It is worth
+noting that America Online has one of the most comprehensive and
+detailed privacy policies of any company operating on the Internet
+today. And still Timothy McVeigh almost lost his job.
+History of Communications
+Privacy One of the great achievements of the American
+legal system has been our strong commitment to protecting the privacy
+of personal communications. You can trace this history back at least
+as far as Benjamin Franklin, who in establishing the national postal
+service recognized the need to enact federal law to protect the
+privacy of communications. But it was not until 1928 that the Supreme
+Court had its first brush with the question of whether our Bill of
+Rights, drafted in the eighteenth century, would apply to the new
+communications technologies of the twentieth century and beyond. The
+case concerned a highly successful bootlegging operation in the
+Pacific Northwest operated by Ralph Olmstead. Federal agents began an
+extensive surveillance operation that lasted for more than five
+months. They had no recording devices, so they wrote down what they
+heard. Sometimes they relayed their recollections of conversations to
+a stenographer. In the end, they compiled more than 775 pages that
+they brought to court. The issue was whether the Fourth Amendment
+warrant requirement would be applied to this new investigative
+technique. The trial court let the evidence in, over the objection of
+Mr. Olmstead, and the appeals court affirmed. When the case finally reached the Supreme Court
+Chief Justice William Taft wrote a detailed opinion that focused on
+the absence of a physical search, of the type proscribed by the
+Fourth Amendment, and concluded that the evidence was admissible. The
+Court held that the Fourth Amendment simply did not apply to this new
+form of communication. But there were two important dissents. Justice
+Holmes called the matter a "dirty business" because the federal
+agents had violated a Washington state law that prohibited
+wiretapping to obtain the evidence. He voted to reverse. Justice Brandeis also dissented. His opinion
+was not so much about the illegal acts of federal agents; he was more
+interested in the question of how the Fourth Amendment and our
+Constitution generally, should apply to these new communication
+technologies. He wrote, in one of the most famous phrases in American
+law, that the makers of our Constitution "sought to protect Americans
+in their beliefs, their thoughts, their emotions and their
+sensations. They conferred, as against the Government, the right to
+be let alone — the most comprehensive of all rights and the
+right most valued by civilized men." Brandeis’s dissent in
+Olmstead
+reminds us that the protection of privacy is at the heart of our
+system of ordered liberty and that that law is an evolving
+process. The Supreme Court eventually adopted Justice
+Brandeis’s view and decided in 1967 that the Fourth Amendment
+did indeed apply to telephone communications. Following the
+Katz
+decision and a related case, Berger v.
+New York, the Congress set out in 1968
+to establish a framework to allow electronic wiretapping only under
+the most limited circumstances. The Congress made clear at that time
+that wiretapping was to be an investigative means of "last
+resort." While some have said that Title III makes clear
+that the police have the right to wiretap telephone communications
+when a court order is obtained, I believe the better view of the Act
+is that it ensured that electronic surveillance would be brought
+within strict Fourth Amendment requirements. In other words, our
+federal wiretapping statute was intended to limit this investigative
+technique to the narrowest circumstances. Since 1967 there have been a number of
+significant developments in the law of communications privacy. In
+1978 the Congress passed the Foreign Intelligence Surveillance Act to
+deal with the difficult problem of wiretapping of foreign agents. The
+Supreme Court had left open the question in the Katz case of whether the
+Fourth Amendment should apply to national security cases. The
+Congress resolved this question with the FISA in 1978, establishing a
+Title III-like framework, albeit with more secrecy and less
+accountability. In the mid-1980s the growth of the Internet and
+new communications services was apparent. People were using desktop
+computers and sending messages to one another by means of electronic
+mail. Questions about the appropriate standards for government
+searches were arising. In response, Congress amended Title III and
+enacted the Electronic Communications Privacy Act, which extended
+privacy protection to stored electronic communications. The next significant development came in 1994
+when Congress passed the Communications Assistance for Law
+Enforcement Act (CALEA), a measure commonly referred to as "digital
+telephony." CALEA gave the Department of Justice the authority to set
+technical standards for the nation’s telephone system in an
+attempt to ensure the ongoing viability of wiretapping. Many said at the time that the measure was
+considered that it was a mistake to pass such legislation, not only
+because it was a fundamental change in the law’s approach to
+electronic surveillance and police powers generally, but also that
+the bill would be impractical and ultimately unworkable. For better or worse, this predication seems now
+to be correct. The FBI and the telephone industry are mired in
+endless debates about implementing the legislation, the estimated
+costs are far beyond the initial authorization, the technology
+innovations continue, and the CALEA policy has slowed the adoption of
+technical methods, such as encryption, that could make our
+communications network more secure and reduce the risk of crime.
+Moreover, our government is now in the unfortunate position of urging
+other nations to develop more extensive surveillance
+capabilities. I hope at some point in the future the
+Judiciary Committee will have the opportunity to revisit CALEA and to
+consider whether this is still a sensible policy initiative.
+The Role of Government
+The United States was for many years a leader
+in efforts to protect personal privacy. Justice Brandeis wrote a
+famous law review article on the right to privacy in the late
+nineteenth century that established the legal claim in this country
+and elsewhere. The privacy right came to be described as the
+"American tort." Many other countries joined the US effort to
+firmly establish this right following the end of the Second World
+War. The Universal Declaration of Human Rights was adopted and the
+right of privacy was made explicit in the constitutions of many
+governments. The United States continued to lead in the
+modern era of privacy protection with passage of the Fair Credit
+Reporting Act in 1970 and then with the Privacy Act of the 1974 that
+provided comprehensive privacy protection for records held by the
+federal government. But our lead has slipped, and we are now viewed
+by many as falling behind in the effort to protect this critical
+right. The Administration’s own record on privacy protection has
+been very poor. Not only has the White House resisted calls from
+long-time trading partners and allies to develop stronger privacy
+measures, it has actively opposed efforts by other governments to
+extend privacy rights to their own citizens. This combined with the
+Administration’s attempt to extend techniques for electronic
+surveillance has placed the United States in the unfortunate position
+of promoting state surveillance as other governments are trying to
+establish privacy protection. The sharp contrast in our government’s
+approach to privacy issues, when compared with other governments, can
+be understood by considering the significance of the date "October
+1998." In Europe that is the date when the European Data Directive
+goes into force. It is a comprehensive privacy measure that
+establishes rights for citizens and recognizes that privacy
+protection will remain critical for the information economy. It is
+the result of many years of hard work, negotiation, and commitment by
+lawmakers. In this country, in October 1998, we will mark
+the date when the Communications Assistance for Law Enforcement Act
+is expected to be operational. That is the law, as I have noted, that
+requires telephone companies to try to protect electronic
+interception in the nation’s telephone system. We are pursuing
+elaborate and expensive policies for national communications
+surveillance as other countries are struggling with the issue of how
+to protect the privacy rights of their citizens. We are today not only behind the curve in
+developing sensible privacy polices, but we are largely out of step
+with the rest of the world. Lacking the formal means to develop
+privacy policies and to respond to public concerns, we have left the
+law enforcement community and the marketing industry to determine how
+much privacy there will be in the future. The result is not
+surprising — there is growing public concern about the loss of
+privacy and a widening gap between the problems we face and the
+solutions we should pursue. Simply stated, our policy is backward. We
+impose government controls on techniques to protect privacy, where
+market-based solutions are preferable. And we leave privacy problems
+to the market, where government involvement is required.
+Recommendations Today the calls for government action to
+protect privacy are unambiguous. The most recent Harris poll found
+that a majority of those polled found that privacy is the main reason
+that people are staying off of the Internet. They want legislation
+now to protect privacy on the Internet. According to the
+BusinessWeek/Harris poll, 53% believe that "Government should pass
+laws now for how personal information can be collected and used on
+the Internet." Of those polled, 23% said "government should recommend
+privacy standards for the Internet but not pass laws at the time."
+Only 19% believe that the government "should let groups develop
+voluntary privacy standards but not take any action now unless real
+problems arise." The Harris/BusinessWeek poll is consistent with
+other polls that have asked similar questions about privacy and the
+Internet. Contrary to the popular view that Internet users oppose all
+form of government action, when it comes to matters of privacy, they
+believe new laws are necessary. Much is also said about the desirability of
+"self-regulation" for the Internet. There are, indeed, many areas
+where the government can do the most by doing the least. This is
+particularly true with matters of speech and content, where our
+strong First Amendment tradition cautions against any attempt by
+government to regulate what people may say, read, or watch. But
+self-regulation has not helped protect privacy on the Internet. It
+has in fact made it harder for us to focus on the larger questions of
+a coherent privacy policy. It has also led to erosion in our basic
+understanding of privacy protection. For example, the concept of Fair Information
+Practices —- the common thread of all privacy law and policy
+that clearly places responsibilities on organizations and gives
+rights to individuals —- is now being revised to suit the needs
+of organizations rather than to protect the interests of individuals.
+Where once there was an understanding that individuals should have
+the right to get access to their own data, to inspect it, and to
+correct it, now those who favor self-regulation believe it is
+necessary only to provide access to a privacy policy. Where once individual consent was central to the
+disclosure of personal information, now the focus is on individual
+choice for
+a range of disclosures. Where privacy techniques focused on the means
+to protect identity, now the focus is on means to obtain information.
+Many of the techniques that are put forward as "technical solutions"
+--- such as the Open Profiling Standard, the P3P and Trustee -—
+will make it easier, not more difficult, to obtain information from
+individuals using the Internet. Something is clearly amiss.
+It is time to reestablish support for Fair
+Information Practices, to make clear that organizations that collect
+information have responsibilities, and that individuals who give up
+information have rights. The principles are well established in our
+legal tradition. Privacy protection should not end where the Internet
+begins.
+Amend the Electronic Communications
+Privacy Act Congress should specifically consider expanding
+the scope of privacy provided to subscriber information under Section
+2703 of ECPA. Currently, the statute only prohibits the disclosure of
+such data to "governmental entities" unless they obtain legal process
+authorizing the disclosure. This prohibition should be extended to
+the disclosure of subscriber information to any third party. One of
+the reasons why the Navy was able to obtain information concerning
+Mr. McVeigh from AOL is that ECPA places no restrictions on service
+providers unless the requester identifies himself as a government
+agent, which the Navy investigator failed to do. Further, the current
+statutory regime fails to recognize that significant harm can result
+from the disclosure of personal information to non-governmental
+actors. Had Mr. McVeigh been a private sector employee, ECPA would
+have provided absolutely no protection, despite the fact that he
+could have lost his job in much the same way. Any requester should be
+required to provide legal authorization before receiving personal
+information from a service provider. With respect to governmental access, ECPA
+should be amended to prohibit the use as evidence of information
+obtained in violation of Section 2703, in the same way that Section
+2515 prohibits the use of illegally obtained wire or oral
+communications. Finally, the civil action provision contained
+in Section 2707 should be amended to make clear that a cause of
+action will lie against a governmental entity that obtains
+information in violation of Section 2703.
+Support Passage of Internet
+Privacy Bill and the Children Privacy Bill The Consumer Internet Privacy Protection Act of
+1997 (HR 98) would prevent an "interactive computer service" from
+disclosing to a third party a subscriber's personal information
+without that individual's written content. This is a good starting
+point but will leave uncovered many areas that should receive
+protection. Representative Franks bill, the Children Privacy
+Protection and Parental Empowerment Act also provides important
+safeguards.
+Establish a Privacy Agency
+In 1973 the Department of Health, Education and
+Welfare established a special panel to study privacy issues arising
+from the growing use of automated date processing equipment. That
+report led to the development and passage of the Privacy Act of 1974,
+perhaps the most important privacy law in our country. But that
+report also made clear, as have subsequent reports, that the
+cornerstone of an effective federal policy is a permanent privacy
+agency. It is critical today that a privacy agency be
+established. We simply do not have the expertise, commitment, or
+understanding in the federal necessary to develop the policies
+necessary to address the enormous challenges that we are facing. Many
+of the decisions that are made with significant consequences for
+privacy protection lack adequate representation of privacy
+concerns. In countries across the world, efforts are
+underway to address these privacy concerns. The European Union is
+moving forward on the implementation of extensive privacy directive
+that will establish legal rights for all citizens in the European
+Union countries. Non-EU countries, including Japan and Canada, are
+pursuing comprehensive privacy polices. Techniques for anonymity are
+being promoted in Germany, the Netherlands and elsewhere. Strong
+medical privacy legislation is in place in New Zealand. In the United States, even with the efforts of
+the Federal Trade Commission, there is little sense that we are
+making progress. Privacy concerns are rising. The public is not
+persuaded by the current policy. BusinessWeek put it well in an
+editorial earlier this month:
+Time is running out for the Net community.
+The public does not trust its promises for self-regulation to
+ensure privacy. The polls show that people don't believe that
+these voluntary standards are working. Any spot check of Web sites
+shows that few make any serious effort to protect privacy. It's no
+wonder that the public wants the government to step in immediately
+and pass laws on how personal information can be collected and
+used. Even Silicon Valley libertarians who believed in voluntary
+standards for years are no longer so sure. As the economy shifts increasingly from
+an industrial to an information base, an individual's private data
+take on an economic utility unknown in the past. So, too, does a
+person's economic behavior in the electronic realm. Future growth
+depends on the security of that data and the comfort level for
+that behavior. Both civil society and economic growth depend
+increasingly on privacy.
+The United States has long been a beacon of
+individual liberty and a champion of individual rights. Our greatest
+challenge today is to carry forward that tradition into the
+information age. For Internet users today and into the future, that
+will mean protecting the right of privacy.
+References
+P. Agre and M. Rotenberg, eds., Technology and Privacy: The New
+Landscape (MIT Press 1997) J. Cohen, "A Right to Read Anonymously: A
+Closer Look at Copyright Management in Cyberspace,"
+U.Conn.L.Rev. (1996) W. Diffie and S. Landau, Privacy on the Line: The Politics of Wiretapping and
+Encryption (MIT Press 1997)
+S. Friewald, "Uncertain Privacy:
+Communication Attributes After The Digital Telephony," 69 S. Cal.
+L. Rev. 949 (1996) International Working Group on Data
+Protection, Data Protection and Privacy on the Internet,
+Data Protection and Privacy on the
+Internet (1996) [http://www.datenschutz-berlin.de/diskus/13_15.htm]
+National Information Infrastructure Task
+Force, Information Policy Committee, "Options for Promoting
+Privacy on the National Information Infrastructure" (1997)
+Organization for Economic Cooperation and
+Development, Guidelines on the
+Protection of Privacy and Transborder Flows of Personal
+Data (1980) [http://www.oecd.org/dsti/sti/it/secur/prod/PRIV-EN.HTM] Organization for Economic Cooperation and
+Development, Cryptography Policy
+Guidelines (1997) [http://www.oecd.org/dsti/iccp/crypto_e.html] P. Regan, Legislating Privacy: Technology, Social Values, and
+Public Policy (University of North
+Carolina Press 1995) M. Rotenberg, "Communications Privacy:
+Implications for Network Design," Communications of the ACM (1995) M. Rotenberg, "Data Protection in the United
+States — A Rising Tide?" The
+Computer Law and Security Report
+38-40 (January-February 1998) M. Rotenberg, "In Support of a Privacy
+Protection Agency in the United States," Government Information Quarterly (Winter 1991) P. Schwartz and J. Reidenberg,
+Data Privacy Law (Michie 1996) B. Schneier and D. Banisar, The Electronic Privacy Papers (John Wiley 1997)

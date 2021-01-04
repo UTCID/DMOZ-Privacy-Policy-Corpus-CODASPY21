@@ -1,0 +1,89 @@
+https://threatpost.com/ring-drone-privacy/159562/
+Newsletter
+Subscribe to our Threatpost Today newsletter
+Join thousands of people who receive the latest breaking cybersecurity news every day.
+The administrator of your personal data will be Threatpost, Inc., 500 Unicorn Park, Woburn, MA 01801. Detailed information on the processing of personal data can be found in the privacy policy. In addition, you will find them in the message confirming the subscription to the newsletter.
+*
+*
+I agree to my personal data being stored and used to receive the newsletter
+*
+I agree to accept information and occasional commercial offers from Threatpost partners
+EmailThis field is for validation purposes and should be left unchanged.
+This iframe contains the logic required to handle Ajax powered Gravity Forms.
+Microsoft Kills 18 Azure Accounts Tied to Nation-State AttacksPrevious article
+Industrial Cyberattacks Get Rarer but More ComplexNext article
+Author:
+Lindsey O'Donnell
+September 25, 2020
+2:41 pm
+minute read
+Write a comment
+Share this article:
+Privacy fears are blasting off after Amazon’s Ring division unveiled the new Always Home Cam, a smart home security camera drone.
+Ring’s newly announced robot drone – a connected device that flies around homes taking security footage – is causing privacy experts’ concerns to take off.
+Amazon on Thursday unveiled the Always Home Cam as part of its Ring division, which will cost $249.99 and starts shipping next year. The autonomous indoor security camera can fly around in the home on paths that are pre-approved by users, allowing them to check to see if they left a window open or forgot to turn the stove off – or to check to make sure robbers aren’t breaking in.
+However, the new device has also sparked a firestorm of privacy concerns on Twitter about how Ring – whose connected doorbells have already created plenty of privacy controversies – will collect, use and share the collected data.
+“For privacy advocates, the concept of an untethered IoT [Internet of Things] device surveilling the house is disturbing,” Rick Holland, CISO and vice president of strategy at Digital Shadows, told Theatpost. “Coupled with Ring’s controversial privacy practices, the adoption of the drone could be low. However, those that have already embraced the concept of in-house security cameras are likely to be excited. The prospect of having a single drone monitor your house instead of multiple individual cameras could be alluring.”
+Privacy Concerns
+Ring for its part said that it has built privacy features into the physical design of the Always Home Cam. When the drone is docked in its charging base, the camera is physically blocked. The device has also been designed to hum at a certain volume, so it’s clear that the camera is in motion and recording, said Ring.
+But Emma Bickerstaffe, senior research analyst at the Information Security Forum, told Threatpost that Ring needs to better address how it’s securing and using the sensitive personal data that’s being collected. If sold to advertisers, for instance, this type of data could allow companies to track individuals’ daily life, habits and preferences, and use this information for commercial gain, she said.
+“Smart home devices, such as Ring, collect an inordinate amount of sensitive personal data in real time – this is typically transmitted to a cloud service for processing,” she said. “A critical question is, who has access to the data collected by the device, and whether it is processed and stored in a lawful manner that protects personal data from unauthorized use.”
+For users who do opt for the security drone, the proper configuration will be critical to minimize security and privacy risks as much as possible, Holland urged.
+“Consumers must enable multi-factor authentication (MFA) and automatic software updates to ensure that any vulnerabilities are quickly resolved,” he said.
+Ring Privacy Efforts
+During its Thursday product launch, Ring highlighted several privacy and security steps it is taking. For one, it said it aims to make end-to-end encryption easier for connected-home device users to control, saying that later this year, users will be able turn on end-to-end encryption for video from their Control Center.
+“Privacy, security and user control are foundational to us at Ring,” said the company in a press statement. “Launching today in the Control Center, Video Encryption Controls let you learn more about how we currently encrypt and protect your videos.”
+The changes come after media reports shed light on serious security holes in the Ring connected doorbells. For instance, Ring owners aren’t notified of suspicious login alerts when devices are accessed on various IP addresses — and there are seemingly no limitations for incorrect login attempts. Ring has addressed these issues by mandating two-factor authentication (2FA) security measures.
+Ring is also allowing doorbell users to completely disable its “Neighbors” service, a controversial feature that allows Ring owners to share video footage captured from their cameras with law enforcement. The app has raised worries about racial bias, surveillance and privacy.
+Smart-Home Privacy Problems
+IoT devices – many of which have security measures described as a “ticking time bomb” by researchers – are dramatically increasing in homes, which could potentially open the literal door to private and sensitive user data.
+Researchers have previously discovered several deep-rooted issues that exist around connected devices: Earlier in 2020, researchers found that at the most basic level, 98 percent of all IoT device traffic is unencrypted, exposing personal and confidential data on the network.
+Several smart home devices have been found to have specific security holes. In August, researchers disclosed vulnerabilities in Amazon’s Alexa virtual assistant platform that could have allowed attackers to access users’ personal information, like home addresses – simply by persuading them to click on a malicious link. Also in August, researchers urged connected-device manufacturers to ensure they have applied patches addressing a flaw in a module used by millions of IoT devices.
+These security fears are exacerbated now that much of the world is working from home due to the pandemic, Bickerstaffe said. Cybercriminals are looking to smart home devices as a way to access and compromise valuable business information on the same network.
+With this in mind, “close attention should be paid to the security controls adopted by Ring,” Bickerstaffe told Threatpost. “Cybercriminals are already maximizing the opportunity to exploit vulnerabilities in smart home devices as a stepping stone to target the network on which these devices are installed.”
+Suggested articles
+Cyber Monday is Every Monday: Securing the ‘New Normal’
+From eCommerce threats, to attacks at the smart edge, Fortinet researchers discuss the top evolving threats of 2020, heading into the new year.
+‘Amnesia:33’ TCP/IP Flaws Affect Millions of IoT Devices
+A new set of vulnerabilities has been discovered affecting millions of routers and IoT and OT devices from more than 150 vendors, new research warns.
+Microsoft Revamps ‘Invasive’ M365 Feature After Privacy Backlash
+The Microsoft 365 tool that tracked employee usage of applications like Outlook, Skype and Teams was widely condemned by privacy experts.
+Discussion
+I thought this was a joke when I first read about it. Does anyone really need this sort of monitoring? These IoT devices have already been proven to be security risks and even if you trust Amazon to keep them updated. You have to ask is the privacy concerns for a device like this worth it? I feel like this sort of device prey's on people's paranoia about security. This sort of device appears to be more of a gimmick than a real effective tool for security.
+if you are concerned, don't buy it. i will be one of the first buyers.
+Yeah, I am concerned and you’re suggestion of “don’t buy it” does nothing to alleviate those concerns. Privacy disasters don’t just happen to threat post readers who understand the risk and knowingly make a choice to consent. They affect the uneducated for more often. And the implications for much of this kind of technology goes far beyond the purchasers as was clearly brought up in the article. Corporate security is now home network security. Not to mention what your increasingly pervasive use of Internet connected cameras might be encroaching into with your neighbors. Don’t be glib and ignorant. No one on here has time for that.
+Leave A Comment Cancel Reply
+Save my name, email, and website in this browser for the next time I comment.
+Notify me when new comments are added.
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+InfoSec Insider
+Defending the Intelligent Edge from Evolving Attacks
+Making Sense of the Security Sensor Landscape
+As Modern Mobile Enables Remote Work, It Also Demands Security
+Cybersecurity Predictions for 2021: Robot Overlords No, Connected Car Hacks Yes
+How to Update Your Remote Access Policy – And Why You Should Now
+Newsletter
+Subscribe to Threatpost Today
+Join thousands of people who receive the latest breaking cybersecurity news every day.
+Subscribe now
+Twitter
+Despite #hospitals being on the front lines during the #pandemic, bad actors have continued to target them with ran… https://t.co/GsqaESgIok
+Subscribe to our newsletter, Threatpost Today!
+Get the latest breaking news delivered daily to your inbox.
+Subscribe now
+Threatpost
+Topics
+Cloud SecurityMalwareVulnerabilitiesPrivacy
+Show all
+Black HatCritical InfrastructureCryptographyFacebookFeaturedGovernmentHacksIoTMobile SecurityPodcastsRSACSecurity Analyst SummitSlideshowVideosWeb Security
+Authors
+Lindsey O'DonnellTara SealsTom Spring
+Threatpost
+HomeAbout UsContact UsAdvertise With UsRSS FeedsHackerOne Spotlight
+Search
+InfoSec Insider
+Infosec Insider Post
+Infosec Insider content is written by a trusted community of Threatpost cybersecurity subject matter experts. Each contribution has a goal of bringing a unique voice to important cybersecurity topics. Content strives to be of the highest quality, objective and non-commercial.
+Sponsored
+Sponsored Content
+Sponsored Content is paid for by an advertiser. Sponsored content is written and edited by members of our sponsor community. This content creates an opportunity for a sponsor to provide insight and commentary from their point-of-view directly to the Threatpost audience. The Threatpost editorial team does not participate in the writing or editing of Sponsored Content.

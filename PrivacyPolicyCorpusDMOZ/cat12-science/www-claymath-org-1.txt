@@ -1,0 +1,21 @@
+http://www.claymath.org/about/cookies-and-privacy
+Skip to main content
+Cookies and Privacy
+Privacy Statement
+CMI does not pass on or collect personal information about visitors to this website.
+Cookies Set by this Website
+Drupal (has_js): This cookie records whether or not the user has javascript enabled.Drupal (SESS...):  Temporary session cookie. This cookie is deleted as soon as you close your browser.Mathjax (_cfuid):  The site uses MathJax on some pages.  MathJax is a JavaScript engine that displays mathematical notation in web browsers. When you view one of these pages the MathJax website will place a cookie
+domain = .mathjax.org, name = __cfduid
+on your computer. It is used to identify individual clients behind a shared IP address and to apply security settings on a per-client basis.  It does not store any personally identifiable information.
+Google Analytics (_ga etc):  These cookies are created for use with Google Analytics.
+_ga is used to distinguish users and has an expiration of 2-years.
+_gid is used to distinguish users and has an expiration of 24-hours.
+_gat is used to throttle requests and has an expiration of 10-minutes.
+In each case, the value format is:
+Version.Depth.UniqueID.CreationTimeStamp
+Where:
+Version = GA version
+Depth = 2 for Top Level Domain, 3+ for Subs, etc
+UniqueID = Random Number
+CreationTimeStamp = Epoch Time When Cookie Was Created
+Opt out of Google Analytics

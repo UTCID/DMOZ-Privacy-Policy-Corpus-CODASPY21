@@ -1,0 +1,144 @@
+http://www.riskmetrics.com/cookie-policy
+Navigation
+Skip to Content
+Cookie Notice
+Breadcrumb
+Legal
+Cookie Notice
+Navigation Menu
+Terms of use
+Additional Terms of Use - MSCI ESG Research LLC
+Privacy notice
+Cookie notice
+Information security
+MSCI third party notices
+Supplier code of conduct
+Modern slavery statement
+Index/Price Data Additional Terms of Use
+Local requirements
+U.K. tax strategy
+Notice & Disclaimer
+Mobile application terms of use
+Cookie policy 2019
+Cookie notice Last Update: May 21st, 2020
+This Cookie Notice describes how MSCI Inc. and its affiliates (together, “MSCI”) uses cookies on its public website public site (https://www.msci.com), Client Support site (https://support.msci.com) and Index Monitor site (https://im.msci.com) which is a portal for our clients to receive our Index Data. Each of the forgoing websites is referred to as a “Website” and together the “Websites”. Cookies are small text files that a website saves on a computer or mobile device when a person visits a website. Cookies are sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie, in order to develop a record of the user’s online activity. Cookies may be delivered by the website a user visits, or by third parties. In general, cookies collect information such as a user’s IP address, browser type, operating system, referring URLs, date and time of visit, and details about the actions you take on a website. We use cookies to monitor and analyze Website login data, usage and trends for the purposes of:
+operating, maintaining, developing, improving and customizing our Website; knowing when a user visits / returns to our Website, which pages a user is looking at, and how often and how long a user looks at a web page; creating aggregate and anonymous usage statistics to monitor and improve Website traffic, performance, features, functionality and security; and correlating data in our CRM systems about our clients’ and prospects’ personnel with Website visitation and navigation data, including product and Client Support site login data, for purposes of creating leads and generating sales
+We do not use cookies to track users’ behavior across the internet; engage in email retargeting, profiling or scoring for purposes of risk assessment or behavioral advertising based on internet use; or, place ads on third party sites based on users’ behavior on our Websites. We use the following types of cookies:
+Strictly necessary cookies enable you to move around our Website and use its features, such as accessing secure areas. Without these cookies, services you’ve asked for (such as access to secure areas) cannot be provided. Functionality cookies allow us to remember choices you make (such as your username, language or the region you are in) and provide enhanced, more personal features. For instance, we may be able to provide you with local content by storing in a cookie the region in which you are currently located. Functionality cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites. Performance cookies collect information about how you use our Website, for example which pages you go to most often, and if you get error messages from certain pages. Without these cookies, we cannot learn how our Website is performing and make relevant improvements. Analytics cookies collect anonymous information about how visitors use our Website. We use Google Analytics for this purpose. The Google Analytics cookie collects anonymised information, to give us aggregate, non-identifiable insights into how our Website is being used. Please note, if you accept our marketing cookies (as described below), we may also be able use Google Analytics to report Website usage statistics about you individually. Marketing cookies let us to know when you interact with our marketing communications. In addition, if you submit an online form to us (e.g., email subscribe, Contact Us, event registration, etc.), we use these cookies to identify your Website visits and to track your navigation activities on our Website. Our Client Support site cookies let us know when our registered clients visit our Client Support site, and helps us see their navigation activities on our Website.
+MSCI may use web beacons which may allow us to receive confirmation when you open an email from MSCI, or if you interact with a link we issue to you, if your device supports this type of program. We also use third party cookies on our Websites, as described below. Your choices You may reject cookies by changing your Internet browser settings. However, if you do so, portions of our Website may not function properly and we may not be able to respond to your request. To learn more about cookies and how you can manage or delete them, visit www.aboutcookies.org. You may use our Cookie Preference tool to update your cookie preferences. Using this dashboard, you can either accept all cookies, or selectively accept our analytics and/or marketing cookies. If you use a Chrome browser, you may also download a plug-in directly from Google that disables Google Analytics. For more information about this plug-in, please click here. Below, we provide specific information regarding our use of cookies on each of the following domains:
+https://www.msci.com (Public Website) https://support.msci.com (Support Portal) https://im.msci.com (Index Monitor)
+MSCI’s public website (www.msci.com) Strictly Necessary Cookies
+Cookie name Domain scope Type Description
+COOKIE_SUPPORT www.msci.com persistent (46 years, 7 months, 15 days) Holds the value of session.test.cookie.support property. If that property is set to true, users have to have cookies enabled in order to sign in.
+GUEST_LANGUAGE_ID www.msci.com persistent (46 years, 7 months, 15 days) Used to store the guest’s preferred language id.
+JSESSIONID www.msci.com session This session cookie indicates that you are actively using the site. This indicates, at any given time, how many users are visiting the site. This cookie is deleted when you close your browser. http://cookiepedia.co.uk
+LFR_SESSION_STATE_$UserId www.msci.com session Holds the timestamp of the last request. Used to display the session expiry warning message.
+MSCICookiesAcknowledged www.msci.com persistent (5 years) This cookie is used to record if a visitor has acknowledged the message about the use of cookies on the MSCI website. This cookie expires after 5 years.
+NSC_ support.msci.com session This cookie is used by MSCI’s Load Balancing technology, to facilitate session persistence.
+amlbcookie *.msci.com session This cookie is used by MSCI’s Load Balancing technology, to facilitate session persistence.
+SSOSID *.msci.com session Single Sign On. Required for Authentication.
+session-jwt *.msci.com persistent (90 days) Used for autentication
+Functionality cookies
+Cookie name Domain scope Type Description
+MSCI_Futures_Contracts_Markets, WMA, constituents-disclaimer-accepted, IPD_Indexed_Terms_Accepted, MSCI_Index_Legals www.msci.com persistent (180 or 395 days) These cookies are used to prevent Terms and Conditions page to be displayed multiple times after they are accepted
+jwplayer.captionLabel, jwplayer.qualityLabel, jwplayer.volume, jwplayer.mute www.msci.com session These cookies are used by JWPlayer (video player) to remember user's choices for any further videos he/she views
+searchResults www.msci.com persistent (180 days) This cookie allows the website to remember user's choice about list size in some search.
+Marketing-OptIn, CS-OptIn, GDPR-hide-banner *.msci.com persistent (365 days) This cookies are used to control the Cookie Preference Center.
+Msci_newsletter_floating_box *.msci.com session This cookie allows the website to remember user's choice when closing the newsletter signup box.
+Performance cookies
+Cookie name Domain scope Type Description
+ak_bmsc *.msci.com persistent (2 hours) Used by Akamai to optimize site performance and security
+deployments *.msci.com persistent (365 days) This is a helper cookie used for fixing cookie storage on client browser.
+msci_w2l www.msci.com persistent (182 days) This cookie is used to prevent Pardot form to be displayed more times during redirects.
+msci-download-token *.msci.com persistent (24 hours) Helps us to improve our services by monitoring the visitor behaviour on the website.
+msci-research-paper-token msci-real-estate-token msci-sedol-token esg-registration-token *.msci.com persistent (180 days) Helps us to improve our services by monitoring the visitor behaviour on the website.
+Analytics cookies
+Cookie name Domain scope Type Description
+_ga *.msci.com persistent (2 years) Google Analytics 1: Used to distinguish users. http://cookiepedia.co.uk
+_gat_UA-397044-15 *.msci.com persistent (10 minutes) Google Analytics: Used to throttle the request rate - limiting the collection of data on high traffic. http://cookiepedia.co.uk
+_utma *.msci.com persistent (2 years) Google Analytics: Used to calculate new and returning visitor statistics. http://cookiepedia.co.uk
+_utmc support.msci.com session Google Analytics: Used to identify new sessions/visits for returning visitors. http://cookiepedia.co.uk
+_utmz *.msci.com persistent (6 months) Google Analytics: Used to identify the source of traffic to the site. http://cookiepedia.co.uk
+_gid *.msci.com persistent (24 hours) Google Universal Analytics: Used to distinguish users
+Marketing cookies
+Cookie name Domain scope Type Description
+pi_opt_in *.msci.com persistent (13 months) Pardot: If your account tracks opt-in preferences, the pi_opt_in cookie is set with a true or false value when the visitor opts in or out of tracking.
+visitor_id www.msci.com persistent (13 months) Pardot: This cookie is set for visitors by the Pardot tracking code.
+Third party online service providers MSCI uses a number of online services from third party providers. Below is a summary of these services and links to obtain further information on how these providers may use cookies.
+Third Party service More Information
+Online event registration from Certain MSCI uses online event registration software from Certain. Certain may deliver cookies. Consult Certain's Privacy Policy for more information.
+Sharing content on LinkedIn MSCI's website provides the ability to share content on LinkedIn. LinkedIn may deliver cookies. Consult LinkedIn's Privacy Policy for more information.
+Sharing content on Twitter MSCI's website provides the ability to share content on Twitter. Twitter may deliver cookies. Consult Twitter's Privacy Policy for more information.
+Video streaming from YouTube MSCI uses YouTube to embed rich media content. YouTube may deliver cookies. Consult YouTube's Privacy Guidelines for more information.
+Video streaming from Amazon Web Services MSCI uses Amazon Web Services (AWS) platform to deliver its rich media content. AWS may deliver cookies. AWS is covered by the AWS Privacy Notice
+"Web-to-Lead" from Salesforce Pardot MSCI uses online services from Salesforce Pardot. Salesforce Pardot may deliver cookies. Consult Salesforce Pardots's Privacy Statement for more information.
+Investor Relations website from Shareholder.com MSCI's Investor Relations website is hosted and maintained by Shareholder.com. Shareholder.com may deliver cookies. Consult Shareholder's Privacy Statement for more information.
+Careers website from SmashFly The careers website is hosted and maintained by SmashFly. This site may deliver cookies. Consult SmashFly Privacy Policy for more information.
+Job Applicant System hosted by Oracle/Taleo The Job applicant system is hosted by Oracle/Taleo. This site may also deliver cookies. Please visit the Taleo website for more information.
+MSCI’s client support website (https://support.msci.com)
+Strictly necessary cookies
+Cookie name Domain scope Type Description
+COOKIE_SUPPORT support.msci.com persistent (46 years, 7 months, 15 days) Holds the value of session.test.cookie.support property. If that property is set to true, users have to have cookies enabled in order to sign in.
+GUEST_LANGUAGE_ID support.msci.com persistent (46 years, 7 months, 15 days) Used to store the guest’s preferred language id.
+JSESSIONID support.msci.com session This session cookie indicates that you are actively using the site. This indicates, at any given time, how many users are visiting the site. This cookie is deleted when you close your browser. http://cookiepedia.co.uk
+LFR_SESSION_STATE_$UserId support.msci.com session Holds the timestamp of the last request. Used to display the session expiry warning message.
+MSCICookiesAcknowledged support.msci.com persistent (5 years) This cookie is used to record if a visitor has acknowledged the message about the use of cookies on the MSCI website. This cookie expires after 5 years.
+NSC_ support.msci.com session This cookie is used by MSCI’s Load Balancing technology, to facilitate session persistence.
+SAML_SP_SESSION_KEY support.msci.com session This cookie stores the SSO session key.
+amlbcookie *.msci.com session This cookie is used by MSCI’s Load Balancing technology, to facilitate session persistence.
+SSOSID *.msci.com session Single Sign On. Required for Authentication.
+session-jwt *.msci.com persistent (90 days) Used for autentication
+Functionality cookies
+Cookie name Domain scope Type Description
+jwplayer.captionLabel, jwplayer.qualityLabel, jwplayer.volume, jwplayer.mute support.msci.com session These cookies are used by JWPlayer (video player) to remember user's choices for any further videos he/she views
+Marketing-OptIn, CS-OptIn, GDPR-hide-banner *.msci.com persistent (365 days) This cookies are used to control the Cookie Preference Center.
+Msci_newsletter_floating_box *.msci.com session This cookie allows the website to remember user's choice when closing the newsletter signup box.
+Performance cookies
+Cookie name Domain scope Type Description
+ak_bmsc *.msci.com persistent (2 hours) Used by Akamai to optimize site performance and security
+deployments *.msci.com persistent (365 days) This is a helper cookie used for fixing cookie storage on client browser.
+msci_w2l www.msci.com persistent (182 days) This cookie is used to prevent Pardot form to be displayed more times during redirects.
+msci-download-token *.msci.com persistent (24 hours) Helps us to improve our services by monitoring the visitor behaviour on the website.
+msci-research-paper-token, msci-real-estate-token, msci-sedol-token, esg-registration-token *.msci.com persistent (180 days) Helps us to improve our services by monitoring the visitor behaviour on the website.
+Analytics cookies
+Cookie name Domain scope Type Description
+_ga *.msci.com persistent (2 years) Google Analytics: Used to distinguish users. http://cookiepedia.co.uk
+_ga support.msci.com persistent (2 years) Google Analytics: Used to distinguish users. http://cookiepedia.co.uk
+_gat_UA-11886152-1 support.msci.com persistent (10 minutes) Google Analytics: Used to throttle the request rate - limiting the collection of data on high traffic. http://cookiepedia.co.uk
+_utma *.msci.com persistent (2 years) Google Analytics: Used to calculate new and returning visitor statistics. http://cookiepedia.co.uk
+_utmc support.msci.com session Google Analytics: Used to identify new sessions/visits for returning visitors. http://cookiepedia.co.uk
+_utmz *.msci.com persistent (6 months) Google Analytics: Used to identify the source of traffic to the site. http://cookiepedia.co.uk
+_gid *.msci.com persistent (24 hours) Google Universal Analytics: Used to distinguish users
+salesForceContactId *.msci.com persistent (365 days) This is a helper cookie used for tracking the user behaviour on the website.
+Marketing cookies
+Cookie name Domain scope Type Description
+pi_opt_in *.msci.com persistent (13 months) Pardot: If your account tracks opt-in preferences, the pi_opt_in cookie is set with a true or false value when the visitor opts in or out of tracking.
+visitor_id www.msci.com persistent (13 months) Pardot: This cookie is set for visitors by the Pardot tracking code.
+Third party online service providers MSCI uses a number of online services from Third Party providers. Below is a summary of these services and links to obtain further information on how these providers may use cookies.
+Third Party service More Information
+Custom Search Engine from Google Google Custom Search Engine (CSE) functionality has been implemented on this site for the in-page search box. The Google CSE may deliver cookies. The CSE is covered by the Google Privacy Policy.
+Online event registration from Certain MSCI uses online event registration software from Certain. Certain may deliver cookies. Consult Certain’s Privacy Policy for more information.
+Sharing content on LinkedIn MSCI's website provides the ability to share content on LinkedIn. LinkedIn may deliver cookies. Consult LinkedIn's Privacy Policy for more information.
+Video streaming from Amazon Web Services MSCI uses Amazon Web Services (AWS) platform to deliver its rich media content. AWS may deliver cookies. AWS is covered by the AWS Privacy Notice
+"Web-to-Lead" from Salesforce Pardot MSCI uses online services from Salesforce. Salesforce may deliver cookies. Consult Salesforce Pardots's Privacy Statement for more information.
+MSCI’s index monitor website (https://im.msci.com) Performance cookies
+Cookie Name Purpose
+MSCI Index Monitor application session cookie mtracksessid This cookies tracks a visitor's active session preferences when using the Index Monitor application. It is deleted when the visitor logs out and the browser is closed.
+Strictly necessary cookies
+Cookie Name Purpose
+MSCI Load Balancing cookie NSC_ This cookie is used by MSCI's Load Balancing technology, to facilitate session persistence.
+*********************** How to contact us If you have any questions in relation to this Cookie Notice, you can contact us at: MSCI Inc. 7 World Trade Center 250 Greenwich Street, 49th Floor New York, NY 10007 Attn: Privacy Officer Email: privacy@msci.com Our external data protection officer for IPD Investment Property Databank GmbH and Barra International, LLC Niederlassung Deutschland is: ePrivacy GmbH represented by Prof. Dr. Christoph Bauer Große Bleichen 21 20354 Hamburg Changes to this cookie notice This Cookie Notice may be changed from time to time to reflect changes in our practices concerning the collection and use of personal information.  Please check back frequently to see any updates or changes to this Cookie Notice.
+Regulation
+We use cookies to optimize site functionality and give you the best possible experience. Learn More
+Accept
+Cookie Preferences
+Cookie Preferences
+Accept all cookies This website uses cookies to remember users and understand ways to enhance their experience. For more information, please visit our Cookie Notice. Accept All Cookies
+Strictly Necessary, Functionality and Performance Cookies We use cookies to enable you to move around our website and use its features, to provide you with functionality by remembering choices you make and provide enhanced features, and to learn how our website is performing and make improvements. For more information, please visit our Cookie Notice.
+Analytics CookiesWe use Google Analytics to collect anonymous information about how visitors use our website. These cookies collect only non-personal information, and give us aggregate, non-identifiable insights into how our website is being used. Please note, if you accept our marketing cookies (as described below), we may also be able use Google Analytics to report website usage statistics about you individually. For more information, please visit our Cookie Notice
+Marketing Cookies Our marketing cookies let us to know when you interact with our marketing communications. In addition, if you submit an online form to us (e.g., email subscribe, Contact Us, event registration, etc.), we use these cookies to identify your navigation activities on our websites.
+Our Client Support site cookies let us know when our registered clients visit our Client Support site, and help us see their navigation activities on our websites.
+For more information, please visit our Cookie Notice
+Marketing Cookies
+Client Support Cookies
+Save Preferences

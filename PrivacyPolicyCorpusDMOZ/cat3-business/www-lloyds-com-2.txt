@@ -1,0 +1,117 @@
+http://www.lloyds.com/common/cookies-policy
+Cookies policy
+Share
+1. Introduction
+This Cookies Policy applies to our use of “cookies” in connection with this website and our online platforms (the “Websites”). We use cookies on our Websites to help make your visits more effective so we'd like to explain more about how and why we use them. By continuing to browse our Websites without adjusting your browser settings to block cookies (for information about how to do this please see below), you are agreeing to our use of cookies.
+For the purposes of this Privacy Notice, references to “we”, “us” or “our” shall refer to Lloyd’s.
+2.	Who we are
+The Society of Lloyd’s (Lloyd’s) is incorporated by Lloyd’s Acts 1871 to 1982 whose principal place of business is at One Lime Street, EC3M 7HA.
+3.	What are cookies
+Cookies are small text files that are placed on your computer by websites that you visit.
+They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
+For example, cookies are used to remember users’ preferences and to help navigate between pages efficiently.
+4.	What cookies we use and why
+The table below explains the cookies we use and why:
+Cookie name
+Purpose
+AppAuth
+This cookie is required to run Lloyd's Bridge site.  It tracks the user to ensure that it serves the correct session data to the correct user.  This cookie is deleted when you close your browser.
+ARRAffinity
+This cookie binds the user session with application instance in the cloud. Session data on the server is non-transferable between application instances and this cookie guides the cloud how to route traffic for the particular session. This cookie is deleted when you close your browser.
+ASP.NET_SessionId
+This cookie is required to run our site.  It tracks the user to ensure that it serves the correct session data to the correct user.  This cookie is deleted when you close your browser.
+cookieLoggedInKey
+This cookie is used to remember a user that has logged on to the Market Directories section.  This cookie is deleted when you close your browser.
+cookieURLBeforeLoginkey
+This cookie is used in Market Directories to remember which url the user comes from before they are redirected for authentication.  This cookie is deleted when you close your browser.
+LDC.CrystalReferrerPage
+This cookie is used to keep track of what lloyds.com page the user came from to ensure that the back button works correctly.  This cookie will last for 365 days.
+FedAuth
+This cookie is used to provide persistent access via the use of 'remember me' functionality. It keeps track of your user name and credentials and logs you in directly to specified applications when using the same PC regardless of browser session. This cookie will last for 365 days.
+GeoID
+GeoTiD
+Used to store the country a user is in, based on the IP address they are browsing from. This cookie relates to the mobile site only and is deleted when you close your browser.
+lcookieset
+This cookie tracks a user’s progress through the first Solvency II Tutorial and what questions they have or have not completed.  This cookie is deleted when you close your browser.
+LDC.Dashboard
+This cookie allows us to remember a user’s dashboard preferences.  This cookie will last for 365 days.
+LDC.Disclaimer
+These cookies allow us to remember which disclaimers have been accepted by a user so that they do not have to accept them every time they access the relevant content.  These cookies will last for 365 days.
+LDC.TakeoverPage
+Where Lloyd’s deploys a takeover page which will only be done in exceptional circumstances, users will be issued with this cookie to signify that they have viewed the page.  This cookie will last for 365 days.
+LDC.User
+This cookie holds the logged in username so that the website can present the user’s name on the top banner.  This cookie will last for 365 days.
+level
+This cookie is essential to remember a user’s progress through the Solvency II Tutorial.  This cookie is deleted when you close your browser.
+Poll cookies
+For example:
+• Poll ID
+• -c00b-4489-8c8b-6c493855f6ac
+• 1ef4466c-d5fd-4639-9765-ea64e0d958bf
+Poll cookies are created and used each time a new poll is put on the website.  The cookie records that a user has voted in one of our online polls.  The cookie remembers the user’s IP address and ensures that the user cannot vote more than once.  The cookie will last for 365 days.
+tutorial
+tutorial id
+These cookies are essential to remember a user’s progress through the Solvency II Tutorial and whether the user has completed it.  These cookies will last for 30 days.
+UR
+This cookie is created when a user logs into lloyds.com.  This cookie is only deleted when you log out of the session.
+WT_FPC
+ACOOKIE
+These cookies are used by Webtrends to collect information about how visitors use our site.  We use the information to compile reports and to help us improve the site.  The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and pages they visited.  The cookies do not collect personal identifiable information.
+The WT_FPC cookie will last for 10 years.
+The ACOOKIE will last for 2 years.
+Please refer to Webtrend’s privacy policy for further information: http://webtrends.com/privacy-policy/
+WurflCloud_Client
+Used to store information about the type of device browsing the site. This cookie lasts for one day.
+_ga
+_gat_UA-44620912-1
+_gid
+Google Analytics - Uses cookies to:
+- Determine which domain to measure
+- Distinguish unique users
+- Remember the number and time of previous visits
+- Remember traffic source information
+- Determine the start and end of a session
+- Remember the value of visitor-level custom variables
+_utma
+Used by Google Analytics to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics. This cookie will last for two years.
+_utmb
+Used by Google Analytics to determine new sessions/visits. The cookie is created when the javascript library executes and no existing __utmb cookies exists. The cookie is updated every time data is sent to Google Analytics. This cookie will last for 30 minutes after last being used.
+_utmc
+Used by Google Analytics. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit. This cookie is deleted when you close your browser.
+_utmz
+Used by Google Analytics. Stores the traffic source or campaign that explains how the user reached the site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics. This cookie will last for six months.
+_utmv
+Used by Google Analytics to store visitor-level custom variable data. The cookie is updated every time data is sent to Google Analytics. This cookie will last for two years.
+LDC.CookieLawComplaiance
+Used to hide the Cookie Banner once accepted
+f5avr0013419198aaaaaaaaaaaaaaaa
+f5avrbbbbbbbbbbbbbbbb
+f5_cspm
+Used by load balancer to direct traffic to different servers
+_RequestVerificationToken
+Used as an antiforgery token to protect form data
+5.	Cookies set by Third Party websites
+Lloyd’s does sometimes embed photos and video content from websites such as YouTube.
+As a result, when you visit a page with content embedded from, for example, YouTube, you may be presented with cookies from those websites.
+Lloyd’s does not control the dissemination of these cookies.
+You should check the relevant third party website for more information about these.
+Lloyd’s website now carries embedded ‘share’ buttons to enable users to easily share articles and information with other people through a number of popular social networks.
+These social network sites may set a cookie when you are also logged into their service.
+Lloyd’s does not control the dissemination of these cookies and you should check the relevant third party website for more information about these.
+6.	How to control and delete cookies
+If you wish to restrict or block the cookies which are set by Lloyd’s, or indeed any other website, you can do this through your browser settings.
+The “Help” function within your browser should tell you how.
+Alternatively, you may wish to visit www.allaboutcookies.org which contains comprehensive information on how to do this on a wide variety of browsers.
+You will also find details on how to delete cookies from your computer as well as more general information about cookies.
+For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+Please be aware that restricting cookies may impact on the functionality of the Lloyd’s website.
+7. 	Local Shared Objects (Flash Cookies)
+i)	Lloyd’s uses Flow Player to deliver some video content to improve user experience, Local Shared Objects (otherwise known as ‘Flash cookies’) are used to manage basic permissions and check bandwidth.
+Flash cookies are stored on a user’s computer much the same way as cookies are, however, it is not possible to manage them at browser level.
+ii)	The Adobe website provides information on how to delete or disable Flash cookies:
+iii)	http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html
+iv)	Please note that if you disable Flash cookies you will be unable to view certain video content on our website.
+8.	Further information
+More information about cookies and managing your browser settings can be found at http://www.allaboutcookies.org
+The International Chamber of Commerce's Guide to Cookies is available at https://www.cookielaw.org/media/1096/icc_uk_cookiesguide_revnov.pdf
+If you share the use of a computer, accepting or rejecting the use of cookies will affect all users of that computer.

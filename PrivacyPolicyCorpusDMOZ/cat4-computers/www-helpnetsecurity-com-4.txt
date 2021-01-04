@@ -1,0 +1,42 @@
+https://www.helpnetsecurity.com/2020/09/22/secure-data-sharing-in-a-world-concerned-with-privacy/
+searchtwitterarrow rightmail strokearrow leftmail solidfacebooklinkedinplusangle upmagazine plus
+40% of COVID-19 contact tracing apps lack basic protections
+Engineers design transistor that disguises key computer chip hardware from hackers
+Most IT decision makers don’t trust data, but 54% still use it to make decisions
+How do I select cyber insurance for my business?
+Phishers bypass Microsoft 365 security controls by spoofing Microsoft.com
+The ongoing debate surrounding privacy protection in the global data economy reached a fever pitch with July’s “Schrems II” ruling at the European Court of Justice, which struck down the Privacy Shield – a legal mechanism enabling companies to transfer personal data from the EU to the US for processing – potentially disrupting the business of thousands of companies.
+The plaintiff, Austrian privacy advocate Max Schrems, claimed that US privacy legislation was insufficiently robust to prevent national security and intelligence authorities from acquiring – and misusing – Europeans’ personal data. The EU’s top court agreed, abolishing the Privacy Shield and requiring American companies that exchange data with European partners to comply with the standards set out by the GDPR, the EU’s data privacy law.
+Following this landmark ruling, ensuring the secure flow of data from one jurisdiction to another will be a significant challenge, given the lack of an international regulatory framework for data transfers and emerging conflicts between competing data privacy regulations.
+This comes at a time when the COVID-19 crisis has further underscored the urgent need for collaborative international research involving the exchange of personal data – in this case, sensitive health data.
+Will data protection regulations stand in the way of this and other vital data sharing?
+The Privacy Shield was a stopgap measure to facilitate data-sharing between the US and the EU which ultimately did not withstand legal scrutiny. Robust, compliant-by-design tools beyond contractual frameworks will be required in order to protect individual privacy while allowing data-driven research on regulated data and business collaboration across jurisdictions.
+Fortunately, innovative privacy-enhancing technologies (PETs) can be the stable bridge connecting differing – and sometimes conflicting – privacy frameworks. Here’s why policy alone will not suffice to resolve existing data privacy challenges – and how PETs can deliver the best of both worlds:
+A new paradigm for ethical and secure data sharing
+The abolition of the Privacy Shield poses major challenges for over 5,000 American and European companies which previously relied on its existence and must now confront a murky legal landscape. While big players like Google and Zoom have the resources to update their compliance protocols and negotiate legal contracts between transfer partners, smaller innovators lack these means and may see their activities slowed or even permanently halted. Privacy legislation has already impeded vital cross-border research collaborations –
+one prominent example is the joint American-Finnish study regarding the genomic causes of diabetes, which “slowed to a crawl” due to regulations, according to the head of the US National Institutes of Health (NIH).
+One response to the Schrems II ruling might be expediting moves towards a federal data privacy law in the US. But this would take time: in Europe, over two years passed between the adoption of GDPR and its enforcement. Given that smaller companies are facing an immediate legal threat to their regular operations, a federal privacy law might not come quickly enough.
+Even if such legislation were to be approved in Washington, it is unlikely to be fully compatible with GDPR – not to mention widening privacy regulations in other countries. The CCPA, the major statewide data protection initiative, is generally considered less stringent than GDPR, meaning that even CCPA-compliant businesses would still have to adapt to European standards.
+In short, the existing legislative toolbox is insufficient to protect the operations of thousands of businesses in the US and around the world, which is why it’s time for a new paradigm for privacy-preserving data sharing based on Privacy-Enhancing Technologies.
+The advantages of privacy-enhancing technologies
+Compliance costs and legal risks are prompting companies to consider an innovative data sharing method based on PETs: a new genre of technologies which can help them bridge competing privacy frameworks. PETs are a category of technologies that protect data along its lifecycle while maintaining its utility, even for advanced AI and machine learning processes. PETs allow their users to harness the benefits of big data while protecting personally identifiable information (PII) and other sensitive information, thus maintaining stringent privacy standards.
+One such PET playing a growing role in privacy-preserving information sharing is Homomorphic Encryption (HE), a technique regarded by many as the holy grail of data protection. HE enables multiple parties to securely collaborate on encrypted data by conducting analysis on data which remains encrypted throughout the process, never exposing personal or confidential information. Through HE, companies can derive the necessary insights from big data while protecting individuals’ personal details – and, crucially, while remaining compliant with privacy legislation because the data is never exposed.
+Jim Halpert, a data regulation lawyer who helped draft the CCPA and is Global Co-Chair of the Data Protection, Privacy and Security practice at DLA Piper, views certain solutions based on HE as effective compliance tools.
+“Homomorphic Encryption encrypts data elements in such a way that they cannot identify, describe or in any way relate to a person or household. As a result, homomorphically encrypted data cannot be considered ‘personal information’ and is thus exempt from CCPA requirements,” Halpert says. “Companies which encrypt data through HE minimize the risk of legal threats, avoid CCPA obligations, and eliminate the possibility that a third party could mistakenly be exposed to personal data.”
+The same principle applies to GDPR, which requires any personally identifiable information to be protected.
+HE is applicable to any industry and activity which requires sensitive data to be analyzed by third parties; for example, research such as genomic investigations into individuals’ susceptibility to COVID-19 and other health conditions, and secure data analysis in the financial services industry, including financial crime investigations across borders and institutions. In these cases, HE enables users to legally collaborate across different jurisdictions and regulatory frameworks, maximizing data value while minimizing privacy and compliance risk.
+PETs will be crucial in allowing data to flow securely even after the Privacy Shield has been lowered. The EU and the US have already entered negotiations aimed at replacing the Privacy Shield, but while a palliative solution might satisfy business interests in the short term, it won’t remedy the underlying problems inherent to competing privacy frameworks. Any replacement would face immediate legal challenges in a potential “Schrems III” case. Tech is in large part responsible for the growing data privacy quandary. The onus, then, is on tech itself to help facilitate the free flow of data without undermining data protection.
+More about
+CISO
+cybersecurity
+data security
+Duality Technologies
+opinion
+privacy
+strategy
+tips
+Share this
+2021 predictions: The rise of cyber resilience
+Phishers bypass Microsoft 365 security controls by spoofing Microsoft.com
+Don't miss
+×

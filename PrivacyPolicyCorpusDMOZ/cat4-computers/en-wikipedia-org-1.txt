@@ -1,0 +1,241 @@
+http://en.wikipedia.org/wiki/Wikipedia:Edit_filter_helper
+Wikipedia:Edit filter helper
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+This page documents a procedural policy of Wikipedia.ShortcutWP:EFH
+Edit filter helper is a user group that allows non-administrators to view the details, code, and logs of private edit filters, but not to edit them (administrators can already view private filter details, code, and logs; edit filter managers have read-write access to them). The right may be granted and revoked by administrators. There are three groups of editors for whom this is useful:
+Those interested in helping with edit filters but who do not meet the thresholds required to be able to modify them.
+Those working with edit filters on another WMF wiki who want to learn from the English Wikipedia's experience and approach (anyone wanting to learn from another wiki will need permissions on that wiki and so are out of scope for this right).
+Wikipedia:Sockpuppet investigations (WP:SPI) clerks.
+This page details the right, the requirements for it, and the processes involved in granting and removing it.
+There are currently 18 filter helpers on English Wikipedia.
+Contents
+1 The right
+2 Granting the right
+3 Process for requesting
+4 Requirements for granting
+5 Requirements for retaining
+6 Reasons for removal (excluding inactivity)
+7 Process for removing right
+8 Notes
+9 See also
+The right
+The edit-filter-helper user right gives access to
+abusefilter-view-private which allows viewing of edit filters marked as private, as well as the ability to search and view the edit filter hit logs from those filters.
+Granting the right
+The edit filter helper right may be granted in the following circumstances:
+A Checkuser may, at their discretion, grant this right to a Wikipedia:Sockpuppet investigations (WP:SPI) clerk or trainee clerk who:
+Meets the criteria in the "Requirements for granting" section
+Has not had an edit filter-related right removed previously for any reason other than inactivity.
+By any administrator following a successful request at Wikipedia:Edit filter noticeboard.
+By any administrator following a self-request from an editor in good standing to reduce the editor's access from edit-filter manager.
+Process for requesting
+In a new section, make a request at Wikipedia:Edit filter noticeboard (WP:EFN).
+If a previous application for edit filter manager or edit filter helper was unsuccessful, the following people should be notified of the new discussion:
+Participants in the most recent discussion
+The closing administrator of the most recent discussion
+If the edit filter manager or edit filter helper right was previously removed for any reason other than inactivity, the following people should be notified of the new discussion:
+The administrator who removed the right
+Participants in any discussion that resulted in the right being removed
+The Arbitration Committee, if removal was at the committee's direction
+The discussion will be open at least 3 days.
+The discussion will be closed by an administrator, who will grant the right if the request was successful.
+Requirements for granting
+Must meet all these criteria:
+Demonstrated need for access (e.g. SPI clerk, involvement with edit filters)
+No recent blocks or relevant sanctions
+At least basic understanding of account security[note 1]
+At least basic understanding of regular expressions if the intent is to assist with authoring filters[note 1]
+Sufficient ability with the English language to understand notes and explanations for edit filters
+Must also meet at least one of these criteria:
+Currently-active extended confirmed editor on the English Wikipedia (i.e. has made edits or logged actions within the last 12 months)
+Current administrator on another WMF project
+Current edit filter manager on another WMF project
+Current WMF developer or staff member who needs access for WMF-related purposes
+Requirements for retaining
+Currently active on the English Wikipedia (i.e. has made edits or logged actions within the last 12 months)
+Reasons for removal (excluding inactivity)
+Note this is not an exhaustive list - removal of the right will always be considered in these circumstances, but may be considered in other circumstances too.
+Sharing details of private filters with unauthorised parties
+Poor account security (including compromised and potentially compromised accounts)
+Abuse of edit filters
+Sanctioned by Arbcom or the community for actions that mean continued suitability is in doubt
+Process for removing right
+For inactivity:
+Any administrator may remove the right from any user who does not meet the activity requirement.
+For other reasons:
+If the situation is urgent:
+Any administrator may remove the right without prior notification.
+WP:EFN should be notified of the removal, giving reasons unless privacy or similar concerns prevent this (in which case, contact an administrator privately and note you have done this).
+If the situation is not urgent:
+Any user in good standing may make a request at WP:EFN for the right to be removed, giving reasons unless privacy or similar concerns prevent this (in which case, contact an administrator privately and note in the request you have done this).
+In all cases:
+The user concerned must be notified on their talk page.
+Any discussion about the removal of the right will be closed by an administrator, who will remove the right if required and there is consensus to do so. Uncontroversial requests, including self-requests, will be closed when actioned, other requests will remain open until at least 7 days after the user was notified.
+Notes
+^ a b There is no formal definition of what constitutes a "basic understanding", but by requesting this right you are asserting that you meet these criteria. Those commenting on the request should assume good faith regarding this assertion unless they have a reason to do otherwise.
+See also
+{{User wikipedia/Edit filter helper}}, a userbox for editors with edit filter helper permission.
+{{User edit filter helper since}}, a template to indicate having edit filter helper permissions with period
+{{Edit filter helpers topicon}}, a topicon for editors with edit filter helper permission.
+meta:Abuse filter helpers
+September 2017 RfC that resulted in the creation of this user group
+vteWikipedia accounts and governanceUnregistered (IP) users
+Why create an account?
+Create an account
+Request an account
+IPs are human too
+IP addresses are not people
+IP hopper
+Registered users
+New account
+Logging in
+Reset passwords
+Username policy
+Changing username
+Usernames for administrator attention
+Unified login or SUL
+Alternate account
+Account security
+Password strength requirements
+User account security
+Personal security practices
+Two-factor authentication
+2FA for AWB
+Committed identity
+On privacy, confidentiality and discretion
+Compromised accounts
+Blocks, bans, sanctions,global actions
+Blocking policy
+FAQ
+Admins guide
+Tools
+Autoblock
+Appealing a block
+Guide to appealing blocks
+UTRS Unblock Ticket Request System
+Blocking IP addresses
+Range blocks
+IPv6
+Open proxies
+Banning policy
+ArbCom appeals
+Sanctions
+Personal sanctions
+General sanctions
+Discretionary sanctions and Log
+Essay
+Long-term abuse
+Standard offer
+Global actions
+Related to accounts
+Sockpuppetry
+Single-purpose account
+Sleeper account
+Vandalism-only account
+Wikibreak
+Enforcer
+Retiring
+Courtesy vanishing
+Clean start
+Quiet return
+User groups and global user groups
+Requests for permissions
+Admin instructions
+Admin guide
+Account creator
+PERM
+(Auto) confirmed
+PERM
+Autopatrolled
+PERM
+AutoWikiBrowser
+PERM
+Bot
+Request
+Edit filter helper
+Request
+Event coordinator
+PERM
+Extended confirmed
+PERM
+File mover
+PERM
+IP block exempt
+Request
+Mass message sender
+PERM
+New page reviewer
+PERM
+Page mover
+PERM
+Pending changes reviewer
+PERM
+Rollback
+PERM
+Template editor
+PERM
+Global rights policy
+OTRS Volunteer Response Team
+Advanced user groups
+Administrator
+RfA
+Bureaucrat
+RfB
+CheckUser and Oversight
+Request
+Edit filter manager
+Request
+Interface administrator
+Request
+Founder
+Importer
+Researcher
+Committees and related
+Arbitration Committee
+Bot approvals group
+Functionaries
+Clerks
+SPI clerks
+ArbCom clerks
+Governance
+Administration
+FAQ
+Formal organization
+Editorial oversight and control
+Quality control
+Wikimedia Foundation
+Board
+Founder's seat
+Meta-Wiki
+WikiProjects
+Elections
+Policies and guidelines
+Petitions
+Noticeboards
+Consensus
+Dispute resolution
+Reforms
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Edit_filter_helper&oldid=974334894"
+Categories: Wikipedia policiesWikipedia procedural policiesWikipedia edit filterWikipedia user access levelsHidden categories: Wikipedia semi-protected project pages
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageTalk
+Variants
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Download as PDFPrintable version
+Languages
+Add links

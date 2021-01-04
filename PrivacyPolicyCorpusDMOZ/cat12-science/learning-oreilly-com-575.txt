@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch22s02.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Microsoft’s Authenticode Technology Authenticode is a system developed by Microsoft for
+digitally signing executable code. Authenticode was publicly announced
+in June of 1996 as part of Microsoft’s Internet Explorer 3.0 and
+ActiveX technologies. Authenticode now ships as a standard part of all
+Microsoft operating systems and applications.Authenticode describes a series of file formats for signing
+Microsoft 32-bit CAB, CAT, CTL, DLL, EXE, and OCX files. The
+signed file contains the original unsigned file, the
+digital signature, and an X.509 v3 digital certificate for the public
+key needed to verify the Authenticode signature. Authenticode cannot
+sign Windows COM files or 16-bit EXE files.Authenticode is closely associated with ActiveX,
+Microsoft’s system for downloading programs from web pages to end user
+computers. There are considerable security issues associated with
+ActiveX. Authenticode was designed to mitigate these dangers by making
+software publishers accountable for programs they write. (ActiveX and
+the security provided by Authenticode are discussed in detail in Chapter 12.)According to Microsoft’s Authenticode documentation, organizations seeking to
+obtain software publishing certificates must meet the following
+criteria:IdentificationApplicants must submit their name, address, and other
+material that proves their identity as corporate
+representatives. Proof of identify requires either personal
+presence or registered credentials.The PledgeApplicants must pledge that they ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

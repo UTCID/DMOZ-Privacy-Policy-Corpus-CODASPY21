@@ -1,0 +1,619 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch04s04.html#websec2-CHP-4-SECT-4.3
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Legal Restrictions on CryptographyThe legal landscape of cryptography is complex and
+constantly changing. In recent years the legal restrictions on
+cryptography in the United States have largely eased, while the
+restrictions in other countries have increased somewhat.In this section, we’ll examine restrictions that result from
+patent law, trade secret law, import/export restrictions, and national
+security concerns.TipThese regulations and laws are in a constant state of change,
+so be sure to consult with a competent attorney (or three) if you
+will be using cryptography commercially or internationally.Cryptography and the Patent System Patents applied to computer programs, frequently
+calledsoftware patents , have been accepted by the computer industry over the
+past thirty years—some grudgingly, and some with great zeal.Some of the earliest and most important software patents
+granted by the U.S. Patent and Trademark Office were in the field of
+cryptography. These software patents go back to the late 1960s and
+early 1970s. Although computer algorithms were widely thought to be
+unpatentable at the time, the cryptography patents were allowed
+because they were written as patents on encryption devices that were
+built with hardware—computers at the time were too slow to perform
+meaningfully strong encryption in a usably short time. IBM’s
+original patents on the algorithm that went on to become the U.S.
+Data Encryption Standard (DES) were, in fact, on a
+machine that implemented the encryption technique.The doctrine of equivalence
+holds that if a new device operates in substantially
+the same way as a patented device and produces substantially the
+same result, then the new device infringes the original patent. As a
+result of this doctrine, which is one of the foundation principles
+of patent law, a program that implements a patented encryption
+technique will violate that patent, even if the original patent was
+on a machine built from discrete resistors, transistors, and other
+components. Thus, the advent of computers that were fast enough to
+implement basic logic circuits in software, combined with the
+acceptance of patent law and patents on electronic devices, assured
+that computer programs would also be the subject of patent
+law.The public key patentsThe underlying mathematical techniques that cover nearly all
+of the cryptography used on the Web today are called
+public key cryptography . This mathematics was largely worked out during the
+1970s at Stanford University and the Massachusetts Institute of
+Technology. Both universities applied for patents on the
+algorithms and for the following two decades the existence of
+these patents was a major barrier to most individuals and
+corporations that wished to use the technology.Today the public key patents have all expired. For
+historical interest, here they are:Public Key Cryptographic Apparatus and Method
+(4,218,582)Martin E. Hellman and Ralph C. MerkleExpired August 19, 1997The Hellman-Merkle patent introduced the underlying
+technique of public key cryptography and described an
+implementation of that technology called the
+knapsack algorithm . Although the knapsack algorithm was later
+found to be not secure, the patent itself withstood several
+court challenges throughout the 1990s.Cryptographic Apparatus and Method (4,200,700)Martin E. Hellman, Bailey W. Diffie, and Ralph C.
+MerkleExpired April 29, 1997This patent covers the Diffie-Hellman key exchange algorithm.Cryptographic Communications System and Method
+(4,405,829)[64] Ronald L. Rivest, Adi Shamir, and Leonard M.
+AdlemanExpired September 20, 2000.This patent covers the RSA encryption algorithm.Other patented algorithmsMany other algorithms beyond initial public key algorithms
+have been patented. For example, the IDEA encryption algorithm
+used by PGP Version 2.0 is covered by U.S. patent 5,214,703; its
+use in PGP was by special arrangement with the patent holders, the
+Swiss Federal Institute of Technology (ETH) and a Swiss company
+called Ascom-Tech AG. Because this patent does not expire until
+May 2011, the algorithm has not been widely adopted beyond
+PGP.In addition to algorithms, cryptographic protocols can be
+protected by patent. In general, one of the results of patent
+protection appears to be reduced use of the invention. For
+example, deployment of the DigiCash digital cash system has been
+severely hampered by the existence of several patents (4,529,870,
+4,759,063, 4,759,064, and others) that prohibit unlicensed
+implementations or uses of the technology.The outlook for patentsAlthough new encryption algorithms that are protected by
+patents will continue to be invented, a wide variety of unpatented
+encryption algorithms now exist that are secure, fast, and widely
+accepted. Furthermore, there is no cryptographic operation in the
+field of Internet commerce that requires the use of a patented
+algorithm. As a result, it appears that the overwhelming influence
+of patent law in the fields of cryptography and e-commerce have
+finally come to an end. Cryptography and Trade Secret Law Until very recently, many nontechnical business
+leaders mistakenly believed that they could achieve additional
+security for their encrypted data by keeping the encryption
+algorithms themselves secret. Many companies boasted that their
+products featured proprietary encryption
+algorithms. These companies refused to publish their algorithms,
+saying that publication would weaken the security enjoyed by their
+users.Today, most security professionals agree that this rationale
+for keeping an encryption algorithm secret is largely incorrect.
+That is, keeping an encryption algorithm secret does not
+significantly improve the security that the algorithm affords.
+Indeed, in many cases, secrecy actually decreases the overall
+security of an encryption algorithm.There is a growing trend toward academic discourse on the
+topic of cryptographic algorithms. Significant algorithms that are
+published are routinely studied, analyzed, and occasionally found to
+be lacking. As a result of this process, many algorithms that were
+once trusted have been shown to have flaws. At the same time, a few
+algorithms have survived the rigorous process of academic analysis.
+These are the algorithms that are now widely used to protect
+data.Some companies think they can short-circuit this review
+process by keeping their algorithms secret. Other companies have
+used algorithms that were secret but widely licensed as an attempt
+to gain market share and control.But experience has shown that it is nearly impossible to keep
+the details of a successful encryption algorithm secret. If the
+algorithm is widely used, then it will ultimately be distributed in
+a form that can be analyzed and reverse-engineered.Consider these examples:In the 1980s Ronald Rivest developed the RC2 and RC4 data
+encryption algorithms as an alternative to the DES. The big
+advantage of these algorithms was that they had a variable key
+length—the algorithms could support very short and unsecure
+keys, or keys that were very long and thus impossible to guess.
+The United States adopted an expedited export review process for
+products containing these algorithms, and as a result many
+companies wished to implement them. But RSA kept the RC2 and RC4
+algorithms secret, in an effort to stimulate sales of its
+cryptographic toolkits. RSA Data Security widely licensed these
+encryption algorithms to Microsoft, Apple, Lotus, and many other
+companies. Then in 1994, the source code for a function claiming
+to implement the RC4 algorithm was anonymously published on the
+Internet. Although RSA Data Security at first denied that the
+function was in fact RC4, subsequent analysis by experts proved
+that it was 100 percent compatible with RC4. Privately,
+individuals close to RSA Data Security said that the function
+had apparently been “leaked” by an engineer at one of the many
+firms in Silicon Valley that had licensed the source
+code.Likewise, in 1996 the source code for a function claiming
+to implement the RC2 algorithm was published anonymously on the
+Internet. This source code appeared to be derived from a copy of
+Lotus Notes that had been disassembled.In the 1990s, the motion picture industry developed an
+encryption system called the Contents Scrambling System (CSS) to
+protect motion pictures that were distributed on DVD (an acronym
+that originally meant Digital Video Discs but now stands for
+Digital Versatile Discs in recognition of the fact that DVDs can
+hold information other than video images). Although the system
+was thought to be secure, in October 1999 a C program that could
+descramble DVDs was posted anonymously to an Internet mailing
+list. The original crack was due to a leaked key. Since then,
+cryptographers have analyzed the algorithm and found deep flaws
+that allow DVDs to be very easily descrambled. Numerous programs
+that can decrypt DVDs have now been published electronically, in
+print, on posters, and even on t-shirts.[65]Because such attacks on successful algorithms are predictable,
+any algorithm that derives its security from secrecy is not likely
+to remain secure for very long. Nevertheless, algorithms that are
+not publicly revealed are protected by the trade secret provisions
+of state and federal law.Regulation of Cryptography by International and National
+LawIn the past 50 years there has been a growing
+consensus among many governments of the world on the need to
+regulate cryptographic technology. The original motivation for
+regulation was military. During World War II, the ability to
+decipher the Nazi Enigma machine gave the Allied forces a tremendous
+advantage—Sir Harry Hinsley estimated that the Allied “ULTRA”
+project shortened the war in the Atlantic, Mediterranean, and Europe
+“by not less than two years and probably by four years.”[66] As a result of this experience, military intelligence
+officials in the United States and the United Kingdom decided that
+they needed to control the spread of strong encryption
+technology—lest these countries find themselves in a future war in
+which they could not eavesdrop on the enemy’s communications.In the early 1990s, law enforcement organizations began to
+share the decades’ old concerns of military intelligence planners.
+As cryptographic technology grew cheaper and more widespread,
+officials worried that their ability to conduct search warrants and
+wiretaps would soon be jeopardized. Agents imagined seizing
+computers and being unable to read the disks because of encryption.
+They envisioned obtaining a court-ordered wiretap, attaching their
+(virtual) alligator clips to the suspect’s telephone line, and then
+hearing only static instead of criminal conspiracies. Their fears
+were made worse when crooks in New York City started using cellular
+phones, and the FBI discovered that the manufacturers of the
+cellular telephone equipment had made no provisions for executing
+wiretaps. Experiences like these strengthened the resolve of law
+enforcement and intelligence officials to delay or prevent the
+widespread adoption of unbreakable cryptography.U.S. regulatory efforts and historyExport controls in the United States are enforced through
+the Defense Trade Regulations (formerly known as the
+International Traffic in Arms Regulation—ITAR). In
+the 1980s, any company wishing to export a machine or program that
+included cryptography needed a license from the U.S. government.
+Obtaining a license could be a difficult, costly, and
+time-consuming process.In 1992, the Software Publishers Association opened
+negotiations with the State Department to create an expedited
+review process for mass-market consumer software. The agreement
+reached allowed the export of programs containing RSA Data
+Security’s RC2 and RC4 algorithms, but only when the key size was
+set to 40 bits or less.Nobody was very happy with the 40-bit compromise. Many
+commentators noted that 40 bits was not sufficient to guarantee
+security. Indeed, the 40-bit limit was specifically chosen so the
+U.S. government could decrypt documents and messages encrypted
+with approved software. Law enforcement officials, meanwhile, were
+concerned that even 40-bit encryption could represent a serious
+challenge to wiretaps and other intelligence activities if the use
+of the encryption technology became widespread.Following the 1992 compromise, the Clinton Administration
+made a series of proposals designed to allow consumers the ability
+to use full-strength cryptography to secure their communications
+and stored data, while still providing government officials
+relatively easy access to the plaintext, or the unencrypted data.
+These proposals were all based on a technique called key
+escrow. The first of these proposals was the
+administration’s
+Escrowed Encryption Standard (EES), more commonly
+known as the Clipper chip.The idea behind key escrow is relatively simple. Whenever
+the Clipper chip is asked to encrypt a message, it takes a copy of
+the key used to encrypt that message, encrypts that message key
+with a second key, and sends a copy of the encrypted key with the
+encrypted message. The key and message are stored in a block of
+data called the
+Law Enforcement Access Field (LEAF). Each Clipper
+chip has a second key that is unique to that particular Clipper
+chip, and the government has a copy of every one of them (or the
+ability to recreate them). If the Federal Bureau of Investigation,
+the National Security Agency, or the Central Intelligence Agency
+should intercept a communication that is encrypted with a Clipper
+chip, the government simply determines which key was used to
+encrypt the message, gets a copy of that chip’s second key, and
+uses the second key to decrypt the LEAF. First, it decrypts the
+message key, and then uses the message key to decrypt the message.
+This is shown schematically in Figure 4-2.Figure 4-2. A copy of the key used to encrypt the message is included
+with the encrypted message in a block of data called the Law
+Enforcement Access Field (LEAF). Each LEAF is encrypted with a
+key that is unique to the particular Clipper chip. (Adapted with
+permission from a diagram prepared by SEARCH.)The Clipper chip proposal was met with much hostility from
+industry and the general public (see Figure 4-3). Criticism
+centered upon two issues. The first objection was hardware
+oriented: PC vendors said that it would be prohibitively expensive
+to equip computers with a Clipper chip. The second objection was
+philosophical: many people thought that the government had no
+right mandating a back door into civilian encryption systems;
+Clipper was likened to living in a society where citizens had to
+give the police copies of their front door keys.In early 1996, the Clinton Administration proposed a new
+system called software key escrow
+. Under this new system, companies would be allowed
+to export software that used keys up to 64 bits in size, but only
+under the condition that a copy of the key used by every program
+had been filed with an appropriate escrow
+agent
+within the United States, so that if law
+enforcement required, any files or transmission encrypted with the
+system could be easily decrypted. This proposal, in turn, was
+replaced with another one called key
+recovery , that didn’t require escrowing keys at all, but
+that still gave the government a back door to access encrypted
+data. As an added incentive to adopt key recovery systems, the
+Clinton Administration announced that software publishers could
+immediately begin exporting mass-market software based on the
+popular DES algorithm (with 56 bits of security) if they committed
+to developing a system that included key recovery with a 64-bit
+encryption key.Figure 4-3. The “big brother inside” campaign attacked the Clinton
+Administration’s Clipper chip proposal with a spoof on the
+successful “intel inside” marketing campaign.None of these programs were successful. They all failed
+because of a combination of technical infeasibility, the lack of
+acceptance by the business community, and objections by both
+technologists and civil libertarians. In 1997, an ad hoc group of technologists and
+cryptographers issued a report detailing a number of specific
+risks regarding all of the proposed key recovery, key escrow, and
+trusted third-party encryption schemes (quotations are from the
+report):[67]The potential for insider abuseThere is fundamentally no way to prevent the
+compromise of the system “by authorized individuals who
+abuse or misuse their positions. Users of a key recovery
+system must trust that the individuals designing,
+implementing, and running the key recovery operation are
+indeed trustworthy. An individual, or set of individuals,
+motivated by ideology, greed, or the threat of blackmail,
+may abuse the authority given to them. Abuse may compromise
+the secrets of individuals, particular corporations, or even
+of entire nations. There have been many examples in recent
+times of individuals in sensitive positions violating the
+trust placed in them. There is no reason to believe that key
+recovery systems can be managed with a higher degree of
+success.”The creation of new vulnerabilities and targets for attackSecuring a communications or data storage system is
+hard work; the key recovery systems proposed by the
+government would make the job of security significantly
+harder because more systems would need to be secured to
+provide the same level of security.Scaling might prevent the system from working at allThe envisioned key recovery system would have to work
+with thousands of products from hundreds of vendors; it
+would have to work with key recovery agents all over the
+world; it would have to accommodate tens of thousands of law
+enforcement agencies, tens of millions of public-private key
+pairs, and hundreds of billions of recoverable session keys:
+“The overall infrastructure needed to deploy and manage this
+system will be vast. Government agencies will need to
+certify products. Other agencies, both within the U.S. and
+in other countries, will need to oversee the operation and
+security of the highly-sensitive recovery agents—as well as
+ensure that law enforcement agencies get the timely and
+confidential access they desire. Any breakdown in security
+among these complex interactions will result in compromised
+keys and a greater potential for abuse or incorrect
+disclosures.”The difficulty of properly authenticating requests for keysA functioning key recovery system would deal with
+hundreds of requests for keys every week coming from many
+difficult sources. How could all these requests be properly
+authenticated?The costOperating a key recovery system would be incredibly
+expensive. These costs include the cost of designing
+products, engineering the key recovery center itself, actual
+operation costs of the center, and (we hope) government
+oversight costs. Invariably, these costs would be passed
+along to the end users, who would be further saddled with
+“both the expense of choosing, using, and managing key
+recovery systems and the losses from lessened security and
+mistaken or fraudulent disclosures of sensitive
+data.”On July 7, 1998, the U.S. Bureau of Export Administration (BXA) issued an
+interim rule giving banks and financial institutions permission to
+export non-voice encryption products without data-recovery
+features, after a one-time review. This was a major relaxation of
+export controls, and it was just a taste of what was to come. On
+September 16, 1998, the BXA announced a new policy that allowed
+the export of any program using 56-bit encryption (after a
+one-time review) to any country except a “terrorist
+country,”[68] export to subsidiaries of U.S. companies, export to
+health, medical, and insurance companies, and export to online
+merchants. This policy was implemented by an interim rule on
+December 31, 1998.[69]In August 1999, the President’s Export Council Subcommittee
+on Encryption released its “Liberalization 2000” report, that
+recommended dramatic further relaxations of the export control
+laws. The Clinton Administration finally relented, and published
+new regulations on January 12, 2000. The new regulations allowed
+export of products using any key length after a technical review
+to any country that was not specifically listed as a “terrorist
+country.” The regulations also allowed unrestricted exporting of
+encryption source code without technical review provided that the
+source code was publicly available. Encryption products can be
+exported to foreign subsidiaries of U.S. firms without review.
+Furthermore, the regulations implemented the provisions of the
+Wassenaar Arrangement (described in Section 4.4.3.3)
+allowing export of all mass-market symmetric encryption software
+or hardware up to 64 bits. For most U.S. individuals and
+organizations intent on exporting encryption products, the U.S.
+export control regulations were essentially eliminated.[70]In the final analysis, the U.S. export control regulations
+were largely successful at slowing the international spread of
+cryptographic technology. But the restrictions were also
+successful in causing the U.S. to lose its lead in the field of
+cryptography. The export control regulations created an atmosphere
+of both suspicion and excitement that caused many non-U.S.
+academics and programmers to take an interest in cryptography. The
+regulations created a market that many foreign firms were only too
+happy to fill. The widespread adoption of the Internet in the
+1990s accelerated this trend, as the Internet made it possible for
+information about cryptography—from historical facts to current
+research—to be rapidly disseminated and discussed. It is no
+accident that when the U.S. National Institute of Standards and
+Technology decided upon its new Advanced Encryption Standard, the
+algorithm chosen was developed by a pair of Europeans. The U.S.
+export controls on cryptography were ultimately self-defeating.
+Nevertheless, an ongoing effort to regulate cryptography at the
+national and international level remains.The Crypto Law Survey
+is a rather comprehensive survey of these competing
+legislative approaches compiled by Bert-Jaap Koops. The survey can be found on the Web
+at the location http://cwis.kub.nl/~frw/people/koops/lawsurvy.htm.
+The later sections on international laws, as well as parts from
+the preceding paragraphs, draw from Koops’ January 2001 survey,
+which was used with his permission.The Digital Millennium Copyright ActThere is a huge and growing market in digital media.
+Pictures, e-books, music files, movies, and more represent great
+effort and great value. Markets for these items are projected to
+be in the billions of dollars per year. The Internet presents a
+great medium for the transmission, rental, sale, and display of
+this media. However, because the bits making up these items can be
+copied repeatedly, it is possible that fraud and theft can be
+committed easily by anyone with access to a copy of a digital
+item. This is copyright violation, and it is a serious concern for
+the vendors of intellectual property. Vendors of digital media are
+concerned that unauthorized copying will be rampant, and the
+failure of users to pay usage fees would be a catastrophic loss.
+The experience with Napster trading of MP3 music in 2000-2001
+seemed to bear out this fear.Firms creating and marketing digital media have attempted to
+create various protection schemes to prevent unauthorized copying
+of their products. By preventing copying, they would be able to
+collect license fees for new rentals, and thus preserve their
+expected revenue streams. However, to date, all of the
+software-only schemes in general use (most based on cryptographic
+methods) have been reverse-engineered and defeated. Often, the
+schemes are actually quite weak, and freeware programs have been
+posted that allow anyone to break the protection.In response to this situation, major intellectual property
+creators and vendors lobbied Congress for protective legislation.
+The result, the Digital Millennium Copyright Act (DMCA), was
+passed in 1998, putatively as the implementation of treaty
+requirements for the World Intellectual Property Organization’s
+international standardization of copyright law. However, the DMCA
+went far beyond the requirements of the WIPO, and added criminal
+and civil provisions against the development, sale, trafficking,
+or even discussion of tools or methods of reverse-engineering or
+circumventing any technology used to protect copyright. As of
+2001, this has been shown to have unexpected side-effects and
+overbroad application. For example:A group of academic researchers were threatened with a
+lawsuit by the music industry for attempting to publish a
+refereed, scientific paper pointing out design flaws in a
+music watermarking scheme.A Russian programmer giving a security talk at a
+conference in the U.S. was arrested by the FBI because of a
+program manufactured and sold by the company for which he
+worked. The creation and sale of the program was legal in
+Russia, and he was not selling the program in the U.S. while
+he was visiting. He faces (as of 2001) significant jail time
+and fines.A publisher has been enjoined from even publishing URLs
+that link to pages containing software that can be used to
+play DVDs on Linux systems. The software is not
+industry-approved and is based on reverse-engineering of
+DVDs.Several notable security researchers have stopped
+research in forensic technologies for fear that their work
+cannot be published, or that they might be arrested for their
+research—despite those results being needed by law
+enforcement.Traditional fair use exemptions for library and archival
+copies of purchased materials cannot be exercised unless
+explicitly enabled in the product.Items that pass into the public domain after the
+copyright expires will not be available, as intended in the
+law, because the protection mechanisms will still be
+present.Narrow exemptions were added to the law at the last moment
+allowing some research in encryption that might be used in
+copyright protection, but these exemptions are not broad enough to
+cover the full range of likely research. The exemptions did not
+cover reverse-engineering, in particular, so the development and
+sale of debuggers and disassemblers could be considered actionable
+under the law.The DMCA is under legal challenge in several federal court
+venues as of late 2001. Grounds for the challenges include the
+fact that the law chills and imposes prior restraint on speech
+(and writing), which is a violation of the First Amendment to the
+U.S. Constitution.If the law stands, besides inhibiting research in forensic
+tools (as mentioned above), it will also, paradoxically, lead to
+poorer security. If researchers and hobbyists are prohibited by
+law from looking for weaknesses in commonly used protocols, it is
+entirely possible that weak protocols will be deployed without
+legitimate researchers being able to alert the vendors and public
+to the weaknesses. If these protocols are also used in safety- and
+security-critical applications, they could result in danger to the
+public: criminals and terrorists will not likely be bound by the
+law, and might thus be in a position to penetrate the
+systems.Whether or not the DMCA is overturned, it is clear that many
+of the major entertainment firms and publishers will be pressing
+for even greater restrictions to be legislated. These include
+attempts to put copyright protections on arbitrary collections of
+data and attempts to require hardware support for copyright
+protection mechanisms mandated in every computer system and
+storage device. These will also likely have unintended and
+potentially dangerous consequences.As this is a topic area that changes rapidly, you may find
+current news and information at the web site of the Association
+for Computing Machinery (ACM) U.S. Public Policy Committee (http://www.acm.org/usacm/
+). The USACM has been active in trying to educate Congress about
+the dangers and unfortunate consequences of legislation that
+attempts to outlaw technology instead of penalizing infringing
+behavior. However, the entertainment industry has more money for
+lobbying than the technical associations, so we can expect more
+bad laws in the coming years.International agreements on cryptographyInternational agreements on the control of cryptographic
+software (summarized in Table 4-3) date back to the
+days of COCOM (Coordinating Committee for Multilateral
+Export Controls), an international organization created to control
+the export and spread of military and dual-use products and
+technical data. COCOM’s 17 member countries included Australia,
+Belgium, Canada, Denmark, France, Germany, Greece, Italy, Japan,
+Luxemburg, The Netherlands, Norway, Portugal, Spain, Turkey, the
+United Kingdom, and the United States. Cooperating members
+included Austria, Finland, Hungary, Ireland, New Zealand, Poland,
+Singapore, Slovakia, South Korea, Sweden, Switzerland, and
+Taiwan.In 1991, COCOM realized the difficulty of controlling the
+export of cryptographic software at a time when programs
+implementing strong cryptographic algorithms were increasingly
+being sold on the shelves of stores in the United States, Europe,
+and Asia. As a result, the organization decided to allow the
+export of mass-market cryptography software and public domain
+software. COCOM’s pronouncements did not have the force of law,
+but were only recommendations to member countries. Most of COCOM’s
+member countries followed COCOM’s regulations, but the United
+States did not. COCOM was dissolved in March 1994.In 1995, negotiations started for the follow-up control
+regime—the Wassenaar Arrangement on Export Controls for
+Conventional Arms and Dual-Use Goods and Technologies.[71] The Wassenaar treaty was signed in July 1996 by 31
+countries: Argentina, Australia, Austria, Belgium, Canada, the
+Czech Republic, Denmark, Finland, France, Germany, Greece,
+Hungary, Ireland, Italy, Japan, Luxembourg, the Netherlands, New
+Zealand, Norway, Poland, Portugal, the Republic of Korea, Romania,
+the Russian Federation, the Slovak Republic, Spain, Sweden,
+Switzerland, Turkey, the United Kingdom, and the United States.
+Bulgaria and Ukraine later joined the Arrangement as well. The
+initial Wassenaar Arrangement mirrored COCOM’s exemptions for
+mass-market and public-domain encryption software. In December
+1998 the restrictions were broadened.The Council of Europe is a 41-member intergovernmental
+organization that deals with policy matters in Europe not directly
+applicable to national law. On September 11, 1995, the Council of
+Europe adopted Recommendation R (95) 13 Concerning Problems of
+Criminal Procedure Law Connected with Information Technology,
+which stated, in part, that “measures should be considered to
+minimize the negative effects of the use of cryptography on the
+investigation of criminal offenses, without affecting its
+legitimate use more than is strictly necessary.”The European Union largely deregulated the transport of
+cryptographic items to other EU countries on September 29, 2000,
+with Council Regulation (EC) No 1334/2000 setting up a community
+regime for the control of exports of dual-use items and technology
+(Official Journal L159, 30.1.2000), although some items, such as
+cryptanalysis devices, are still regulated. Exports to Australia,
+Canada, the Czech Republic, Hungary, Japan, New Zealand, Norway,
+Poland, Switzerland, and the United States, may require a
+Community General Export Authorization (CGEA). Export to other
+countries may require a General National License for export to a
+specific country. Table 4-3. International agreements on cryptographyAgreementDateImpactCOCOM (Coordinating Committees for
+Multilateral Export Controls)1991-1994Eased restrictions on cryptography to allow
+export of mass-market and public-domain cryptographic
+software. Wassenaar Arrangement on Export Controls for
+Conventional Arms and Dual-Use Goods and Technologies
+1996-presentAllows export of mass-market computer
+software and public-domain software. Other provisions
+allow export of all products that use encryption to
+protect intellectual property (such as copy protection
+systems). Council of Europe1995-presentRecommends that “measures should be
+considered to minimize the negative effects of the use of
+cryptography on investigations of criminal offenses,
+without affecting its legitimate use more than is strictly
+necessary.” European Union2000-presentExport to other EU countries is largely
+unrestricted. Export to other countries may require a
+Community General Export Authorization (CGEA) or a General
+National License. National regulations of cryptography throughout the
+worldTable 4-4
+summarizes national restrictions on the import,
+export, and use of cryptography throughout the world as of March
+2001.Table 4-4. National restrictions on cryptography[72]CountryWassenaar signatory?Import/export restrictionsDomestic use restrictionsArgentinaYesNone.None.AustraliaYesExport regulated in accordance with
+Wassenaar. Exemptions for public domain software and
+personal-use. Approval is also required for software that
+does not contain cryptography but includes a plug-in
+interface for adding cryptography. None.AustriaYesFollows EU regulations and Wassenaar
+Arrangement.Laws forbid encrypting international radio
+transmissions of corporations and organizations.
+Bangladesh None apparent.None apparent.Belarus Import and export requires
+license.A license is required for design, production,
+sale, repair, and operation of cryptography.
+BelgiumYesRequires license for exporting outside of the
+Benelux.None currently, although regulations are
+under consideration.Burma None currently, but export and import may be
+regulated by the Myanmar Computer Science Development
+Council. Use of cryptography may require
+license.Brazil None.None.CanadaYesFollows pre-December 1998 Wassenaar
+regulations. Public domain and mass-market software can be
+freely exported. None.Chile None.None.People’s Republic of China Requires license by State Encryption
+Management Commission for hardware or software where the
+encryption is a core function. Use of products for which cryptography is a
+core function is restricted to specific products using
+preapproved algorithms and key lengths. Columbia None.None.Costa Rica None.None.Czech RepublicYesImport allowed if the product is not to be
+used “for production, development, collection or use of
+nuclear, chemical or biological weapons.” Export controls
+are not enforced. None.DenmarkYesSome export controls in accordance with
+Wassenaar.None.Egypt Importers must be registered.None.Estonia Export controlled in accordance with
+Wassenaar. FinlandYesExport requires license in accordance with EU
+Recommendation and Wassenaar, although a license is not
+required for mass-market goods. None.FranceYesSome imports and exports may require a
+license depending on intended function and key length.
+France liberalized its domestic regulations
+in March 1999, allowing the use of keys up to 128 bits.
+Work is underway on a new law that will eliminate domestic
+restrictions on cryptography. GermanyYesFollows EU regulations and Wassenaar;
+companies can decide for themselves if a product falls
+within the mass-market category. None.GreeceYesFollows pre-December 1998 Wassenaar.
+None.Hong Kong Special Administrative
+Region License required for import and
+export.None, although encryption products connected
+to public telecommunication networks must comply with the
+relevant Telecommunications Authority’s network connection
+specifications. HungaryYesMirror regulations requiring an import
+license if an export license is needed from Hungary.
+Mass-market encryption software is exempted.
+None.Iceland None.None.India License required for import.None.Indonesia Unclear.Unclear.IrelandYesNo import controls. Export regulated under
+Wassenaar; no restrictions on the export of software with
+64-bit key lengths. Electronic Commerce Act 2000 gives judges the
+power to issue search warrants that require decryption.
+Israel Import and export require a license from the
+Director-General of the Ministry of Defense.
+Use, manufacture, transport, and distribution
+of cryptography within Israel requires a license from the
+Director-General of the Ministry of Defense, although no
+prosecutions for using unlicensed cryptography are known
+and many Israeli users apparently do not have licenses.
+ItalyYesFollows EU regulations.Encrypted records must be accessible to the
+Treasury.Japan Export regulations mirror pre-December 1998
+Wassenaar. Businesses must have approval for export of
+cryptography orders larger than 50,000 yen.
+None.Kazakhstan Requires license.License from the Committee of National
+Security required for research, development, manufacture,
+repair, and sale of cryptographic products.
+Kyrgyzstan None.None.Latvia Mirrors EU regulations.None.LuxembourgYesFollows pre-December 1998
+Wassenaar.None.Malaysia None.None, although search warrants can be issued
+that require the decryption of encrypted messages.
+Mexico None.None.Moldova Import and export requires a license from the
+Ministry of National Security. Use requires a license from the Ministry of
+National Security.The NetherlandsYesFollows Wassenaar. No license required for
+export to Belgium or Luxemburg. Police can order the decryption of encrypted
+information, but not by the suspect. New ZealandYesFollows Wassenaar. Approval is also required
+for software that is designed for plug-in cryptography.
+None.NorwayYesFollows Wassenaar.None.Pakistan None.Sale and use of encryption requires prior
+approval.Philippines None.Not clear.Poland Follows Wassenaar. None.PortugalYesFollows pre-December 1998
+Wassenaar.None.RomaniaYesNo import controls. Exports according to
+Wassenaar.None.Russia License required for import and
+export.Licenses required for some
+uses.Saudi Arabia None.“It is reported that Saudi Arabia prohibits
+use of encryption, but that this is widely ignored.”
+Singapore No restrictions.Hardware equipment connected directly to the
+telecommunications infrastructure requires approval.
+Police, with the consent of the Public Prosecutor, may
+compel decryption of encrypted materials. SlovakiaYesIn accordance with pre-December 1998
+Wassenaar.None.Slovenia None.None.South Africa Import and export controls only apply to
+military cryptography.No regulations for commercial use or private
+organizations. Use by government bodies requires prior
+approval. South KoreaYesImport of encryption devices forbidden by
+government policy, not legislation. Import of encryption
+software is not controlled. Export in accordance with
+Wassenaar. None.Spain Export in accordance with Wassenaar and EU
+regulations. None apparent.Sweden Export follows Wassenaar. Export of 128-bit
+symmetric mass-market software allowed to a list of 61
+countries. Use of equipment to decode encrypted radio
+and television transmissions is regulated. Switzerland Import is not controlled. Export mirrors
+Wassenaar.Some uses may be regulated.Turkey Follows pre-December 1998 Wassenaar
+controls.No obvious restrictions.United Kingdom Follows EU and Wassenaar restrictions on
+export.Regulation of Investigatory Powers Act 2000
+gives the government the power to disclose the content of
+encrypted data. United States of AmericaYesFew export restrictions. None.Uruguay None.None.Venezuela None.None.Vietnam Import requires license. None.[72] Source material for this table can be found at
+http://cwis.kub.nl/~frw/people/koops/cls2.htm.
+[64] By sheer coincidence, the number 4,405,829 is
+prime.[65] Source code for the original CSS descrambling program
+can be found at http://www.cs.cmu.edu/~dst/DeCSS/Gallery/,
+or at least it could when this book went to press.[66] “The Influence of ULTRA in the Second World War,” lecture
+by Sir Harry Hinsley, Babbage Lecture Theatre, Computer
+Laboratory, University of Cambridge, Tuesday, 19 October 1993. A
+transcript of Sir Hinsley’s talk can be found at http://www.cl.cam.ac.uk/Research/Security/Historical/hinsley.html.[67] For a more detailed report, see “The Risks of Key
+Recovery, Key Escrow, and Trusted Third-Party Encryption,” by
+Hal Abelson, Ross Anderson, Steven M. Bellovin, Josh Benaloh,
+Matt Blaze, Whitfield Diffie, John Gilmore, Peter G. Neumann,
+Ronald L. Rivest, Jeffrey I. Schiller, and Bruce Schneier, 27
+May 1997 (http://www.cdt.org/crypto/risks98/).[68] These countries consisted of Cuba, Iran, Iraq, Libya,
+North Korea, Sudan, and Syria as of March 2001.[69] http://jya.com/bxa123198.txt[70] The actual regulations are somewhat more complex than
+can be detailed in this one paragraph. For a legal opinion on
+the applicability of the current export regulations to a
+particular product or software package, you should consult an
+attorney knowledgeable in import/export law and the Defense
+Trade Regulations.[71] See http://www.wassenaar.org/
+for further information on the Wassenaar Arrangement.
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

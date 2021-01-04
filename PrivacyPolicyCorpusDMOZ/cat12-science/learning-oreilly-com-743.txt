@@ -1,0 +1,26 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/apbs04.html#websec2-APP-B-SECT-4.1.5
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+SSL 3.0/TLS Handshake When a client connects to an SSL or TLS server, the
+SSL/TLS Handshake begins. The Handshake establishes the protocols that
+will be used during the communication, selects the cryptographic
+algorithms, authenticates the parties, and uses public key
+cryptography to create a master secret
+, from which encryption and authentication keys are
+derived.The master secret for the session is created by the server
+using a premaster secret sent from the client.The master secret is used to generate four more secrets
+(keys):An encryption key used for sending data from the client to
+the server.An encryption key used for sending data from the server to
+the client.An authentication key used for sending data from the client
+to the server.An authentication key used for sending data from the server
+to the client.Sequence of EventsThe Handshake is performed by a complex exchange between
+the client and the server. Optional items are indicated in
+brackets:The client opens a connection and sends the
+ClientHello.The server sends a ServerHello.[The server sends its certificate.][The server sends a ServerKeyExchange.][The server sends a CertificateRequest.]The server sends a ServerHelloDone (TLS only).[The client sends its certificate.]The client sends a ClientKeyExchange.[The client sends a CertificateVerify.]The client and server both send ChangeCipherSpec
+messages.The client and server both send finished messages.Application data flows.With the exception of the secrets that are encrypted ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

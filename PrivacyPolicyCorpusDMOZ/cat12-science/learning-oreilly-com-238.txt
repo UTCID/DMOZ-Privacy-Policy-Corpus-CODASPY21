@@ -1,0 +1,31 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch09s02.html#websec2-CHP-9-SECT-2.8.3
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Picking a Great PasswordAs we saw in Chapter
+6, passwords are the simplest form of authentication. Passwords
+are a secret that you share with the computer. When you log in, you
+type your password to prove to the computer that you are who you claim
+to be. The computer ensures that the password you type matches the
+account that you have specified. If they match, you are allowed to
+proceed.Using good passwords for your Internet services is a first line
+of defense for your privacy. If you pick a password that is easy to
+guess, then somebody who is targeting you will find it easier to gain
+access to your personal information. If you use the same password on a
+variety of different services, then a person who is able to discover
+the password for one of your services will be able to access other
+services.Why Use Passwords?Historically, most desktop personal computers did not use
+passwords. PCs were designed for use by a single person; in this
+environment, passwords were seen as an unwanted hassle.If you are like most computer users, you probably got your
+first password when you got your first Internet email account: your
+password prevented other people from logging in to your Internet
+account and downloading your email. As your use of the Web grew, you
+were probably asked to create accounts on various web sites. For
+example, if you buy a book from Amazon, the Amazon web site will ask
+you for a password so that other users will not be able to view the
+books you have ordered.Over the years, ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

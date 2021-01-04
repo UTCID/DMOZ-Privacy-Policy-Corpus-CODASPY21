@@ -1,0 +1,27 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch22.html#websec2-CHP-22-SECT-1.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 22. Code Signing and Microsoft’s AuthenticodeCode signing is a technique for signing executable programs with
+digital signatures. Code signing is designed to improve the reliability
+of software distributed over the Internet by making it possible to
+detect very minor alterations to programs. Code signing is also designed
+to combat the problem of malicious programs, including computer viruses
+and Trojan horses.This chapter describes the mechanics of code signing. For
+a discussion of why code signing might not provide the degree of safety
+its backers hope for, see Chapter
+12.Why Code Signing?Walk into a computer store and buy a copy of Microsoft Windows,
+and you can be pretty sure the box contains a genuine CD-ROM with a
+computer operating system written by the Redmond software giant. The
+program, after all, comes shrinkwrapped in a box, with a
+difficult-to-forge security hologram seal. Inside the box is a CD-ROM
+that may include its own hologram. You have great confidence that your
+CD-ROM or floppy disks have the same program as every other CD-ROM or
+floppy disk sold in every other Windows box. Presumably, the software
+was checked at the factory, so you have every reason to believe that
+you’ve got a legitimate and unaltered copy.The same can’t be said for software downloaded over the Internet. When Microsoft released its 1,264,640-byte Service Pack 1 for Windows 95, the only way to be sure that you had a legitimate and unaltered copy was to download it directly from Microsoft’s ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

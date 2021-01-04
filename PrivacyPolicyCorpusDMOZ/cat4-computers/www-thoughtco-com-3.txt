@@ -1,0 +1,174 @@
+https://www.thoughtco.com/glossary-of-visual-basic-terms-4077441
+Share
+Flipboard
+Email
+Print
+Degui Adil / EyeEm / Getty Images
+Computer Science
+Visual Basic
+PHP Programming
+Perl
+Python
+Java Programming
+Javascript Programming
+Delphi Programming
+C & C++ Programming
+Ruby Programming
+View More
+By
+Dan Mabbutt
+Computer Science Expert
+B.S., Computer Science, University of Utah
+Dan Mabbutt is a Visual Basic expert who created training courses for Visual Basic users. He co-authored two books on the subject.
+our editorial process
+Dan Mabbutt
+Updated February 20, 2020
+32-bit
+The number of bits that can be processed or transmitted in parallel, or the number of bits used for single element in a data format. Although this term is used throughout computing and data processing (as are 8-bit, 16-bit, and similar formulations), in VB terms, this means the number of bits used to represent memory addresses. The break between 16-bit and 32-bit processing happened with the introduction of VB5 and OCX technology.
+A
+Access LevelIn VB code, the ability of other code to access it (that is, read it or write to it). The access level is determined both by how you declare the code and by the access level of the container of the code. If code can't access a containing element, then it can't access any of its contained elements either, no matter how they're declared.
+Access ProtocolThe software and API that allows applications and databases to communicate information. Examples include ODBC - Open DataBase Connectivity, an early protocol that is often used in conjuction with others and ADO - ActiveX Data Objects, Microsoft's protocol for accessing all kinds of information, including databases.
+ActiveXis Microsoft's specification for reusable software components. ActiveX is based on COM, the Component Object Model. The basic idea is to define exactly how software components interact and interoperate so developers can create components that work together using the definition. ActiveX components were originally called OLE Servers and ActiveX Servers and this renaming (actually for marketing rather than technical reasons) has created a lot of confusion about what they are.
+A lot of languages and applications support ActiveX in some way or another and Visual Basic supports it very strongly since it's one of the cornerstones of the Win32 environment.
+Note: Dan Appleman, in his book on VB.NET, has this to say about ActiveX, "(Some) products come out of the marketing department.
+... What was ActiveX? It was OLE2 -- with a new name."
+Note 2: Although VB.NET is compatible with ActiveX components, they must be enclosed in "wrapper" code and they make VB.NET less efficient. In general, if you can move away from them with VB.NET, it's a good idea to do that.
+APIis a TLA (Three Letter Acronym) for Application Program Interface. An API consists of the routines, protocols and tools that programmers must use to ensure that their programs are compatible with the software that the API is defined for. A well-defined API helps applications work together by providing the same basic tools for all programmers to use. A wide variety of software from operating systems to individual components are said to have an API.
+Automation ControllerAutomation is a standard way to make a software object available through a defined set of interfaces. This is a great idea because the object is available to any language that follows the standard methods. The standard used in Microsoft (and therefore VB) architecture is called OLE automation. An automation controller is an application that can use the objects belonging to another application. An automation server (sometimes called an automation component) is an application that provides the programmable objects to the other applications.
+C
+CacheA cache is a temporary information store used in both hardware (a processor chip typically includes a hardware memory cache) and software. In web programming, a cache stores the most recent web pages visited. When the 'Back' button (or other methods) are used to revisit a web page, the browser will check the cache to see if the page is stored there and will retrieve it from the cache to save time and processing. Programmers should remember that program clients might not always retrieve a page directly from the server. This sometimes results in very subtle program bugs.
+ClassHere's the "book" definition:
+The formal definition for an object and the template from which an instance of an object is created. The main purpose of the class is to define the properties and methods for the class.
+Although included in previous versions of Visual Basic, the class has become a key technology in VB.NET and its object-oriented programming.
+Among the important ideas about classes are:
+A class can have subclasses that can inherit all or some of the characteristics of the class.Subclasses can also define their own methods and variables that are not part of their parent class.The structure of a class and its subclasses is called the class hierarchy.
+Classes involve a lot of terminology. An original class, from which interface and behavior is derived, can be identified by any of these equivalent names:
+Parent classSuperclassBase class
+And new classes can have these names:
+Child classSubclass
+CGIis Common Gateway Interface. This is an early standard used to transfer information between a web server and a client over a network. For example, a form in a "shopping cart" application might contain information about a request to purchase a particular item. The information could be passed to a web server using CGI. CGI is still used a great deal, ASP is a complete alternative that works better with Visual Basic.
+Client/ServerA computing model that divides processing between two (or more) processes. A client makes requests that are carried out by the server. It's important to understand that the processes could be running on the same computer but they normally run over a network. For example, when developing ASP applications, programmers often use PWS, a server that runs on the same computer with a browser client such as IE. When the same application goes into production, it normally runs over the Internet. In advanced business applications, multiple layers of clients and servers are used. This model now dominates computing and replaced the model of mainframes and 'dumb terminals' which were really only display monitors attached directly to a large mainframe computer.
+In object-oriented programming, a class that provides a method to another class is called the server. The class that uses the method is called the client.
+CollectionThe concept of a collection in Visual Basic is simply a way to group similar objects. Both Visual Basic 6 and VB.NET provide a Collection class to give you the ability to define your own collections.So, for example, this VB 6 code snippet adds two Form1 objects to a collection and then displays a MsgBox that tells you that there are two items in the collection.
+Private Sub Form_Load()
+Dim myCollection As New Collection
+Dim FirstForm As New Form1
+Dim SecondForm As New Form1
+myCollection.Add FirstForm
+myCollection.Add SecondForm
+MsgBox (myCollection.Count)
+End Sub
+COMis Component Object Model. Although often associated with Microsoft, COM is an open standard that specifies how components work together and interoperate. Microsoft used COM as the basis for ActiveX and OLE. The use of the COM API ensures that a software object can be launched within your application using a wide variety of programming languages including Visual Basic. Components save a programmer from having to re-write code. A component can be large or small and can perform any kind of processing, but it must be re-usable and it must conform to set standards to for interoperability.
+ControlIn Visual Basic, the tool you use to create objects on a Visual Basic form. Controls are selected from the Toolbox and then used to draw objects on the form with the mouse pointer. It's key to realize that the control is just the tool used to create GUI objects, not the object itself.
+CookieA small packet of information that is originally sent from a web server to your browser and stored on your computer. When your computer consults the originating web server again, the cookie is sent back to the server, allowing it to respond to you using information from the previous interaction. Cookies are usually used to provide customized web pages using a profile of your interests that were provided the first time you access the web server. In other words, the web server will appear to "know" you and provide what you want. Some people feel that allowing cookies is a security problem and disable them using an option provided by the browser software. As a programmer, you can't depend on the ability to use cookies all the time.
+D
+DLLis Dynamic Link Library, a set of functions that can be executed, or data that can be used by a Windows application. DLL is also the file type for DLL files. For example, 'crypt32.dll' is the Crypto API32 DLL used for cryptography on Microsoft operating systems. There are hundreds and possibly thousands installed on your computer. Some DLLs are used only by a specific application, while others, such as crypt32.dll, are used by a wide variety of applications. The name refers to the fact that DLL's contain a library of functions that can be accessed (linked) on demand (dynamically) by other software.
+E
+Encapsulationis the Object Oriented Programming technique that allows programmers to completely determine the relationship between objects using the object interface (the way the objects are called and the parameters passed). In other words, an object can be thought of as being "in a capsule" with the interface as the only way to communicate with the object.
+The main benefits of encapsulation are that you avoid bugs because you're completely certain about how an object is being used in your program and the object can be replaced with a different one if necessary as long as the new one implements the exact same interface.
+Event ProcedureA block of code that is called when an object is manipulated in a Visual Basic program. The manipulation can be done by a user of the program through the GUI, by the program, or through some other process such as the expiration of a time interval. For example, most Form object have a Click event. The Click Event Procedure for the formForm1 would be identified by the name Form1_Click().
+Expression In Visual Basic, this is a combination that evaluates to a single value. For example, the integer variable Result is given the value of an expression in the following code snippet:
+Dim Result as Integer
+Result = CInt((10 + CInt(vbRed) = 53 * vbThursday))
+In this example, Result is assigned the value -1 which is the integer value of True in Visual Basic. To help you verify this, vbRed is equal to 255 and vbThursday is equal to 5 in Visual Basic. Expressions can be a combination of operators, constants, literal values, functions, and names of fields (columns), controls, and properties.
+F
+File Extension / File TypeIn Windows, DOS and some other operating systems, one or several letters at the end of a filename. Filename extensions follow a period (dot) and indicate the type of file. For example, 'this.txt' is a plain text file, 'that.htm' or 'that.html' indicates that the file is a web page. The Windows operating system stores this association information in the Windows Registry and it can be changed using the 'File Types' dialog window provided by Windows Explorer.
+FramesA format for web documents that divides the screen into areas that can be formatted and controlled independently. Often, one frame is used to select a category while another frame shows the contents of that category.
+FunctionIn Visual Basic, a type of subroutine that can accept an argument and returns a value assigned to the function as though it was a variable. You can code your own functions or use builtin functions provided by Visual Basic. For example, in this example, both Nowand MsgBox are functions. Now returns the system time.MsgBox(Now)
+H
+HostA Computer or a process on a computer that provides a service to another computer or process. For example, VBScript can be 'hosted' by the web browser program, Internet Explorer.
+I
+Inheritanceis the reason a no-talent jerk is running the company instead of you.No ... seriously ...Inheritance is the ability of one object to automatically take on the methods and properties of another object. The object that supplies the methods and properties is usually called the parent object and the object that assumes them is called the child. So, for example, in VB .NET, you will often see statements like this:
+The parent object is System.Windows.Forms.Form and it has a large set of methods and properties that have been pre-programmed by Microsoft. Form1 is the child object and it gets to take advantage of all of the parent's programming. The key OOP (Object Oriented Programming) behavior that was added when VB .NET was introduced is Inheritance. VB 6 supported Encapsulation and Polymorphism, but not Inheritance.
+Instanceis a word seen in Object Oriented Programming explanations. It refers to a copy of an object that has been created for use by a specific program. In VB 6, for example, the statementCreateObject(objectname) will create an instance of a class (a type of object). In VB 6 and VB .NET, the keyword New in a declaration creates an instance of an object. The verb instantiate means the creation of an instance. An example in VB 6 is:
+ISAPIis the Internet Server Application Program Interface. Usually, any term that ends in the characters 'API' is an Application Program Interface. This is the API used by Microsoft's Internet Information Server (IIS) web server. Web applications that use ISAPI run considerably faster than those that use CGI, since they share the 'process' (programming memory space) used by the IIS web server and therefore avoid the time consuming program load and unload process that CGI requires. A similar API used by Netscape is called NSAPI.
+K
+KeywordKeywords are the words or symbols that are the elementary parts of the Visual Basic programming language. As a result, you can't use them as names in your program. Some simple examples:Dim Dim as StringorDim String as StringBoth of these are invalid because Dim and String are both keywords and can't be used as variable names.
+M
+MethodA way to identify a software function that performs an action or a service for a particular object. For example, the Hide() method for form Form1 removes the form from the program display but doesn't unload it from memory. It would be coded:Form1.Hide
+ModuleA Module is a general term for a file containing code or information that you add to your project. Usually, a module contains program code which you write. In VB 6, modules have a .bas extension and there are just three kinds of modules: form, standard, and class. In VB.NET, modules usually have a .vb extension but others are possible, such as .xsd for a dataset module, .xml for an XML module, .htm for a web page, .txt for a text file, .xslt for an XSLT file, .css for a Style Sheet, .rptfor a Crystal Report, and others.
+To add a module, right click the project in VB 6 or the application in VB.NET and select Add and then Module.
+N
+NamespaceThe concept of a namespace has been around for quite a while in programming but has only become a requirement for Visual Basic programmers to know about since XML and .NET became critical technologies. The traditional definition of a namespace is a name that uniquely identifies a set of objects so there is no ambiguity when objects from different sources are used together. The type of example that you usually see is something like the Dog namespace and the Furniturenamespace both have Leg objects so you can refer to a Dog.Leg or a Furniture.Leg and be very clear about which one you mean.
+In practical .NET programming, however, a namespace is just the name that is used to refer to Microsoft's libraries of objects. For example, both System.Data and System.XML are typicalReferences in default VB .NET Windows Aplications and the collection of objects they contain are referred to as the System.Data namespace and the System.XML namespace.
+The reason "made-up" examples like "Dog" and "Furniture" are used in other definitions is that the "ambiguity" problem really only comes up when you define your own namespace, not when you're using Microsoft's object libraries. For example, try to find object names that are duplicated betweenSystem.Data and System.XML.
+When you're using XML, a namespace is a collection of element type and attribute names. These element types and attribute names are uniquely identified by the name of the XML namespace of which they are a part. In XML, a namespace is given the name of a Uniform Resource Identifier (URI) - such as a Web site's address - both because the namespace could be associated with the site and because a URI is a unique name. When it's used this way, the URI is not required to be used other than as a name and there doesn't have to be a document or XML schema at that address.
+NewsgroupA discussion group operated through the Internet. Newsgroups (also known as Usenet) are accessed and viewed on the web. Outlook Express (distributed by Microsoft as part of IE) supports newsgroup viewing. Newsgroups tend to be popular, fun, and alternative. See Usenet.
+O
+ObjectMicrosoft defines it as a software component that exposes its properties and methodsHalvorson (VB.NET Step by Step, Microsoft Press) defines it as ...the name of a user interface element you create on a VB form with a Toolbox controlLiberty (Learning VB.NET, O'Reilly) defines it as ... an individual instance of a thingClark (An Introduction to Object-Oriented Programming with Visual Basic .NET, APress) defines it as ... a structure for incorporating data and procedures for working with that data
+There's quite a broad spectrum of opinion on this definition. Here's one that is probably right in the mainstream:
+Software that has properties and/or methods. A Document, Branch or Relationship can be an individual object, for example. Most, but not all, objects are members of a collection of some kind.
+Object LibraryA file with the .olb extension that provides information to Automation controllers (like Visual Basic) about available objects. The Visual Basic Object Browser (View menu or function key F2) will let you browse all of the object libraries available to you.
+OCXThe file extension (and generic name) for OLE Custom control (the X must have been added because it looked cool to Microsoft Marketing types). OCX modules are independent program modules that can be accessed by other programs in a Windows environment. OCX controls replaced VBX controls written in Visual Basic. OCX, both as a marketing term and a technology, was replaced by ActiveX controls. ActiveX is backward compatible with OCX controls because ActiveX containers, such as Microsoft's Internet Explorer, can execute OCX components. OCX controls can be either 16-bit or 32-bit.
+OLE
+OLE stands for Object Linking and Embedding. This is a technology that first came on the scene along with the first really successful version of Windows: Windows 3.1. (Which was released in April 1992. Yes, Virginia, they had computers that long ago.) The first trick that OLE made possible was the creation of what is called a "compound document" or a document that has content created by more than one application. For example, a Word document containing a genuine Excel spreadsheet (not a picture, but the actual thing). The data can be provided by either "linking" or "embedding" which accounts for the name. OLE has gradually been extended to servers and networks and has gained more and more capability.
+OOP - Object Oriented Programming
+A programming architecture that emphasizes the use of objects as the fundamental building blocks of programs. This is accomplished by providing a way to create the building blocks so they include both data and functions that are accessed through an interface (these are called "properties" and "methods" in VB).
+The definition of OOP has been controversial in the past because some OOP purists vehemently insisted that languages like C++ and Java were object oriented and VB 6 was not because OOP was defined (by the purists) as incorporating the three pillars: Inheritance, Polymorphism, and Encapsulation. And VB 6 never implemented inheritance. Other authorities (Dan Appleman, for example), pointed out that VB 6 was very productive for building binary reusable code blocks and therefore it was OOP enough. This controversy will die down now because VB .NET is very emphatically OOP - and most definitely includes Inheritance.
+P
+Perlis an acronym that actually expands to 'Practical Extraction and Report Language' but this doesn't do much to help you understand what it is. Although it was created for text processing, Perl has become the most popular language for writing CGI programs and was the original language of the web. People who have a lot of experience with Perl love it and swear by it. New programmers, however, tend to swear at it instead because it has a reputation for not being easy to learn. VBScript and Javascript are replacing Perl for web programming today. Perl is also used a great deal by Unix and Linux administrators for automating their maintenance work.
+Processrefers to a program that is currently executing, or "running" on a computer.
+Polymorphismis a word seen in Object Oriented Programming explanations. This is the ability to have two different objects, of two different types, that both implement the same method (polymorphism literally means "many forms"). So, for example, you might write a program for a government agency calledGetLicense. But the license could be a dog license, a driver's license or a license to run for political office ("license to steal" ??). Visual Basic determines which one is intended by differences in the parameters used to call the objects. Both VB 6 and VB .NET provide polymorphism, but they use a different architecture to do it.requested by Beth Ann
+PropertyIn Visual Basic, a named attribute of an object. For example, every Toolbox object has a Nameproperty. Properties can be set by changing them in the Properties window at design time or by program statements at run time. For example, I might change the Name property of a form Form1with the statement:Form1.Name = "MyFormName"
+VB 6 uses Property Get, Property Set and Property Let statements to manipulate properties of objects. This syntax has been completely overhauled in VB.NET. The Get and Set syntax isn't at all the same and Let isn't supported at all.
+In VB.NET a member field in a class is a property.
+Class MyClass
+Private memberfield as String
+Public Sub classmethod()
+' whatever this class does
+End Sub
+End Class
+PublicIn Visual Basic .NET, the keyword in the declaration statement that makes the elements accessible from code anywhere within the same project, from other projects that reference the project, and from any assembly built from the project. But see Access Level as well on this.
+Here's an example:
+Public Class aPublicClassName
+Public can be used only at module, interface, or namespace level. You can't declare an element to be Public within a procedure.
+R
+RegisterRegistering a DLL (Dynamic Link Library) means the system knows how to find it when an application creates an object using the DLL's ProgID. When a DLL is compiled, Visual Basic automatically registers it on that machine for you. COM depends on the Windows registry and requires all COM components to store (or 'register') information about themselves in the registry before they can be used. A unique ID is used for different components to make certain they don't clash. The ID is called a GUID, or Globally Unique IDentifier and they're calculated by compilers and other development software using a special algorithm.
+S
+ScopeThe part of a program where a variable can be recognized and used in statements. For example, if a variable is declared (DIM statement) in the Declarations section of a form, then the variable can be used in any procedure in that form (such as the Click event for a button on the form).
+StateThe current condition and values in a running program. This is usually most significant in an online environment (such as a web system such as an ASP program) where the values contained in program variables will be lost unless they're saved somehow. Saving critical "state information" is a common task necessary in writing online systems.
+StringAny expression that evaluates to a sequence of contiguous characters. In Visual Basic, a string is the variable type (VarType) 8.
+SyntaxThe word "syntax" in programming is almost the same as "grammar" in human languages. In other words, it's the rules you use to create statements. The syntax in Visual Basic must let the Visual Basic compiler 'understand' your statements to create an executable program.
+This statement has incorrect syntax
+a==b
+because there is no "==" operation in Visual Basic. (At least, there isn't one yet! Microsoft continually adds to the language.)
+U
+URLUniform Resource Locator - This is the unique address of any a document on the Internet. The different parts of a URL have specific meaning.
+The Parts of a URL
+Protocol
+Domain Name
+Path
+File Name
+http://
+visualbasic.about.com/
+library/weekly/
+blglossa.htm
+'Protocol', for example, could be FTP:// or MailTo:// among other things.
+UsenetUsenet is a world-wide distributed discussion system. It consists of a set of 'newsgroups' with names that are classified hierarchically by subject. 'Articles' or 'messages' are posted to these newsgroups by people on computers with the appropriate software. These articles are then broadcast to other interconnected computer systems via a wide variety of networks. Visual Basic is discussed in a number of different newsgroups such as Microsoft.public.vb.general.discussion.
+UDTWhile not really a Visual Basic term, a definition of this term was requested by an About Visual Basic reader so here it is!
+UDT is an acronym that expands to "User Datagram Transport", but that may not tell you much. UDT is one of several "network layer protocols" (another is TCP - half of the perhaps more familiar TCP/IP). These are simply agreed upon (standardized) methods to transfer bits and bytes across networks such as the Internet but also possibly from one computer to another in the same room. Since it's just a careful description of how to do it, it might be used in any application where bits and bytes have to be transfered.
+UDT's claim to fame is that it uses new reliability and flow/congestion control mechanisms that are based on another protocol called UDP.
+V
+VBXThe file extension (and generic name) of components used by 16-bit versions of Visual Basic (VB1 through VB4). Now obsolete, VBXs do not have two of the properties (inheritance and polymorphism) many believe are required by true object-oriented systems. Starting with VB5, OCX and then ActiveX controls became current.
+Virtual MachineA term used to describe a platform, that is, the software and operating environment, for which you are writing code. This is a key concept in VB.NET because the virtual machine that the VB 6 programmer writes to is radically different than the one the VB.NET program uses. As a starting point (but there is much more), VB.NET's virtual machine requires the presence of the CLR (Common Language Runtime). To illustrate the concept of a virtual machine platform in actual use, VB.NET provides for alternates in the Build menu Configuration Manager:
+W
+Web ServicesSoftware that runs over a network and provides information services based on XML standards that are accessed through a URI (Universal Resource Identifier) address and an XML defined information interface. The standard XML technologies normally used in web services include SOAP, WSDL, UDDI and XSD. See Quo Vadis, Web Services, The Google API.
+Win32The Windows API for Microsoft Windows 9X, NT, and 2000.
+X
+XMLThe Extensible Markup Language allows designers to create their own customized 'markup tags' for information. This makes it possible to define, transmit, validate, and interpret information between applications with greater flexibility and accuracy. The XML specification was developed by the W3C (the World Wide Web consortium - an association whose members are international corporations) but XML is used for applications far beyond the web. (Many definitions you can find on the web state that it's used only for the web, but this is a common misunderstanding. XHTML is a specific set of markup tags that are based on HTML 4.01 as well as XML that is exclusively for web pages.) VB.NET and all Microsoft .NET technologies use XML extensively.
+What is Visual Basic?
+Partial Classes in VB.NET
+All About Serializing in Visual Basic
+VB.NET: What Happened to Control Arrays
+GDI+ Graphics in Visual Basic .NET
+Modules, Structures, and Classes
+The Top Five Changes between VB 6 and VB.NET
+How to Create and Use Resources in Visual Basic 6
+Comparing Popular Programming Languages
+Display a PDF With VB.NET
+Namespaces in VB.NET
+Learn VBA Macro Coding with Word 2007
+Accessing a Secure Web Site Using VBA
+Friend and Protected Friend in VB.NET
+VBA - The Visual Basic Working Partner
+Programming a Tic Tac Toe Game

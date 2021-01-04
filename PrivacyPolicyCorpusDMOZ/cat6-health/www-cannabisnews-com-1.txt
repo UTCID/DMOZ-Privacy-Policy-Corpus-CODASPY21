@@ -1,0 +1,63 @@
+http://www.cannabisnews.com/news/help.shtml
+Comment HELP
+Some common questions concerning posting comments:
+Can I use html tags in my comments?
+How do I put color in my comments?
+Why didn't my comment show up?
+Can my comments be deleted?
+Can other visitors learn my real identity?
+How do I protect my privacy?
+How do I register my user name?
+Why are some user names in different colors?
+What does 'Script in Use' error mean?
+Can I put html tags anywhere in my comments?
+No. You can not use HTML tags in any part of your comments.
+However, all http:// and ftp:// links are autoconverted to clickable links.
+How do I put color in my comments?
+The text color is black by default, but other colors may be used by preceeding
+the text with a color code. There are several colors to choose from:
+@@00  @@01
+@@02  @@03
+@@04  @@05
+@@06  @@07
+@@08
+An example of using color:
+@@01This is a @@02test of @@03color!
+This is a test of color!
+Why didn't my comment show up?
+Your post most likely did not show up, because your browser did not reload the
+page, it simply pulled it out of cache.
+Please reload your browser and it
+should then appear.
+Can my comments be deleted?
+Not usually, but occasionally we will delete comments upon request of the poster. However comments can not be erased. So while comments can be removed from the comments listings, they will continue to persist indefinitely on the website such as in the archives which may be publically accessible.
+Can other visitors learn my real identity?
+No. Even we do not know who you are.
+However, when a person visits our site their remote IP address is logged along with other various information such as what browser they're using. We do this to ensure better service. This information does not reveal your real identity to us.
+A remote IP address in of itself does NOT reveal your identity to us since IP addresses are often dynamically allocated so one gets a different one each time they login to their ISP or in some instaces IP addresses are shared with many other on-line users.
+How do I protect my privacy?
+To protect your privacy one may find various anonymizer services such The Anonymizer useful. By accessing through an anonymizer service we get their remote IP address and other information such as browser type instead of yours. Be aware that some functions may not work when entering via an anonymizer service.
+A few points to keep in mind regarding privacy and the internet:
+Where the visitor physically is accessing a website from typically matters much more than where the server is located in
+regards to the law.
+Many ISPs maintain logs including the URLs their users visit, their dial-in port, and some also log the phone number users
+dial in from among other things.
+Sending a person email or using a chatroom, etc will often reveal one's IP address and consequently the ISP one uses to access the internet (remailers,
+anonymizer proxies, and encryption are a great preventative measure, but not perfect). So even if the website one accessed doesn't maintain logs and/or is in another jurisdiction it often doesn't matter since most ISPs log similar information. In essance the information logged by a person's ISP may tend to mirror the logs of the websites the person accessed. So persons who are extra concerned about their privacy may wish to consider an anonymous dial-up account or similar in addition to using anonymizer services.
+A fair amount of internet traffic is monitored through NAPs (network access points) as well as in transit by various
+governments and intellegence gathering agencies. They're primarily scanning for military and terrorist information.
+With a lot of effort most PGP encoded messages can be decrypted but certainly not in real time which is mainly why
+many governments want to control encryption. PGP is still a good idea, but isn't foolproof and requires some effort on part of the
+persons using it to keep it secure or otherwise risk key infiltration among other things.
+One should be careful with whom they correspond with and what information they reveal to them.
+No computer security in the world will protect one from poor judgement. A good defense is to talk in
+generalities in regards to one's identity and intentions.
+Bottom line it's ultimately up to visitors to protect their privacy and understand that there's no such thing as 100% privacy on
+the internet nor in the real world for that matter. It all comes down to managing risk and how much one is willing to accept.
+How do I register my user name so it shows up in red?
+To register your user name so no one else can pose as you, simply click on Register and follow instructions.
+Why are some user names in different colors?
+Unregistered user names show up in Black while registered user names show up in Red. User names in Purple are verified users and are available for frequent and/or famous posters by request only.
+What does 'Script in Use' error mean?
+'Script in Use' error occurs when more than one person is posting a comment at the same time. Simply wait a few moments and retry posting. This error typically occurs during heavy traffic periods.
+Return to Main Menu

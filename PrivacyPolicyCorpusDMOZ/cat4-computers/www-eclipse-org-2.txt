@@ -1,0 +1,168 @@
+https://www.eclipse.org/legal/
+Skip to main content
+Breadcrumbs
+HomeLegal
+Legal Resources
+Legal resource page for the Eclipse Foundation.
+Getting Started
+Agreement and Licenses
+Privacy and Trademarks
+Committer Agreements
+Committer Resources
+Getting Started
+The Guide to the Legal Documents
+provides an in-depth look at the many legal documents related to
+the Eclipse open source community. This content is of value to
+committers, contributors, redistributors of Eclipse content,
+developers of Eclipse-based products and users of Eclipse
+technologies;
+The Eclipse Public License (EPL) is the
+default license for Eclipse Project (please see the Eclipse Public License
+Frequently Asked Questions);
+The Eclipse Foundation Legal Frequently
+Asked Questions answers some of the commonly asked questions
+about Eclipse.org licensing, contributions, working as a committer,
+and cryptography;
+Third Party Content Licenses provides
+a list of licenses that are approved for third party content used
+by Eclipse projects; or
+For other questions, email: license@eclipse.org.
+Agreements and Licenses
+Web Site Terms of Use:
+By accessing, browsing or using this web site, you acknowledge that you have
+read, understood, and agree to be bound by the terms and conditions
+contained in this agreement.
+Eclipse Public License (EPL):
+The fundamental license document for the Eclipse projects and community.
+Eclipse Distribution License (EDL):
+The BSD license used by some Eclipse projects which require dual-licensing along with the EPL.
+Other than for example code or build scripts.
+Eclipse Contributor Agreement:
+If you are contributing code or documentation to Eclipse Foundation projects you are
+required to complete this agreement.
+Developer Certificate of Origin:
+If you are contributing code or documentation to Eclipse Foundation projects, and using
+the git signed-off-by mechanism, you are agreeing to this certificate.
+Copyright Agent:
+Contact information for the Eclipse Foundation's Copyright Agent.
+Eclipse Foundation Software User Agreement:
+By downloading builds or accessing Eclipse Foundation source code repositories, you
+acknowledge that you have read, understood, and agree to be bound by the
+terms and conditions contained in this agreement.
+Approved Licenses for Non-Code, Example, and Other Content:
+The Board of Directors has approved the use of certain licenses for specific types of
+content on eclipse.org.
+Eclipse Foundation Open VSX Publisher Agreement:
+The license agreement Eclipse Open VSX Registry publishers must agree to before publishing extensions for VS Code compatible editors on open-vsx.org. You may read the Open VSX Registry FAQ here.
+Eclipse Foundation Update Manager Agreement:
+If you package "downloadable features" to be installed
+from your web site using the Eclipse Update Manager, you must read,
+understand, and agree to the terms and conditions contained in this agreement.
+Eclipse Foundation Specification License:
+The license used by Eclipse Foundation specifications created under the Eclipse Foundation Specification Process.
+Eclipse Foundation TCK License:
+The binary license used by Technology Compatibility Kits to demonstrate compatibility with their corresponding Specifications.
+Eclipse Foundation User Group Trademark License Agreement:
+Guidelines and agreements for user groups that are based on Eclipse Foundation projects
+and/or working groups.
+Privacy and Trademarks
+Privacy Policy:
+Your privacy is important to us. This statement discloses the information practices for this web site, including what type of
+information is gathered and tracked, how the information is used, and with whom the information is shared.
+Trademark Usage Guidelines:
+Guidelines on permissable use of Eclipse logos and trademarks.
+Trademark Transfer Agreement:
+Pre-existing projects which move to the Eclipse Foundation will be required to execute this agreement
+to ensure that the Eclipse Foundation has rights to any trademarks associated with the project name.
+Trademark Attributions:
+Content on this web site may make reference to trademarks requiring attribution.
+Committer Agreements
+For Eclipse projects (and the open source world in general), committers are the ones who hold the keys.
+Committers decide what code goes into the code base, they decide how a project builds, and they ultimately
+decide what gets delivered to the adopter community. Committer status is assigned following a demonstration
+of merit (generally a record of high-quality contribution to a project) and a successful
+committer election.
+The specific agreements required depends on the nature of the project. For committers on an open source
+software project (i.e., most Eclipse Foundation projects), the
+traditional agreements are required.
+For committers on an open source specification project, additional
+working group agreements are required.
+Committer status is assigned on a project-by-project basis. That is, individuals have committer rights only
+on those projects for which they hold committer status. For all other projects, they are contributors.
+Our committer provisioning process is automated: new committers will—following their successful
+election—be contacted by email to engage in our agreement workflow (also referred to as our
+paperwork process), which guides
+them through signing those agreements that they need. The agreements are provided below for convenience.
+Member Committer and Contributor Agreement:
+The Member Committer and Contributor Agreement (MCCA) is used by organizations that are
+members of the Eclipse Foundation to cover all of their employees who participate
+in Eclipse Foundation open source projects as committers and contributors. This agreement allows employees
+of our member organizations to participate in Eclipse Foundation projects without any additional paperwork.
+Individual Committer Agreement:
+This agreement is used by committers participating in Eclipse open source projects whose employers are
+either not members of the Eclipse Foundation or are members that have not signed the
+Member Committer and Contributor Agreement.
+Employer Consent Agreement for Eclipse
+Foundation Specification Projects:
+The Employer Consent Agreement for Eclipse Foundation Specification Projects ("Employer Consent Agreement")
+is to be completed by the employer of a committer who is seeking Individual Committer status on an Eclipse
+Foundation Specification Project operating under the purview of an Eclipse Foundation
+Working Group. Note that this form is only required when the employer is not a participant of the
+corresponding working group.
+New Eclipse Foundation Committer and Contributor Agreements FAQ
+In 2018, we updated our standard contributor and committer agreements, and all our committers and contributors,
+as well as those members who have member committer agreements, were required to re-sign their agreement with us.
+This FAQ is mostly historical at this point, but does contain some generally useful information.
+Resources for Committers
+Due Diligence Process:
+This document provides a quick pictorial overview of the due diligence process.
+Third Party Dependencies:
+This document contains the guidelines for the review of third-party dependencies.
+Committer Guidelines:
+This document outlines the issues to be aware of and the processes one should follow when working as a committer on Eclipse.org projects.
+A committer is a person
+that has been granted commit rights to systems on the Eclipse.org servers such as git repositories, web pages, download servers, mailing lists and so forth.
+Contribution Questionnaire:
+A Contribution Questionnaires (CQ) is the main interface between Eclipse committers and the Intellectual Property Management Team.
+Prior to committing a significant contribution of content to an Eclipse Foundation project, the committer must fill out
+this questionnaire and submit it to
+the Eclipse Management Organization (EMO) for approval. In addition to the EMO, the
+relevant PMC
+must also provide a technical review and approval of the contribution. Follow the link to find out more about
+what we mean by "significant contribution".
+Bug fixes or minor enhancements do not require PMC or EMO approval.
+"About" Templates:
+This provides templates for the "about.html" ("About") files used to describe
+EPL-licensed content.
+Default Copyright and License Notice:
+The standard copyright and license notice should appear in all source files where possible.
+Variations on this notice may be required (for example where a license other than
+the EPL governs the use of the file).
+IP Logs:
+An IP Log is a record of the intellectual property contributions to a project. This includes such as a list of all committers, past and present, that have worked on the code and (especially) those who have made contributions to the current code base.
+New Committer Process:
+The process for project leads and PMC members to add additional
+committers to an existing project.
+About Us
+Annual Report
+Foundation
+Governance
+Legal Resources
+Contact Us
+ECA
+Sign
+Validation Tool
+EPL-2.0
+Plain HTML
+Plain Text
+PDF
+FAQ
+EPL-1.0
+Plain HTML
+Plain Text
+FAQ
+Licenses
+Approved 3rd Party
+Non Approved
+Docs & examples
+Back to the top

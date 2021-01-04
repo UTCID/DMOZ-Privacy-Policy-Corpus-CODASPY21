@@ -1,0 +1,129 @@
+http://www.e-leran.com/info/help-order-approval-workflow
+Close
+Ready to Buy?
+Call us today at 1-888-820-6511 to set up your new account or create a web login for your existing account.
+If you need assistance, please
+contact us.
+Sign up for emails regarding the benefits, cost-savings, and solutions of being a Home Depot Pro customer.
+Preferences have been saved!
+* All fields are required.
+Email*
+First Name*
+Last Name*
+Company Name*
+Do you have an existing account?*
+If yes, please enter your account #:
+Sign-up for email updates.
+Thank You!
+We appreciate you signing up. Please check your email within a few hours for confirmation.
+Customer Credit Available
+Accelerate your business's options and take it the next level when you open a credit line with Home Depot Pro. Download our credit application to apply.
+Need Assistance?
+Visit our help center for useful tips on placing online orders, using web features, and more.
+Visit Help Center
+Privacy Policy
+Home
+Order Approval Workflow
+Help Center
+Getting Started
+Register/Create a Website Login
+Logging In
+Reset Password
+Placing an Order
+Finding Products
+Add Products to Your Cart
+Promotional Codes
+Checking Out
+Website Icon Reference
+Video Tutorials
+Benefits of Ordering Online
+Basics of Web Ordering
+Productivity Tools
+Favorites Lists
+Order History
+Intro to Budgeting
+Intro to Work Flow Management
+Mobile Applications
+My Account
+Access Account Dashboard
+Order Approval Workflow
+Budgeting
+Customized Product Offering
+eShowroom
+Web Tools
+Favorites Lists
+Bin Labels
+Bulk Quick Add
+Custom Catalogs
+Reporting Tools
+Orders & Quotes
+Account History
+Track My Order
+My Quotes
+Special Orders
+Frequently Asked Questions
+Frequently Asked Questions
+Registering
+Logging In & Updating Your Account
+Ordering
+Product Information
+Technical Questions
+General Information
+Product Recalls
+Contact Us For Help.
+Call Us1-888-820-6511
+Email Us
+Order Approval Workflow
+Please note that the Advanced Administrator Tools require special setup of your web profile as an Account Administrator. Please contact Customer Service to enable this role for you.
+1. In order to access Multi-Level Quote Workflow, first log in to your account and click on "My Account" in the header.
+Once you arrive at the screen shown below, select "View or Edit Workflow Settings" under "Workflow Management."
+2. On the "Manage Your Workflows" screen, you will be able to manage your Order Approvals.
+3. To set up approval levels to manage quotes, select "Order Approval."
+A new dropdown will appear, allowing you to add multiple approvers by clicking on .
+4. The first step in setting an approval level is to enter the name you would like to use to define this level. You can also
+use the default name
+of "New Approval Step (X)" in the "Approval Level Name:" box.
+5. Next, set up a step timeout limit. This allows any quotes that do not get approved in the timeframe assigned to send an email stating the upcoming expiration.
+A notification is sent
+to the Admins and Submitter when the quote expires, as well as to the Admins, Submitter, and Next Level Quote Approver 24 hours prior to the expiration. The Step Timeout Days can have a minimum of 2 days and a maximum of 14 days. You may elect to only select weekdays for this timeframe by checking the "Weekdays Only" box.
+6. Now, you can set the account level order limit. This limit becomes the default limit for all Buyers unless otherwise specified. If you would like to set up other limits, you can do this while managing users (See next step). Enter the amount you would like to set the default to in the "Notify approver when order is greater than:" box.
+7. If you would like to set different buying limits per user, other than the default account level limit, select "Manage Users." On this screen, you can select individual users and assign spending limits. Set limits by entering the amount you would like assigned next to "Specific Amount" in the "Buyer/Approver Spending Limit" box. If you prefer, you can also allow the user to have "Unlimited" as their assigned amount. Once you've finished entering amounts, select "Apply Changes."
+Please note that to select another user in the "Manage Users" screen, you must first select "Apply Changes" or "Cancel."
+8. In the "Manage Users" window, select the user you would like to make a quote approver by first clicking on their name on the left-hand side of the screen. You can also
+search for the user in the search box at the top of the screen.
+9. Once the user has been selected, you will see new criteria appear on the right-hand side of the screen.
+A checkmark will appear in the user's current role.
+ROLES
+Basic User- has the ability to search and browse, build a shopping cart, and submit a quote to their account's designated Approver.
+Buyer-This role has all the capabilities of the Basic User role. In addition, they are allowed to place orders. When a new user registers on our Web site, this is their default role.
+Administrator- This role has all the capabilities of the Buyer role.
+In addition, this role has administrative capabilities over the customer accounts and assigned users.
+If the user is currently a Basic User, you may change their role to a Buyer.
+If the user is currently a Buyer, you may change their role to a Basic User.
+If the user is a Account Administrator, you will not be able to change their role from this screen (please contact customer service to update this setting).
+If the user is a Account Administrator or Buyer, they can also be an Approver. To add Approver privileges to either of these roles, simply check the box and select "Apply Changes."
+10. After you've applied changes and selected your preferences per user, select "Close" to return to the Order Workflow setup.
+11. On the "Add Approval Level" screen, you will see a message stating you must select and assign an approver. Select the "Assign Approvers" dropdown and check the box next to the user(s) you want to become the approver for this level.
+12. Once you've selected your first level approver, you will see a checkmark next to their name in the "Assign Approvers" dropdown.
+"Assign Approvers" will now state "# selected."
+13. Once you've filled in all steps in the "Add Approval Level" screen, select "Apply Changes" to complete the setup of the "Approval Level One."
+14. You will now return to the "Order Approval Workflow-Defined Steps" screen, which is where your first level of approval has been set up. On this screen, you may choose to add additional levels to your order approval workflow or save your workflow with the one level. In order to add additional approval levels, select .
+15. After you select , you will walk through the same steps taken to set up the first level approval. The second level approval must have a limit higher than the first level approval. The last level of approval will always need to approve orders that fall at or above the limit you've assigned.
+16. Select "Apply Changes" after you've completed the setup of additional approval levels.
+17. Your "Order Workflow- Defined Steps" screen will now show a multi-level approval setup. In order to save these updates, select "Save Workflow."
+18. Once your workflow has been set up and saved, you must select "Enable" in order to activate. Once you select "Enable," the button will change to disable and become active.
+19. To create workflow for a budget, select "Budget Approval" to set up approvers from the "Manage Your Workflows" screen.
+You may also chose to set up budget workflow during the process of creating a budget by selecting the "Set up Your Budget Workflow" link on the fourth step, "Map GL Codes," of the "GL Code with Budget" process.
+This link will bring you to the "Manage Your Workflows" screen.
+20. After selecting "Budget Approval," a new dropdown will appear. It will allow you to add multiple approvers by clicking on .
+21. The first step in setting an approval level is to enter the name you would like to use to define this level. You can also use the default name
+of "New Approval Step (X)" that appears in the "Approval Level Name:" box.
+22. Next, set up a step timeout limit. This allows any quotes that do not get approved in the timeframe assigned to send an email stating the upcoming expiration. A notification is sent to the Admins and Submitter when the quote expires, as well as to the Admins, Submitter, and Next Level Quote Approver
+24 hours prior to the expiration.
+The Step Timeout Days can have a minimum of 2 days and a maximum of 14 days. You may elect to only select weekdays for this timeframe by checking the "Weekdays Only" box.
+23. Select the "Assign Approvers" dropdown and check the box next to the user you want to approve quotes generated by hard alerts. If you do not see the name of an approver you would like to use in the dropdown, you can use "Manage Approvers" to add the user (as stated in "Order Approval Workflow").
+24. Once you've selected your approver, you will see a checkmark next to their name in the "Assign Approvers" dropdown. "Assign Approvers" will now state "# selected."
+25. Once you have filled in all steps in the "Add Approval Level" screen, select "Apply Changes" to complete the setup of the "Approval Level One."
+26. Your "Order Workflow-Defined Steps" screen will now show approval setup. In order to save these updates, select "Save Workflow."
+27. Once you have saved your workflow, you will now have access to setting up hard alerts on budgets. From the "Manage Your Workflows" screen, you will
+see two options. The link for "Budget Approval" will say "Manage Budgets" if no budgets have been established or "Return to Budget" if you elect to move to this screen while working on the creation of a budget.

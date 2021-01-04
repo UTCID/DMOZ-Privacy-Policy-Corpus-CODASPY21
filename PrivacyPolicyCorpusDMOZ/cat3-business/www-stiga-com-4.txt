@@ -1,0 +1,427 @@
+http://www.stiga.com/int/cookie-policy
+SUBSCRIBE TO OUR NEWSLETTER
+...and be the first to know about our latest offers, helpful hints & tips and stay in touch with the STIGA world.
+By subscribing you agree to STIGAPrivacy Policy and Terms of Use
+Subscribe
+Powered by Mageplaza
+Home
+Cookie Policy
+Cookie Policy Our website uses cookies to improve your online experience. Stiga gives to your privacy the utmost importance; therefore, by means of this policy we wish to inform you about which cookies are used and how to manage them. 1 - Who is the data controller?
+The data controller is Stiga S.p.A. (“Stiga”), with registered office in 31033 Castelfranco Veneto (TV), Italy, via del Lavoro 6. Stiga appointed a data protection officer (“DPO”), that you may contact for the exercise of your rights, as well as for asking any further information, at the following addresses: STIGA S.p.A, DPO office, via del Lavoro 6, 31033 Castelfranco Veneto, Italy; e-mail: dpo@stiga.com
+2 - What is a cookie?
+When you visit a website, the latter may store or retrieve information on your browser, mostly by means of cookies.A cookie is a small text file carrying bits of information (a string of letters and numbers); this text file is transmitted from a server to a browser when you visit a website, and then saved by the browser. The respective ID is then transmitted back again every time the browser requests a page from the server.The information retrieved by cookies might be about you, your preferences, your device or used to make the website work as you expect it to.Cookies do not usually contain any information allowing you to be personally identified, but they can give you a more personalized and enjoying web experience. It is, however, possible that the cookie provider links personal details that it has saved about you to the details stored in the cookies.
+3 - Different types of cookies
+First party / third party cookiesCookies can be installed by the operator of the website the user is visiting (“first party cookies”) or by other websites (“third party cookies”).
+Persistent cookies / session cookiesThere are cookies which are permanently stored in the user’s device until their expiration or deletion by the user (“persistent cookies”) or cookies that are automatically eliminated any time the website browsing session ends or when the browser is closed (“session cookies”).
+Technical cookies
+Technical cookies are those used for the sole purpose of carrying out the electronic communication, or strictly necessary for the electronic service provider to provide the service explicitly requested by the user.Technical cookies can be divided into:• browsing and session cookies: these cookies guarantee regular navigation and use of the website (e.g. allowing the access to restricted areas);• analytics cookies: these cookies enable website operators to anonymously monitor the method of using its web pages by visitors for statistical survey purposes, allowing them to optimize the site functioning and offer a better browsing experience;• functional cookies: these cookies allow the user to browse as a function of certain pre-determined criteria (e.g., the language) in order to improve the service offered.These cookies are necessary for the Website to function properly and are not used for any further purposes. Your prior consent IS NOT NECESSARY for the use of these cookies.
+Profiling cookiesOur website also uses profiling cookies, that may be set either by Stiga or by third parties.Profiling cookies are aimed at creating user profiles. They are used to send ads messages in line with the preferences shown by the user during navigation. A website can operate without them without impairing in any way the user’s browsing experience.Your prior consent IS NECESSARY for the use of these cookies.
+4 - Which cookies we use on this website
+Please find here below a list of the cookies used on this website along with an explanation of how each of them is used.
+Magento 2.X Default Cookies
+Type
+Name
+Purpose
+Duration
+Requested Functionality Cookies
+add_to_cart
+(Used by Google Tag Manager) Captures the product SKU, name, price and quantity removed from the cart, and makes the information available for future integration by third-party scripts,
+1 hour
+Requested Functionality Cookies
+guest-view
+Stores the Order ID that guest shoppers use to retrieve their order status.
+1 hour
+Requested Functionality Cookies
+login_redirect
+Preserves the destination page the customer was navigating to before being directed to log in.
+1 hour
+Requested Functionality Cookies
+mage-banners-cache-storage
+Stores banner content locally to improve performance.
+1 hour
+Requested Functionality Cookies
+mage-messages
+Tracks error messages and other notifications that are shown to the user, such as the cookie consent message, and various error messages, The message is deleted from the cookie after it is shown to the shopper.
+1 hour
+Requested Functionality Cookies
+mage-translation-storage
+Stores translated content when requested by the shopper.
+1 hour
+Requested Functionality Cookies
+product_data_storage
+Stores configuration for product data related to Recently Viewed / Compared Products.
+1 hour
+Requested Functionality Cookies
+recently_compared_product
+Stores product IDs of recently compared products.
+1 hour
+Requested Functionality Cookies
+recently_compared_product_previous
+Stores product IDs of previously compared products for easy navigation.
+1 hour
+Requested Functionality Cookies
+recently_viewed_product
+Stores product IDs of recently viewed products for easy navigation.
+1 hour
+Requested Functionality Cookies
+recently_viewed_product_previous
+Stores product IDs of recently previously viewed products for easy navigation.
+1 hour
+Requested Functionality Cookies
+remove_from_cart
+(Used by Google Tag Manager) Captures the product SKU, name, price and quantity added to the cart, and makes the information available for future integration by third-party scripts.
+1 hour
+Requested Functionality Cookies
+stf
+Records the time messages are sent by the SendFriend (Email a Friend) module.
+1 hour
+Session Cookies
+X-Magento-Vary
+Configuration setting that improves performance when using Varnish static content caching.
+1 hour
+Persistent Customization Session Cookies
+amz_auth_err
+(Used by Amazon Pay) Value “1’ indicates an authorization error.
+1 hour
+Persistent Customization Session Cookies
+amz_auth_logout
+(Used by Amazon Pay) Value “1” indicates that the user should be logged out.
+1 hour
+Persistent Customization Session Cookies
+form_key
+A security measure that appends a random string to all form submissions to protect the data from Cross-Site Request Forgery (CSRF).
+1 hour
+Persistent Customization Session Cookies
+mage-cache-sessid
+The value of this cookie triggers the cleanup of local cache storage. When the cookie is removed by the backend application, the Admin cleans up local storage, and sets the cookie value to “true.”
+1 hour
+Persistent Customization Session Cookies
+mage-cache-storage
+Local storage of visitor-specific content that enables ecommerce functions.
+1 hour
+Persistent Customization Session Cookies
+mage-cache-storage-section-invalidation
+Forces local storage of specific content sections that should be invalidated.
+1 hour
+Persistent Customization Session Cookies
+persistent_shopping_cart
+Stores the key (ID) of persistent cart to make it possible to restore the cart for an anonymous shopper.
+1 hour
+Persistent Customization Session Cookies
+private_content_version
+Appends a random, unique number and time to pages with customer content to prevent them from being cached on the server.
+1 hour
+Persistent Customization Session Cookies
+section_data_ids
+Stores customer-specific information related to shopper-initiated actions such as display wish list, checkout information, etc.
+1 hour
+Persistent Customization Session Cookies
+store
+Tracks the specific store view / locale selected by the shopper.
+1 hour
+Persistent Customization Session Cookies
+user_allowed_save_cookie
+Indicates whether a customer allowed to use cookies
+12 months
+Session Cookie
+mage-translation-file-version
+-
+-
+Session Cookie
+searchsuiteautocomplete
+-
+-
+The installation of profiling, retargeting, analytic and social media cookies belonging to third parties, as well as any other activity relating to such cookies, including collection and processing of information, shall be the responsibility of such third parties. If you wish to learn more on such cookies and the third parties that may access the information collected or on how to disable them, you may read the relevant privacy policies or disabling procedure of the said third parties by clicking on the links indicated below.
+Google Analytics Cookies
+Google Universal Analytics - JavaScript Libraries: gtag.js and analytics.js
+Type
+Name
+Purpose
+Duration
+Privacy Policy
+Google Universal Analytics Cookies
+_ga
+Distinguishes visitors to your site.
+2 years
+link
+Google Universal Analytics Cookies
+_gid
+Distinguishes visitors to your site.
+24 hours
+link
+Google Universal Analytics Cookies
+gat
+Used to throttle request rate.
+1 minute
+link
+Google Universal Analytics Cookies
+dc_gtm_<property-id>
+Throttles request rate when Google Analytics is deployed with Google Tag Manager.
+1 minute
+link
+Google Universal Analytics Cookies
+AMP_TOKEN
+Contains a token that can be used to retrieve a Clilent ID from AMP Client ID service. Other possible values include opt-out, inflight request or an error retrieving a Client ID from  AMP Client ID service.
+30 seconds to 1 year
+link
+Google Universal Analytics Cookies
+_GAC_<property-id>
+Contains campaign-related information for the user. Google AdWords conversion tags read this cookie if Google Analytics is linked to your AdWords account.
+90 days
+link
+Persistent Cookie
+_gat_<property-id>
+Performance
+-
+link
+Persistent Cookie
+OTZ
+Google analytics cookie used for website traffic infos
+30 days
+link
+Browser Cookies
+To provide the Facebook Services, we store cookies on your browser. Below, you can find more information about the cookies that we use. The cookies we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay on your browser until they expire or you delete them. We occasionally make changes, so the specific cookies we’re using may vary from what's described below.
+Last update: December 12, 2018
+Persistent Cookies
+Authentication
+Name
+Expiration
+Contents
+Purpose
+lu
+2 years
+User ID and miscellaneous log in information (e.g., number of logins per account, state of the "remember me" check box, etc.)
+Used to record whether the person chose to remain logged in
+xs
+90 days
+Session ID, creation time, authentication value, secure session state, caching group ID
+Used in conjunction with the c_user cookie to authenticate your identity to Facebook
+c_user
+90 days
+User ID
+Used in conjunction with the xs cookie to authenticate your identity to Facebook
+m_user
+90 days
+Email, User ID, authentication value, version, user agent capability, creation time, Facebook version indicator
+Used to authenticate your identity on Facebook's mobile website
+pl
+90 days
+Y/N
+Used to record that a device or browser logged in via Facebook platform
+dblc
+2 years
+Login authentication values
+Used to enable device-based logins
+aks
+30 days
+Account kit access token
+Determines the login state of a person visiting accountkit.com
+aksb
+30 minutes
+Request time value/span>
+Authenticates logins using Account Kit
+sfau
+1 day
+Encrypted user ID, contact point, time stamp, and other login information
+Optimizes recovery flow after failed login attempts
+Security, Site and Product Integrity
+Name
+Expiration
+Contents
+Purpose
+ick
+2 years
+Encryption key
+Stores an encryption key used to encrypt cookies
+s
+90 days
+Digital signature and time stamp
+Used to indicate the last time a person entered his or her password
+datr
+2 years
+Browser identifier and time stamp
+Identifies browsers for purposes of security and site integrity, including for account recovery, and identification of potentially compromised accounts.
+sb
+2 years
+Browser identifier and time stamp
+Identifies browser for login authentication purposes
+Advertising and Measurement
+Name
+Expiration
+Contents
+Purpose
+fr
+90 days
+User and browser ID; time stamp; miscellaneous other data
+Facebook’s primary advertising cookie, used to deliver, measure, and improve the relevancy of ads.
+oo
+5 years
+1 or 0
+Used to record advertising opt outs
+ddid
+2 years
+Browser identifier and time stamp
+Identifies browsers for purposes of security and site integrity, including for account recovery, and identification of potentially compromised accounts.
+_fbc
+2 years
+Browser identifier and time stamp
+Identifies browser for login authentication purposes
+_fbp
+2 years
+Browser identifier and time stamp
+Identifies browser for login authentication purposes
+spin
+-
+-
+facebook cookie
+cto_lwid
+-
+-
+.doubleclick.net cookie
+__ncuid
+-
+-
+.doubleclick.net cookie
+1P_JAR
+-
+-
+.google.com cookie
+ANID
+-
+-
+.google.com cookie
+APISID
+-
+-
+.google.com cookie
+CONSENT
+-
+-
+.google.com cookie
+HSID
+-
+-
+.google.com cookie
+IDE
+-
+-
+.doubleclick.net cookie
+NID
+-
+-
+.google.com cookie
+SAPISID
+-
+-
+.google.com cookie
+SIDCC
+-
+-
+.google.com cookie
+SSID
+-
+-
+.google.com cookie
+SID
+-
+-
+.google.com cookie
+DSID
+-
+-
+.doubleclick.net cookie
+ANID
+-
+-
+.google.com cookie
+Site Features and Services
+Name
+Expiration
+Contents
+Purpose
+dpr
+7 days
+Numeric value between 1 and 2 indicating device pixel ratio
+Allows delivery of optimal experience for user's screen.
+gu
+session
+Serialized ID based on large random secret
+Allows for guest payments, cart updates, and view order history
+lh
+7 days
+List of locales used on the browser
+Used to improve the user experience on shared computers
+locale
+7 days
+Locale
+Identifies the country and chosen language of the last logged in user of the browser or the international domain used to access Facebook
+sb
+2 years
+Browser identifier and time stamp
+Used to improve friend suggestions
+shopping_cart
+session
+Serialized ID based on large random secret
+Allows for FB to keep track of all the items a customer is looking to purchase
+wd
+7 days
+Screen or window dimensions
+Allows delivery of optimal experience for user's screen
+Performance
+Name
+Expiration
+Contents
+Purpose
+js_ver
+7 days
+Count of days
+Records the age of Facebook javascript files.
+rc
+7 days
+Numeric value between 1 and 20
+Used to optimize site performance for advertisers
+Analytics and Research
+Name
+Expiration
+Contents
+Purpose
+campaign_click_url
+30 days
+URL
+Records the Facebook URL that an individual landed on after clicking on an ad promoting Facebook
+Session Cookies
+Category
+Name
+Authentication
+Checkpoint, lp, JSESSIONID, PHPSESSID
+Security, Site and Product Integrity
+hckd, sfiu, ar, av, dnonce
+Site Features and Services
+noscript, m_ts, next, next_path, presence, rdir, i_user, i_key, i_id
+Performance
+m_pixel_ratio, p, sW, wd, a11y
+Analytics and Research
+act, reg_ext_ref, reg_fb_gate, reg_fb_ref, reg_uniqid, x-referer, x-src
+Google Analytics
+We also set cookies from the Facebook.com domain that work with the Google Analytics service to help us understand how businesses use Facebook's developer sites. These cookies have names like __utma, __utmb, __utmc, __utmz, __qca, and _ga.
+Third Party Websites and Apps
+Our business partners may also choose to share information with Facebook from cookies set in their own websites' domains. Specifically, cookies named _fbc or _fbp may be set on the domain of the FB business partner whose site you're visiting. Unlike cookies that are set on Facebook's own domains, these cookies don't send data to Facebook when you're on a site other than the one on which they were set. They serve the same purposes as cookies set in Facebook's own domain, which are to personalize content, tailor and measure ads, provide analytics, and a safer experience, as set out in full in our Cookies Policy.
+* It remains understood that, while we consider the consent given to profiling cookies as expired after 12 months from its receipt, we may keep a record of the consents given with the purpose of proving compliance with the law for the applicable period of the statute of limitation.
+5 - Interaction with social networks and external platforms
+Social plugins for Facebook, Google, YouTube, Instagram, Pinterest and others are used on our website, which displays an icon for each of these social networks and other external platforms.By clicking on those icons, you will interact with the social networks and other external platforms. The interactions and information acquired by our website are in any case subject to the user's privacy settings related to each social network or external platform; we have no influence on the extent of the data that the social networks and external platforms collects with the button.If you wish to learn more on the cookies and other data that may be collected by those social networks and other external platforms, you may read the relevant privacy policies available at the following links:• Facebook• Google +• Youtube• Instagram• PinterestBy first logging out from the pages of your social networks and external platforms and deleting the cookies that have been set, you can prevent them from collecting information about you during your visit to our website.
+6 - How to manage cookies
+In generalYou may decide whether you want to allow cookies to be installed or not also by using your browser’s setting area. However, should you disable one or more technical cookies, certain features of this website may be impaired as a result (in particular, browsing cookies are necessary for the proper operation of the basic features of the website).You may freely decide to block the setting of Stiga’s profiling cookies or to withdraw any previously given consent without affecting your ability to visit the website and avail of the relevant contents.The browser configuration relating to this choice may be monitored and modified in your browser’s settings panel. Please select your browser among those below to receive information about how to modify the relevant cookie settings.• Chrome• Firefox• Internet Explorer• Opera• Safari
+If you wish to learn more about this matter, we invite you to visit the following address: http://www.youronlinechoices.com
+Third party and profiling cookiesYour consent is necessary for the use of third party and profiling cookies. For this reason, when you access our website a special banner informs you that (i) our website uses profiling cookies, belonging to us or to third parties, and that (ii) when you close the banner by clicking the “I ACCEPT” button or continue browsing by clicking any item on the website outside the banner or by accessing another area of the website, you signify your consent to the use of those cookies.We will track your consent (if any) by means of a dedicated technical cookie. As a result, the banner on cookies shall not be displayed any more if you visit again our website in future. Should you decide to delete technical cookies, please bear in mind that we will lose track of your consent and, as a consequence, the banner on cookies will be presented to you again, at your next visit of our website.At any time, you may freely decide to block the setting of third party and profiling cookies or to withdraw any previously given consent without affecting your ability to visit the website and avail of the relevant contents. If you wish to learn more on how to do it, please carefully read the third party cookie policies that are available by following the links provided in the table above.
+7. Exercising your rights
+With regard to the processing described in this cookie policy, you may exercise any of the rights described in this section in accordance with Articles 15 through 21 of Regulation (EU) 2016/679 (the “GDPR”). In particular:
+• Managing your Information - Right of access – Article 15 of the GDPR: right to obtain from the data controller confirmation as to whether or not your personal data are being processed, and, where that is the case, access to the personal data and the following information (also by receiving a copy of the same):a) the purposes of the processing;b) categories of personal data concerned; c) the recipients or categories of recipient to whom the personal data have been or will be disclosed; d) the envisaged period for which the personal data will be stored or the criteria used to determine such period;e) the existence of the right to request from the controller rectification or erasure of personal data or restriction of processing of personal data concerning the data subject or to object to such processing; f) the right to lodge a complaint with the supervisory authority; g) the source of the persona data, if not collected directly; h) the existence of automated decision-making, including profiling;
+• Rectification of Inaccurate or Incomplete Information - Right of rectification – Article 16 of the GDPR: the right to obtain, without undue delay, the rectification of inaccurate personal data or the integration of the same;
+• Erasure - Right to erasure – Article of the 17 GDPR: the right to obtain from the controller the erasure of your personal data without undue delay, if:a) the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed;b) you withdraw your consent, and there is no other legal basis for the processing;c) you object to the processing of your personal data on legitimate grounds;d) the personal data have been unlawfully processed;e) the personal data have to be erased for compliance with a legal obligation;f) the personal data have been collected in relation to the offer of information society services referred to in Article 8, first paragraph, of the GDPR.If you no longer want us to use your information, you can request that we erase your personal information. Please note that if you request the erasure of your personal data, we may retain and use your personal data to the extent necessary to comply with our legal obligations or for the performance of a duty carried out in the public interest or in the exercise of official authority vested in the data controller, or for the establishment, exercise or defense of legal claims. For example, we may keep some of your information for tax, legal reporting and auditing obligations.
+• Restriction of processing - Right to restriction on processing – Article 18 of the GDPR: right to obtain from the controller restriction of processing if:a) the accuracy of the personal data is contested by you, for a period enabling the controller to verify the accuracy of the personal data;b) the processing is unlawful and you oppose the erasure of the personal data and request the restriction of their use instead;c) the controller no longer needs the personal data for the purposes of the processing, but they are required by you for the establishment, exercise or defense of legal claims;d) you have objected to processing pursuant to Article 21, first paragraph, of the GDPR pending the verification whether the legitimate grounds of the controller override yours.
+• Data Access and Portability - Right of portability – Article 20 of the GDPR: the right to receive, in a structured format, commonly used and readable by an automatic device the personal data concerning yourself provided to the data controller and the right to transmit the same to another data controller without impediment, if the processing is based on consent and is made with automated means. Furthermore, the right to obtain that your personal data are transmitted directly from the data controller to another data controller, if this is technically feasible;
+• Right of opposition – Article 21 of the GDPR: right to oppose, in any moment, to processing activities pertaining to your personal data based on the legal basis of the legitimate interest, including profiling, save for the case in which there are compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject or for the establishment, exercise or defense of legal claims.
+• Complaints – file a complaint to the competent data protection authority by sending a notice to the Italian Data Protection Supervisory Authority at Piazza di Monte Citorio n. 121 - 00186 Roma, e-mail: protocollo@pec.gpdp.it.
+The above rights may be exercised by contacting Stiga and the DPO at the contact details indicated in previous point 1. Please note that we may ask you to verify your identity before taking further action on your request.Stiga will take care of your request and will provide you, without undue delay and in any case within a month from the receipt of your request, information on the activities performed pursuant to your request.
+The exercise of your right as data subject is gratuitous pursuant to Article 12 of the GDPR. However, in case of manifestly ungrounded or excessive requests, the Controller may ask for reasonable fees, in light of the administrative costs for managing your requests, or refuse to act on your request.
+CookieBot ×

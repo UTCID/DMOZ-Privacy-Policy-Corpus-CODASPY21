@@ -1,0 +1,528 @@
+http://www.epic.org/privacy/location_privacy/
+Defend Privacy. Donate Now.
+Policy Issues
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Program
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+All Policy Issues
+Our Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+Privacy Campaigns
+Congressional Testimony
+EPIC Publications
+Spotlight on Surveillance
+Press
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+Events
+EPIC Blog
+EPIC Bookstore
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+Public Voice Fund
+Contact EPIC
+Support EPIC
+Locational Privacy
+Background |
+Cases |
+News |
+Resources
+EPIC's Alan Butler talks to the Wall Street Journal on Location Privacy
+Latest News
+Congress Requests Emergency Meeting On Location Privacy: A key House panel requested an emergency briefing from the Federal Communications Commission to determine why the agency has not prevented wireless carriers from selling consumers' location data. The request followed reports that wireless providers sell location data to third parties, despite pledging to not do so after investigations last year. In 2007, EPIC urged the FCC to establish privacy safeguards for location data. And in 2010 EPIC wrote to the House Commerce Committee that "Locational privacy concerns are substantial and growing more severe." EPIC also filed a friend of the court brief in 2017 in the landmark location privacy case, Carpenter v. United States. A recent article by EPIC President Marc Rotenberg, for the American Constitution Society, sets out recommendations for Congress after the Carpenter decision. (Jan. 14, 2019)
+EPIC Ask FTC to Investigate Privacy Risks of Pokemon GO: EPIC has urged the FTC to launch an investigation of Pokemon GO and the app's developer Niantic. When the augmented-reality app was first released, Niantic granted itself "full access" to users' Google accounts in violation of federal privacy law. Even after recent changes, the company continues to collect detailed location history and has access to smartphone cameras. Pokemon GO "raises complex and novel privacy issues that require close FTC scrutiny," EPIC told the Commission. Senator Al Franken recently sent a letter to the company asking for clarification on the scope and purpose of its data collection. Niantic has close ties to Google and its CEO oversaw Google's controversial Street View project, which was found to collect private wifi data transmissions. (Jul. 22, 2016)
+More top news »
+Federal Court Lifts Gag Order on National Security Letter Recipient
+» (Dec.
+1, 2015)
+For the first time, a federal court has lifted a national security letter gag order, allowing an Internet Service Provider to publish the FBI's demands for records of user web browsing history, IP addresses, online purchases, and location information. The FBI issues thousands of NSLs each year, forcing companies to disclose troves of consumer records without probable cause. Recipients are preventing from acknowledging these warrantless searches. EPIC filed an amicus brief in In re National Security Letter, arguing that NSL gag orders frustrate the public's right to know about government surveillance programs.
+U.S. Supreme Court Tosses Out North Carolina Lifetime GPS Tracking
+» (Mar. 30, 2015)
+Today the U.S. Supreme Court issued a per curium opinion vacating the decision of the North Carolina Supreme Court in Grady v. North Carolina. Grady challenged a court order requiring a "satellite-based [GPS] monitoring program for the duration of his natural life." The North Carolina court ruled that this was not a Fourth Amendment search. However, the U.S. Supreme Court tossed that ruling aside, finding it contrary to recent decisions in United States v. Jones and Florida v. Jardines. EPIC filed
+an amicus brief in Jones, joined by many leading technical experts and legal scholars. The Court held in that case that continuous GPS tracking constituted a search.
+Facebook Modifies User Privacy Policy
+» (Jan.
+2, 2015)
+Facebook has modified its privacy and data use policies, effective January 1, 2015. Facebook will now allow advertisers to include a “buy” button directly on targeted advertisements on a user’s page. Facebook will also allow advertisers to use the location data gathered from tools like “Nearby Friends” and location "check-ins” to push geolocation-based targeted advertisements. For instance, a Facebook user who checks in near a restaurant that partners with Facebook may now be shown menu items from that restaurant. Last month, the Dutch data protection commission announced that it planned to open an investigation into Facebook’s policy modifications. In July 2014, EPIC and a coalition of consumer privacy groups urged the FTC to halt Facebook’s plan to collect web-browsing information from its users. Facebook is already under a 20 year consent decree from the FTC that requires Facebook to protect user privacy. The consent decree resulted from complaints brought by EPIC and a coalition of consumer privacy organizations in 2009 and 2010. For more information, see EPIC: Facebook Privacy; and EPIC: FTC.
+EPIC Backs Comments on Location Privacy
+» (Dec. 16, 2014)
+EPIC has joined a coalition of consumer privacy groups in comments to the Federal Communications Commission on
+the "Roadmap for Improving E911 Location Accuracy." EPIC and the groups explained that collecting location information without privacy protections puts customers at risk. EPIC filed similar comments with the FCC in 2007. EPIC urged the Commission to recognize that "(1) the FCC has an obligation to protect the privacy of consumer information generated by the provision of communication services; (2) current regulations do not adequately location-based information, (3) legal frameworks, notably in the European Union, provide safeguards for location data, and (4) the Commission should establish rules that limit the use of customer location-based information." EPIC has frequently advocated for express authorization prior to disclosure of "call location information." The "Roadmap" raises concerns that the location of telephone users will be routinely known to federal agencies, whether or not there is an emergency. EPIC has also filed amicus curiae briefs in the U.S. Supreme Court and the Supreme Court of New Jersey arguing that location tracking by the government is a search under the Fourth Amendment and should only be conducted with a judicial warrant. For more information, see EPIC: Locational Privacy.
+Senator Markey Asks Justice Department About Cell Phone Tracking Program
+» (Nov. 17, 2014)
+Senator Edward J. Markey (D-MA) has sent detailed questions to Attorney General Holder about recent reports that law enforcement agencies have deployed aircraft equipped with cell tower simulators to capture mobile phone communication. The devices, known as "IMSI catchers" or "Stingray," identify and track cell phone users. Senator Markey wrote "the sweeping nature of this program and likely collection of sensitive records...raise important questions about how the Department protects the privacy of Americans" with no connection to unlawful activities. EPIC successfully sued the FBI to obtain documents about the agency's use of Stingray devices. EPIC has also filed amicus curiae briefs in the U.S. Supreme Court and the Supreme Court of New Jersey arguing that location tracking is a search under the Fourth Amendment and should only be conducted with a judicial warrant. For more information, see EPIC: Locational Privacy and EPIC v. FBI (Stingray).
+Apple Announces New Privacy Enhancing Techniques
+» (Sep. 23, 2014)
+The most recent product announcement from Apple, includes several privacy enhancing techniques that EPIC has favored, including randomized MAC addresses, end-to-end encryption, robust screen lock, and implementation of secure electronic payment systems. Still, EPIC has raised questions about Health Kit, which enables the collection and transfer of sensitive medical information, and the enforcement of developer guidelines. For more information, see, EPIC: Practical Privacy Tools and EPIC: Location Privacy.
+Apple Announces New Privacy-Enhancing Techniques in iOS 8
+» (Jun. 10, 2014)
+Apple has announced new privacy-enhancing techniques that will limit the ability of third parties to track Apple mobile devicesi. Specifically, iOS8 will use "random, locally administered MAC addresses," instead of unique device IDs, to connect to the Internet. Mobile phones can now be tracked by law enforcement and private companies because of the unique MAC address associated with the device. In 2004 when the adoption of IPv6 raised privacy concerns, EPIC recommended that MAC addresses be randomized to avoid tracking. The change in the Apple iOS implements this proposal. For more information, see EPIC: Practical Privacy Tools and EPIC: Location Privacy.
+Senate Holds Hearing on Consumer Location Privacy Protection
+» (Jun.
+6, 2014)
+The Senate recently held a hearing on the Location Privacy Protection Act of 2014 authored by Senator Franken. In an opening statement, Senator Franken said his "bill makes sure that if a company wants to get your location...they need to get your permission first." FTC Director, Jessica Rich, testified that location data is "sensitive information" that "raises privacy concerns." The FTC recently signed a 20-year consent order with Snapchat after finding the app was collecting location information in contradiction to its stated privacy policy. The FTC investigated Snapchat after EPIC filed a complaint with the agency detailing the companies deceptive practices. EPIC also filed an amicus brief in a location privacy case in which the New Jersey Supreme Court case announced a landmark decision, holding that individuals have an expectation of privacy in their cell phone data.For more information, see EPIC: Location Privacy.
+Massachusetts Court Upholds Privacy Protection for Location Records
+» (Feb. 20, 2014)
+In Commonwealth v. Augustine, the Massachusetts Supreme Judicial Court ruled that an individual has a reasonable expectation of privacy in cell phone location records held by a company. Article 14 of the Massachusetts Constitution, similar to the Fourth Amendment, provides that individuals should be free from "unreasonable searches, and seizures." The court held that obtaining two weeks of phone location records was a search, requiring a warrant. EPIC filed "friend of the court" briefs in Commonwealth v. Connolly, a similar case in Massachusetts concerning warrantless GPS tracking, and State v. Earls, a case in which the New Jersey Supreme Court held that location data is protected under the state constitution. EPIC also filed a brief in In re U.S. Application for Historical Cell Site Data, where an appeals court held that users have no reasonable expectation of privacy in location records under the Fourth Amendment. The Massachusetts Supreme Court considered all three cases. For more information, see EPIC: Location Privacy.
+New Jersey Court Issues Landmark Location Privacy Decision
+» (Jul. 18, 2013)
+Today the Supreme Court of New Jersey held that individuals have a reasonable expectation of privacy in their cell phone location data under the NJ state constitution. In State v. Earls, the New Jersey high court found that "cell-phone location information, which users must provide to receive service, can reveal a great deal of personal information about an individual." This decision is the first to establish a Constitutional right in location data since the U.S. Supreme Court decided United States v. Jones, a GPS tracking case in which several Justices expressed concern about the collection of location data.
+EPIC participated as amicus curiae
+in Earls. The New Jersey Supreme Court noted that "EPIC offered helpful details about the current state of cell-phone technology." For more information, see EPIC: State v. Earls and EPIC: Locational Privacy.
+EPIC Recommends Privacy Protections for Natural Disaster Survivors
+» (Jun. 20, 2013)
+In comments to the National Institutes of Health, an agency component of Health and Human Services, EPIC urged the agency to safeguard personally identifiable information following natural disasters. The agency proposes to use the PEOPLE LOCATOR system and related mobile app ReUnite™ to reunite "family and friends who are separated during a disaster." The PEOPLE LOCATOR system allows third parties to enter highly sensitive information about each missing or located individual, which in turn is accessed by the public. The system stores disaster survivor information including name, location, date of birth, race, religion, health status, address, and photographs. EPIC recommended that the agency: (1) limit its data collection to relevant information, (2) protect the security of the system by implementing data access control and establishing data quality standards; (3) define a record retention and disposal schedule; and (4) establish guidelines, which adhere to the Fair Information Practices, for disclosures to third parties like Google. For more information, see EPIC: Locational Privacy.
+Texas Bill to Require Warrants for E-mail Searches Awaits Governor's Signature
+» (May. 29, 2013)
+The Texas legislature has passed H.B. No. 2268, a bill that creates a warrant requirement for law enforcement access to stored electronic communications and customer data. The law, which was presented to Governor Rick Perry this week, is the first successful state effort to establish an across-the-board warrant requirement for stored communications. Congress is considering similar changes to the federal Electronic Communications Privacy Act. Others have proposed more sweeping privacy reforms, and there are bills in both the House and Senate that would establish location privacy protections. EPIC testified before the Texas Legislature on H.B. 1608, a location privacy companion to H.B. 2268. For more information, see EPIC: Electronic Communications Privacy Act and EPIC: Locational Privacy.
+House Subcommittee Considers Geolocation Privacy
+» (Apr. 26, 2013)
+The House Subcommittee on Crime, Terrorism, Homeland Security, and Investigations today heard
+testimony today on proposed Geolocation Privacy safeguards for the collection and use of location data generated by cellphones and other devices. As EPIC recently noted in a letter to the House Judiciary committee, and testimony before the Maryland House of Delegates and Texas House of Representatives on similar bills, ECPA does not protect location records; courts are divided on whether such records are protected by the Fourth Amendment. For more information, see EPIC: Locational Privacy.
+EPIC Testifies in Austin on Texas Location Privacy Bill
+» (Mar. 28, 2013)
+EPIC's Appellate Advocacy Counsel Alan Butler testified before the Texas State Assembly on a privacy bill for telephone location data. The House bill, would establish a warrant requirement for location data and a comprehensive reporting requirement, similar to the federal wiretap reports. Mr. Butler discussed the need for clear rules governing location surveillance that satisfy Fourth Amendment standards, as well as the importance of public reporting and accountability. He also testified at a Senate Committee hearing on the proposal. EPIC recently submitted amicus briefs in State v. Earls and In re U.S. (5th Cir.) regarding location privacy. For more information, see EPIC: Locational Privacy.
+EPIC Highlights Need for Broad Reform of Federal Privacy Law
+» (Mar. 18, 2013)
+In response to a request from the House Judiciary Committee, EPIC has recommended a comprehensive review of the federal communications privacy law. Congress will begin hearings this week on ECPA Part 1: Lawful Access to Stored Content. EPIC's letter to the Committee noted the recent settlement by the state Attorneys General with Google in the Street View matter and the reluctance of federal officials to pursue a similar investigation. EPIC also noted growing confusion in the lower courts about the application of the federal privacy law. Finally, EPIC pointed out that the current law provides inadequate protection for private location records. For more information, see EPIC: Electronic Communications Privacy Act and EPIC: Locational Privacy.
+EPIC Testifies Before Maryland Legislature on Location Privacy
+» (Feb. 28, 2013)
+EPIC Appellate Advocacy Counsel Alan Butler testified before the Maryland House Judiciary Committee on H.B. 887, a location privacy bill that will establish a search warrant requirement for the collection of private location information. Mr. Butler discussed
+the current state of location tracking and privacy under the state and federal constitutions. The Maryland bill will require a warrant for location tracking and an annual report on electronic surveillance reports, similar to the federal wiretap reports. EPIC recently submitted amicus briefs in State v. Earls and In re US regarding location privacy. For more information, see EPIC: Locational Privacy and EPIC: State v. Earls.
+California Attorney General Releases Mobile App Privacy Guidelines
+» (Jan. 10, 2013)
+California Attorney General Kamala Harris has issued a report describing best practices for mobile application privacy. The report, "Privacy on the Go," recommends that app developers implement safeguards such as privacy-by-design and notice, but stops short of setting forth a comprehensive set of Fair Information Practices. The report follows a law that requires all service providers doing business in California, such as mobile app developers, to have a privacy policy available to consumers. The report also occurs while the White House's privacy multistakeholder process is attempting to develop a voluntary code of conduct for mobile app transparency. For more information, see EPIC: Mobile and Location Privacy.
+Senate Judiciary Committee Approves Location Privacy Bill
+» (Dec. 14, 2012)
+The Location Privacy Act of 2011, sponsored by Senator Al Franken has been reported favorably by the Senate Judiciary Committee. The bill requires affirmative consent for the collection and disclosure of location information, an important protection for cell phone users and users of location-based services. EPIC previously recommended similar protections for location data and filed comments with the Federal Communications Commission advocating location privacy safeguards under the Communications Act. For more information, see EPIC: Locational Privacy and EPIC: Electronic Communications Privacy Act.
+Senate Committee to Consider Location Privacy Bill
+» (Dec.
+6, 2012)
+The Senate Judiciary Committee is set to consider S. 1223, the Location privacy Act of 2011, sponsored by Senator Al Franken. The bill would establish important privacy protections for cellphone users and require affirmative consent for the collection or disclosure of location data by service providers. EPIC previously recommended new protections for location data as part of the update of federal law. EPIC also filed comments with the Federal Communications Commission supporting guidelines for the protection of location data under the federal Communications Act. For more information, see EPIC: Locational Privacy and EPIC: Electronic Communications Privacy Act.
+Massachusetts High Court Allows Limited Warrantless Search of Cellphone Call Logs
+» (Dec.
+6, 2012)
+The Supreme Judicial Court of Massachusetts has ruled that no search warrant is required to check the recent call list of a flip phone seized during a lawful arrest. However, the Court in Commonwealth v. Phifer emphasized that the ruling is narrow and fact-specific. Different facts, a more invasive search, or a more complex phone could result in a different outcome, said the Massachusetts high court. In the case, police witnessed a drug deal, arrested the dealer, and then checked the phone's call log for evidence of recent drug sales. The Massachusetts Court analogized searching the phone in these circumstances to searching a container that could contain contraband. The Supreme Judicial Court issued a similar ruling in a contemporaneous companion case, Commonwealth v. Berry. In a previous Massachusetts case in which EPIC filed a "friend of the court" brief, the Supreme Judicial Court ruled that sensitive data obtained from GPS tracking requires a search warrant. For more information, see EPIC: Locational Privacy and
+EPIC: Commonwealth v. Connolly.
+GAO Recommends New Safeguards for Locational Data
+» (Oct. 15, 2012)
+"Additional Federal Actions Could Help Protect Consumer Privacy," a
+report from the Government Accountability Office, essentially says that users of mobile devices have no idea what information about them is collected or how it is used. The report explains that the privacy problems are getting worse as industry groups have failed to establish meaningful safeguards and the NTIA's "multistakeholder process" is going nowhere. Several members of Congress have introduced legislation to protect mobile data, much as communications information is routinely protected by law. Senator Al Franken is the sponsor of Location Privacy Protection Act of 2011, which would "close current loopholes in federal law by requiring any company that may obtain a customer's location information from his or her smartphone or other mobile device to get the customer's express consent before" collecting location data or sharing it with third parties. For more information, see EPIC: Locational Privacy and EPIC: Location Privacy: Apple iPhone/iPad.
+Rep. Markey Introduces Mobile Privacy Act
+» (Sep. 12, 2012)
+Representative Edward Markey (D-MA) introduced "The Mobile Device Privacy Act," a bill that would require companies disclose the existence of monitoring software to consumers and obtain consent before using this software to collect personal information. The bill,
+H.R. 6337, would also direct the Federal Trade Commission and the Federal Communications Commission to develop rules implementing the act’s provisions. Recently, EPIC filed comments with the FCC urging the Commission to require mobile carriers to implement comprehensive fair information practices. For more information, see EPIC: Customer Proprietary Network Information and EPIC: Location Privacy.
+EPIC:
+Voters Should Be Wary of 2012 Election Apps
+» (Aug. 13, 2012)
+EPIC has released a report, "Smartphones and the 2012 Election," which focuses on the potential risks to voters who download election-related apps to their smartphones and tablets. The report contends that these apps promote greater citizen participation in e-democracy, but also may contain malware, disseminate false information A recent study by the University of Pennsylvania's Annenberg School for Communication revealed that voters are ambivalent about "personalized" political advertising, a practice likely to increase with the number of election and political apps available for download. EPIC's report also examines the role of federal and state regulation in protecting voters and providing guidance to campaigns, and recommends actions that voters, election administrators, and campaigns can take to better protect voter privacy. For more information, see EPIC: Voting Privacy and EPIC: Location Privacy: Apple iPhone / iPad.
+Federal Court to Hear Arguments in Cell Phone Tracking Case
+» (Aug.
+3, 2012)
+The Court of Appeals for the Fifth Circuit has tentatively scheduled oral argument in the first week of October for a current case, In re US Application for Historic Cell-Site Location Information, addressing whether the Fourth Amendment allows the Government to force disclosure of historical cell phone location records without a warrant. EPIC filed an amicus brief in this case, arguing that cell phone location records reveal private information and should be protected even if they are held by third party cell phone companies. For more information, see EPIC: In re Historic Cell-Site Location Information and EPIC: Location Privacy.
+EPIC Calls on FCC to Require Mobile Phone Carriers to Protect Privacy
+» (Jul. 17, 2012)
+EPIC, joined by Consumer Watchdog, submitted comments to the Federal Communications Commission on the privacy and security of information stored on mobile phones. The comments discussed the various privacy risks created by the business practices of many carriers, and recommended that the FCC require mobile carriers to implement comprehensive privacy and security protections based on Fair Information Practices. EPIC previously wrote to the FCC in 2007 to call for increased protections for customers' Customer Proprietary Network Information, and in 2001 to urge the FCC to establish fair location information practices.
+For more information, see EPIC: Customer Proprietary Network Information and EPIC: Location Privacy.
+Court Orders Twitter to Disclose User Records, Denies User's Ability to Challenge Order
+» (Jul.
+3, 2012)
+A New York judge has ordered Twitter to turn over user data for an Occupy Wall Street protester. The user challenged the order under the Twitter terms of service, but the court ruled that the user had no standing. EPIC recently filed a "friend of the court" brief arguing that users of cell phone services have a reasonable expectation of privacy in their location records, which are subject to the same disclosure rules as Twitter data. For more information, see EPIC: In re Twitter Order Pursuant to 2703(d), EPIC: In re Historic Cell-Site Location Information.
+EPIC Supports Geolocation Privacy Act, Suggests Improvement
+» (May. 16, 2012)
+In a Statement for the Record, EPIC has expressed support for H.R. 2168, the "Geolocational Privacy and Surveillance Act," which prohibits the interception of location information by private parties and government agents acting without a search warrant. The bill will be considered at a hearing before the House Subcommittee on Crime, Terrorism, and Homeland Security. EPIC said "as communications technologies evolve, new forms of personal information are generated that require new legal safeguards." EPIC also recommended that Congress adopt purpose-specification and data limitation requirements for data stored by private companies, require affirmative consent prior to the collection of location data, and clarify an exception that permits the interception of location data made available through publicly accessible systems. For more information, see EPIC: Location Privacy.
+EPIC Files Suit for FBI "Sting Ray" Cell Phone Tracking Documents
+» (Apr. 27, 2012)
+EPIC has filed a FOIA lawsuit against the FBI for documents related to the Government's use of cell phone tracking technology, known as "Sting Ray.".For more than 15 years the FBI has used cell-site simulator technology to track the location of a cell phones and other communications devices. Cell-site simulators act like a fake cell towers and can be used to monitor and track cell phone users even when the device is not in use. The technique also tracks all individuals in a region, irregardless of whether they are the suspect in an investigation. Government attorneys have recently fought against the discovery of documents related to the use of these devices. In February 2012, EPIC filed a Freedom of Information Act request with the FBI, but so far the agency has not responded or disclosed any documents as required by law. EPIC has recently filed amicus curiae briefs in Supreme Court, and Federal Court cases related to Government location tracking. For more information see: EPIC: Locational Privacy, EPIC: US v. Jones and EPIC: In re US Application for Historic Cell-Site Location Information.
+EPIC Urges Court to Uphold Location Privacy in Cell Phone Tracking Case
+» (Mar. 19, 2012)
+EPIC filed a "Friend of the Court" brief in the Fifth Circuit urging the court to uphold Fourth Amendment protections for cell phone users. In the case, In re US for Historical Cell-Site Data, the lower court held that the disclosure of historical cell phone location records without a warrant would violate the Fourth Amendment. EPIC argued that this opinion should be upheld in light of the Supreme Court's recent decision in United States v. Jones, because cell phone location records are collected without the knowledge or consent of users. The records in this case, EPIC argued, create a "comprehensive map of an individual’s movements, activities, and relationships, . . . precisely the type of information that individuals reasonably and justifiably believe will remain private." For more information, see In re Historical Cell-Site Location Information, EPIC: State v. Earls, and EPIC: US v. Jones.
+EPIC Urges Court to Uphold Location Privacy in Cell Phone Tracking Case
+» (Feb. 29, 2012)
+EPIC filed a "friend of the court" brief in the New Jersey Supreme Court urging the court to uphold Fourth Amendment protections for cell phone users. In State of New Jersey v. Thomas W. Earls, the lower court held that an individual has no legitimate expectation of privacy in the location of their cell phone. EPIC argued that the lower court opinion should be overturned in light of the Supreme Court's recent decision in United States v. Jones. The cell phone tracking techniques in this case, EPIC argued, "is more invasive than the GPS tracking in Jones." For more information, see EPIC: State v. Earls, and EPIC: US v. Jones.
+Supreme Court Upholds Fourth Amendment in GPS Tracking Case
+» (Jan. 23, 2012)
+Today the Supreme Court unanimously held in U.S. v. Jones that the warrantless use of a GPS tracking device by the police violated the Fourth Amendment. The Court said that a warrant is required "[w]here, as here, the government obtains information by physically intruding on a constitutionally protected area," like a car. Concurring opinions by Justices Sotomayor and Alito urged the court to focus on the reasonableness of the suspect's expectation of privacy because physical intrusion is unnecessary to surveillance in the digital age. EPIC, joined by 30 legal and technical experts,filed a "friend of the court" brief. EPIC warned that, "it is critical that police access to GPS tracking be subject to a warrant requirement." For more information, see EPIC: US v. Jones, and EPIC: Location Privacy.
+Senator Franken Asks Carrier IQ to Explain Data Collection Activities
+» (Dec.
+1, 2011)
+Senator Al Franken (D-Minn) has sent a letter to Carrier IQ about reports that it has been collecting sensitive consumer information from millions of smartphone users. The data includes text message content, websites visited, user locations, and detailed call records. This may be an "unlawful intercept" under the Electronic Communications Privacy Act of 1986 (ECPA). EPIC recently asked the FTC to investigate similar practices involving Verizon, For more information, see EPIC: Electronic Communications Privacy Act and EPIC: Locational Privacy.
+Supreme Court to Hear Arguments in GPS Tracking Case
+» (Nov.
+4, 2011)
+The United States Supreme Court will hear arguments on November 8 to determine whether the warrantless use of a GPS tracking device by the police violates the Fourth Amendment. EPIC filed a "friend of the court" brief in US v. Jones, urging the Supreme Court to uphold robust Fourth Amendment protections. Along with 30 legal and technical experts, EPIC argued that 24-hour GPS surveillance by law enforcement constitutes a "search" under the Fourth Amendment and requires judicial oversight. Arguing in support of a lower court decision, EPIC warned that, "it is critical that police access to GPS tracking be subject to a warrant requirement." The Supreme Court will consider both whether persistent GPS tracking constitutes a "search" and also whether the installation of a GPS tracking device on a private vehicle is a "seizure." For more information, see EPIC: US v. Jones, and EPIC: Location Privacy.
+EPIC Urges Supreme Court to Uphold Fourth Amendment in GPS Case
+» (Oct.
+3, 2011)
+EPIC filed a "friend of the court" brief in the United States Supreme Court urging the Court to limit the scope of pervasive GPS surveillance by upholding robust Fourth Amendment protections. Along with 30 legal and technical experts, EPIC argued that 24-hour GPS surveillance by law enforcement constitutes a "search" under the Fourth Amendment. US v. Jones involves the government's use, without a judicial warrant, of a GPS device to track a person "24/7." The lower court held that "the use of the GPS device violated [Jones'] 'reasonable expectation of privacy,' and was therefore a search subject to the reasonableness requirement of the Fourth Amendment." Arguing in support of the earlier decision, EPIC said "it is critical that police access to GPS tracking be subject to a warrant requirement." For more information, see
+EPIC: US v. Jones, and EPIC: Locational Privacy.
+Sen. Schumer Calls for Investigation into “brazen” OnStar Privacy Violation
+» (Sep. 26, 2011)
+Senator Charles Schumer (D-NY) wrote a letter to the Federal Trade Commission requesting an investigation into OnStar's announcement that it would track the location of its customers' vehicles even after the customers canceled their service. OnStar also reserved the right to sell such locational information to advertisers. In an interview with FOX News last week, EPIC Executive Director Marc Rotenberg warned that the company would make data of former customers available to third parties. For more information, see EPIC: Locational Privacy.
+Federal Judge: Locational Data Protected Under Fourth Amendment
+» (Aug. 25, 2011)
+A Federal judge has ruled that to law enforcement officers must have a warrant to access cell phone locational data. Courts are divided regarding whether or not this type of data should be protected by a warrant requirement. Judge Garaufis of the Eastern District of New York, found that "The fiction that the vast majority of the American population consents to warrantless government access to the records of a significant share of their movements by 'choosing' to carry a cell phone must be rejected…In light of drastic developments in technology, the Fourth Amendment doctrine must evolve to preserve cell-phone user's reasonable expectation of privacy in cumulative cell-site-location records." EPIC has filed amicus briefs in several related cases. For more information see: EPIC: Commonwealth v. Connolly, EPIC: US v. Jones, and EPIC: Locational Privacy.
+Judge Rules Google Street View Data Collection May Violate Wiretap Act
+» (Jul.
+1, 2011)
+In a lawsuit filed by several private citizens, a federal judge has found that Google's purposeful and secretive collection of Wi-Fi data as part of its "Street View" activities could constitute illegal wiretapping. EPIC filed an amicus brief in the case, providing a detailed legislative history of the Electronic Communications Privacy Act (ECPA) and arguing that private Wi-Fi communications are entitled to privacy protection under ECPA. EPIC said that Congress established "a presumption in favor of confidentiality except in those circumstances where the user has knowingly chosen to broadcast communications to the general public." For three years in thirty countries, Google's Street View cars collected data, including the content of personal emails, from wireless routers located in private homes and businesses. Several countries, including the U.K., Germany, Spain, and Canada, have conducted similar investigations and determined that Google violated their privacy laws. In the U.S., the Federal Communications Commission opened an investigation after EPIC filed a complaint, but the Commission has failed to announce a ruling. For more information, see EPIC: Google Street View.
+Lawmakers Urge Federal Communications Commission to Speed Up Google Street View Investigation
+» (Jul.
+1, 2011)
+The House of Representatives Financial Services Appropriations bill contains an amendment requiring the Federal Communications Commission to report on its Google Street View Wi-Fi investigation within 180 days. The bill was voted out of committee and is headed for a full House vote. The Commission opened an investigation into Google Street View after EPIC filed a complaint, asking the Commission to investigate possible violations of federal wiretap law and the Communications Act. Several countries, including the U.K., Germany, Spain, and Canada, have conducted similar investigations and determined that Google violated their privacy laws. For more information, see EPIC: Google Street View.
+FCC and FTC Announce Public Meeting on Locational Privacy
+» (May. 25, 2011)
+The Federal Communications Commission and the Federal Trade Commission will co-host a Location Based Services Forum on June 28, 2011. The event will include representatives from industry, consumer advocacy groups, and academia discussing the benefits and risks of location based services and industry best practices. The agencies are calling for public comment on location based services. EPIC previously submitted comments to the FCC on locational privacy in 2001 and 2006, requesting that the Commission establish guidelines for the protection of users' locational privacy. In 2010, EPIC specifically warned two Congressional committees about the privacy risks of location services in mobile phones. For more information, see EPIC: Locational Privacy.
+Senate Holds Hearing on Privacy and Mobile Services
+» (May. 19, 2011)
+The Senate Commerce Committee today explored "Consumer Privacy and Protection in the Mobile Marketplace." Chairman Rockefeller said that users of mobile services have "an expectation of privacy . . . a right to privacy." The FTC's David Vladeck stated that consumers face new threats in the mobile marketplace and described the agency's recent actions against Twitter and Google. In 2010, EPIC recommended new privacy safeguards for location data. For more information, see EPIC: Locational Privacy.
+Senate Judiciary Committee Holds Mobile Privacy Hearing
+» (May. 10, 2011)
+The Senate Judiciary Subcommittee on Privacy, Technology, and Law held a hearing on "Protecting Mobile Privacy: Your Smartphones, Tablets, Cell Phones and Your Privacy." Lawmakers heard testimony from the Federal Trade Commission, as well as from from Apple and Google representatives. Chairman Leahy said that safeguarding privacy "is one of the most important and challenging issues facing the nation," and indicated that he would introduce legislation to update the Electronic Communications Privacy Act. EPIC previously recommended new privacy safeguards for location data. For more information, see EPIC: Locational Privacy and EPIC: In re Google Buzz.
+Apple Releases iPhone Software Update
+» (May.
+4, 2011)
+In response to concern over the collection of location data, Apple released a software update for mobile devices, available through iTunes. The update will limit the storage of location data to one week, stop the transfer of location data when the device is synced, and erase all location data from a device if a user turns off Location Services. Location data stored on the device will also now be encrypted. The recent changes were sparked by a research paper which revealed that Apple was routinely storing tracking data on Apple iPhones and iPads in a secret file "consolidated.db.". EPIC has commended Apple for moving quickly to address this problem. Last year EPIC warned Congress about the need to update federal privacy laws to address privacy risks with the collection of location data. For more information, see EPIC: iPhone and Privacy and EPIC: Locational Privacy.
+Congressmen Not Satisfied with Response from Wireless Carriers on Location Privacy
+» (Apr. 29, 2011)
+Representatives Ed Markey (D-MA) and Joe Barton (R-TX) announced they had received responses from the four major U.S. wireless carriers about privacy and location data -- At&T; Verizon; Sprint; and T-Mobile. The wireless carriers say that third-party applications are the biggest privacy threat to users of mobile services. Reps. Markey and Barton sent a letter to the companies after security researchers revealed that Apple was recording the location data of iPhone and iPad users.  For more information, see EPIC: iPhone and Privacy and EPIC - Locational Privacy.
+Apple Modifies iOS4, Reduces Storage of Location Data
+» (Apr. 27, 2011)
+In response to growing public concern about the collection of location data, Apple announced today four changes to iOS4. Apple said it will (1) limit the storage of locational data to one week; (2) stop transferring locational data from the device to the user's computers, (3) allow users to delete all locational data collection on the device; and (4) encrypt the locational data stored on the device. The update should be available in the next few weeks. The recent change was sparked by a research paper which revealed that Apple was routinely storing tracking data on Apple iPhones and iPads in a secret file "consolidated.db." Congressman Markey and others wrote to Apple to express concern. Apple pledged that the company "has no plans to ever" track iPhone users. EPIC has commended Apple for moving quickly to address this problem. For more information, see EPIC: iPhone and Privacy and EPIC: Locational Privacy.
+Apple Faces Increased Pressure on Locational Tracking
+» (Apr. 27, 2011)
+As details continue to emerge following the revelation that Apple’s iPhone and 3G iPad are collecting and recording locational data of users and storing it on the device, a class action lawsuit has been filed alleging violations of the Computer Fraud and Abuse Act, as well as state claims of unfair and deceptive trade practices. Illinois Attorney General Lisa Madigan has asked for a meeting with Apple. Apple has still not made a statement about the security vulnerability, which came to light at an April 20, 2011 locational conference. For more information, see EPIC: iPhone and Privacy and EPIC: Locational Privacy.
+iPhones, iPads Collect and Store User Location Data
+» (Apr. 21, 2011)
+Security researchers have found that Apple records detailed location data of iPhone and iPad users. The information, which includes latitude/longitude and a time stamp, is captured by the devices and then transferred to a user's computer where it is stored unencrypted. It is not clear whether Apple is able to access the file directly. Senator Al Franken (D-MN) and Rep. Ed Markey (D-MA) have asked Apple CEO Steve Jobs to explain why the company is storing information on its users in a secret file. Apple may have violated Section 222 of the Communications Act, which requires companies to obtain customer consent before location data is used or disclosed for commercial purposes.
+A recent Nielsen poll finds that US smartphone users are concerned with privacy when it comes to location. For more information, see EPIC: iPhone and Privacy, EPIC: Locational Privacy and EPIC: Consumer Proprietary Network Information.
+Solicitor General to Supreme Court: Review GPS Tracking Cases
+» (Apr. 18, 2011)
+The Solicitor General filed a petition with the Supreme Court about the growing dispute in the federal courts over warrantless locational tracking. There is a split among the appellate court about GPS tracking by police agencies. The petition appeals a decision from the DC Circuit which held that the warrantless tracking of a motor vehicle violates the Constitutional right against unlawful searches. Earlier, EPIC filed an amicus brief in the Massachusetts Supreme Judicial Court case that also held that a warrant is required for the use of a GPS tracking device. For more information, see EPIC - Commonwealth v. Connolly and EPIC - Locational Privacy.
+Virginia Court of Appeals Authorizes Warrantless GPS Tracking
+» (Sep. 17, 2010)
+In Foltz v. Virginia, the Virginia Court of Appeals held that law enforcement may place a GPS tracking device on a vehicle without violating the Fourth Amendment. The Court found that the defendant did not have an expectation of privacy, and therefore attaching the tracking device to the bumper did not require a warrant. The court distinguished its ruling from Commonwealth v. Connolly, a recent Massachusetts case, which held that police must obtain a warrant before using GPS devices to monitor vehicles. The Virginia court explained that Connolly was unpersuasive because the Virginia Constitution is co-extensive with the federal Fourth Amendment while the Massachusetts Constitution is more expansive. EPIC filed an amicus brief in Connolly, urging the court to adopt a warrant requirement.
+For more information, see EPIC: Commonwealth v Connolly.
+Facebook Uses RFID to Track Users' Locations for Advertising Promotion
+» (Aug. 25, 2010)
+At the Coca-Cola Village Amusement Park in Israel, visitors were recently issued bracelets with RFID chips that linked to their Facebook accounts, according to Adland. RFID readers scattered throughout the park updated the users' Facebook pages when the bracelets were scanned. On-site photographers also posted photos that were automatically tagged with the users' identities. Facebook had previously tested the use of RFID for location tracking at the f8 Developer Conference in April. Facebook has also just launched Places, which is designed to make users' location information widely available. For more information, see EPIC Facebook Privacy, EPIC Facebook Places.
+Facebook "Places" Embeds Privacy Risks, Complicated and Ephemeral Opt-Out Unfair to Users
+» (Aug. 19, 2010)
+The recently announced Facebook service Places makes user location data routinely available to others, including Facebook business partners, regardless of whether users wish to disclose their location. There is no single opt-out to avoid location tracking; users must change several different privacy settings to restore their privacy status quo. For users who do not want location information revealed to others, EPIC recommends that Facebook users: (1) disable "Friends can check me in to Places," (2) customize "Places I Check In," (3) disable "People Here Now," and (4) uncheck "Places I've Visited." EPIC, joined by many consumer and privacy organizations, has two complaints pending at the Federal Trade Commission concerning Facebook's unfair and deceptive trade practices, which are frequently associated with new product announcements. For more information, see EPIC In Re Facebook, EPIC In Re Facebook II, and EPIC Facebook Privacy.
+Federal Appeals Court Requires Warrant for GPS Tracking
+» (Aug.
+6, 2010)
+The D.C. Circuit Court ruled that police must obtain a warrant before using GPS devices to monitor vehicles. GPS tracking constitutes a seizure under the U.S. Constitution because "prolonged GPS monitoring reveals an intimate picture of the subject‘s life that he expects no one to have," the Court held. In a related case, the Massachusetts Supreme Court recently held that a warrant is required for the use of a GPS tracking device. EPIC filed an amicus brief in that case. For more information, see EPIC Commonwealth v. Connolly.
+Issues
+When individuals are moving about in public and private spaces, they do not expect to be tracked wherever they go. However, this expectation is being challenged as cell phones and other electronic devices now collect and store location data throughout the day. The expansion of location tracking technologies has significant implications for consumers and for their constitutional privacy rights.
+Over the last 10 years, law enforcement has stepped up its use of location tracking technologies, such as GPS (Global Positioning System) trackers and cell phones, to monitor the movements of individuals who may or may not be suspected of a crime. GPS is a geolocation network that consists of satellites and receivers that can calculate the precise location of a GPS device 24-hours a day (subject to environmental constraints). As of June 2017, there are 32 satellites in the GPS constellation. The satellites and ground stations in the GPS network are maintained by the U.S. Air Force Global Positioning Systems Wing. GPS satellites are designed to transmit three-dimensional location data (longitude, latitude and altitude) as well as precise velocity and timing information to an unlimited number of users simultaneously. A GPS receiver is all that one needs to access the service. GPS satellites can not receive any data, they can only broadcast location and timing information.
+A GPS-enabled receiver is the device that is commonly available through commercial retailers, and used by the general public to assist in navigation. The civilian GPS receivers deliver precise velocity and timing information, and very accurate location information. This device by itself does not transmit the data received from the satellite network to remote locations, nor is it typically capable of storing data regarding its long-term historical movements. However, most cell phones are now GPS-enabled and can transmit location data to the service provider or other third parties (such as Apps - see e.g. Foursquare). Cell phones can also be used to track users even if they are not GPS-enabled. See Cell Phone Tracking Methods.
+Fourth Amendment
+The Fourth Amendment provides that the "right of the people to be secure in their persons, houses, papers and effects, against unreasonable searches and seizures, shall not be violated." A seizure of property occurs when there is "some meaningful interference with an in- dividual's possessory interests in that property," United States v. Jacobsen, 466 U. S. 109, 113 (1984). In determining whether a "search" has occurred, courts have traditionally applied a two-part test established in Katz v. United States, 389 U.S. 347 (1967): where an individual has (1) a subjective expectation of privacy in the searched object that (2) society is willing to recognize as reasonable. See Kyllo v. United States, 533 U.S. 27, 33 (2001). However, in United States v. Jones, 132 S. Ct. 945 (2012), the Supreme Court held that Katz is not the exclusive test under the Fourth Amendment and that the Government's "installation of a GPS device on a target's vehicle, and its use of that device to monitor the vehicle's movements, constitutes a 'search.'" Id. at 949. Under this new "trespass test," a search occurs whenever the government occupies private property for the purpose of obtaining information. Id.
+A warrant is typically required for law enforcement to search or seize an item, although courts recognize certain exigent circumstances excusing the warrant requirement in limited cases. Judges may issue warrants based on probable cause under state and federal laws such as Rule 41 of the Federal Rules of Criminal Procedure.
+After the Supreme Court's decision in United States v. Jones, courts must reassess the application of the Fourth Amendment to various location-tracking methods. The two main cases laying the groundwork for the contemporary Constitutional issue of using location-based tracking devices to conduct surveillance are United States v. Knotts, 460 U.S. 276 (1980) and United States v. Karo, 468 U.S. 705 (1984). These cases examine whether the diminished expectation of privacy in an automobile is expanded when the police use technology to track a suspect and whether the technology is a mere augmentation of the officer's own sense of observation or a more intrusive form of surveillance.
+In Knotts, the Court determined that the use by the police of a beeper to track a person did not constitute a search. The police attached a beeper to a container that the suspect then placed in his car. The police used the signal from the beeper to track the container to the suspect's cabin. Once there, the police set up visual surveillance of the cabin. The Court held that the beeper allowed the police merely to track a suspect on public highways and streets. Consequently, the Court explained, there is a diminished expectation of privacy in an automobile. "The fact that the officers in this case relied not only on visual surveillance, but also on the use of the beeper to signal the presence of [Darryl] Petschen's automobile to the police receiver does not alter the situation.
+Nothing in the Fourth Amendment prohibited the police from augmenting the sensory faculties…with such enhancement as science and technology afforded them in this case."
+A year after Knotts, the Court heard United States v. Karo. Karo shifts the discussion to whether the police may use beepers to monitor suspects in private residences without a warrant. In this case, the DEA installed and monitored a beeper into a can of ether in the possession of the suspects. The DEA relied on the signal from the beeper (as the can was moved from two private residences and a storage facility) to track the suspects. The Court held that this was an impermissible search. "Indiscriminate [electronic] monitoring of property that has been withdrawn from public view would present far too serious a threat to privacy interests in the home to escape entirely some sort of Fourth Amendment oversight."
+Consumer Privacy
+Consumer Privacy
+Individuals are using location-based services that provide incentives for sharing where a person is at any given point in time. These location-based services are generally run on software applications found on GPS-enabled devices such as smartphones. The application requests the latitude and longitude of the user's phone or other GPS enabled device or from cell tower and WiFi information.
+The Pew Internet and American Life Project found that 77% of U.S. adults use smartphones, which are phones able to run apps and connect to the Internet. Location-based apps are focused on social-networking, consumer, and gaming activities. The Pew Research Centre also found that in 2016, around 90% of all smartphone users over the age of 18 use their phone for location-based services. This marks a significant increase from 74% in 2013.
+Foursquare, with approximately 55 million monthly active users, is a service that "lets users ‘check in' to a place when they're there, tell friends where they are and track the history of where they've been and who they've been there with." Businesses are taking advantage of the service by offering discounts and coupons to individuals who "check in" to their location. Foursquare also has an API that allows developers to build on its platform.
+An application programming interface (API) enables software programs to interface or interact with other software. Social networking sites, like Facebook and Twitter, provide a platform for APIs and are increasingly opening up their APIs to developers. Facebook Places now allows developers to store their own check-in data in Facebook Places database and to search that database. Developers can access the database for free and are no longer limited by having to build their own database. Facebook has
+1.74 billion monthly active mobile users, making its Places database larger than that of any other service currently available.
+Search engines are opening up their API to developers. Google has focused its efforts on its Google Maps API, which “returns a location and accuracy radius based on information about cell towers and WiFi nodes that the mobile client can detect.” Google has marketed the service extensively to businesses for commercial tracking uses.Even with its own strong privacy policy, a company may nonetheless share your information with a company that does not have as robust a privacy policy. This is especially concerning when seven in ten smartphone app share users’ information with third-party services. For example, Foursquare revamped its privacy policy after a website called PleaseRobMe aggregated information from Foursquare and other location based services such as Gowalla, and published a list "of all those empty homes out there" waiting to be robbed because owners had revealed no-one was home. If that is the case, then a user will be wrong in thinking that by checking into a location that information is being kept private and ultimately not being used in ways that the user did not agree to. A report from the International Computer Science Institute examined the "cybercasing" threat exemplified by the Foursquare example and the increasing adoption of location-enabled photo and video capturing devices. The researchers urged the security and privacy community "to ensure that users (i) are put into a position where they can make informed decisions; and (ii) are sufficiently protected unless they explicitly opt-in to potentially risky exposure."
+A study by AT&T research found that 19 out of 20 social networking sites shared information with third parties in a way that would allow third parties to associate online activities with actual identities. The researchers tracked privacy leakage (including presence and location data as well as the unique device identifiers on mobile devices) to determine whether existing privacy protection measures are still adequate. The report states that even if a company provides a range of privacy settings, "the multi-dimensional nature of the issue makes the problem of protecting information significantly harder." The researchers found leakage of personally identifiable information (PII) from all twenty social networking sites. They conclude that "[t]he combination of location information, unique identifiers of devices, and traditional leakage of other PII all conspire against protection of a user's privacy."
+Cell Phone Tracking Methods
+Cell phones, smartphones, and other mobile devices (e.g. laptops and tablets) can be located whenever they are turned on. Current location-tracking technologies can be used to pinpoint users of mobile devices in several ways. First, service providers have access to network-based and handset-based technologies that can locate a phone for emergency purposes. Second, historical location can frequently be discerned from service provider records. Thirdly, other devices such as Wi-Fi hotspots or IMSI catchers can be used to track nearby mobile devices in real time. Finally, hybrid positioning systems combine different methods in an attempt to overcome each individual methods’ shortcomings. The accuracy of these methods depends on a variety of technological and environmental factors, but the location data will only get more precise as the technology evolves.
+Network-based Location Technologies
+Network-based location tracking technologies rely on existing equipment to determine the location of a target device. See Ali H. Sayed, Alireza Tarighat & Nima Khajehnouri, Network-Based Wireless Location, IEEE Signal Processing Magazine 24, 26 (Jul. 2005).
+Cell phone networks consist of a series of antennas (or “cell sites”), which can be densely concentrated in urban areas with many users. See CTIA: The Wireless Association, Wireless in America: How Wireless Works (Jan. 2011).
+Mobile devices communicate with nearby cell sites during a process called “registration,” which occurs automatically even when the device is idle. A Guide to the Wireless Engineering Body of Knowledge 77 (Andrzej Jajszcyk ed., 2nd ed. 2011).
+During the registration process, mobile devices also communicate with nearby cell sites in order to identify the strongest signal. Michele Sequeira & Michael Westphal, Cell Phone Science: What Happens When You Call and Why 104 (2010). A similar process occurs when a user moves from one cell to another while making a call. See Nishith D. Tripathi, Jeffrey H. Reed & Hugh F. VanLandingham, Handoff in Cellular Systems, IEEE Pers. Comm., Dec. 1998, at 26.
+The service provider can also initiate the registration process. See CDMA Glossary, supra note 3 (describing “Non-Autonomous Registration” as “[a] registration method in which the base station initiates registration.”).
+Once registration occurs, the information is stored temporarily in service provider databases in order to route calls. Tripathi, supra,
+at 26. A log is also typically created every time a call is made or data downloaded. See Stephanie K. Pell & Christopher Soghoian, Can You See Me Now? Toward Reasonable Standards for Law Enforcement Access to Location Data that Congress Could Enact, 26 Berkeley Tech. L.J. 117, 128 (2012) (these logs reveal “which particular cell site a phone was near at the time of the call.”).
+These cell site records are the most basic component of network-based location data. See Junhui Zhao & Xueue Zhang, Location-Based Services Handbook: Wireless Location Technology in Location-Based Services § 2.2.1 (Syed A. Ahson & Mohammad Ilyas eds., 2011).
+The size of a “cell,” the area served by a cell site, can range from several miles to several meters. See Dimitris Mavrakis, Do We Really Need Femto Cells?, Vision Mobile (Dec. 1, 2007).
+As a result, a cell site location record can reveal the location of a mobile device in a specific area (like a room in a house) or within a large area (like a neighborhood). The smaller the cell site, the more precise the cell site location data. In order to increase network capacity, as is necessary in dense urban areas, providers typically shrink the size of their cells. Id. In 2000, there were 97 million wireless subscriber connections and as of 2010 there were nearly 293 million. CTIA: The Wireless Ass'n, Wireless in America: Wireless Subscriber Statistics (May 2011). Over that same time period, the number of cell towers has increased from 95,733 to 251,618. Id. In response to increased network demand, small cells are becoming increasingly common. See Press Release, Small Cells Outnumber Traditional Mobile Base Stations, Small Cell Forum (Oct. 31, 2012).
+Cell site data can also be collected for a specific cell site and time without an individual target. See, e.g., In re U.S. ex rel. Order Pursuant to 18 U.S.C. Section 2703(d), Nos. 12-670, 671, 672, 673, 674, 2012 WL 4717778 (S.D. Tex. Sept. 26, 2012) (rejecting a government request for bulk tower data). This information is referred to as a “tower dump.” Id. at *1. Government investigators have argued that they should be allowed to collect such data and analyze it in order to locate possible targets present at a particular location and time (like a crime scene). Id. The problem, as one court noted, is that it requires collection of “data related to innocent people who are not the target of the criminal investigation.” Id. at 4. At least one such application has been rejected because the Government had no protocol in place to handle this sensitive private data. See Id.
+Network-based location information can also be collected using more advanced and precise methods. Service providers can identify the location of a wireless device by using triangulation (or “lateration”) methods based on simultaneous signals from several base stations. See Ali H. Sayed, Network-Based Wireless Location at 26-29. See also Küpper at 131-136. Even more advanced methods consider the exact angle and time of arrival of each signal. See Küpper at 138-140, 144-148.
+The current advanced triangulation methods are capable of locating a mobile device within 50-120 meters, even in rural areas, and provide comparable accuracy to A-GPS in urban environments. See id. at 231 (table describing the accuracy of various cellular positioning methods).
+Handset-based Location Technologies
+The handset-based method involves locating a mobile device based on information provided by the device itself (such as GPS data). See Frank Van Diggelen, A-GPS: Assisted GPS, GNSS, and SBAS 292 (2009).
+Most current phones contain GPS technology. See Berg Insight, GPS and Mobile Handsets 2 (March 2010).The Global Positioning System (“GPS”) is a “constellation of orbiting satellites that provides navigation data to military and civilian users all over the world.” U.S. Air Force, Global Positioning System Factsheet (Sept. 15, 2010).
+GPS receivers, like those in mobile devices, can use the satellite signals to calculate “extremely accurate, three-dimensional location information (latitude, longitude and altitude), velocity (speed and direction) and precise time.” Id. However, buildings and other environmental factors in urban areas can reduce the accuracy of GPS location data. See Adam Gorski, Understanding GPS Performance in Urban Environments, AGI (Jan. 4, 2011).
+Assisted GPS (“A-GPS”) positioning now provides improved accuracy, lower power consumption, and reduced location acquisition time for compatible devices. Küpper at 225. The A-GPS process works by estimating a position using standard GPS triangulation, and then adjusting for corrections provided by a remote reference station connected to the network. Id. at 227. This allows for extremely accurate location information, to within 10 meters in outdoor rural areas. Id. at 231.
+Mobile devices can also determine location based on surrounding Wi-Fi networks. See Axel Küpper, Location-Based Services: Fundamentals and Operation 234 (2005). There are several companies that maintain databases listing the approximate location of wireless networks. Pell & Soghoian, supra, at 131. These companies are known as "location aggregators." Ann Cavoukian & Kim Cameron, Wi-Fi Positioning Systems: Beware of Unintended Consequences 6 (June 2011).
+See, e.g., Open WLAN Map.
+Internet service providers, such as Google, also use Wi-Fi data to determine a user's location. See Google, Statement to Several National Data Protection Authorities (Apr. 27, 2010).
+These Wi-Fi Positioning Systems cross reference the user's nearby Wi-Fi networks with the database in order to determine the user's approximate location. Id. See generally Cavoukian & Cameron, supra, at 6 (describing Wi-Fi Positioning methods). It is not clear whether service providers have access to Wi-Fi position data generated by mobile devices.
+Third-party Methods
+In addition to the location tracking methods described above, which require law enforcement to collect data indirectly through the service provider, there are surveillance technologies that facilitate real-time tracking of a mobile signal directly.
+One such tool is known as an “IMSI Catcher,” “StingRay,” or “Triggerfish,” and is used to identify and measure the strength and location of a mobile signal. See Jennifer Valentino-Devries, Stingray Phone Tracker Fuels Constitutional Clash, Wall St. J., Sept. 22, 2011.
+IMSI catchers mimic a wireless carrier's network tower and can send and receive all the same signals going to the cellular tower. See EPIC, EPIC v. FBI - Stingray / Cell Site Simulator (2012).
+IMSI catchers can determine a specific cell phones location by measuring the signal strength of the cell phone from several locations and utilizing triangulation to pinpoint the cell phones location. Id. These tools can also be used to identify a device based on its location, rather than the opposite. See In re Application of the U.S. for an Order Authorizing the Use of a Pen Register and Trap and Trace Device, ___ F. Supp. 2d ____, 2012 WL 2120492 (S.D. Tex. 2012)(“by determining the identifying registration data at various locations in which the Subject's Telephone is reasonably believed to be operating, the telephone number corresponding to the Subject's Telephone can be identified.”). At least one court has rejected an application to use such technology because the Government failed to address how they would deal with “information concerning seemingly innocent cell phone users,” which would be recorded by the equipment. Id.
+Hybrid Positioning Methods
+Hybrid positioning systems uses a combination of handheld based and network-based positioning methods to find the location of a mobile device. GPS is usually a centerpiece of the system, and is combined with other technologies such as WiFi-positioning or cellular positioning. Hybrid positioning was developed to overcome limitations of GPS, whose positioning is not always possible in shielded environments. The second component of a hybrid system should attempt to complement these shortcomings of GPS in an attempt to achieve a “seamless positioning device.”
+Case Law
+Federal Cases
+Carpenter v. United States, ___ S. Ct. ___ (cert. granted 2017)
+United States v. Jones, 132 S.Ct. 945 (2012)
+United States v. Skinner, 690 F.3d 772 (2012)
+In re U.S., No. 11-20884 (5th Cir. filed Dec. 14, 2011)
+In the re U.S., 620 F.3d 304 (3rd Cir. 2010)
+United States v. Maynard, 615 F.3d 544 (D.C. Cir. 2010)
+United States v. Antoine Jones, Appellee's Petition for Rehearing En Banc
+United States v. Antoine Jones, Denial of Petition for Rehearing En Banc
+United States v. Pineda-Moreno, No. 08-30385 (9th Cir. 2010)
+United States v. Garcia, 474 F.3d 994 (7th Cir. 2007)
+In re U.S., ___ F.Supp.2d ____, 2012 WL 2120492 (S.D.Tx. 2012)
+In re US, 747 F.Supp.2d 827 (S.D. Tx. 2010)
+State Cases
+State v. Earls, 209 N.J. 97 (2011)
+EPIC's Supplemental Amicus Brief
+EPIC's Amicus Brief
+State v. Wyatt, 30 Mass. L. Rptr. 270 (Mass. Sup. Ct. 2012)
+State v. Zahn, 812 N.W.2d 490 (S.D. 2012)
+People v. Hall, 86 A.D.3d 450 (N.Y. App. Div. 1st 2011)
+Foltz v Commonwealth, 57 Va. App. 68 (Ct. App. 2010)
+Commonwealth v. Connolly, 913 N.E.2d 356 (Mass. 2009)
+EPIC's amicus brief
+People v. Weaver, 909 N.E.2d 1995 (N.Y. 2009)
+Wisconsin v. Sveum, 328 Wis.2d 369 (2009)
+State v. Jackson, 150 Wash. 2d 251 (2003)
+Legislation
+Existing Federal Law
+Electronic Communications Privacy Act of 1986
+Title II - Stored Communications Act, 18 U.S.C. §§ 2701 to 2712
+Title III - Pen Register Act, 18 U.S.C. §§ 3121 to 3127
+Communications Act of 1934
+Communications Assistance for Law Enforcement Act, 47 U.S.C. § 1002(a)
+Wireless Communications and Public Safety Act of 1999, 47 U.S.C. § 222(d) and (f)
+Proposed Legislation
+Online Communications and Geolocation Privacy Act, 113 H.R. 983 (2013)
+Geolocation Privacy and Surveillance Act, 112 S. 1212, 112 H.R. 2168 (2011)
+Location Privacy Protection Act of 2011, 112 S. 1223 (2011)
+Resources
+CDG, Welcome to the World of CDMA: Glossary
+Where is the energy spent inside my app?, Researchers: Abhinav Pathak (Purdue University), Y. Charlie Hu (Purdue University), and Ming Zhang (Microsoft Research)
+ACLU-Northern California, Location Based Services: Time for a Privacy Check-In, November 2010.
+Kathryn Zickhur, Aaron Smith, 4% of online Americans use location based services, Pew Internet and American Life Project, November 4, 2010
+Ann Cavoukian, Ph.D., Information & Privacy Commissioner, Ontario, Canada, Redesigning IP Geolocation: Privacy by Design and Online Targeted Advertising, www.privacybydesign.ca, October 2010.
+Real Time Privacy Monitoring on Smartphones, Joint Study: Intel Labs, Penn State University, Duke University.
+Gerald Friedland, Robin Sommer, Cybercasing the Joint: On the Privacy Implications of Geo-Tagging, International Computer Science Institute, August 2010.
+Bruce Sewell, Apple, Letter to Reps. Edward J. Markey and Joe Barton, July 12, 2010.
+Reps. Edward Markey and Joe Barton, Letter to Steve Jobs, Chief Executive Officer, Apple, June 24, 2010.
+Jay Stanley, The Crisis in Fourth Amendment Jurisprudence, acslaw.org, May 2010.
+Joint Hearing Subcommittee on Commerce, Trade and Consumer Protection and Subcommittee on Communications, Technology, and the Internet, "The Collection and Use of Location Information for Commercial Purposes," February 24, 2010.
+Nick Doty, Deirdre K. Mulligan and Erik Wilde, Privacy Issues of the W3C Geolocation API, UC Berkeley School of Information Report 2010-038, February 2010.
+Nick Doty, How do websites know where I am?
+Matt Duckham & Lars Kulik, University of Melbourne, Australia, Location privacy and location-aware computing.
+Google, Privacy: Location privacy.
+The Internet Engineering Task Force (IETF), Geographic Location/Privacy (geopriv) working group.
+Andrew J. Blumberg and Peter Eckersley, "On Locational Privacy, and How to Avoid Losing it Forever," Electronic Frontier Foundation, August 2009.
+Al Gidari, Jr., Perkins Coie, "They Know Where You Are: Location Privacy in a Mobile World," March 10, 2009.
+House of Representatives, Subcommittee on Communications, Technology, and the Internet, Transcript of Hearing on "Communications Networks and Consumer Privacy: Recent Developments," April 23, 2009.
+Privacy International, Location Privacy, December 18, 2007.
+Stephen R. Harwood, Senior Counsel, Electronic Surveillance Issues, Department of Justice, justice.gov, November 2005.
+Ford-Long Wong and Frank Stajano, Location Privacy in Bluetooth, Lecture Notes in Computer Science, 2005 3813/2005, 176-188.
+Mel Tsai, "The Privacy Implications of Cellular Locationing," December 4, 2002.
+People, Not Places A Policy Framework for Analyzing Location Privacy Issues
+News
+Cyrus Farivar, Cops Can Track Your Cell Phone to a Specific Room, ArsTechnica (June 4, 2014)
+R "Ray" Wang, Why I'm Unplugging from Location Based Services Until the Privacy Issue is Resolved, Enterprise Irregulars, January 17, 2011.
+Del. Court: Police need warrant for GPS tracking, wboc.com, December 16, 2010.
+Leonard Deutchman, Ruling on Cell Phone Tower Data Raises Privacy Issues, law.com, December 14, 2010.
+Michael Virtanen, NY agency sued over GPS tracker on worker's car, news.yahoo.com, December 6, 2010.
+Meredith J. Cooper, Probable Cause? Search-warrant affidavits give insight into sting operation on local collectives—and in many cases the evidence appears flimsy, newsreview.com, December 2, 2010.
+Dennis O'Reilly, Privacy concerns dog location-based services, cnet.com, November 13, 2010.
+Kashmir Hill, The Place-Race: Where We Are on Location-Sharing Services Adoption, Forbes.com, November 4, 2010.
+Oliver Chiang, How Facebook Will Own All Your Location Data, Forbes.com, November 3, 2010.
+Kim Zetter, FBI allegedly caught using GPS to spy on student, cnn.com, October 7, 2010.
+An Illegal Search, by GPS, nytimes.com, October 5, 2010.
+RichardC, "Location privacy: whose WiFi signal is it anyway?," October 25, 2010.
+Ashley Yeager, Researchers Find Phone Apps Sending Data without Notification, dukenews.duke.edu, September 29, 2010.
+Wade Roush, "Truste, Citing Location Privacy Worries, Expands Certification Program to the Mobile World," Xconomy, September 27, 2010.
+Pay for the Subway with Your iPhone, nbcnewyork.com, September 24, 2010.
+Susan Freiwald, "Freiwald on Much-Anticipated Cell Location Privacy Decision," Concurring Opinions, September 13, 2010.
+Police GPS Tracking (video), Washington Journal, cspan.org, August 27, 2010.
+Orin Kerr, "Fourth Amendment Stunner: Judge Rules That Cell-Site Data Protected by Fourth Amendment Warrant Requirement," The Volokh Conspiracy, August 31, 2010.
+Charlie Savage, "Judges Divided Over Rising GPS Surveillance," New York Times, August 13, 2010.
+Orin Kerr, D.C. Circuit Introduces "Mosaic Theory" of Fourth Amendment, Holds GPS Monitoring a Fourth Amendment Search, theconstitutional.org, August 8, 2010.
+Spara, "Why location privacy matters," ‘sproke, July 26, 2010.
+Ryan Singel, White Hat Uses Foursquare Privacy Hole to Capture 875K Check-ins, wired.com, June 29, 2010.
+Bill Snyder, CIO, "You Are Here: Scary New Location Privacy Risks," Network World, June 28, 2010.
+Nick Saint, Watch Out: Check-In Apps Share Your Location With More People Than You Think, Forbes.com, June 30, 2010.
+Chloe Albanesius, Apple Location, Privacy Issue Prompts House Inquiry, pcmag.com, June 24, 2010.
+Julia Boorstin, "Twitter's Biz Stone on Bing, Location, Privacy & World Cup Explosion," cnbc.com, June 23, 2010.
+David Sarno, Apple collecting, sharing iPhone users' precise locations [Updated], latimes.com, June 21, 2010.
+Riva Richmond, "Apple's Plans for iPhone Location Privacy," New York Times, April 8, 2010.
+Orin Kerr, Does the Fourth Amendment Prohibit Warrantless GPS Surveillance?, volokh.com, December 13, 2009.
+Kip F. Wainscott, Unwarranted Intrusion: GPS and the Fourth Amendment, acslaw.org, May 19, 2009.
+Yvonne Zipp, Courts divided on Police use of GPS Tracking, The Christian Science Monitor, May 15, 2009.
+Humphrey Cheung, LAPD's dart firing, license plate reading, Video-Streaming Car, tgdaily.com, August 21, 2007.
+Share this page:
+Subscribe to the EPIC Alert
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+EPIC Alert archive »
+Electronic Privacy Information Center
+1519 New Hampshire Avenue NW
+Washington, DC 20036
+202.483.1140
+info[at]epic[dot]org
+© 1994 - 2020 EPIC, all rights reserved.
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+EPIC Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+Electronic Privacy Information Center1519 New Hampshire Avenue NW Washington, DC 20036More info
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+FOIA Documents
+EPIC FOIA Notes
+EPIC Former Secrets
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+EPIC Bookstore
+Support EPIC

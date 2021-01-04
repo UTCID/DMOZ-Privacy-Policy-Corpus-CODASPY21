@@ -1,0 +1,37 @@
+https://www.helpnetsecurity.com/privacy-policy/
+searchtwitterarrow rightmail strokearrow leftmail solidfacebooklinkedinplusangle upmagazine plus
+40% of COVID-19 contact tracing apps lack basic protections
+Engineers design transistor that disguises key computer chip hardware from hackers
+Most IT decision makers don’t trust data, but 54% still use it to make decisions
+How do I select cyber insurance for my business?
+Phishers bypass Microsoft 365 security controls by spoofing Microsoft.com
+We value and prioritize the privacy of our readers.
+While most privacy policies are based on templates, we have decided to simplify things and explicitly identify all aspects of our work that might impact your privacy.
+Visitor analytics
+In Q4 2020 we switched from Google Analytics to Matamo Cloud, so that Help Net Security may become a cookie-free web site.
+If you check our analytics code, you will see the instruction:
+_paq.push([‘disableCookies’]);
+We have enabled all the privacy options the Matamo solution provides:
+We anonymize the last 2 bytes of our visitors’ IP address(es) (e.g. 192.168.2.1 is seen as 192.168.0.0)
+We replace the user ID with a pseudonym to avoid storing and displaying personally identifiable information (Matomo creates the pseudonym by salting and hashing the user ID)
+We regularly delete old data – all raw data older than 186 days is automatically deleted
+No tracking cookies
+Help Net Security is a web site that doesn’t serve any tracking cookies. In Q4 2020 we have replaced all the cookie-serving services we previously used with privacy-preserving solutions.
+Matomo is our analytics tool of choice, and we switched from SoundCloud to Acast, which offers cookie-free embedded podcast code.
+All the ads visitors see on the site are served internally via our own in-house built solution.
+We don’t support third-party code that serves tracking cookies.
+Session cookies
+If you analyze our site’s code, you’ll sometimes see a session cookie. The reason we use session cookies is to make your browsing experience better. Session cookies are stored in temporary memory, they don’t collect any of your data and they expire quickly.
+Sometimes we run a “welcome ad” – a 640x480px banner placement that opens when you visit Help Net Security. When we were using “real cookies”, we had a default setting that made sure that the banner would be shown once per visitor in 24 hours. As we absolutely wanted to remove tracking cookies from our site, we needed to switch to session cookies. The only downside to you is that if you visit the site a couple of times in one day, you will see the ad once per each visit. We are sorry for this, but this was the only technical workaround we could implement to remove data-storing cookies.
+Newsletters
+We run three (3) newsletter mailing lists: one is for Daily News, another is for the Weekly Newsletter, and the third is for alerting recipients when a new issue of our (IN)SECURE Magazine is released.
+When you subscribe to any of these lists via our web site, you have to enter your email address and then finalize the subscription by clicking on a link in the confirmation email you receive soon after. This “double opt-in” process is used to prevent you getting subscribed to our newsletters against your knowledge/will.
+We use Mailchimp for mailing list management – these are their policies: Privacy Policy and GDPR Compliance.
+The Daily News newsletter is sent once per day from Monday to Friday, the Weekly Newsletter is sent once per week, and the (IN)SECURE Magazine alert is sent once per calendar quarter. We sometimes send promotional emails to these lists as well, but we
+keep that to a maximum of one per month per list.
+We never share your details with anyone and we never lease these lists. Only we can send the promotional messages to those subscribed to these newsletters, and their content is always curated and has to be confirmed by our editorial board.
+Last updated: October 5, 2020
+Share this
+2021 predictions: The rise of cyber resilience
+Phishers bypass Microsoft 365 security controls by spoofing Microsoft.com
+×

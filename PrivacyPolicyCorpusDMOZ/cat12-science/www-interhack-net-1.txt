@@ -1,0 +1,100 @@
+http://www.interhack.net/projects/privacy/
+The Internet Privacy Project is an ongoing study of how systems
+on the Internet affect the privacy of the Internet population.
+From this page, we'll provide pointers to papers and advisories
+we release, as well as some of the tools that we develop in the
+process of our studies.
+Publications
+The site's publications index includes all
+of these along with brief summaries, so we're listing only by
+title here.
+Spector Pro Review and Commentary
+PCFriendly Enables DVD Backchannels
+A Failure To Communicate:
+When a Privacy Seal Doesn't Help
+Getting To Know You (Intimately): Surreptitious Privacy Invasion on the E-Commerce Web
+DoubleClick Opt Out Protocol
+Failure == Opt In
+Opting In, By Accident
+What's Related?
+Everything but your
+privacy.
+Code
+CookiePokey
+CookiePokey is a
+Java program that
+tests a site's compliance to the HTTP header case insensitivity
+requirement as spelled out in section 4.2 of the HTTP protocol
+specification
+(RFC 2616).
+It's a JAR (Java ARchive) that includes the executable (class
+file) and source code.
+To use it, unwind the archive with the JAR program and then run
+the class file.
+Then you'll see something like the following.
+Notice that we're always sending a cookie whose value is
+id=OPT_OUT.
+Whether we send the header as
+Cookie, cookie, COOKIE,
+or CoOkIe is irrelevant.
+RFC 2616 very clearly
+states that HTTP headers are case insensitive.
+Observe that
+when we send the OPT_OUT cookie with the header
+capitalized as Cookie, the server does not send
+back a cookie.
+But if we use any other combination of upper or
+lower case, we get a new cookie; we're opted back in.
+We've highlighted the cookie headers on this page so you know
+what to look for when you run the program for yourself.
+$ java CookiePokey
+usage warning: java CookiePokey http://ad.doubleclick.net/ad/www.doubleclick.net/optout;sz=1x1
+Using default target http://ad.doubleclick.net/ad/www.doubleclick.net/optout;sz=1x1
+Sending:
+HTTP: GET http://ad.doubleclick.net/ad/www.doubleclick.net/optout;sz=1x1
+HTTP: User-Agent: CookiePokey/4906 (Java; Interhack Corporation; Don't tread on me)
+HTTP: Referer: http://www.doubleclick.net/
+HTTP: Cookie: id=OPT_OUT
+Receiving:
+HTTP: HTTP/1.0 302 Moved Temporarily
+HTTP: Content-Type: text/html
+HTTP: Date: Wed, 17 May 2000 21:09:31 GMT
+HTTP: Location: http://m.doubleclick.net/viewad/817-optout.gif
+HTTP: Cache-Control: private, max-age=0, no-cache
+HTTP: Content-Length: 36
+Sending:
+HTTP: GET http://ad.doubleclick.net/ad/www.doubleclick.net/optout;sz=1x1
+HTTP: User-Agent: CookiePokey/4906 (Java; Interhack Corporation; Don't tread on me)
+HTTP: Referer: http://www.doubleclick.net/
+HTTP: COOKIE: id=OPT_OUT
+Receiving:
+HTTP: HTTP/1.0 302 Moved Temporarily
+HTTP: Content-Type: text/html
+HTTP: Date: Wed, 17 May 2000 21:09:32 GMT
+HTTP: Location: http://m.doubleclick.net/viewad/817-optout.gif
+HTTP: Cache-Control: private, max-age=0, no-cache
+HTTP: Set-Cookie: id=A; path=/; domain=.doubleclick.net; expires=Wed, 09-Nov-2030 23:59:00 GMT
+HTTP: Content-Length: 36
+Contributors
+This is actually something of a "meta-project", one that
+encompasses several different investigations.
+But we generally
+work pretty closely together on all of these, so in alphabetical
+order, we're:
+Matt Curtin
+Gary Ellison
+Paul Graves
+Doug Monroe
+Shaun Rowland
+corporate |
+research |
+news |
+people |
+projects |
+publications |
+services |
+feedback |
+legal
+Matt Curtin
+Last modified: Tue May
+7 17:17:46 EDT 2002

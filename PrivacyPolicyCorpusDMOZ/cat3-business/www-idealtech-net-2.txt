@@ -1,0 +1,54 @@
+http://www.idealtech.net/resources/technical-terms
+Login
+Log in
+Remember Me
+Forgot
+Username or
+Password ?
+New Here?
+Create an account
+(248) 827 3820 sales@idealtech.net
+Menu
+CompanyMission, Vision, Core ValuesDisclaimerPrivacy PolicyTestimonialsServicesProduct DesignFinite Element Analysis (FEA)Moldflow AnalysisMold Filling AnalysisMold Packing AnalysisMold Cooling AnalysisPart Warpage AnalysisShrinkage AnalysisProject ManagementConsulting / Problem SolvingRapid PrototypingIndustriesAutomotiveAerospaceConsumerDefenseElectronicsEnergyIndustrialMedicalNew TechnologiesNewsWhats' NewSuccess StoriesPast ProjectsYoutubeLinkedinFacebookTwitterResourcesMolding IssuesWhy Mold FlowTechncal TermsVirtual PartsSign up for TipsContactContact UsQuotation Request (RFQ)Data TransferCareersSite Map
+Molding IssuesWhy Mold FlowTechncal TermsVirtual PartsSign up for Tips
+Molding IssuesWhy Mold FlowTechncal TermsVirtual PartsSign up for Tips
+Techncal Terms
+Injection Molding - Injection molding is a molding process used to make plastics, metal, glasses, and elastomers. Plastics material is fed into a hopper where it enters into heated barrel. The barrel has a rotating screw that mixes, and forces plastics into a mold cavity where it cools and molds the plastic parts. Injection molding is widely used for manufacturing variety of parts (nearly 60-70% of plastics parts are injection molded) from the smallest component to very large containers.
+Injection Molds/ Injection Dies - The tooling used to make plastics parts is known as molds or dies. Molds are made out of steel, epoxy, powder metal, aluminum etc. and involves complex design, moving parts, ejection half, cavity half. Molds are generally expensive to make, but are very critical part of getting good parts as designed. Gating design and runner system are important aspect of making plastics flow properly in the mold and get good parts.
+Runner - A channel that guides melted plastics from bareel nozzle to the gate is a runner. The runner can be cold or hot. Runner design of any tooling is very critical and must be fully balanced for plastics to fill one cavity or multiple cavities. Mold filling analysis helps to identify proper gating locations, balances runners and distributes proper flow to fill the cavities. Mold filling analysis can help decide if you should use hot or cold runners Cold runners are easy to cut and reduces mold costs, but need higher injection pressure to fill. Hot runners keep plastics molten from nozzle till it fill in the plastics cavity. Hot runners are heated and may need special hot manifold and drops. Hot runners must be sized properly to avoid high residence time and injection pressure. Shear heat and shear stress through improperly sized gates or runners can cause filling issues, short shots in multi-cavity tools, longer cycle time, flow marks, warpage and more.
+Types of Gates - There are two types of gates - one that needs trimming and other one that is automatically trims in the molding process. Edge Gate, Fan Gate, Sprue Gate, Flash Gate, Tab Gate, Diaphragm Gate, Film Gate, Overlap Gate, Multipoint gate, etc. are all gates that need trimming after plastics parts are molded. Pin gate, Submarine or tunnel Gate, Cashew gate, Valve gate, hot runner/drop gates are other gates that do not need any trimming.  Gating type is selected based on your product needs, economics of process and tooling costs, tooling requirements. Moldflow, packing, cooling, and warpage analysis can help select proper gating locations, gate types, and design overall runner system.
+Mold Filling - A mold flow analysis technique is a fast, easy, and reliable tool to simulate injection molding process before the tool build phase.  A mold flow analyses polymer flow within the mold, optimizes mold cavity layout, material selection, and mold processing conditions for filling and packing phases of molding cycle.   Mold filling analysis gives the results per your set parameters and modeling.  The results must be interpreted properly by comparing various parameters.  If you provide all details of tool design, product design, and processing history,  it is feasible that the problems are isolated completely at every stage of analysis & results can be almost perfect.
+Cooling Analysis - A cooling analysis helps in optimization of cooling phase of the molding  phase.  You may either check the effectiveness of existing cooling network or calculate the cooling time required for the part from given constraints.
+Warpage Analysis - The warpage analysis helps in optimization of product and process design to minimize the warpage problems.   The warpage analysis can analyze the extent of warpage and provide the sensitivity factors due to differential cooling, differential shrinkage, and differential orientation.  The use of reference plane is critical.  Generally the reference plane can be set where the part deflection can easily be seen or at the locations where the part will be fixed.
+Color Graphs and Plots - The mold filling analysis calculates the flow behavior at each element or node that represents the geometry.  These values of various parameters such as temperature, fill time, pressure, etc. are plotted as color contours to see the overall distribution of each factor for the entire part.  The values are listed as minimum and maximum values on the right hand side of each plot.  Sometimes regular graphs are plotted for time series results.
+Fill Time - A mold fill time is a time it takes to fill the mold from the injection point till the end of fill.  Generally, this fill time matches with the booster timer on the molding machine.  The fill time plots are the most important aspect of mold filling analysis.
+Injection Pressure - The pressure required to fill the part from injection point till the last point to fill is the injection pressure.  The maximum pressure exists at the injection point and the least pressure exists at the final point of fill.  The balanced pressure distribution (where multiple flow fronts end filling simultaneously) helps in uniform packing and reduced cycle time.
+Flow Front Temperature - (Flow Front) This is the actual mid-stream temperature at the node at the instant the flow front filled the node.
+End of flow Temperature (at the end of Fill) - This is the actual mid-stream temperature at the node when the part was filled.
+Weld Line - It is the area where two or more flow fronts meet  together.  If two flow fronts meet together & continue to flow further then the area is described as a knit line.
+Maximum Shear Rate - It is the maximum shear rate at any laminate within the element during filling.
+Maximum Shear Stress - It is the maximum shear stress at any laminate within the element during filling.
+Air Traps  - It is the area where the air may trap and has no way to escape the air during filling process inside the tool.  This area could be the bottom of ribs, end of flow or where two or more flow fronts meet together or else.   It is useful to select these locations as vent locations in the tool build and reduce any air trap problems.
+Percentage Frozen - This is the thickness of frozen layer as a percentage of the element thickness at the end of flow.
+Cooling Time - This is the time the material will take to reach its ejection temperature (as defined in the material database) from when the part was filled completely.
+Flow Angle - This result plots the flow angle is the global direction of flow (relative to the local X-axis) of the given element, when the results file was written.
+Percentage Frozen - This is the thickness of the frozen layer as a percentage of the element thickness, when the file was written.
+Maximum Packing Pressure - The maximum packing pressure at each node, from the start of the packing phase to when the file was written.
+Volumetric Shrinkage - This is the difference between the volume of plastic within the element (at the environment temperature & pressure) and the element volume, relative to the element volume.  Expansion would be represented as a negative number.
+Throughput - This is the total volume of material that passed through each 2-noded element, and each element connected directly to the injection node(s).
+Equivalent Viscosity - This is the viscosity when the results file was written. It is represented by a single-value which offers the same resistance to flow as the viscosity distribution across the cavity. The value is calculated from the viscosity distribution across the molten (above No-flow) part of the cavity.
+Average Element Temperature - This is the average plastic temperature for the element during the cycle.
+Circuit Pressure Distribution - distribution of pressure along a cooling circuit.
+Coolant Flow Rate - Flow rate of the coolant in the cooling circuit.
+Reynolds Number - Reynolds number of the coolant in the cooling circuit.
+Freeze Time - Time for the element to freeze to ejection temperature, measured from the start of the cycle.
+Relative Position of Peak Temperature - This result displays the position of the peak temperature in a plastic element relative to the bottom side (value = 0.0) of the element at the end of cycle time, when the part is ejected.
+Deflection at a Node - Plots contours of net deflection at a node. The net deflection is equal to the square root of the sum of the squares of the deflections in each of the three coordinate axes.  The deflection or warpage is mainly due to three factors such as differential cooling, differential shrinkage, and differential orientation.
+We will be adding lot more information on design guidelines and terms, Sheet metal process terms and guidelines, other technical information that is useful for you.
+Facebook
+Twitter
+Company Mission, Vision, Core Values Disclaimer Privacy Policy Testimonials Services Product Design Finite Element Analysis (FEA) Moldflow Analysis Mold Filling Analysis Mold Packing Analysis Mold Cooling Analysis Part Warpage Analysis Shrinkage Analysis Project Management Consulting / Problem Solving Rapid Prototyping Industries Automotive Aerospace Consumer Defense Electronics Energy Industrial Medical New Technologies News Whats' New Success Stories Past Projects
+Youtube
+Linkedin
+Facebook
+Twitter Resources Molding Issues Why Mold Flow Techncal Terms Virtual Parts Sign up for Tips Contact Contact Us Quotation Request (RFQ) Data Transfer Careers Site Map

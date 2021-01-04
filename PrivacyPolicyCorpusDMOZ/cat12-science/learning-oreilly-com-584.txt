@@ -1,0 +1,23 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch22s04.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Other Code Signing Methods
+To close this chapter, we note that there are other ways
+of signing code to make it trustworthy. For example, for many years,
+PGP signature certificates have been used for validating programs and
+announcements distributed over the Internet. There are a few drawbacks
+to using PGP in this way. Because support for PGP is not built into
+web servers and browsers, the signature signing and verification must
+be done as a two-step process. A second drawback is that PGP
+signatures cannot use the public key infrastructure developed for use
+with web browsers. A benefit of the use of PGP is that any kind of
+file, document, or program can be signed with PGP, as PGP signatures
+can be “detached” and saved in separate locations.As another alternative, the World Wide Web Consortium’s DSig
+initiative has proposed using PICS 1.1 labels as a tool for digital
+signatures. Information can be found at http://www.w3.org/pub/WWW/Security/DSig/Overview.html.
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

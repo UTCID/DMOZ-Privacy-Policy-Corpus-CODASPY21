@@ -1,0 +1,434 @@
+http://mtechit.com/privacy.html
+Français
+Sitemap
+Contact Us
+Hitachi ID Systems
+Home
+Solutions
+Industry
+Education
+Finance
+IAM as a Service
+Products
+Hitachi ID Bravura Security Fabric
+Hitachi ID Bravura Discover
+Hitachi ID Bravura Group
+Hitachi ID Bravura Identity
+Solutions
+Group Management
+Slow Onboarding
+Unreliable Deactivation
+Complex Access Requests
+Obsolete Access Rights
+Policy Violations
+Costly Audits
+No Accountability for Changes
+Costly Security Administration
+Features
+Group Lifecycle Management
+Peer Groups
+Automated Onboarding and Deactivation
+Access Request Portal
+Self-service Profile Updates
+Delegated Access Administration
+Robust Approvals Process
+Access Reviews and Remediation
+Segregation of Duties Policy Enforcement
+Role-based Access Control
+Risk Scores
+History of Requests and Entitlements
+Find Orphan and Dormant Accounts
+Actionable Analytics
+Screen Shots and Video
+Videos
+Concept Animations
+Screen Shots
+Benefits
+Faster SLA to Grant Access
+Complete and Reliable Deactivation
+Link Access Rights to Business Context
+Prevent Fraud and Minimize Risk
+Compliance with Regulations
+Empower Auditors to Answer Their Own Queries
+Technology
+Components and Policy Tables to Customize IAM Processes
+Auto-discovery of Identities and Entitlements
+Relationship-based Access Controls
+Privacy Protection
+Implementers Workflow
+Intercept 'Access Denied' Dialogs
+Compare User Entitlements
+Automated and Self-service ID Mapping
+Robust Workflow for Human Stake-holders
+Role Mining and Entitlement Analytics
+Reports, Dashboards and Analytics
+Library
+Hitachi ID Bravura Pass
+Solutions
+Too Many Passwords
+Users Locked Out of Their PCs
+High IT Support Call Volume
+Weak Authentication into SaaS Apps
+Uneven Support Call Volume
+Weak Passwords
+Off-hours IT Support
+Too Many Privileged Users
+Features
+Password Synchronization
+Transparent Password Synchronization
+Web Browser Password Synchronization
+Self-service Password Reset
+Self-service, Anywhere
+Managed User Enrollment
+Unlock PC with Drive Encryption
+Federated Access
+Password Policy Enforcement
+Password Expiration
+Personal Password Vault
+Assisted Password Reset
+Telephone Access to Self-service
+RSA SecurID Token Management
+Smart Card PIN Reset
+Download Contacts to Mobile Phone
+Reports and Analytics
+Screen Shots and Video
+Videos
+Concept Animations
+Screen Shots
+Benefits
+Stronger Security
+Lower IT Support Cost
+Improved User Service
+Technology
+Target System Connectors
+Other Integrations
+Flexible Authentication
+Send E-mails
+Ticket Integration
+Embed in Web Portals
+Telephony (IVR)
+Access to Self-service
+Help Locked Out Users
+Self-service for Off-site Users
+Map User IDs
+Bravura Pass Scalability
+Telephone Access
+Bravura Pass Language Support
+On-premises Runtime Requirements
+Library
+Hitachi ID Bravura Privilege
+Solutions
+Static Passwords
+Secure Credential Storage
+Administrator Accountability
+Reliable Authentication
+Pre-authorized Access
+One-time Access
+Stop Disclosing Passwords
+Forensic Audits
+Scaling Up
+Secure Windows Service Accounts
+Secure Embedded Accounts
+Features
+Randomize Privileged Account Passwords
+Flexible Access Disclosure Mechanisms
+Direct Connection
+VDI Proxy
+Web Proxy
+Account Sets
+Group Sets
+Temporary SSH Trust
+Secure Credential Vault
+Policy to Control Access
+Risk Scoring Access Requests
+Session Recording
+SSH Key Management
+Secure and Monitor Vendor Access
+Change Windows Service Account Passwords
+Secure Application-to-Application Passwords
+Reports, Dashboards and Analytics
+Screen Shots and Video
+Videos
+Concept Animations
+Screen Shots
+Benefits
+Risk Management
+Workforce Flexibility
+Technology
+Network Architecture
+Rendering SSH and RDP Sessions in a Browser
+Network Path to Managed Systems
+Emergency Access
+Included Connectors
+Infrastructure Auto-discovery
+Bravura Pass Scalability
+Granular Access Control
+Privacy Protection
+Authenticating Applications
+Segregation of Duties
+Flag Unusual Requests
+Library
+Hitachi ID Mobile Access
+Suite 11.0
+Suite 11.1
+Start Free Trial
+Services
+Solution Delivery
+Methodology
+Education
+Partner Training Courses
+Partner Training Courses Detailed Steps
+Customer Training Courses
+Customer Training Courses Detailed Steps
+AWS Virtual Machine Contents and Environment
+Administrator Required Skills
+Hitachi ID Bravura Identity
+Hitachi ID Bravura Pass
+Hitachi ID Bravura Privilege
+Upgrades
+AdMax Program
+Managed IAM
+Technology
+Network Architecture
+SaaS Network Architecture
+Active-Active Network Architecture
+On-premises Runtime Requirements
+100+ Included Connectors
+Active Directory
+LDAP Directories
+SaaS Applications
+SAP ECC, HCM, GRC and HANA
+Oracle eBusiness Suite, PeopleSoft and JD Edwards
+Z/OS with RAC/F, ACF/2 or TopSecret
+iSeries (AS/400)
+Databases
+Drive Encryption
+RSA SecurID
+Service Catalog / Ticketing Systems
+Mobile App and Access from BYOD
+Web Services and APIs
+Localization
+2FA for Everyone
+Library
+Documents
+Savings Calculator
+Independent Reviews
+Certifications
+Support
+Support for Older Releases
+Portal Login
+Company
+News & Events
+Upcoming Events
+Press Releases
+Press Coverage
+Archived Webinars
+Customers
+North America Customers
+Europe Customers
+South Pacific Customers
+Customer Referral
+Customer Portal
+Partners
+All Partners
+Partner Portal Login
+New Partner Sign-up
+Opportunity Registration
+Careers
+Contact Us
+Blog
+Case Studies
+Free Trial
+Request Demo
+Privacy Policy
+What data Hitachi ID Systems collects, how this data is used and how visitor privacy is protected.
+Privacy Notice
+Last updated: May 23, 2018
+This is the privacy notice of Hitachi ID Systems, Inc., referred to in this document as "HIDS", "we",
+"our", or "us". We are a company registered in Alberta, Canada. Our offices are at 1401-1st Street
+SE, Calgary. T2J2G3, Alberta, Canada.
+A. INTRODUCTION
+This notice serves to inform you of our policy governing the information that we record about
+you. It sets out the conditions under which we may process any information that we collect about
+you, or that you provide to us. It covers all information, including information that relates to you,
+which identifies you or allows you to be identified ("Personal Information").
+In the context of this notice, "process" means the collection, storage, transfer, use, or any other
+action or operation which is performed on Personal Information.
+It is our policy to process your Personal Information only when it is necessary, and only in
+relation to your business relationship with us.
+We are committed to the protection of your privacy. You are entitled to know that your
+Personal Information will only be processed for the purposes for which it is collected and
+will not be used for any other purpose.
+In the event that you disagree with anything in this notice, your only recourse is to not
+use this website. By using our website, and by providing Personal Information to us using
+this website, you indicate your consent to our processing of your information, including
+Personal Information, as described in this privacy notice.
+If you are a resident of the EU, we are required under the EU General Data Protection
+Regulation ("GDPR") to inform you of your rights and our obligations regarding the
+processing and control of your Personal Information. We do so by asking that you visit
+http://www.knowyourprivacyrights.org/ and read
+the information provided there.
+Except as listed in this privacy notice, we do not share or otherwise disclose any of your
+Personal Information to any third parties.
+B. THE LAWFUL BASIS FOR THE PROCESSING OF YOUR PERSONAL INFORMATION:
+1. Information that we process based on your consent:
+When you use our website, whether or not you ask us to provide you with further information
+about our products and services or register to gain access to certain areas of our website, you
+agree to our Website Terms of Use and consent to us processing information that may be
+Personal Information.
+Wherever technically possible, we aim to obtain your explicit consent to process your Personal
+Information for the particular purpose for which it is collected; for example, we will ask you to
+agree to our use of cookies. In some cases, however, you may be providing implicit consent; for
+example, when you send us an email to which you would reasonably expect us to reply.
+Unless you have consented to our use of your Personal Information for a specific purpose, we
+will not use your information in a way that may identify you personally. We may aggregate
+information in a general way and use it to analyze performance and usage trends relating to the
+website.
+We will continue to process your Personal Information on this basis until you withdraw your
+consent. You may withdraw your consent at any time by informing us of your decision to do so,
+at privacy@Hitachi-ID.com.
+2. Information that we process for the purposes of legitimate interests
+We may process information on the basis that a legitimate interest exists. When we process your
+information on this basis, we do so after carefully considering (i) whether the same objective can
+be achieved through other means; (ii) whether processing, or not processing, may cause you
+harm; (iii) whether you would reasonably expect us to process your information.
+For example, we may process your information for the purpose of responding to communication
+from you to which we believe you would expect a response; or, we may process your information
+for the purpose of protecting and asserting legal rights.
+You may object to our use of your Personal Information on this basis by informing us at
+privacy@Hitachi-ID.com.
+3. Information we process because we have a legal obligation to do so
+When required in order to comply with our legal obligations, we may process your information,
+including your Personal Information. This may include the disclosure of your Personal
+Information to the relevant authorities when they have the appropriate legal authorization to
+request it.
+4. Information we process through automated means when you visit our website
+i. Cookies
+Cookies are text files that are placed on your computer's hard drive by your web browser when
+you visit our website. They allow information gathered on a web page to be used for the purpose
+of providing you with a personalized experience, and providing us with statistical information
+about how you use the website.
+Some cookies expire after a defined period of time, such as one day or when you close your
+browser; others do not. Your web browser should allow you to delete any cookies you choose,
+or prevent or limit their use. To read more on cookies visit
+https://www.allaboutcookies.org.
+Our website uses cookies. They are placed by software that operates on our own web servers, or
+software operated by third-parties whose services we use. When you first visit our website, we
+ask you whether you consent to our use of cookies. If you choose not to accept them, we will not
+use them for any purpose other than to indicate that you have not consented to their use.
+We use cookies for the following purposes:
+To track how you use our website;
+To determine whether you have seen specific information we display on our website
+To enable you to register and request information about our products and services,
+including whitepapers and market research information.
+ii. Personal identifiers from your browsing activity
+All requests made by your web browser to our web servers, for web pages and other content,
+are recorded. We record information such as your geographical location, your internet service
+provider and your IP address. We also record information about the device and software you use
+to browse our website.
+We use this information in aggregate, to optimize our website and improve the information we
+provide on the website. When combined with other information, this information could be used
+to identify you personally, even if you did not register with us or requested additional information
+about our products or services.
+5. General
+If a basis on which we process your Personal Information ceases to exist or is no longer relevant
+to the purpose for which the Personal Information was originally collected, we will immediately
+stop processing the relevant Personal Information.
+6. Retention period for Personal Information
+We do not retain all of the Personal Information that we receive. The Personal Information you
+provide will be kept as long as it is required by us to satisfy legitimate business purposes or until
+you request that we delete it by written request to privacy@Hitachi-ID.com, unless such Personal
+Information is required to be retained in order to comply with legal requirements.
+C. THIRD PARTY TOOLS
+We may use third-party tools, such as Google Analytics or Salesforce Pardot, to process Personal
+Information about you:
+1. Salesforce Pardot
+Pardot is a web marketing automation tool. We use Pardot to collect and store your information,
+including Personal Information, when you communicate with us through our website, for
+example, when you complete a form to request additional information on our products or
+services. You can find Salesforce's privacy policy here.
+2. Google Analytics
+Google Analytics is a web analysis service provided by Google. Google Analytics stores
+information such as IP addresses, operating system, web browser, and pages visited. Also
+collected is information about demographics of the visitor, the device and software used, and
+the geographical location from which the visit originated. You can find Google's privacy policy here.
+D. SHARING PERSONAL INFORMATION
+We do not share or otherwise disclose your Personal Information with any third-parties, unless
+(i) it is expressly stated in this privacy notice, or (ii) we have asked for your express consent to do
+so, or (iii) we are required to do so by law, regulation, order of a court of competent jurisdiction,
+or a legitimate request of a government authority, or (iv) to protect the integrity of our products
+and services, ourselves, other customers, or the general public from harm or illegal activities, or
+(v) to assert or enforce our rights under any agreement or policy.
+E. INTERNATIONAL TRANSFER OF INFORMATION
+The provision of our services, including our response to your requests for additional information
+about our products or services, requires the international transfer of data. In order to fulfill our
+obligations to you, or to respond to your requests for additional information about our products
+or services, we may transfer, process and store your information, including your Personal
+Information, to and from any country in which we operate. Such countries include, without
+limitation, Canada, Japan, USA, UK, the Netherlands, Poland and Australia. For example,
+Information collected in the EU may be transferred to, and processed in, a country outside the
+EU which may not provide the same level of protection for Personal Information. By using our
+website, you consent to such transfer of your information, including your Personal Information.
+F. COMMUNICATIONS AND NOTIFICATIONS
+When you contact us, whether by phone, through our website or by email, we collect the
+information you provide, including any Personal Information, in order to reply to you with the
+correct information. We record your request and our reply in order to improve our efficiency and
+the quality of our responses. We keep personally identifiable information associated with your
+request, such as your name, telephone number, email address, to enable us to track our
+communications with you.
+We may contact you from time to time to keep you up to date with current information about
+our products or services. In such cases, we will include in our communication instructions on how
+to stop receiving similar communication from us, should you choose to do so.
+G. USE BY MINORS
+We understand the importance of protecting children's privacy in an online environment. It is
+our policy to not knowingly collect or maintain information about anyone under the age of 18.
+H. ACCESS TO YOUR PERSONAL INFORMATION
+Depending on the laws of your country of residence, you may have the right to view, update or
+correct Personal Information we hold about you, or to receive notification of changes in the use
+of your Personal Information. If you wish to do so, please email us at privacy@Hitachi-ID.com.
+We will take reasonable steps to rectify or make anonymous your Personal Information that is
+inaccurate or incomplete, or delete your Personal Information, at your written request to
+privacy@Hitachi-ID.com.
+When Personal Information is retained, we will make all reasonable efforts to maintain the
+accuracy of your Personal Information. However, we do not assume responsibility for verifying
+the information you submit. When practicable and possible, if we are informed that any Personal
+Information that we have collected about you is no longer accurate, we will make appropriate
+corrections based on the updated information provided. Queries in this regard should be directed
+by email to privacy@Hitachi-ID.com.
+We reserve the right to take reasonable steps to first verify your identity prior to responding to
+any such requests and granting you access to your Personal Information, or taking any action
+relating to it.
+I. CONTACT, INQUIRIES AND COMPLAINTS
+If you would like to contact us with inquiries or complaints relating to this privacy notice, please
+contact us at privacy@Hitachi-ID.com, or at
+Hitachi ID Systems, Inc.
+500, 1401 - 1st Street SE
+Calgary, AB T2G 2J3 Canada
+Attention: Privacy Officer
+1.403.233.0740 ext 241
+J. MODIFICATIONS
+We may modify this privacy notice from time to time. To ensure that you are kept informed of
+the changes, we invite you to check this privacy notice periodically and note that "last updated"
+date at the top of this document. Your continued use of our website after such changes
+constitutes your acceptance of our revised privacy notice.
+You can unsubscribe at any time by clicking on the unsubscribe link at the
+bottom of our emails.
+Hitachi ID Systems, Inc. | 1401 - 1st Street S.E. Suite 500 | Calgary, Alberta, Canada T2G 2J3
+https://hitachi-id.com | 1.403.233.0740
+Quick Links
+Start free trial
+Download free, full-featured, time-expired evaluation software.
+Savings calculator
+Find out how much Hitachi ID Bravura can save your organization.
+Please call me
+Get more information about our solutions and services.
+Request demo
+Take a guided personalized tour with our IAM experts.
+Privacy Policy
+Terms of Use
+Hitachi ID Systems LinkedIn page
+Hitachi ID Systems Facebook page
+Hitachi ID Systems Twitter page
+Hitachi ID Systems YouTube page
+©
+Hitachi ID Systems, Inc.

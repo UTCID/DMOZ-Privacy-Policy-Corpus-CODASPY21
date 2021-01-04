@@ -1,0 +1,126 @@
+http://www.cr.org/privacy/protect-phone-privacy-security-during-a-protest/
+Sign InSign InBecome a MemberDonateMonthly GivingOne-Time DonationOther Ways To GiveSign InRemember MeForgot username or password?Forgot username or password?Not a member? Join todayNeed further assistance? Please call Member Services at 1-800-333-0663Sign InRemember MeForgot username or password?Forgot username or password?Not a member? Join todayNeed further assistance? Please call Member Services at 1-800-333-0663
+How to Protect Phone Privacy and Security During a Protest
+Police can use digital surveillance to track anyone, even at peaceful demonstrations
+By Thomas Germain
+June 03, 2020
+SHARES
+Sharing is Nice
+Thanks for sharing.
+Oops, we messed up. Try again later
+When you shop through retailer links on our site, we may earn affiliate commissions. 100% of the fees we collect are used to support our nonprofit mission. Learn more.
+Demonstrators at a Black Lives Matter protest in New York City on June 2, 2020.
+Hundreds of thousands of Americans are taking part in protests against racial injustice and police brutality, following the killing of George Floyd in Minneapolis. Privacy experts caution that if you're joining the demonstrations, you could be subject to surveillance by local law enforcement. In addition to employing video cameras, drones, and undercover officers, many law enforcement agencies can access cellphone data to identity protesters.
+“Protests in the United States and elsewhere have been monitored in the past, and information gathered through digital surveillance has been introduced in situations where protesters have been prosecuted,” says Daniel Kahn Gillmor, senior staff technologist at the American Civil Liberties Union.
+Many law enforcement agencies across the United States have invested in devices that can identify cellphones in a crowd, and even pull data such as call logs or the contents of SMS text messages out of the air. According to the ACLU, data brokers have pitched social media data sets as a protest monitoring tool for law enforcement in the past.
+More on Privacy and Security
+Facebook Approved Ads With Coronavirus Misinformation
+As Home Defense Sales Rise, So Do Calls for Safe Gun Storage
+Tech Firms Bet Apps Can Help Trace Coronavirus Cases. But the Apps Face an Uphill Climb.
+How Consumer Data Is Being Used to Track the Coronavirus
+CR's Guide to Digital Security & Privacy
+Police officers and FBI used digital surveillance to track participants in previous Black Lives Matter demonstrations, Occupy Wall Street protests, and other political gatherings. Some participants at recent and previous demonstrations say their cellphones were confiscated by the police, at least temporarily. And the Drug Enforcement Administration has been granted broad powers to "conduct covert surveillance" at the current protests in coordination with other federal agencies, according to a document obtained by BuzzFeed.
+“Americans have a First Amendment right to assemble and protest the government,” says Justin Brookman, director of privacy and technology policy for Consumer Reports. “Some degree of anonymity is absolutely necessary to allow us to express ourselves and take a stance without fear of unfair retribution. People have every right to be concerned about abuse of personal information to deter or punish dissent.”
+Below are steps you can take to help protect your privacy and security on your phone during a protest. The steps listed for Android phones refer to a Google Pixel, and may vary for other phone models.
+You can also use many of the following techniques to reduce the amount of tracking companies do in normal circumstances, but some of these steps—like turning off fingerprint scans to unlock your phone—don't make sense for everyday use.
+Quick tip before we start: Back up your data before you leave home, in case you lose your phone or it gets damaged.
+Turn Off GPS, WiFi, and Bluetooth
+You probably know your phone's GPS or Location Services features can help app makers and other companies track your movements. But Bluetooth and WiFi signals can track your location as well—private companies do it all the time to collect and share consumer information for advertising.
+If you’re not using those features on your phone, switching off Bluetooth, WiFi, and Location services can help preserve your privacy—at a protest, or any time.
+Some phones may switch Bluetooth, WiFi and other settings back on automatically after a time, a feature intended to help keep your phone connected to your other devices. You may want to check periodically if you’re keeping your phone on during a demonstration.
+On an iPhone: Open settings, then toggle off WiFi and Bluetooth. Scroll down to Privacy > Location Services. Toggle it off to stop GPS and some related location-tracking technologies.
+On an Android phone: Scroll down from the home screen to the buttons for WiFi, Bluetooth, and location. (This may vary slightly by phone model.)
+Turn the Phone Off or Use Airplane Mode
+“As long as your phone is talking to a cell phone tower, there’s a metadata footprint that can be collected,” says the ACLU’s Gillmor. “When is your phone talking to a cell phone tower? Basically, whenever it’s on.”
+One foolproof solution is to turn the phone off. Of course, do that and you’ll have to wait for it to power on if you want to make a call, take pictures, or shoot a video.
+Another option is to use Airplane mode. "But even with Airplane mode, your phone may still be trackable," says Dia Kayyali, program manager for technology and advocacy at Witness, a nonprofit that helps people use video and technology to protect human rights. Airplane Mode should stop the phone from communicating with cell phone towers, but what the setting actually does varies by phone maker, and some devices may still communicate over Bluetooth or WiFi.
+On an iPhone or Android phone: Swipe to access the menu which has the Airplane mode button. You can also open Settings. (On some Android phones, that's the only option.)
+Make Your Phone Harder to Unlock
+In past protests, police officers have sometimes confiscated phones and asked their owners to unlock them to look at photos, social posts, or text messages. According to the ACLU's Gillmor, you do not have to unlock your device or provide a passcode. However, there’s some legal dispute about whether officers can unlock a device by holding it up to your face, or even touching your finger to the screen.
+If your phone is unlocked, an officer might access your contacts, photos you’ve taken, things you’ve posted on social media, and other information. That same information is vulnerable if your phone has a very obvious passcode.
+The following steps can also help protect your data if your phone is lost or stolen.
+On an iPhone
+Settings > Face ID & Passcode (or Touch ID and Passcode on older devices). Toggle off facial recognition or fingerprint scanning for unlocking your phone.
+Next, scroll down to Change Passcode if you need to create a stronger PIN.
+On the same screen, you can control which items can be accessed from a locked screen, including personal information such as calendar items and missed calls.
+To set an auto-lock timer: Settings > Display & Brightness > Auto-Lock. The shortest interval is 30 seconds—choose that one.
+Be careful with this one. To have the phone self-destruct after too many failed log-in attempts: Settings > Face ID & Passcode > Erase Data. Toggle that on, and all data will be erased after 10 failed login attempts. (Make sure to back up your phone first.)
+On an Android Phone
+Settings > Security > Face unlock. Under "Use face unlock for," turn off “Unlocking your phone.” From your security settings page, you can also disable fingerprint scanning or delete saved fingerprints, depending on what kind of phone you're using.
+In the Security tab, tap the gear icon next to “Screen Lock” and switch the toggle to make your phone lock automatically when you hit the power button. Tap the Screen lock menu if you want to change to a stronger passcode.
+To set an auto-lock timer: Settings > Display > Advanced > Screen timeout. Tap “Lock screen display” to keep sensitive notifications from appearing on the lock screen.
+On older Android phones, look for options to encrypt your phone under Security settings. Encrypting your phone may take a while; it’s best to take care of this in advance.
+Use a Secure Messaging App
+Some police departments have used cell site simulators, which include devices such as IMSI catchers, or "Stingrays," during past protests. The equipment can mimic a cell tower to intercept calls, identify your specific phone, see who you’re messaging with, and sometimes access the contents of messages. (An IMSI is a unique identifier associated with your phone's SIM card; it's one of the pieces of data these devices can pick up.)
+The best way to protect your messages is to use an app that employs end-to-end encryption, which prevents a message from being read by anyone but the sender and the recipient. Some apps also have end-to-end encryption for calling and video chat as well.
+Apple’s iMessage uses end-to-end encryption by default, but only when you’re talking to other iPhone users. If your friend has an Android, iMessage sends data over an insecure SMS text. Other apps that use end-to-end encryption include Wire and Facebook’s WhatsApp.
+However, privacy and security experts typically recommend Signal, which has very strong privacy measures in place, and is maintained by a nonprofit foundation.
+“Signal is the gold standard, but it’s not foolproof. No matter how good your security is, you have to worry about the security of the person on the other end,” says Witness's Kayyali.
+One way to address this in Signal is to set messages to disappear shortly after they’re read. This will protect you if the person you’re messaging with loses their phone.
+In Signal: Select a conversation, tap the menu icon in the top right corner, and select “Disappearing messages.” Then, select how long you want your messages to be visible before they're deleted.
+Leave Your Phone Home
+There’s only one surefire way to guarantee your cell phone won’t be used to spy on you: Leave it at home.
+The only problem with this plan is . . . you won’t have a phone, for communication or for taking pictures and video.
+An alternative is to buy a “burner” phone just for this or similar occasions. This may seem sort of extreme for someone who’s just attending a peaceful demonstration, but these phones sell at convenience stores for as little as $10.
+Be sure to use a prepaid phone plan—plugging in your personal SIM card would tie the device to your cell carrier, defeating the purpose. Paying with cash adds even more security, as a credit card could tie the device back to you. Is that an extreme step? Maybe, but it's an easy way to add more anonymity.
+SHARES
+Sharing is Nice
+Thanks for sharing.
+Oops, we messed up. Try again later
+50
+Smartphones Rated
+Access Ratings
+Thomas Germain
+I want to live in a world where consumers take advantage of technology, not the other way around. Access to reliable information is the way to make that happen, and that's why I spend my time chasing it down. When I'm off the clock, you can find me working my way through an ever-growing list of podcasts. Got a tip? Drop me an email (thomas.germain@consumer.org) or follow me on Twitter (@ThomasGermain) for my contact info on Signal.
+More From Consumer Reports
+Can a Robotic Vacuum Replace Your Upright?
+Zoom Boosts Security and Privacy Protections Under FTC Settlement
+Guide to Videoconference Services
+How to Use Consumer Reports' Security Planner to Stay Safer Online
+Member Support
+Contact Us
+Account Settings
+What is Membership?
+Make a Donation
+Newsletters
+Give a Gift
+About
+About Us
+Career Opportunities
+Media Room
+Advocacy
+CR Recommended Program
+Data Intelligence
+Digital Lab
+Product Reviews
+Appliances
+Babies & Kids
+Cars
+Electronics
+Health
+Home & Garden
+Money
+A-Z Index
+Magazine & Books
+Current Issue
+CR Digital Archive
+5 Year Index
+CR Store
+More
+Video
+en Español
+Report a Safety Problem
+Give a Confidential News Tip
+Buy a New Car
+Buy a Used Car
+Join
+Donate
+Facebook
+Twitter
+YouTube
+instagram
+Pinterest
+Privacy Policy
+User Agreement
+Ad Choices
+© 2020 Consumer Reports, Inc.

@@ -1,0 +1,28 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch05s02.html#websec2-CHP-5-SECT-2.1.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+SSL: The User’s Point of ViewBoth Netscape Navigator and Microsoft’s Internet Explorer
+contain extensive support for SSL and TLS. This section describes the
+support for transferring documents using encryption. SSL/TLS support
+for digital certificates is described in Chapter 17.NoteNetscape Navigator uses the term “secure document” as
+shorthand for the phrase “documents that are transmitted using
+SSL.”Of course, documents transmitted using SSL aren’t any more
+secure or unsecure than documents that are sent in the clear. They
+are simply cryptographically protected against eavesdropping and
+modification while in transit. The SSL Protocol makes no assurance
+that the document itself was not modified on the web server—a far
+easier attack than intercepting and modifying the contents of a
+TCP/IP stream.Browser Preferences Netscape Navigator and Internet Explorer control their
+SSL behavior through the use of special control panels. Navigator
+calls this panel Security Preferences and it is accessed from
+Navigator’s Preferences menu. Explorer calls this panel the Advanced
+Options panel and it is accessed from Explorer’s Internet Options
+menu.Navigator preferencesThe Netscape Navigator 6.0 Security Preferences panel is
+shown in Figure
+5-4.Figure 5-4. Netscape Navigator’s Security Preferences panelThe controls listed under Navigator’s General tab allow the user to choose when various alerts are ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

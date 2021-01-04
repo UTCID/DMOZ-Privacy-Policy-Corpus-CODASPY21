@@ -1,0 +1,204 @@
+http://www.alsbridge.com/articles/prepare-your-organization-for-today-s-data-privacy-challenges-by-creating-a-culture-of-privacy
+Prepare Your Organization for Today’s Data Privacy Challenges by Creating a Culture of Privacy
+be_ixf; dotnet_sdk; dotnet_sdk_1.4.11 109 ms iy_2020; im_10; id_09; ih_01; imh_53; i_epoch:1602233607165 ixf-compiler; ixf-compiler_1.0.0.0 py_2019; pm_04; pd_30; ph_11; pmh_04; p_epoch:1556647483752
+bec-built-in; bec-built-in_1.0.0; bodystr pn_tstr:Fri Oct 09 01:53:27 PDT 2020; pn_epoch:1602233607165 0 ms
+ISG
+Research
+Back
+Research
+ISG Index™
+The ISG Index™ provides a quarterly review of the state of the Global IT Services Market.
+ISG Momentum®
+The latest market trends to help service providers generate leads and improve sales.
+ISG ProBenchmark®
+The largest independent source of benchmarking and market price intelligence in the world.
+ISG Provider Lens™
+Detailed analysis of service provider strengths and weakness by capability, methodology and geography.
+ISG Relationship360™
+Measuring the health of IT’s relationships with the business using the world’s largest satisfaction benchmarking database.
+ISG UserX™
+ISG UserX™ offers a robust methodology to assess and benchmark your user experience with workplace technology, including support, services and tools.
+ISG Blockchain XChange™
+Your single source of information about the business of blockchain.
+Consulting
+Back
+Consulting
+Business Advisory Services
+Cloud ERP
+Data & Analytics
+Digital Solutions
+HR Technology and Transformation
+ISG Automation
+Network Advisory Services
+Organizational Change Management
+Rapid Cost Out
+Software Advisory Services
+Sourcing Solutions
+Third Party Management
+Back
+Third Party Management
+ISG GovernX®
+ISG GovernX® - Contract Lifecycle
+ISG GovernX® - Spend Management
+ISG GovernX® - Supplier Relationship
+ISG GovernX® - Third-Party Risk Management
+ISG GovernX® - Market Insights
+ISG GovernX® - Platform Integration
+ISG GovernX® - Risk Monitor
+VMO Assessment
+Industries
+Back
+Industries
+Aerospace and Defense
+Automotive
+Banking & Financial Services
+Chemicals, Oil and Gas
+Consumer Goods
+Healthcare
+Higher Education
+Insurance
+Life Sciences
+Manufacturing
+Media & Entertainment
+Private Equity and M&A
+Public Sector
+Retail
+Service Providers
+Technology
+Telecommunications
+Travel and Transportation
+Utilities
+Solutions
+Back
+Solutions
+As-a-Service
+Digital Factory
+Digital Solutions
+ISG GovernX®
+Mergers and Acquisitions
+Workplace of the Future
+Products
+Back
+Products
+ISG Inform™
+ISG Insights™
+ISG Momentum® Contract KnowledgeBase
+ISG ProBenchmark®
+ISG GovernX® - Risk Monitor
+Publications
+Back
+Publications
+Articles
+Podcasts
+Webinars
+Events
+Back
+Events
+TechXchange: Retail/Consumer Packaged Goods
+Digital Business Summit US
+Automation Summit London
+Upcoming Events
+Webinars
+Global Events Calendar
+Sponsorship Opportunities
+Preferences
+About us
+Newsroom
+Investors
+Careers
+Business Model Innovation
+Enterprise Agility
+Insights
+Digital Backbone
+Digital Ecosystems
+Technologies@Scale
+Explore the ISG Digital Cube. Simplify how you do digital.
+ISG
+Search
+English
+Deutsch
+Français
+Italiano
+Português
+Español
+×
+No results found
+Please enter some search terms
+Searching...
+There are {{resultsCount}} results in this search.
+These are the top {{results.length}} results.
+See all results
+contact us
+Home
+Articles
+Prepare Your Organization for Today’s Data Privacy Challenges by Creating a Culture of Privacy
+Categories:
+Consulting
+Organizational Change Management
+By
+Michelle Mack
+Chris VanHoeck
+Missy Lawrence-Johnston
+share
+Digital Backbone
+Insights
+Digital Ecosystems
+Enterprise Agility
+Technologies@Scale
+Business Model Innovation
+There was a time in the not-too-distant past when a business – whether a credit card company, magazine publisher or consumer goods manufacturer – would bolster revenue by selling its customer list to firms in other industries. Your name, address and phone number were simply fungible assets to be traded in the marketplace. As we all know, that is not the case today. Every organization that maintains personally identifiable information (PII) for customers, employees or business partners is responsible for keeping information confidential and sharing only when authorized and appropriate.
+Data privacy has come to the forefront of late due to new legislation aimed at protecting personal information, most notably the General Data Protection Regulation (GDPR) in Europe and the California Consumers Privacy Act (CCPA) in the U.S. Organizations are now charged with managing personal data in a more sophisticated manner than ever before. These laws require new procedures, such as informing consumers of their rights, disclosing usage upfront and providing or deleting copies when requested by the consumer. And this is only the beginning. States other than California are now crafting regulations that, if enacted, will further complicate the picture for holders of PII by introducing a multitude of similar regulations.
+While data security is core to good data privacy, these new demands require more than ensuring systems are secure and data is protected from hackers and other bad actors. Enterprise data privacy, once a burden solely for organizations dealing with highly sensitive data, such as health care and financial service, is now of critical interest to any organization that maintains a repository of PII for any business reason. Data privacy is recognized today as more than a technical issue; privacy is – or should be – of critical interest to everyone in your organization.
+Enterprises can take the following steps to enhance their privacy practice and better manage PII.
+Create a culture of privacy.
+Introduce and reinforce “privacy by design” as teams strategize new applications, products and uses for data. This means building privacy into the core architecture, testing and deployment of products and services. Make “privacy as a mindset” an enterprise expectation that holds everyone in the organization accountable when PII is concerned.
+Rebuild the culture by assessing and addressing behavior patterns of employees by leveraging tactics to create new neural pathways for behavior change. Increase personal accountability and responsibility by offering a structured, dual-pronged methodology that includes comprehensive training on the principles and individual’s duties related to privacy.
+Jumpstart the process of instilling a culture of privacy with workshops led by a professional. Curate and make available for continuous learning materials specific to global, evolving privacy best practices and create a privacy community of practice (CoP) described below.
+Manage your PII.
+The first step to managing your PII and ensuring your organization has instilled a culture of privacy is to assess your current situation. Do your employees understand their role in respect to the handling of PII? Are there procedures in place to review how PII is handled and distributed as systems are updated to meet new business needs? These questions are best answered with the assistance of professionals, whether from your own legal and risk staff or by enlisting outside help.
+Next, inventory your PII data, identifying where it is coming from, where it is stored and how it is used, both internally and when shared with partners and suppliers. For organizations using popular CRM tools, use software to scan the system and provide standard reports that minimize the inventory effort. For systems that are customized for a specific business need, conduct interviews with the appropriate subject matter experts.
+Once the PII inventory is complete, establish a data tagging schema that automatically tracks how data is sourced and used. Doing so not only helps address current privacy management practices, but it also allows the organization to readily address future regulatory requirements by providing a database that can be queried as needed to identify PII data flows that are subject to oversight.
+Build processes needed for a privacy practice.
+One of the key steps toward building a mature privacy practice is a data protection impact assessment (DPIA), which reviews new and updated uses of PII in an organization. It provides a comprehensive check of data usage for new system development, checks for any changes to use of PII and examines any new business processes with consideration of privacy at every level. A DPIA ensures that new sources, uses and distribution of data meet the organization’s privacy policies and comply with regulatory requirements.
+In addition to the DPIA, a breach response plan is key to the privacy practice. As many say, there are only two kinds of organizations: those that have experienced a privacy breach and those that don’t yet realize they’ve experienced a privacy breach. Critical to successfully navigating a breach is the breach response plan. Much like a disaster recovery plan, the breach response contains the who, what and when of actions taken after the unanticipated loss or transfer of PII data. Breach response plans should be industry specific to take into account various privacy regulations for handling PII data and breach notifications.
+Build a supporting organization.
+A privacy steering committee can provide guidance and comprehensive oversight to an organization’s approach to privacy. The steering committee should include leadership from the Legal, IT, Risk and Privacy offices with additional membership from key business functions with significant data privacy involvement (e.g. sales and marketing, customer experience, etc.).
+Establish a privacy office to develop and maintain a culture of privacy and signify to employees the importance of your “privacy by design” principles. Staff the privacy office with subject matter experts who are “privacy evangelists” and who can be resources for the privacy steering committee and for the organization as a whole.
+Establish a privacy community of practice (CoP) to focus on opening up the work of the privacy office to a broader audience – anyone can participate, regardless of their function or role. The community raises awareness and reminds employees about their personal responsibility regarding privacy.
+The world of privacy is changing rapidly as organizations face a new regulatory landscape and individuals become more cognizant of their privacy rights. ISG helps enterprises understand their current situation as well as meet the needs of an evolving privacy environment. Talk to us!
+About the authors
+Michelle Mack has for over 25 years built an award-winning career in privacy, sales and marketing, and project management. She established privacy practices and Project Management Offices (PMO) for clients, leading diverse teams of professionals in management of high-profile initiatives. Her clients benefit from her hands-on experience in privacy and risk management, customer relations management (CRM), database operations, product development, launch and training support and multi-channel consumer communications.
+Chris VanHoeck is a Director at ISG, drawing upon 30 years of experience guiding transformational change and managing programs and projects. He brings to bear expertise from a wide variety of technologies and business systems to help clients gain the benefits of industry-leading best practices. His unique perspective allows him to quickly assess a client’s needs, advise the best approach for success, suggest tools to use and implement those recommendations.
+ISG’s Missy Lawrence-Johnston is a principal consultant in organizational change management (OCM) with more than 15 years of experience as a thought leader and culture-change expert helping government entities, nonprofits and Fortune 100 companies. In her current role, Missy leads strategic-change and OCM teams with a focus on team dynamics, change leadership and empowering psychologically safe environments. Missy is also a recognized speaker and executive coach, with a master’s degree in leadership, bachelor’s degrees in English and political science, and certifications in Stanford University’s Strategic Execution Framework, CMMI development and service, Prosci change management and agile/SaFE. She is also affiliated with the Association of Change Management Professionals (ACMP), the Society of Human Resource Professionals (SHRP) and Chartered Management Institute (CMI). She was named to Business First’s Top 40 Under 40 Young Professionals list.
+latest from isg
+ITO Provider Strategy Debate: Single-Source vs. Multi-Provider
+The HR Organization of the Future – Optimizing the Employee Experience
+Why Look at a Fully Integrated Cloud ERP Platform
+Bots and Beyond Episode 2: When Business Continuity Planners Became Gods
+ISG Blockchain Now™ Podcast Episode 5: Blockchain and the Future of Networking
+Everything Depends on Network Transformation
+The CISO as a Business Enabler: Transforming Security into a Competitive Advantage
+Bots and Beyond Episode 1: Citizen Developer, Hype or Hoax?
+Related InformationData & AnalyticsAgile is an Attitude, Not a TechniqueISG FutureSource™
+be_ixf; dotnet_sdk; dotnet_sdk_1.4.11 https://isg-one.com/articles/prepare-your-organization-for-today-s-data-privacy-challenges-by-creating-a-culture-of-privacy http://ixfd-api.bc0a.com/api/ixf/1.0.0/get_capsule/f00000000154372/615480029?client=dotnet_sdk&client_version=1.4.11&orig_url=https%3A%2F%2Fisg-one.com%2Farticles%2Fprepare-your-organization-for-today-s-data-privacy-challenges-by-creating-a-culture-of-privacy&base_url=https%3A%2F%2Fisg-one.com%2Farticles%2Fprepare-your-organization-for-today-s-data-privacy-challenges-by-creating-a-culture-of-privacy&user_agent=Python-urllib%2F3.8 https://isg-one.com/articles/prepare-your-organization-for-today-s-data-privacy-challenges-by-creating-a-culture-of-privacy sdk.environment=production;sdk.charset=UTF-8;api.endpoint=http://ixfd-api.bc0a.com/;sdk.account=f00000000154372;sdk.connectTimeout=500;sdk.socketTimeout=500;sdk.crawlerConnectTimeout=750;sdk.crawlerSocketTimeout=750;whitelist.parameter.list=ixf;flat.file=true;sdk.proxyPort=0;sdk.proxyProtocol=http;crawler.useragents=google|bingbot|msnbot|slurp|duckduckbot|baiduspider|yandexbot|sogou|exabot|facebot|ia_archiver;forcedirectapi.parameter.list=ixf-api|ixf;page.alias.url=https://isg-one.com/articles/prepare-your-organization-for-today-s-data-privacy-challenges-by-creating-a-culture-of-privacy;canonical.host=isg-one.com;canonical.protocol=https
+Menu
+Research
+Consulting
+Third Party Management
+Events
+Articles
+Podcasts
+Preferences
+Who We Are
+Investors
+Careers
+Contact Us | ISG
+Corporate Headquarters2187 Atlantic Street
+Stamford, CT 06902
+T: +1 203 517 3100
+see locations
+Terms of Use
+Privacy Policy
+Cookie Policy
+Other Policies
+Unsubscribe

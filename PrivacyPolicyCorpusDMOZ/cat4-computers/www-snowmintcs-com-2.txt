@@ -1,0 +1,162 @@
+http://www.snowmintcs.com/get-help/budget-touch-sync-issues/
+Products
+Budget
+Documentation
+Reviews
+Budget (Windows)
+Documentation
+Reviews
+Budget Planner
+Documentation
+Reviews
+Budget Planner (Windows)
+Documentation
+Budget Touch
+Documentation
+Reviews
+Budget Workbook
+Documentation
+Reviews
+Budget Workbook (Windows)
+Documentation
+Reviews
+Pay It Down
+Documentation
+Trade Strategist
+Features
+Video Demos
+Backtesting
+Charting
+Generating Signals
+Stock Lists
+Strategies
+Using Documentation
+Documentation
+Ultimate Pen
+Documentation
+Reviews
+Get Help
+Budget Icon Packs
+Budget Touch Sync Issues
+Contact Us
+Info
+Guarantee
+Free Upgrades
+Privacy Policy
+Envelope Budgeting
+Video Tutorials
+Budget Set Up Tour
+Budget Usage Tour
+Switching From Quicken
+Budget Touch Sync Issues
+FAQs
+Budget Icon Packs
+Budget Touch Sync Issues
+Contact Us
+Product Forums
+Product support
+Sign up for our newsletter
+Report a Bug / Ask a Question
+RSS feeds
+Subscribe to our product release RSS feed
+Subscribe to our latest forum topics RSS feed
+Additional Resources
+How to manage your money using a budget and how our software application, Budget, can help you.
+Switching From Quicken - some helpful pointers if you're making the switch from another finance program like Quicken or Microsoft Money.
+Localization Help
+Want to help localize one of our products to another language? Found a problem with an existing localization? We're always looking for talented multi-lingual people to help us translate our products. Use the
+contact form to get in touch with us.
+Having issues with Budget Touch syncing?
+Occasionally we get reports of people having trouble syncing Budget Touch with Budget on the desktop.
+You should read the help sections for both Budget Touch syncing and Budget syncing.
+If you’re still having troubles one of the solutions below will probably help.
+Reboot!
+Sometimes, for whatever reason, the networking stack gets stuck on the desktop computer. Rebooting the computer usually helps with that. Rebooting your device also may help. It’s easy to do and relatively quick, so give it a try first.
+Bonjour
+For Wi-Fi sync, we use Bonjour (Zero Configuration Networking), an Apple technology. It is possible that Bonjour is disabled on your network. There are many ways to find out if Bonjour is working on your network:
+Try to find out if other desktop computer applications using Bonjour also have problems on your network — such as iTunes music sharing or chatting via Bonjour in iChat on a Mac (use the menu Window > Bonjour).
+Try another iPhone application that uses Bonjour, such as Apple’s Remote (free).
+On a Mac, another way to test this is to download and install Bonjour Browser (free). Launch Bonjour Browser, and look for an entry “_budget-touch._tcp”. If you don’t see this entry in Bonjour Browser while Budget Touch is running on the iPhone and the iPhone is connected to the same Wi-Fi network as your desktop computer, then it’s a network problem.
+On Windows, another way to test this is to follow the instructions on Apple’s support document http://support.apple.com/kb/HT2703.
+If your network doesn’t support or is blocking Bonjour, there is nothing we can do, and you will need to contact your network administrator.
+Little Snitch (Mac) or Zone Alarm (Windows)
+Are you using an application like Little Snitch or Zone Alarm to block certain network traffic?
+If you have Little Snitch or Zone Alarm installed, and it asks you to approve Budget Touch it may still not be allowing the network connection between your Mac and iPhone. You will need to ensure connections are allowed for All Applications > Bonjour and also for mDNSResponder specifically.
+Firewalls
+Are you using Mac OS X‘s firewall? You can check by going to System Preferences > Security > Firewall. A Firewall is set up if the second or third option is chosen.
+The process mDNSResponder might be blocked. As a result, Bonjour won’t be able to connect to the iPhone. Once you allow connections for mDNSResponder, Budget Touch should sync without issues.
+To correct this, open System Preferences > Security > Firewall. Now, add mDNSResponder to the “Set access…” list as follows:
+mDNSResponder resides in a hidden directory. To view this directory, switch to the Finder. From the Go menu, select “Go to Folder…” (or use the keyboard shortcut shift-command-G). When the “Go to Folder” window appears, enter the following path: /usr/sbin
+In the Firewall settings select Set access for specific services and applications
+Click the + button. A sheet with a file choosing dialog appears.
+Drag the mDNSResponder file from finder onto the sheet. (It doesn’t matter what’s actually pre chosen in the dialog.) The selected folder automatically switches to the sbin folder with the mDNSResponder file selected.
+Click the Add button
+Switch back to Allow all incoming connections
+On Windows, you can check by going to Control Panel > Security Center. Look next to the Firewall line. If it is on, you should make sure there is an exception for the Bonjour Service. You can do this as follows:
+From the Security Center, click on the Windows Firewall icon near the bottom of the window.
+In the Windows Firewall window, click on the Exceptions tab.
+Make sure there is a checkbox next to Bonjour Service, then click OK if you had to make a change.
+If it still doesn’t work (as reported by some users who have a 2wire router), you might have to make the following modifications to your router’s settings:
+Set the firewall on the router to allow traffic from mDNSResponder. The port numbers are TCP 5354 and UDP 5353.
+It takes a while for these settings to activate.
+Different subnets
+Another problem might be that your iPhone/iPod and Mac are on different subnets of the same network. In that case, syncing will not work. This is rather unlikely in small private networks.
+Router
+Sometimes it helps to simply restart your router. Also, make sure your router has the latest firmware updates installed.
+Some users were able to fix the sync issues by checking their router settings. One user reported: “The problem was the WLAN. Using a Zyxel Router we had to *disable* the standard setting under WLAN: Block network traffic between WLAN and WAN.”
+Other issues
+Is there anything special about your network setup that might prevent Budget Touch from communicating through Bonjour? For example, using VPN?
+Isolating the issue & workaround
+Create a computer-to-computer ad hoc network to isolate the issue. If syncing works via computer-to-computer, it’s likely something on your network. If it doesn’t, it’s likely a firewall and/or computer configuration issue.
+Copryight © 2020 Snowmint Creative Solutions LLCDesign by: TriLion Studios | Code by: Amber Weinberg and Kyle Hammond
+Products
+Budget
+Documentation
+Reviews
+Budget (Windows)
+Documentation
+Reviews
+Budget Planner
+Documentation
+Reviews
+Budget Planner (Windows)
+Documentation
+Budget Touch
+Documentation
+Reviews
+Budget Workbook
+Documentation
+Reviews
+Budget Workbook (Windows)
+Documentation
+Reviews
+Pay It Down
+Documentation
+Trade Strategist
+Features
+Video Demos
+Backtesting
+Charting
+Generating Signals
+Stock Lists
+Strategies
+Using Documentation
+Documentation
+Ultimate Pen
+Documentation
+Reviews
+Get Help
+Budget Icon Packs
+Budget Touch Sync Issues
+Contact Us
+Info
+Guarantee
+Free Upgrades
+Privacy Policy
+Envelope Budgeting
+Video Tutorials
+Budget Set Up Tour
+Budget Usage Tour
+Switching From Quicken
+Contact Us
+Privacy Policy

@@ -1,0 +1,227 @@
+https://searchdatamanagement.techtarget.com/feature/Top-3-data-privacy-challenges-and-how-to-address-them
+Top 3 data privacy challenges and how to address them
+SearchDataManagement
+Search the TechTarget Network
+Sign-up now. Start my free, unlimited access.
+Login
+Register
+Techtarget Network
+News
+Features
+Tips
+More Content
+Answers
+Buyer's Guides
+Definitions
+Essential Guides
+Opinions
+Photo Stories
+Podcasts
+Quizzes
+Tutorials
+Sponsored Communities
+Multimedia
+SearchDataManagement
+Topic
+Data warehouse
+Integration
+Resources
+Quality / governance
+DBMS
+BI
+ECM
+MDM
+Verticals
+All Topics
+SubTopic
+Big data management
+Big data management
+Data modeling
+DW appliances
+Project management
+DW software
+Data architecture
+Hadoop
+All Subtopics
+Follow:
+Problem solve
+Get help with specific problems with your technologies, process and projects.
+Top 3 data privacy challenges and how to address them
+There are many issues enterprises face in their data privacy programs. Read on for how to address the most common three found across organizations.
+Share this item with your network:
+By
+Jeff McCormick
+Published: 03 Sep 2020
+Data privacy -- driven by regulatory requirements, personal data growth and customer expectations -- is at the forefront of our digital world. Adhering to these measures and implementing effective privacy management across an enterprise presents a number of data privacy challenges.
+What is data privacy?
+Data privacy refers to the right of an individual to keep his or her information private. It advocates individual control over the collection and use of private information with the goal of protecting the confidentiality of an individual.
+Personal private information, often referred to as sensitive data, relates to individuals and should be protected against unauthorized disclosure. This includes informing customers of privacy policies and practices and avoiding the disclosure of nonpublic personal information to third parties without consent.
+Don't confuse data privacy with data security. Although both practices protect data, they have different objectives. Think of data privacy as protection from unauthorized disclosure and data security as protection from unauthorized access.
+Why is it important?
+Sensitive data is prolific across all facets of our digital lives. The number of occurrences increases the risk of unauthorized disclosure. Consequently, privacy breaches are all too common. Failure to protect private information from such breaches can affect both individuals and organizations.
+The potential harm to an individual if their information were improperly disclosed can result in identity fraud, reputational damage, financial loss or discrimination.
+Organizations are subject to data privacy regulations and data protection laws as well as customer privacy conditions. They have the responsibility to keep information private and can suffer consequences for noncompliance, including monetary fines, brand damage, legal action and business loss.
+There are many parts to a comprehensive data privacy program.
+Successful organizations view data privacy not as a cost of doing business but rather a capability that is a competitive differentiator in winning and retaining business.
+What is a data privacy program?
+To gain an appreciation of data privacy challenges, you need to understand the complexity of a data privacy program. Don't underestimate the overhead of people, processes and technology. The ability to deliver and enforce data privacy is a risk management effort that aims to improve individual confidentiality by reducing risk exposure.
+Data privacy challenges
+Although privacy priorities vary from one organization to another, data privacy challenges often involve operationalizing a data privacy program. Government regulations, customer mandates and corporate policies provide principles, guidelines and requirements describing the objectives of data privacy but do not prescribe how to implement a successful program.
+Here's a look at a few common data privacy challenges and how to improve your data privacy posture.
+1. Inventory challenge
+In many organizations, sensitive data is pervasive across systems on premises, at managed providers and in the cloud -- more so for organizations with older or legacy systems where it is often difficult chasing a long history of sensitive data proliferation.
+The challenge is finding the data, understanding its lineage and keeping track of it in a dynamic environment. You simply can't protect what you don't know about. Operationalizing data privacy starts with inventory tracking of sensitive data elements.
+Data inventory tracking is analogous to a library catalog system. Can you imagine a library without a current catalog? It would be chaos! This is the glue that holds the entire library system together.
+Identifying and tracking sensitive data is no different. To successfully deliver this capability, you must implement an active inventory system that automatically tracks where sensitive data resides throughout its entire lifecycle, from inception to disposal. At its core are two components: an up-to-date data catalog as well as discovery tools to scan structured and unstructured data stores and locate sensitive data with direct and inferred matching.
+Having an active inventory, you not only know with confidence what sensitive data elements exist and where, but you have the ability to manage this data throughout its lifecycle by using the metadata in the catalog.
+2. Design challenge
+As the awareness and consequences of unauthorized disclosure have grown, so has the need to apply a smart, sustainable design to systems with data privacy as a priority.
+The challenge is how best to operationalize privacy principals in modern systems and retrofit older systems. For new systems, data privacy should be baked into the core system design on day one. For older, legacy and commercial systems, data privacy processes should be built on to the core system. In either case, look to find the right balance between data privacy and usability by protecting sensitive data without inhibiting business processes.
+The key to a successful data privacy design is automation rather than brute force. Periodic or passive, error-prone manual processes simply can't keep up with a digital-infused world. A passive privacy design, at almost any scale and velocity, is not sustainable and is a non-starter. Technology automation is key to keeping the data privacy ecosystem synchronized at all times.
+Automated privacy processes should be implemented throughout the software development lifecycle. These processes include inventory tracking, continuous integration and delivery, real-time consent verification, monitoring of policy violations and data retention.
+To succeed in this you must protect sensitive information as soon as possible -- preferably immediately after collecting the data. It's also important to remove sensitive data in compliance with data retention policies and create a data privacy compliance checklist for vetting systems and third-party data sharing to ensure they meet privacy engineering objectives.
+3. Remediation challenge
+Many organizations are faced with the problem that their amount of sensitive data is unmanageable. This is especially true for organizations with large application portfolios, lax data practices, non-standard data modeling, antiquated architectures and systems carrying technical debt from changed business processes. Contributing to this dilemma is the expansion of systems off premises to managed providers and the public cloud.
+The challenge is to establish a smaller perimeter around sensitive data by removing occurrences of unnecessary sensitive data and rebuilding application architectures. Look to target systems in which the use of sensitive data cannot be rationalized or can be optimized with modern architecture.
+These include:
+Systems that have changed unique personal identification from personal information to alternate surrogate identifiers;
+Systems that carry sensitive data out of convenience as data was propagated throughout the architecture;
+Systems supporting business processes that have changed and no longer use sensitive data; and
+Systems that store sensitive data locally and can rearchitect to access a centralized master data management system.
+Control of source code and API integration are important factors in remediating sensitive data. In-house applications will make it easier to modify. Open source and third-party commercial software products may be more difficult or impossible to modify.
+In an effort to minimize disruption and facilitate implementation, look to keep file, schema and message formats intact and clear sensitive data values by assigning null or blank values rather than deleting the data element itself. As for redesigning systems, look for modular systems that can plug-and-play access to data.
+Related Resources
+The Economic Value of Data
+–ComputerWeekly.com
+Analytics & Data Warehousing Reader Survey Europe
+–ComputerWeekly.com
+Dig Deeper on Big data management
+How cloud security posture management protects multi-cloud
+By: Dave Shackleford
+Prevent the storage and data security risks of remote work
+By: Robert Sheldon
+GDPR, CCPA, cloud drive security management tool makeovers
+By: George Lawton
+Data security guide: Everything you need to know
+By: Sandra Gittlen
+Sponsored News
+Part I: Keep the Cloud Your Safe Place
+–Forcepoint
+Three Tenets of Security Protection for State and Local Government and ...
+–Dell Technologies
+Wanted: Simplified Device Management in the Cloud
+–HPI
+See More
+Related Content
+How to create an effective data protection strategy ...
+– SearchCompliance
+Data security guide: Everything you need to know
+– SearchSecurity
+How enterprises navigate GDPR data management rules
+– SearchDataManagement
+Join the conversation
+2 comments
+Send me notifications when other members comment.
+Add My Comment
+Register
+I agree to TechTarget’s Terms of Use, Privacy Policy, and the transfer of my information to the United States for processing to provide me with relevant information as described in our Privacy Policy.
+Please check the box if you want to proceed.
+I agree to my information being processed by TechTarget and its Partners to contact me via phone, email, or other means regarding information relevant to my professional interests. I may unsubscribe at any time.
+Please check the box if you want to proceed.
+Login
+Forgot your password?
+Forgot your password?
+No problem! Submit your e-mail address below. We'll send you an email containing your password.
+Submit
+Your password has been sent to:
+Please create a username to comment.
+Oldest
+Newest
+[-]
+fakaza
+- 15 Sep 2020 11:39 AM
+Wow, thanks for sharing this, this is quite informative and i will really like to read more of your write up.I read something similar but less explanatory on zaflaver.Kudos!!
+Add My Comment
+Cancel
+[-]
+fakaza
+- 15 Sep 2020 11:42 AM
+I really enjoyed reading this which is quite informative. Can you get a litlle clear on No.2 Design challenge.Thanks alot.Fakaza
+Add My Comment
+Cancel
+Latest TechTarget resources
+Business Analytics
+AWS
+Content Management
+Oracle
+SAP
+SQL Server
+SearchBusinessAnalytics
+Tableau, Salesforce integration now in full swing
+Tableau and its new owner unveiled their first collaboration during Tableau's user conference, but due to COVID-19 the vendors ...
+Tableau roadmap features improved browser capabilities
+Tableau's plans for 2021 include providing an end-to-end analytics experience on the web that mimics what users are able to do ...
+Tableau unveils first integration with Einstein Analytics
+Tableau adds AI power via an integration with Salesforce's predictive BI tool, the first collaboration between Salesforce and ...
+SearchAWS
+New Amazon grocery stores run on computer vision, apps
+Amazon dives deeper into the grocery business with its first 'new concept' grocery store, driven by automation, computer vision ...
+Amazon's sustainability initiatives: Half empty or half full?
+Amazon's public perception and investment profile are at stake as altruism and self-interest mix in its efforts to become a more ...
+How Amazon launched the warehouse robotics industry
+In 2012, the warehouse robotics industry consisted of Kiva Systems, the sole supplier to serve all e-commerce companies. When ...
+SearchContentManagement
+Hyland Software CEO discusses acquisitions, RPA, blockchain credentials
+Hyland moves on incorporating Another Monday RPA, Learning Machine blockchain credentials into its platform. Alfresco integration...
+How businesses can best build a WordPress knowledge base
+A WordPress knowledge base can be useful for companies that want an easy-to-use and customizable product with many plugins that ...
+Knowledge bases benefit customer service, call center training
+Knowledge bases provide call center agents with training documents and answers to frequently asked questions as they continue to ...
+SearchOracle
+Oracle Autonomous Database shifts IT focus to strategic planning
+This handbook looks at what Oracle Autonomous Database offers to Oracle users and issues that organizations should consider ...
+Oracle Autonomous Database features free DBAs from routine tasks
+Oracle Autonomous Database can automate routine administrative and operational tasks for DBAs and improve productivity, but ...
+Oracle co-CEO Mark Hurd dead at 62, succession plan looms
+Oracle co-CEO Mark Hurd's abrupt death at 62 has put the software giant in the position of naming his replacement, and the ...
+SearchSAP
+Wookey returns to SAP to head Intelligent Spend unit
+Industry veteran John Wookey is back at SAP to run the newly formed SAP Intelligent Spend and Business Network as SAP Ariba ...
+In a time of crisis, S/4HANA implementation strategies shift
+During a pandemic, organizations may consider pausing a major project like an S/4HANA migration, but experts believe they can use...
+SAP Digital Boardroom helps Parkland Health manage pandemic
+Parkland Health managed a surge of cases caused by the COVID-19 pandemic by using data analytics based on SAP Analytics Cloud and...
+SearchSQLServer
+SQL Server database design best practices and tips for DBAs
+Good database design is a must to meet processing needs in SQL Server systems. In a webinar, consultant Koen Verbeeck offered ...
+SQL Server in Azure database choices and what they offer users
+SQL Server databases can be moved to the Azure cloud in several different ways. Here's what you'll get from each of the options ...
+Using a LEFT OUTER JOIN vs. RIGHT OUTER JOIN in SQL
+In this book excerpt, you'll learn LEFT OUTER JOIN vs. RIGHT OUTER JOIN techniques and find various examples for creating SQL ...
+About Us
+Meet The Editors
+Contact Us
+Advertisers
+Business Partners
+Media Kit
+Corporate Site
+Contributors
+Reprints
+Answers
+Definitions
+E-Products
+Events
+Features
+Guides
+Opinions
+Photo Stories
+Quizzes
+Tips
+Tutorials
+Videos
+All Rights Reserved,
+Copyright 2005 - 2020, TechTarget
+Privacy Policy
+Cookie Preferences
+Do Not Sell My Personal Info
+Close

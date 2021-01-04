@@ -1,0 +1,40 @@
+http://news.cnet.com/news/start-up-wants-your-help-to-fight-spam/
+Disney Plus reveals
+Marvel's WandaVision trailer
+The Game Awards 2020
+SpaceX Starship explodes
+Cyberpunk 2077
+AirPods Max
+Next stimulus check
+Start-up wants your help to fight spam
+Anti-spam company Cloudmark on Wednesday is taking the wraps off a new spam-fighting tool that aims to use the power of the people to weed out unsolicited commercial e-mail.
+Stefanie Olsen
+June 19, 2002 11:42 a.m. PT
+Ordinary Web surfers could play a major role in stemming the rising tide of junk e-mail crippling the Net, if a new anti-spam company hits its mark.
+Reader Resources
+Anti-spam reviews
+Anti-spam downloads
+After operating in stealth mode for nearly two-and-a-half years, San Mateo, Calif.-based Cloudmark on Wednesday is taking the wraps off a new spam-fighting tool, called SpamNet, which aims to use the power of the people to weed out unsolicited commercial e-mail.
+Conceived by Napster co-founder Jordan Ritter and open-source developer Vipul Ved Prakash, the company is touting the benefits of democracy, networking and collaboration in the war against unscrupulous e-mail marketers.
+The company does face challenges. It is charged with transforming a tool that's geared for a small Unix developer community into a product for the masses. It also must offer a system that's simple and effective to reach a critical mass. Finally, it must build in financial support for such a system.
+Then there is the Internet itself, whose enormous strengths of openness, flexibility and redundancy have proven insurmountable foes for legions of companies that previously have marched off to vanquish the hordes of spam. Many, such as SpamCop and SpamKiller, already include tools to allow e-mail recipients to report spam to their Internet service providers, a form of democracy in action that has not proven terribly effective.
+Technology pundits say most existing anti-spam solutions haven't been able to keep up with the rising flood of junk and the sophistication of marketers sending it. In this environment, Cloudmark is drawing attention for what some analysts call a new approach to the problem.
+"What's exciting about Cloudmark is that it's a distributed response to a distributed problem," said Kevin Werbach, technology analyst at venture capital firm EDventure Holdings.
+"There are so many spammers out there," he said, "that it's difficult to come up with sophisticated algorithms to catch all the spam and not catch all the e-mail. But if you harness the power of thousands or potentially millions of people on the network, then you can grow the response to the spam almost as fast as the spam itself is growing."
+Despite repeated attempts to keep spam down to size, the enemy has proliferated: Internet researcher Jupiter estimates that consumers will receive 206 billion junk e-mailings in 2006--an average of 1,400 per person, compared with about 700 per person this year.
+If Cloudmark is not the first company to address the problem, its claims are among the boldest. Prakash drew inspiration for the company's name from the sci-fi novel "A Fire Upon The Deep," by a former computer-science professor, Vernor Vinge, who wrote about a router the size of a planet "that could filter spam," Prakash said.
+In an interview, Prakash and company CEO Karl Jacob said Cloudmark's software solves the problem of identifying spam and quickly updating e-mail filters by harnessing the intelligence of the Web community at large.
+Building on a foundation of trust
+"It operates on a trust evaluation system; it evaluates the trustworthiness of the user's suggestion to identify a spam message," said Jacob, an investor in the company who recently left his job as CEO of advice site Keen.com. "It's based on how long they've been in the community, how many messages they've sent that were verified. The effect is it allows a democratic vote."
+The software is based on Prakash's open-source software Razor, a collaborative spam-filtering system that sifts out about 5 million messages per day. The technology has about 5,000 "users," or Internet Protocol addresses linked to the community, with more than 60 midsize ISPs. SpamNet will count new users as individuals, however.
+Cloudmark's solution requires a free plug-in that plays a minor role in the background of Microsoft's Outlook, the only e-mail client the product is currently available for. Consumers will see a new file folder on the left side of Outlook deemed for spam and a toolbar at the top for reporting spam or "revoking a spam decision." Every time someone receives a new message he considers spam, that person would report the message to the program by clicking the first button.
+As the software stands now, it filters junk into the spam folder based on 2.5 million "signatures," or combinations of zeros and ones, which are used to identify a junk mail message. The underlying technology attaches a signature to each incoming message, and based on a consensus among users, it will mark a signature as spam in real time. So the more people who participate, the greater depth the database will have with additional marked signatures.
+The signatures are unlike typical spam-fighting tools that are based on "rules" or filters built around spoken language, headers or IP addresses of commercial messages. Anti-spam software company Brightmail uses rules-based filtering, for example. But Jacob says that model doesn't work well because it depends on humans to constantly write new rules and technology that can slow as it compares too many rules to each incoming message. In contrast, Cloudmark uses algorithms to efficiently find similar numerals or signatures in the database without scanning the entire set.
+A spokesman for Brightmail, one of the largest spam-filtering services, said the company filtered more than 10 billion e-mails and blocked 1.5 billion junks mails in the past 12 months. The company's rules-based system is constantly updated to avoid latency in scanning messages, he said, adding that the majority of rules are written automatically, with some exceptions for those particularly challenging spam attacks.
+Cloudmark says it intends to always offer a free product to consumers, with eventual plans to sell a more advanced service. It also expects to license its technology to enterprise customers, of which it already has some beta customers.
+If anything, the company has the angst of Web users on its side.
+"A community effort against spam is not something we've seen before, at least not on the scale on what they're attempting to gather," said Ray Everett-Church, chief privacy officer at ePrivacy Group, a Philadelphia-based consultancy. "At least they've got a very fertile community who are sick of spam and who are willing to try something new if it will stop it."
+Close
+Discuss: Start-up wants your help to fight spam
+Sign in to comment
+Be respectful, keep it civil and stay on topic. We delete comments that violate our policy, which we encourage you to read. Discussion threads can be closed at any time at our discretion.

@@ -1,0 +1,26 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch06.html#websec2-CHP-6-SECT-1.2.1
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 6. Digital Identification I: Passwords, Biometrics, and Digital
+SignaturesA variety of identification systems in use on the Web today are
+designed to provide the same sort of assurance in cyberspace that they
+offer in the real world. The simplest of the systems are based on
+usernames and passwords; others are based on special-purpose hardware
+that can measure unique distinguishing characteristics of different
+human beings. Finally, there are systems that are based on cryptography,
+relying on the public key cryptography techniques introduced in earlier
+chapters.This chapter presents a survey of the various digital technologies
+that are available to identify people on and off the Internet. Chapter 7 describes the use of digital
+certificates and their use in the public key infrastructure
+(PKI).Physical IdentificationFly to San Francisco International Airport, flash two pieces of
+plastic, and you can drive away with a brand new car worth more than
+$20,000. The only assurance the car rental agency has that you will
+return its automobile is your word—and the knowledge that if you break
+your word, they can destroy your credit rating and possibly have you
+thrown in jail.Your word wouldn’t mean much to the rental agency if they didn’t know who you are. It’s your driver’s license and credit card, combined with a worldwide computer network, that allows the rental agency to determine in seconds if your credit card has been reported stolen, and that gives the firm and its insurance ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

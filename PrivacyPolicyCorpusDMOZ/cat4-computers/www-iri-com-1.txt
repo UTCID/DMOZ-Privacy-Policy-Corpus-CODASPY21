@@ -1,0 +1,352 @@
+http://www.iri.com/solutions/data-governance/data-privacy-protection
+Free Trial
+Blog
+FAQ
+Chat
+Contact
+Toggle navigation
+Solutions
+BI & AnalyticsEmbedded BIBIRT IntegrationKNIME IntegrationSplunk IntegrationsCloud DashboardBI Tool AccelerationBig DataBig Data PackagingBig Data ProtectionBig Data ProvisioningStructured DataSemi & Unstructured DataWith/out HadoopUse CasesIoTBootcampBDaaSData GovernanceData MaskingData QualityTest DataForensicsRBACsStewardshipCOBITEnterprise Metadata ManagementMaster Data ManagementData IntegrationBuild New ETLSpeed Your ETLRe-Platform Your ETLSupercharge Your ETLFast & Easy IRI ETL ToolsETL & BeyondData MaskingAuditingCCPADLPFERPAGDPRHIPAAPCI DSSData Masking as a ServiceStatic Data MaskingDynamic Data MaskingTest DataData MigrationData Type ConversionFile Format ConversionDatabase MigrationData ReplicationData TransformationAggregateCross-CalculateCustom TransformsFormats/KeysLookupsMatch/JoinPivot/UnpivotRe-Map/ReformatScrub/CleanseSelect/FilterSort/MergeSubstringsType-ConvertDB OperationsCassandraDB2 UDBMongoDBMySQLOraclePostgreSQLSAP HANASnowflakeSQL ServerSybaseTeradataMetadata & MDMMetadataMetadata ManagementMaster DataMDMQuality & SecurityServicesSort Replacementsbin/sortJCL SORTMicro Focus COBOLNaturalSASUniKixTest DataBenchmarkingComplianceDB Test DataDB SubsettingDevOpsTest Files/ReportsTest Data VirtualizationTDaaSProducts
+IRI Data Manager (Suite)IRI Data Protector (Suite)IRI Voracity (Platform)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI CoSort (Transformation)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesSortCL ProgramSortCL MetadataCOBOL ToolsSort PluginsAPIsIRI FACT (Extraction)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI NextForm (Migration)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI RowGen (Test Data)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI FieldShield (Masking)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI CellShield (Excel)CellShield Personal Edition (PE) Add-InCellShield (EE)IRI DarkShield (Dark Data)OverviewFeatures & BenefitsTechnical DetailsWhy It's BetterPlatforms & PricingResourcesIRI Workbench (GUI)OverviewData SourcesDiscover DataDesign & Run JobsEdit & Share ProjectsEclipse FacilitiesVoracity GUICoSort GUIFACT GUIFieldShield GUINextForm GUIRowGen GUIFree Trial, Demo, QuoteFeature MatrixFree TrialLive DemoQuote RequestContactCustomers
+IndustriesOverviewBFSICDI/eCommerceEnergyGovernmentHealthcareRetail/CPGTelco & CableTransportCase StudiesTestimonialsUser RolesBI Analyst & Data ScientistDBAOverviewCIO/IT ManagerETL/Solution ArchitectCompliance OfficerProgrammer & ISVLegacy ToolsUser GroupsSurveysData Masking QualifiersIT NeedsUser ReviewWebinarsPayment PortalServices
+Professional ServicesProduct TrainingIRI HQ TrainingOn-Site TrainingSelf-Directed LearningCertificationCertificationVoracity CertificationCoSort CertificationFACT CertificationNextForm CertificationFieldShield CertificationCellShield EE CertificationDarkShield CertificationRowGen CertificationTechnical SupportCompany
+About IRIDifferentiationHistoryLocationManagementMissionOutreachRecognitionCOVID-19 Policy & PrepHistory1970s1980s1990s2000s2010s2020sCareersAccount ManagerChannel ManagerMarketing ManagerSoftware DeveloperSupport EngineerInternshipsContact UsLegal NoticesCopyrightTrademarksDisclaimerCode of ConductPrivacy PolicyFAQsNews
+Big Data BootcampPress ReleasesNewslettersSupport
+Self-LearningSupport RequestLicense TransfersPartners
+Expert ConsultantsBig DataCloudDW/BIData MaskingLegacy MigrationTest DataIndustry AlliancesInternational ResellersEmbed Opportunities
+Solutions
+BI & AnalyticsEmbedded BIBIRT IntegrationKNIME IntegrationSplunk IntegrationsCloud DashboardBI Tool AccelerationBig DataBig Data PackagingBig Data ProtectionBig Data ProvisioningStructured DataSemi & Unstructured DataWith/out HadoopUse CasesIoTBootcampBDaaSData GovernanceData MaskingData QualityTest DataForensicsRBACsStewardshipCOBITEnterprise Metadata ManagementMaster Data ManagementData IntegrationBuild New ETLSpeed Your ETLRe-Platform Your ETLSupercharge Your ETLFast & Easy IRI ETL ToolsETL & BeyondData MaskingAuditingCCPADLPFERPAGDPRHIPAAPCI DSSData Masking as a ServiceStatic Data MaskingDynamic Data MaskingTest DataData MigrationData Type ConversionFile Format ConversionDatabase MigrationData ReplicationData TransformationAggregateCross-CalculateCustom TransformsFormats/KeysLookupsMatch/JoinPivot/UnpivotRe-Map/ReformatScrub/CleanseSelect/FilterSort/MergeSubstringsType-ConvertDB OperationsCassandraDB2 UDBMongoDBMySQLOraclePostgreSQLSAP HANASnowflakeSQL ServerSybaseTeradataMetadata & MDMMetadataMetadata ManagementMaster DataMDMQuality & SecurityServicesSort Replacementsbin/sortJCL SORTMicro Focus COBOLNaturalSASUniKixTest DataBenchmarkingComplianceDB Test DataDB SubsettingDevOpsTest Files/ReportsTest Data VirtualizationTDaaSProducts
+IRI Data Manager (Suite)IRI Data Protector (Suite)IRI Voracity (Platform)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI CoSort (Transformation)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesSortCL ProgramSortCL MetadataCOBOL ToolsSort PluginsAPIsIRI FACT (Extraction)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI NextForm (Migration)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI RowGen (Test Data)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI FieldShield (Masking)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI CellShield (Excel)CellShield Personal Edition (PE) Add-InCellShield (EE)IRI DarkShield (Dark Data)OverviewFeatures & BenefitsTechnical DetailsWhy It's BetterPlatforms & PricingResourcesIRI Workbench (GUI)OverviewData SourcesDiscover DataDesign & Run JobsEdit & Share ProjectsEclipse FacilitiesVoracity GUICoSort GUIFACT GUIFieldShield GUINextForm GUIRowGen GUIFree Trial, Demo, QuoteFeature MatrixFree TrialLive DemoQuote RequestContactCustomers
+IndustriesOverviewBFSICDI/eCommerceEnergyGovernmentHealthcareRetail/CPGTelco & CableTransportCase StudiesTestimonialsUser RolesBI Analyst & Data ScientistDBAOverviewCIO/IT ManagerETL/Solution ArchitectCompliance OfficerProgrammer & ISVLegacy ToolsUser GroupsSurveysData Masking QualifiersIT NeedsUser ReviewWebinarsPayment PortalServices
+Professional ServicesProduct TrainingIRI HQ TrainingOn-Site TrainingSelf-Directed LearningCertificationCertificationVoracity CertificationCoSort CertificationFACT CertificationNextForm CertificationFieldShield CertificationCellShield EE CertificationDarkShield CertificationRowGen CertificationTechnical SupportCompany
+About IRIDifferentiationHistoryLocationManagementMissionOutreachRecognitionCOVID-19 Policy & PrepHistory1970s1980s1990s2000s2010s2020sCareersAccount ManagerChannel ManagerMarketing ManagerSoftware DeveloperSupport EngineerInternshipsContact UsLegal NoticesCopyrightTrademarksDisclaimerCode of ConductPrivacy PolicyFAQsNews
+Big Data BootcampPress ReleasesNewslettersSupport
+Self-LearningSupport RequestLicense TransfersPartners
+Expert ConsultantsBig DataCloudDW/BIData MaskingLegacy MigrationTest DataIndustry AlliancesInternational ResellersEmbed Opportunities
+SolutionsBI & AnalyticsEmbedded BIBIRT IntegrationKNIME IntegrationSplunk IntegrationsCloud DashboardBI Tool AccelerationBig DataBig Data PackagingBig Data ProtectionBig Data ProvisioningStructured DataSemi & Unstructured DataWith/out HadoopUse CasesIoTBootcampBDaaSData GovernanceData MaskingData QualityTest DataForensicsRBACsStewardshipCOBITEnterprise Metadata ManagementMaster Data ManagementData IntegrationBuild New ETLSpeed Your ETLRe-Platform Your ETLSupercharge Your ETLFast & Easy IRI ETL ToolsETL & BeyondData MaskingAuditingCCPADLPFERPAGDPRHIPAAPCI DSSData Masking as a ServiceStatic Data MaskingDynamic Data MaskingTest DataData MigrationData Type ConversionFile Format ConversionDatabase MigrationData ReplicationData TransformationAggregateCross-CalculateCustom TransformsFormats/KeysLookupsMatch/JoinPivot/UnpivotRe-Map/ReformatScrub/CleanseSelect/FilterSort/MergeSubstringsType-ConvertDB OperationsCassandraDB2 UDBMongoDBMySQLOraclePostgreSQLSAP HANASnowflakeSQL ServerSybaseTeradataMetadata & MDMMetadataMetadata ManagementMaster DataMDMQuality & SecurityServicesSort Replacementsbin/sortJCL SORTMicro Focus COBOLNaturalSASUniKixTest DataBenchmarkingComplianceDB Test DataDB SubsettingDevOpsTest Files/ReportsTest Data VirtualizationTDaaSProductsIRI Data Manager (Suite)IRI Data Protector (Suite)IRI Voracity (Platform)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI CoSort (Transformation)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesSortCL ProgramSortCL MetadataCOBOL ToolsSort PluginsAPIsIRI FACT (Extraction)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI NextForm (Migration)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI RowGen (Test Data)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI FieldShield (Masking)OverviewFeaturesTechnical DetailsGUIPlatforms & PricingWhy It's BetterResourcesIRI CellShield (Excel)CellShield Personal Edition (PE) Add-InCellShield (EE)IRI DarkShield (Dark Data)OverviewFeatures & BenefitsTechnical DetailsWhy It's BetterPlatforms & PricingResourcesIRI Workbench (GUI)OverviewData SourcesDiscover DataDesign & Run JobsEdit & Share ProjectsEclipse FacilitiesVoracity GUICoSort GUIFACT GUIFieldShield GUINextForm GUIRowGen GUIFree Trial, Demo, QuoteFeature MatrixFree TrialLive DemoQuote RequestContactCustomersIndustriesOverviewBFSICDI/eCommerceEnergyGovernmentHealthcareRetail/CPGTelco & CableTransportCase StudiesTestimonialsUser RolesBI Analyst & Data ScientistDBAOverviewCIO/IT ManagerETL/Solution ArchitectCompliance OfficerProgrammer & ISVLegacy ToolsUser GroupsSurveysData Masking QualifiersIT NeedsUser ReviewWebinarsPayment PortalServicesProfessional ServicesProduct TrainingIRI HQ TrainingOn-Site TrainingSelf-Directed LearningCertificationCertificationVoracity CertificationCoSort CertificationFACT CertificationNextForm CertificationFieldShield CertificationCellShield EE CertificationDarkShield CertificationRowGen CertificationTechnical SupportCompanyAbout IRIDifferentiationHistoryLocationManagementMissionOutreachRecognitionCOVID-19 Policy & PrepHistory1970s1980s1990s2000s2010s2020sCareersAccount ManagerChannel ManagerMarketing ManagerSoftware DeveloperSupport EngineerInternshipsContact UsLegal NoticesCopyrightTrademarksDisclaimerCode of ConductPrivacy PolicyFAQsNewsBig Data BootcampPress ReleasesNewslettersSupportSelf-LearningSupport RequestLicense TransfersPartnersExpert ConsultantsBig DataCloudDW/BIData MaskingLegacy MigrationTest DataIndustry AlliancesInternational ResellersEmbed Opportunities
+Data Privacy Protection
+Apply Role-Based Access Controls to Data at Risk
+Next Steps
+Home
+»
+Solutions
+»
+Data Governance
+»
+Data Masking
+Quick Links +
++
+BI & Analytics
++
+Embedded BI
+Report Functions
+Format Options
+Change Data Capture
+CDI & Segmentation
+Clickstream Analytics
+Slowly Changing Dimensions
++
+BIRT Integration
+KNIME Integration
+Splunk Integrations
+Cloud Dashboard
++
+BI Tool Acceleration
+BIRT
+Business Objects
+Cognos
+Cubeware
+Datadog
+iDashboards
+Knime
+MicroStrategy
+OBIEE/DV
+Power BI
+QlikView
+R
+Splunk
+Spotfire
+Tableau
++
+Big Data
+Big Data Packaging
+Big Data Protection
+Big Data Provisioning
+Structured Data
+Semi & Unstructured Data
+With/out Hadoop
+Use Cases
+IoT
+Bootcamp
+BDaaS
++
+Data Governance
+Data Masking •
+Data Quality
+Test Data
+Forensics
+RBACs
+Stewardship
+COBIT
+Enterprise Metadata Management
+Master Data Management
+DGaaS
++
+Data Integration
+Build New ETL
+Speed Your ETL
+Re-Platform Your ETL
++
+Supercharge Your ETL
+DataStage
+ETI Solution
+Informatica
+OWB & ODI
+Pentaho
+Talend
+Others
++
+Fast & Easy IRI ETL Tools
+Discover
+Design
+Extend
+Deploy
+Support
+Flat-File ETL
+ELT
++
+ETL & Beyond
+Analytics
+Change Data Capture
+Data Quality
+Federation
+PII Masking
+MDM
+Migration
+Slowly Changing Dimensions
+iPaaS
++
+Data Masking
+Auditing
+CCPA
+DLP
+FERPA
+GDPR
++
+HIPAA
+Classify & Find PHI
+Encrypt, Obfuscate, More
+Risk Score
+Generalize
+Services
+PCI DSS
+Data Masking as a Service
++
+Static Data Masking
+Anonymize
+Custom
+Encode
++
+Encrypt
+Algorithms
+FPE
+Hashing
+Key Management
+Hash
+Pseudonymize
+Randomize
+Redact
+Scramble
+Shift
+Tokenize
+Dynamic Data Masking
+Test Data
++
+Data Migration
++
+Data Type Conversion
+Alphabetic
+Date/Time
+Multi-Byte
+Numeric
+Endianness
++
+File Format Conversion
+CLF/ELF
+CSV
+Excel
+JSON
+LDIF
+LS-RS-VS
+MF-ISAM
+MFVL
+Text
+VB
+Vision
+VSAM
+Free NextForm Lite
+XML
++
+Database Migration
+Data Replication
++
+Data Transformation
+Aggregate
+Cross-Calculate
+Custom Transforms
+Formats/Keys
+Lookups
+Match/Join
+Pivot/Unpivot
+Re-Map/Reformat
+Scrub/Cleanse
+Select/Filter
+Sort/Merge
+Substrings
+Type-Convert
++
+DB Operations
+DB2 UDB
+Cassandra
+Elasticsearch
+MongoDB
+MySQL
+Oracle
+PostgreSQL
+SAP HANA
+Snowflake
+SQL Server
+Sybase
+Teradata
++
+Metadata & MDM
+Metadata
+Metadata Management
+Master Data
+MDM
+Quality & Security
+Services
++
+Sort Replacements
+bin/sort
+JCL SORT
+Micro Focus COBOL
+Natural
+SAS
+UniKix
++
+Test Data
+Benchmarking
+Compliance
+DB Test Data
+DB Subsetting
+DevOps
+Test Files/Reports
+Test Data Virtualization
+TDaaS
+Overview
+Data Masking
+Data Quality
+Test Data
+Forensics
+RBAC
+Stewardship
+COBIT
+EMM
+MDM
+DGaaS
+Challenges
+Your organization manages personally identifiable information (PII). Your data governance efforts must prevent the kinds of data disasters posted at the
+Privacy Rights Clearinghouse. You must comply with industry and government data privacy rules.
+Since you cannot eliminate PII, you have to discover it, classify it, protect it, and verify that you protected it. Then you have to continue monitoring and addressing data risks going forward.
+At protection time, technology choices are difficult. Traditional encryption of entire databases, files, disks, or devices is inefficient (especially in volume), restricts access to non-sensitive data, and is subject to complete exposure from a single password breach. Many data masking methods are insecure, complex, expensive, or render the protected data unusable for testing.
+Moreover, with current methods you may not get:
+support for finding, extracting, classifying, or applying rules to data that meets PII criteria
+an audit trail detailing how you managed risk -- forcing a costly validation exercise
+a separation of encryption and key management (should either be compromised)
+the ability to simultaneously apply multiple protections to multiple data sources
+the ability to combine data protection with other data processing operations
+Solutions that provide encryption at the file, database field, and application level provide the highest level of security while allowing authorized individuals ready access to the information. Decentralized encryption and decryption provide higher performance and require less network bandwidth, increase availability by eliminating points of failure, and ensure superior protection by moving data around more frequently but securely.
+- Gary Palgon, Enterprise Systems Journal
+Solutions
+IRI Data Protector Suite 'shield' products like IRI FieldShield -- as their parent SortCL program in the IRI CoSort package and IRI Voracity platform -- support field-level data masking functions for data in tables and files. They protect PII, and:
+find and classify it so global masking rules can be applied later or at the same time
+consistently apply the data masking (replace, encrypt, pseudonymize, hash, etc.) function you choose for each class of data, preserving referential integrity
+maintain data realism with format-preserving encryption, pseudonymization, referential integrity, etc.
+save time, money, and inconvenience by not masking non-sensitive data
+strengthen security by supporting the application different functions to different data sources and elements
+improve efficiency by combining data protection with data transformation and reporting
+verify compliance with multiple data privacy laws with re-ID risk scoring and query-ready audit logs of protection jobs
+send compliant data to applications, reports, databases, the cloud, and BI / analytic targets
+implement data loss prevention (DLP) programs properly, and without undue complexity
+IRI CellShield software does the same for PII in Excel spreadsheets, and IRI DarkShield does it for PII hidden in unstructured text, documents, NoSQL DBs,and  image files.
+Non-Recoverable Functions
+Irreversible data masking options in IRI software include:
+redaction or omission
+anonymization (blur or bucket)
+randomization
+pseudonymization (via random pull)
+hashing or tokenization
+custom field functions
+deletion
+Recoverable Functions
+Reversible data masking options in IRI software include:
+encryption (decryption)
+bit scrambling (less secure)
+binary encoding / decoding
+pseudonymization (via restore set)
+expression / string logic
+Anonymous Test Data
+IRI RowGen uses the same metadata as FieldShield and Voracity to randomly generate or select realistic test data column-by-column. While synthesizing that data, RowGen can also uniquely transform and report from it at the same time!
+Use RowGen to create safe, referentially correct test data for databases and files without production data.
+Related Solutions
+Data Masking
+Data Masking > Static Data Masking
+Data Masking > Dynamic Data Masking
+Data Masking as as a Service
+Proving Compliance
+Test Data
+Other Resources
+Products > IRI Data Protector Suite
+Products > IRI RowGen
+Products > IRI Voracity
+Products > IRI Data Masking as a Service
+Blog > Data Masking Category
+FAQ > Data Privacy
+Request More Information
+Live Chat
+* indicates a required field.
+IRI does NOT share your information.
+Solutions
+BI & AnalyticsBig DataData GovernanceData IntegrationData MaskingData MigrationData TransformationDB OperationsMetadata & MDMSort ReplacementsTest Data
+Products
+IRI Data Manager (Suite)IRI Data Protector (Suite)IRI Voracity (Platform)IRI CoSort (Transformation)IRI FACT (Extraction)IRI NextForm (Migration)IRI RowGen (Test Data)IRI FieldShield (Masking)IRI CellShield (Excel)IRI DarkShield (Dark Data)IRI Workbench (GUI)Free Trial, Demo, Quote
+Customers
+IndustriesCase StudiesTestimonialsUser RolesLegacy ToolsUser GroupsSurveysWebinarsPayment Portal
+Services
+Professional ServicesProduct TrainingCertificationTechnical Support
+Company
+About IRICOVID-19 Policy & PrepHistoryCareersContact UsLegal NoticesFAQs
+News
+Big Data BootcampPress ReleasesNewsletters
+Support
+Self-LearningSupport RequestLicense Transfers
+Partners
+Expert ConsultantsIndustry AlliancesInternational ResellersEmbed Opportunities
+Copyright © 2020 Innovative Routines International (IRI), Inc.
+Legal
+Sitemap
+X
+Try
+Voracity
+Free
+Find, Cleanse, Mask, Audit, Test
+Get Info See Demo
+Live Chat
+More Info
+Newsletter
+Live Demo
+Free Trial
+Get Quote
+Get the IRI Newsletter
+See Previous Newsletters

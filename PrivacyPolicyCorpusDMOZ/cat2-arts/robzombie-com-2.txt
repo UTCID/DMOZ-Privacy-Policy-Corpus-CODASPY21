@@ -1,0 +1,273 @@
+https://robzombie.com/privacy-and-cookie-policy/
+Instagram
+Facebook
+Twitter
+YouTube
+ROB ZOMBIE
+Home
+LUNAR INJECTION
+SHOP
+OFFICIAL STORE
+Rob Zombie + Waxwork Records
+Rob Zombie + Killstar
+Rob Zombie + Zomboogey
+Rob Zombie + FRIGHTRAGS
+Buy The Zombie Horror Picture Book
+Rob Zombie + Trick Or Treat
+Rob Zombie + HalloweenTown
+News
+Discography
+Album Releases
+Single Releases
+The Zombie Horror Picture Show [2014]
+Filmography
+Movies
+Other Directing Projects
+TOUR DATES
+Mailing List
+Privacy and Cookie Policy
+You can review your Privacy Preferences at any time by clicking: Privacy Preferences
+Who we are
+https://robzombie.com (hereafter known as robzombie.com or the official Rob Zombie website, or referred to as We/Us/Our), is committed to safeguarding your privacy. Contact us at privacyrobzombie@gmail.com if you have any questions or problems regarding the use of your Personal Data and we will gladly assist you.
+We have made it easy for you to see the different elements that make up our Privacy Page. Click one of the links below to be taken directly to the relevant section on this page.
+Click to read What personal data we collect and why we collect it
+Click to find out about the use of Cookies on-site
+Click to find out about embedded content from other websites
+Click to find out about the use of analytics and it’s data on-site
+Click to find out see how we share our data with trusted and third-party partners
+Click to find out see how long we retain your data on-site
+Click to find out your rights over your data and how you can manage the data we hold at robzombie.com. Includes data we hold, deleting your data and correcting data
+Click to find out where your data may be sent
+Click to find out how to contact us if you have a privacy-specific concern
+Click to find out how robzombie.com attempts to keep your personal data safe
+Click to find out our policy on children’s (under 16) data
+Click to find out how to protect your children online data
+Click to read how we will follow the data protection principles
+Click to read about the Californian Consumer Protection Act and how it applies to robzombie.com
+We reserve the right to make changes to this policy. Click to find out when the page was last modified
+What personal data we collect and why we collect it
+Comments
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+robzombie.com includes features that allow you to post content/comments on posts and pages, and that interact with third parties, such as social media sites for sharing posts/pages. The use of this information is covered in this Privacy Policy. However the collection and use of data of the third party that operates these services, is governed by their Privacy Policies and not robzombie.com’s. To find out more, please visit this section of the robzombie.com Privacy Policy, to see the third party services provided and links to they own Privacy Policies
+We currently use the Disqus Comment Platform to power and moderate the comments on robzombie.com.
+We have included below, direct from the Disqus Privacy Policy, easy to follow instructions regarding deletion of account, targeted ads opt-out and opting out of Disqus’ promotional emails.
+Click to see how to manage your account and privacy at Disqus
+– YOUR ACCOUNT. All registered users may review, update or correct the Personally Identifiable Information provided in their registration or account profile by changing their “user preferences” in their account. To delete your account entirely, please follow these steps: https://help.disqus.com/commenting/deleting-your-account.
+– TARGETED ADS OPT-OUT. If you prefer to opt out of targeted advertising (also called interest based advertising) by Disqus, you may do so by clicking on the “opt-out page” link here: https://disqus.com/data-sharing-settings/.
+– OPTING OUT OF DISQUS PROMOTIONAL EMAILS. Opting Out of Our Promotional Emails. You may opt-out of receiving targeted and other marketing and promotional emails from us at any time by using the opt-out mechanism contained in such emails (also referred to as “unsubscribe”). You may also unsubscribe or manage your email subscription by clicking this link: https://help.disqus.com/user-profile/updating-your-disqus-settings#email-notifications
+To help protect the site against spam comments, we use the Akismet plugin from Automattic/Wordpress.
+Click here see the data used for Akismet's anti-spam plugin:
+We collect information about visitors who comment on Sites that use our Akismet anti-spam service. The information we collect depends on how the User sets up Akismet for the Site, but typically includes the commenter’s IP address, user agent, referrer, and Site URL (along with other information directly provided by the commenter such as their name, username, email address, and the comment itself).
+We also use Jetpack for a number of other features on the site/ Click the prompt below to see what features we are using from Jetpack, what data is being collected and how it affects you the user of the site.
+Click to see what data Jetpack and WordPress uses and tracks:
+Activity Log
+This feature only records activities of a site’s registered users, and the retention duration of activity data will depend on the site’s plan and activity type.
+Data Used: To deliver this functionality and record activities around site management, the following information is captured: user email address, user role, user login, user display name, WordPress.com and local user IDs, the activity to be recorded, the WordPress.com-connected site ID of the site on which the activity takes place, the site’s Jetpack version, and the timestamp of the activity. Some activities may also include the actor’s IP address (login attempts, for example) and user agent.
+Activity Tracked: Login attempts/actions, post and page update and publish actions, comment/pingback submission and management actions, plugin and theme management actions, widget updates, user management actions, and the modification of other various site settings and options. Retention duration of activity data depends on the site’s plan and activity type. See the complete list of currently-recorded activities (along with retention information).
+Data Synced (?): Successful and failed login attempts, which will include the actor’s IP address and user agent.
+Carousel
+Image views are only recorded if the site owner, has explicitly enabled image view stats tracking for this feature via the jetpack_enable_carousel_stats filter.
+Data Used: If image view tracking is enabled, the following information is used: IP address, WordPress.com user ID (if logged in), WordPress.com username (if logged in), user agent, visiting URL, referring URL, timestamp of event, browser language, country code.
+Activity Tracked: Image views.
+Contact Form
+Data Used: If Akismet is enabled on the site, the contact form submission data — IP address, user agent, name, email address, website, and message — is submitted to the Akismet service (also owned by Automattic) for the sole purpose of spam checking. The actual submission data is stored in the database of the site on which it was submitted and is emailed directly to the owner of the form (i.e. the site author who published the page on which the contact form resides). This email will include the submitter’s IP address, timestamp, name, email address, website, and message.
+Data Synced (?): Post and post meta data associated with a user’s contact form submission. If Akismet is enabled on the site, the IP address and user agent originally submitted with the comment are synced, as well, as they are stored in post meta.
+Jetpack Comments
+Data Used: Commenter’s name, email address, and site URL (if provided via the comment form), timestamp, and IP address. Additionally, a jetpack.wordpress.com IFrame receives the following data: WordPress.com blog ID attached to the site, ID of the post on which the comment is being submitted, commenter’s local user ID (if available), commenter’s local username (if available), commenter’s site URL (if available), MD5 hash of the commenter’s email address (if available), and the comment content. If Akismet (also owned by Automattic) is enabled on the site, the following information is sent to the service for the sole purpose of spam checking: commenter’s name, email address, site URL, IP address, and user agent.
+Activity Tracked: The comment author’s name, email address, and site URL (if provided during the comment submission) are stored in cookies. Learn more about these cookies.
+Data Synced (?): All data and metadata (see above) associated with comments. This includes the status of the comment and, if Akismet is enabled on the site, whether or not it was classified as spam by Akismet.
+Likes
+This feature is only accessible to users logged in to WordPress.com.
+Data Used: In order to process a post like action, the following information is used: IP address, WordPress.com user ID, WordPress.com username, WordPress.com-connected site ID (on which the post was liked), post ID (of the post that was liked), user agent, timestamp of event, browser language, country code.
+Activity Tracked: Post likes.
+Notifications
+This feature is only accessible to registered users of the site who are logged in to WordPress.com.
+Data Used: IP address, WordPress.com user ID, WordPress.com username, WordPress.com-connected site ID and URL, Jetpack version, user agent, visiting URL, referring URL, timestamp of event, browser language, country code. Some visitor-related information or activity may be sent to the site owner via this feature. This may include: email address, WordPress.com username, site URL, email address, comment content, follow actions, etc.
+Activity Tracked: Sending notifications (i.e. when we send a notification to a particular user), opening notifications (i.e. when a user opens a notification that they receive), performing an action from within the notification panel (e.g. liking a comment or marking a comment as spam), and clicking on any link from within the notification panel/interface.
+Protect
+Data Used: In order to check login activity and potentially block fraudulent attempts, the following information is used: attempting user’s IP address, attempting user’s email address/username (i.e. according to the value they were attempting to use during the login process), and all IP-related HTTP headers attached to the attempting user.
+Activity Tracked: Failed login attempts (these include IP address and user agent). We also set a cookie (jpp_math_pass) for 1 day to remember if/when a user has successfully completed a math captcha to prove that they’re a real human. Learn more about this cookie.
+Data Synced (?): Failed login attempts, which contain the user’s IP address, attempted username or email address, and user agent information.
+Search
+This feature is only available to sites on the Professional plan.
+Data Used: Any of the visitor-chosen search filters and query data in order to process a search request on the WordPress.com servers.
+Sharing
+Data Used: When sharing content via email (this option is only available if Akismet is active on the site), the following information is used: sharing party’s name and email address (if the user is logged in, this information will be pulled directly from their account), IP address (for spam checking), user agent (for spam checking), and email body/content. This content will be sent to Akismet (also owned by Automattic) so that a spam check can be performed. Additionally, if reCAPTCHA (by Google) is enabled by the site owner, the sharing party’s IP address will be shared with that service. You can find Google’s privacy policy here.
+SITE SUBSCRIPTION
+Data Used: To set up and process subscriptions, we use the subscriber’s email address, as well as the ID of the post or comment (depending on the specific subscription being processed).In the event of a new subscription being initiated, we also collect some basic server data, including all of the subscribing user’s HTTP request headers, the IP address from which the subscribing user is viewing the page, and the URI which was given in order to access the page (REQUEST_URI and DOCUMENT_URI). This server data used for the exclusive purpose of monitoring and preventing abuse and spam.
+Activity Tracked: Functionality cookies are set for a duration of 347 days to remember a visitor’s blog and post subscription choices if, in fact, they have an active subscription.
+Data Synced: None.
+WordPress.com Stats
+Data Used: IP address, WordPress.com user ID (if logged in), WordPress.com username (if logged in), user agent, visiting URL, referring URL, timestamp of event, browser language, country code. Important: The site owner does not have access to any of this information via this feature. For example, a site owner can see that a specific post has 285 views, but he/she cannot see which specific users/accounts viewed that post. Stats logs — containing visitor IP addresses and WordPress.com usernames (if available) — are retained by Automattic for 28 days and are used for the sole purpose of powering this feature.
+Activity Tracked: Post and page views, video plays (if videos are hosted by WordPress.com), outbound link clicks, referring URLs and search engine terms, and country. When this module is enabled, Jetpack also tracks performance on each page load that includes the Javascript file used for tracking stats. This is exclusively for aggregate performance tracking across Jetpack sites in order to make sure that our plugin and code is not causing performance issues. This includes the tracking of page load times and resource loading duration (image files, Javascript files, CSS files, etc.). The site owner has the ability to force this feature to honor DNT settings of visitors. By default, DNT is currently not honored.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+Media
+If you upload images to the website via our Photo page, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+Click to see how the Privacy Policy for the WP Photo Album Plus (WPPA) plugin that powers our photo page:
+When you leave a comment on a photo or other media item on this site, we send your name, email address, IP address and comment text to the server for WPPA. When you enter a rating on a photo or other media item on this site, we send your (login)name or IP address and your rating to the server. When you upload a photo or other media item on this site, we send your name to the server. If the photo contains GPX location data, this data will be saved on the server.
+Site caching:
+(Powered by: Hummingbird Plugin)
+Hummingbird uses the Stackpath Content Delivery Network (CDN). Stackpath may store web log information of site visitors, including IPs, UA, referrer, Location and ISP info of site visitors for 7 days. Files and images served by the CDN may be stored and served from countries other than your own. Stackpath’s privacy policy can be found here.
+Cookies
+We use cookies and/or similar technologies to analyse customer behaviour, administer the website, track users’ movements, and to collect information about users. This is done in order to personalise and enhance your experience with us.
+A cookie is a tiny text file stored on your computer. Cookies store information that is used to help make sites work. Only we can access the cookies created by our website. You can control your cookies at the browser level. Choosing to disable cookies may hinder your use of certain functions.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+Click to see a full list of the cookies running on robzombie.com
+This website uses cookies. We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Cookies are small text files that can be used by websites to make a user’s experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+Your consent applies to the following domains: robzombie.com
+Click here to find out how to see what data we retain, how to request an amendment and how to delete your data/account.
+Cookies scan provided by Cookiebot (privacy policy).
+compliancetest-robzombie.com-783903
+We do not use cookies to:
+Collect any personally identifiable information without your express permission.
+We do not collect sensitive data except that given with express permission.
+We do not pass on personally identifiable data to third parties.
+We do not sell data to third parties in order for marketing or otherwise.
+(We do occasionally share your name and email address to Cuilla Management, who are the artist management team for Rob Zombie. This is in relation to enquiries about tour dates, contests, crowd funding queries. This information is not shared elsewhere and is for legitimate business purposes.)
+How to control cookies on your browser:
+You can control some 3rd party cookies by using a privacy enhancement platform such as optout.aboutads.info or youronlinechoices.com. For more information about cookies, visit allaboutcookies.org.
+Alternatively, you can control cookies via your browser – remember that if you turn off cookies in your browser then these settings apply to all websites not just robzombie.com.
+Click to see how to control cookies via your browser
+Internet Explorer: http://support.microsoft.com/kb/278835 (this page links to further information for different versions of IE – the mobile version is at http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx).
+Chrome: http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647
+Safari: http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html (or http://support.apple.com/kb/HT1677 for mobile versions)
+Firefox: http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies
+Blackberries: http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp
+Android: http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022
+Opera: http://www.opera.com/browser/tutorials/security/privacy/
+Embedded content from other websites
+News posts and information pages on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+Analytics
+At robzombie.com, we use the Jetpack (WordPress/Automattic) plugin to fully power our analytics. You can find out about the Privacy Policy for Automattic products here: https://automattic.com/privacy-notice/
+Click here see a full list of the data used for analytics data collection:
+IP address, WordPress.com user ID (if logged in), WordPress.com username (if logged in), user agent, visiting URL, referring URL, timestamp of event, browser language, country code. Important: robzombie.com does not have access to any of this information via this feature. For example, site administrators can see that a specific post has 285 views, but site administrators cannot see which specific users/accounts viewed that post. Stats logs — containing visitor IP addresses and WordPress.com usernames (if available) — are retained by Automattic for 28 days and are used for the sole purpose of powering this feature.
+Who we share your data with
+We do not share your Personal Data with strangers. Personal Data about you is in some cases provided to our trusted partners in order to either make providing the service to you possible or to enhance your customer experience. Click the accordion boxes below to see lists of our partners and links to their privacy policies.
+Click to see our Processing Partners
+Defiant, Inc. (Wordfence Security): Processing Agreement
+Click to see our business partners
+Nuclear Blast Records Privacy Policy
+UME: Universal Music Enterprises Privacy Policy
+– UME provide the newsletter sign-up and deal with the data that is provided by signees to the mailing-list. This list is used to send you information on Rob Zombie and if you have ticked the particular check box, then other artists on UME’s list. The official Rob Zombie website does not have access to these files. If you have questions, comments and requests regarding UME’s privacy policy, please contact them via their “Privacy Office Inquiry Form”: http://privacypolicy.umusic.com/email/default.aspx
+Live Nation: Privacy Policy
+– LIVE NATION, uses a pixel on the site that “is used to remarket to the audiences collected from the site, to serve tour specific ads during the campaign flight of the tour”.
+Global Merch Services (Sparkart Group, Inc.): Privacy Policy
+– Our shop.robzombie.com store providers for US based purchases. The official Rob Zombie website does not hold or have access to the data that the store holds on customers. If you have questions regarding their privacy policy, and the details they hold on you, please contact them here: support@sparkart.com
+Backstreet International Merchandise Limited: Privacy Policy
+– Our https://rob-zombie.backstreetmerch.com/ store providers for purchases outside of the US. The official Rob Zombie website does not hold or have access to the data that the store holds on customers. If you have questions regarding their privacy policy, and the details they hold on you, please contact them here: customer_relations@bsimerch.com
+Click to see connected third parties
+Our site, like most websites, includes functionality provided by third parties. A common example is an embedded YouTube video. Our site includes the following which use cookies:
+smartURL (powers some of the links on movie, music pages and some news posts, especially when directing users to purchase items such as CD’s/DVD’s. It allows users to be taken to the country destination of the store they are going to. It also allows us to track how people are using the links, what devices, countries etc.): privacy policy: https://manage.smarturl.it/privacy
+BANDSINTOWN tour management for tour page:
+– Privacy Policy:http://corp.bandsintown.com/privacy
+– Un-tracking artists:https://bandsintown.desk.com/customer/en/portal/articles/1272587-un-tracking-artists
+– Delete Account:https://bandsintown.desk.com/customer/en/portal/articles/2924597-how-to-delete-my-account
+YOUTUBE video player cookie policy: http://www.google.com/intl/en/policies/privacy/faq/#toc-cookies(Google’s standard terms).
+FACEBOOK’S data use policy; http://www.facebook.com/about/privacy/your-info-on-other (we use Facebook for the comments and likes on the site)
+TWITTER’S privacy policy; https://twitter.com/privacy
+MAILCHIMP’S privacy policy; http://mailchimp.com/legal/privacy/ (for Newsletter subscribers)
+DISQUS’ privacy policy; https://help.disqus.com/terms-and-policies/disqus-privacy-policy (we use Disqus for our comment system on News articles and pages such as Movies, Music and Tour Dates.)
+We have included below, direct from the Disqus Privacy Policy, easy to follow instructions regarding deletion of account, targeted ads opt-out and Opting out of Disqus’ promotional emails.
+– YOUR ACCOUNT. All registered users may review, update or correct the Personally Identifiable Information provided in their registration or account profile by changing their “user preferences” in their account. To delete your account entirely, please follow these steps: https://help.disqus.com/commenting/deleting-your-account.
+– TARGETED ADS OPT-OUT. If you prefer to opt out of targeted advertising (also called interest based advertising) by Disqus, you may do so by clicking on the “opt-out page” link here: https://disqus.com/data-sharing-settings/.
+– OPTING OUT OF DISQUS PROMOTIONAL EMAILS. Opting Out of Our Promotional Emails. You may opt-out of receiving targeted and other marketing and promotional emails from us at any time by using the opt-out mechanism contained in such emails (also referred to as “unsubscribe”). You may also unsubscribe or manage your email subscription by clicking this link: https://help.disqus.com/user-profile/updating-your-disqus-settings#email-notifications
+JETPACK cookie policy: https://jetpack.com/support/cookies/ (we use Jetpack to power a number of functionalities on the site including social media share buttons etc)
+Vimeo privacy policy: https://vimeo.com/privacy
+Soundcloud privacy policy: https://soundcloud.com/pages/privacy/05-2018
+Instagram data policy: https://help.instagram.com/519522125107875?helpref=page_content
+Spotify privacy policy: https://www.spotify.com/us/legal/privacy-policy-update/
+Deezer personal data, privacy and cookies: https://www.deezer.com/legal/personal-datas
+Hummingbird Cache Plugin: Hummingbird uses the Stackpath Content Delivery Network (CDN). Stackpath may store web log information of site visitors, including IPs, UA, referrer, Location and ISP info of site visitors for 7 days. Files and images served by the CDN may be stored and served from countries other than your own. Stackpath’s privacy policy can be found here.
+How long we retain your data
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+For users that register on our website, we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+What rights you have over your data
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+Click here to see the rights of the Data Subject (person whose Personal Data is being Processed)
+Right to information – meaning you have to right to know whether your Personal Data is being processed; what data is gathered, from where it is obtained and why and by whom it is processed.
+Right to access – meaning you have the right to access the data collected from/about you. This includes your right to request and obtain a copy of your Personal Data gathered.
+Right to rectification – meaning you have the right to request rectification or erasure of your Personal Data that is inaccurate or incomplete.
+Right to erasure – meaning in certain circumstances you can request for your Personal Data to be erased from our records.
+Right to restrict processing – meaning where certain conditions apply, you have the right to restrict the Processing of your Personal Data.
+Right to object to processing – meaning in certain cases you have the right to object to Processing of your Personal Data, for example in the case of direct marketing.
+Right to object to automated Processing – meaning you have the right to object to automated Processing, including profiling; and not to be subject to a decision based solely on automated Processing. This right you can exercise whenever there is an outcome of the profiling that produces legal effects concerning or significantly affecting you.
+Right to data portability – you have the right to obtain your Personal Data in a machine-readable format or if it is feasible, as a direct transfer from one Processor to another.
+Right to lodge a complaint – in the event that we refuse your request under the Rights of Access, we will provide you with a reason as to why. If you are not satisfied with the way your request has been handled please contact us.
+Right for the help of supervisory authority – meaning you have the right for the help of a supervisory authority and the right for other legal remedies such as claiming damages.
+Right to withdraw consent – you have the right withdraw any given consent for Processing of your Personal Data.
+You can see the ways you can request the data we hold on you and how to get that data deleted below:
+To request deletion of your account:
+To request the data we have on you:
+To request rectification of the data we have on you:
+Where we send your data
+Visitor comments are checked through an automated spam detection service called Akismet (An Automattic/Wordpress company).
+The following information is sent to the service for the sole purpose of spam checking:
+commenter’s name
+email address
+site URL, IP address
+user agent.
+robzombie.com will share a yearly summary of analytics data with the artist and management team but this does not include IP addresses, user names, email addresses etc. It is simply a way for interested parties to see the daily, monthly, yearly, interaction with the site.
+Contact information
+If you have a privacy-specific concern, please contact the site administrator at privacyrobzombie@gmail.com. Additionally you can use the data tools as provided here: Click to find out your rights over your data and how you can manage the data we hold at robzombie.com. Includes data we hold, deleting your data and correcting data
+Site administrators do not share this information to any third parties. We only share it with our specific interested partners, IE: the artist, artists management, trusted third parties such as Universal Music Group, etc.
+Click here to see GMail's own privacy policy regarding email accounts.
+Data that we process when you use Google:
+When you set up a Google account, we store information you give us like your name, email address and telephone number.
+When you use Google services to do things such as write a message in Gmail or comment on a YouTube video, we store the information that you create.
+When you search for a restaurant on Google Maps or watch a video on YouTube, for example, we process information about that activity – including information such as the video that you watched, device IDs, IP addresses, cookie data and location.
+We also process the kind of information described above when you use apps or sites that use Google services such as ads, Analytics and the YouTube video player.
+Why we process it:
+We process this data for the purposes described in our policy, including to:
+Help our services deliver more useful, customised content such as more relevant search results;
+Improve the quality of our services and develop new ones;
+Deliver personalised ads, both on Google services and on sites and apps that partner with Google;
+Improve security by protecting against fraud and abuse; and
+Conduct analytics and measurement to understand how our services are used.
+Combining data
+We also combine data among our services and across your devices for these purposes. For example, we show you ads based on information from your use of Search and Gmail, and we use data from trillions of search queries to build spell-correction models that we use across all of our services.
+You’re in control:
+Depending on your account settings, some of this data may be associated with your Google Account and we treat this data as personal information. You can always adjust your controls later or withdraw your consent for the future by visiting My Account.
+How we secure your data
+We do our best to keep your Personal Data safe.  We use safe protocols for communication and transferring data (such as HTTPS). We use anonymising and pseudonymising where suitable. We monitor our systems for possible vulnerabilities and attacks. We do this with daily scans to detect malware, malicious content and any brute-force attack attempts. We also use robust firewalls that are set-up to inform the site administrators of any breaches/attempted breaches to the site and data contained.
+Even though we try our best we can not guarantee the security of information. However, we promise to notify suitable authorities of data breaches. We will also notify you if there is a threat to your rights or interests. We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur.
+If you have an account with us, note that you have to keep your username and password secret.
+Click here to see the data collected to secure the site from fraudulent attempts:
+In order to check login activity and potentially block fraudulent attempts, the following information is used: attempting user’s IP address, attempting user’s email address/username (i.e. according to the value they were attempting to use during the login process), and all IP-related HTTP headers attached to the attempting user.
+Our policy regarding children’s data
+We do not intend to collect or knowingly collect information from children (person(s) under 13 years of age). We do not target children with our services.
+Protecting your children online
+Visit OnGuardOnline.gov for social networking safety tips for parents and youth.
+Data Protection Principles
+We promise to follow the following data protection principles:
+Click to see our data protection principles:
+Processing is lawful, fair, transparent. Our Processing activities have lawful grounds. We always consider your rights before Processing Personal Data. We will provide you information regarding Processing upon request.
+Processing is limited to the purpose. Our Processing activities fit the purpose for which Personal Data was gathered.
+Processing is done with minimal data. We only gather and Process the minimal amount of Personal Data required for any purpose.
+Processing is limited with a time period. We will not store your personal data for longer than needed.
+We will do our best to ensure the accuracy of data.
+We will do our best to ensure the integrity and confidentiality of data.
+Californian Consumer Protection Act and how it applies to robzombie.com
+robzombie.com will not sell your personal information – this includes not selling personal information related to children under 16 years of age.
+To find out how to access our partners policies in regards to the CCPA click to find out see how we share our data with trusted and third-party partners. This includes Universal Music, Nuclear Blast Records and the official Rob Zombie online shops.
+Changes to this Privacy Policy
+We reserve the right to make changes to this Privacy Policy.
+Last modification was made January, 2020, 17:10 GMT.
+Share this:FacebookTwitterTumblrWhatsAppEmailPrintMorePinterestLinkedInRedditPocketTelegramSkype
+©
+Rob Zombie: Rob Zombie is managed by Ciulla Management | Site Designed and Manipulated by 1976Designs | Main Background includes photo by Rob Fenn | Uses Music Lite Frame by Organic Themes.
+Important Site Info: Cookie Policy | Privacy Policy |
+Data Tools | CCPA Policy (Do Not Sell My Data) | Terms and Condition's | Links | Visit OnGuardOnline.gov for social networking safety tips for parents and youth.
+We use cookies to improve user experience, personalization and analyze website traffic. Find out how we use and protect your data. Change your cookie settings at any time.
+Strictly Necessary
+Preferences
+Statistics
+Marketing
+Privacy Preferences
+I Agree
+Send to Email Address

@@ -1,0 +1,135 @@
+https://www.pulsesecure.net/products/pulse-policy-secure-nac/
+Pulse Policy Secure
+Complete Endpoint Visibility and
+Zero Trust Network Access Control
+Endpoint Proliferation and Mobility Complicates Compliance and Increases Risk
+Device proliferation driven by BYOD and IoT increase the attack surface. Devices on the network need to be validated, controlled and monitored to minimize risk.
+End-to-end Visibility and Profiling
+Know what’s on your network with contextual knowledge about users and devices (who, what, where, when). This avoids compliance breaches because devices with obsolete OS (e.g. Windows XP, Windows 7) are on the network. You can’t protect what you can’t see.
+Access Control
+Segmentation and least privilege access enforcement is essential for compliance. Devices that manage critical data (such as PII, financial data) must never be on the same network as a regular workstation. Automated network provisioning and segmentation ensures continuous PCI-DSS or HIPAA compliance.
+Security Posture Check
+PPS ensures all endpoints (remote, local, IoT) are profiled and comply with security policies. Shadow IT or social media apps expose devices and data to resources outside of an organization’s corporate policies. NAC can limit access for non-compliant endpoints and remediate the issue.
+Guest Management
+Manage guests through customizable, sponsored, easy to administer self-service captive portal.
+Bidirectional Integration
+Integration with security solutions such as SIEMs and NGFWs enable a NAC to make threat alerts actionable on the endpoint level; breaking down the security silos of such security products.
+Uniform Policy Enforcement for All Endpoints
+Full network visibility and behavioral analytics: Discover, profile and monitor managed and unmanaged devices and users on the network spanning VPN, wired and wireless connectivity.
+Integrated Host Checker for remote and on-premise: The Host Checker functionality is shared between Pulse Connect Secure VPN and Pulse Policy Secure. Policies are enforced the same, no matter if the user is remote or local.
+Unified Client: PPS and PCS share the same client, but PPS also provides agentless flexibility and support for unmanaged devices such as BYOD and IoT.
+Open, standards-based platform: PPS integrates with leading solutions for authentication, wired, wireless, SIEM and NGFW using open standards (such as IF-MAP and REST API) to support heterogeneous networks.
+Scale: Pulse Policy Secure supports organizations from 50 to 350,000 endpoints.
+Architecture
+Remote or local endpoint policy enforcement
+PPS integrates with PCS/VPN to enforce endpoint security posture with Host Checker functionality
+Seamless roaming from VPN to on-premise
+Dynamic access control on access network and firewalls
+Feature Highlights
+Network Visibility
+Automatically detect, classify, profile and monitor managed, IoT and rogue network devices and their security state
+Endpoint Compliance
+Endpoint security posture assessment; pre and post connection – 802.1x or non-802.1x
+Guest Management
+Automated, sponsored and time-based guest access
+Policy Management
+Centralized, granular access policies – wizard editor, adaptive AUTH, RBAC, segmentation
+BYOD/Mobility
+Automated onboarding, 3rd party EMM support and Pulse MDM
+Behavioral Analytics
+UEBA to detect IoT rogue devices, DGA attacks, MAC spoofing
+Overview
+Key Features
+Customer Stories
+Technical Specs
+Benefits
+NAC Architecture
+Real-time network visibility and enforcement to enable Zero Trust access.
+Pulse Secure Profiler: Dynamically identify and classify managed and endpoint and IoT devices.
+Pulse Policy Secure (NAC): Enable guest, BYOD and IoT access provisioning, enforce endpoint compliance, and automate threat response.
+Pulse Client: Real-time device OS, application, configuration and security posture checking for policy-based access control and remediation. The Client supports agent and agentless operation and supports Pulse NAC and VPN solutions.
+Simple. Intuitive. Useful.
+NAC Capabilities for Zero Trust Networks
+Onboard RADIUS/802.1x support: High-performance RADIUS system provides authentication of devices and users attempting to connect to wired and wireless LANs so that only authorized connections are allowed.
+Session Federation: Federation of user sessions between Pulse Connect Secure and the Pulse Policy Secure enables seamless provisioning of remote access user sessions into LAN access user sessions upon login, or alternatively LAN access user sessions into remote access user sessions at login.
+UEBA Analytics: Correlation of user access, device data, and system logs in a new analytics engine.
+On-box Pulse Secure Profiler: Collect endpoint device profiling information and maintain dynamic, contextual inventory of networked devices including loT devices.
+Automated patch assessment checks and remediation: Can tie access directly to the presence or absence of specific hot fixes for defined operating systems and applications, and performs role-based, predefined patch management checks according to the severity level of vulnerabilities.
+Identity-based admission control: Combines identity-aware capabilities of Pulse Policy Secure with the robust networking and security services of Fortinet, Palo Alto Networks, Checkpoint, and Juniper SRX Series Firewalls, enabling each to be employed as policy enforcement points.
+Automated Threat Response: Leverages next-generation firewall’s intelligence driven threat detection to take automated actions by Pulse Policy Secure at the device and user level. PPS policy engine and rich contextual information allows it to take different actions based on threat severity and mitigate security risk further.
+Captive portal: Provides network access control for guests and contractors.
+Self-service Guest access support: Enhances and simplifies an organization’s ability to provide secure, differentiated guest user access to its network and resources.
+Wizard-based configuration: Aides administrators in navigating and familiarizing themselves with configuration tasks in Pulse Policy Secure admin UI.
+Granular auditing and logging: Provide auditing and logging capabilities delivered in a clear, easy to understand format.
+Centralized policy management: Saves administrative time and cost and a superior user experience by delivering common remote and local access control policy implementation and enforcement across a distributed enterprise.
+Fortune 100 Global Professional Services Company
+Aligned access security infrastructure with their service-based business, delivered best possible user experience to their global workforce, simplified by standardizing on ‘Lego-block’ solutions and their cloud-first approach.
+Fortune 500 Bank
+Addressed PCI-DSS requirements, satisfied 802.1x enforcement requirement, leveraged existing infrastructure to deliver contextual security data that decreased security alerts and improved incident-response times.
+A Canadian Power Company
+Protect & secure power delivery to 58,000+ Ontario customers, flexible but active access control to applications & resources, NAC solution that works with existing infrastructure.
+SPEC
+DESCRIPTION
+Integrated Profiler
+Endpoint visibility into on-premise and remote connection via PCS. Collect endpoint device profiling information and maintain dynamic, contextual inventory of networked devices
+Role-Based Application Enforcement
+Enables access control and security policies to be applied to applications and users
+Wizard Based Configuration
+Aids administrators to navigate themselves with configuration tasks from the PPS admin user-interface
+Session Federation
+Enables location awareness and session migration capabilities in Pulse Secure Solution
+Identity-enabled firewall support
+Integrates identity-aware capabilities of Pulse Policy Secure with next-generation firewalls Checkpoint, Palo Alto Networks, Fortinet, and Juniper SRX
+Mobile Device Management Integration
+Reduces complexity and increases policy intelligence to simplify and secure BYOD efforts for both IT and end-users
+Support for RADIUS and TACACS+
+Network device administration for central management and secure network devices.
+Guest Access Support
+Simplifies ability to provide secure guest user access to its network resources
+Centralized Policy Management
+Central management server where policy, monitoring, and reporting are administered
+Auditing and Logging
+Auditing and Logging	Addresses regulatory compliance and audit demands through logging of user activity
+UEBA Analytics
+Correlation of user access, device data, and system logs and normalization of device behavior
+Benefits of NAC
+Know the who, what and where about devices are on your network and be empowered to take action.
+Gain real-time visibility, understand your security posture and mitigate endpoint security, unauthorized access and data leakage risks.
+Zero Trust Networking: Authorize user and device connectivity by enforcing authentication and control before and during network access.
+Guest Management: Give site visitors and service technicians limited network access without impact on IT.
+BYOD: Enable personal device use.
+Visibility: Real-time discovery, profiling and monitoring of network devices.
+Inventory: Classify, inspect and capture network device and configuration.
+IoT Security: Provision, sanction, segregate and monitor IoT devices.
+Fast Onboarding: Automate device provisioning without IT intervention.
+Compliance: Monitor and enforce endpoint security policies before network access.
+Analytics: Correlation of user, device, and log data to detect IoT anomalies.
+Remediation: Identify endpoint management and security enable automated or self-serve remediation.
+Expedited Threat Response: leverage network and security infrastructure to share NAC intelligence or trigger network enforcement.
+Analytics: Correlate user, device, and log data to understand security posture and detect anomalies.
+Auditing: Report and log user, device and access activity and incidents.
+Product Resources
+DATASHEET
+Pulse Policy Secure NAC Overview
+DOWNLOAD
+SOLUTION BRIEF
+Integrated Threat Defense with PPS
+DOWNLOAD
+SOLUTION BRIEF
+IIoT Security with Nozomi Networks
+DOWNLOAD
+Recognition
+Frost & Sullivan
+“With growing attacks, BYOD and data privacy issues, enterprises must get a handle on users, endpoints and IoT devices accessing their network resources. Pulse Secure is distinguished by offering the benefits of both pure-play and infrastructure NAC providers. Unlike infrastructure NAC, Pulse Secure is integrated and works with popular switches, wireless, and security infrastructure to facilitate deployment and threat response. Unlike pure-play NAC offerings, Pulse Secure offers VPN and NAC solutions that amalgamate mobile, cloud and network oversight. The combination delivers enterprise value for user, endpoint and IoT visibility, as well as threat response.”
+- Tony Massimini, Senior Industry Analyst, Frost & Sullivan
+LEARN MORE
+Entegrus
+“Entegrus has a long-standing relationship with Pulse Secure. The level of integration between the SSL and NAC and the extended feature set made it a straightforward choice for us.”
+- Dave Cullen, Manager of Information Systems, Entegrus
+American University
+"What I've been most impressed with is that it was able to scale up sixfold and still maintain a usable user experience and throughput. Man, I'm impressed!"
+- Eric Weakland, Director of Information Security, American University
+Read the case study here
+Watch Video
+Free Trial
+Demo

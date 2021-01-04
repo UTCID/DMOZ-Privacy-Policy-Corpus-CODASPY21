@@ -1,0 +1,198 @@
+http://www.id-enhancements.com/glossary-of-terms/
+plus
+lock
+Authentication
+Proving your identity. To be able to access a website or resource, you must provide authentication via a password or some combination of tokens, biometrics, and passwords.
+Authorization
+The act of granting approval. Authorization to resources or information within an application can be based on simple or complex access control methods.
+CA
+See “Certification Authority“
+CA Policy Management
+Control over CA properties such as whether the CA key is stored on hardware, the algorithm used to encrypt the CA signing key, and how often the CA updates its list of users whose certificates have been revoked.
+CA Signing Key Pair
+This consists of one key that the CA uses to sign digital certificates. This key is known as the signing private key. When accessing encrypted or signed information, the trustworthiness of this information is validated, in part, by using the CA’s public key to authenticate the CA’s signature.
+Certificate
+A digital “passport”. A certificate is a secure electronic identity conforming to the X.509 standard. Certificates typically contain a user’s name and public key. A CA authorizes certificates by signing the contents using its CA signing private key.
+Decrypt
+To decrypt a protected file is to restore it to its original, unprotected state.
+Digital ID
+An encrypted file containing your personal security data, including your private keys. Access to your digital ID requires authentication via some combination of tokens, biometrics and/or passwords.
+Digital Signature
+A digital signature is like a paper signature, except that it is fully electronic. A digital signature is impossible to forge, making it more secure than a paper signature. A digital signature provides verification to a recipient that the signed file came from the person who sent it, and that it was not altered since it was signed.
+Directory
+A directory is a software program that stores information (much like a database).
+Dual Key Pairs
+A combination of the user’s encryption and signing key pairs. Two key pairs are required to satisfy the requirements for non-repudiation and key backup and recovery.
+Encryption
+To encrypt a file is to apply a mathematical function that transforms every character in the file into some other character. Encryption renders the file unreadable. This means no one, including you, can read the file until it is decrypted. Only you and the authorized recipients can decrypt the file.
+Encryption Key Pair
+This consists of the encryption public key and decryption private key. The public key portion of an encryption key pair is used to encrypt data which can be decrypted by the matching decryption private key.
+FIPS 140-1
+A federal government standard by which security products are measured.
+Fraud Detection
+Fraud detection refers to security solutions that analyze patterns of behavior. Specific high-risk transactions can be identified according to predefined business procedures and flagged for closer evaluation, and advanced fraud detection solutions can evaluate patterns of transactions as well.
+Identification
+This is the concept of knowing exactly who you are dealing with in the electronic world.
+Key and Certificate Management
+Refers to generating keys for encryption and signing, storing the keys in certificates, and administering keys securely and transparently, so that they are provided to users where and when they are needed. Included in key and certificate management is key update. Keys should have limited lifetimes and be updated regularly in a secure, transparent manner.
+Key Backup and Recovery
+Key backup is the process of maintaining the user’s decryption keys. Key recovery is the process of restoring the decryption keys. All organizations require decryption key backup and recovery capabilities to prevent data loss when users forget their password or lose their digital ID.
+Key History
+The collection of decryption keys belonging to a user.
+Key Lifetime
+The length of time a key is valid. All keys have a specific lifetime except the decryption private key, which never expires. An organization needs a policy regarding key lifetimes. This policy should consider when keys will no longer be needed as well as the risks and threats of private key disclosure due to brute force attacks.
+Key Update
+Key update involves creating a new key pair and generating a corresponding public key certificate.
+Multifactor Authentication
+A term used to define security solutions that leverage two or more authenticators to verify the identity of users or machines. Employing this method, organizations can often “step up” authentication when the sensitivity of the information being accessed increases. Sometimes referred to as two-factor authentication. Examples of authenticators includes grid cards, one-time-passcode hardware tokens, IP-geolocation, machine authentication, biometrics, questions and answers and out-of-band one-time passwords, among others.
+Off-line Logon
+Allows users to function normally while not connected to the network, thereby maintaining user productivity and security.
+Privacy
+Privacy entails keeping data confidential while in transit and in storage from end to end of the transaction lifecycle or information exchange. It also constitutes the policy surrounding the use and disclosure of this information within the enterprise.
+Private Key
+The portion of a key pair that is kept secret by the owner of the key pair. Private keys sign or decrypt data.
+Public Key
+The portion of a key pair that is available publicly.
+Public Key Infrastructure (PKI)
+A system that provides the basis for establishing and maintaining a trustworthy networking environment through the generation and distribution of keys and certificates. This is also the foundation technology for providing enhanced Internet security.
+RA Policy Management
+Flexible control over RA operator permissions such as what operations may be performed and which users may perform them on a per-RA administrator basis.
+Registration Authority (RA)
+Refers to the people, processes, and tools used to support the registration ongoing administration of users.
+Revocation System Networking
+Certificates can be revoked, and applications can automatically check the revocation status of certificates.
+Risk Based Authentication
+Risk Based Authentication is the ability to identify risk using transaction monitoring and react in real time using open multifactor authentication. This common-sense approach to consumer authentication can allow an organization to apply the appropriate level of authentication based on the transaction risk assessment identified by the fraud detection solution.
+Roaming
+A method of allowing users to access security services via their Digital ID without being constrained to a specific PC, device, or location.
+Secure Sockets Layer (SSL)
+A secure session protocol used to maintain data confidentiality only between Web browsers and Web servers. This is a fundamental component of basic Internet security.
+Security Management
+The act of effectively and efficiently managing identification, entitlements, verification, and privacy such that there is less burden of administration for end users and administrators regardless of application or platform.
+Signing Key Pair
+Consists of a privately held key for signing data and a key distributed publicly so others can verify the signature.
+Simple Public Key Mechanism (SPKM)
+A secure session protocol specified by IETF RFC 2025.
+Symmetric Key
+One key that can be used to encrypt and decrypt the same data. Symmetric key encryption is different from public key encryption, which relies on one key held privately (for signing or decryption) and a second key distributed to the public (for signature verification or encryption).
+Verification
+The act of providing an auditable record of a transaction. This can be in the form of a digital signature. This binds each party to a transaction such that they cannot repudiate participating in it.
+Zero-footprint
+This term describes software that does not require any client software to be installed or configured on a users’ systems.
+Shop
+Proximity Credentials
+RapidPROX for HID 125kHz
+HID 125kHz Technology
+AWID 125kHz Technology
+Kantech 125kHz Technology
+AlarmLock
+Allegion 125kHz Technology
+Amano Credentials
+Cansec Credentials
+Casi / GE / Interlogix
+EM 4100 & 4200 Products
+FarPointe Credentials
+Honeywell Products
+IDTeck / Doorking
+IEI / Linear Credentials
+Indala 125kHz Technology
+KERI 125kHz Technology
+Keyscan 125kHz Technology
+Rosslare Credentials
+Secura Key Credentials
+Stanley Security & Bosch
+Higher Frequency Products (iCLASS, MIFARE, UHF)
+AWID 902-928 MHz UHF
+Farpointe 13.56MHz
+Farpointe Transmitters/Remotes
+HID UHF Credentials
+Honeywell OmniClass
+iCLASS Credentials
+IDTECK HF Products
+Kantech 13.56MHz Credentials
+Kantech Transmitters/Remotes
+Keri Transmitters/Remotes
+Keyscan Transmitters/Remotes
+MIFARE
+MIFARE DESFire
+NTAG 13.56MHz
+High Frequency Accessories
+Access Control Readers, Systems & Accessories
+Access Control-Desktop
+Allegion Readers
+AWID Readers
+DoorKing Products
+Farpointe Readers
+HID Prox Readers
+HID iCLASS Readers
+Honeywell Readers & Kits
+IDTECK
+Products
+Kantech Readers
+Kantech Access Systems
+Keri Systems Readers & Kits
+Keyscan Readers & Systems
+Linear Readers & Access Systems
+SecuraKey Products
+Mobile & Bluetooth Products
+Door Strikes / Locks / Exit & Motion Sensors
+Door Strikes / Faceplates
+Door / Gate Locks
+Motion Sensors
+Push/Request to Exit Accessories
+Remote Locks
+ID Badging Equipment & Accessories
+ID Badging Systems & Kits
+ID Printers & Supplies
+ID Badging Software
+ID Badging - VISITOR Solutions
+Slot Punches
+Webcams
+POS Equipment & Scanners
+Dealer Depot - Clearance Items
+Proximity Credentials
+iCLASS
+MIFARE
+Readers / Controllers
+ID Card Printer Products
+Badging Accessories
+Badge Reels, Holders & Clips
+Badge Clips
+Badge Holders
+Badge Reels
+Lanyards & Specialty Neckwear
+Lanyards - Unprinted
+Lanyards - Custom Print
+Stock Design Lanyards
+Awareness Lanyards
+Anti-Microbial Lanyards
+Reflective Lanyards
+Eco-Friendly Neckwear
+Wristbands
+RFID Silicone Wristbands
+Plain Silicone Wristbands
+Printable Healthcare Wristbands
+Tyvek Wristbands
+Healthcare/Patient Products
+COVID Mask Lanyards
+Printable Wristbands
+Scanners
+Printers & Cartridges
+Patient Screening & Triage
+Pre-Printed COVID-19 Labels
+Isolation Labels
+Visitor Passes
+Touchless Tools
+Pages
+RapidPROX® Overview
+IDE Internal Blog
+Tech Support
+Contact Us
+Account
+Sign In / Register
+Wishlists
+Returns
+Gift Certificates
+What are you looking for?
+*
+Search

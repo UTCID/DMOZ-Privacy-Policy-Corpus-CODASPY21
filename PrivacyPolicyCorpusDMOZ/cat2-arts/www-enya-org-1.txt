@@ -1,0 +1,109 @@
+http://www.enya.org/privacy.html
+$text ) {
+if( strpos( strtolower( $data['host'] ), $domain ) !== false ) {
+$html .= '
+';
+break;
+}
+}
+}
+echo $html;
+?>
+Privacy Notice - Please Read
+At Enya.org, the privacy of our visitors is extremely important to
+us. By reading this policy and viewing our site you are agreeing to the terms within. Please note that any information collected is NEVER personally identifiable information.
+How We Collect Stats
+Enya.org makes use of log files. The
+information inside the log files collected by our servers include Internet protocol (IP)
+addresses, the browser you're using to surf the web, Internet Service Provider (ISP),
+date/time stamp of your visit, referring/exit pages (pages you came in through and left through), and number of clicks
+made while on our site. Knowing these things is helpful for us to analyze
+trends, administer the site, track user’s movement around the site, and
+gather demographic information. IP addresses, and other such
+information are not linked to any information that is personally
+identifiable.
+By collecting this information we are able to understand our visitors' needs better and are able to bring them more content/products to cater to these needs.
+Cookies and Web Beacons
+Our advertising partners include Google Adsense and Commission Junction.
+Other technologies (such as cookies, JavaScript, or Web
+Beacons) may also be used by the third-party ad networks to measure
+the effectiveness of their advertisements and/or to personalize the
+advertising content that you see. This is how sometimes you'll notice ads referring you to goods/services in your exact location (or nearby).
+Enya.org has no access to or control over these cookies that are used by third-party advertisers.
+You should consult the respective privacy policies of these
+third-party ad servers for more detailed information on their practices
+as well as for instructions about how to opt-out of certain practices.
+Enya.org's privacy policy does not apply to, and we cannot control the
+activities of, such other advertisers or web sites.
+If you wish to disable cookies, you may do so through your
+browser's options panel. More detailed information about cookie
+management with specific web browsers can be found at the browsers'
+respective websites.
+Copyright 2007 Enya.org | privacy notice
+Get Great Deals on iTunes
+Gift Cards this Holiday Season
+INFO
+Best of Enya
+Book of Days Enya
+Celtic Irish Music
+Celtic Music
+Celtic Music CD
+Celtic Music Online
+Celtic Woman Music
+Enya a Day Without Rain
+Enya CD
+Enya Lyrics
+Enya May It Be
+Enya MP3
+Enya Music
+Enya Only Time
+Folk Celtic Music
+Folk Music
+Folk Music Downloads
+Folk Music Instruments
+Folk Music Radio
+Folk Music Sheet
+Folk Song Lyrics
+Free New Age Music
+Highland Bagpipe Music
+Indie Music Downloads
+Irish Country Music
+Irish Dance Costumes
+Irish Dance Music
+Irish Dance Shoes
+Irish Dance World
+Irish Dancing Music
+Irish Flute Music
+Irish Folk Music
+Irish Folk Songs
+Irish Music
+Irish Music CD
+Irish Music CDs
+Irish Music Downloads
+Irish Music Dublin
+Irish Music MP3
+Irish Music Online
+Irish Music Radio
+Irish Sheet Music
+Irish Song
+Irish Wedding Song
+Listen To Enya
+Listen to Irish Music
+Live Irish Music
+New Age Internet Radio
+New Age Music
+New Age Music CDs
+New Age Piano Music
+New Age Radio
+New Age Radio Station
+New Age Radio Stations
+Notre Dame Irish
+Scottish Folk Music
+Sheet Music Enya
+The Irish Tenors
+Traditional Irish Music
+ENYA MERCHANDISE
+Enya Music CDs
+Enya Books
+Apparel and Accessories
+Kitchen and Housewares

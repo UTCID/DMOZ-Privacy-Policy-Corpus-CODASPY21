@@ -1,0 +1,28 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/apcs03.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Simple P3P-Enabled Web Site ExampleMany sites, including personal home pages and sites
+designed primarily to provide information (as opposed to those
+designed to sell things or provide interactive services), have very
+simple privacy policies. They tend to collect minimal amounts of data,
+and generally will either commit to using that data in very limited
+ways, or make no commitment that might limit future use of that data.
+Furthermore, for these simple sites one P3P policy is probably
+sufficient for the entire site.Example C-1 is a
+policy reference file for a simple site named Example.Com that has one
+policy for the entire site. This policy reference file is placed at
+the well-known location (/w3c/p3p.xml). This file
+also includes the site’s P3P policy. The policy reference file and
+policy expiry are set to 10 days. The policy for this site also
+applies to all the cookies set by this site. Example.com keeps typical
+web logs. These logs are kept indefinitely and are used to diagnose
+problems with the web site. They are not shared with other companies;
+however, they are sometimes analyzed in order to gain insights into
+how people are using the web site.Example C-1. A policy reference file for a simple site that includes an
+inline policy<META xmlns="http://www.w3.org/2000/12/P3Pv1"> <POLICY-REFERENCES> <EXPIRY max-age="864000"/> <!-- 10 days --> <POLICY-REF about="#policy1"> <INCLUDE>/*</INCLUDE> <COOKIE-INCLUDE>* .example.com *</COOKIE-INCLUDE> </POLICY-REF> </POLICY-REFERENCES> ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

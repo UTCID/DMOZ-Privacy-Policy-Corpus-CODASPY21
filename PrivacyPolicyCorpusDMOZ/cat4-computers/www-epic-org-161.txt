@@ -1,0 +1,277 @@
+http://www.epic.org/privacy/whois/
+Defend Privacy. Donate Now.
+Policy Issues
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Program
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+All Policy Issues
+Our Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+Privacy Campaigns
+Congressional Testimony
+EPIC Publications
+Spotlight on Surveillance
+Press
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+Events
+EPIC Blog
+EPIC Bookstore
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+Public Voice Fund
+Contact EPIC
+Support EPIC
+WHOIS
+News |
+Introduction |
+EPIC's Role |
+Sensible WHOIS Policies on Privacy and Data Protection |
+Privacy and Accuracy |
+Background Information on WHOIS Recommendations |
+Resources
+Top News
+EPIC Warns ICANN about Lack of Privacy for WHOIS Data: In comments to ICANN, EPIC urged the Internet policy organization to comply with privacy law and privacy standards. ICANN manages the Whois database, a publicly accessible repository of domain name registrants' contact information. EPIC has long criticized ICANN for exposing personal data to spammers, stalkers, and criminal investigators. Internet privacy expert Stephanie Perrin
+recently stated, "The existing policy and trigger mechanisms reflect at best a basic failure to comprehend the way data protection law works, at worst a determination to be as difficult and intransigent as possible." In the latest comments, EPIC warned ICANN that failure to comply with legal standards could leave the organization subject to enforcement action, following the Schrems decision in Europe.
+ICANN's final report is due December 1. (Nov. 18, 2015)
+ICANN Swamped with User Comments Against Personal Data in WHOIS Directory: Internet users have backed a campaign to prevent ICANN's inclusion of domain owners' personal information in the publicly searchable WHOIS directory. Users concerned about privacy are encouraged to sign the online petition and email comments directly to ICANN before July 7, 2015. ICANN has already received nearly 8000 emails protesting the removal of WHOIS privacy protections. ICANN stated that no changes will be made until all public comments are reviewed. EPIC has taken a strong stance on WHOIS privacy, urging Congress to prevent registrars from selling user information to third parties, serving on the WHOIS Privacy Steering Committee, and filing a legal brief supporting the rights of domain name holders not to publish their personal information on the Internet. (Jun. 26, 2015)
+More top news »
+GoDaddy Pulls out of China over Privacy Risks to Users
+» (Mar. 26, 2010)
+GoDaddy, the world’s largest internet domain name registrar, will no longer register domain names in China, due to new government rules for monitoring Internet use. China now requires every domain name registrant to provide photographs, business information, signed registration forms, and business registration numbers to the China Internet Network Information Center, a quasi-government agency. GoDaddy General Counsel Christine N. Jones stated, “The intent of the procedures appeared, to us, to be based on a desire by the Chinese authorities to exercise increased control over the subject matter of domain name registrations by Chinese nationals.” EPIC supports privacy for web site registrants and has worked with GoDaddy in the past to urge the US National Telecommunications and Information Administration to safeguard the right of Internet users to maintain private web site registrations. For more information on EPIC and domain name privacy, see EPIC: WHOIS.
+Rod Beckstrom to Head ICANN
+» (Jun. 29, 2009)
+The Internet Corporation for Assigned Names and Numbers appointed Rod Beckstrom as its new CEO and president. ICANN manages the administration of the internet including assignment of domain names, IP addresses, preserving operational
+stability, and developing policies. Beckstrom is an author, entrepreneur, non-profit board member, and expert in decentralized organizations. He resigned as the Director of the National Cybersecurity Center in March 2009 warning of the increasing role of the National Security Agency in
+domestic security.
+See EPIC DNSSEC, EPIC WHOIS
+and The Public Voice.
+Introduction
+The WHOIS database, originally intended to allow network administrators to find and fix problems with minimal hassle to maintain the stability of the Internet, now exposes domain name registrants' personally identifiable information to spammers, stalkers, criminal investigators, and copyright enforcers. Whether WHOIS policies and practices should facilitate this exposure is a topic that deserves careful consideration. Please note: Our discussion of WHOIS mainly focuses on the .com/.org/.net top-level domains.
+The following three points are critical to understand the issues surrounding WHOIS:
+WHOIS data consists of domain name registrants' contact information (including registrant's mailing address, email address, telephone number, and fax number); administrative contact information (including mailing address, email address, telephone number, and fax number); technical contact information (including mailing address, email address, telephone number, and fax number); domain name; domain servers; and other information.
+WHOIS data is globally, publicly accessible. Anyone with Internet access, including stalkers, corrupt governments who dislike international exposure, spammers, intellectual property lawyers, law enforcement, consumers, individuals, etc., has access to WHOIS data. The important point to realize here is that WHOIS data lends itself to both good faith and bad faith uses, and that investigating fraud is only one of many uses of WHOIS data.
+Domain name registrants in the .com/.org/.net top-level domains consist of businesses; individuals; media organizations; non-profit groups; public interest organizations; political organization; religious organizations; support groups; and so on (e.g. EPIC is a domain name registrant for "epic.org"). Domain name registrants share their services, ideas, views, activities, and more by way of websites, email, newsgroups, and other Internet media. While some domain name registrants use the Internet to conduct fraud, other domain name registrants have legitimate reasons to protect their identities (and so their privacy and personal information) or to register domain names anonymously. For example, different political, artistic and religious groups around the world rely on the Internet to provide information and express views while avoiding persecution - and concealing their identity is crucial in this respect.
+EPIC's Role
+The President of ICANN recommended that ICANN groups and constituencies work together to prioritize WHOIS issues and develop a work program. EPIC served on the WHOIS Privacy Steering Committee working to devise such a program. Several constituencies have representation on the WHOIS Task Forces:
+Commercial and Business Users constituency
+Generic Top Level Domain Registries constituency
+Intellectual Property Interests constituency
+Internet Service and Connectivity Providers constituency
+Non-Commercial Users constituency
+Registrars constituency
+EPIC is currently representing the Non-Commercial Users Constituency serving on the newly created Accuracy Task Force, Task Force 3.
+EPIC was previously a representative from the Non-Commercial Users constituency serving on the prior WHOIS Task Force. The now defunct WHOIS Task Force was created by ICANN's Domain Name Supporting Organization's Names Council (now the Generic Names Supporting Organization Council) in February 2001 to give advice on WHOIS Policy and to review whether any changes to ICANN's WHOIS policy for the .com/.net/.org domains as set out under the Registrar Accreditation Agreement (RAA) should be made.
+Sensible WHOIS Policies on Privacy and Data Protection
+The OECD Recommendations Concerning and Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data (hereinafter "OECD Privacy Guidelines") offer a sound framework for sensible WHOIS policies on privacy and data protection.
+The OECD Privacy Guidelines offer important international consensus on and guidelines for privacy protection and establish eight principles for data protection that are widely used as the benchmark for assessing privacy policies and legislation. These principles are Collection Limitation; Data Quality; Purpose Specification; Use Limitation; Security Safeguards; Openness; Individual Participation; and Accountability.
+Representatives from North America, Europe, and Asia drafted the original OECD Privacy Guidelines. Countries around the world, with varying cultures and systems of governance, have adopted roughly similar approaches to privacy protection with respect to the OECD Privacy Guidelines. Thus, the OECD Privacy Guidelines reflect a broad consensus about how to safeguard the control and use of personal information in a world, and especially on the Internet, where data can flow freely across national borders.
+Therefore, the OECD Privacy Guidelines provide a well thought-out solution to challenging questions about international consensus on privacy and data protection that directly implicate WHOIS policies and practices. A new task force should be formed to evaluate WHOIS policies and practices with respect to the OECD Privacy Guidelines. See the Privacy Issues Report (pdf), prepared by EPIC, for a more detailed discussion.
+Privacy and Accuracy
+Current WHOIS policies require accurate WHOIS information without having established appropriate privacy and data protection safeguards. It is important to understand that enforcement of accuracy of WHOIS data has serious implications on privacy. Some domain name registrants have legitimate reasons for providing inaccurate WHOIS information -- for example, to protect their privacy and protect their personally identifiable information from being globally, publicly accessible -- and especially when there are no privacy safeguards in place. A number of studies demonstrate that when no privacy safeguards are in place, individuals often engage in privacy "self-defense." When polled on the issue, individuals regularly claim that they have withheld personal information and have given false information. See:
+Privacy, Costs, and Consumers Privacy, Consumers, and Costs: How the Lack of Privacy Costs Consumers and Why Business Studies of Privacy Costs are Biased and Incomplete, Robert Gellman, March 26, 2002;
+Trust and Privacy Online: Why Americans Want to Rewrite the Rules, Pew Internet & American Life Project, August 20, 2000; and
+Graphic, Visualization, & Usability Center 7th WWW User Survey, April 1997.
+Therefore, enforcement of accuracy and implementation of privacy safeguards should be concurrent (or that implementation of appropriate privacy safeguards should precede enforcement of accuracy). It is also worth noting that the OECD Privacy Guidelines specfically address the relationship between privacy and accuracy, since accuracy is a component of the data quality principle. The key point to note here is that the OECD Privacy Guidelines consider accuracy in context of a framework that establishes appropriate privacy safeguards.
+Background Information on WHOIS Recommendations
+On February 6, 2003, the Whois Task Force of the Generic Names Supporting Organization posted its Final Report on Whois Accuracy and Bulk Access for comments and for consideration by the Generic Names Supporting Organization Council. The report includes four consensus-less policies along with other recommendations.
+Because there was much heated discussion about the problems with the WHOIS Task Force's recommendation to enforce accuracy while privacy issues largely remain unresolved, the Generic Names Supporting Organization Council voted in favor of only and only the Task Force's four consensus-less policies.Even still, notable comments that raise serious issues with the WHOIS Task Force's final report, including the consensus-less policies relating to accuracy in particular, and remain unresolved include:
+The European Commission's comments (pdf) include:
+The survey undertaken by the Task Force to determine areas of concentration is not a scientific study and that its result are not representative of all users.
+The WHOIS Task Force's report overlooks existing legal frameworks' legal requirements and obligations.
+The report fails to consider the data protection viewpoint which requires resolving the legitimate purposes for the WHOIS database.
+The report does not resolve the implications of the European Data Protection Directive on WHOIS policies and practices.
+The report's bulk access recommendations specifying an opt-out model still does not sufficienctly comply with European legal frameworks.
+The European Commission does not support the WHOIS Task Force's proposals concerning uniformity and more searchable WHOIS facilities.
+The Public Interest Registry's, which manages the .ORG registry, comments include:
+Compelling the disclosure of personally identifiable information of domain registrants poses dangers to freedom of expression and privacy on the Internet. Enforcement of accurate WHOIS data places a burden on the ability of individuals to maintain their anonymity and thus their fullest ability to exercise free speech online. Anonymizing proxy servers are not an adequate alternative.
+Anyone with Internet access - including spammers, stalkers, scam artists, identity thieves, and so on - has access to WHOIS data, which puts the registrants at risk and which could contribute to frauds such as identity theft. The domain name registrant has no control over or information about the uses of WHOIS data.
+The WHOIS Task Force's report does not reflect international consensus, which also implicates the international .ORG community.
+The International Working Group on Data Protection in Telecommunications resubmitted their position paper, titled "Common Position on Privacy and Data Protection aspects of the Registration of Domain Names on the Internet," in response to the WHOIS Task Force's intermim report (which preceded the final report). The Working Group's comments include:
+The current Registrar Accreditation Agreement does not reflect the goal of the protection of personal data of domain name holders in a sufficient way.
+It is essential that the purposes of the collection and publication of personal data of domain name holders are being specified.
+The amount of data collected and made publicly available in the course of the registration of a domain name should be restricted to what is essential to fulfill the purpose specified. In this respect, the Working Group has reservations against mandatory publication of any data exceeding name, address and email address in cases where the domain name holder is not himself/herself responsible for the technical maintenance of the domain.
+Any additional data - although they might be collected by the registry as necessary with respect to its task - should in such cases either refer to the respective service provider or only be made available with the explicit consent of the data subject.
+Any secondary use incompatible with the original purpose specified should be based on the data subject's informed consent.
+EPIC, on behalf of the Non-Commercial Users' constituency, submitted a dissenting opinion on the WHOIS Task Force's accuracy recommendations, observing that:
+The Task Force failed to recommend appropriate privacy safeguards for domain name registrants with reasonable and legitimate expectations of privacy and the Task Force failed to assess the misuses of WHOIS data.
+The WHOIS Task Force has effectively ignored a number of comments submitted in response to the Task Force's recommendations report that raise privacy and data misuse issues.
+There are domain name registrants who provide inaccurate data to safeguard their privacy and prevent the misuse of their personally identifiable information. Yet, the WHOIS Task Force is moving forward with accuracy when privacy issues have not been adequately addressed.
+Postponing privacy issues while enforcing accuracy also presents the unacceptable risk of privacy issues being dismissed or resolved unsatisfactorily.
+Minimally, enforcement of accuracy and insurance of privacy safeguards should be concurrent.
+The ICANN Board voted on the WHOIS Task Force's consensus-less policies during their Rio meeting (23-27 March 2003). ICANN adopted the WHOIS Task Force's policies on accuracy and bulk access of WHOIS data. ICANN also directed its President to appoint a President's Standing Committee on Privacy to monitor the implications of existing and proposed ICANN policies on the handling of personal data.
+Resources
+EPIC Comments to ICANN on the Review of Existing ICANN Procedure for Handling Whois Conflicts with Privacy Laws (Nov. 17, 2015)
+Contribution (pdf) of the European Commission to the general discusison of the WHOIS database raised by the Reports produced by the ICANN WHOIS Task Force, January 22, 2003.
+Comments (pdf) of the Public Interest Registry, the not-for-profit corporation that manages the .ORG registry, on the Final Report on Whois Accuracy and Bulk Access of the Whois Task Force of the Generic Names Supporting Organization, February 17, 2003.
+Federal Trade Commission's Public/Private Partnerships to Combat Cross-Border Fraud on Cooperation Between the FTC and Domain Registration Authorities, Statement for the Record of Marc Rotenberg, Executive Director, and Ruchika Agrawal, IPIOP Science Policy Fellow, EPIC, February 19-20, 2003.
+ICANN Rio de Janeiro Meeting Topic: Whois Accuracy and Bulk Access, March 11, 2003.
+ICANN's Registrar Accreditation Agreement (RAA), May 17, 2001.
+International Working Group on Data Protection in Telecommunications, "Common Position on Privacy and Data Protection aspects of the Registration of Domain Names on the Internet," May 4-5, 2000,.
+Privacy Issues Report (pdf), prepared by EPIC, March 10, 2003.
+WHOIS Task Force Mail Archives.
+WHOIS Task Force, "Final Report of the GNSO Council's Whois Task Force Accuracy and Bulk Access," February 6, 2003.
+Share this page:
+Subscribe to the EPIC Alert
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+EPIC Alert archive »
+Electronic Privacy Information Center
+1519 New Hampshire Avenue NW
+Washington, DC 20036
+202.483.1140
+info[at]epic[dot]org
+© 1994 - 2020 EPIC, all rights reserved.
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+EPIC Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+Electronic Privacy Information Center1519 New Hampshire Avenue NW Washington, DC 20036More info
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+FOIA Documents
+EPIC FOIA Notes
+EPIC Former Secrets
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+EPIC Bookstore
+Support EPIC

@@ -1,0 +1,527 @@
+http://www.epic.org/privacy/iei/fcccom42806.html
+Before the Federal Communications Commission In the Matter of Customer Proprietary Network Information CC Docket No. 96-115 To: The Commission: Comments ofThe Electronic Privacy
+Information Center, Consumer Action, Privacy Rights Now Coalition, Center
+for Digital Democracy, Consumer Federation of America, Privacy Journal,
+Center for Financial Privacy and Human Rights, and National Consumers League
+on the Petition for Rulemaking to Enhance Security and Authentication Standards
+for Access to Customer Proprietary Network Information April 14, 2006 Pursuant to the notice published by the Federal Communications Commission
+concerning Customer Proprietary Network Information,[1] the Electronic Privacy Information Center, Consumer Action, Privacy
+Rights Now Coalition, Center for Digital Democracy, Consumer Federation
+of America, Privacy Journal, Center for Financial Privacy and Human Rights,
+and National Consumers League submit the following comments. The Electronic Privacy Information Center (EPIC) is a public interest research
+center in Washington, D.C. It was established in 1994 to focus public attention
+on emerging civil liberties issues and to protect privacy, the First Amendment,
+and constitutional values.  In 2005, EPIC filed a petition seeking enhanced
+protections for CPNI.[2] Consumer Action is a non-profit, membership-based organization that was
+founded in San Francisco in 1971. During its more than three decades, Consumer
+Action has continued to serve consumers nationwide by advancing consumer
+rights, referring consumers to complaint-handling agencies through our free
+hotline, publishing educational materials in Chinese, English, Korean, Spanish,
+Vietnamese and other languages, advocating for consumers in the media and
+before lawmakers, and comparing prices on credit cards, bank accounts and
+long distance services. The Privacy Rights Now Coalition was organized by Ralph Nader and Remar
+Sutton to highlight the efforts of the key non-profit organizations that
+care about the integrity of your private life. The Center for Digital Democracy is committed to preserving the openness
+and diversity of the Internet in the broadband era, and to realizing the
+full potential of digital communications through the development and encouragement
+of noncommercial, public interest programming. Since 1968, the Consumer Federation of America (CFA) has provided consumers
+a well-reasoned and articulate voice in decisions that affect their lives.
+Day in and out, CFA's professional staff gathers facts, analyzes issues,
+and disseminates information to the public, policymakers, and rest of the
+consumer movement. Privacy Journal is the most authoritative publication in the world on the
+individual's right to privacy.  Its publisher is Robert Ellis Smith, who
+is recognized as the leading expert on the right to privacy in the U.S.
+He is an experienced journalist, a lawyer, an author of several essential
+books on privacy. Twice he has been asked to write the definition of privacy
+for the World Book Encyclopedia. The Center for Financial Privacy and Human Rights, a non-governmental advocacy
+and research organization, was founded in 2005 to defend privacy, civil
+liberties and market economics. The Center is the only non-profit human
+rights and civil liberties organization whose core mission recognizes traditional
+economic rights as a necessary foundation for a broad understanding of human
+rights. National Consumers League's mission is to protect and promote social and
+economic justice for consumers and workers in the United States and abroad.
+The National Consumers League is a private, nonprofit advocacy group representing
+consumers on marketplace and workplace issues. It is the nation's oldest
+consumer organization. The EPIC Petition and Related Pretexting Developments In July 2005, EPIC filed a complaint with the Federal Trade Commission
+concerning a website that offered phone records and the identities of P.O.
+Box owners for a fee through pretexting.  Pretexting is a practice where
+an individual impersonates another person, employs false pretenses, or otherwise
+uses trickery to obtain records.
+The owners of the California-based business operating the website responded
+to the EPIC complaint, claiming that they knew of no law that prohibited
+them from selling phone records!  Other pretexters have taken the same approach.
+They have ignored general consumer protection norms and argued that no specific
+law prohibits pretexting. EPIC supplemented the July filing in August with a list of 40 websites
+that offered to sell phone records to anyone online.  In light of the fact
+that so many companies were selling communication records online, EPIC also
+petitioned the Federal Communications Commission, urging the agency to require
+enhanced security precautions for phone companies’ customer records.  Although
+telephone carriers unanimously opposed enhanced security requirements, proposing
+that lawsuits against pretexters would solve the problem, the FCC unanimously
+granted the petition and is seeking comments on enhanced security standards
+for phone records. Most recently, EPIC wrote to the American Bar Association and 50 states'
+bar ethics committees to explain that attorneys are hiring investigators
+and online data brokers to pretext.  EPIC argued that it is unethical for
+attorneys to employ these practices, and urged the state authorities to
+advise attorneys not to buy pretexting services. We continue to believe that action is needed at the federal and state level
+to protect this information.  Phone records can be used by individuals to
+stalk and harass other people.  They can be used for corporate espionage
+purposes.  While some claim that pretexting is a legitimate research tool,
+that argument is mere sophistry.  Those who have a legitimate need for phone
+records can obtain a court order in order to access the information.  Pretexting
+is simply an end-run around existing legal access provisions for people
+who probably do not have a legitimate reason to obtain calling data.
+An archive of EPIC's efforts is available online at http://epic.org/privacy/iei/ Specific Comments 11. Pursuant to our authority under section 222 of the Act, we seek
+comment on the nature and scope of the problem identified by EPIC. Many different records are offered for sale on websites.  These include
+wireless and wireline phone records, the calling name associated with a
+phone number, the location of the phone user, information associated with
+communications-linked navigation services, such as GM Onstar, and the identities
+associated with interactive computer services.  Outside the telecommunications
+field, these sites are offering asset searches (where the investigator calls
+banks and determines how much money the victim has in accounts) and Social
+Security Numbers. Each of these records may have different sources.  But most indications
+are that phone records information is being obtained directly from carriers.
+However, calling name information may be obtained from a carrier, or perhaps
+from one of the industry-operated Caller ID databases such as CNAM.   There
+is also the possibility that data brokers are selling calling name information
+from databases derived from Automatic Number Identification.  Several companies,
+including Intellius.com, advertise "ANI" generated databases.
+It is unclear whether these databases comply with Commission rules at 47
+CFR 64.1601.  An advertisement for Intellius.com's "Reverse ANI"
+databases appears below.
+Location data may be obtained from carriers, but we are also aware of location
+services where the investigator simply calls the victim and asks "where
+are you?" or engages in some artifice to trick the victim into revealing
+location ("you've won a prize from the local radio station, tell us
+where you are so that we can bring it to you").
+Increasingly-popular automobile navigation products, such as GM's Onstar,
+can provide vehicle location information.  This information is obtained
+directly from the Onstar service through pretexting. Abika.com has offered information concerning the identities of users of
+AOL and several dating services, such as Match.com.  In these searches,
+the purchaser provides an AOL screenname or Match.com "handle"
+which is then linked to a real identity by Abika.  While it is possible
+that this information could be discovered through web searches, we believe
+that the service providers themselves are targeted to obtain information.
+We believe that these different types of records are obtained in three
+different ways: pretexting, computer intrusion, or through insiders.  Each
+one of these threats has to be addressed in different ways.
+In order to address pretexting, the process of the practice must be clearly
+understood.  We think that in the typical pretext, the pretexter obtains
+a telephone number of the victim from the person seeking phone records.
+The pretexter then uses a personal information database to buy identifying
+information on the victim, including mother's maiden name, date of birth,
+address, and Social Security number.  With this biographical information,
+the pretexter then calls the carrier, pretending either to be the victim,
+or pretends to have the authority to access the victim's records.  Carriers
+often authenticate customers by simply asking their name, billing address,
+and last four digits of the Social Security number.  If successful, the
+pretexter is sent the records, and they are passed on to the person seeking
+the records.  Critical to the success of pretexting is carriers' reliance
+on widely-available personal identifiers to authenticate customers.  We
+will expand on this problem later in the comments. Computer intrusion and insiders present a separate set of problems.  These
+are best addressed through auditing of access, better design of online billing
+systems (for instance, not assigning an easy-to-guess default password),
+and through enforcement actions.
+12. We also seek comment on whether our existing opt-out regime sufficiently
+protects the privacy of CPNI in the context of CPNI disclosed to telecommunications
+carriers’ joint venture partners and independent contractors… Information sharing can exacerbate privacy risks.  Information sharing
+can be used to target market individuals for fraudulent products and enable
+other types of fraud.  The more information is shared, the greater the risk
+that is may be acquired by dishonest employees or others who have access
+to data in the course of its transfer.  There is increasing evidence that
+insiders who have access to personal data present serious risks for identity
+theft and other fraud.  A news report covering a study from the Michigan
+State University indicated that a researcher found in a review of 1,000
+identity theft cases that between 50-70 percent were insider jobs:
+[The] director of an identity theft program at Michigan State, randomly
+selected 1,037 cases from around the country, then painstakingly traced
+each incident to its origins. In 50 percent of the cases, the victim's identity
+was originally pilfered by a company employee. In another 20 percent of
+cases, evidence strongly suggested dirty play by an insider.[3]
+In the financial services industry, insider risks are so severe that the
+Office of the Comptroller of the Currency has warned banks that organized
+crime rings were placing low-level employees in financial institutions to
+commit fraud.  In an April 2002 security alert, the agency warned:
+…[I]ndividuals are being encouraged by gang members to apply for teller
+positions at financial institutions for the sole purpose of providing access
+to the institution's operating systems and customer access information.[4]
+Only recently has the frequency of security breaches into databases containing
+sensitive personal information come to light.  The frequency of security
+breaches at leading financial institutions and elsewhere suggests that information
+sharing among affiliates can increase the likelihood of consumer harm.
+These security breaches can readily result in fraud on the consumer.  Consumers,
+therefore, are legitimately concerned that the greater number of affiliates
+accessing their information, the greater the possibility that it will be
+revealed to others. There is substantial independent evidence verifying that an opt-in approach
+is the only effective method to protect sensitive private information. An
+opt-out approach is inadequate because it is not calculated to reasonably
+inform consumers about their privacy options. Not only is the burden on
+the customer to return their opt-out notice, such notices are vague, incoherent,
+and often concealed in a pile of less important notices mailed in the same
+envelope from the same source.[5]
+The importance of the notices, as well as their purpose, is rarely brought
+to the customer's attention in any coherent fashion. Studies have revealed,
+"the majority of the general public is still unaware of the exact nature
+of marketing uses and the availability of opt-out choices."[6] When it is in the economic interest of a company to prevent a consumer
+from taking a certain action, companies tend to erect barriers to consumer
+choice.  Opt-out is the standard choice for companies that are trying to
+stop consumers from taking an action.  For instance, the Wall Street Journal
+reported on barriers to consumer choice in 2003, noting that some industries
+had resorted to opt-out style automatic renewal policies:
+Breaking up is getting harder to do.
+From AOL to EchoStar, a growing number of U.S. companies are coming under
+fire from regulators who claim they are deliberately thwarting customers'
+efforts to cancel their service contracts.
+[…]
+…magazine-industry sales tactics are drawing the attention of regulators.
+To fight churn, many publishers, including Time Inc., are switching to a
+"self renewing" subscription model, which means the publisher
+automatically charges subscribers' credit cards for another year, unless
+customers proactively cancel their subscriptions. At Time Inc., about 20%
+of subscriptions, including many popular titles such as Sports Illustrated,
+Fortune and Money, are sold on this continuous subscription model…[7]
+In the case of data broker Acxiom, the company refuses to accept "third-party
+opt-out requests."  These requests are generated by privacy-enhancing
+businesses that opt out clients in bulk from marketing lists.  Acxiom rejects
+these opt-out requests because the company wants to provide the individual
+concerned a privacy policy first and hear from the individual directly.[8] For more perspective on this problem, it is worth revisiting Ting v.
+AT&T, 182 F. Supp. 2d 902 (2002). In that case, AT&T developed
+a new standard customer contract that contained an arbitration clause in
+order to remove consumer disputes from court. In developing this new consumer
+contract that reduced consumers' rights, AT&T did research to determine
+how to present it so that customers wouldn't read it or take action to opt-out
+of the new contract. The trial court noted that the AT&T research found:
+In the letter it should be made clear that this agreement is being sent
+for informational purposes only. The fact that no action is required on
+the part of the customer needs to be made. A strong link establishing that
+this information is not a "call to action" on the part of the
+customer should be clearly stated in the letter...Customers should understand
+that the mailing is being sent to comply with a federal mandate and does
+not imply any change in their relationship with AT&T.
+In sum, there are dozens of ways that an opt-out framework can be designed
+to limit consumer choice.  An opt-in framework would better protect individuals'
+rights, and is consistent with most United States privacy laws.  For instance,
+the Family Educational Rights and Privacy Act, Cable Communications Policy
+Act, Electronic Communications Privacy Act, Video Privacy Protection Act,
+Driver's Privacy Protection Act, and Children's Online Privacy Protection
+Act all empower the individual by specifying that affirmative consent is
+needed before information is employed for secondary purposes.[9] Further, public opinion clearly supports an opt-in system for information
+collection and sharing.  A study conducted by the American Society of Newspaper
+Editors (ASNE) and the First Amendment Center (FAC) in April 2001 illustrated
+strong support for privacy and specifically for opt-in systems.[10]
+In that study, the respondents indicated that personal privacy was an issue
+as important as crime, access to health care, and the future of the Social
+Security system.
+In other information collection contexts, individuals regularly indicate
+that opt-in is preferable to opt-out.  The ASNE/FAC study shows that 76%
+of individuals support opt-in as a standard for sharing of driver's license
+information.  A study conducted by Forrester Research found that 90% of
+Internet users want the right to control how their personal information
+is used after it is collected.[11]
+A study conducted by the Pew Internet and American Life Project found that
+86% of Internet users favor opt-in privacy policies.[12]  And, a BusinessWeek/Harris poll in 2000 found that 86% favored
+opt-in over opt-out.  The same poll showed that if given a choice, 90% of
+Internet users would either always or sometimes opt out of information collection.[13] This popular support for opt-in manifests itself when consumers are actually
+given the opportunity to vote on matters of privacy.  In a ballot referendum,
+voters in North Dakota favored requiring financial institutions to obtain
+the affirmative consent (opt-in) of consumers before sharing information
+with third parties over opt-out, which was favored by the Legislature and
+banks.  Although proponents of stronger privacy protections were outspent
+by seven to one,[14] the
+North Dakota financial privacy initiative passed with the support of 73%
+of the voters.[15] Phone companies have thwarted opt-out processes by demanding excessive
+authentication for opting out.  For instance, the opt-out process for Customer
+Proprietary Network Information (CPNI) data sharing established by Verizon
+was confusing, and placed the burden on individuals to navigate a five-step
+process in order to opt-out.[16]  In addition, the Verizon CPNI
+notice appears on the back side of the last page of the bill.  It does not
+even mention the word "privacy."[17] Verizon's and other carriers' CPNI opt out procedures differ from state
+to state, or region to region.  As a result, there is no coherent way for
+consumer advocates to provide simple information to help consumers navigate
+the opt-out process.  Oddly enough, the same companies that say they need
+national, uniform regulations impose upon consumers widely-varying procedures
+to protect privacy. The most comprehensive effort to provide information on opting out of CPNI
+was performed by the Privacy Rights Clearinghouse.  Because of the differing
+practices, at the time that survey was completed, many regions were not
+covered.  Furthermore, the survey showed that many carriers did not have
+any mechanism to perform online opt outs.[18] Finally, EPIC has received many complaints from consumers that they have
+called carriers to request to opt out, but the customer service representatives
+do not know how to handle the calls.[19]
+Carriers are likely to argue that an opt-in regime will violate their First
+Amendment rights of commercial speech.  They will cite to a single case--U.S.
+West v. FCC--for this proposition.[20]
+Since that case was decided, every major challenge to privacy law based
+on commercial free speech has failed.[21]
+The FCC should reevaluate the strength of the U.S. West argument
+in light of the fact that most attempts to create expansive substantive
+due process rights for information sale have failed. We believe that U.S. West was an anomaly.  In fact, even in the
+challenge to the Do-Not-Call Registry, which was brought in the 10th Circuit
+to leverage the U.S. West precedent, the court upheld the Registry
+without even citing to U.S. West.[22]
+16. We solicit comment on the advisability of requiring carriers to
+adopt a consumer-set password system to protect access to CPNI. Would requiring
+the use of passwords materially increase the security of CPNI? Passwords would materially increase the security of CPNI, because the current
+reliance on biographical information is no longer sustainable.  Biographical
+information is easily obtainable by pretexters.  Dozens of websites advertise
+the availability of Social Security numbers, dates of birth, and mother's
+maiden names--the currently-used authentication tools by many carriers.
+Public records also contain many biographical identifiers.  Investigators
+have subscriptions to "commercial data broker" services where
+biographical identifiers can be purchased for under $5.  And finally, jealous
+lovers--major purchasers of phone records--have all the information the
+need to pretext their spouse or significant other. With the widespread availability of these biographical identifiers, it
+is becoming impossible to condition access to information based on possessing
+them. We acknowledge that passwords are not a perfect solution to accessing records.
+No single approach is likely to address all situations and threats in a
+security system.  However, some sort of non-biographical password system
+can reduce the risk that records are disclosed.  Elsewhere, we have suggested
+"shared secret" password systems.  This approach uses non-sensitive
+information that unlike biographical identifiers, does not usually appear
+in a database.  Under this approach, the customer would be asked several
+questions when they sign up for service.  Examples include:
+What was the name of your first pet? What was the name of your elementary/high school? What is your favorite color? What is the middle name of your brother/sister/friend? Etc.
+This information is not likely to be found in databases operated by commercial
+data brokers, and thus is not available to pretexters. 17. Audit trails. EPIC suggests that we require carriers to record
+all instances when customer’s records have been accessed, whether information
+was disclosed, and to whom. We renew our call for auditing of customer access to CPNI.  Current regulation
+already requires such auditing when CPNI are used for marketing purposes.
+Expanding this requirement to consumer access should not create unreasonable
+burdens. Maintaining an audit log also makes it possible to search for anonymous
+access (or attempted access) patterns.  For instance, multiple attempts
+to obtain the same record over a short period of time may justify investigation.
+Audit logs also make it possible for carriers to routinely investigate disclosures
+to see whether they are legitimate after the fact.  For instance, the carrier
+could take a sample of 1,000 record releases and investigate them in detail
+to determine whether pretexting was actually involved. Effective auditing should go beyond recording access to a specific customer's
+record.  Abnormal access to consumer records should cause red flags to be
+raised.  For instance, if in a normal day, a customer service representative
+accesses 50 accounts, there should be detection systems in place to address
+situations where certain employees access greater numbers of accounts.
+Employees who are accessing greater numbers of accounts may be engaging
+in fraud.  For instance, the Wall Street Journal recently reported on a
+case where bank employees sold the information of 500,000 account holders: Experts say the breach could have been avoided if the banks had detected
+abnormal activities on their computer systems early on. The employees involved
+would normally have accessed 30 to 40 customer records in a normal business
+day, according to police. As the theft occurred the employees were sometimes
+accessing 300 to 400 customer records a day -- an anomaly that could have
+been spotted had the right protections been in place.[23] In addition, in a pretexting lawsuit brought by Florida Attorney General
+Charlie Crist, phone logs show that Global Information Systems called a
+single carrier 5,100 times in a single month.[24]
+So many calls from a single source should raise red flags.  Carriers should
+have systems in place to not only record ANI or CID, but also to detect
+suspicious patterns of access.
+21. Notice. EPIC suggests that companies notify customers when the security
+of their CPNI may have been breached. We wish to inform the Commission that existing state security breach notification
+laws may not be triggered when records are obtained through pretexting.
+Security breach notification laws generally are triggered where there is
+unauthorized access to a Social Security number, driver's license number,
+or financial account number and PIN.  When a pretexter calls a carrier to
+obtain a victim's records, there may not be unauthorized access at the carrier
+to one of these three identifiers.  That is, the pretexter probably already
+has the Social Security number when he calls, and in most cases, it probably
+not given access to the carrier's database with the three covered identifiers.
+Therefore, in many cases, state security breach notification law will not
+be triggered by a successful pretexting event. We continue to believe that carriers should give notice where there are
+security breaches or attempts to pretext a certain account (many pretexters
+make several attempts to get data before they are successful).  Notice to
+the subscriber could allow individuals to take actions to avoid stalking
+or domestic violence.  Notice will also allow individuals to pursue private
+claims against the pretexter or person employing the pretexter. 22. We invite commenters to consider the potential value of notification
+as a precautionary measure before releasing CPNI. For example, we seek comment
+on whether carriers should be required to call the customer’s registered
+telephone number for that account to verify the customer’s identity before
+releasing CPNI to that subscriber. Should certain types of requests trigger
+an advance notification requirement? Notification in advance of releasing CPNI could thwart many pretexting
+attempts.  We believe that in most cases, the pretexter does not have possession
+of the phone for which records are sought. Therefore, sending a SMS to a
+wireless phone, initiating a call to the phone, or even leaving an automated
+voicemail on the phone account may tip the victim off to the invasion of
+privacy.
+24. Public response to EPIC’s petition reflects concern that improper
+release of CPNI can have dire consequences for customers’ personal safety.
+Should we require carriers to permit customers to put an absolute “no release”
+order on their CPNI, possibly subject to existing exceptions in section
+222(c)(1)?63 We believe individuals should be able to specify that their records should
+not be released at all, or that the release should only be to the billing
+address on file. The Commission should also evaluate the protections for subscriber information.
+This information, which may reveal a home address and other personal data,
+is sensitive.  Many people do not want their address information sold or
+disclosed to others (this can include domestic violence victims, judges,
+stalking victims, police officers, the mature, minors, etc.).  There should
+be an ability to restrict the dissemination of this data, regardless of
+whether one is a member of some class that is vulnerable to criminals, staking,
+or consumer scams.  25. Other approaches. We encourage commenters to think broadly and creatively
+about how best to guard against fraudulent or unauthorized disclosure of
+CPNI. There are myriad approaches to securing data, and new technologies may
+bring innovative approaches to the problem.  We suggest that the Commission's
+rules give carriers flexibility to implement new security approaches.  We
+also suggest that the Commission routinely revisit security issues on a
+planned schedule (for instance, every 5 to 7 years) to account for new technological
+approaches. 27. Reporting and Notification. In part because “CPNI” is not a term
+with which most customers are familiar, we seek comment on whether the notifications
+carriers provide subscribers regarding the use and disclosure of CPNI are
+written clearly enough so that customers adequately understand that the
+notices concern the privacy of personal telephone records and the scope
+of disclosure authorized. The carriers notices are deficient.  CPNI--Customer Proprietary Network
+Information--is not a term that consumers understand.  Even when it is defined,
+CPNI still has no meaning to a reasonable consumer. The FCC should devote significant attention to the notices that carriers
+are issuing.  We recommend following the guidance recently issued by the
+Federal Trade Commission on improving notices in the financial services
+industry.[25]
+Many CPNI notices do not use the word "privacy," nor do they
+state in plain language that CPNI refers to their calling records.  These
+notices also contain language designed to encourage individuals not to take
+action (e.g. "no action by you is required…"). Take, for instance, this Verizon CPNI notice.  It appeared on the back
+side of the last page of the bill.  It does not contain the word "privacy."
+CPNI is described in a technically-correct, but obtuse fashion: "the
+type, technical arrangement, quantity, destination, and amount of use of
+telecommunications services…"
+After this notice was issued, callers to the Verizon opt out number encountered
+a cumbersome and confusing process. To opt out, callers had to have their
+bill in hand.  Individuals were required to provide their phone number,
+their account number, the name on the account, their address, and speak
+the name of the “authorized” person to make decisions on the account. This
+process places an unreasonable burden on consumers who simply wish to protect
+their privacy. Further, the script used by Verizon to guide consumers through
+the opt-out process employs language that discourages individuals from exercising
+their rights. For instance, when a consumer chooses to opt-out, the script
+responds, “You are requesting to establish a restriction on your account”­­a
+characterization that misleads customers about the ramifications of their
+decision. These procedures are designed to stop people from opting out. 28. Should the Commission adopt any additional reporting requirements
+related to the disclosure of CPNI? We note that upon suggesting that CPNI access was a systemic problem at
+carriers, CTIA reacted with ad hominem invective instead of addressing the
+issues raised by the EPIC Petition.  It was only after the problem was so
+well documented that it was undeniable that we began to witness positive
+movement on this issue. The problem, as with many privacy violations, is one of observation.  Privacy
+violations are often difficult to observe, and once observed, are often
+explained away as a single incident rather than a pattern.  Reporting and
+transparency are needed in order to fairly evaluate emerging privacy risks.
+Respectfully Submitted, Chris Hoofnagle
+Electronic Privacy Information Center
+West Coast Office
+944 Market St. #709
+San Francisco, CA 94102
+Hoofnagle@epic.org
+415-981-6400 Linda Sherry
+Director, National Priorities
+Consumer Action Remar Sutton
+Co-founder
+Privacy Rights now Coalition Jeff Chester
+Executive Director
+Center for Digital Democracy Jean Ann Fox
+Director of Consumer Protection
+Consumer Federation of America Robert Ellis Smith
+Publisher
+Privacy Journal J . Bradley Jansen
+Director
+Center for Financial Privacy and Human Rights Susan Grant
+Vice President, Public Policy
+National Consumers League
+[1] Customer Proprietary Network Information, 71 Fed.
+Reg. 1317 (Mar. 15, 2006).
+[2] Petition of the Electronic Privacy Information Center
+for Rulemaking to Enhance Security and Authentication Standards for
+Access to Customer Proprietary Network Information, CC Docket No. 96-115
+(filed Aug. 30, 2005) (EPIC Petition).
+[3] Bob Sullivan, Study: ID theft usually an inside
+job; Up to 70 percent of cases start with employee heist, MSNBC,
+May 21, 2004, available at http://www.msnbc.msn.com/id/5015565/.
+[4]Office of the Comptroller of the Currency, Identity
+Theft: Organized Gang and Teller Collusion Schemes (Apr. 25, 2002),
+available at http://www.occ.treas.gov/ftp/alert/2002-4.txt.
+[5] See Paul M. Schwartz & Joel R. Reidenberg, Data
+Privacy Law: A Study of United States Data Protection 329-30 (1996) ("The industry itself recommends
+the use of only vague notices that do not offer meaningful disclosure of practices.")
+[6] Id. See also Privacy Rights Clearinghouse Second
+Annual Report 21 (1995), cited in Jerry Kang, Information Privacy in Cyberspace Transactions, 50 Stan.
+L. Rev. 1193, 1253 n.255 (1998) (“Many consumers are unaware of personal information collection
+and marketing practices. They are misinformed about the scope of existing privacy law, and generally
+believe there are far more safeguards than actually exist.”)
+[7] Jane Spencer, What Part of 'Cancel' Don't You Understand?
+Regulators Crack Down on Internet Providers, Phone Companies That Make
+It Hard to Quit, Wall Street Journal, Nov. 13, 2003.
+[8] Ryan Singel, Acxiom Opts Out of Opt-Out, Wired News,
+Nov. 17, 2003, available at
+http://www.wired.com/news/privacy/0,1848,61240,00.html
+[9] Respectively, at 20 U.S.C. § 1232 g, 47 U.S.C. §
+551, 18 U.S.C. § 2510 et. seq., 18 U.S.C. § 2710, 18 U.S.C. § 2721,
+and 15 U.S.C. § 6501.
+[10] Anders Gyllenhaal & Ken Paulson, Freedom
+of Information in the Digital Age, Apr. 2001, at http://www.freedomforum.org/.
+[11] The Privacy Best Practice, Forrester Research,
+Sept. 1999.
+[12] Susannah Fox, Trust and Privacy Online: Why
+Americans Want to Rewrite the Rules, the Pew Internet & American
+Life Project, Aug. 20, 2000.
+[13] Business Week/Harris Poll: A Growing Threat,
+BusinessWeek, Mar. 20, 2000, at http://www.businessweek.com:/2000/00_12/b3673010.htm.
+[14] See North Dakota Secretary of State, Citizens
+for North Dakota's Future Year End Measure Report (2002)($193,000 raised);
+cf. North Dakota Secretary of State, Protect Our Privacy's Year
+End Measure Report (2002)($27,000 raised).
+[15]North Dakota Secretary of State, Official Election
+Results (Jun. 11, 2002).
+[16] See Letter from Marc Rotenberg, Executive
+Director, Electronic Privacy Information Center, to Ivan Seidenberg,
+President and co-CEO, Verizon (Feb. 7, 2002), at http://www.epic.org/privacy/cpni/verizonletter.html.
+[17] See e.g. http://www.epic.org/privacy/cpni/verizon_optout.jpg.
+[18] See Privacy Rights Clearinghouse, Opt Out
+of Releasing Customer Proprietary Network Information (CPNI), Apr. 2004,
+http://www.privacyrights.org/fs/fs1aplus-cpni.htm.
+[19] "I spent 30 minutes on the phone with T-Mobile
+customer service (611) recently trying to opt out of CPNI sharing. The
+person I spoke to had no idea what I was talking about was, even after
+I explained it in detail. The closest thing she knew of was preventing
+my name from appearing on Caller ID. Later in the call, after some time
+spent on hold, she read me a PR statement from T-Mobile commenting on
+the procuring of call data by unscrupulous companies (T-Mobile doesn't
+condone it, blah blah) and offered to put a password on my account so
+this couldn't be done. "At one point, I explained that the FCC provides
+for this right of consumers to opt out of CPNI sharing, etc., and she
+suggested I call the FCC to ask them exactly what this "Customer
+Proprietary Network Information" is all about -- 'cause she sure
+never heard of it."  See Adam Shostak, Selling Your Phone
+Records, Emergent Chaos, Feb. 10, 2006, available at http://www.emergentchaos.com/archives/2006/02/selling_your_ph.html
+[20] 182 F.3d 1224 (10th Cir. 1999).
+[21] Most recently, in White Buffalo Ventures, LLC
+v. Univ. of Texas, 420 F.3d 366 (5th Cir. 2005), cert. Denied,
+2006 U.S. LEXIS 61 (U.S. Jan. 9, 2006) (Supreme Court denied review
+of a 5th Circuit decision that rejected a First Amendment challenge
+to the spam filtering performed at a public university); Trans Union
+v. FTC, 245 F.3d 809 (D.C. Cir. 2001), rehearing denied,
+267 F.3d 1138 (2001), cert. denied, 122 S. Ct. 2386 (U.S. 2002)
+(D.C. Circuit upheld the Fair Credit Reporting Act against First Amendment
+challenges to restrictions on marketing use of credit files); Trans
+Union v. FTC, 295 F.3d 42 (D.C. Cir. 2002), rehearing en banc
+denied, 2002 U.S. App. LEXIS 22105 (D.C. Cir. Oct. 22, 2002) (D.C.
+Circuit rejected a First Amendment challenge to the provisions of the
+Gramm-Leach-Bliley Act prohibiting secondary use of Social Security
+Numbers).  Many courts have upheld the Telephone Consumer Protection
+Act, the law that creates the authority for the Do-Not-Call list, opt-in
+prohibitions on sending junk faxes, and prohibitions on prerecorded
+phone messages. Most recently, in Missouri ex rel. Nixon v. Am. Blast
+Fax, Inc., 323 F.3d 649 (8th Cir. 2003), cert. Denied, 540
+U.S. 1104 (US 2004), the 8th Circuit upheld it, in yet another case
+that was denied review by the Supreme Court. Other cases upholding the
+TCPA against First Amendment attack include: Destination Ventures,
+Ltd. v. F.C.C., 46 F.3d 54 (9th Cir. 1995); Moser v. FCC,
+46 F.3d 970 (9th Cir. 1995) cert. Denied, 515 U.S. 1161 (1995);
+and there are several district court level decisions upholding the law.
+In Anderson v. Treadwell, 294 F.3d 453, (2d Cir. 2002), cert.
+Denied, 538 U.S. 906 (US 2003), the Second Circuit upheld a New
+York state "anti-blockbusting" law, one that allowed homeowners
+to opt-out of solicitations designed to churn the hosing market by highlighting
+racial influx in the neighborhood. Even the right to force people to
+receive these distasteful solicitations was appealed to the Supreme
+Court, but they chose not to take the case.
+[22] Mainstream Mktg. Servs. v. FTC, 358 F.3d
+1228 (10th Cir 2004), cert. Denied, 125 S. Ct. 47 (US 2004).
+[23] Li Yuan, Companies Face System Attacks From Inside,
+Too, Wall Street Journal, Jun. 1, 2005, available at http://online.wsj.com/article/SB111758346264947645.html.
+[24] See http://myfloridalegal.com/webfiles.nsf/WF/MRAY-6M9RY3/$file/Global_Complaint.pdf.
+[25] See http://www.ftc.gov/opa/2006/03/jointprprivacy.htm
+EPIC Privacy Page | EPIC
+Home Page
+Last Updated:
+April 28, 2006
+Page URL: http://www.epic.org/privacy/iei/fcccom42806.html

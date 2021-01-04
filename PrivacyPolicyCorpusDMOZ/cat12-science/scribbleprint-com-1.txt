@@ -1,0 +1,3 @@
+http://scribbleprint.com/terms-conditions/
+Fatal error:
+Default value for parameters with a class type hint can only be NULL in /home/scradmin/public_html/wp-content/plugins/jm-twitter-cards/admin/Options.php on line 24

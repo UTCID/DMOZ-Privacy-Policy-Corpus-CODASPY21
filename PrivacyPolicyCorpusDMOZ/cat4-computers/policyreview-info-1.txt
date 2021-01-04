@@ -1,0 +1,182 @@
+http://policyreview.info/articles/analysis/how-open-hardware-drives-digital-fabrication-tools-such-3d-printer
+Categories
+Infrastructure & Standards
+Innovation
+Information & Data
+Intellectual Property Rights
+Privacy & Security
+Governance
+Volume 2, Issue 2
+3
+How open hardware drives digital fabrication tools such as the 3D printer
+Johan Söderberg, Laboratoire Techniques, Territoires et Sociétés (LATTS),
+Institut Francilien Recherche Innovation Société (IFRIS), Paris, France
+PUBLISHED ON: 18 Jun 2013 DOI: 10.14763/2013.2.138
+Abstract
+A case study of hobbyists developing a desktop 3D printer, indicative of a broader movement around open hardware development, is used to advance a theoretical apparatus drawing on social movement research. This is proposed as an alternative to how innovation by users is typically studied in innovation studies literature, namely, as discrete, isolated cases. Open hardware development projects make up a larger ecology, held together by common ideas, a shared communication infrastructure, conferences and licenses, among other things, and it therefore makes sense to look at them as part of a single movement.
+Citation & publishing information
+Received: May 4, 2013 Reviewed: May 17, 2014 Published: June 18, 2013
+Licence: Creative Commons Attribution 3.0 Germany
+Competing interests: The author has declared that no competing interests exist that have influenced the text.
+Keywords: Digital fabrication, 3D Printer, Innovation, Open hardware, Arduino, Ronja, Rep-rap, Hardware Citation:
+Söderberg, J. (2013). How open hardware drives digital fabrication tools such as the 3D printer. Internet Policy Review, 2(2). https://doi.org/10.14763/2013.2.138
+Advances are rapidly being made in what has been variously labeled "personal-", "desktop-" or "digital fabrication". The most often discussed example is low-cost, easy-to-use 3D printers that allow ordinary users to "print" objects in their homes. 3D printers and other technologies of the same kind are believed to create radical new possibilities for inducing new consumer habits and transforming existing production methods. According to a row of policy institutes, digital fabrication will become a motor for economic growth and social innovation (MAKE, 2011; IDA paper, 2012). Echoing the same promises, the business press has announced the advent of personal manufacturing and a third industrial revolution (Economist, 2011; 2012). Some policy reports even claim that digital fabrication could restore the competitiveness of manufacturing in developed nations and reverse the trend of outsourcing (Lipson & Kurman, 2012). The positive economic outcomes expected from this technology are linked to the hope that digital fabrication tools will open up innovation processes to heterogeneous actors, such as grassroots groups, start-up firms, and users (Chesbrough, 2003; Lipson & Kurman, 2012).
+At a closer look, it turns out that grassroots groups are not merely on the forefront in experimenting with uses of low-cost digital fabrication tools. The tools themselves have often been invented by such groups in the first place. For example, the booming market in low-cost 3D printers, the crown jewel among digital fabrication tools, owes its existence to an open source project called Rep-rap. The vision behind the project is suggested by its acronym, self-REPlicating RAPid prototyper. The idea of building a 'printer that prints itself' is tied together with dreams of putting in place an infrastructure by and for grassroots innovators. In so doing, at least some of the developers and users of Rep-rap hope to render obsolete the industrial, centralised and commercial mode of technology development. The visions propelling the Rep-rap project depart a great deal from the ideas that are now being touted in the business press, by policy institutes, and salesmen of 3D printing firms.
+In what follows, I argue that the sudden appearance of digital fabrication tools only makes sense when understood against the backdrop of an emerging movement around open hardware development. This prompts us to adopt a different theoretical apparatus and terminology, than that which has up until now been mobilised by innovation studies scholars studying isolated, discrete cases of user innovation. The latter approach has some plausibility when the object of study is a clearly delimited group of users. Say, a group of sport fans developing mountain bikes (Luthje, Herstatt, Hippel, 2005), and who have nothing in common with some other group developing kayaks (Hienerth, 2006). The problem starts when such an on-off approach is made into a general model for studying innovation by users. Depending on the starting assumptions and the interpretative framework, the empirical object under examination is bound to come out differently.
+I propose to borrow the notion of 'framing processes' from social movement research. What this perspective brings to the table is a sustained attention to the way practitioners make sense of themselves and their standing in the world (Snow, et al., 1986; Snow & Benford, 2000). A merit with this outlook is that it decentres the product and corresponding consumer markets, now seen as peripheral outcomes of group dynamics and framing processes. The technical practices are evolving in tandem with the hammering out of ethical and political standpoints. In the case of users designing digital fabrication tools, I will argue in what follows, the framing process is centred around the idea of ”openness”. This 'hammering out', by which the movement comes into its own, typically takes place in confrontations with countervailing forces in society. The expansion of intellectual property to include 3D objects is likely to present the occasion. The first cease and desist letters concerning 3D printed objects have already been sent out to suspected infringers, and lobbyists are already making arguments for extending intellectual property law to this new domain (Rideout, 2012).
+Outlines of an open hardware movement
+The surge of homebrewed digital fabrication tools today is in continuation with a longer trajectory of open hardware development. As with so many other things today, good or bad, this trend can be traced back to the small-is-beautiful philosophy that flourished in the 1960s American counterculture, culminating in the legendary Homebrew Computer Club (Levy 1984; Flichy 2007). Two forerunners to the movement around open hardware in the late 1990s and early 2000 were the Open Cores project - although it occupied a middle ground between software and hardware development, and the short-lived Simputer project - an initiative in India to produce a computer more suitable for developing countries (Seaman, 2001). Arguably, the first project that vindicated the methods and licensing schemes of free software development, applied those practices to open hardware development, and pulled off a state-of-the-art technology without any backing from universities or firms, was the Ronja project. It was started by Karel 'Clock' Kulhavý in 2001 and served the Czech wireless network community with a tool that was in high demand at the time. Ronja was a high-speed, cheap and reliable network device, transmitting data using free space light (Söderberg, 2010). Many of the characteristics, peculiarities and conflicts that marked the Ronja project are recurring in present-day projects developing open hardware products.
+Developing a 'toolchain' for digital fabrication
+At the moment, the number of open hardware projects is growing explosively. A critical infrastructure for sustaining those projects has been created with the spread of physical spaces for innovation and fabrication, variously labelled hacklabs, makerspaces, fablabs, community innovation centres, or something else again (Maxigas, 2012; Kera, 2012). Another catalyst seems to have been the early breakthrough of the Arduino microcontroller (Paoli, 2011). For example, derivatives of Arduino provided a critical component in the open source Rep-rap 3D printer for some time. The 3D printer itself, of course, holds out the promise of becoming a stepping stone in other open hardware projects (Ratto & Ree, 2012). And, above and beyond the 3D printer, projects are underway to develop all kinds of machinery tools, including laser cutters, lathes, Computer Numerical Control machines, and robotics. The wider significance hereof becomes clearer, when recalling the early days of the free software movement. When Richard Stallman invented the concept of ”free software” in 1985, the first thing he did was to create tools for writing software code, the GNU toolchain. Once the tools for writing software had been made available under a free license, many other kinds of free software projects began to flourish. The invention of a toolchain for digital fabrication will probably have a similar importance for the future growth of open hardware.
+Equally dazzling is the speed by which markets and firms are being established in connection to open hardware projects. In this respect too, the Rep-rap 3D printer project takes the lead. The first garage firm based on the technology, Bites-from-Bytes, was created in 2008. In the following year, a small consumer market in 3D printers began to flourish, and many more garage-firms were created. In 2011, the second oldest startup, Makerbot Industries, secured 10 million dollars in venture capital, and Bites-from-Bytes was bought by a multinational manufacturing company, 3D Systems, for an undisclosed sum of money. The market for industrial and consumer-grade 3D printers is now estimated to grow to $3.1 billion worldwide in 2016 (Wohlers, 2011). This is all the more remarkable, considering that the by-line of the Rep-rap project is: “wealth-without-money” (Bowyer, 2004).
+Open/user innovation in the field of open hardware development
+The central question of this investigation asks what kind of explanatory framework is prompted by the surge of a movement around open hardware. The discipline of Innovation Studies might seem to be well placed to respond to current developments. Indeed, long before the label ”open hardware” was coined, innovation studies scholars following Eric von Hippel's lead were studying users developing hardware products. Granted that, more often than not, these innovations were more aesthetic than technical in character. The litmus test for deciding whether or not a significant discovery has been made is not the technical complexity of a product, but if it gives rise to a consumer market. Empirical material to back up the theoretical claims in innovations studies have been found in many different walks of life. The surge of open hardware development, where users are inventing technically intricate products - such as digital fabrication tools - presents itself as yet another example of user innovation. For instance, in their survey of open hardware projects, K. Balka and her colleagues have chosen to use the more inclusive label 'open design' over 'open hardware'. The advantage with the former label is that, being more inclusive, it allows them to connect to earlier studies of user innovation. Open hardware is thus perceived as a subset of user innovation more broadly (Balka, Raasch, Herstatt, 2009). Subsequently, grassroots groups developing digital fabrication tools can be studied with the same methods and theoretical apparatus as has previously been mobilised in studies of things like sports equipment (Luthje, Herstatt, von Hippel, 2005) and juvenile products (Shah and Tripsas, 2007). This approach has a major drawback, however, in that it becomes hard to register that which is specific to one or another field. A particularly stunning example hereof is a case study of the peer-to-peer platform Freenet, made by three leading innovation studies scholars. The individual motives of the developers behind Freenet are carefully registered and slotted in according to the pre-given model, without ever mentioning the mission of the undertaking as a whole, which is to protect free speech (von Krogh, Spaeth, Lakhani, 2003).
+User innovation in digital fabrication points as pitfalls in current innovation theory
+Before developing my critique any further, credit should be given to the advances that have been made over older, linear models of innovation. Innovation studies scholars have turned the table on the assumption that innovations simply flow from corporate R&D departments and reach users through consumer markets (Godin, 2006). It has been convincingly argued that companies do not always initiate, but often appropriate, discoveries that were first made by users and customers. Alternatively, companies are created by users after they accidentally have discovered some improvement while using a product (von Hippel, 2005). Furthermore, innovation studies scholars have introduced nuances to the old, economic model of what drives people to innovate. Pecuniary motives are still seen as an important factor. But so are the wish to have fun, to learn useful skills, to gain recognition from peers, and, finally, the craving for a product better accustomed to one's needs than anything available on the market for the time being (Morton and Podolny, 2002).
+In the last point, we explore the fact that most studies of user innovation suggest that users are motivated to innovate in order to have better products. Users are motivated to invent and reveal information to each other so that they can develop a product that better approximates their needs and fancies. The user, thus understood, is a consumer avant-la-lettre. The only thing that distinguishes her from ordinary consumers is that the desired consumer product and corresponding markets have not-yet come into existence. The creation of such a consumer market is the telos, to borrow an out-of-place term, of the innovation process.
+A problem arises when this theoretical apparatus is applied to digital fabrication tools. The object in question is not intended for consumption, but for fabrication. Differently put, we are following grassroots groups whose practices are oriented towards process innovations in the sphere of production, rather than product innovations in the sphere of consumption. It is for the sake of clarity that I overstate the difference between production and consumption, knowing that the two cannot so easily be told apart. Nevertheless, phrasing the argument in those terms pushes us to think harder about what has been presupposed in the notion of the ”user”. Like the consumer, the user is understood to be a free-floating atom, detached from history and society, even when the number of users adds up to make a ”community” (Haroff, Henkel, von Hippel, 2003). It follows that the community is nothing more than an empty space where individuals exchange information with each other. Lost is a deeper understanding of the dynamic transformations of a community over the course of its life-cycle, bound up with transformations in society at large (for such a critique, see Oost, Verhaegh and Oudshoorn, 2009; Söderberg, 2011).
+Innovation processes and open hardware development
+Product innovation strives to develop a consumer good that satisfies a new need or demand, while process innovations aim for reducing production costs and/or increase output, with the ultimate goal of having more products. Digital fabrication tools incarnate the second type of innovation. Having said that, the homebrewed versions of this technology have been developed under conditions altogether different from the ones encountered in a large manufacturing plant. Subsequently, to streamline this production process presupposes entirely different engineering problems and benchmarks than those typically assumed in economics schoolbooks. The primary obstacles that hobby engineers encounter are limited know-how among fellow hobbyists and material and financial constraints, under which they tend to work. Consequently, 'process innovation' in this setting strives for more user-friendly, easy-to-assemble digital fabrication tools, built from generally available and cheap, off-the-shelve components (Söderberg, 2010). What the grassroots groups are aiming for, in other words, is to bootstrap the material infrastructure that enables them to innovate in the first place.
+This points to a precondition for innovation that nevertheless has been given little attention in innovation studies literature, namely the constraints of material infrastructure and the importance of design choices. In saying this, I am merely rehearsing insights from STS scholars in the social construction of technology-tradition (Pinch and Bijker, 1984). Perhaps the omission of infrastructure and design in innovation studies can be explained with the heritage of the economic discipline. In economics, technology is considered as just one more ceteris paribus (assumption that technology remains unchanged). The problem is, if researchers do not take a sustained interest in design choices, one compelling reason for grassroots groups to engage in (process) innovation disappears from view. If this much is granted, we are confronted with the circularity of a goal such as 'making a printer that makes a printer'. At least as concerns the core developers pushing this technology forward, the circle is never closed in a product with a use or exchange-value, something that could bestow purpose and meaning to their endeavour.
+To make any sense of it at all, we need to shift the interpretative framework. Instead of an aggregation of atomistic users with overlapping (but individual) incentives, we must stipulate a collective of sort, held together by shared worldviews, norms and identities. From the latter vantage point, we see that the recursive nature of the tool is mirrored in the recursive nature of the group itself. Put differently, the tools are but one moment in the larger process by which the community constitutes itself and asserts its autonomy vis-à-vis other entities in the world.
+I wage on that the interpretative framework here proposed will gain in plausibility with the changes taking place on the ground. What recently appeared to be singular and spectacular instances of open or user-innovation in the field of digital fabrication tools must now be reinterpreted in light of growing cooperation and inter-connectedness across individual development projects. In the last few years, common repositories for 3D designs and software have been created, attempts are being made to erect a legal framework around open hardware development, fairs and conferences are organised and visited by the same people, etc. All of which converges in the creation of a common (geek) public, to use Chris Kelty's expression (Kelty, 2008). It follows that the work of one team of users in one project cannot be treated in isolation from other teams and projects. The recursive dynamic implied in 'making a tool to make a better tool' overspills the individual project and transforms the horizon for what is possible to do in the open hardware movement as a whole. The discrete, one-off approach to studying product innovation by user-consumers, i.e. the approach dominant in innovation studies, cannot take account of process innovations by users that, like the tide, “raise all the boats”. The reason is that the over spilling of methods, software, engineering practices, and so on, from one project to another, is predicated by all the other things that are held in common in this geek public, their worldviews, their norms, and politics. Or, differently put, by the framing process around ”open hardware”.
+Conclusion
+The interpretative framework that I am advocating, borrowed from social movement theory, will look increasingly plausible, the further a movement around open hardware development gets in constituting itself as such. The innovations and design choices stemming from this movement are inseparable from how it frames its activities and interprets its place in the world.
+We can expect this framing process to be catalysed by the conflicts over intellectual property, currently in the waiting. The free software movement came into existence in part in reaction to the expansion of copyright claims to include machine-readable software. The law had been changed at a previous date in the U.S., but firms only began to exercise their new rights in the mid-1980s.
+There have already been skirmishes over intellectual property with regards to 3D objects. Lobbying is underway to extend international, intellectual property law to this new domain. Claims for ownership will not be enforceable, however, without supplementary clauses that regulate 'circumvention devices'. That is to say, devices indistinguishable from openly licensed and modular, digital fabrication tools (Söderberg and Adel, 2012). As the financial stakes in this field surge, external pressure from intellectual property claimants and industry lobbyists will build up too. Concurrently, the community will be forced to respond to attempts by individuals and firms to enclose openly licensed information and designs. An interpretative framework centred on meaning constructions and norms in the community is required in order to make sense of this development. Without such a deep-probing, open-ended investigation of the movement around open hardware, we will not understand much about the innovations stemming from this movement neither. As an added bonus, the interpretative framework here proposed allows us to pose the question of whether, after consumer markets and an industry have established around open hardware products, the original goals of the movement were realised thanks to this success, or, rather, if they have merely been recuperated.
+References
+Balka, K., Raasch, C. & Herstatt, C. (2009). On the open design of tangible goods. R&D Management 39, 4, 382-393.
+Bonaccorsi, A., Giannangeli, S. and Rossi, C. (2004). Entry Strategies Under Competing Standards: Hybrid Business Models in the Open Source Software Industry. Management Science, 52 (7), 1085-1098.
+Bowyer, A. (2004). Wealth without money. Retrieved from http://reprap.org/wiki/Wealth_Without_Money.
+Chesbrough, W. (2003). The era of open innovation. Sloan Management Review, 44(3), 35-41.
+The Economist. (2011). Print me a Stradivarius: How a new manufacturing technology will change the world. Retrieved from http://www.economist.com/node/18114327
+Flichy, P. (2007) The internet imaginaire. Cambridge, MA: MIT Press.
+Hart, D. (2012) The future of manufacturing. Innovations: Technology, Governance, Globalization, 7 (3), 25-34.
+Hienerth, C. (2006). The commercialization of user innovations: The development of the rodeo kayak industry. R & D Management, 36, 273-94.
+von Hippel, E. (2005) Democratizing innovation. Cambridge MA: MIT Press.
+Institute for Defense Analyses (IDA). (2012). Emerging Global Trends in Advanced Manufacturing. Alexandria, Virginia.
+Kelty, C. (2008). Two Bits: The Cultural Significance of Free Software and the Internet. Durham: Duke University Press.
+Kera, D. (2012). Hackerspaces and DIYbio in Asia: connecting science and community with open data, kits and protocols. Journal of Peer Production, 1 (2). Retrieved from http://peerproduction.net/issues/issue-2/peer-reviewed-papers/diybio-in-asia/
+von Krogh, G., Spaeth, S. & Lakhani, K. (2003). Community, joining, and specialization in open source software innovation: a case study. Research Policy,, 32, 1217–1241.
+Lettl, C., Herstatt, C., & Gemuenden, H. (2006). Users’ contributions to radical innovation: Evidence from four cases in the field of medical equipment technology. R&D Management, 36, 251-272.
+Levy, S. (1984). Hackers: The heroes of the computer revolution. Garden City, NY: Anchor Press.
+Lipson, H., & Kurman, M. (2012). Factory@Home: The Emerging Economy of Personal Manufacturing. Washington, DC: US Office of Science and Technology Policy Institute.
+Luthje, C., Herstatt, C. & Hippel, E. (2005). User-innovators and ‘‘local’’ information: The case of mountain biking. Research Policy, 34, 951-956.
+Malinen, T., Mikkonen, T., Tienvieri, V. and Vadén, T. (2011). Community created open source hardware: A case study of "eCars – Now. First Monday, 16(5).
+Markillie, P. (2012). A Third Industrial Revolution. The Economist. Retrieved from http://www.economist.com/node/21552901.
+Maxigas. (2012). Hacklabs and Hackerspaces – Tracing two genealogies. Journal of Peer Production 1(2). Retrieved from: http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/
+Morton, S., and Podolny, J. (2002). Love or money? The effects of owner motivation in the California wine industry. Journal of Industrial Economics, 50, 431-56.
+Mulgan, G. (2006). The process of social innovation. Innovations: Technology, Governance, Globalization, 1(2), 145-162.
+Paoli, S. (2011). Produsage in hybrid networks: Sociotechnical skills in the case of Arduino. New Review of Hypermedia and Multimedia, 17(1), 31-52.
+Pinch, T. & Bijker, W. (1984) The Social Construction of Facts and Artefacts: Or How the Sociology of Science and the Sociology of Technology Might Benefit Each Other." Social Studies of Science 14: 399-441.
+Raghu, G., Hardy, C. and Maguire, S. (2007) Institutional entrepreneurship as embedded agency: An introduction to the special issue. Organization studies, 28(7), 957-69.
+Rideout, B. (2011). Printing the Impossible Triangle: The Copyright Implications of Three-Dimensional Printing. 5 J. Bus. Entrepreneurship & L. Retrieved from http://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=1074&context=jbel
+Seaman, G. (2001). Free Hardware Design - Past, Present, Future. Retrieved from http://opencollector.org/Whyfree/freedesign.html
+Shah, S. & Tripsas, M. (2007) The accidental entrepreneur: The emergent and collective process of user entrepreneurship. Strategic Entrepreneurship Journal 1, 123-40.
+Snow, D., Rochford, B., & Worden, S. (1986) Frame alignment processes, micromobilisation and movement participation. American Sociological Review, 51(4), 464-481.
+Snow, D., Benford, R. (2000a). Clarifying the relationship between framing and ideology. Mobilization: An International Quarterly, 5(1), 55-60.
+Söderberg, J. (2010). Reconstructivism versus critical theory of technology: Alternative perspectives on activism and institutional entrepreneurship in the czech wireless community. Social Epistemology, 24 (4), 239-262 .
+Söderberg, J. and Daoud, A. (2012). Atoms want to be free too! TripleC, 10(1). Retrieved from http://www.triple-c.at/index.php/tripleC/article/view/288
+Wohlers. (2011). Wohlers Report 2011.
+3 Comments
+Marco SchwartzGreat article ! You speak a
+24 June, 2013 - 22:19
+Great article ! You speak a lot about how hobbyists and small firms are using open-source hardware and 3D printing, do you think it will also spread in the world of academic research ?
+J. SöderbergThanks Marco, I am glad you
+25 June, 2013 - 11:22
+Thanks Marco, I am glad you liked the text. Certainly "amateurisation" if you will is becoming influential in most corners of economic activity, including academic research. However, in that particular case, it might be more correct to say that the trend towards a professionalisation of research that has lasted for the past century or so is now being reversed. Most telling perhaps is how the systems initially created to crowdfound engineering/hobby-project are spreading, recently a Swedish funding agency begun to experiment with this model for financing academic research. For good or bad...
+laxmiThank you for such a
+21 November, 2013 - 11:01
+Thank you for such a fantastic blog. Where else could anyone get that kind of info written in such a perfect way? I have a presentation that I am presently working on, and I have been on the look out for such information.
+Add new comment
+Your name *
+E-mail *
+Homepage
+Comment *
+Download PDF
+Cite
+APASöderberg, J. (2013). How open hardware drives digital fabrication tools such as the 3D printer. Internet Policy Review, 2(2). https://doi.org/10.14763/2013.2.138ChicagoSöderberg, Johan. 2013. "How open hardware drives digital fabrication tools such as the 3D printer". Internet Policy Review 2 (2). DOI: 10.14763/2013.2.138. https://policyreview.info/articles/analysis/how-open-hardware-drives-digital-fabrication-tools-such-3d-printer.HarvardSöderberg, J. (2013). How open hardware drives digital fabrication tools such as the 3D printer. Internet Policy Review,[online] 2(2). Available at: https://policyreview.info/articles/analysis/how-open-hardware-drives-digital-fabrication-tools-such-3d-printer [Accessed: 11 Dec. 2020].MLASöderberg, Johan. "How open hardware drives digital fabrication tools such as the 3D printer". Internet Policy Review 2.2 (2013). Web. 11 Dec. 2020.VancouverSöderberg J. How open hardware drives digital fabrication tools such as the 3D printer. Internet Policy Review [Internet]. 2013 [11 December 2020];2(2). Available from: https://policyreview.info/articles/analysis/how-open-hardware-drives-digital-fabrication-tools-such-3d-printer
+Tweet
+Category Innovation
+Keywords Digital fabrication
+3D Printer
+Innovation
+Open hardware
+Arduino
+Ronja
+Rep-rap
+Hardware
+Actors grassroots groups
+Homebrew Computer Club
+GNU Linux
+Karel 'Clock' Kulhavý
+Scope World
+USA
+Stakeholder Industry
+Business
+Civil Society
+Metrics
+Metrics Loading...
+Views
+More information about Metrics
+Related Articles
+Volume 2, Issue 2
+1
+Fooling the user? Modding in the video game industry
+Merlin Münch, Alexander von Humboldt Institute for Internet and Society
+PUBLISHED ON: 19 Jun 2013 DOI: 10.14763/2013.2.139
+Over the years, the video game industry has grown into one of the largest, most profitable entertainment industries in the world. Originality and innovation - instead of fueling competition and guaranteeing a diverse market - are regarded by many as risky ventures. Some would even argue that innovation in the industry is not really innovative at
+KEYWORDS: Innovation, Game development, User-generated content
+Cryptocurrency
+1
+The regulation of cryptocurrencies: from disintermediation to reintermediation
+Andy Yee, Visa
+PUBLISHED ON: 14 Jan 2015
+Contrary to the early view that cryptocurrencies’ decentralisation makes them unregulable, the formation of new intermediaries will guarantee regulators’ ultimate power. The key challenge is how to balance control and innovation.
+Privacy
+App development: is ‘privacy by design' the new standard?
+Kirsten
+Gollatz, Humboldt Institute for Internet and Society (HIIG)
+PUBLISHED ON: 28 Mar 2013
+Over the last few years, privacy has become a trending topic when it comes to the mobile internet. Mobile app developers and providers of app stores have increasingly been put under pressure by privacy advocates.
+Standards
+Internet engineers now avidly reviewing standards and cryptography
+Monika Ermert, Heise, Intellectual Property Watch, VDI-Nachrichten
+PUBLISHED ON: 29 May 2014
+Edward Snowden can be proud. He has triggered the technical community to revisit cryptography in hardware and algorithms and, standards in internet protocols. Monika Ermert provides a snapshop of latest initiatives presented at RIPE 68.
+Volume 6, Issue 1
+Towards responsive regulation of the Internet of Things: Australian perspectives
+Megan Richardson, The University of Melbourne
+Rachelle Bosua, The University of Melbourne
+Karin Clark, The University of Melbourne
+Jeb Webb, The University of Melbourne
+Atif Ahmad, The University of Melbourne
+Sean Maynard, The University of Melbourne
+PUBLISHED ON: 14 Mar 2017 DOI: 10.14763/2017.1.455
+This paper is part of Australian internet policy , a special issue of Internet Policy Review guest-edited by Angela Daly and Julian Thomas. Acknowledgement: Thanks to the Melbourne Networked Society Institute at the University of Melbourne for funding our research project ‘The Internet of Things (IoT) and Consumer Privacy’, 2015-2016, and to our
+KEYWORDS: Internet of things, Innovation
+Internet Policy Review is an open access and peer-reviewed journal on internet regulation.
+Scholars, regulators, journalists, activists, and other stakeholders publish in the journal in a variety of formats
+peer reviewed
+Research articles
+In-depth scholarly research papers and essays
+Concepts
+Critical reflections on emerging core concepts of the digital society
+Editorials
+Contextual or thematic introductions to special issues
+not peer reviewed
+Essays
+Free-form yet in-depth contentions with issues of academic or social relevance
+News
+Journalistic reports on events of interest to the Internet Policy Review community
+Opinions
+Opinion pieces commenting on developments in the realm of internet policy
+Open Abstract
+Extended abstracts for works in progress that receive public peer review
+Published by
+Alexander von Humboldt Institute for Internet and SocietyLogo of the Alexander von Humboldt Institute for Internet and Society gGmbH
+in cooperation with
+and additional partners
+Connect
+Follow us @POLICYR
+emailSubscribe NEWSLETTER

@@ -1,0 +1,34 @@
+http://www.simul8.com/help/data-security
+Data Security, Safety & Privacy
+We are committed to ensuring the confidentiality, integrity and availability of the information stored within our software. We take every step to protect from threats, whether internal or external, deliberate or accidental that may impact data security.
+Physical Security
+Operational Security
+Privacy
+Last updated October 31, 2019
+Physical security, data centers and location
+Your data is never stored on our corporate network at any time. Your data is hosted on Amazon Web Services (AWS) EC2 platform. Access to AWS is restricted to authorized personnel only and we require that our employees with privileged access never store your data on physical media outside of our data hosting provider's production environments.
+Our AWS physical servers are located in AWS’s EC2 data centers. As of this date, AWS (i) has certifications for compliance with ISO/IEC 27001:2013, 27017:2015 and 27018:2014, (ii) is certified as a PCI DSS 3.2 Level 1 Service Provider, and (iii) undergoes SOC 1, SOC 2 and SOC 3 audits (with semi-annual reports). Additional details about AWS’ compliance programs, including FedRAMP compliance, can be found at AWS’ website.
+All user content is stored within EU regions of AWS to comply with GDPR. Simul8's production environment is hosted on an AWS EC2 platform. User content can also be found in Simul8 backups, stored in AWS EC2, and S3.
+Learn more about AWS security standards
+Operational security
+Strong encryption
+All data is encrypted over HTTPS using Transport Layer Security (TLS v1.2) protocols with minimum 128-bit keys and using SHA256 certificates, meaning that our users always have a secure connection from their browsers to our service.
+We use the latest, strong ciphers for encryption, message authentication and key exchange mechanism.
+In addition, user passwords are stored in our database via a one-way cryptographic hashing function with salt (random data). Passwords are not stored in plaintext and it’s not possible to reverse engineer the stored value equivalent.
+Preventing vulnerabilities
+We run a continual patching cycle to ensure operating systems, applications and network infrastructure are kept up to date to mitigate any exposure to vulnerabilities.
+The application runs inside a secured and hardened architecture environment, engineered for security to help minimize vulnerabilities according to industry standard guidelines.
+Our application is penetration tested at least once a year by an independent, external certified supplier. This testing blends the identification of technical exposure with business logic flaws that could lead to a breach in security. All testing is completed by experienced testers. This ensures that the tester not only possesses the technical ability to find security weaknesses and vulnerabilities, but also has the skills to ensure findings are presented in a clear, concise and understandable manner. Methodologies are based upon industry recognized standards such as, but not limited to, Open Web Application Security (OWASP), ISECOM (the Institute for Security and Open Methodologies), The National Institute of Standards and Technology (NIST) and the Center for Internet Security (CIS) and utilizes both manual testing and automated tooling to provide coverage.
+People processes
+Our staff are vetted prior to employment. Checks include Proof of Identity, Proof of Right to Work and Proof of Residency.
+We also maintain a suite of internal information security policies, procedures and guidelines, including incident response plans, which all staff, contractors and third parties must follow. These are reviewed at least annually.
+In addition:
+Only employees with the necessary rights and roles have access to our underlying data. We use strong password policies managed through an enterprise password manager, coupled with two-factor authentication, where available.
+Customer data is accessed on an as-needed only basis, and only when approved by the customer (i.e. as part of a support incident), or by operational staff to provide necessary support and maintenance.
+Regular audits are performed and the whole process is reviewed by management to ensure only the right people have access to the necessary data and systems on an ongoing basis.
+Privacy
+Simul8 Corporation does not sell, rent or share data with any third party.
+However, we do utilize some third parties that help provide our services. We ensure that the security measures in place at those third parties have, at the very least, the same high security standards that we employ ourselves.
+Learn more about our Privacy Policy
+Contact us
+If you have any questions about data security, please contact us.

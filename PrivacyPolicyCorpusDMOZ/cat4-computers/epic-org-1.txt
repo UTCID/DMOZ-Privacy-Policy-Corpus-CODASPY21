@@ -1,0 +1,346 @@
+http://epic.org/privacy/cloudcomputing
+Defend Privacy. Donate Now.
+Policy Issues
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Program
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+All Policy Issues
+Our Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+Privacy Campaigns
+Congressional Testimony
+EPIC Publications
+Spotlight on Surveillance
+Press
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+Events
+EPIC Blog
+EPIC Bookstore
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+Public Voice Fund
+Contact EPIC
+Support EPIC
+Cloud Computing
+Introduction |
+Background |
+Types |
+Issues |
+Case Studies |
+News Items |
+Resources
+Top News
+Google to End Email Content Scanning: After a decade of controversy, Google announced that it will stop scanning the content of all Gmail. Google stopped scanning e-mails for education in 2014 after a lawsuit charged that it violated wiretap laws. Google faced similar allegations in many other cases in the United States and around the world. EPIC warned about Google's e-mail scanning practices back in 2005 and filed a complaint with the FTC in 2009 over the privacy risks in Google's insecure cloud computing services, including Gmail. In 2014, EPIC led a successful campaign to stop Google from scanning student emails for
+commercial advertising. Last year, EPIC filed a friend-of-the-court brief in a Massachusetts case, again objecting to Google's Gmail scanning. EPIC explained in 2005 that Google's email service undermined online privacy and prevented the adoption of important security methods, such as end-to-end encryption. (Jun. 23, 2017)
+Google Transparency Report Reveals Risks of Cloud-based Computing: According to a recent report from Google, the company received 20,938 requests for user data in the first half of 2012, up from 18,257 requests in the second half of 2011. The United States accounted for 7,969 requests in the 2012 report. And of these requests, Google provided user data to the US government in 90% of the cases. Over the last several years, Google has pursued an aggressive effort to promote computing services that store personal data on Google's servers even as the number of government requests has grown. And earlier this year, Google reduced safeguards for Gmail users, over the objections of many lawmakers and users, when it consolidated privacy policies across its various Internet services. In 2009, EPIC L3[urged] the Federal Trade Commission to look more closely at the privacy risks of cloud-based services. For more, see EPIC - "Cloud Computing". (Nov. 14, 2012)
+More top news
+European Expert Group Affirms Privacy Rules for Cloud Service Providers (Jul.
+3, 2012) +
+The Article 29 Working Party, representing the privacy agencies of European Union countries, has released a new Opinion in which it states that cloud service providers will be subject to the EU Data Protection Directive. The expert group also advises
+users of cloud-based services to conduct a comprehensive and thorough risk analysis of cloud services. In 2009, EPIC urged the US Federal Trade Commission to develop privacy standards for Cloud Computing services. See EPIC - Cloud Computing.
+Google Terms of Service Grant Company Broad Rights over Data of Google Drive Users (Apr. 26, 2012) +
+Google’s Terms of Service--which govern Google’s cloud-based file storage, Google Drive--give the company the right to “reproduce, modify, create derivative works” using uploaded content, as well as to “publicly perform, [and] publicly display” files. In 2009, EPIC asked the FTC to require privacy safeguards for Google's cloud-based services. EPIC cited previously-discovered privacy and security flaws, including one that disclosed user-generated documents saved on Google Docs to users of the service who lacked permission to view the files, and another that permitted unauthorized individuals to access user-generated Google Docs content. For more information, see EPIC: Cloud Computing and Privacy.
+Google Backs Off Privacy Policy Change for Federal Government (Feb.
+3, 2012) +
+In response
+to growing concern about the impact of Google's proposed policy change on user privacy and cloud-computing services, the company said that its planned privacy changes will not apply to US federal agencies. A report from Safegov.org "Google’s New Privacy Policy Is Unacceptable and Jeopardizes Government Information in the Cloud" recommended that "Google immediately suspend the application of its new privacy policy to Google Apps For Government users." Google told POLITICO's Morning Tech "cloud contracts are crafted with 'narrow, specific obligations' on how data can be used and stored. And those data requirements in the cloud contracts trump the company's standard privacy policy."
+Twitter Adopts Privacy Enhancing Technique, Defaults to HTTPS (Aug. 24, 2011) +
+Twitter has joined the ranks of Gmail with a decision to implement HTTPS functionality by default for all users in order to encrypt data and protect privacy. The change stems from several security problems in early 2011, including two incidents where hackers gained administrative control of the popular service and led to a settlement with the Federal Trade Commission requiring Twitter to adopt stronger security measures. Earlier, EPIC had pointed out the importance of HTTPS by default in a complaint to the Commission regarding Google and Cloud Computing Services. For more information, see EPIC: Social Networking Privacy and EPIC: In re Google and Cloud Computing.
+Chairman Leahy Announces New Subcommittee on Privacy and Technology (Feb. 16, 2011) +
+Sen. Patrick Leahy (D-VT), Chairman of the Senate Judiciary Committee, has established a new Subcommittee on Privacy, Technology and the Law as part of his commitment to protecting “Americans’ privacy in the digital age.” Sen. Al Franken (D-MN) will chair the subcommittee, which will will cover privacy laws and policies, new business practices, social networking sites, privacy standards, and the privacy implications of emerging technologies. For related information, see EPIC: Social Networking Privacy, EPIC: Cloud Computing.
+Facebook Enables Full-Session Encryption (Feb.
+7, 2011) +
+Facebook will now allow full-session HTTPS. The switch to encrypted cloud-based computing promotes privacy and security, particularly when users access Facebook from public Internet access points. Previously, Facebook only used HTTPS when users’ passwords were being sent to the site. Third party applications currently do not support HTTPS. Users can opt into HTTPS through their “Account Settings;” however, HTTPS is not yet the default. Facebook will use "social authentication, rather than traditional CAPTCHA," to deter hackers. EPIC has previously recommended the adoption of strong privacy techniques for cloud-based services. In 2009, EPIC filed a complaint with the Federal Trade Commission, urging an investigation into Google’s cloud computing services to determine the adequacy of privacy and security safeguards. Google subsequently established HTTPS by default for Gmail. For related information, see EPIC: Facebook, EPIC: Cloud Computing, and EPIC: Social Networking Privacy.
+NIST Seeks Comments on Guidelines for Cloud Computing (Feb.
+3, 2011) +
+The National Institute for Standards and Technology (NIST) has announced that it is accepting comments on two draft documents on cloud computing: the NIST Definition of Cloud Computing and the Guidelines on Security and Privacy in Public Cloud Computing. The documents were prepared after the Federal Chief Information Officer asked NIST to develop standards and guidelines to assist the federal government’s secure adoption of cloud computing. EPIC has warned of the ongoing privacy risks associated with cloud computing since its expansion into the public sphere in 2008. In 2009, EPIC filed a complaint with the Federal Trade Commission, urging an investigation into Google’s cloud computing services to determine the adequacy of privacy and security safeguards. Comments on both NIST documents are due no later than February 28, 2011. For more information, see EPIC: Cloud Computing and EPIC: In re Google and Cloud Computing.
+DHS Privacy Office Releases 2010 Annual Report (Sep. 24, 2010) +
+The Department of Homeland Security has released the Privacy Office 2010 Annual Report. The Agency's Chief Privacy Officer must prepare an annual report to Congress that details activities of the Department that affect privacy, including complaints of privacy violations, and DHS compliance with the Privacy Act of 1974. This year’s report details the establishment of privacy officers within each component of the Agency. The report also provides updates on Fusion Centers, Cybersecurity, and Cloud Computing activities of the agency. For more information, see EPIC: DHS Privacy Office.
+Google Adds Two-Factor Authentication to Google Apps (Sep. 24, 2010) +
+Google announced today that it is adding two-factor verification for Google Applications. This will allow users to set up a one-time code delivered to a mobile phone, in addition to a regular password. Currently this option is only available for paid Google apps, although it will be available to all users in the coming months. If an administrator of a paid Google Apps account enables two-factor verification, then all users will be required to submit their mobile phone number. Google Apps operate by using cloud computing. In March 2009, EPIC filed a complaint with the Federal Trade Commission over Google's lack of adequate safeguards for its Cloud Computing Services. For more information, see EPIC: Cloud Computing.
+Pew/Elon Study: Cloud Computing Will Expand, Security and Privacy Issues Must be Addressed (Jun. 11, 2010) +
+According a recent Pew Internet and Elon University survey , most technology experts believe that the next decade will bring increased reliance on internet-based applications and cloud computing. The experts and social analysts surveyed also predicted greater use of mobile devices, with an accompanying reduction in general purpose computing. The survey found that the cloud computing brings considerable privacy and security risks. EPIC has a complaint pending before the Federal Trade Commission on Cloud Computing and Privacy. For more information, see EPIC Cloud Computing.
+Congress Pursues Investigation of Google and Facebook's Business Practices (Jun.
+1, 2010) +
+Following similar letters from other Congressional leaders, the head of the House Judiciary Committee has asked Google Inc. and Facebook to cooperate with government inquiries into privacy practices at both companies. Rep. Conyers (D-MI) noted that Google's collection of user data "may be the subject of federal and state investigations" and asked Google to retain the data until "such time as review of this matter is complete." Rep. Conyers also asked Facebook to provide a detailed explanation regarding its collection and sharing of user information. The House Judiciary Committee is expected to hold hearings on electronic privacy later this year. For more information, see EPIC: Facebook Privacy, EPIC: In re Facebook II, and EPIC: Search Engine Privacy.
+Congress Urges FTC to Investigate Google Following Revelation that "Street View" Scarfed Wi-Fi Data (May. 19, 2010) +
+Congressmen Joe Barton (R-TX) and Edward Markey (D-MA) wrote to FTC Chairman Liebowitz about Google's collection of consumer's private Wi-Fi transmissions. The House members asked the FTC Chairman to investigate whether Google's actions violate federal privacy laws or consumer protection laws. Google has admitted to collecting email and internet surfing data, but has not clarified the extent or nature of the data collection. The letter from Congress follows an investigation in Europe which revealed that Google's "Street View" vehicles in 30 countries collected not only digital images, but also data transmitted on private wireless networks. EPIC has several privacy complaints pending at the FTC, including one on Cloud Computing.
+FCC Release National Broadband Plan, Privacy Strategy Unclear (Mar. 17, 2010) +
+The Federal Communications Commission (FCC) released its National Broadband Plan today. The FCC notes that “many users are increasingly concerned about their lack of control over sensitive personal data" and warns that "Innovation will suffer if a lack of trust exists between users and entities with which they interact over the internet.” The FCC makes several recommendations, but there is no clear plan to address growing concerns about cloud computing, smart grids and unfair and deceptive trade practices. Last year, EPIC urged the FCC to develop a comprehensive strategy for online privacy as part of the national broadband strategy.
+EPIC Recommends Effective Consumer Privacy Standards, Calls Notice and Choice a "Failed Experiment" (Mar. 17, 2010) +
+At the third FTC Privacy Roundtable, EPIC senior counsel John Verdi will recommend that the Commission push forward with effective and meaningful privacy safeguards for American consumers. Mr. Verdi will say that the "notice and choice" approach has failed, and will recommend that the FTC enforce Fair Information Practices, such as the OECD Privacy Guidelines. The discussion can be viewed via webcast. Additional information on the FTC roundtable event can be found here. For more information, see EPIC In re Google Buzz, EPIC In re Facebook, and EPIC In re Google and Cloud Computing.
+EPIC Seeks Records on Google-NSA Relationship (Feb.
+4, 2010) +
+Today EPIC filed a Freedom of Information Act request with the National Security Agency, seeking records regarding the relationship between Google and the NSA. The press reported that Google and the NSA have entered into a partnership following a recent hacker attack on Google originating from China. The EPIC FOIA request also seeks NSA communications with Google regarding Google's failure to encrypt Gmail and cloud computing services. In March 2009, EPIC filed a complaint with the Federal Trade Commission urging it to investigate the adequacy of Google's cloud computing privacy and security safeguards. Today EPIC also filed a lawsuit against the National Security Agency and the National Security Council, seeking a key document governing national cybersecurity policy. For more information, see EPIC FOIA Litigation and EPIC Cloud Computing.
+EPIC Urges FTC to Protect Users' Privacy On Cloud Computing and Social Networking Services (Jan. 28, 2010) +
+EPIC submitted comments to the FTC prior to the agency’s second privacy roundtable. EPIC warned of the ongoing privacy risks associated with cloud computing and social networking privacy, highlighting the Google cloud computing complaint and Facebook privacy complaint filed by EPIC in 2009. The comments note that the FTC has failed to take any meaningful action with respect to either complaint, demonstrating the Commission's “lack of leadership and technical expertise.” EPIC's comments also draw attention to the success of international privacy initiatives, in hopes of encouraging the FTC to take meaningful action to protect American consumers. For more information, see EPIC: Cloud Computing and EPIC: Social Networking Privacy.
+FTC Tells FCC it is Pursuing EPIC's Cloud Computing Complaint (Jan.
+6, 2010) +
+The Federal Trade Commission is urging the Federal Communications Commission to consider the privacy implications of cloud computing in formulating the National Broadband Plan, due to Congress next month. The FTC interest into cloud computing was prompted by an EPIC complaint to the FTC in March 2009, in which EPIC described numerous privacy and security risk involving cloud-based applications. A subsequent letter from computer researchers and security experts supported EPIC's findings. For more information, see EPIC: Cloud Computing.
+ENISA Report Examines Cloud Computing and Privacy (Nov. 25, 2009) +
+The European Network and Information Security Agency has released a new report on Cloud Computing. The ENISA report recommends that European officials determine the application of data protection laws to cloud computing services. The report also considers whether personal data may be transferred to countries lacking adequate privacy protection, whether customers should be notified of data breaches, and rules concerning law enforcement access to private data. Earlier this year, EPIC filed a complaint with the Federal Trade Commission, urging the Commission to examine the adequacy of privacy safeguards for cloud computing services. A subsequent letter by computer researchers, addressed to Google CEO Eric Schmidt, raised similar concerns. See EPIC Cloud Computing.
+Administration Announces Cloud Computing Initiative, but Privacy Umbrella Missing (Sep. 17, 2009) +
+Chief Information Officer Vivek Kundra announced the launch of “Apps.gov”, a website where federal agencies can obtain cloud-based IT services. The initiative is aimed at "lowering the cost of government operations while driving innovation." Currently, the administration's main goal is to increase the size and scale of cloud computing, but key concerns, such as security and privacy, have received little attention. In March, EPIC filed a complaint with the FTC urging the agency to open and investigation into Cloud Computing services, such as Google Docs, to determine "the adequacy of the privacy and security safeguards." Subsequently, thirty-eight computer security researchers and privacy academics sent a letter to Google's CEO, asking Google to uphold privacy promises made to users of Google Cloud Computing services. The FTC investigation is ongoing; no response has been received from Google. For more information, see EPIC's page on “Cloud Computing”.
+EPIC Forces Disclosure of Government Contracts with Social Media Companies, Privacy Terms Missing (Aug. 12, 2009) +
+In response to an EPIC Freedom of Information Act Request, the Government Services Administration released several contracts between the federal government and web 2.0 companies, including agreements with Blip.tv, Blist, Google (YouTube), Yahoo (Flickr), and MySpace. EPIC also obtained amendments to agreements with Facebook, Slideshare.net, Vimeo.com, and AddThis.com. The contracts do not address the privacy obligations of social media companies. The GSA letter to EPIC explained that “no specific Web 2.0 guidance currently exists,” but provided EPIC with Training Slides that raise privacy issues. The GSA
+Agreement with Google actually states that, “to the extent any rules or guidelines exist prohibiting the use of persistent cookies in connection with Provider Content applies to Google, Provider expressly waives those rules or guidelines as they may apply to Google.” Some of the agreements also permit companies to track users of government web sites for advertising purposes. For more information see EPIC Social Network Privacy, EPIC Facebook, and EPIC Cloud Computing.
+Expert Group Asks Google to Improve Cloud Computing Privacy
+(Jun. 16, 2009) +
+A letter signed by 38 researchers and academics in the fields of computer science, information security and privacy law was sent to Google's CEO. The letter asks Google to uphold privacy promises made to users of Google Cloud Computing services. In March, EPIC filed a complaint with the FTC urging an investigation into Cloud Computing services, such as Google Docs, to determine "the adequacy of
+the privacy and security safeguards." The EPIC complaint specifically recommended the adoption of encryption to help safeguard privacy and security. Addressing concerns about data vulnerability and interception, the expert group has asked Google to enable HTTPS
+(web-based encryption) by default in several Google apps, including
+Gmail. See also EPIC's page on Cloud Computing and EPIC's Page on
+In re Google and Cloud Computing.
+EPIC Urges Privacy Protections for Government's Use of Social Media (Jun.
+3, 2009) +
+The DHS Privacy Office is seeking public comments on developing best practices on the government's use of social media. EPIC submitted
+comments on the benefits, issues and privacy best practices. EPIC recommended Privacy Act protections to the data collected, prohibit commercialization and sharing, and the use of a model certification system. See also EPIC's page on Social Networking Privacy, Network Advertising Initiative, and Deep Packet Inspection and Privacy..
+EPIC Seeks Government Agreements with Social Networking Companies (Apr. 30, 2009) +
+EPIC submitted a Freedom of Information Act request to the Government Services Administration seeking agency records concerning agreements the GSA negotiated between federal agencies and social networking services, including Flickr, YouTube, Vimeo, Blip.tv, and Facebook. In the FOIA request, EPIC is asking for the public release of the contracts and any legal opinions concerning the application of the Privacy Act of 1974 and Freedom of Information Act to the services that collect information on citizens. For more information see EPIC’s pages Social Networking, Facebook, and Cloud Computing.
+Federal Trade Commission to Review EPIC Cloud Computing Complaint (Mar. 19, 2009) +
+The Federal Trade Commission will review EPIC's March 17, 2009 complaint, which describes Google's unfair and deceptive business practices concerning the firm's Cloud Computing Services. EPIC's complaint describes numerous data breaches involving user-generated information stored by Google, including the recently reported breach of Google Docs. EPIC's complaint "raises a number of concerns about the privacy and security of information collected from consumers online," federal regulators said. EPIC urged the Commission to take "such measures as are necessary" to ensure the safety and security of information submitted to Google. Previous EPIC complaints have led the Commission to order Microsoft to revise the security standards for Passport and to require Choicepoint to change its business practices and pay $15 m in fines. For more information, see EPIC's complaint to the FTC. EPIC's Cloud Computing Page.
+EPIC Petitions FTC to Investigate Google, Cloud Computing Services (Mar. 17, 2009) +
+EPIC has formally asked the Federal Trade Commission to open an investigation into Google's Cloud Computing Services -- including Gmail, Google Docs, and Picasa -- to determine "the adequacy of the privacy and security safeguards." The petition follows the recent report of a breach of Google Docs. EPIC cited the growing dependence of American consumers, businesses, and federal agencies on cloud computing services, and urged the Commission to take "such measures as are necessary" to ensure the safety and security of information submitted to Google. Previous EPIC complaints have led the Commission to order Microsoft to revise the security standards for Passport and to require Choicepoint to change its business practices and pay $15 m in fines.
+What is Cloud Computing?
+Cloud computing refers to data, processing power, or software stored on remote servers made accessible by the Internet as opposed to one's own computers. The term "the cloud" comes from computer network diagrams which, because the individual computers that formed its components were too numerous to show individually, depicted the Internet as a vast cloud at the top of the network chain. One of the key features of cloud computing is that the end users does not own the technology they are using.
+All the hardware and software is owned by a cloud computing service, while the user simply rents time or space. Several cloud computing applications, such web email, wiki applications, and online tax preparation, have become common experiences for the average Internet user.
+For users, cloud computing arrangements can bring about major cost reductions and efficiencies. For example, in a cloud computing arrangement the end user does not have to pay large up front capital costs for hardware or for that hardware's continued maintenance. If the user needs temporary additional space, he can simply tell the cloud service provider to up his quota for the time being, rather than purchase additional physical capacity which would only be needed for a short period and then left idle. This also means that computer resources as a whole are generally used more efficiently. Rather than have lots of machines running a few tasks and then wasting the rest of their computing power, cloud computing allows a few machines to do lots of tasks without wasted computing cycles. Cloud Computing can be thought of as a way to make the world of computer resources seamlessly scalable.
+At the same time, cloud computing also creates dependency. The emergence of cloud computing services is structured around a re-imagining of the relationship between technology and end users. The end user must rely on the cloud computing service provider to ensure that data is kept secure and reliably accessible.
+They must also depend on the telecommunications infrastructure that will act as the delivery and retrieval pathways for the flow of data to and from the cloud. The further away users are from the underlying technology that they rely upon, the more dependent the relations may become. In addition, once an end user adopts a cloud computing arrangement it may be difficult to move back to a personal computing based platform for data services.
+The move toward computing resources as a service to be provided by remote sources with greater access to unbounded computing power presents some attraction to computer users with limited resources and a growing need for information services, but it also presents serious issues that must be examined.
+Background
+Although cloud computing has only matured in recent years, the underlying concept of multiple users sharing computer resources is not new. The earliest computing operations allowed multiple users to bring work projects, usually in the form of data encoded onto punch cards, magnetic tapes, or floppy disks to a central stand-alone computer for processing. These stand-alone computers could only perform one job or task at a time, and, as a result, they were kept frequently in use processing one user's task after the next.
+In 1969, the Department of Defense's Advance Research Projects Agency sought to expand the distances over which computers could reliably communicate. At the time the project was undertaken, the cost of a computer was very high and processing speed was much slower than today's computing systems. Often times a computers could be tied up for hours, days, or even weeks on a single project. The ARPAnet project sought to create a platform that would allow distributed users to share their valuable computing resources and collaborate on documents. Using the ARPAnet, a user could access a computer located elsewhere on the network and function as a local user at the remote site. The ARPAnet mainly linked government agencies and universities, but it was out of the ARPAnet that what we now know as the Internet was originally developed.
+With the development of the operating system, stand-alone computers could perform multiple functions simultaneously for the first time. This opened the door for the first instances of multiple users using a system at the same time. Early instances of multiple clients sharing a single, sometimes more powerful, computing device were known as local area networks. In these settings, a single central server or computing device supported several stand-alone personal computers or dumb terminals (keyboards and computer screens) housed in the same physical location. The terminals would connect to the central server, which would do the terminal's actual processing.
+Cloud Computing is an evolution from these previous efforts at shared computing. As prices for processing power and storage have fallen and high-speed internet connections have become ubiquitous, cloud computing has become an increasingly attractive option for many individuals and businesses. As of September 2008, 69 percent of Americans were using webmail services, storing data online, or otherwise using software programs, such as word processing applications, whose functionality is located on the web.
+Types of Cloud Computing Services
+There are three basic types of cloud computing:
+1. Software as a Service (SaaS) is the most common and widely known type of cloud computing.
+SaaS applications provide the function of software that would normally have been installed and run on the user's desktop.
+With SaaS, however, the application is stored on the cloud computing service provider's servers and run through the user's web browser over the Internet.
+Examples of SaaS include: Gmail, Google Apps, and Salesforce.
+2. Platform as a Service (PaaS) cloud computing provides a place for developers to develop and publish new web applications stored on the servers of the PaaS provider.
+Customers use the Internet to access the platform and create applications using the PaaS provider's API, web portal, or gateway software.
+Examples of PaaS include: Saleforce's Force.com, Google App Engine, Mozilla Bespin, Zoho Creator.
+3. Infrastructure as a Service (IaaS) seeks to obviate the need for customers to have their own data centers.
+IaaS providers sell customers access to web storage space, servers, and Internet connections.
+The IaaS provider owns and maintains the hardware and customers rent space according to their current needs.
+An example of Iaas is Amazon Web Services.
+IaaS is also known as utility computing.
+Issues
+When users place their data and applications on centralized servers, they lose the ability to maintain complete control of that information.
+With the rise of cloud computing, critical and sometimes sensitive information that was once safely stored on personal computers now resides on the servers of online companies.
+Examples of such information including users email, banking information, and full backups of individuals' hard drives.
+This phenomenon creates a multitude of risks for the users.
+One of the biggest risks of storing data in the cloud is the possibility that this data will be accessed by unwanted third parties.
+While some cloud computing services encrypt user data when it is stored, others store data in clear text, leaving it especially vulnerable to a security breach.
+Data stored in the cloud might also be provided to marketers.
+For example, many email providers allow secondary advertising uses for e-mail communications.
+In recent studies, an overwhelming majority of Cloud Computing Services users expressed serious concern regarding the possibility that a Cloud Computing Services provider would disclose their data to others.
+According to a report by the Pew Internet and American Life Project, 90% of cloud application users say they would be very concerned if the company storing their data sold it to a third party.
+80% of users say they would be very concerned if companies used their photos or other data in marketing campaigns and 68% say they would be very concerned if companies who provided these services analyzed their information and then displayed ads to them based on their actions.
+Legal rights and regulatory authority for the protection of the privacy of cloud computing users are not well defined.
+Data stored in the cloud may be subject to less stringent legal protection than data stored on a personal computer.
+Under the Electronic Communications Privacy Act, data stored in the cloud may be subject to a lesser standard for law enforcement to gain access to it than if the data were stored on a personal computer.
+Moreover, the terms of service for cloud computing services often make clear that they will preserve and disclose information to law enforcement when served with legal process.
+Health information services that store user medical information may not be subject to the privacy protections of the Health Insurance Portability Protection Act.
+Even where it is clear that user data is protected, cloud computer service providers often limit their liability to the user as a condition of providing the service, leaving users with limited recourse should their data be exposed or lost.
+Storing data in the cloud means that access to that data is subject to the cloud computing service provider's terms.
+Often the terms of service allow the cloud computing service provider to terminate the service at any time.
+On the other hand, depending on the terms of service, deleting an account may not actually remove the stored data from the provider's servers.
+One might also imagine a data hostage scenario where it is vital that a user gain access to online information, but the data holder refuses that access without first receiving a payment or other compensation.
+In addition, there are serious concerns about the reliability of cloud computing services.
+As mentioned earlier, if the cloud computing service goes down or loses data, the users would have little legal recourse.
+Case Studies
+Amazon Web Services
+Amazon Web Services (AWS) offers a range of cloud computing services that allow users to "securely" store and manage a wide range of data types.
+AWS also incorporates identity, payment, database, messaging, and other services.
+Amazon promotes AWS as a reliable cloud computing option, but its service level agreement states that "AWS reserves the right to refuse service, terminate accounts, remove or edit content in its sole discretion."
+Further, the AWS terms and conditions' "Disclaimer of Warranties and Limitations of Liability," state that:
+"AWS DOES NOT WARRANT THAT THIS SITE; INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING ANY SOFTWARE) OR SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THIS SITE; ITS SERVERS; OR E-MAIL SENT FROM AWS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. AWS WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THIS SITE OR FROM ANY INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THIS SITE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES, UNLESS OTHERWISE SPECIFIED IN WRITING. CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS."
+As additional protection for itself, Amazon limits all legal actions that may arise over its Cloud Computing services to King County, Washington, where the company is located.
+Mozy
+Another Cloud Computing service provider Mozy.com offers users cloud computing services to backup photographs, documents, accounting records, or any information that is stored on a personal computer. The service reserves broad rights to "at any time to modify, suspend, or discontinue providing the Service or any part thereof in its sole discretion with or without notice."
+The Decho Corporation operates Mozy.com, MozyPro.com and Decho.com. The company considers signing up for the service as an agreement of the terms. The customer may end the agreement by "destroying the Software and closing your account," but it does not address what happens to the information that remains in the hands of the company. Closing an account does not mean that information collected or stored on the service will be removed.
+The company defines personal "as any data from which it is practical to directly determine the identity of an individual." Further, under the terms and conditions users are told, "You agree to indemnify, defend, and hold harmless Decho and its suppliers from any and all loss, cost, liability, and expense arising from or related to your data, your use of the Service..."
+WebMD
+Medical information services, such as WebMD provides tools to users that allow them to establish medical information accounts that can be used to record details regarding health conditions, symptoms, medications, search for medical professionals, and details about the type of medical advice sought.
+WebMD's Terms and Conditions of Use, state that information provided to them by e-mail, blog posting, uploading photos or video, or submitting information to "Public Areas," this information becomes the property of WebMD.
+Although federal law allows for patient record privacy though the Health Insurance Portability Protection Act (HIPPA), the records created by WebMD and other health cloud computing services are not covered by HIPPA. WebMD states in its Terms and Conditions of Use that the company will not be liable for any damages.
+Resources
+Do You Know Where Your Data is in the Cloud?, Forrester Research.
+EPIC, FTC Complaint Google Cloud Computing Services, March 17, 2009
+Privacy in the Clouds: Risks to Privacy and Confidentiality from Cloud Computing, World Privacy Forum, February, 23, 2009
+An A to Z of Cloud Computing in New York City
+Cloud Computing Workshop, Center for Information Technology Policy, January 14-15, 2008
+Cloud Computing, Wikipedia
+What is Cloud Computing?
+Envisioning the Cloud: The Next Computing Paradigm, Marketplace Report, March 2009
+TCP/IP, Network Administration, Second Edition, Craig Hunt, O'Reilly & Associates, January 1998
+A Brief History of NSF and the Internet
+Architectural manifesto: An introduction to the possibilities (and risks) of cloud computing
+Share this page:
+Subscribe to the EPIC Alert
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+EPIC Alert archive »
+Electronic Privacy Information Center
+1519 New Hampshire Avenue NW
+Washington, DC 20036
+202.483.1140
+info[at]epic[dot]org
+© 1994 - 2020 EPIC, all rights reserved.
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+EPIC Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+Electronic Privacy Information Center1519 New Hampshire Avenue NW Washington, DC 20036More info
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+FOIA Documents
+EPIC FOIA Notes
+EPIC Former Secrets
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+EPIC Bookstore
+Support EPIC

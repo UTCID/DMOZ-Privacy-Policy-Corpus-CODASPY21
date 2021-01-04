@@ -1,0 +1,129 @@
+http://www.teamdesk.net/privacy
+Security and Privacy Policy
+Updated: November, 9th 2020
+The privacy of your data is very important to us. This document
+explains how your data is stored, where it is stored and whether it is stored
+securely.
+Security
+Infrastructure
+Customer Data is stored and processed in these data centers with appropriate physical, technological,
+and administrative controls enacted to ensure appropriate access of Customer Data.
+Entity NameActivityLocationLinks
+US Datacenter
+SteadFast Networks
+Data Center Colocation
+Chicago, IL, United States
+Security and certifications
+EU Datacenter
+Microsoft Azure
+Hosting, data and file storage
+Netherlands, Europe
+Security,
+Certifications
+Twilio SendGrid
+E-mail relay
+West Europe
+Security
+Data Encryption
+TeamDesk encrypts the data over the wire via 256-bit (SHA2)
+TLS certificate, TLS 1.0, 1.1 and 1.2. Database is encrypted via AES256. File
+attachments are also encrypted via AES256.
+Data Backups and Disaster recovery
+TeamDesk backs up the data on an hourly basis. Since the
+data in the database is encrypted, backups are encrypted as well. Backup files
+and server logs are copied to a secure disaster recovery facility where they
+are kept for 6 months before being permanently deleted. TeamDesk doesn't
+utilize any type of removable media for backup storage, all backup files are
+stored on secure servers.
+Personnel Access
+A small team of operations personnel have administrative
+access to the infrastructure where TeamDesk is hosted.  Additionally, TeamDesk
+developers occasionally require a read-only access to the database metadata to
+troubleshoot problems. TeamDesk support personnel does not have access to
+customer databases unless they are invited or authorized by a customer.
+All TeamDesk employees sign confidentiality agreements
+before gaining access to the code and data. Everyone at TeamDesk is trained and
+made aware of security concerns and best practices for their systems. Remote
+access to servers is established via company VPN and limited to workers who
+need access for their day to day work. All access events are logged for all
+accounts by IP address.
+Incident Response
+Once TeamDesk becomes aware of any suspected or confirmed data breach, TeamDesk
+will notify all affected customers via e-mail within 72 hours.
+Privacy
+Personally identifiable information
+When a user registers a new account with TeamDesk, the
+system asks for first and last name, e-mail address, password, locale and time
+zone information. Name helps to personalize your experience. E-mail address is
+used as a unique user identifier and for communication with the user. Locale
+and time zone information is used by the system to present numbers and dates in
+an appropriate format.
+Due to various data integrity constraints user account
+cannot be deleted, but it can be cleared from any personally identifiable
+information upon request. Users of TeamDesk ‘Starter' or ‘Team' edition can
+contact TeamDesk support via support@teamdesk.net.
+TeamDesk Enterprise edition users should contact their account administrator.
+Sharing personally identifiable information
+We'll never pass your personal information to third parties
+and we won't use your name in marketing statements without your permission
+either. However, name and e-mail address may be copied into and securely stored
+in other systems owned by ForeSoft – CRMdesk support portal and internal billing
+system. Both systems are covered by common ForeSoft Corporation's Security and Privacy Policy.
+Cookies
+TeamDesk uses cookies for authentication, keeping certain user
+preferences and tracking user movements around the site. No cookies, however,
+contain personally identifiable information.
+Law enforcement
+TeamDesk won't hand your data over to law enforcement unless
+requested by a court order. We will reject data requests from local and federal
+law enforcement without a court order. And, unless we're legally prevented from
+it, we'll always inform you when we receive such requests.
+Data retention/deletion
+Customers are responsible for understanding and implementing
+their data retention and deletion requirements related to the data they uploaded
+to TeamDesk. Customers may delete their data at any time and primary instances
+of their data in production systems will be erased immediately, however, since
+TeamDesk backups are kept for 6 months, it may take up to 6 months for their
+data to be completely purged from TeamDesk backup systems after been deleted
+from their apps.
+Deleted Records
+Deleted records are moved to database's Recycle Bin, kept
+there for 30 days and then purged automatically. Database administrator can
+purge records from Recycle Bin manually at any time.
+Expired databases
+A database is considered ‘expired' when either its trial
+period ends, or a database subscription is cancelled. TeamDesk blocks access to
+expired databases. Expired paid databases are securely kept in locked stage until
+being deleted by a database owner or administrator. Expired trial databases are
+deleted automatically within 90 days after expiration. Database administrators
+are provided with all the means to delete a database at any time, before or after
+its expiration.
+Deleted Databases
+Databases that are deleted by their owners or administrators will disappear
+from users' reach immediately and will be physically deleted from the global
+database within 30 days.
+Backups
+All types of data deleted from online databases (from individual
+records to whole databases) will reside in system backups for 6 months. It will
+not be restored back to production systems, except for in certain rare
+instances such as the need to recover from a natural disaster or serious
+security breach. In such cases, some of deleted data instances may be restored
+from backups, but TeamDesk will immediately take all necessary steps to honor
+the initial request to delete and erase the primary instance of the data again.
+Miscellaneous
+Business Continuity
+ForeSoft generates a strong and stable revenue, it doesn't
+rely on any financing and is 100% debt-free. TeamDesk commits to serve its
+customers for life of databases' subscriptions and the company will never cease
+the operations. Nevertheless, TeamDesk provides exporting tools to allow
+customers establishing regular data backups to keep data locally.
+Intellectual Property
+TeamDesk customers' database structure and workflow
+configuration is considered by TeamDesk as these customers' intellectual
+property. TeamDesk protects customers' intellectual property and never shares
+it with other customers.
+Contact Us
+Do you need help?
+Questions? Call us at +1-847-465-3930.
+Contact Us and we'll give you a Quick Start for free.
+Hire one of TeamDesk Experts for specific help.

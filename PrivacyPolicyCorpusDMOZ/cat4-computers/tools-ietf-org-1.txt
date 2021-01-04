@@ -1,0 +1,176 @@
+http://tools.ietf.org/wg/privacypass/
+IETF Home
+About Tools
+Tools:
+diffs spell
+xml2rfc idnits
+id2xml
+tracker src
+News
+Get Passwd
+IETF-109:
+Rooms
+Agenda
+iCal maker
+Documents
+RFCs
+Doc fetch:
+Wikis:
+IESG IRTF
+Dev RSOC
+Chairs Edu
+Tools BOFs
+NomCom
+Areas
+WGs:
+concluded…
+6lo
+6man*
+6tisch
+Ace
+Acme*
+Add
+Alto
+Anima
+Asap
+Asdf
+Avtcore
+Babel
+Bess*
+Bfcpbis
+Bfd
+Bier*
+Bmwg
+Calext
+Cbor
+Ccamp
+Cdni
+Cellar
+Core
+Cose
+Curdle
+Detnet
+Dhc
+Dime
+Dispatch
+Dmarc
+Dmm
+Dnsop
+Dnssd
+Dots
+Dprive
+Drip
+Dtn*
+Ecrit
+Emailcore
+Emu
+Extra
+Gendispatch
+Gnap
+Grow
+Hip
+Homenet
+Httpapi
+Httpbis
+I2nsf
+I2rs
+Idr*
+Intarea*
+Ippm
+Ipsecme
+Ipwave
+Jmap
+Jsonpath*
+Kitten
+Lake
+Lamps
+Lisp
+Lpwan
+Lsr*
+Lsvr
+Lwig
+Manet
+Masque
+Mboned
+Mls
+Mmusic
+Mops
+Mpls*
+Netconf
+Netmod
+Nfsv4
+Ntp*
+Nvo3
+Oauth
+Opsawg
+Opsec
+Pals
+Pce
+Perc
+Pim
+Privacypass
+Quic*
+Radext
+Rats
+Raw
+Regext
+Rift
+Rmcat
+Roll
+Rtgwg
+Rum
+Sacm
+Secdispatch
+Secevent
+Sfc
+Sframe
+Shmoo
+Sidrops
+Sipbrandy
+Sipcore
+Spring*
+Stir
+Suit
+Taps
+Tcpm
+Teas
+Teep
+Tictoc
+Tls
+Tokbind
+Tram
+Trans
+Tsvwg
+Uta
+V6ops
+Webtrans
+Wpack
+WGs marked with an
+asterisk has had at least one new
+draft made available during the last 5 days
+Privacypass Status Pages
+Privacy Pass
+(Active WG)
+Sec Area: Roman Danyliw, Benjamin Kaduk | 2020-Jul-10 —
+Chairs:
+Drafts | Agendas | Minutes | Wiki | Training | Charters | Jabber Room,Logs | List Archive |
+Working Group Documents:
+Document collections:
+Draft name
+Rev.
+Dated
+Status
+Comments, Issues
+Active:
+draft-davidson-pp-architecture
+2020-10-09
+Active
+draft-davidson-pp-protocol
+2020-10-09
+Active
+draft-svaldez-pp-http-api
+2020-10-09
+Active
+Draft dependency graphs
+Generated from PyHt script /wg/privacypass/index.pyht
+Latest update: 24 Oct 2012 16:51 GMT -

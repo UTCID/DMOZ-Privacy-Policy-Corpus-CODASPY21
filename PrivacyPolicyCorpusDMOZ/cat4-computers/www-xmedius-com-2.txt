@@ -1,0 +1,117 @@
+https://www.xmedius.com/en/website-privacy-policy/
+We use cookies to give you the most personalized experience possible on our website, and to collect information about how visitors use our site. If you continue without changing your settings, we’ll assume that you’re ok with receiving cookies from the XMedius website. You can disable cookies in your browser settings at any time, but please note that parts of the site will not work properly if you disable cookies.
+For more information on how we use cookies, read our privacy policy.
+CLOSE X
+XMedius Website Privacy Policy
+This is the Website Privacy Policy. If you would like to read the Services Privacy Policy, it can be found here.
+XMedius Solutions Inc. and its affiliates (collectively “XMedius”) respect the privacy of your personal information and is committed to protecting it and using it solely for the purposes for which it was collected.
+THIS PRIVACY POLICY EXPLAINS HOW INFORMATION ABOUT YOU IS COLLECTED, USED AND DISCLOSED BY XMEDIUS. PLEASE NOTE THAT THIS PRIVACY POLICY DOES NOT ADDRESS HOW THE INDIVIDUALS OR ENTITIES FROM WHOM YOU MAY RECEIVE OUR SERVICE (WHICH MAY INCLUDE YOUR EMPLOYER, YOUR EMPLOYER’S IT DEPARTMENT OR OTHERS) COLLECT, USE AND DISCLOSE INFORMATION ABOUT YOU. FOR INFORMATION AS TO HOW EACH SUCH PARTY (“SERVICE PROVIDER”) COLLECTS, USES AND DISCLOSES INFORMATION ABOUT YOU, PLEASE CONTACT YOUR APPLICABLE SERVICE PROVIDER.
+SCOPE AND APPLICATION
+WHY WE COLLECT INFORMATION
+WHAT INFORMATION WE COLLECT AND HOW IT IS STORED
+HOW IS THE INFORMATION COMMUNICATED
+SECURITY
+HYPERLINKS AND THIRD-PARTY
+GENERAL INFORMATION AND HOW TO EXERCISE YOUR RIGHTS
+SCOPE AND APPLICATION
+The term “personal information” means any information, or a combination of information, that specifically identifies an individual, such as name, date of birth and email address, and any other information that is required by applicable law to be treated as “personal information”.
+This Privacy Policy governs the collection, usage and storage of information obtained from the users through the use of (i) the interface or web application XM Fax®; (ii) the interface or web application XM SendSecure®; (iii) the interface XM Connect (also known as CXE-Voice); or (iv) our software solutions (collectively hereinafter the “Interface”).
+The Interface offers (i) on premises and/or cloud services relating, among other things, to the transmission of faxes and secure file sharing, and (ii) the possibility to record and transmit voicemail messages and to process telephone calls (the “Solutions”).
+This Privacy Policy applies to all information collected by XMedius through the Interface related to the use of the Solutions, as well as to all services related to the provision of such Solutions.
+BY CONTRACTING FOR AND/OR USING THE SOLUTIONS, YOU ACCEPT TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY.
+XMedius reserves the right to change its Privacy Policy at any time without prior notification. The current version of the Privacy Policy is available on the Interface and indicates its effective date. If the changes to the Privacy Policy are significant in privacy risk, we will notify you 30 days prior to those changes being effective by email or by posting a prominent notice on the landing page of the Solutions. You will be deemed to have accepted these changes if you continue to use the Solutions after any such changes. You are encouraged to periodically check our Privacy Policy.
+When the Solutions are connected to a hosted service operated by a Service Provider, the privacy policies of such Service Provider also apply; we encourage you to read and review such privacy policies and practices from time to time. Customers may optionally configure the Solutions to integrate with third-party services such as Google cloud print, Xerox Mobile Print, HP E-print services, ReCaptcha, Google Cloud Speech API, Microsoft Speech to Text, VoiceBase Text to speech; we encourage you to read and review applicable third parties’ privacy policies and practices from time to time.
+WHY WE COLLECT INFORMATION
+The information is collected and can be used notably for the following purposes:
+to render the Solutions properly, including for managing XMedius Cloud accounts and activate licenses;
+to address any problems which are brought to our attention, including for the purpose of troubleshooting, supporting, optimizing and investigating security events on the Solutions or restoring data loss;
+to evaluate, optimize and improve the Solutions;
+to contact you about the Solutions;
+to track Solutions’ usage; and
+to invoice customers for the use of the Solutions.
+WHAT INFORMATION WE COLLECT AND HOW IS IT STORED
+3.1 XM Fax
+Information hosted in collocation datacenters operated in the USA, France and Canada:
+Documents and information related to the fax transmissions (including contact phonebooks, names, email addresses, addresses, phone numbers, and gender), documents and metadata), cookies and security tokens;
+System logs data, which may include IP addresses, MAC addresses, device IDs, unique IDs, network traces, fax or call metadata, locations, phone numbers, usernames and computer names.
+Retention Period:
+data pertaining to fax applications will be retained for a period of up to 90 days after the account termination, after which it will be deleted;
+System logs data and backup data may be retained for up to one year and may be accessed by the cloud infrastructure team.
+XM Fax uses telecommunication service providers (“Telco”) to send and receive faxes as part of its service delivery. As such, customer information will be transported through those Telco networks and other required Telco peers to complete delivery on the PSTN.
+3.2 XM SendSecure and XM Cloud Management Portal
+Information hosted in public cloud infrastructure operated by third party PaaS, IaaS Cloud providers in the USA, Ireland and Canada:
+Account management data, including account information, account settings, service usages (including CDRs, invoices and consumption history), user directory (including names, emails, addresses, phone numbers, usernames and password hashes), fax or telephone number requests, cookies and security tokens;
+SendSecure application data, including files, messages, participants information (including names, emails and phone numbers), SendSecure settings, encryption keys, audit trails (including names, email addresses, filenames and IP addresses), other metadata, cookies and security tokens;
+System logs data, that may include IP addresses, MAC addresses, device ID, unique IDs, network trace, location, phone number, username and computer name.
+Retention Period:
+Data pertaining to account management and SendSecure application will be retained for a period of up to 90 days after the account termination, after which it will be deleted;
+System logs data and backup data may be retained for up to one year and may be accessed by the cloud infrastructure team.
+XM SendSecure make use of SMS and voice service providers to send two factor authentication codes, while no personal data is transmitted in those messages, the recipient phone number is used as a delivery address.
+3.3 XM Connect / CXE-Voice
+Information hosted in private cloud infrastructure in the USA:
+Documents and information related to the voicemail messages and phone calls (including contact phonebooks, names, email addresses, addresses, phone numbers, and gender), cookies and security tokens;
+System logs data, which may include IP addresses, MAC addresses, device IDs, unique IDs, network traces, fax or call metadata, locations, phone numbers, usernames and computer names.
+Retention Period:
+Data pertaining to voice messages, account management and XM Connect/CXE-Voice application will be retained for a period of up to 60 days after the account termination, after which it will be deleted.
+3.4 XMedius Help Desk and Billing Platform
+Information on hosted applications (SaaS) by third parties in the USA:
+Support ticketing data, including customer information (name, contact information, email) support ticket messages and support files;
+Billing data, including billing information (name, phone, email, address, etc.), invoices, service usages and, credit card information. Billing data (excluding credit card information) may be kept for up to seven years after the account termination.
+Retention Period:
+Support ticketing data will be deleted 90 days after the account termination or two years after the maintenance contract is expired, as applicable;
+Billing data (excluding credit card information) may be kept for up to seven years after the account termination.
+3.5 License servers hosted by XMedius in Canada and in the USA:
+Any information collected by the license server will solely be used for licensing purposes in accordance with the provisions enunciated in this Privacy Policy.
+Please note that Solutions may be accessed through various devices and those devices may collect information about you (including username, passwords, email address, location, various settings, etc.) and store them locally on your device. We encourage you to read and review applicable third parties’ privacy policies and practices from time to time.
+HOW IS THE INFORMATION COMMUNICATED
+We never disclose your personal information to anyone outside of XMedius without your consent, except for the following and only if such third party has in place appropriate safeguards that ensure at least the same level of security as ours:
+our providers whose services have been retained to carry out duties on our behalf (e.g. data processing). XMedius takes the necessary means to ensure that these third-party providers process your information for the sole purpose identified by XMedius;
+any entity resulting from a merger, a corporation reorganization or change in control of XMedius, in whole or in part;
+any public authority if the law so requires, to defend our rights, or otherwise in compliance with the law. In the event where XMedius is required to divulge information or to provide a copy of such information to a governmental authority under law or pursuant to a court order, XMedius will attempt to notify you beforehand, to the extent, however, that it is legally authorized to do so.
+WE DO NOT SELL AVAILABLE PERSONAL INFORMATION TO THIRD PARTIES. WE USE COLLECTED INFORMATION EXCLUSIVELY IN ACCORDANCE WITH THIS PRIVACY POLICY.
+At the exclusion of the metadata, and in such case, for the purposes so designated in Section 3 above and accessed only by relevant personnel, we do not monitor the content of correspondence conducted through our Solutions. Although sent documents or messages are kept on our servers to make them available to you and to the recipient of such documents and messages, we do not access, or give access to, the content of the documents and messages unless we have a reason to believe that there is an infringement of our Terms and Conditions, or only in compliance with such Terms and Conditions. We do not make the content of the documents or messages available to any third party other than the recipient unless we are required to do so by law.
+SECURITY
+All data is stored on servers with high-security safeguards, protected against misuse and access by unauthorized individuals. We endeavor to maintain appropriate physical, procedural and technical security with respect to our offices and information storage facilities. Any information is only made available to individuals (employees or agents) who require access to such information to carry out their responsibilities.
+For Solutions with storage available in multiple regions, unless otherwise agreed upon to in writing and subject to what is otherwise provided in this Privacy Policy, the country which the administrator of the Customer’s Account inputs during the initial setup of the Solutions determines the storage location for your data: (i) if the main country or region is in the United States of America, the storage location will be in the United States of America; (ii) if the main country or region is located within the European Union territory, the storage location will be in the European Union; (iii) if the main country or region is in Canada, the storage location will be in Canada; and (iv) for in any other countries, the storage location will be in the United States of America if the order was processed by XMedius Solutions Inc., and will be in the European Union if the order was processed by XMedius Europe SAS. Furthermore, the data may be handled by third-party service providers of XMedius so as to enable XMedius to adequately render the Solutions provided that appropriate specific safeguards are set.
+XMedius will not initiate a customer data transfer outside the designated zone or country without the explicit consent of the customer. Although, for the purpose of provisioning, billing, supporting, troubleshooting, the relevant personnel located in Canada, USA and Europe may remotely consult, process and/or transfer information located in the USA, Europe and Canada.
+WHILE XMEDIUS TAKES REASONABLE MEANS TO PROTECT YOUR PRIVACY, PLEASE BE AWARE THAT NO METHOD OF TRANSMITTING INFORMATION OVER THE INTERNET OR STORING INFORMATION IS COMPLETELY SECURE AND THUS XMEDIUS CANNOT GUARANTEE THE ABSOLUTE SECURITY OF THAT INFORMATION DURING THE TRANSMISSION OR STORAGE ON ITS SYSTEMS OR OF ITS SUBCONTRACTORS. XMEDIUS CANNOT WARRANT OR REPRESENT THAT YOUR INFORMATION WILL BE PROTECTED AGAINST, LOSS, MISUSE, OR ALTERATION BY THIRD PARTIES.
+HYPERLINKS AND THIRD PARTIES
+The Interface may incorporate links to third parties’ sites or resources on the Internet for your information. By clicking on such links, you leave the Interface. Any personal information you submit through these sites is subject to such third parties’ privacy policies. XMedius does not exercise any control on the operation of any third parties’ websites or applications and the fact that they are listed on our Interface does not incur XMedius’s liability in any manner.
+GENERAL INFORMATION AND HOW TO EXERCISE YOUR RIGHTS
+You have the following rights with respect to the personal information XMedius collects: (i) right to know and access your personal information collected by XMedius and obtain communications with regard to purposes for which your personal information is processed, (ii) right to update or rectify your personal information, (iii) right to erasure of your personal information, (iv) right to object to processing of your personal information by XMedius, (v) right to portability of your personal information.
+If you wish to exercise your rights above mentioned, file a complaint or have any questions regarding this Privacy Policy, please contact our privacy officer in the following manner:
+Address : 275 Frank Tompa Drive, Waterloo, Ontario, Canada, N2L 0A1
+Phone: +1.519.888.7111
+Fax: +1.519.888.0677
+Email: privacy@xmedius.com
+SendSecure: https://sendsecure.xmedius.com/r/98b1104664ab4cdf9f7d3900f04c2a32
+We will do our best to treat your request promptly. Please note that we may sometimes deny your request under relevant laws.
+The most up-to-date version of this policy can be found at: www.xmedius.com/en/privacy-policy/
+Effective Date: 2020-11-01
+DOWNLOAD A PDF VERSION
+We're here to help.
++1 514-787-2100
++33 1 76 73 95 02
+info@xmedius.com
+SOLUTIONS
+XM Fax
+XM SendSecure
+OpenText™ CX-E Voice
+XM Hospitality
+CX-E TeamQ
+RESOURCES
+Case studies
+White Papers
+Webinars
+ROI Calculator
+Assessment Security
+Professional Services
+ABOUT US
+The Company
+News & Events
+Careers at XMedius
+Hosting Facilities
+Recognition and Awards
+BLOG
+© All rights reserved | Terms and conditions | Privacy policy
+Contact Us

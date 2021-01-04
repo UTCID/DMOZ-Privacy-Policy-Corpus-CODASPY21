@@ -1,0 +1,64 @@
+http://www.marthabuyer.com/articles/2019/10/29/voip-legality-what-does-federal-inaction-mean.html
+Home
+Articles
+News
+Contact
+Client Info
+FAQs
+Martha Buyer
+Communications Technology Law
+Home
+Articles
+News
+Contact
+Client Info
+FAQs
+Top
+Home
+Articles
+News
+Contact
+Client Info
+FAQs
+Hot Topics
+Artificial Intelligence (2) Billing/Excise Tax (1) Broadband Deployment (6) Consumer Issues (41) E-911 (8) Law & Policy (53) Mergers and Acquistions (2) Miscelleanous (3) Mobility (3) Net Neutrality (5) New Technologies (3) Privacy (7) Privacy/data security (8) Spectrum (2) VoIP (2) Wireless (7)
+Browse by Date • Publication
+ACUTA (2) Buffalo Law Journal (1) Bulletin of the Bar Association of Erie County (14) CCMI (1) Communications Daily (1) Daily Record (1) N (1) No Jitter (78)
+August 2020 (1) June 2020 (1) May 2020 (1) February 2020 (1) January 2020 (1) December 2019 (1) November 2019 (2) October 2019 (2) September 2019 (1) August 2019 (1) July 2019 (2) June 2019 (1) April 2019 (1) March 2019 (1) February 2019 (1) January 2019 (1) December 2018 (2) November 2018 (1) October 2018 (1) August 2018 (1) June 2018 (1) May 2018 (2) April 2018 (2) March 2018 (1) January 2018 (3) December 2017 (2) October 2017 (1) September 2017 (1) August 2017 (1) June 2017 (1) May 2017 (2) April 2017 (2) February 2017 (2) December 2016 (1) November 2016 (1) October 2016 (2) July 2016 (1) June 2016 (1) May 2016 (1) February 2016 (2) January 2016 (1) November 2015 (2) October 2015 (1) September 2015 (1) August 2015 (1) June 2015 (3) May 2015 (1) April 2015 (1) February 2015 (2) January 2015 (2) November 2014 (1) October 2014 (1) September 2014 (3) July 2014 (1) June 2014 (1) May 2014 (1) January 2014 (2) December 2013 (2) October 2013 (2) August 2013 (1) April 2013 (2) February 2013 (1) January 2013 (5) October 2012 (2) August 2012 (2) May 2012 (2) April 2012 (2) March 2012 (1) February 2012 (3) January 2012 (2) December 2011 (2) March 2011 (1) February 2011 (1) November 2010 (1) April 2010 (1) February 2010 (1)
+Blog Index
+Why “Vishing” is the Bad Word of the Week Managing Force Majeure Clauses: Fine Print Does Matter A Short but Important Thank You to Our Vendor Community Creating a Solid Foundation for GDPR, CCPA, Future Laws
+AI: It’s All About the Context The California Consumer Privacy Act Comes of Age Data Privacy and 911 Mozilla Case Could Have Ramifications for VoIP Pre-emption VoIP Legality: What Does Federal Inaction Mean? Appeals Court Net Neutrality Review: Mixed Bag
+Navigation
+Login
+TuesdayOct292019
+VoIP Legality: What Does Federal Inaction Mean?
+Following the Supreme Court's decision not to hear a VoIP regulation case, states now have the potential to enact their own laws related to VoIP taxes, surcharges, and fees.The Supreme Court decision, released on Monday, Oct. 21, not to hear an appeal of a case about whether Charter Advanced Services’ VoIP offering can be regulated by the Minnesota public utilities commission (PUC) has major implications for the communications market.
+Ostensibly, this is a case on whether states can regulate VoIP traffic if/when the federal government decides to be “hands-off.” The Supreme Court’s decision not to hear the case raises the critical legal question of whether the federal government, through its inaction, has effectively created enforceable law. In this case, the question presented is whether states, as individual entities, can be prevented from regulating VoIP services when the federal government has opted not to regulate them.
+The original case pitted the Minnesota PUC and others against Charter Advanced Services, spawned out of a years-long controversy about whether VoIP services are subject to the same tax, surcharge, and fee assessments normally applied to more traditional voice services. While the ultimate outcome is the same (person A speaking with person B), the underlying technology supporting the connection is vastly different. Given that taxes, surcharges, and fees on traditional telephony can be as high as 38% on top of quoted rates for service and support, if IP-based voice services can be delivered without these additional charges, they’d certainly be more desirable in that they provide significant competitive advantage over traditional phone or telecommunications services. Although IP telephony has its vulnerabilities (two biggies being no dial tone during power failure and inaccurate 911 location information), the cost difference is too significant to ignore.
+The underlying case was the 2016 appeal of a District Court decision, which classified Charter’s VoIP service as an “information service” not subject to federal or state regulation or taxation imposed by the states. The situation is the direct result of an almost ancient (at least by technology standards) Federal Communications Commission (FCC) rule that determined that if VoIP is a telecom service, it’s subject to federal and state taxes, surcharges, and fees in the same way as traditional telecom services. However, if it’s classified as an information service, the same services, provided over very different technology-based platforms, aren’t subject to state regulation (read: taxes, surcharges, and fees) at all.
+The matter has been percolating for a while, as the FCC has repeatedly refused to define, with any real clarity, whether VoIP is an information service or a telecommunications service, thus abdicating its responsibility with the hope/expectation that the courts will decide on a case-by-case basis or that Congress will decide in a much larger context. In a related matter, the FCC declared as far back as 2005 that computer-to-computer IP communications qualifies as an information service and, as such, isn’t taxable. The distinction here is that VoIP looks and functions like traditional telephony (like a telecom service), even though its underlying technologies are different. Technologically, it looks like an information service. (This is why we need lawyers!) The Supreme Court’s decision not to listen to the Minnesota PUC’s appeal of the lower court decision essentially endorses the concept that VoIP is an information service. But it’s hardly cast in concrete, and it’s a long way from law.
+The Legal Issue
+This brings us to the underlying legal issue: Does federal non-regulation preempt states’ authority to regulate? That is, if the federal government decides to take a hands-off on a particular matter, do states, as independent entities, have the right to create, impose, and enforce a regulatory structure on the same services that the federal government has suggested aren’t subject to such regulation?
+The Constitution makes clear that federal law preempts state law, but in a concurrence written to the court’s determination to not hear an appeal on the case, Justices Neil Gorsuch and Clarence Thomas wrote that the FCC’s non-regulation policies may not be law. However, by taking no federal action, and acknowledging that there is no affirmative federal law, has the court determined that federal inaction on this matter prevents action on the same matter by the states?
+In their concurrence, Justices Thomas and Gorsuch made what may be a very important statement far beyond the realm of communications. They argued that “giving preemptive effect to a federal agency policy of nonregulation thus expands the power of both the executive and the judiciary.” The implication is that such a move may be an illegitimate power grab. The keyword here is “may,” but the fact remains that if the justices felt strongly enough to write a concurring opinion, there really may be a “there” there.
+With Respect to Net Neutrality
+In the recently decided Net neutrality case, the D.C. Circuit struck down a provision in the current Net neutrality repeal that prevented states from passing their own rules prohibiting Internet service providers (ISPs) from blocking or throttling Internet traffic. This again raises the issue about whether federal inaction limits the states’ abilities to act as they see fit, particularly concerning Net neutrality hot button issues: throttling, paid prioritization, and blocking.
+My opinion on this matter is no secret. I think the provisions in the Net neutrality order of 2015 are critical to American consumers and enterprises. I think the revocation of those guarantees has done a disservice to all except the largest ISPs, who hold most of the cards anyway. The federal government’s move away from regulation, particularly in the sphere of Net neutrality, has left a void that states can choose to fill. If states take the lead to protect the interests of their resident consumers (enterprises and individuals), they have an opportunity to lead where the federal government — and courts — have taken a pass.
+In any case, the court’s decision not to hear an appeal on the Charter case, and the published opinion of the two concurring justices, creates new opportunities for continued litigation and outcomes, as technologies continue to drive communications forward. As I often say, stay tuned.
+Print Article
+|
+Email Article
+Posted on
+October 29, 2019 |
+tagged
+No Jitter
+|
+in
+VoIP
+View Printer Friendly Version
+Email Article to Friend
+« Mozilla Case Could Have Ramifications for VoIP Pre-emption |
+Main
+| Appeals Court Net Neutrality Review: Mixed Bag »
+:: PHONE • 716.652.4413 :: FAX • 716.655.9176 :: Copyright © 2012, Martha Buyer, LLC.
+All rights reserved.

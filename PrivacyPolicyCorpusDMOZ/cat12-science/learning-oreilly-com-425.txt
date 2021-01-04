@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch15s02.html#websec2-CHP-15-SECT-2.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Securing the Host ComputerHere are some of the ways you might go about defending
+your computer system from these individuals.Security Through Policy It’s tempting to approach host security as a checklist
+of do’s and don’t’s
+for computers and networks. After all, to damage a computer, an
+attacker must have access. So in theory, to operate a secure system,
+all you need to do is to block all of the venues by which an
+attacker can get access, and the resulting system will be
+secure.In practice, however, it has proved nearly impossible to have
+a computer that offers services over the network and yet still
+denies all access to attackers. Often access comes through
+unintended holes, such as a carelessly coded CGI script (see Chapter 16), or a buffer overflow
+attack that is known to the attacker but not the computer’s
+operators.Instead of approaching host security as a laundry list of
+specific technical action items, it’s better to look at the kinds of
+practices that make computers less secure, and then explore the
+specific policy initiatives that you can implement to improve your
+security outlook.For more than a decade, there have been nine widespread
+practices on the Internet that make host security far worse than it
+needs to be. These practices are:Failure to think about security as a fundamental aspect of
+system setup and design (establishing policy)Purchase and configuration of computing systems based on issues of cost or compatibility rather than on the desired functionality and ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

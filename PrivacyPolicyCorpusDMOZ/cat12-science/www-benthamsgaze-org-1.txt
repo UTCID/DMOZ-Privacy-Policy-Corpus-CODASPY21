@@ -1,0 +1,181 @@
+https://www.benthamsgaze.org/2016/06/02/international-comparison-of-bank-fraud-reimbursement-customer-perceptions-and-contractual-terms/
+Skip to content
+About this site
+Subscribing to Bentham’s Gaze
+Information
+Security Research Group @ UCL
+ACE-CSR @ UCL
+MSc Information Security
+Contribution policy
+Privacy Policy
+Follow us on Twitter
+Follow us on Facebook
+Follow us on LinkedIn
+Search for:
+Recent Posts
+Thoughts on the Future Implications of Microsoft’s Legal Approach towards the TrickBot Takedown
+Winkle – Decentralised Checkpointing for Proof-of-Stake
+The role of usability, power dynamics, and incentives in dispute resolutions around computer evidence
+Transparency, evidence and dispute resolution
+By revisiting security training through economics principles, organisations can navigate how to support effective security behaviour change
+June 2016
+M
+T
+W
+T
+F
+S
+S
+12345
+6789101112
+13141516171819
+20212223242526
+27282930
+« May
+Jul »
+Archives
+October 2020
+September 2020
+June 2020
+April 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+Recent CommentsColin C. Ife on Thoughts on the Future Implications of Microsoft’s Legal Approach towards the TrickBot TakedownNicholas Bohm on Thoughts on the Future Implications of Microsoft’s Legal Approach towards the TrickBot Takedowntrevelyan on Winkle – Decentralised Checkpointing for Proof-of-StakeAdolf Judenjager on A Longitudinal Measurement Study of 4chan’s Politically Incorrect Forum and its Effect on the WebLatin person on A Longitudinal Measurement Study of 4chan’s Politically Incorrect Forum and its Effect on the WebCategories
+Advertising
+Authentication
+Banking security
+Biometrics
+Blockchain
+Censorship resistance
+Crime science
+Cryptocurrencies
+Cryptography
+Cyber crime
+Education
+Genomics
+Hardware
+InfoSec group
+Inside Infosec
+Internet security
+Law enforcement
+Legal issues
+Malware
+Measurement
+Meta
+Mobile
+Modelling
+Networking
+Operating systems
+Philosophy of science
+Privacy
+Public policy
+Research projects
+Security economics
+Security usability
+Social networks
+Talks and panels
+The Conversation
+Voting
+Meta
+Log in
+Entries feed
+Comments feed
+Terms and Conditions (T&C) are long, convoluted, and are very rarely actually read by customers. Yet when customers are subject to fraud, the content of the T&Cs, along with national regulations, matter. The ability to revoke fraudulent payments and reimburse victims of fraud is one of the main selling points of traditional payment systems, but to be reimbursed a fraud victim may need to demonstrate that they have followed security practices set out in their contract with the bank.
+Security advice in banking terms and conditions vary greatly across the world. Our study’s scope included Europe (Cyprus, Denmark, Germany, Greece, Italy, Malta, and the United Kingdom), the United States, Africa (Algeria, Kenya, Nigeria, and South Africa), the Middle East (Bahrain, Egypt, Iraq, Jordan, Kuwait, Lebanon, Oman, Palestine, Qatar, Saudi Arabia, UAE and Yemen), and East Asia (Singapore). Out of 30 banks’ terms and conditions studied, 26 give more or less specific advice on how you may store your PIN. The advice varies from “Never writing the Customer’s password or security details down in a way that someone else could easily understand” (Arab Banking Corp, Algeria), “If the Customer makes a written record of any PIN Code or security procedure, the Customer must make reasonable effort to disguise it and must not keep it with the card for which it is to be used” (National Bank of Kenya) to “any record of the PIN is kept separate from the card and in a safe place” (Nedbank, South Africa).
+Half of the T&Cs studied give advice on choosing and changing one’s PIN. Some banks ask customers to immediately choose a new PIN when receiving a PIN from the bank, others don’t include any provision for customers to change their PIN. Some banks give specific advice on how to choose a PIN:
+When selecting a substitute ATM-PIN, the Customer shall refrain from selecting any series of consecutive or same or similar numbers or any series of numbers which may easily be ascertainable or identifiable with the Customer…
+Only 5 banks give specific advice about whether you are allowed to re-use your PIN on other payment cards or elsewhere. There is also disagreement about what to do with the PIN advice slip, with 7 banks asking the customer to destroy it.
+Some banks also include advice on Internet security. In the UK, HSBC for example demands that customers
+always access Internet banking by typing the address into the web browser and use antivirus, antispyware and a personal firewall. If accessing Internet banking from a computer connected to a LAN or a public Internet access device or access point, they must first ensure that nobody else can observe, copy or access their account. They cannot use any software, such as browsers or password managers, to record passwords or other security details, apart from a service provided by the bank. Finally, all security measures recommended by the manufacturer of the device being used to access Internet banking must be followed, such as using a PIN to access a mobile device.
+Over half of banks tell customers to use firewalls and anti-virus software. Some even recommend specific commercial software, or tell customers how to find some:
+It is also possible to obtain free anti-virus protection. A search for `free anti-virus’ on Google will provide a list of the most popular.
+In the second part of our paper, we investigate the customers’ perception of banking T&Cs in three countries: Germany, the United States and the United Kingdom. We present the participants with 2 real-life scenarios where individuals are subject to fraud, and ask them to decide on the outcome. We then present the participants with sections of T&Cs representative for their country and ask them then to re-evaluate the outcome of the two scenarios.
+Question
+DE
+UK
+US
+Scenario 1: Card Loss
+41.5%
+81.5%
+76.8%
+Scenario 1: Card Loss after T&Cs
+70.7%
+66.7%
+96.4%
+Scenario 2: Phishing
+31.7%
+37.0%
+35.7%
+Scenario 2: Phishing after T&Cs
+43.9%
+46.3%
+42.9%
+The table above lists the percentage of participants that say that the money should be returned for each of the scenarios. We find that in all but one case, the participants are more likely to have the protagonist reimbursed after reading the terms and conditions. This is noteworthy – our participants are generally reassured by what they read in the T&Cs.
+Further, we assess the participants’ comprehension of the T&Cs. Only 35% of participants fully understand the sections, but the regional variations are large: 45% of participants in the US fully understanding the T&Cs but only 22% do so in Germany. This may indeed be related to the differences in consumer protection laws between the countries: In the US, Federal regulations give consumers much stronger protections. In Germany and the UK (and indeed, throughout Europe under the EU’s Payment Service Directive), whether a victim of fraud is reimbursed depends on if he/she has been grossly negligent – a term that is not clearly defined and confused our participants throughout.
+International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms by Ingolf Becker, Alice Hutchings, Ruba Abu-Salma, Ross Anderson, Nicholas Bohm, Steven J. Murdoch, M. Angela Sasse and Gianluca Stringhini will be presented at the Workshop on the Economics of Information Security (WEIS), Berkeley, CA USA, 13–14 June 2016.
+One thought on “International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms”
+Press coverage here.
+Reply
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+Email *
+Website
+Post navigation
+Previous Previous post: Adblocking and Counter-Blocking: A Slice of the Arms RaceNext Next post: Exceptional access provisions in the Investigatory Powers Bill

@@ -1,0 +1,21 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch15.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 15. Host Security for ServersHost security is the security of the computer on which
+your web server is running. Traditionally, host security has been a
+computer security topic unto itself. Whole books (including a couple of
+our own) have been written on it.Host security was in its heyday in the 1980s and early 1990s, when
+dozens or even hundreds of people shared the same computer. Many of
+these systems were at universities, where one of the goals of the system
+operators was to prevent students from seeing each other’s coursework.
+Other systems were at government installations, where the systems needed
+to store and segregate “Secret” from “Top Secret” information. As a
+result, host security was traditionally concerned with questions of
+protecting the operating system from users, protecting users from each
+other, and performing auditing measures.The 1990s saw a dramatic shift in the emphasis and importance of host security. It seems that many organizations place less emphasis on host security when each person had exclusive use of a computer. This perspective is misguided because, as we have seen, distributed systems can be as vulnerable (if not more so) to the security problems that can affect large time-sharing systems. One explanation for the decreased attention to host security is that assuring host security in a distributed environment is significantly more complicated and more expensive, and in fact has proven to be beyond the capabilities of many organizations. Another ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

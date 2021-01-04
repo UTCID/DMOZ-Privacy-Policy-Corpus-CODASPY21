@@ -1,0 +1,152 @@
+http://www.cohanseysoccer.org/sam/registration/reg_help.php
+CSC
+HomeSponsorship Information Club Meeting  Online Store Online Registration Recreational Soccer Travel SoccerGirls 2012
+Boom Girls 2011 Fire Girls 2009
+Gold Girls 2005 Cheetahs U-9 Boys Royal2009 Boys Cohansey Storm  U-9 Boys Fury Forms U-10
+Boys Cobras2012 Boys Cohansey Rebles  U-11 Boys Venom U-12 Boys Clash U-15 Boys Arsenal U-13 Boys Gunners Boys 2012
+Rebels Boys 2011 Blues Boys 2010 Crush  Cohansey PremierTeams2011 Boys Premier Chelsea 2010 Boys Premier Blue 2009 Boys Premier Royal 2008 Boys Premier Cobras 2007 Boys Premier Crew 2005 Boys Premier Gunners 2004 Boys Premier United 2003 Boys Premier Arsenal   Tournament
+Troubleshooting Guide
+Back
+Having problems using the system?
+Look over these instructions and information to troubleshoot problems using online registration.
+If after reading this information, you are still encountering problems, please contact our Customer
+Support staff for assistance and we'll be happy to help.
+Your Security Settings & Software
+Most people do not have problems registering online and find the process quick and easy.
+For a few members who are using security software and have particular settings on their security software activated, you may encounter the following problems while trying to register or use your member account:
+You click on the Member Log In or Registration links and nothing happens or you go to Page Not Found
+Generally these symptoms indicate that your computer will not let you "go to" our secure server.
+When you click Member Log In or Registration, the software switches you to a secure server which is another web site address.
+Some security softwares are set not to allow you to be "taken" to a different address other then the address for the site where you originally navigated.
+The best option is to type in the secure web site address into your browser directly:
+For online registration type:
+https://www.secure-sam.com/www.yourclubaddress.com/sam/registration
+Where the web site address is RED, substitute YOUR ORGANIZATIONS'S web site address.
+This will take you directly to the secure registration area for your organization.
+If you are not sure what your organizations's web site address is, return to their registration web site and note the web site address in the address bar at the top of your screen.
+If you need help, just call our Customer Support for assistance.
+When you have a minute, you might check your security settings to see if adding the https://www.secure-sam.com address to a "trusted or secure sites" area of your software would eliminate the issue for you.
+TIP:
+Are you registering online from your office or school?
+Your network administrator may not allow you to access our secure registration site through that network.
+Give online registration a try at home and chances are it will work just fine!
+It was working before but now it's not!
+Generally this means that a setting on your computer has changed.
+Typically when you get a security update from your security software provider (usually these come automatically), settings can change that you are not aware of.
+When those settings change, you'll "all of the sudden" begin to have problems with functions that worked before.
+Turn On Cookies
+We use cookies to keep track of your registration as you progress through the different registration steps, so you must have cookies turned on in order to register online. This is an extremely common method used on the internet for managing these types of processes.
+We store nothing else on your system that is used for any other purpose other then to complete online registration.
+In order to turn cookies on in your browser, you may need to consult your browser HELP guide for further information.
+For most people using Internet Explorer, you should be able to turn on cookies by selecting Tools/Internet Options from the menu in your browser. After the new window appears, click on the Privacy tab. Make sure your privacy setting is set to "medium" . Make sure to click the OK button. Now you may return to online registration.
+If you are NOT comfortable changing your settings to medium, you might try adding https://www.secure-sam.com as a trusted site in your browser under the Per Site Privacy tab in Internet Explorer.
+For other browsers, please consult your user help guide on allowing cookies:
+1.
+Click Tools/Internet Options from the main menu
+2.
+Click the Privacy tab in the dialog that appears
+3.
+Click the EDIT or SITES (IE 7.0) button
+4.
+On the Per Site Privacy screen, add https://www.secure-sam.com as a trusted web site and you might also add in your organization's web site address as well.
+5.
+Click OK as needed and close all browsers.
+Try online registration again.
+If you continue to have trouble, don't be frustrated!
+We are here to help, so give us a call or drop us an email and we'll take care of it for you!
+Accessing Secure Servers (SSL)
+Our system uses secure servers to transmit your personal and payment information across the Internet.
+In order to access online registration, you must be able to access a secure server.
+There are several reasons why you may NOT be able to access a secure server.
+Review the following questions to identify the potential problem:
+Are you running a firewall or Norton Utilities?
+If you answered YES, then you will need to consult the instructions for your firewall or Norton Utilities and unblock Port 443 allowing access to our secure server.
+Are you behind a proxy server, perhaps at your office?
+Many businesses block access to web sites through their networks.
+If this is the case, you might contact your network administrator and find out if you're allowed to access secure servers from your location. If not, you should try registering from another computer on another network or Internet connection.
+Does your browser have SSL turned off?
+Your browser will allow you to turn off access to SSL or secure servers.
+You will need to consult your browser HELP guide for information about turning that setting on.
+For most people using Internet Explorer, you should be able to turn on SSL by selecting Tools/Internet Options from the menu in your browser.
+After the new window appears, click on the Advanced tab.
+Scroll down to the area that has the heading "SECURITY".
+Once there, make sure the SSL2.0 and SSL3.0 have the box checkmarked.
+Checkmark the box by clicking on it.
+Click OK to save your settings.
+About the Internet and Your Computer
+Sending and receiving information across the Internet is a complex process.
+Every computer is different from the next, not unlike
+a thumbprint.
+Your computer, even though it's the same brand as your neighbor's, is different because you have different software,
+modem, and Internet Service Provider (ISP).
+Additionally, information travels through many different computers over the Internet,
+so sometimes there are conflicts.
+Please be patient and follow the steps below to troubleshoot any problems.
+Browser Compatibility
+The online registration system takes advantage of the latest technology.
+This means that some older browsers, and perhaps operating
+systems, may not work as efficiently, or at all, with this online registration system.
+Here are the recommended browsers:
+PC Platform (Windows Operating System)
+Google Chrome
+Mozilla Firefox
+Safari
+Internet Explorer 7.0+
+MAC Platform
+Firefox
+Opera
+Safai
+NOTE: Microsoft IE for Mac is outdated and NOT supported for online registration.
+General Troubleshooting Tips
+Always read instructions carefully.
+Be patient if you are on a dial-up Internet connection.
+Sometimes if Internet traffic is heavy, your connection maybe slow
+and the pages (especially when going to the Payment page) maybe slow to load or process.
+You may find you need to refresh your browser.
+If you are having a problem, press F5 or the Refresh button in your browser
+window to refresh or re-establish your connection with the online registration system.
+Still having a problem?
+Try Control+F5.
+Next shut down or close your browser, and re-open it again.
+Make sure your connection to the Internet is turned on.
+If this still doesn't work, you may need to turn your computer off and restart it again (This is especially true for Netscape
+users because of memory usage.)
+If you encounter the same problem more than once after completing the previous steps, please report it to customer service and
+we'll assist you.
+Things You Should Know
+Make sure that your browser has the JavaScript permission enabled.
+If you have a Firewall running or you're on a network, your access to the Internet, including secured web sites, may be limited.
+When you try to access the Payment page of the registration site, you may find the page "hangs" or does nothing.
+If so, your Firewall
+setting may be blocking Port 443.
+You maybe having caching (your computer is storing old copies of the web page on your computer instead of getting a new page
+from the web site each time) issues with your computer.
+This can keep you from seeing new information posted to the registration
+web site.
+You may need to turn off caching and delete the history from your browser.
+Report A Problem To Customer Support
+If you are still having trouble registering online, please call us and we'll be happy to help.
+Please help us help you.
+Read the list of questions below and please have that information ready prior to contacting customer support.
+We'll be able to
+help you much more quickly and cost-effectively.
+Are you using a MAC or PC?
+What Operating System are you using? (Windows 7, Windows Vista, Windows XP, Mac OS etc.)
+What browser and browser version are you using?
+(Example: Internet Explorer 7.0, Firefox 3.66, Chrome).
+To find out what
+browser version you are using, click Help and About "Browser Name".
+The version number should be displayed on that page.
+Are you using a dial-up, cable, or DSL connection?
+Are you on a network or on a single computer? (Most businesses have networks.)
+Are you running a firewall on your computer?
+What web page were you on when you experienced the problem?
+What were you trying to do when you experienced the problem?
+Did the problem occur more than one time?
+It's very important we have this information, especially questions 7,8, and 9.
+Please email Customer Support at support@bonzidev.com
+or call us M-F 8-5 PST at 503-691-9860.
+Back
+Copyright © 2001 - 2020 CSC. All Rights Reserved.
+Online Soccer Registration and Management Software
+© 2001 - 2020 Stack Sports

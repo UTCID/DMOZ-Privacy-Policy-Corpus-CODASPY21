@@ -1,0 +1,30 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch17s05.html#websec2-CHP-17-SECT-5.3
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+When Things Go WrongWhen a web browser makes a connection to an SSL web server, it
+checks on a number of the fields in the server’s X.509 v3
+certificates. If the contents of a field don’t match what the web
+browser expects, it can alert the user or disallow the
+connection.This section summarizes some of the problems that can befall
+even the most well-intentioned site administrators.Not Yet Valid and Expired Certificates When a web browser opens an SSL connection to a
+server, it checks the dates on the certificates that the server
+presents to make sure that they are valid. If the certificate has
+expired (or if the client’s clock and calendar are not properly
+set), it will alert the user. Some programs that use SSL simply
+inform the user that a certificate has expired (or is not yet valid)
+and give the user the option to continue. Other programs do not give
+the user the option.If the date on the certificate looks valid, then it is
+possible the date on the user’s computer is wrong—for example, the
+clocks of many desktop computers will reset to 1980 if their
+internal battery dies. If you can’t figure out why a certificate is
+out of date, check your computer’s clock.Certificate Renewal Like most other identification documents,
+X.509 v3 certificates expire. When they expire, you
+need to get new ones if you wish to continue to offer X.509 v3-based
+services. In many cases, you can simply request that a new
+certificate be issued for your existing public key.The authority that issues the ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

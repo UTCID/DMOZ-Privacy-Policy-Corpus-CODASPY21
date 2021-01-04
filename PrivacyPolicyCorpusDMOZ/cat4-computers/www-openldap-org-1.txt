@@ -1,0 +1,71 @@
+http://www.openldap.org/privacy.html
+OpenLDAP.org Privacy Statement
+The OpenLDAP Project is a community effort to develop and support
+open source LDAP software. The Project is rooted in the principles
+of open participation and open communication. OpenLDAP web site,
+FTP site, e-mail services, and other services provides a means for
+participants in the effort, including users of OpenLDAP Software,
+to freely communicate and share information. These services provided
+are managed by a worldwide network of volunteers.
+Given the nature of the OpenLDAP Project and particulars of how
+services it provides are managed, privacy cannot be offered and
+shall not be expected in any communications using any OpenLDAP.org
+service.
+While staff, volunteers, and users are generally expected to adhere
+to norms of Internet etiquette and professional conduct, failure
+to adhere to these norms shall not in itself be construed as counter
+to any portion of this statement regarding privacy at OpenLDAP.org.
+The OpenLDAP Project hosts a number of services, such as our mailing
+list service, in which a user is required to register to in order
+to make use of certain aspects of the service. In all such services,
+the user is identified by a user provided email address. An email
+exchange is generally to confirm the user is in control of the
+account associated with the email address. The user's email address
+is recorded a part of user information, is used to identify the
+user in the service and associated logs, and is used in providing
+the particular service to which the user has registered to obtain
+(such as to provide copies of messages sent to a list to which the
+user has subscribed).
+The email address identifying the registered user is typically
+published with any materials the user submits to the registered
+service to identify the user to other users.
+In the event a user wishes to cease obtain a particular service
+that requires registration, the user may deregister from the service.
+In which case, the user's registration record will be deactivated
+in the authentication database for that service. The user's email
+address will however remain in the user's registratin records and
+logs, nad in any published content will remain in tact.
+In the ordinary course of providing various Internet Services to
+the OpenLDAP Project and others, the OpenLDAP Foundation logs a
+wide range of information, including information which identify the
+particular IP address accessing our the service, particulars of the
+access, and exchanged content. While generally such logs records
+are purged from the running system on a regular basis by automated
+means, copies of logs may be maintained for an extended period as
+operational or other circumstances dictate. Copies of logs may
+also be archived. Log information, as circumstances may dicate,
+may be shared with 3rd parties. For instance, log information
+recording abuse of the provided services may be shared with 3rd
+parties (such as abuse reporting clearing houses).
+Email sent to an email address under the OpenLDAP.org domain will
+generally not be regarded as private communication and may generally
+be shared with others by the receipent. For instance, email sent to
+various project contact addresses are commonly shared amongst the
+volunteers managing the project, which in turn may share them with
+others and/or forward the message to a project mailing list, and by
+so doing, cause the content of the email to be recorded in archives.
+Our services commonly managed with the assistance of volunteers.
+Volunteers have access to user information, such as users' registered
+email addresses. Volunteers are not generally bound by any legally
+enforcable agreement to keep user information, or any other
+information, in confidence. As such, users of provided services
+are not offered, and shall expect, privacy of user information, or
+any other information, they provide to these services.
+This statement does not absolve anyone from their responsibilities
+and duties not to trample the rights of others. This statement
+is intended more as a cautionary note that there is no expectation
+of privacy in communications with the OpenLDAP.org and/or the use of
+services provide by the OpenLDAP Foundation and/or OpenLDAP Project.
+________________
+© Copyright 2014-2020, OpenLDAP Foundation. Privacy Statement
+$Id: 2288997949a1d50eeff5fd7dbdbf0bc00b26c350 $

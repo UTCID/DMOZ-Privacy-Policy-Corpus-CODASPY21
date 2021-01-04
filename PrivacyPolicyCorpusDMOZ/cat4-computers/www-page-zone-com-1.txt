@@ -1,0 +1,179 @@
+http://www.page-zone.com/terms-of-service/
+Toggle navigation
+Home
+Hosting Solutions
+Web site Hosting
+Virtual Servers (VPS)
+Dedicated Servers
+Server Colocation
+Announcements
+About Us
+Contact Us
+Login
+My Account
+Logout
+Terms of Service
+You must accept these terms of service in order to use our service. These terms of service may be updated as needed at any time without notice. The main purpose of this agreement is to protect all users on our servers.
+Read these terms of service carefully and return here frequently.
+Updates are dated & cataloged at the bottom of the page.
+1.) Suspension
+Violation of these terms of service could result in suspension or removal of your account depending upon the circumstances. Suspension means that your account is put into a limbo state and is unreachable through any means. During suspension no files are lost or altered. Accounts found to be running a script which is causing a very high cpu load or mail script being used to send spam will almost always be suspended without notice to prevent further damage. Poorly written scripts must be removed in order for us to restore your service. Reports of spam are taken very seriously usually resulting in immediate account suspension and investigation without notice. We reserve the right to suspend any or all accounts held by you without notice if we deem it necessary to do so.
+2.) Scope of Service
+Our servers and pricing has been designed to be low cost and therefore, in that spirit we are simply providing basic http, mail & ftp level hosting services. This also means that applications or scripts set up by users to run on the server which cause high cpu load may be asked to move to a dedicated server.
+High CPU load is defined as using an average of more than 2% of the server processor in a 24 hour period beginning and ending at midnight, as determined by our server.
+*For reference the average medium traffic website uses about .5% of system resources.
+Script support or other “how-to” services are not provided. It is the responsibility of the user to become learned in setting up and administering their account including script installs, file permissions, uploading procedures, etc. All script engines are checked many times per day to be sure that they work server wide. Support will be strictly limited to making sure that running scripts is possible by running our test script. Page-Zone Web Hosting staff or other members may however be able to answer script or how-to related questions posted to our forum for the benefit of all users.
+3.) Limitation of Liability
+You expressly understand and agree that Page-Zone Web Hosting shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if Page-Zone Web Hosting has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the service; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; or (v) any other matter relating to the service.
+You expressly understand and agree that Page-Zone Web Hosting shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to errors in automatic credit card debits performed by our 3rd party billing services 2checkout, PayPal, or PaySystems.
+The information and materials contained on this web site have been compiled from a variety of sources and, as such, are subject to change without notice. In no event will Page-Zone Web Hosting be liable for any damages, whether direct, indirect, general, consequential, incidental, exemplary or special, arising from the use of information provided on this server or through links to any other servers.
+Communications to Page-Zone Web Hosting via this web site shall in no way be deemed to constitute legal or official notice to Page-Zone Web Hosting, its agencies, officers, employees, representatives or agents with respect to any existing, pending or future claim or cause of action against Page-Zone Web Hosting or any of its agencies, officers, employees, representatives or agents where notice is required by Federal, State or local law. Nor shall communications to Page-Zone Web Hosting via this web site be deemed to constitute legal or official notice for any other purpose.
+4.) Content
+Page-Zone Web Hosting does not actively monitor customer files or content. All services provided by Page-Zone Web Hosting may be used for lawful purposes only. Transmission, storage, or presentation of any information, data or material in violation of any United States Federal, State or City law is prohibited.
+5.) Examples of illegal content or links
+Pirated software
+Hackers programs or archives
+Warez Sites
+Illegal MP3s
+Shoutcast server
+6.) Chat Rooms
+We do not allow clients to install their own CGI chat rooms. These tend to be large system hogs and we cannot allow it as a account option. We do provide a choice of JAVA chat rooms free of charge that more than fill your needs and run without hindering the performance of the machine for others.
+7.) Background running programs
+We may allow programs to run continually in the background, these are considered on a one to one basis and an extra charge will be incurred based on system resources used and operational maintenance needed.
+8.) IRC
+We currently do not allow IRC or IRC bots to be operated on our servers. Examples include but are not limited to:
+– Any IRC Bouncers such as, but not limited to, psyBNC,bitchX.
+– IRC Eggdrops.
+– Proxy Servers
+Any account found to be running IRC or IRC bots or proxy servers or any service not installed by us will be suspended forever.
+9.) SSH (secure shell)
+Secure shell access is available to trusted customers by request using the following guidelines:
+We may request a legible photocopy of a valid legal photo ID with drivers license number and or Social Security or the financially sensitive equivalent of that information in your country blacked out or otherwise masked for your protection before transmitting the copy to us. ID must match the name of the domain owner on file at the domain registrar and if the name is protected by a proxy service SSH access will be refused.
+10.) Discussion Forum Scripts
+We have recently had issues with popular websites and their associated discussion scripts. To protect all users please use the following guidelines. You are encouraged to use PHP MySQL based discussion scripts whenever possible. Flat file discussion scripts such as Ultimate Bulletin Board (UBB) are not allowed. Scripts which are found to be using excess system resources will be asked to move to a dedicated server or be disabled. This is to protect all users on our servers.
+11.) BANNED SCRIPTS
+The following are scripts which either cause a great load on our servers or pose a serious security risk, therefore can not be run on our servers.
+Any gaming server software
+IRC Egg Drops
+Proxy Servers
+nph-proxy
+bitchX
+The Anonymizer
+any soap mailers
+Anonymous file sharing scripts
+These scripts are on the banned list because they have at one time been installed by customers and have had a serious impact on the rest of our user accounts.
+12.) Commercial Advertising – Email or Usenet
+Spamming, or the sending of unsolicited email, from a Page-Zone Web Hosting server or using an email address that is maintained on a Page-Zone Web Hosting machine is STRICTLY prohibited. Equally, any email or usenet spam which points to any domain hosted on a Page-Zone Web Server will result in immediate suspension of that domain name account and a full investigation. Any form mail script running on your account is done at your own risk. Ignorance of the risks of such scripts is no defense. Page-Zone Web Hosting will be the sole arbiter as to what constitutes a violation of this provision.
+Reports of spam are given top priority if you have arrived at this page in the course of a spam investigation and wish to report abuse send all details and headers to mail@page-zone.com as soon as possible.
+12.1) Bulk Email
+Safelists (safe lists) or the voluntary acceptance of bulk email put an extremely high load on our servers. Using our servers to send or accept spam type or junk email in mass quantities for pay (or free) is expressly forbidden. Domains receiving more than 10,000 emails per 24 hour period will need to make arrangements to host email on a dedicated server or have incoming email null routed.
+12.2) Other Mail
+Outgoing mail from our servers is pre-set with a hard limit of 1000 per hour, this includes all outgoing SMTP and Mailing Lists. Maximum POP3 mailbox checking is limited to once each 30 seconds per email account.
+12.3) Mailing Lists & AOL email addresses on them
+No mailing list can contain an email address owned by AOL or any AOL customer. No email can be sent to any AOL address from any mailing list.
+13.) Server abuse
+Any attempts to undermine or cause harm to a Page-Zone Web Hosting server or customer of Page-Zone Web Hosting is strictly prohibited. No user is allowed to use more than 2% of the server’s resources. In the event there is a problem the account holder will be notified. If the user continues to use more than 2% of the server’s resources the account will be suspended. *For reference that average medium traffic site uses about .5%.
+14.) Damages
+If you violate these terms of service and it results in damage to our servers or causes Page-Zone Web Hosting any additional expense or legal fees you agree to compensate us in full for the amount of monetary damages multiplied by a factor of two (2) as determined by us.
+15.) Liability
+Page-Zone Web Hosting is in no way responsible for down time either resulting from a users actions, or natural fluctuations in internet consistency. Page-Zone Web Hosting will however, do everything within it’s power to assure that each and every client site is up as consistently as possible.
+15.1.) Website Operability
+Page-Zone Web Hosting constantly updates server software and security settings based upon internal and external conditions which can change without notice. For this reason it is usually not feasible to announce some changes in advance, especially where server security is involved. While most changes go completely unnoticed by our customer occasionally a security or server change will break a website’s functionality. It is the responsibility of the website developer to create his website to function within our server environment and we cannot troubleshoot, edit, or attempt to fix any website which cannot run in our server environment.
+15.2 Abandoned an non resolving websites cleared periododicaly
+Page-Zone Web Hosting administrators reserve the right to periodically clear abandoned websites in which the domain name has expired or resolved to non-Page-Zone IP’s. We will keep a backupp of the files for a period of 3 months after deletion. This is done for security reasons.
+16.) Indemnity
+You agree to indemnify and hold Page-Zone Web Hosting, and its officers, agents or other partners, and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of your Content, your use of the Service, your connection to the Service, your violation of the TOS, or your violation of any rights of another.
+17.) Billing
+Page-Zone Web Hosting’s billing period is typically every 30 days to 360 days depending on the term you have chosen. Each account may be automatically debited each month for the total amount due and will continue to be debited at the interval which you have chosen until help desk notice of cancellation is received and confirmed. If the credit card on file is declined for any reason or check/money order isn’t received, the customer will receive notification in writing via email. Response to this email is required within 72 hours. In the event there is no response from the account holder after 2 attempts the account will be suspended until payment in full is received including a $25 service restore fee if the account shows habitual late payment. After the account has been suspended for 30 days it will be deleted. Account suspension does not release the past due debt, and duration of the suspension for any reason is considered billable service until the files are deleted by us or the current hosting term expires whichever is sooner.
+18.) Refunds (30 day guarantee):
+We hope that you are fully satisfied with your hosting from us, but in the event you are not, we offer a 30 day no questions asked money back guarantee on your first month hosting subscription. Setup fees, special service fees or software license fees (if any) are not refundable.
+19.) Refunds (past first 30 days):
+Are basically the same as refunds in the first 30 days. There are however no refunds on partial months or one year dedicated IP address purchases. Web Hosting is sold in one month increments and up to one year increments, and if you cancel or are asked to leave due to TOS violations we will refund all unused full months left in your hosting term.
+20.) Canceling Service
+To cancel service submit an email from our support page indicating that you wish to cancel service. Please supply your account username and password for verification purposes, or we will need to verify via email for your protection. We will immediately stop recurring billing on your account at 2Checkout or PayPal and delete your account at the end of its current billing cycle for the domain name or domain names affected.
+Canceling service does not remove your email address from the Page-Zone customer forum automatically. To unsubscribe from the forum click below.
+Unsubscribe to Forum
+21.) Reseller Hosting
+All resold plans (your customers) are subject to the same terms and conditions of regular hosting plans, with the following additional terms:
+a.) Free Hosting Offering
+Due to the spamming and abuse reputation of “Free Hosting” offers, adding hosting accounts for third parties for no consideration or monetary price is strictly prohibited. This also applies to giving away email accounts to non trusted parties.
+b.) Instant Account Activation
+Due to the abuse risks involved in instant account activation. Instant account activation scripts are strictly prohibited. Instant account activation scripts are those which create an account automatically, or send login information to the customer (end user) with no human intervention or screening.
+c.) Reasonable Care
+You agree to exercise care in screening new signups to help prevent abuse or hit and run spamming operations from gaining access to our servers. You agree to provide all contact information you have on file for any domain name hosted on our servers upon request. Failure to provide adequate contact information may be deemed as a violation of “reasonable care” and may put your main account in serious jeopardy.
+d.) CPanel Demo Accounts
+We allow resellers to set up demo accounts for cPanel functionality. YOU MUST notify us of the demo domain name so that we can convert it to a demo account to prevent it from being used for illegal purposes.
+e.) Third Part Violation of TOS
+Hosted domains (your customers) found to be in violation of the terms and conditions are subject to suspension or deletion without notice depending upon the severity of the violation. Any suspended domain must be brought into compliance before un suspending the account. Any domain deemed by us to be in severe violation must be removed from the server and may never be reinstated. Reinstating accounts banned forever by us will put your main account in serious jeopardy.
+f.) Restoring Banned Websites
+Important – If the reseller recreates a previously banned domain that was under their control on our server all the domains under their control will be suspended pending deletion. We also cannot under any circumstances restore or help move these suspended domains.
+——————————————————————————–
+Updates to terms of service:
+December 24, 2001 – Added damages policy.
+December 28, 2001 – Updated IRC policy.
+January 7, 2002 – Added discussion forum limits.
+January 19, 2002 – Added specific banned scripts.
+January 20, 2002 – Added Limitation of Liability, and abuse reporting email link.
+January 28, 2002 – Added SSH policy (section 9) Which was part of our welcome email.
+March 15, 2002 – Added Refunds past 30 day policy.
+May 31, 2002 Re-wrote section 1 & 2.
+June 24, 2002 Added cancellation procedure.
+July 20, 2002 Revised cancellation procedure to provide more information.
+July 24, 2002 Defined High CPU load in section 2.
+August 12, 2002 Added section 4.2
+January 11, 2003 Added section 12.1
+September 13, 2004 Added 21 f – Restoring Banned Websites
+September 28, 2004 Added 15.1. – Website Operability
+January 18, 2005 Rewrote 19.) Refunds (past first 30 days)
+August 28, 2006 – Added stricter requirements for SSH access (section 9)
+June 10, 2008 – Added 12.3, a ban on having any @aol.com email address on any mailing list
+July 29, 2008 – Changed 21 d (reseller demo accounts now allowed, with notice)
+——————————————————————————–
+Digital Millennium Copyright Act (DMCA) & Safe Harbor Compliance
+Page-Zone Web Hosting complies with all DMCA and Safe Harbor requirements. All notices of infringement or safe harbor violations must be sent by mail to:
+Page-Zone Web Hosting
+3129 25th St
+Suite 135
+Columbus, Indiana 47203-2436
+Additionally, we aggressively investigate all complaints sent to us via email but reserve the right to request notification in writing as set forth in the provisions of the respective laws and treaties before taking any action. Please include detailed evidence of the violations in your complaint and cite the laws violated.
+——————————————————————————–
+Privacy Policy
+Introduction
+Page-Zone Web Hosting respects each individual s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at the Page-Zone Web Hosting Web site.
+Part I. Information Collection
+Page-Zone Web Hosting collects information through our Web site at several points. As with almost all websites on the Internet we automatically collect and log the following information about primary visitors:
+Host Name (your ISP)
+Referrer (the page you are coming from)
+Your browser type
+Your operating system
+Pages and files you have viewed on our site
+We may also collect some types of personally identifiable information which our users divulge. Page-Zone Web Hosting does not actively market to children, and we never knowingly ask a child under 13 to divulge personal information. New customers are routinely investigated through non-published proprietary but legal methods to determine the likelihood of order fraud and/or risk of using our service for illegal activity including the possibility of spam distribution.
+We do employ cookies. A cookie is a small text file that our Web server places on a user s computer hard drive to be a unique identifier. Cookies enable Page-Zone Web Hosting to track usage patterns and deliver customized content to users. Our cookies do have an expiration date. Our cookies do not collect personally identifiable information.
+Part II. Information Usage.
+The information collected by Page-Zone Web Hosting will be used for conducting normal and efficient business with you. Only users who provide the information needed will receive our services.
+Registered users may receive additional announcements from us about products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications.
+No Page-Zone Web Hosting customer or potential customer will ever be put onto any mailing list or receive a mailing list email from us unless they have purposely registered on that list using the double opt in method.
+The information we collect will not be used to create customer profiles based on browsing or purchasing history. We will not supplement information collected at our Web site with data from other sources.
+We do not share personally identifiable data with third parties other than our credit card processors and then only for the purpose of servicing your account.
+If you have any further questions about privacy or security, please contact us.
+Trademarks and copyrights
+Word marks “PAGE-ZONE.COM WEB HOSTING”, “PAGE-ZONE” and the Page-Zone logo are registered trademarks of Page-Zone Web Hosting. Usage of these marks or wording phonetically similar are prohibited by law. Duplication and publication of these terms of service in whole or in part by bona fide clients of Page-Zone Web Hosting is allowed.
+Official Communication
+Communications to Page-Zone Web Hosting. via this web site shall in no way be deemed to constitute legal or official notice to Page-Zone Web Hosting.
+Hosting Solutions
+Web site Hosting
+Virtual Servers (VPS)
+Dedicated Servers
+Server Colocation
+CONNECT WITH US
+Follow on Twitter
+COMPANY
+About us
+Server Status
+Announcements
+Knowledgebase
+LEGAL TERMS
+Terms of Service
+Copyright © 1999 - 2020. Unlimited Net, LLC d/b/a Page-Zone Web Hosting
+×
+Login

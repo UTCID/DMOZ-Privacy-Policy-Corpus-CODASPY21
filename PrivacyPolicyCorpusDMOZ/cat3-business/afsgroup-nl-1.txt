@@ -1,0 +1,48 @@
+https://afsgroup.nl/regulation/mifid-ii-solutions/best-execution-policy-test/
+MIFID II Best Execution Policy
+Till December 2016 AFS best execution policy was based on MiFID I requirements. Formally, till December 2017 AFS is still obliged to follow the MiFID I best execution requirements. However, as the level two implications of MiFID II are already clear, as of January 2017 AFS will follow the best execution obligations required under MiFID II to the extent that they are publicly available.
+In scope
+The concept of best execution in MiFID II is a lot broader then under MiFID I. MiFID II and MiFIR includes the following additional requirements:
+A wider scope of products. Next to Equity, MiFID II also include best execution for Fixed Income, Listed Derivatives, and OTC Derivatives.
+Proof of best execution is more data driven and needs to be recorded.
+The setup of a MiFID II best execution compliant trading infrastructure is more demanding.
+It’s clear that with the widening of the product scope, the burden to provide best execution becomes heavier. This because the liquidity drivers are different between asset classes, e.g. most shares are priced throughout the day, a lot of bonds are not. Another problem is that derivatives are not fungible. This means that, as an example, an option bought on EUREX cannot be sold on Euronext.
+Criteria
+Under MiFID I the following execution factors needed to be taken into account:
+Price
+Size and/or nature of the order
+Probability of execution and settlement
+Costs
+Speed
+Any other consideration regarding the execution of the order.
+These factors do not changed under MIFID II. However an investment firm under MIFID I had to take reasonable steps, under MIFID II it is required to take sufficient steps to provide best execution. This means that proof of best execution needs to be data driven and available at all times for the client and the regulator. Beside aforementioned execution factors the following information and procedures are required:
+A clear overview of the spectrum of markets and clearing solutions that have been considered and the explanation of the finally chosen solution.
+A clear description of the process to come to the best solution for, regular monitoring, the best execution and, the best trading infrastructure.
+In order to comply with MiFID II AFS upgraded their execution procedures and designed in house software named AFS BEST (Best Execution Solutions (MiFID) Two) to fulfill and record all the MiFID II execution requirements.
+Read more AFS BEST
+MIFID II Solutions
+Best Execution Policy test
+AFS BEST
+Assisted Reporting Services
+Record keeping
+Reporting requirements
+Contact us
+Beursplein 5
+1012 JW Amsterdam
+T: 020 5707200
+F: 020 5707299
+info@afsgroup.nl
+Email Call
+This website uses cookies to provide you with the best browsing experience.Find out more or adjust your settings.
+Accept
+Privacy Overview
+Strictly Necessary Cookies
+Powered by GDPR plugin
+Privacy Overview
+This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
+Strictly Necessary Cookies
+Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.
+disable
+If you disable this cookie, we will not be able to save your preferences. This means that every time you visit this website you will need to enable or disable cookies again.
+Enable All
+Save Settings

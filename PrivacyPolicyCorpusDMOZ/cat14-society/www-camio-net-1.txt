@@ -1,0 +1,98 @@
+http://www.camio.net/privacy
+Put your cameras to work.
+Camio is the real-time video search engine that puts existing cameras to work
+to understand the problems that warrant human attention.
+Unlike passive evidence collection, Camio makes protective security
+economically feasible.
+t
+Request a Demo
+(or contact us)
+“Gov. Gavin Newsom says one of the keys to reopening the state is creating lasting "social distance" policies…
+A Bay Area company has a new tool that could provide a solution during the coronavirus pandemic.”
+“Camio’s product works with any security camera through cloud-based software…
+If you want your employees to be safe, and you want consumers to be confident, you as a manager want to know if you have a problem.”
+“Cameras that were already in place in the factory provide video that is analyzed by Camio's AI software, pointing out behaviors that would normally seem innocuous but could contribute to the spread of coronavirus.”
+“During the pandemic, we've seen innovations in ways to monitor people's movement and activities to help stop the spread of the virus…
+Camio detects whether or not people are wearing masks.”
+See More
+Mask & Social Distancing Detection
+Ensure business continuity and protect lives.
+Why Buy Camio
+Data tells the whole story in real time
+Tailgating Detection
+Secure facilities for regulatory compliance
+Multi-property Monitoring
+18x ROI for an 800-location real estate company
+50x efficiency
+5x faster review
+90% fewer false positives
+Deploy in less than an hour
+How Cameras Do the Work for You
+Camio transforms any network camera, DVR, NVR, VMS, or computer
+into an intelligent video monitoring system—with real-time video search & alerts backed by
+unlimited cloud storage.
+The open & extensible video pipeline
+The H.264 video stream from any camera, NVR, or VMS works as input.
+The on-premise video gateway Box (3) automatically connects to either the video stream of the camera or its associated channel on the NVR/VMS.
+The Box video gateway analyzes the video streams locally on the network for both bandwidth and cost efficiency. It uses state-of-the-art AI to adapt to the scene to choose the optimal encoding, analysis, and storage based on what's happening.
+The cloud ranks and indexes each event with labels for real-time search & alerts while also triggering additional analyses or workflows based on the activity observed in the event.
+Hooks—triggered by persistent searches—can talk to any other systems via open and extensible REST APIs.
+The recorded video can be accessed instantly from any Web Browser on any device.
+Learns automatically
+Camio automatically learns which events are most important to you in each scene.
+Shop Cameras
+Start Recording
+Features
+Any Device
+Open to all H.264 video streams—including those you already have.
+Record with any IP camera, NVR, VMS, or computer.
+Smart Search
+Zero-in on moments that matter in seconds with real-time video search.
+e.g. [bikes on sidewalk]
+Personalized Alerts
+Search-based video alerts
+tell you whenever something important happens
+that matches your query.
+Secure Live Streaming
+Stream
+without the botnets
+because no inbound network ports are open.
+Unlimited Storage
+Save 30-90+ days of video in the cloud, regardless of
+its resolution.
+It’s bandwidth-efficient too.
+Unlimited Guests
+Add trusted colleagues as Guests.
+Or, selectively
+share via links
+like
+[people in blue at east stairs]
+.
+Learn More
+Partner solutions
+Camio also makes it simple to power your solutions with advanced video monitoring.
+Its cloud API, freely licensed firmware,
+open support for all cameras,
+integrations, and white-labeled services
+deliver state-of-the-art video capabilities to partners.
+curl -H "Content-Type: application/json" \
+-H "Authorization: token pQr1zf2" \
+-d '{"callback_url": "https://acme.com/delivery", "query": "people approaching mailbox"}' \
+-X POST https://camio.com/api/users/me/hooks
+What people are saying
+Camio is a simple and reliable way to securely monitor sensitive areas for PCI compliance.
+Its 90-day encrypted video history and bandwidth-efficient continuous recording provide tamper-proof auditability
+in support PCI DSS requirement 9.1.1.
+Jarrod Bell, CIO,
+San Francisco Opera
+Connect any IP camera.*
+Get Started
+(or demo in your browser)
+camio
+Send Code
+Remember me
+Forgot password?
+Don’t have an account? Sign Up
+camio
+Already have an account? Sign In
+Your use of Camio is agreement to the Terms of Service and Privacy Policy.

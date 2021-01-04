@@ -1,0 +1,250 @@
+http://www.theglobeandmail.com/business/technology/science/video-remote-icus-help-ease-growing-us-caseload/
+Video: Remote ICUs help ease growing U.S. caseload - The Globe and Mail
+Skip to main content
+Support Quality Journalism
+Just$1.99
+per week for first 24 weeks
+Give thanks for independent journalismSupport The Globe and Mail. Start Today
+Give thanks for independent journalism
+Just $1.99 per week
+for the first 24 weeks
+Just $1.99 per week for the first 24 weeks
+var select={root:".js-sub-pencil",control:".js-sub-pencil-control",open:"o-sub-pencil--open",closed:"o-sub-pencil--closed"},dom={},allowExpand=!0;function pencilInit(o){var e=arguments.length>1&&void 0!==arguments[1]&&arguments[1];select.root=o,dom.root=document.querySelector(select.root),dom.root&&(dom.control=document.querySelector(select.control),dom.control.addEventListener("click",onToggleClicked),setPanelState(e),window.addEventListener("scroll",onWindowScroll),dom.root.removeAttribute("hidden"))}function isPanelOpen(){return dom.root.classList.contains(select.open)}function setPanelState(o){dom.root.classList[o?"add":"remove"](select.open),dom.root.classList[o?"remove":"add"](select.closed),dom.control.setAttribute("aria-expanded",o)}function onToggleClicked(){var l=!isPanelOpen();setPanelState(l)}function onWindowScroll(){window.requestAnimationFrame(function() {var l=isPanelOpen(),n=0===(document.body.scrollTop||document.documentElement.scrollTop);n||l||!allowExpand?n&&l&&(allowExpand=!0,setPanelState(!1)):(allowExpand=!1,setPanelState(!0))});}pencilInit(".js-sub-pencil",!1);
+The Globe and Mail
+Video
+Member Benefits
+Subscribe
+Register
+Log in
+My account
+Following
+Bookmarks
+Reading history
+Newsletters
+Subscriptions
+Settings
+Help
+My account
+Following
+Bookmarks
+Reading history
+Newsletters
+Subscriptions
+Settings
+Help
+AdChoices
+Search
+Search
+Quick links
+Horoscopes
+Puzzles
+Member Benefits
+Newsletters
+Globe Shop
+Investigations
+Death Notices (Legacy.com)
+Reader services
+Subscribe
+Following
+Subscriptions
+Settings
+Customer Help
+Contact us
+Log in
+Log out
+Privacy Policy
+Terms & Conditions
+Remote ICUs help ease growing U.S. caseload
+Published September 14, 2020
+Updated September 14, 2020
+Sutter Health, a large hospital system in California, is among a growing number of institutions relying on remote ICUs to monitor and evaluate patients virtually, which helps to cope with an unrelenting COVID-19 caseload.
+Reuters
+More videos
+Most popular 1 of 9 videos
+Trump faces a 'Gray Revolt' among older voters
+Housefly settles on Mike Pence's head during debate
+Western University students weigh the risks of contracting COVID-19
+Multiple or yearly injections likely needed for COVID-19 immunity: Nobel-winning virologist
+Video shows inside a Uyghur’s detention room in China
+Trump supporters unfazed by his three days in hospital
+Car Review
+Lamborghini Urus is the king of super-SUVs
+Tories press Liberals to approve more rapid-testing kits for COVID-19
+Exploring the Arctic’s deep ocean
+Latest 1 of 10 videos
+Kyrgyzstan declares state of emergency amid political turmoil
+1:29
+Nobel Peace Prize goes to World Food Programme
+1:41
+Federal government and Ontario invest in electric vehicles
+2:08
+Trump rejects virtual debate with Biden
+2:25
+JPMorgan pledges $30-billion to address racial wealth gap
+1:13
+Plot to kidnap Michigan governor foiled; 13 arrested
+2:49
+Edmonton sees spike in COVID-19 cases; residents urged to follow guidelines
+2:28
+Kyrgyzstan president says he's ready to resign
+1:55
+Indonesian protesters rally against new labour law
+1:27
+Europe tries to clamp down on surging COVID-19 cases
+2:10
+Canada 1 of 10 videos
+Federal government to ban six disposable plastic products
+2:01
+COVID-19 vaccine to be distributed free: Trudeau
+1:12
+Singh says NDP will vote for bill banning conversion therapy
+0:41
+Blanchet says Ottawa must apologize for October Crisis
+2:38
+Former prime minister John Turner eulogized at state funeral
+1:44
+New Green Leader says party won't back Liberals' throne speech
+2:02
+Trudeau says he was tested for COVID-19 last month
+1:12
+Trudeau says repatriation of Canadian orphan from Syria an exceptional case
+0:36
+New Green Leader Annamie Paul speaks about diversity
+1:38
+Canada Infrastructure Bank makes announcements, not investments: Singh
+1:19
+World 1 of 5 videos
+OxyContin maker nears guilty plea in opioid probe
+1:35
+Former police officer charged in George Floyd's death posts $1-million bond
+1:14
+Prosecutor can obtain Trump's tax returns, court rules
+2:05
+Facebook bans militarized calls for poll-watching
+1:34
+Trump says catching COVID-19 a 'blessing from God'
+1:54
+Life & Arts 1 of 10 videos
+Wonder Woman director warns movie theaters could vanish
+2:21
+Legendary rock guitarist Eddie Van Halen dies at 65
+0:47
+Led Zeppelin win Stairway to Heaven copyright battle
+1:53
+California winery owner loses 'dream castle' to fire
+2:06
+Creators of CBC's Trickster on making a 'game-changer'
+2:31
+How community gardens can increase food security
+1:47
+Thomas King says making up stories growing up set the stage for being an author
+4:12
+Margaret Atwood and Thomas King together in The Globe's Book Club
+1:07:03
+Historic sweep: Schitt’s Creek a big winner at Emmy Awards
+1:58
+Chinese plant protein startups bet on local tastes
+2:16
+Drive 1 of 10 videos
+New Defender brings luxury to the iconic off-roader
+14:43
+Student's car-tire innovation wins James Dyson award
+1:34
+Go back to the future in this replica DeLorean time machine
+13:41
+Model Y crossover combines some of the best attributes of Tesla's other electrics
+9:50
+Polestar 1 packs a lot of performance tech into its sleek shape
+7:58
+Could a computer virus take down every car on the road?
+12:46
+This Cadillac is all about its monster twin-turbo V8
+7:56
+Hyundai's new subcompact crossover a Venue for price-conscious buyers
+7:06
+Subaru’s outgoing STI still a driver’s car
+7:30
+Mercedes SUV packs some super-smart suspension
+9:43
+Business & Investing 1 of 10 videos
+U.S. House antitrust panel issues scathing report on Big Tech
+1:58
+Cineworld shuts in U.K., U.S., impacting 45,000 jobs
+1:12
+U.S. economic recovery shifts into lower gear as pandemic drags on
+1:05
+FAA chief not ready to reapprove Boeing 737 Max
+1:35
+Cuban entrepreneurs reinvent businesses to survive
+2:38
+Amazon unveils home drone security camera
+0:37
+This 'solar skin' can charge your headphones
+3:02
+Facebook Oversight Board to launch in October
+2:33
+Apple critics unite to challenge App Store fees
+1:10
+Johnson & Johnson launches final study of single-shot COVID-19 vaccine
+1:09
+Terms & Conditions
+Community Guidelines
+Privacy Policy
+Disclaimer
+Skip footer navigation
+Subscribe
+Digital + Home Delivery
+Digital Access
+Globe2Go
+The New York Times
+Globe Email Newsletters
+Gift Subscription
+Business Services
+Advertise with Us
+Group Subscriptions
+Content Licensing
+DataStore
+Report On Business Top 1000
+Globe Event Centre
+Contact Us
+Address and Phone Number
+Public Editor
+Staff
+Staff PGP Directory
+SecureDrop
+Submit an article
+Reader Services
+My Globeandmail.com Account
+Technical Support & FAQs
+Manage my home delivery
+Manage my privacy preferences
+Manage my advertising preferences
+Member Benefits
+Reader Services
+My Globeandmail.com Account
+Technical Support & FAQs
+Manage my home delivery
+Manage my privacy preferences
+Manage my advertising preferences
+Member Benefits
+Reader Services
+My Globeandmail.com Account
+Technical Support & FAQs
+Manage my home delivery
+Manage my privacy preferences
+Manage my advertising preferences
+Member Benefits
+About Us
+Company Information
+Work at The Globe
+Accessibility Policy
+Editorial Code of Conduct
+Sustainability
+Licensing & Permissions
+Election Advertising Registry
+Return to start of footer navigation
+© Copyright 2020 The Globe and Mail Inc. All rights reserved.
+351 King Street East, Suite 1600, Toronto, ON Canada, M5A 0N1
+Phillip Crawley, Publisher
+To view this site properly, enable cookies in your browser. Read our privacy policy to learn more.
+How to enable cookies

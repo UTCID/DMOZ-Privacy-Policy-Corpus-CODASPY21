@@ -1,0 +1,93 @@
+https://www.constructionline.co.uk/cookie-policy/
+Skip to content
+Home / Cookie Policy
+Cookie policy
+Please Note:
+By continuing to browse our website, you consent to the placing cookies on your computer (unless you have chosen to disable them via your browser – details below).
+We have tried to ensure that you, our users, have full visibility of the cookies used on Constructionline. Our website requires certain cookies to be enabled for the supplier and buyer login areas to function correctly. You can restrict or block cookies from Constructionline using your browsers privacy settings. Each browser allows you to restrict or block cookies in different ways so we recommend that you visit the help section of your browser to learn how to set your preferences.
+How do I Control or Delete Cookies?
+Information on:
+Deleting cookies
+Controlling cookies
+is available at www.aboutCookies.org. To reiterate though, by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site.
+What are Cookies?
+Cookies are small files which are stored on your computer. They are designed to hold a modest amount of data specific to your website visit on our site.
+Cookies help to improve your visit to our website by helping with the following:
+Remembering settings, so you don’t have to keep re-entering them whenever you visit a new page
+Remembering information you’ve given (e.g. your postcode) so you don’t need to keep entering it
+Measuring how you use the website so we can make sure it meets your needs
+Please note that cookies can’t harm your computer and we do not store personally identifiable information in cookies we use on this website.
+We’re giving you this information as part of our initiative to comply with UK legislation, and to make sure we’re honest and clear about your privacy when using our website.
+Please be assured that we’re working on a number of other privacy and cookie-related improvements to the website.
+Measuring website usage – Google Analytics
+Google Analytics uses cookies to define user sessions, as well as to provide a number of key features in the Google Analytics reports. Google Analytics sets or updates cookies only to collect data required for the reports. Additionally, Google Analytics uses only first-party cookies. This means that all cookies set by Google Analytics for your domain send data only to the servers for your domain. This effectively makes Google Analytics cookies the personal property of this website domain, and the data cannot be altered or retrieved by any service on another domain.
+The following table lists the type of information that is obtained via Google Analytics cookies and used in Analytics reports.
+Functionality
+Description of Cookie
+Setting the Scope of Your Site Content:
+Because any cookie read/write access is restricted by a combination of the cookie name and its domain, default visitor tracking via Google Analytics is confined to the domain of the page on which the tracking code is installed. For the most common scenario where the tracking code is installed on a single domain (and no other sub-domains), the generic setup is correct. In other situations where you wish to track content across domains or sub-domains, or restrict tracking to a smaller section of a single domain, you use additional methods in the ga.js tracking code to define content scope. See Domains & Directories in the Collection API document for details.
+Cookie Used: All Cookies
+Determining Visitor Session:
+The Google Analytics tracking for ga.js uses two cookies to establish a session. If either of these two cookies are absent, further activity by the user initiates the start of a new session. See the Session article in the Help Center for a detailed definition and a list of scenarios that end a session. You can customise the length of the default session time using the _setSessionCookieTimeout() method.
+This description is specific to the ga.js tracking code for web pages. If you use Analytics tracking for other environments – such as Flash or mobile – you should check the documentation for those environments to learn how sessions are calculated or established.
+Cookie Used: __utmb __utmc
+Identifying Unique Visitors:
+Each unique browser that visits a page on your site is provided with a unique ID via the __utma cookie. In this way, subsequent visits to your website via the same browser are recorded as belonging to the same (unique) visitor. Thus, if a person interacted with your website using both Firefox and Internet Explorer, the Analytics reports would track this activity under two unique visitors. Similarly if the same browser were used by two different visitors, but with a separate computer account for each, the activity would be recorded under two unique visitor IDs. On the other hand, if the browser happens to be used by two different people sharing the same computer account, one unique visitor ID is recorded, even though two unique individuals accessed the site.
+Cookie Used: __utma
+Tracking Traffic Sources & Navigation:
+When visitors reach your site via a search engine result, a direct link, or an ad that links to your page, Google Analytics stores the type of referral information in a cookie. The parameters in the cookie value string are parsed and sent in the GIF Request (in the utmcc variable). The expiration date for the cookie is set as 6 months into the future. This cookie gets updated with each subsequent page view to your site; thus it is used to determine visitor navigation within your site.
+Cookie Used: __utmz
+Custom Variables:
+You can define your own segments for reporting on your particular data. When you use the _setCustomVar() method in your tracking code to define custom variables, Google Analytics uses this cookie to track and report on that information. In a typical use case, you might use this method to segment your website visitors by a custom demographic that they select on your website (income, age range, product preferences).
+Cookie Used: ___utmv
+Website Optimizer:
+You can use Google Analytics with Google Website Optimizer (GWO), which is a tool that helps determine the most effective design for your site. When a website optimizer script executes on your page, a _utmx cookie is written to the browser and its value is sent to Google Analytics. See the Website Optimizer Help Center for more information.
+Cookie Used: ___utmx
+Once the cookies are set/updated on the web browser, the data they contain that is required for reporting purposes is sent to the Analytics servers in the GIF Request URL via the utmcc parameter.
+Cookies Set By Google Analytics
+Google Analytics sets the following cookies as described in the table below. A default configuration and use of Google Analytics sets only the first 4 cookies in the table.
+Name: __utma
+Description: This cookie is typically written to the browser upon the first visit to your site from that web browser. If the cookie has been deleted by the browser operator, and the browser subsequently visits your site, a new __utma cookie is written with a different unique ID. This cookie is used to determine unique visitors to your site and it is updated with each page view. Additionally, this cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure.
+Expiration: 2 years from set/update.
+Name: __utmb
+Description: This cookie is used to establish and continue a user session with your site. When a user views a page on your site, the Google Analytics code attempts to update this cookie. If it does not find the cookie, a new one is written and a new session is established. Each time a user visits a different page on your site, this cookie is updated to expire in 30 minutes, thus continuing a single session for as long as user activity continues within 30-minute intervals. This cookie expires when a user pauses on a page on your site for longer than 30 minutes. You can modify the default length of a user session with the _setSessionCookieTimeout() method.
+Expiration: 30 minutes from set/update.
+Name: __utmc
+Description: This cookie is no longer used by the ga.js tracking code to determine session status.
+Historically, this cookie operated in conjunction with the __utmb cookie to determine whether or not to establish a new session for the user. For backwards compatibility purposes with sites still using the urchin.js tracking code, this cookie will continue to be written and will expire when the user exits the browser. However, if you are debugging your site tracking and you use the ga.js tracking code, you should not interpret the existence of this cookie in relation to a new or expired session.
+Expiration: Not set.
+Name: __utmz
+This cookie stores the type of referral used by the visitor to reach your site, whether via a direct method, a referring link, a website search, or a campaign such as an ad or an email link. It is used to calculate search engine traffic, ad campaigns and page navigation within your own site. The cookie is updated with each page view to your site.
+Expiration: 6 months from set/update.
+Name: __utmv
+This cookie is not normally present in a default configuration of the tracking code. The __utmv cookie passes the information provided via the _setVar() method, which you use to create a custom user segment. This string is then passed to the Analytics servers in the GIF request URL via the utmcc parameter. This cookie is only written if you have added the _setVar() method for the tracking code on your website page.
+Expiration: 2 years from set/update.
+Name: __utmx
+This cookie is used by Website Optimizer and only set when the Website Optimizer tracking code is installed and correctly configured for your pages. When the optimizer script executes, this cookie stores the variation this visitor is assigned to for each experiment, so the visitor has a consistent experience on your site.  See the Website Optimizer Help Center for more information.
+Expiration: 2 years from set/update.
+For further information about the Cookies Google uses please visit this Cookie Information page.
+Other 3rd Party Cookies we may use
+When you visit our website, you may notice some cookies that are collecting information for other websites. For example, if you visit a page that has video content, cookies from YouTube may be served. We do not control the setting of these cookies and we recommend you visit the third party websites for more information.
+Please find a list of some third party cookies you may find present on this website and links to their specific cookie information:
+YouTube
+Google Adwords
+Get in touch
+How can we help?
+Contact us
+Get support
+Thank you
+Your message has been received, we will get back to you as soon as possible!
+Something went wrong
+Your message could not be sent at this time.
+For assistance pelase email Constructionline@Constructionline.co.uk
+Browser our support topics
+Supplier guides and videos
+Logo download
+Important documents
+FAQ's
+Membership Payment
+Check service status
+Contact support
+View our Privacy Policy
+Constructionline.co.uk uses cookies to give you the best possible online experience.
+By continuing to browse this site you are agreeing to our use of cookies. See our cookie policy for more information. Accept

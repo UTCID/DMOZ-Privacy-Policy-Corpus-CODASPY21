@@ -1,0 +1,30 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch16s03.html#websec2-CHP-16-SECT-3.3
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Securely Using Fields, Hidden Fields, and CookiesOne of the reasons that it can be difficult to develop secure
+web applications has to do with the very architecture of web
+applications. When you develop an application, you generally write a
+body of code that runs locally on the web server and a much smaller
+body of code that is downloaded and run remotely on the user’s web
+browser. You might spend a lot of time making sure that these two code
+bases work properly together. For example, it’s very important to make
+sure that the field names downloaded in web forms exactly match the
+field names that server-side scripts are expecting. And you will
+probably spend time making sure that the HTML forms, JavaScript, and
+other codes that are downloaded to the browser work properly on a wide
+range of different browser programs.Even in the best of times, it can be difficult to get software
+on the web browser and the web server to properly synchronize and
+interoperate. What makes this whole process difficult from the
+security perspective is that attackers, by definition, don’t play by
+the rules. Sure, they can run your HTML forms and JavaScript in
+well-behaved browsers, but they can also pick apart the code, analyze
+it, and send completely made-up responses back to your web server.
+These sorts of attacks are difficult to detect because they are very
+hard for normal web developers to test against—after all, most web
+developers don’t have a stable of CGI-script attack tools.There is nothing inherently ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

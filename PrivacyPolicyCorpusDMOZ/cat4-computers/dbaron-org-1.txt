@@ -1,0 +1,288 @@
+http://dbaron.org/mozilla/visited-privacy
+Preventing attacks on a user's history through CSS :visited selectors
+L. David Baron,
+Mozilla Corporation
+Web browsers remember what pages a user has visited recently.
+They
+use this history for a number of things, such as making links a
+different color if the page they link to was visited and providing autocompletion
+in the URL bar.
+It's been widely known for a while that CSS's ability to style
+visited links differently from unvisited ones, combined with other Web
+technology such as JavaScript or simply loading of background images,
+lets Web pages determine whether a URL is in the user's history very
+quickly and without any interaction from the user.
+This is true in
+current versions of all major Web browsers.
+I have a solution that I
+believe fixes this problem, and therefore helps users keep their history
+private when they use a Web browser implementing that solution.
+I have patches implementing this solution that I believe are largely
+complete, and which I will soon be requesting reviews on to begin the
+process of incorporating them into a future version of Gecko, the layout
+engine used by Firefox.
+How CSS can be used to query a user's browser history
+Before describing the details of the solution, I'd like to describe
+the details of the problem.
+CSS has
+a selector :link that matches unvisited links, and a
+selector :visited that matches visited links.
+So typical
+styles for links might be expressed in the form:
+:link, :visited {
+/* for all links */
+text-decoration: underline;
+}
+:link {
+/* for unvisited links */
+color: blue;
+}
+:visited {
+/* for visited links */
+color: purple;
+}
+Authors can then write script that uses the getComputedStyle
+method to determine which links have been visited:
+var links = document.links;
+for (var i = 0; i < links.length; ++i) {
+var link = links[i];
+/* exact strings to match actually need to be
+auto-detected using reference elements */
+if (getComputedStyle(link, "").color == "rgb(0, 0, 128)") {
+// we know link.href has not been visited
+} else {
+// we know link.href has been visited
+}
+}
+So, to avoid this problem, browsers clearly need to make
+getComputedStyle lie when links have been visited, and
+report the result as though all links are unvisited.
+However, this isn't sufficient, since there are many other things Web
+pages could do, such as:
+They can make visited and unvisited links take up different
+amounts of space, and then determine whether the link is visited from
+the positions of other elements on the page.
+They can make visited and unvisited links cause different images
+to load.
+They can use CSS features such that matching selectors, doing
+layout, or doing painting would take a different amount of time
+depending on whether the link is visited or unvisited, and then run a
+performance test.
+To prevent Web pages from accessing a user's history in these ways,
+browsers must limit the ability of Web pages to style pages based on
+whether links are visited.
+Making getComputedStyle and
+related functions lie is not sufficient.
+Limits of proposed solution
+The solution I'm proposing (and have implemented) is intended to
+protect against attacks on the user's history using CSS :visited that
+occur without any user interaction and can be done in a reasonable
+amount of time.
+It is not intended to fix attacks that involve user interaction.
+For
+example, a Web page could make some links hidden and some visible based
+on what sites are visited, and then determine what the user clicks on.
+Users who want to be safe from such exploits need to disable the
+coloring of visited links, which can be done in Firefox 3.5 and newer
+using the layout.css.visited_links_enabled preference in
+about:config.
+It also may not fix extremely fine-grained timing attacks against the
+user's history, though I hope it fixes any practical ones.
+In addition to the history, Web browsers also store a cache of the
+contents of most pages the user has visited recently.
+The cache is
+different from the history: the history only remembers the URL of the
+page, whereas the cache contains the contents of the page so that it can
+load faster the next time it is loaded.
+The cache is therefore likely
+to go back considerably less in time.
+This solution does not address
+ways that Web pages can figure out what is in the user's cache (which
+are unrelated to CSS :visited selectors).
+Effects on Web pages
+The solution that I've implemented has three major effects on what Web
+pages can do:
+It makes getComputedStyle (and similar
+functions such as querySelector) lie by acting as though
+all links are unvisited.
+It makes certain CSS selectors act as though links are always
+unvisited, even when they are visited.
+This happens in two cases.
+The
+first is sibling selectors (technically combinators),
+such as :visited + span, which selects any
+span element that is the next sibling of a visited link.
+For sibling selectors like this, we always act as though the link is
+unvisited, since the element matched by the selector (the span) is not
+the link or one of its descendants.
+The second is the rare case of
+nested link elements.
+In these cases, when the element being matched
+is, or is a descendant of, a different link from the one whose presence
+in history is being tested, we break descendent and child selectors just
+like in the previous case, and we also slightly change the CSS inheritance
+rules to match.
+Or, looking at things the other way around, the only link whose presence
+in the user's history can affect the style of an element is the nearest
+ancestor-or-self of that element that is a link.
+The element's style is
+what you would expect if that link were in its true state (visited or
+unvisited) and all other links were unvisited.
+It limits the CSS properties that can be used to style visited links
+to color,
+background-color,
+border-*-color,
+outline-color and,
+column-rule-color and,
+when both the unvisited and visited styles are colors (not paint servers or none), the
+fill and
+stroke properties.
+For properties that are not permitted (and for the alpha components of
+the permitted properties, when rgba() or hsla() colors or
+transparent
+are used), the style for unvisited links is used instead.
+In the second and third cases, when styles for :visited are disabled,
+the existing styles for :link are used in their place, so existing Web
+pages will keep working.
+Proposed solution
+The approach, in more detail, is as follows:
+there is at most one
+element whose presence in the user's history can affect the style of a
+node: call this the node's relevant link.
+If the node is a
+link, its relevant link is itself.
+Otherwise, it is the node's nearest
+ancestor that is a link, or, if there is no such ancestor, there is no
+relevant link.
+For every node, instead of computing its style by matching selectors
+against :link and :visited based on whether links are in the user's
+history, we first compute the style by matching selectors as though all
+links are unvisited.
+(This produces an object representing the computed
+style for the element which, in our code, is called an nsStyleContext.)
+Then, if the node has a relevant link, we compute style a second time on
+the assumption that the relevant link is visited and all other links are
+unvisited.
+This produces a second nsStyleContext, which we
+give the first style context a pointer to (called its
+style-if-visited).
+We also record in the first style context
+whether the relevant link was visited.
+We then handle all dynamic
+changes to the document or style that would require either of these
+style contexts to be updated by updating them as needed.
+All code except code that is specifically intended to use style based
+on the history uses the first style context, as all of our existing code
+does.
+This causes getComputedStyle and other related
+functions to lie about whether links are in the user's history.
+Then, we make the properties that Web pages should be able to style
+differently for visited links (color,
+background-color, border-*-color,
+outline-color, column-rule-color,
+fill, and stroke)
+opt in to getting the styles for visited
+links by having the code that implements the drawing for these
+properties get the color to draw through a function that combines the
+data from the two style contexts based on whether the relevant link is
+visited.
+If the relevant link is not visited, this function returns the
+color from the first (normal) style context.
+If the relevant link is
+visited, it returns a color whose R (red), G (green), and B (blue)
+components come from the second style context (the style-if-visited) but
+whose A (alpha) component comes from the first.
+However, there is one
+exception to the second rule (to handle the case where the first style
+context has a usable color and the second style context has a color
+whose alpha is 0, such as transparent, which doesn't have
+meaningful R, G, and B components):
+if the color in the
+style-if-visited has an A component of 0, then the color from the normal
+style is always used.
+It's worth noting that depending on when an implementation starts
+image loads for images referenced from CSS, the images that are
+referenced from the if-visited styles for background-image,
+etc., might still be loaded.
+However, it's important that the
+implementation ensure that either they're never loaded (preferable), or
+that they're always loaded at the same time whether or not links are
+visited.
+Risks
+The most likely issue that I know of for existing Web pages is that
+some Web pages may depend on using background
+images to differentiate between visited and unvisited links.
+This
+solution I suggest will mean that the background image for unvisited
+links will be used all the time.
+We could potentially allow background
+images if it turns out to be a problem, but it's a good bit of work to
+do so without introducing easily-measurable performance differences
+(since different images are likely to have different performance
+characteristics).
+It might be possible do to by tiling both background
+images into equally sized buffers and then drawing whichever buffer is
+actually needed.
+However, I am not currently planning to do this.
+This change will also make it much harder to support CSS
+transitions for style changes that result from a link being added to
+(or removed from) the history.
+My implementation makes us stop
+supporting such transitions.
+We haven't yet shipped transitions support
+in a final version yet, so this won't have any Web page compatibility
+effects.
+Constraints on future changes to what browsers support
+One future area of concern where we might introduce new ways for Web
+pages to determine whether links are in history using :visited is the
+pointer-events
+property, as my colleague Robert O'Callahan pointed out.
+If, in the
+future, we add (highly requested) values to this property that allow
+mouse events to reach elements depending on whether or not parts of an
+image or parts of the element are transparent, we need to be careful in
+two cases.
+First, SVG filters allow swapping of alpha and color
+components.
+Second, if we allow background images (above), those images
+might have transparency in different places.
+These problems could be avoided in one of two ways.
+We could ensure
+that pointer-events always looks at transparency based on unvisited
+styles.
+Or, alternatively, if we don't allow background images, we
+could ensure that pointer-events looks at transparency prior to
+processing of SVG filters (which might be easier anyway).
+Another area of concern is new canvas features:
+if features are
+added which allow painting an element or window to a canvas (which
+likely have a number of other security and privacy implications), they
+would need to draw the element as though all links are unvisited.
+See also
+Bug 147777 - :visited support allows queries into global history
+Plugging the CSS History Leak, Mozilla Security Blog, 2010-03-31
+privacy-related changes coming to CSS :visited, Mozilla Hacks - the Web developer blog, 2010-03-31
+Change log
+March 9, 2010
+Original version
+March 25, 2010
+Added the color parts of the 'fill' and
+'stroke' properties to list of properties.
+March 30, 2010
+Tried to make the middle bullet under Effects on
+Web pages a bit clearer
+March 31, 2010
+Added See also section pointing to Mozilla Security Blog and to bug 147777.
+Stop marking as draft.
+Added Hacks blog post as well.
+April 1, 2010
+Clarified that for fill and stroke properties, the fallback color will not change for :visited (only colors as primary values, when both values are colors).
+Mentioned potential future canvas issues.
+Fixed typo in comment in example in problem statement.
+April 2, 2010
+Added column-rule-color per Dave Hyatt's suggestion
+April 6, 2010
+Two changes to proposed solution section:
+Added exception to color mixing function for when the style-if-visited has
+alpha of 0.
+Added note about timing of resource loading.

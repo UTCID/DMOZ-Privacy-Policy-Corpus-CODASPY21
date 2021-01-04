@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch15s07.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+ConclusionIn this chapter we looked at a range of issues affecting host
+and network security for organizations operating web servers. We saw
+that practically every business decision that you make for your
+computers can have significant security impacts. Many businesses treat
+security as an afterthought, something that can be added after other
+decisions have already been made—such as the choice of vendor, the
+decision whether or not to use consultants, and the allocated budget
+for personnel.A chapter such as this one cannot convey all the knowledge
+necessary to securely operate a computer on the Internet today. This
+is just an introduction to this important topic. For specific details
+of securing a Unix computer on the Internet, we recommend our book
+Practical Unix & Internet Security. Even
+though the book was published back in 1996, much of the information
+that it contains is still current. That book, combined with this one
+and updates from your vendor, will provide you with the information
+that you need to operate a Unix computer securely on the Internet
+today.If you are running a computer with a Microsoft operating system
+on the Internet, we recommend the book Securing Windows
+NT/2000 Servers for the Internetby Stefan Norberg
+(O’Reilly).
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

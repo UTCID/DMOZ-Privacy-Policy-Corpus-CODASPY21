@@ -1,0 +1,31 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch10s03.html#websec2-CHP-10-SECT-3.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Secure EmailDespite
+the attention that is now being paid to topics such as
+cookies, advertisements, and anonymous browsing, these are all
+relative newcomers to a privacy issue that dominated the field of
+internet security for much of the 1990s—the sending of encrypted
+email.Today, email carries some of our most confidential information.
+Yet basic email, as a communications medium, is riddled with poor
+security. Consider these potential email threats:By sending an email message, you might reveal your name,
+your address, your location, or other personal information that
+you would rather keep confidential.Your email message might be monitored by your employer or
+your ISP without your permission.Your email message could be delivered to the wrong
+recipient, either because of an error with the mail system, or
+because you inadvertently selected the wrong recipient from your
+mail program’s address book.Your email message could “bounce” into a postmaster
+mailbox—possibly because a computer between your computer and the
+recipient’s computer was unable to properly relay the
+message.Once your email message is delivered, it might be seen by
+someone other than the intended recipient. (For example, somebody
+could gain unauthorized access to your correspondent’s computer,
+or the message might be turned over to an attorney as part of a
+discovery process.)The intended recipient might forward the email message to
+someone against your wishes.You might leave a job where you had been using your old ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

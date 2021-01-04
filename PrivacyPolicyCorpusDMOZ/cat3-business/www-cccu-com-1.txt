@@ -1,0 +1,114 @@
+http://www.cccu.com/about/accessibility-policy
+Skip Content
+Search
+Search
+X
+For You
+Borrow
+Mortgages
+Mortgage FAQ
+Home Equity Loans
+Student Loans
+Auto Loans
+Personal Loans
+Loan Rates
+Apply For A Loan
+Manage
+Direct Deposit
+Forms
+Mobile Banking
+Online Banking
+eStatements
+eStatements FAQ
+Bill Pay
+Reorder Checks
+Digital Wallet
+My FICO Score
+Save
+Health Savings Account
+Savings Accounts
+Youth Savings Accounts
+Deposit Rates
+Investing
+Spend
+Checking
+ATM/Debit Cards
+Open Checking
+Refer A Friend
+Credit Cards
+Gift Cards & Prepaid Cards
+For Your Business
+Borrow
+Secured Loans
+Commercial Construction Loans
+SBA Loans
+Commercial Real Estate Loans
+Ready Reserve Line of Credit
+Standby Letters of Credit
+Term Loans
+Manage
+Direct Deposit
+Merchant Processing
+Mobile Banking
+Online Banking
+eStatements
+eStatements FAQ
+Bill Pay
+Reorder Checks
+Small Business Resources
+Save
+Business Deposit Rates
+Business Savings Accounts
+Spend
+Business Checking
+Business Credit Cards
+Financial Education
+Financial Fitness Center
+Classes & Events
+Calculators
+Financial Counseling
+Greater Good
+Money on the Bookshelf
+Fraud & Identity Theft
+Banking Security Resources
+Fraud FAQ
+About Us
+CCCU Overview
+Careers
+News & Promotions
+Eligibility
+Schedule an Appointment
+Find a Branch/ATM
+Contact Us
+SEARCH
+×
+×
+Login to CCCU Online
+Federally Insured by NCUA
+×
+Just a Heads Up
+By selecting ‘Continue’ you will be leaving the City & County Credit Union (CCCU) website.
+CCCU is not responsible for accuracy, security, content, or services offered by other websites and their privacy and security policies might differ from ours. CCCU does not represent either the third party or the user if you enter into a transaction on the linked site.
+We hope you will visit us again soon.
+Continue Cancel
+Home
+About
+Accessibility Policy
+Accessibility Information
+City & County Credit Union is strongly committed to providing a website that is as accessible to our Membership as visiting our branches in person. We have made our best efforts to implement the recommendations of the Web Content Accessibility Guidelines (WCAG) as published by the Web Accessibility Initiative (WAI) of the World Wide Web Consortium (W3C).
+While there is no single definitive test of conformance to Level AA of the WCAG, we have used a variety of methods for assessing our accessibility, not limited to but including physical tests using screen readers and keyboard only. City & County Credit Union is aware that our brand colors do not always meet conformance standards. If you find text on a page that you cannot read, please contact us immediately so that we may provide the text in a more readable format.
+If you find a part of the site that you feel does not conform to Level AA of the WCAG or are having difficulty getting the information you need, please use one of the methods below to let us know so that we can rectify any problem.
+Contact us by phone at (800)-223-2801
+Contact us via our Contact Us page.
+Although City & County Credit Union strives to make every page accessible to users, we cannot guarantee that every page conforms to WCAG 2.0 Level AA.
+Please note some pages have partial conformance due to the use of 3rd party vendors. As such City & County Credit Union does not claim full site-wide Conformance, as defined by WCAG Level AA 2.0. City & County Credit Union cannot ensure conformance of crucial third-party plug-ins and widgets.
+Furthermore our conformance claims only extend to pages within the www.cccu.com domain.
+Known limitations for our site:
+Maps on our website are controlled through iframes: iframes containing Google Maps will have frameborder applied utilizing HTML attributes. Due to utilizing a third-party service to supply maps, this is not something that we can alter at this time. If the embed code for Google Maps is updated in the future to allow us better control, we will update our code at that time.
+Maps on our website do not have titles: iframes containing Google Maps will not have a title supplied. Due to utilizing a third-party service to supply maps, this is not something that we can alter at this time. If the embed code for Google Maps is updated in the future to allow us better control, we will update our code at that time.
+Page content is contained within a form that does not have a submit button or action: our website is built utilizing ASP.net webforms this means that all of the content for our page is contained within a form element and there is no submit button or action associated with the form. This is a requirement of the CMS platform we are on, and will not be able to fix without re-platforming our website.
+Event Calendars are formatted using tables for displays: The calendar on our events page and events detail utilizes a table for displaying the data. This is the most appropriate choice to build something like this out and while we understand it can potentially cause some accessibility errors in reports, we have taken every effort to make this as accessible as we can. If an update to the third party tool we utilize for events is made available that increases accessibility we will update our code at that time.
+If any of these issues prevents you from being able to utilize our website, please contact us via our Contact Us page or by phone at (800)-223-2801.
+City & County Credit Union has used WCAG guidelines for conformance as suggested by the Department of Justice. Though some of the conformance found in WCAG conforms with 508 Compliance, we are not 508 Compliant.
+City & County Credit Union chose to use WCAG for conformance because they are determined by the W3C, the consortium that makes the guidelines for the Internet, worldwide.
+City & County Credit Union uses automated testing as a baseline for conformance but understands W3C's position that there is as yet no tool that can perform a completely automatic assessment on the checkpoints in the guidelines, and fully automatic testing may remain difficult or impossible'.

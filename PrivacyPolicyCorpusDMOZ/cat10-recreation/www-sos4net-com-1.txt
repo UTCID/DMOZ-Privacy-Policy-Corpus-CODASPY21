@@ -1,0 +1,145 @@
+https://www.sos4net.com/windows-10-important-privacy-info/
+SOS4Net Inc.Helpful Hints & Other Info - Windows
+If you need website design, development, maintenance, a domain name, web or email hosting, or computer repair
+and clean up, call 303-796-3000 or email info@sos4net.com today for your FREE consultation!
+Windows 10 Important Privacy InfoHow to Fix Windows 10 Privacy Issues
+Well, Windows 10 has been here for over a month now.  Since we’re sure some of you are installing or have already installed it, we thought we’d better get this information out on our website.  In case you haven’t heard, there are some serious privacy concerns with the Windows 10 operating system.  However while most of them can be addressed in Windows settings, some of those settings are not easy to find.  First we’ll list what we think are the most serious privacy concerns, and then we’ll tell you how you can take care of them.
+As you’re going along, keep in mind that in Windows 10, just because you don’t see a scroll bar on a given settings screen does NOT mean there are not more settings.  We’ve found that, even if there are more settings than can fit on your screen, if your mouse has been still for more than a few seconds, the scroll bar will go away!  Just move your mouse to get it back.
+Some of the procedures we’ll mention below involve making changes with the Group Policy Editor, changes to the Windows registry, and changes to the Windows “hosts” file.  Please be very careful with these few procedures as errors in either the registry or the hosts file can cause problems with Windows functions.  If after reading the instructions below you do not feel comfortable performing these procedures yourself, SOS4Net would be happy to perform them for you for a minimal fee.
+According to Microsoft’s privacy policy, they can access and disclose your private data pretty much whenever they feel like it.  Here’s an except from their privacy statement.
+“Finally, we will access, disclose and preserve personal data, including your content (such as the content of your emails, other private communications or files in private folders), when we have a good faith belief that doing so is necessary to: 1.comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies; 2.protect our customers, for example to prevent spam or attempts to defraud users of the services, or to help prevent the loss of life or serious injury of anyone; 3.operate and maintain the security of our services, including to prevent or stop an attack on our computer systems or networks; or 4.protect the rights or property of Microsoft, including enforcing the terms governing the use of the services – however, if we receive information indicating that someone is using our services to traffic in stolen intellectual or physical property of Microsoft, we will not inspect a customer’s private content ourselves, but we may refer the matter to law enforcement.”
+If you’re using a MS account to sign into Windows, much of your data is automatically sync’d as soon as you’re logged in.  This means the data is sent to and kept on their servers, making it super convenient for them in case they need to do a “good faith” access of your information.
+Allegedly to provide better support, Windows 10 includes of all things a keystroke logger.  A keystroke logger is something which, under any other conditions, would be considered a malicious threat and eliminated by your antimalware or antivirus programs.  It does exactly what the name implies:  It records every character you type–every letter, every number, every special character–and sends it all to Microsoft.  Even things that normally are encrypted and secure, like passwords and answers to security questions for bank and credit card sites, are not safe from a keystroke logger.  That’s because encryption takes place between your computer’s web browser and the bank or credit card website, but not between your keyboard and other parts of your own computer.
+Windows 10 includes Cortana, Microsoft’s answer to Apple’s digital assistant, Siri. If you use Cortana, and perhaps even if you don’t, your PC microphone is always on, waiting for someone to say, “OK Cortana” to start her going.  Unfortunately while Cortana’s waiting for  you to call for her services, the mic is on and anything that’s said within its range is recorded and sent to Microsoft, again allegedly to help Cortana serve you better and to help them provide you with better support.
+You can’t do anything about the actual privacy statement if you want to continue to use Windows 10.  However if you would like to “fix” other Windows 10 privacy issues, here’s how.  Below we’ve posted text instructions for everything you’ll need to do, but first we posted a link to a YouTube video that takes you through all of it.  It’s best used to give you an ides of what you’ll be looking for when you follow the written instructions.  However if you do intend to follow along with the video and make your changes, be ready to use the pause button–a lot.  The guy in the video doesn’t allow extra time for  you to do what he does, so you’ll have to do that yourself.
+Here’s the link to the video.  Please note that it opens in a new window: https://youtu.be/rczgCmoNSSE
+Now here are the text instructions with a bit of clarification from us.  These instructions were not generated by SOS4Net.  They were originally posted on reddit.com.  We have used them ourselves, and they appear to cause no problems when executed correctly.  PLEASE NOTE however that SOS4Net is not responsible for any malfunctions that may arise if clients commit errors while executing these instructions themselves.
+Before/During Installation
+If you haven’t already installed Windows 10…
+Consider not using Express Settings. Hit Customize, and make sure everything is turned off.  This should save some time after installation.
+It’s strongly recommended that you use a local account to login to Windows 10 instead of using a Microsoft account.
+After Installation
+Head to Settings > Privacy, and disable just about everything, unless there are some things you really need.
+General tab: Everything off
+Location tab: Off
+Camera tab: Master switch at top off UNLESS you have an app that needs to use the camera, like
+Skype.  If you do, you’ll need to turn off the individual apps that should not use the
+camera.
+Microphone tab: Same as camera tab above.
+Speech, Inking, & Typing: Here’s where you shut off the keystroke logger.  If the button
+in the “Getting to know you” section says anything other than, “Get to know me”, click it!
+Account Info tab:  Off
+Contacts tab: All off EXCEPT for Mail and Calendar.
+Calendar tab: Same as Contacts tab above.
+Messaging tab: Master switch off UNLESS you have an app that needs to be able to send text or
+SMS messages.
+Radios tab: Master switch off UNLESS you have an app that needs to use bluetooth or regular
+wireless.
+Other Devices tab:  Master switch off UNLESS you have an app that needs to use bluetooth
+or regular wireless.  Any devices that connect to your PC with bluetooth should be explicitly
+paired.  Having this setting on could allow your PC to sync with any random devices within
+range.
+Feedback & Diagnostics:  Feedback Frequency set to Never; Diagnostic and Usage Data set
+to Basic (because there’s no choice for None).
+Background Apps:  Turn everything off.  The apps can do what they need to do when
+you open them.
+Head to Settings > Update and Security, scroll down to and click Advanced Options at the bottom.  Now click the link for Choose how updates are delivered, and turn the first switch off.  If this switch is on, in addition to the Microsoft update servers, your machine may get updates from and share updates with other machines on your local network OR other machines out on the internet!
+At this point, Cortana should already be disabled, but just in case click in the Search bar/box at the left side of the task bar next to the start button.  Toward the top left of the search menu, click the Settings icon (the gear).  If the top switch for Cortana is on, click it to turn her off.  You may also want to turn off the Search online and include web results switch.  This will cause these types of searches to be limited to your local PC, and  you can do internet searches from your web browser, like you’re probably already used to doing.
+Now if you’re using Start Menu 8/10, since there’s a search box at the bottom of your start menu, right click an empty area of the task bar, go to Search and select Show Search Icon to reclaim some of that task bar real estate.
+If you’d like to change the name of your PC, you can do so by clicking the Search icon next to the start button and typing Rename PC and clicking the result.
+Slightly Complex
+Open a Command Prompt as an administrator by clicking the search icon or box, enter cmd, then right click Command Prompt and select Run as Administrator.  Now enter the following pressing Enter after each command:
+sc delete DiagTrack
+sc delete dmwappushservice
+echo “” > C:ProgramDataMicrosoftDiagnosisETLLogsAutoLoggerAutoLogger-Diagtrack-Listener.etl
+The next 5 items are somewhat advanced.  Please take care to follow the instructions precisely so your computer’s functionality is not impaired.  NOTE that users of Windows 10 Home Editions will not be able to perform the 3 items that require Group Policy Editor as it is not included with home editions of Windows.
+Open the Group Policy Editor as an administrator by typing gpedit in your command prompt and pressing Enter. Go to Computer Configuration > Administrative Templates > Windows Components > Data Collection and Preview Builds. Double click Telemetry, select Disabled, then OK. NOTE: This only truly works in the Enterprise edition, but the final step provides a decent enough workaround for Pro users.
+If you do not use MS OneDrive, while still in the Group Policy Editor, go through Computer Configuration > Administrative Templates > Windows Components > OneDrive, double click Prevent the usage of OneDrive for file storage, select Enabled, then OK.
+While still in the Group Policy Editor, go through Computer Configuration > Administrative Templates > Windows Components > Windows Defender, double click Turn Off Windows Defender, select Enabled, then OK.  NOTE: This may happen automatically if you install a third party antivirus program like Avast.
+Close the Group Policy Editor.
+Open the Registry Editor as an administrator by typing regedit in your command prompt window and pressing Enter. Go to HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindowsCurrentVersionPoliciesDataCollection, double click AllowTelemetry, change its value to 0, click OK, then close the Registry Editor.
+Now open the Hosts File.  Do this by entering “notepad” into your command prompt window and pressing Enter.  Select File > Open, and enter C:\Windows\System32\Drivers\Etc\hosts.  Copy and paste the following.  This will only limit the unwanted connections to Microsoft.  It will not prevent your computer from getting its important security updates.
+127.0.0.1 localhost
+::1 localhost
+127.0.0.1 localhost.localdomain
+255.255.255.255 broadcasthost
+127.0.0.1 local
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0 sqm.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
+0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 choice.microsoft.com
+0.0.0.0 choice.microsoft.com.nsatc.net
+0.0.0.0 df.telemetry.microsoft.com
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 wes.df.telemetry.microsoft.com
+0.0.0.0 services.wes.df.telemetry.microsoft.com
+0.0.0.0 sqm.df.telemetry.microsoft.com
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 watson.ppe.telemetry.microsoft.com
+0.0.0.0 telemetry.appex.bing.net
+0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 telemetry.appex.bing.net:443
+0.0.0.0 settings-sandbox.data.microsoft.com
+0.0.0.0 vortex-sandbox.data.microsoft.com
+0.0.0.0 survey.watson.microsoft.com
+0.0.0.0 watson.live.com
+0.0.0.0 watson.microsoft.com
+0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
+0.0.0.0 compatexchange.cloudapp.net
+0.0.0.0 cs1.wpc.v0cdn.net
+0.0.0.0 a-0001.a-msedge.net
+0.0.0.0 statsfe2.update.microsoft.com.akadns.net
+0.0.0.0 sls.update.microsoft.com.akadns.net
+0.0.0.0 fe2.update.microsoft.com.akadns.net
+0.0.0.0 65.55.108.23
+0.0.0.0 65.39.117.230
+0.0.0.0 23.218.212.69
+0.0.0.0 134.170.30.202
+0.0.0.0 137.116.81.24
+0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 corp.sts.microsoft.com
+0.0.0.0 statsfe1.ws.microsoft.com
+0.0.0.0 pre.footprintpredict.com
+0.0.0.0 204.79.197.200
+0.0.0.0 23.218.212.69
+0.0.0.0 i1.services.social.microsoft.com
+0.0.0.0 i1.services.social.microsoft.com.nsatc.net
+0.0.0.0 feedback.windows.com
+0.0.0.0 feedback.microsoft-hohm.com
+0.0.0.0 feedback.search.microsoft.com
+Now click File > Save, then use the X at the top right to close Notepad and your command prompt.
+That should do it.  Now most of the built in Windows 10 privacy issues should be taken care of.
+MAIN PAGESWeb Design & Development
+Web Design Process
+Web Design Clients
+Hosting & Domain Names
+Local Search Management
+Computer Repair & Cleanup
+Home
+HELPFUL TIPSEmail Tips & Info
+Email Max Message Size
+Antivirus / Antimalware Tools
+Helpful Windows Information
+Find Your IP Address
+OUR COMPANYMake a Payment
+Late Fee Policy
+Privacy Policy
+Contact Us
+SOS4Net, Inc. 6824 S Dexter St
+Centennial, CO. 80122
+303-796-3000
+Phone
+303-796-3001
+Fax
+Email:
+info@sos4net.com
+Scroll to top

@@ -1,0 +1,21 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch02s02.html#websec2-CHP-2-SECT-2.3.1
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+A Packet’s Tour of the WebThe easiest way to explain the functioning of the Web today is
+to explore what happens when you start a web browser and attempt to
+view a page on the Internet.Booting Up Your PCEvery computer[19] manufactured today is equipped with a small memory
+chip that holds its information even when the computer is turned
+off. When you turn on your computer, the computer’s microprocessor
+starts executing a small program that is stored on this memory chip.
+The program is called the computer’s Basic Input Output System, or BIOS. The BIOS has the
+ability to display simple information on the computer’s screen, to
+read keystrokes from the keyboard, to determine how much memory is
+in the computer, and to copy the first few blocks of the computer’s
+disk drive into memory and execute them.The first few blocks of the computer’s hard drive contain a
+program called the bootstrap loader. [20] The bootstrap loader reads in the first part of the computer’s operating system from storage (on a disk or CD-ROM), which loads in the rest of the computer’s operating system, which starts a multitude of individual programs running. Some of these programs configure the computer’s hardware to run the operating system, others perform basic housekeeping, and still others are run for historical reasons—whether that is to assure compatibility with previous generations of operating systems, or because developers at the company that created the operating system forgot to take the programs out ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

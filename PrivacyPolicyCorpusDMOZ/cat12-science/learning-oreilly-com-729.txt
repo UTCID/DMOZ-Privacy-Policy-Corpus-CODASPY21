@@ -1,0 +1,31 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/apas08.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+ConclusionIt’s interesting to look back over Vineyard.NET’s first six
+years of operation. On the one hand, we accomplished practically
+everything we set out to do. We created a self-sufficient company with
+a fairly large customer base. We created Perl scripts for managing
+user accounts, generating reports, and even submitting credit card
+numbers securely over the Internet to our merchant bank for payment.
+We grew the company to more than a thousand customers. We cashed out.
+And then we bought it back.On the other hand, a lot of the diversions that we investigated
+never panned out. For example, we have that great software for billing
+credit cards, but we have never been able to sell it to anybody
+else—we couldn’t even give it away. We spent many hours working on
+proposals for providing network service to schools and various
+businesses, only to be passed over for political reasons that had
+nothing to do with our technical capabilities. We deployed a
+cryptographic web server because our customers told us that we had to
+have one, and then nobody used it. All of that is pretty
+frustrating.I learned a lot about Unix and computer security by running
+Vineyard.NET. The project added a good 200 pages to
+Practical Unix & Internet Security and was
+responsible for the creation of the book that you are reading now. On
+the other hand, running Vineyard.NET kept me from writing who knows
+how many other books.As for the value of what we’ve created, I certainly would have made more money working ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

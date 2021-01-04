@@ -1,0 +1,321 @@
+http://games.greggman.com/game/apple-privacy/
+Top
+About
+Search
+@greggman
+github
+10 Things Apple Could do to Increase Privacy.
+2019-07-22
+Apple under Tim Cook is staking out the claim that they are "the Privacy company".
+Apple products are designed to protect your privacy.
+At Apple, we believe privacy is a fundamental human right.
+Here's 10 things they could do to actually honor that mission.
+1. Disallow Apps from using the camera directly.
+This one is problematic but ... the majority of apps that ask to use
+your camera do not actually need access
+to your camera. Examples are the Facebook App, The Messenger App, the
+Twitter App. Even the Instagram App. Instead Apple could change their APIs
+such that the app asks for a camera picture and the OS takes the picture.
+This removes the need to for those apps to have access to the camera at
+all. The only thing the app would get is the picture you took using the
+built in camera functionality controlled by the OS itself. If you don't
+take a picture and pick "Use Picture" then the app never sees anything.
+As it is now you really have no idea what the app is doing. When you are
+in the Facebook app, once you've given the app permission to use the camera
+then as far as you know
+the app is streaming video, or pictures to Facebook constantly.
+You have absolutely no idea.
+By changing the API so that the app is required to ask the OS for a
+photo that problem would be solved.
+The problem with this solution is it doesn't cover streaming video
+since in that case the app needs the constant video. It also doesn't
+cover unique apps that do special things with the camera.
+One solution to the unique camera feature issue would be app store
+rules. Basically only "camera" apps would be allowed to use the
+camera directly. SNS apps and other apps that just need a photo
+would be rejected if they asked for camera permission instead of
+asking the OS for a photo.
+Another solution might be that the OS always ask the user for permission
+to use the camera (or at least provide the option). In other words
+if you are in some app like the Instagram app and you click the "take
+a photo" image the OS asks you "Allow App To Use The Camera?" each
+and every time. As it is now it only asks once. For those people
+that are privacy conscious being able to give the app each and every
+time would prevent spying.
+2. Disallow Apps from using the Mic directly
+See previous paragraph just replace every instance of "camera"
+with "mic"
+3. Disallow access to all Photos
+This is similar to the two above but, as it is now apps like
+the Facebook App, Twitter, etc will ask for permission to
+access your photos. They do this so they can provide an interface
+to let you choose photos to post on facebook or tweet on twitter.
+The problem is the moment you give them permission they can
+immediately look at ALL of your photos. All of them!
+It would be better if Apple changed the API so the app asks
+the OS to ask you to choose 1 or more photos. The OS would
+then present an interface to choose 1 or more photos at which
+point only those photos you chose are given to the app.
+That way apps could not read all of your photos.
+Note that I get that some apps also want permission to read
+all your photos to enable to upload all of them automatically
+as you take them. That fine, it should just be a separate
+permission and Apple should enforce that features that let you
+choose photos to upload go through the OSes photo chooser
+and that apps that want full permission to access all photos
+for things like backup must also function without that permission
+when selecting photos for other purposes.
+4. Let GPS be one time only
+There are 3 options for GPS currently
+Let the app use GPS always
+Let the app use GPS when active
+Disallow GPS
+There needs to a 4th
+Ask for permission each time
+As it is, basically if you give an app permission to
+use GPS at all then every time you access that app it
+gets to know where you are.
+It would be much more privacy oriented if you could choose
+to only give it GPS access for a moment, next 5 minutes,
+next 30 minutes, etc...
+As it is now if you're privacy conscious you have to dig
+deep into the settings app for the privacy options. Give
+an app permission for GPS, then remember to dig through
+those options again to turn GPS permission back off a few minutes
+later.
+That's not a very privacy oriented design.
+5. Disallow apps from implementing an internal web browser.
+Many apps show links to websites. For example Twitter or
+Facebook or the Google Maps app. When you click the links
+those apps open a web browser directly inside their app.
+This means they can spy on everything you do in that web browser.
+That's not privacy oriented.
+Apple should disallow having an internal web browser. They could
+do this by enforcing a policy that you can only make an
+app that can access all websites if that app is a web browser app.
+Otherwise you have to list the sites your app is allowed to access
+and that list has to be relatively small.
+Many apps are actually just an app that goes directly to some
+company's website which is fine. The app can list company.com
+or *.company.com as the sites it accesses. Otherwise it's
+not allowed to access any other websites.
+This would force apps to launch the user's browser when they
+click a link which would mean the apps could no longer spy
+on your browser activity. The most the could do is know
+the link you clicked. The couldn't know every link you
+click after that nor could the log everything you enter
+on every website you visit while in their app as they can
+do now.
+Note that this would also be better user experience IMO.
+Users are used to the features available in their browser.
+For example being able to search in a page. Being able to
+turn on reader mode. Being able to bookmark and have those
+bookmarks sync. Being able to use an ad blocker. Etc... As it is
+when an app uses an internal web browser all of these features
+are not available. It's inconsistent and inconvenient for the user.
+By forcing apps to launch the user's browser all of that is solved.
+Note: Apple should also allow setting a default browser so that
+users can choose Firefox or Brave or Chrome or whatever browser
+the choose for the features they want. If I use Firefox on
+my Mac I want to be able to bookmark things on iOS and have
+those bookmarks synced to my Mac but that becomes cumbersome
+if the OS keeps launching Safari instead of Firefox or whatever
+my browser of choice is.
+6. Put a light on the camera/mic?
+In Japan there is a law that phone cameras must make a shutter noise.
+I actually despise that law. I want to be able to take pictures of
+my delicious gourmet meal in a quiet fancy restaurant without alerting
+and annoying all the other guests that I'm doing so. Japan claims
+this is to prevent perverts from taking up skirt pictures but
+perverts can just buy non-phone cameras and they can use an app
+because apps are not bound by the same laws so in effect this law
+does absolutely nothing except make it annoying and embarrassing
+to take pictures in quiet places.
+On the other hand, if there was a small green, or orange light next
+to the camera that was physically connected to the camera's power
+so that it came on when the camera is on then I'd know when the
+camera was in use which would at least be a privacy oriented
+feature and so unlike the law above it would have a point.
+If they wanted to be cute they could use a multi-color LED where
+red = camera is on, green = mic is on, yellow = both are on.
+Let me add, I wish Apple devices had a built in camera cover
+or at least the Macs. I know you can buy a 3rd party one but
+adding a built in cover would show Apple is serious above Privacy.
+7. Disallow scanning WiFi / Bluetooth for most apps
+AFAIK any app can scan WiFi and or bluetooth. Apps can use
+this info to know your location even if you have GPS off.
+Basically there are databases of every WiFi's SSID (the name you
+pick to connect to a WiFi hotspot/router) and the databases also have recorded
+that WiFi's GPS so if they know which
+WiFis are near then they basically know where you are.
+Here's a website where you can see what I'm talking about.
+Zoom in anywhere in the world and it will show the known
+WiFi hotspots / routers.
+https://wigle.net/
+Why do most apps need this ability? They don't? Why doesn't
+Apple disallow it for most apps?
+There are exceptions. I have a Wifi scanner app and a
+WiFi signal strength app and even a
+Bluetooth scanner and testing app
+that are very useful but Apple could easily have an App Store
+policy that only network utilities are allowed to use this
+powerful spying feature.
+There is absolutely no reason the Twitter app or the Facebook
+app need to be able to see WiFi SSIDs nor local bluetooth devices.
+Apple could easily add a permission requirement to use these
+features and only allow select apps have them. OR they could
+add it as yet another per app privacy setting.
+8. Allow more Browser engines
+This one is probably the most controversial suggestion here.
+The reasoning though goes like this
+Safari is not even remotely the most secure browser.
+This is provable by looking through the National Vulnerability Database (NVD)
+run by the National Institute of Standards and Technology (NIST)
+In it you can see that while all browsers have around the same amount of
+vulnerabilities the types of vulnerabilities are different. Some browsers are designed to be
+more secure and so are less likely to have vulnerabilities that compromises
+your device and therefore your privacy. To put it slight more concretely
+2 browsers might both have 150 vulnerabilities a year but one might have 90%
+code execution vulnerabilities (your device and data are compromised) and the
+other might have 90% DOS vulnerabilities (your device slows down or freezes but
+no data is compromised). If you check the database you'll find it's
+true that some browsers have orders of magnitude more code execution
+vulnerabilities than others.
+By allowing competing browser engines users would have the choice to run
+those empirically more secure browser engines.
+As it is now Safari has zero competition on iOS. A developer can make a new
+browser but it's really just Safari with a skin. That means Apple
+has less competition and so there is less pressure to make Safari better.
+Allowing competing browsers engines would both be win for privacy
+and encourage faster and more development of Safari.
+The number 1 objection I hear is that allowing other engines is a security
+issue but that is also provably false. See the NVD above. Other engines
+are more secure. By disallowing other engines you prevent users from
+protecting themselves from being hacked and therefore having
+their privacy invaded.
+Another objection I hear is JITing, turing JavaScript into code, is
+something only Apple should be able to do. That argument basically
+boils down to Apple's app sandbox is insecure and that all apps
+must be 100% perfect or else they can escape the sandbox. You can't
+have it both ways. Either Apple's app sandbox is insecure and therefore
+the whole product is insecure OR Apple's app sandbox is secure and
+therefore allowing JITing doesn't affect that security. Now of course
+Apple's app sandbox could have bugs but those bugs can be exploited by
+any app. The solution is for Apple to be diligent and fix the bugs
+quickly and timely. The solution is not to make up some bogus JIT
+restriction.
+To make an analogy if a product advertises as waterproof then it
+better actually waterproof. It can't come with some disclaimer
+that says "waterproof to 100meters but don't actually put this
+product in water as it might break".
+The JIT argument is basically the same. "Our app sandbox is secure
+but don't actually run any code". It's clear the JIT argument
+is bogus. It's exists only to allow Apple a monopoly on browsers
+on iOS so they don't have to compete and so they can wield veto
+power over all browser standards. Since only they can make new
+browser features available to their 1.4 billion iOS devices
+if they don't support a feature it might as well not exist. Since
+devs can't use the feature with those 1.4 billion devices they
+generally just avoid the feature altogether even on non iOS devices.
+All that is the long way of saying users would be more secure
+and get better privacy if they could run more secure and more
+privacy oriented browsers.
+9. Lower the price of Apple products or come out with cheaper alternatives
+Apple fans won't like this reason. I don't consider myself an Apple fan and
+yet I own a Macbook Air, a Macbook Pro, a Mac Mini, an iPad Air 3rd Generation, an
+iPhone6+, an iPhoneX, an Apple TV 4 and at one point I also owned late 2018 iPad Pro and
+4th Gen Apple Watch so clearly I also like Apple even if I don't consider
+myself a fanatic.
+The thing is Apple is expensive. People will argue Apple's quality is high
+and worth the price and that might be true but it's kind of beside the point.
+You could make the argument a BMW or Mercedes Benz is a higher quality car
+than a Kia or a Hyundai but someone who only has a budget for a used Kia or
+Hyundai it's not realistic to ask them to buy an BMW or Mercedes
+Similarly if you have a family of 4 and you want to give everyone in the
+family their own laptop computer you can buy 4 Windows laptops for the price
+of the cheapest Mac laptop. Sure those $200-$300 laptops are not nearly as
+nice as a Macbook Air but just like a Kia will still get you to your job a
+$250 Windows laptop will still let you browse the internet, run Microsoft
+Word, Illustrator, Photoshop, listen to music, watch youtube, edit a blog,
+read reddit, learn to program, etc.... It's unrealistic to ask a family of
+four to spend $4400 for 4 mac laptops instead of $1200 for 4 windows laptops.
+Now you might be thinking so what… people who can afford should be able to
+spend their money on whatever they want. That's no different than anything
+else. Rich people buy penthouses just off Central Park and poor people live
+in trailer parks. The difference though is for most expensive things there
+are functionally equivalent inexpensive alternatives. A Kia will get you to
+work just as well as a BMW. Cheap clothing from Old Navy or Uniqlo or H&M will
+cloth you just as well as clothing from Versace or Prada or Louis Vuitton
+or pick you favorite but expensive brand. The food at Applebees will feed you
+just as well as the food from French Laundry. A $250 Vizio TV will let you
+watch TV just as functionally as a $4000 Sony.
+But, if Apple really is the only privacy oriented option, if Android and
+Windows don't take your privacy seriously, then Apple being out of reach of
+so many people is … well I don't know what words to use basically say that
+people that can't afford Apple don't deserve privacy.
+Of course that's not Apple's fault. Microsoft for Windows and Google for
+Android could step up and start making their OSes stop sucking for privacy.
+My only point is if Apple is "the privacy company" then at the moment they
+are really "the privacy company for non-poor people" only and that they could
+be the privacy company for everyone if they offered some more affordable
+alternatives.
+10. Stop asking for passwords to repair
+If you take your Apple device into repair they will ask you for your
+password or passcode. What the actual Effing Eff!??? Privacy? What? What's
+that? No, give us the password that unlocks all of your bank accounts,
+shopping accounts, bitcoin accounts, etc. Give us the password that
+lets us look at all your photos and videos.
+Give us the password that gives us access to the email on your device so that we can use that to open all other
+accounts by asking for password resets. Give us the password for the device
+that has all your two-factor codes and apps that confirm login on various
+services.
+This is Apple's default stance. If you take a device in for service they will ask you
+for your password or passcode. That is not the kind of policy a privacy
+first company would have!
+If you object they might tell you to change your password to something else and then
+change it back after you've gotten the repaired device back. That helps them
+not to know your normal password. It doesn't prevent all the stuff above.
+If it's a Mac they'll give you the option to either turn on the guest
+account or add another account for them to login. Unfortunately that's
+really no better. If you're actually privacy oriented you'll have encrypted
+the hard drive. Giving them a password that unlocks the drive effectively
+gives them access to all your data whether or not a particular account has
+access to that data.
+You can opt out of that too in which case they'll basically throw up their
+hands and say "In that case we may not be able to confirm the repairs".
+Another option is you can format the drive before giving it to them.
+Is that really the only option a privacy orient company should give you?
+Now I get it, I'm sympathetic to the fact that it's harder for them if you
+don't give them the password. Still, for a Mac they can plug in an external
+drive and boot off that and at least confirm the machine itself is fine. For
+an iOS device, if they really are a "Privacy First" company then they need
+to find another way. They need to design a way to service the products that
+doesn't risk your privacy and risk exposing all your data.
+Do I trust Apple as a company? Mostly. Do I trust every $15 an hour
+employee at the store like the one asking for password? No!
+Do I even trust some repair technician making more money but
+who may be getting paid on the side to scoop up login credentials? No! Do I
+know they destroy the info when the repair is finished? Nope! They ask you
+to write it down. As far a I know I could go dig through the trash behind an
+Apple store and find tons of credentials. Also as far as I know it's all
+stored in their service database ready to be stolen or hacked.
+A privacy first company would do something different. They might for example
+backup your entire hard drive or iDevice, then reformat it, work on it, then
+restore. They might put it all on a USB drive, and hand the drive to you,
+you bring it back when they're done with any physical repairs and they
+restore it then and reformat the drive. If that's too slow then that's just
+incentive for them to make it faster. The might add some special service
+partition or service mode they can boot devices into.
+The point is, a company that claims to take privacy seriously shouldn't be
+asking you to tell them the single most important password in your life. The
+password that unlocks all other passwords.
+I'm not really hopeful Apple will make these changes but I'd argue if they don't
+make them then their statements of
+Apple products are designed to protect your privacy.
+At Apple, we believe privacy is a fundamental human right.
+Is really just marketing and not at all real. Let's hope it is real and they
+take more steps to increase user privacy.
+Tags: apple
+Comments
+A Bad rant on a bad rant on OpenGL ES
+What to do about dependencies

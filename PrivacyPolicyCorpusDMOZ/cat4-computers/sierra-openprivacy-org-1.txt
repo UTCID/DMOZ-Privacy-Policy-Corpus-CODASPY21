@@ -1,0 +1,93 @@
+https://sierra.openprivacy.org/
+Essentials:
+Overview
+Design
+Packages:
+Nym
+Reputation
+RCE
+Query
+Communications
+Store
+Resources:
+Download
+Javadoc
+Talon
+Sierra
+An OpenPrivacy
+Reputation Management Framework
+Overview:
+Sierra provides a reference implementation for the components of an
+OpenPrivacy Reputation Management Framework (RMF) resulting in a complete
+Reputation Management System (RMS).
+Based on Talon components, Sierra
+incorporates a high level of modularity and atomicity, resulting in a
+flexible fabric that will enable easy component upgrades as experience with
+the system grows.
+Sierra aims to free developers of an RMF from being concerned with
+external issues such as communication protocols and framework design.
+Further, Sierra introduces the concept of a Reputation Calculation
+Engine (RCE) that enables abstracting basic reputation issues
+(accumulation, persistence, composition, etc).
+Sierra developers are encouraged to review the Talon project and its
+associated documentation.
+Advantages:
+Transparent, network aware, and communicates with other Reputation
+Management Frameworks via any communications protocol.
+Works with any network architecture including P2P, client-server, and
+stand alone configurations.
+Reputation persistence is handled by Sierra and the Store framework.
+Reputation calculation algorithms can be plugged into the framework and
+their persistence mechanism can be changed without having to rewrite the
+RCE.
+Sierra's Plug-in based infrastructure mechanism means that new
+communications protocols, nym management mechanisms, etc can be added to
+Sierra without rewriting applications that use Sierra.
+Utilizes the Talon component
+system.
+Provides a standardized RMF which can be used across all systems.
+Written in Java and portable across all Operating Systems and Java
+Virtual Machines.
+Should also run on the GNU Java Compiler when GCC 3.0
+is available (eta Q2, 2001).
+Dual licensed under the GPL and BSD style.
+This allows Sierra to be
+used within projects from the Free Software Foundation and the Apache
+Software Foundation, as well as many others.
+Commercial projects may also
+use Sierra as the BSD license is very flexible in this respect.
+Summary of Packages
+The component interfaces that Sierra implements are described in separate
+sections.
+A brief outline follows:
+Nym Manager
+Handles identity.
+Creates, manages, authenticates, and validates
+the pseudonymous certificates that are core to a Reputation Management
+Framework.
+The Reputation Object
+A pseudonymously signed, general purpose object that adds (or
+subtracts) Reputation Capital to (from) a referenced object.
+The Reputation Calculation Engine (RCE)
+An abstraction used to put, get, compose and otherwise perform
+calculations with reputations.
+Many online communities and
+collaborative environments have something resembling an RCE at their
+core.
+The Query Package
+Provides a cross platform package/architecture for offloading data
+query and indexing to the appropriate facility/subsystem.
+The Communications (RCE) Interface
+Transparently provides communications with peers.
+Storage Manager
+An abstraction providing a Reputation persistence mechanism.
+Future Directions:
+Support other languages besides Java.
+Integration with C++, C, and
+Python is needed if Sierra is going to achieve ubiquity.
+Status:
+Sierra is currently in development mode and we encourage other developers to get
+involved.
+Sierra implements the
+OpenPrivacy
+Reputation Management Framework

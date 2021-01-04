@@ -1,0 +1,721 @@
+http://www.hexamail.com/hexamailguard/features.htm#featureprivacy
+Hexamail
+Products
+Downloads
+Pricing
+Customers
+Support
+Resellers
+Toggle navigation
+Hexamail Guard
+Features
+Screenshots
+Pricing
+Performance
+Requirements
+Toggle navigation
+Antispam server protection
+Hexamail Guard provides the most comprehensive set of antispam, antiphishing and antivirus features of any server based email gateway software.
+This provides effective elimination of email threats before they penetrate your organization and allows you to decide on the techniques that are
+best suited to your email system.
+Many spamblockers simply rely on central "finger print" files or lists of IP addresses to block. Often this approach fails to prevent initial outbreaks of new types of spam or spam from new sources.
+Hexamail employs additional powerful content inspection techniques that read the actual email, ensuring even spam from new IP addresses, or of an entirely new nature is blocked.
+You can enable Bayesian analysis, DNS based blocklists, keywords and expression matching, sender blacklisting, whitelisting, challenge-response
+for blocked email, email tagging, email deletion or any combination of the techniques you wish!
+Download Free Trial
+Powerful Antivirus
+Exchange Integration
+SPF Verification
+DKIM Verification
+SURBL Support
+Bayesian matching
+Neural sender matching
+Automatic Whitelists
+Challenge Response
+Image Analysis
+Content and Header checks
+POP3 Connector
+Anti phishing
+Greylisting
+DNS Blacklists
+URL DNS checking
+RHSBL checking
+SBS Integration
+Windows Essentials
+Link Interception
+Sender Tagging
+Spam Quarantine
+Email Privacy Guaranteed
+Mark, delete or forward spam
+User SPAM review
+Customizable Web Interface
+Supports all SMTP servers
+Unrivaled ease of use
+Server based anti-spam
+Automatic Internet updates
+Outbound filtering
+Active Directory Support
+LDAP Support
+Remote management
+DKIM Signing
+DMARC support
+Powerful Antivirus
+Add a powerful Antivirus option to Hexamail Guard, allowing automatic processing of all suspect attachments and elimination
+of virus, worms, scripts and other malicious content. Hexamail can scan with numerous antivirus engines if installed.
+Hexamail with antivirus provides customers with total email protection.
+Exchange Integration
+Hexamail Guard integrates automatically and seamlessly with all versions of Exchange on-premises providing straightforward integration and easy administration.
+Hexamail can integrate with Exchange 2016, 2013, 2010, 2007, 2003, 2000, or 5.5 on the same machine or on a separate server.
+SPF Verification
+SPF (Sender Policy Framework) fully supported. SPF ensures that email is only accepted if it came from the servers designated by the sending domain's policy.
+This means you can verify the sender is legitimately allowed to send email from the domain. In particular this can help reduce Phishing, where senders spoof email from another domain.
+DKIM Verification
+DomainKeys Identified Mail (DKIM) checks are performed on any DKIM signed email.
+This verifies the sender is allowed to send email from the domain specified. It also verifies that the email has not been tampered with or forged.
+In particular this can help reduce phishing, where senders spoof email from another domain.
+SURBL Support
+SURBL is an RBL designed to be used to block or tag spam based on URIs (usually their domain names) contained within the message body.
+It is not a conventional RBL in that it's not intended to block the source of spam messages. Instead, SURBL can be used to block spams based on their message content.
+http://www.surbl.org/
+Bayesian matching
+Bayesian pattern matching is used to analyze the entire content of incoming email: this prevents the mistakes made by relying on single keywords or rules
+whilst ensuring the filters are robust to subtle changes in language, deliberate misspellings and tricks typical in spam. This allows Hexamail software to provide unrivalled accuracy
+and reliability when detecting spam.
+Neural sender matching
+Cutting-edge neural network technology is used to identify suspicious sender addresses with high accuracy and incredible performance. Neural sender matching enables high volumes of email
+to be checked in the shortest possible time.
+Automatic Whitelists
+Hexamail provides support for multiple sender and recipient white lists. The white list can be imported, manually created or automatically
+created and kept up to date through analysis of outgoing email traffic. Domain whitelisting is also possible.
+Challenge Response
+With Hexamail Guard you can optionally enable Challenge-Response features to allow sender verification email to be sent out. Senders can then verify themselves to have their email accepted and whitelist their address to allow all future email to pass through unfiltered.
+Image Analysis
+Hexamail Guard not only analyses the text of email but also any embedded images, using the structure of the images to determine whether an email is SPAM or not. Increasingly SPAM email consists entirely of images, and so this technique
+is essential for effective blocking.
+Content and Header checks
+Hexamail supports multiple sophisticated header, subject and content checks with configurable rules, keyword filtering
+and phrase matching lists that can be	maintained by the administrator.
+POP3 Connector
+Hexamail can download all your user's POP3 accounts, strip out the SPAM and reroute the email to their corporate mailbox or other email address.
+Anti phishing
+Hexamail features built in anti-phishing protection by recognizing spoofed email, web links and requests for account details.
+Greylisting
+Configurable greylisting (or graylisting) support allow rejection of unknown senders and IPs
+DNS Blacklists
+Hexamail supports any third party DNS based blacklists (DNS BL or real time black hole lists).
+These databases can be used to block all email from known SPAM sending email servers and open relays.
+Choose what to do with matching IP addresses, Reject, Block, Mark or Weight.
+Hexamail Guard supports all real-time blacklist services including:
+list.dsbl.org,
+blackholes.intersil.net,
+proxies.relays.monkeys.com,
+relays.ordb.org,
+sbl.spamhaus.org,
+dnsbl.njabl.org,
+blackholes.wirehub.net,
+china.blackholes.us,
+korea.blackholes.us,
+taiwan.blackholes.us,
+blackholes.easynet.nl,
+multihop.dsbl.org,
+unconfirmed.dsbl.org,
+dnsbl.sorbs.net,
+bl.spamcop.net,
+rbl-plus.mail-abuse.org,
+cbl.abuseat.org,
+spamsources.fabel.dk,
+dnsbl.njabl.orgt,
+multi.surbl.org,
+Customized lists can also be imported or new IP addresses added in a single click from the spam quarantine.
+URL DNS checking
+URLs contained in the content of email are checked against configurable DNS based databases of known spam hosts. Email is blocked if it contains URLs hosted on webservers known to belong to spammers.
+RHSBL checking
+Right-Hand-Side blacklist checking againt configurable DNS based databases of known spam domains.
+Email is blocked if the sender is from a domain known to belong to spammers.
+SBS Integration
+Hexamail Guard integrates automatically and seamlessly with all versions of Small Business Server providing straightforward integration and easy administration.
+Hexamail can integrate with SBS 2003, SBS 2008 and SBS 2011 either on the same machine as SBS or on a separate server if required.
+Windows Essentials
+Hexamail Guard integrates automatically and seamlessly with all versions of Windows Server Essentials providing straightforward integration and easy administration.
+Hexamail can integrate on the same machine as Windows Server Essentials or on a separate server if required.
+Link Interception
+Link Interception dynamically rewrites email links to redirect users to a warning page if they click links in email that arrives from external unknown senders.
+This can be used to warn the user that they may be visiting a malicious site and to be aware of phishing and spear-phishing attempts.
+Sender Tagging
+Email from external unknown senders can be tagged in the subject or content to alert users to email from external or previously unknown sender addresses.
+Hexamial Flow email client already highlights this and alerts users, but if your inferior email client does not already highlight this this feature can be used to add this functionality
+to your email system.
+Spam Quarantine
+SPAM detected by Hexamail can be stored in a quarantine for later review. The quarantine allows the administrator to quickly review and send on or delete large numbers of email with a single click.
+A special viewing window allows the safe viewing of any suspect email without inadvertently triggering worms, virus or pop ups.
+Email Privacy Guaranteed
+Unlike many antispam solutions, Hexamail does not send your email to the cloud for processing. Email stays on your network which guarantees privacy of your communications,
+prevents snooping and industrial espionage, and reduces the risk of hacking.
+Mark, delete or forward spam
+Mark SPAM subject lines, delete SPAM over a specified match confidence or forward to user's spam folder, public folder or any other email account.
+User SPAM review
+The administrator can optionally allow some or all users to review their own quarantined SPAM via a web based interface.
+Users are automatically alerted to new email arriving in their quarantine and can empty their quarantine with a single click from the alert email.
+Alternatively they can login to a secure web interface to selectively delete SPAM email and accept legitimate email.
+Customizable Web Interface
+The web based interface is fully customizable through the built in HTML template manager and editor.
+Supports all SMTP servers
+Zimbra, Zarafa, Kerio mailserver, IMailserver, hMailserver, Lotus Notes, NTMail, SL Mail, QMail, Exim, Lotus Domino 5, LSMTP, MailSite, MDaemon, MetaInfo, Sendmail, MS IMS/IIS, Netscape Messaging Server, NTMail, and Post.Office are all supported by Hexamail.
+Hexamail can be used in conjunction with any SMTP compatible mail server, allowing you the freedom to choose your email server now and in future.
+Unrivaled ease of use
+Hexamail is dedicated to changing the way business software works: making it easy and productive to use. This reduces configuration mistakes and saves you time and
+money.
+Server based anti-spam
+For a corporate anti-spam policy to be successful it must be enforced at the server level removing the need for client-side installs and end-user training.
+Not only does this ensure the most straightforward maintenance but also ensures the solution is as cost-effective as possible to deploy.
+Automatic Internet updates
+SPAM and virus adapt and change every day. Any system to detect and eliminate unsolicited email and virus must be kept up to date.
+Hexamail's software automatically updates itself over the Internet to ensure the latest SPAM and virus can be stopped.
+Outbound filtering
+Filter outbound email and block or censor specific email or attachments to prevent corporate data loss.
+Active Directory Support
+Automatically syncs users with Active Directory and allows single sign-on for the web based quarantine
+LDAP Support
+Automatically syncs users with any LDAP server
+Remote management
+The easy to use sophisticated administration interface can be used on the same machine or from a remote workstation using a secure communications protocol.
+DKIM Signing
+Hexamail Guard can automatically DKIM sign all outgoing email. DKIM signing is used to ensure email from your domain cannot be spoofed or
+tampered with. In addition to signing outbound email, Hexamail generates and manages DKIM keys, DKIM _domainkey DNS entries, and Author Domain Signing Practices DNS entries (your domain signing policy).
+DMARC support
+Full DMARC support is available with an SPF and DMARC DNS record wizard and support for DKIM signing.
+In addition to signing outbound email, Hexamail generates and manages DKIM keys, DKIM _domainkey DNS entries, and Author Domain Signing Practices DNS entries (your domain signing policy) and DMARC DNS entries.
+Product Versions
+ModuleHexamail Guard BasicHexamail Guard ProSPAM BlockerLegitimizerBlocker*Censor*Market*Responder*Alerter*Group distributer*POP3 ReaderReports*Router**Attachments**Secure**IMAP Push**Antivirus**Archiver**Developer**
+* - Optional module
+SPAM Blocking
+Hexamail's server antispam filter eliminates the cost, time and frustration your workers spend on unsolicited email (junk/spam) by blocking the majority of spam email before
+they ever reach your mailserver.
+Hexamail's multilayered antispam filtering ensures the best of breed techniques are used to provide total protection from all email bourne threats including spam, malware, spoofing, phishing and virus.
+Automatic built in heuristics are combined with admin and user configurable rules and optional features such as greylisting and challenge response to allow you to tailor your spam solution to your exact needs.
+Unlike the majority of other antispam solutions, Hexamail is a server software solution that runs on your network so your email is never sent to the cloud
+or any third party servers for analysis. This ensures your privacy is guaranteed, eliminates any additional latency in receiving email and prevents your
+email being dependent on a third party service that can suffer downtime or hacking.
+Integrated analysis of outgoing email traffic ensures false positives are minimized by automatic whitelisting.
+Effective
+Highly automated accuracy with 99% elimination of spam virus and malware, automatic whitelist generation from outgoing email analysis
+Reliable
+Only incoming email from the Internet or POP3 accounts are filtered. Customer outbound and internal email is not filtered
+Safe
+Suspect email are are quarantined or forwarded to an appropriate recipient
+Control
+You maintain control of your own email systems without having to rely on third party servers or services
+Configurable
+Unrivalled easy to use configuration through a remote administration interface
+Easy
+5 minute plug-in SMTP installation with no changes to DNS or MX records required
+Fast
+Highly optimized natively compiled code ensures the highest performance filtering and no email latency
+Secure
+Add security options to your existing email infrastructure to prevent open relay, dictionary harvest attacks
+Privacy
+Privacy is guaranteed because email is never sent to the cloud for analysis
+Automatic Whitelisting
+Automatic white list generation from senders contacts and email message threads coupled with intelligent on-the-fly white list detection. This ensures legitimate senders email do not get blocked by the SPAM blocker
+Challenge Response
+Challenge-response features to allow senders to verify and have email automatically accepted and their address whitelisted
+Grey listing
+Temporarily fail connections from new IP, sender and recipient sets to effectively block spam software, and BotNets. Automatically whitelists your regular senders so that no delay is experienced for legitimate communications.
+Honey Pot
+Dynamic Adaptive Honeypot. The Honeypot uses spam sent to chosen honeypot addresses to
+automatically generate adaptive intelligent agents, known as "bees". These identify and block similar spam.
+This provides realtime protection against new spam types, sender IPs, and specifically image spam.
+Bayesian Matching
+Full Bayesian statistical pattern matching providing highly accurate (better than 99%) spam blocking with minimal
+false-positives (emails incorrectly marked as spam).
+Selectable pattern matching subcategories allowing bypass of pattern matching for specific types of spam, such as 'Money Making', 'Recruitment', 'Privacy', 'Competitions' etc.
+Multiple thresholds for pattern matching allowing marking, blocking or automatic deletion of identified spam.
+Email accepted or deleted from the quarantine is used to further the Bayesian matchign for future email.
+White listing
+Easy to use white list management facility allowing you to maintain lists of email addresses
+that you never want blocked. Users each have their own personal white lists and senders can be automatically whitelisted if a blocked email is released from the quarantine.
+SPF Checks
+Full SPF (Sender Policy Framework/Sender ID) support and failure blocking. Helps prevent phishing attacks
+Domain Keys Checks
+Full DomainKeys Identified Mail (DKIM) support and failure blocking. Helps prevent phishing attacks
+URL Blocking
+Full support for DNS-based URL checking of URLs within emails
+Built in SURBL support for DNS-based URL checking of URLs within emails
+IP blocking
+Block IP addresses from relay, sending inbound email.
+Whitelist IP addresses so that they are never blocked, or white list IPs for relay.
+Use DNS based databases to block known spam IP addresses
+DNS Based Spam protection
+Full support for multiple configurable DNS based spam protection databases.
+Dial-Up User Lists (DULs), Real time Black hole Lists (RBLs), Spamhaus SBL, XBL and Relay Spam Stoppers (RSS) are all supported!
+Override to allow receipt from known good sender addresses
+Spam Quarantine
+Spam quarantine with safe email viewer that doesn't trigger virus, worms, popups or other malicious code.
+The administrator can optionally allow users to review their own spam using a web-based quarantine view.
+Users and administrator can be automatically alerted when they have spam in the quarantine to review
+Content Checks
+Blocking based on strings, wildcards, word/phrase, regular expression matches in the email content or subject
+Configure different actions to perform for each expression matched.
+Sender Blocking
+Blocking based on strings, wildcards and phrase matches in the email sender address
+Elimination of emails with missing, undisclosed, invalid or suspect sender addresses
+Easy to use one-click sender blocking facility to allow direct blocks of unwanted newsletters or repeat offenders.
+Country Blocking
+Blocking based on country of client IP Address. This allows weighting, blocking or deletion of email originating from specified countries.
+Image Analysis
+Configurable automatic blocking of graphical or image-based emails. The system performs sophisticated checks on any attached or included images
+to identify image based spam and block it.
+PDF attachment spam blocking
+Hexamail automatically inspects PDF attachments for textual and image based spam and blocks if an attachment contains spam content
+Automatic ZIP unpacking and content analysis
+Hexamail automatically unpacks ZIP attachments, identifies malicious contained files and even reads the textual content to detect spam attachments
+Header Checks
+Configurable automatic blocking of emails with suspect MIME headers
+NDR Spam Attack Prevention
+Automatically block NDR Spam attacks by detecting NDRs from spoofed recipients, to false recipient addresses, or to nominated bad addresses.
+Configurable automatic blocking of emails from suspect Mailer programs
+Automatic text style and font analysis and blocking
+Configurable automatic blocking of emails containing web bugs, inline framesets, popup windows etc.
+Configurable automatic blocking of emails with dangerous or suspect attachments
+Configurable automatic identification and blocking of emails with suspect recipient lists
+Configurable automatic verification of replyto/sender
+Configurable spam action options, including quarantine storage, subject line marking, forwarding, blocking and deletion
+Legitimizer
+Instead of having to laboriously enforce corporate signatures in every email client in your organization, Hexamail Guard allows you to configure a corporate signature once and have it automatically added to all outgoing email. This helps prevent additional network traffic from redundant signatures on internal emails and ensures you can be confident that every external email will contain the required signature.
+Effective
+Automatically identifies all emails with missing signatures and disclaimers
+Reliable
+Ensure every email has the appropriate company-wide signature/disclaimer/footer text present on leaving your organization
+Configurable
+Configure signatures for each domain served
+Automatic fuzzy-detection of existing signatures
+Automatic insertion of disclaimers and signatures if missing, for HTML and text emails
+Optional individual signatures for each domain or sub-domain served
+Use HTML or plain text disclaimers
+Support for images in signature HTML
+Blocker
+In some instances it is desirable to prevent emails to or from certain sources or destination companies. For example, perhaps you wish to ensure that no emails from recruitment agencies or ex-employees reach your staff, or prevent all outgoing emails to a competitor.
+In other situations it is the contents of the email that requires blocking. This can often be outgoing or incoming offensive material, such as pornography, swearing, or other undesirable material.
+Blocking works in concert with alerting to ensure that emails can be systematically blocked, stored and a nominated party alerted to the incidence of the blocked email.
+Protect
+Protect your company's reputation from unauthorized emails going out to important customers
+Secure
+Secure your company from malicious emails from ex-employees
+Alert
+Alert your company to unauthorized distribution of information to external parties
+Block
+Block dangerous or forbidden attachments
+Cleanse
+Remove dangerous or forbidden attachments
+Alert Admin	when blocking emails
+Alert admin if blocked email store reaches a configurable size
+Allow return to sender of blocked emails
+Configurable response to sender with optional blocking reason
+Forward blocked emails to nominated account
+Override block if containing specific content phrases or wildcards
+Block if containing specific content phrases or wildcards
+Block if missing specific content phrases, allowing a form of send password in the content
+Configurable sender address white lists
+Configurable sender address block lists
+Configurable sender name block lists
+Configurable recipient block lists
+Block if too many recipients
+Block undisclosed sender emails
+Block undisclosed recipient emails
+Block by white list of allowed IP
+Block by disallowed IP
+Block based on email size
+Store blocked email for later inspection/archiving or resending
+Blocked email store maintenance interface and send on options
+Block if contains phrases or wildcards in the content
+Block if contains phrases or wildcards in the subject line
+Block if missing specific subject phrases, allowing a form of send password in the subject line
+Block emails with attachments of specific types
+Remove specific attachment types, e.g. worms, virus and other malicious types
+Censoring
+Loose talk costs money. A poor choice of words in an outgoing email with or without appropriate disclaimers can be a costly business today.
+Hexamail Guard allows the censoring or offensive or inappropriate words from all outgoing (and optionally incoming) emails, ensuring that your corporate voice is as clean and virtuous as your reputation.
+Safe
+Ensure all outgoing emails don't offend your customers and partners
+Configurable
+You control the obscenity lists
+Flexible
+Optionally turn off censoring for specific white listed users
+Hiding of obscene/forbidden phrases/words/wildcards in the content
+Hiding of obscene/forbidden phrases/words/wildcards in the subject line
+Configurable hide string, e.g. ****** or !CENSORED!
+Configurable white list of users address matches to bypass the censoring
+Support for emails attached to emails
+Configurable mark string to optionally alert recipient the email has been censored
+Option to block obscene emails
+Option to forward obscene emails to nominated address or the administrator
+Censored emails stored for later archiving/forwarding/sending or removal
+Automatic alert when censored store reaches configurable size
+Marketing
+Detect outbound email from multiple domainsAutomatically detect existing marketing insertsInsert HTML text or image marketing insertsDeliver to the recipients
+Automatically add advertisements and marketing inserts to the footer of all outgoing emails.
+Create and manage mini-email marketing campaigns to get to every eyeball that sees an email from your company!
+Reach
+Reach your customers and partners with your marketing message on every outgoing email
+Rationalize
+Coordinate email footers and marketing inserts from a central point
+Configurable email marketing inserts
+Automatic fuzzy detection of existing marketing insert
+Override or disable for specific domains
+HTML inserts
+Image inserts
+Text inserts
+Automatic conversion of HTML to text inserts when required
+Responder
+The responder allows automatic out-of-office responders to be set up for nominated email accounts.
+These responders include automatic scheduling to allow the responder to be set up in advance and engage/ disengage automatically on the required dates or schedule.
+Automatic
+Automatically schedule responders to enable/disable
+HTML
+HTML support in response email
+Rules
+Configure sophisticated rules to dictate response sent
+Automatic scheduling of responders
+Sophisticated rules processing to determine when to respond and response to send
+Support for HTML and plain text responders.
+Support for images in response HTML
+Alerter
+Do you know what kind of information is leaving your company by email? While many organizations have strict physical security and diligent gatekeepers guarding against physical theft or unauthorized removal of materials, their electronic gatehouse is nonexistent.
+The alerter allows you to alert specified users to various types of email passing through the guard layer.
+Standard rule types for common usage: Offensive Material, Potential Virus, Lengthy Discussion, etc.
+Entirely configurable rules engine allowing administrator controlled rules to trap almost any type of email.
+Virtually unlimited number of rules, and alert recipients.
+High-performance rules engine ensures low-latency filtering of email traffic both incoming and outgoing.
+Group Distribution
+The Group Distribution module allows powerful group forwarding features, allowing email discussion groups to be setup, including closed, internal and public groups. Sophisticated rules allow you to determine who can and can't send to a group, what sort of content they can send (for example, you may wish to prevent large attachments going to a mobile sales force on dial-up).
+Internal Groups that only internal users can email to
+Automatic Group resolution to prevent group feedback and autoresponders to groups
+Closed Groups that only group members can email to
+Send to group based on phrases or wildcards in the contents
+Send to group based on phrases or wildcards in the subject line
+Automatic identification of group emails
+Outgoing lists and groups also supported, with address hiding
+External group responses rerouted to original sender
+Message size restrictions
+Group distribution address hiding
+Attachment size and type restrictions
+Attachment removal
+Attachment compression
+Autoresponse to group elimination
+Group passwords
+Email subscribe requests
+Automatic group signature
+Support for Newsletter format
+Moderator controlled groups
+Multiple moderators
+Sequential moderators
+Internal/Closed group postings can be moderated
+Automatic discussion archiving
+Automatic message digests
+Router
+Incoming emails can place a huge burden on the nominated recipient. Often several email addresses are provided publicly for information, questions and other telemarketing activities. More often than not emails arrive to all addresses about a diversity of subjects, with little relationship between the email address and the subject matter. For example, a company-wide email address such as mail@yourcompany.com will receive speculative employment queries, requests for information, invitations to tender, unsolicited junk mail, technical support questions etc. etc.
+Having a single nominated recipient quickly results in the recipient becoming over-burdened with email. Studies show that having multiple recipients results in no one giving the incoming message stream the required attention.
+The solution? Intelligently route each incoming mail based on the nature of the subject, content, and any attachment to the most suitable respondent recipient.
+Routing uses rules concerning the subject line, contents, and previous message chain to ensure that the correct recipient is initially identified and then continues the correspondence when required.
+Expedite
+Ensure incoming emails go to the right person immediately
+Automate
+Automatically detect the language of incoming emails and reroute
+Schedule
+Schedule routes depending on the day of week or date
+Bounce email by rules/phrases
+Redirect email to another address
+Automatic language detection and rerouting for each language
+Support for Chinese, Czech, Danish, Dutch, English, Finnish, French, German, Hungarian, Icelandic, Italian, Norwegian, Polish, Portuguese, Spanish, Swedish, and Turkish
+Route email by rules
+Route email email by subject phrases
+Route email email by content phrases
+Route email email by sending IP address
+Route email email by attachment types
+Route email email by MIME headers
+Redirect group email
+Route email based on date
+Route email based on day of week and time of day
+Route email based on size
+POP3 Reader
+The POP3 reader module acts as a POP3 connector, automatically downloading emails from any configured POP3 or IMAP accounts on external servers, and reroutes the emails to any internal mailbox or other external email account.
+Unify
+Unify user email into corporate mailboxes
+Time-saving
+Spam filter and automate routing of all incoming email
+Secure
+Process all email for spam and virus whether from external accounts or to internal mailboxes
+Multiplexing
+Highly efficient multiplexing communications used to download from many accounts simultaneously
+Flexible Schedules
+Individually configurable download schedules with timetable to define when to use regular or limited download speeds
+SSL Support
+Supports SSL servers for both POP and IMAP including Gmail
+1 Minute schedule
+Download schedules as short as 1 minute
+Instant IMAP Downloads
+Use IMAP IDLE PUSH notifications to instantly download new email as it arrives
+User accounts
+User can configure their own accounts via a web interface or IIS
+Download modes
+Modes to download all or only new email for each user
+Catch-all
+Catch-all and individual accounts supported
+IMAP Support
+IMAP Support including configurable folders
+Multi-domain catch all
+Multi-domain catch-all accounts supported
+Gmail support
+Full Gmail Support including all hidden Gmail IMAP folders like [Gmail]/All
+Rerouting
+Sophisticated rerouting and readdressing options including subject, sender and recipient rerouting
+Archiving and Export
+Export email to files as text or MIME
+Attachments
+Export attachments to files
+Modular
+Emails are routed through all processing modules, allowing for antivirus scanning, spam blocking, routing, alerting, responders and all other Hexamail features!
+Multiple ISPs
+Retrieves messages from mailboxes located on any number of Internet Service Providers (ISP).
+Rapid cycles
+Check and download new messages as often as you require, with schedule interval resolution of 60 seconds.
+Configurable action
+Automatically delete, expire or retain the emails on your email account
+SSL Support
+SSL fully supported, allowed secure retrieval of emails from SSL compliant mailservers.
+Bandwidth Limits
+Configure how much bandwidth to use at various times of day
+Secure login
+Support secure logon with APOP (Authenticated Post Office Protocol).
+Parallel downloads
+Retrieves messages from more than one mailbox at the same time. This ensures that mailboxes with large volumes of email do not hold up processing of other mailboxes.
+Sender rerouting
+Reroute to new recipients based on the original sender address
+Recipient rerouting
+Reroute to new recipients based on the original subject line with wildcard matches
+SMTP Forwarding
+Allows forwarding of email to any other address, mailbox or corporate email server. Route email by domain to different servers or smarthosts
+Attachments
+The attachment module automatically archives attachments from all email.
+It also optionally removes the attachment and replaces it with a link allowing the attachment to be served more efficiently from a webserver.
+This prevents users having to download attachments they don't need or wish to refer to later.
+Attachments are automatically deduplicated if sent to multiple recipients: you only need store one copy of each file received or sent!
+Secure
+You can view and control attachments using powerful queries. This allows you to remove any attachments accidentally sent to external recipients,
+or dangerous or time-wasting attachments sent to your internal users.
+Minimize Storage
+Mail servers often store file attachments extremely inefficiently, wasting over 25-30% more space than is required for the attachment itself.
+The attachment module reduces the disk resources required by up to 50% by using compression
+Improve Backup
+Attachments are stored as files or compressed files directly in a filesystem, allowing any normal backup system to be used to backup the attachment store.
+Improve performance
+Email clients no longer need to download the attachment data when checking email - the attachment can be downloaded when required
+Store all attachments in a central file store
+Automatic compression of non compressed attachment types
+Automatic deduplication and instancing of replicated attachment files, offering MASSIVE storage and processing savings on your mailserver
+Customizable attachment replacement links
+Powerful attachment store query tool
+Resend and export attachments
+Secure
+Hexamail Secure module provides a centralized automatic email security solution.
+It enables signing, verification, encryption, decryption using PKI X509 certificates and also Domain Keys Identified Mail (DKIM) functions on outbound email.
+PKI certificates are easily managed and multiple security policy rules can be setup to dictate which email is signed, encrypted, decrypted and verified.
+Email security failures can be quarantined for administrator inspection.
+DKIM is used to sign email from your domain so that the recipient knows that they have not been spoofed.
+Hexamail helps you manage your DKIM signing public/private key pairs and the required DNS entries for DKIM.
+Anti Spoofing
+Removes the ability of malicious parties to spoof email from your domain using Domain Keys Identified Mail (DKIM)
+Better Delivery
+DKIM ensures improved delivery rates of email to many domains such as Yahoo, Gmail, AOL
+End-2-End Encryption
+Email encryption with PKI (SMIME) allows for end to end email security on Blackberry, Android and iPhone devices and desktop email clients.
+This prevents email interception
+Verification
+All incoming email can automatically be verified ensuring your users can have peace of mind when receiving signed email
+Simple to deploy
+Enable the secure module, install any required email certificates and the deployment is complete!
+Easy to use
+Removes the complexity of encrypted and signed email from the users and allows the company to specify central security policies
+Signing
+PKI SMIME signing allows all your outbound email to be securely signed using PKI email signing certificates (X509)
+Verification
+PKI SMIME verification allows you to configure central policies for email signature verification for inbound email
+Automatically quarantine email that fails verification, as it may be spoofed.
+Encryption
+PKI SMIME encryption allows you to encrypt outbound email using centrally managed policies and certificates
+Decryption
+PKI SMIME decryption allows you to configure a single central policy to automatically decrypt inbound email
+Domain Keys Identified Mail
+DKIM signing allows Domain Keys Identified Mail signatures to be automatically added to all outbound email from your server.
+These signatures guarantee to the next server that the email has not been tampered with and when combined with Author Domain Signing Practices
+guarantees that the message originates from your email domains
+Automatic Key Creation
+Hexamail automatically creates the required crytopgraphic public/private key pairs required for DKIM signing. The private key is held securely on your server
+DKIM Selector Management
+DKIM allows for multiple different selectors (or key pairs) to be used for signing. Hexamail manages these and automatically signs email with the appropriate
+selector
+DNS Entry Generation
+The Secure module automatically generates the DNS entries required for the DKIM signature verification process, allowing recipient servers
+to verify your email signatures. Simply cut and paste the generated DKIM DNS entries into your DNS management interface as a TXT record
+ADSP support
+Author Domain Signing Practices ensure that only signed email from your domain be accepted by recipient servers, allowing them to reject spoofed or modified email
+IMAP Push
+The IMAP Push module allows email to be uploaded to an IMAP server based on configurable rules.
+Migrate
+Migrate IMAP email from one IMAP account to another
+Organize
+Automatically move email from one folder to another based on rules
+Archive
+Archive email from your email accounts to another IMAP account
+Highly efficient multiplexing communications used to upload to many accounts simultaneously
+Individually configurable IMAP accounts
+Supports SSL IMAP servers
+Remap IMAP folders on upload
+Selectively push email based on recipient addresses
+IDLE support for efficient push of multiple email to the same account
+Queuing support
+Reports
+The reports module provides fully-automatic scheduled reporting of any statistics.
+Each report can be fully configured to your requirements
+Scheduling allows report publication on any time period
+Archiving of reports uses compression to minimize disk usage and allow for longer term archives
+Standard HTML publication allows easy viewing and printing
+Reports can be exported into standard HTML
+Full-color graphs are used in the reports to ensure the clarity of vital information
+Antivirus
+The antivirus module automatically scans all incoming email attachments for virus, worms and trojans.
+If identified, the email can be marked so that the end user is aware of the infected content, blocked completely so that the end user
+cannot inadvertently execute a virus or a script, or the infected attachment can be removed and a comment added to the email to inform the user of the action taken.
+All processed emails can be optionally stored in a quarantine for later review, resend or deletion.
+Protect
+You can expect 100% detection of In-the-Wild viruses and Trojans from our embedded ClamAV scanning engine
+Up to date
+The Antivirus engine automatically updates itself at regular intervals
+Alert
+Alert your administrator or senders to virus in emails
+Block
+Block infected, dangerous, or forbidden attachments
+Cleanse
+Remove infected, dangerous, or forbidden attachments
+Safe
+Quarantine infected emails for later resend or deletion
+The embedded antivirus engine features outstanding detection abilities together with high performance.
+You can expect 100% detection of In-the-Wild viruses, Trojans, malware and even office document macros.
+Automatic updates are another key point in virus protection, both the virus database and the program itself can be updated automatically.
+The updates are incremental, and only new data is downloaded, thus ensuring updates are timely and efficient.
+Allow alerts to senders of infected emails
+Configurable response to sender with optional blocking reason
+Archiver
+Hexamail Archiver module provides is a centralized automatic email archiving solution.
+Highly efficient full-text indexing and compression algorithms ensure that the most scalable
+and high performance email archive is generated entirely automatically from all of your email.
+Hexamail's email archive software leverages state of the art indexing and compression technology to create the most compact
+and high performance index of email data. Inferior solutions often simply push emails to relational databases or worse, file systems.
+Such systems suffer from poor scalability, lengthy query/discovery times and extremely high storage requirements: often requiring
+more space for the archive than the original emails!
+Compliance
+Store 100% of your email in full original MIME format
+Discovery
+Use the live search facilities to allow users to access their old email
+Scalable
+Store many years of email in a single server
+Compressed
+Unique MIME compression algorithms ensure most compact storage
+Full Text
+Full text queries provide relevant retrieval
+Secure
+Enable SSL archive web interface for maximum security
+High speed archiving
+Native high-performance C++ archiving code ensures that emails are archived and indexed in realtime. The unsurpassed performance allows the archive to be used live by end-users to retrieve
+old, deleted, or difficult to find emails from a web-interface.
+Massively Scalable
+Archiving of 100s of millions of emails in a single archiver is possible, allowing many years of emails to be
+archived on a single server or drive.
+Low Storage Requirements
+All email content (MIME) is retained compressed, allowing accurate records to be retained while minimizing storage. Emails are automatically deduplicated.
+Save costs of storages devices, upgrading servers and backup time and facilities.
+Fulltext search
+Full-text indexing automatically takes place on archiving.
+This allows your valuable resource of archived emails to be leveraged for knowledge management,
+auditing and discovery within your organization.
+Genuine Archiving
+Some inferior archiving solutions simply push email content into a relational database.
+This can be costly in database licenses, slow to retrieve email and extremely demanding of disk space and other machine resources.
+Be sure to check the licensing implications and costs of such systems before purchase. Hexamail is a complete solution requiring
+no third party database licenses.
+Secure
+Archiving takes place on your servers, within your network.
+Sensitive emails need never leave your organization, eliminating trust, hacking, or security breach
+concerns typical of third party service based archive solutions providers.
+Active Directory Integration
+Active Directory integration allows automatic import of your users and restriction of their access to only their emails
+SSL
+Full secure SSL access to web based knowledge management, discovery and search interfaces.
+Sources
+The Archiver module can index email from almost any source including Exchange, maildir, mbox, hMail, iMail, MDaemon, Hexamail, POP3, SMTP, and PST
+Exchange 2000-2013
+Index email directly from Exchange 2000 onwards
+PST
+Index any PST files from Outlook clients or Exchange server
+Long term retention
+Content can be retained for periods matching typical regulatory requirements such as Sarbanes Oxley, European Union ISP Communications Data retention, SEC Rules, NASD, HIPAA and Graham-Leach-Bliley Act.
+Regulatory Adherence
+Full MIME storage ensures your chosen email archive solution adheres to all regulations now and in future.
+Regulations such as Sarbanes-Oxley can be costly to implement, Hexamail Vault eliminates the cost for archiving email in a compliant way.
+Backup
+A unique index design allows email content to be backed up and removed from the live server to secure/offsite backup facilities. The fulltext index remembers which emails were in which backup files and allows fulltext search even over email removed from the server.
+Automated Export
+Automated export features allow all email matching specific complex criteria to be exported to directories or zip files for litigation or auditing purposes.
+Fulltext Search
+Full-text indexing automatically takes place on archiving. This allows your valuable resource of archived emails to be leveraged for knowledge management, auditing and discovery within your organization.
+Live Access
+Live-access allows your end-users to access the archive through a web-interface and retrieve email they may have deleted or lost in their inbox. This simultaneously ensure valuable knowledge is never lost from your organization, can be quickly retrieved, and users reduces user inbox storage requirements.
+Historical Redelivery
+Redelivery or historical email
+to selected recipients allows verbatim copies of emails to be retrieved and redelivered in a single click.
+Report and Audit Generation
+Users can run their own audit and generate folders or zip files of vital emails for meetings, storage offsite or presentation to management.
+Configurable Access
+Administrators can restrict access to discovery features to specific users or areas of discovery
+Developer
+The developer module allows full access and control of all Hexamail modules using an API based on REST json and XML.
+This ensures support for the widest variety of scripting and programming languages.
+Custom apps
+Develop custom apps that leverage your email and collaboration data
+Ultra-fast
+Fastest possible REST server ensures highly usable low bandwidth API access
+Secure
+Restrict access to specific IPs and ports to prevent unauthorized access.
+Full support for all configuration parameters to control every aspect of Hexamail
+Full support for all stored email such as junk, errors and sent items
+Full support for accounts and user data including signatures, external accounts
+Access and manage all mailbox data, including management of email and folders
+Access and manage contacts stored in the mailbox module
+Access and manage tasks, events, notes stored in the calender module
+Fully JSON compliant allowing easy access from javascript, php, java, python, .net etc.
+Fully REST compliant
+XML or JSON results format options
+SSL support
+Looking for something else?
+There are many more features than we can list here. Why not download a trial and see!
+If you require a feature that is not in the product simply email us at
+and we will happily improve our product to meet your requirement!
+Solutions
+Email Security
+Archiving, Risk and Compliance
+Migration and Connectivity
+Automation
+Productivity
+Products
+Hexamail Guard
+Hexamail Vault
+Hexamail Server
+Hexamail Nexus
+Hexamail POP3 Downloader
+Company
+About us
+Contact us
+Privacy
+EULA
+Sitemap
+© Hexamail Ltd. All rights reserved

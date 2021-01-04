@@ -1,0 +1,329 @@
+http://www.benedelman.org/spyware/whenu-privacy
+WhenU
+Violates Own Privacy Policy
+Benjamin
+Edelman - Spyware Research, Legislation, and Suits
+[
+Background - WhenU's Privacy
+Promise -
+Findings - Response
+- Discussion - Disclosures
+]
+Abstract:
+WhenU software is shown to make transmissions of which URLs users visit,
+precisely contrary to WhenU's privacy policy and the company's other statements.
+Related
+Projects
+Advertisers
+Using WhenU
+180solutions
+& Affiliate Commissions
+WhenU Spams Google, Breaks
+Google "No Cloaking" Rules
+WhenU Copies 26+ Articles
+from 20+ News Sites
+WhenU.com, Inc., v. The
+State of Utah
+Documentation
+of Gator Advertisements and Targeting
+"Spyware": Research, Testing,
+Legislation, Suits
+Other Research by Ben Edelman
+Background
+Makers of spyware take varied approaches towards public perceptions
+of their products. Some try to stay below the radar -- even declining to post
+a public web site. Others vigorously defend their behaviors at all available
+opportunities.
+WhenU is among the second class of companies -- with extensive
+Internet publishing, privacy policies, in-person appearances, and other activities
+which attempt to present the company's activities in a favorable light. Not
+all these behaviors have been successful: For example, in WhenU
+Spams Google, Breaks Google "No Cloaking" Rules, I found that
+WhenU had commissioned and linked to a variety of cloaking sites which broke
+search engine rules. When I brought these activities to the attention of Google
+and Yahoo, the search engines removed www.whenu.com from their indexes. Similarly,
+in WhenU Copies 26+ Articles from
+20+ News Sites, I pointed out that twelve different WhenU servers
+each contained copies of 26 or more news articles from at least 20 publications,
+all without copyright notices or statements of license. When I published this
+finding, WhenU removed the copies from its web server.
+WhenU's search engine cloaking and article copying are controversial
+activities, apparently sufficiently serious in WhenU's view that the company
+stopped both practices subsequent to my public releases documenting these practices.
+But some ten months after I first brought to WhenU's attention the fact that
+its software seriously and frequently violates its own privacy policy, WhenU
+continues the transmissions at issue. Only subsequent to the release of this
+article has WhenU modified any (and still not all) of its false privacy promises.
+This article describes my specific findings of transmissions
+contrary to WhenU's privacy policy and contrary to WhenU's various other privacy
+promises.
+Return to top
+WhenU's Privacy Promise
+On
+its web site, in its privacy policy, in its software installation programs,
+and in its comments at official proceedings, WhenU purports to be intensely
+protective of users' privacy. On its home page, WhenU promises that its software
+operates "without compromising their [users'] privacy," a claim which
+WhenU elaborates in greater detail in its Privacy Statement:
+"As the user surfs the Internet, URLS visited by
+the user (i.e. the user's 'clickstream data') are NOT transmitted to WhenU.com
+or any third party server." (screen-shot
+made May 20, 2004)
+WhenU deems its privacy rules so important that it places a
+conspicuous additional privacy promise in the setup programs that install many
+of its programs. See installer screen-shots (prepared
+May 20-22, 2004) (highlighting added) in
+which WhenU promises:
+"Save! ... doesn't collect or send your browsing
+activity anywhere."
+"SaveNow ... does not track, collect, or send your browsing activity
+anywhere."
+Other WhenU pages and WhenU partner pages make equally explicit
+privacy promises. See e.g. WhenU's About
+SaveNow page (screen-shot and partner
+screen-shot made May 25, 2004):
+"WhenU.com does NOT transmit URLs visited by the
+user to WhenU.com or any third-party server."
+WhenU's Save!
+FAQ expands on this promise. See screen-shot
+(made June 21, 2004):
+"Where you go and what you do while you are online
+is NOT sent back to WhenU.com"
+The WhenU "readme" file (readme.txt in the
+Whenu or Save directory on users' computers) contains a similar promise. See
+readme.txt screen-shot (made
+June 3, 2004):
+"WhenU.com does NOT transmit URLs visited by the
+user to WhenU.com or any third-party server."
+WhenU's "About
+Save!" page makes a further explicit promise not to track browsing
+history (a promised matched by WhenU's corresponding "About
+SaveNow!" page). See screen-shot
+(made June 21, 2004):
+"Save! collects no ... browsing history."
+Timetable of WhenU's privacy promises:
+According to archive.org records, at least some of the text
+quoted above has been posted on WhenU's site since June 2002 or earlier. (screen-shot)
+As described in WhenU's Response,
+WhenU changed its privacy policy subsequent to the posting of this research.
+In particular, WhenU revised the privacy policy posted on some pages of its
+public web sites, but failed to revise other pages, and failed to revise the
+privacy policy and other privacy promises embedded within WhenU software installers.
+Return
+to top
+My Findings
+In
+my testing, WhenU consistently and repeatedly breaks the promise embodied
+in the quotes above. In particular, every time WhenU shows a user a pop-up advertisement,
+WhenU transmits to its servers the specific URL the user had been viewing prior
+to receiving the advertisement.
+In order to reach this conclusion, I installed WhenU software
+on a computer in my lab, and I monitored its transmissions to and from WhenU
+web servers. This methodology is described in my recent FTC comments, Methods
+and Effects of Spyware (PDF) (paragraphs
+7-11). See also a screen-shot of my
+testing in progress.
+Whenever a user visits a web page and is shown a WhenU advertisement,
+according to WhenU's advertisement-targeting algorithms, WhenU's software sends
+a message to a WhenU web server. Among other information, this message includes
+the specific web page URL that the user was viewing prior to being shown the
+advertisement. A typical WhenU transmission looks like the following, sent to
+a WhenU web server at web.whenu.com during recent tests:
+GET /offerb?url=fci_cheaptix108&pattern=akwdId_20_2944&patid=A20_2944
+&src=http%3A//www.expedia.com/default.asp%3F&ver=2.54&partner=CAST1202
+&insttime=3500.81&msa=M1120%2CSMA%2CR5%2CY1122
+Notice
+the http://www.expedia.com/default.asp reference embedded within the
+WhenU transmission - reflecting that an advertisement was shown to a user when
+that user visited the specified Expedia URL. (In particular, the advertisement
+displayed was fci_cheaptix108, which is available at http://spweb.whenu.com/pop_up/fci_cheaptix108_popup.html.)
+Note also the inclusion of the user's MSA (roughly equivalent to zip code) as
+well as information about how and when the user obtained WhenU. As part of their
+ordinary IP headers, these transmissions also include users' IP addresses.
+I have confirmed that this transmission is consistent with
+the ordinary practice of WhenU's advertisement-display software. In my testing
+of WhenU software, such transmissions are made every time WhenU shows a user
+an advertisement -- typically several times per day, and sometimes a dozen or
+more times during a day of active web surfing.
+Comparing these transmissions with WhenU's privacy policy,
+I can only conclude that WhenU's software violates WhenU's policy. WhenU's privacy
+policy promises not to send such transmissions, yet the transmissions clearly
+take place.
+In my testing, WhenU software does not transmit to its servers
+all URLs visited by WhenU users. But WhenU software does transmit to
+its servers some URLs visited by WhenU users. Recall WhenU's privacy
+policy promises not to transmit "URLs visited by the user (i.e. the user's
+'clickstream data')." Does transmitting some of the user's clickstream
+data violate the policy? No, according to WhenU, in its response
+to this research. But whatever the interpretation of WhenU's privacy policy,
+WhenU's actions violate the promises made in WhenU's installer programs, on
+WhenU's other web pages, and on WhenU's partner sites.
+The findings at issue generally apply to all WhenU client-side
+software, including WhenU Save! and SaveNow, as well as to other WhenU products
+that bundle Save these programs, such as WhenUSearch, WeatherCast, and ClockSync.
+Return to top
+Response from WhenU
+WhenU's Written Response to the FTC
+WhenU responded to my findings in its May
+21 FTC comments (PDF). WhenU cites a definition
+of "clickstream" that encompasses the entirety of a user's
+web browsing activities. In WhenU's view, sending a portion of a user's
+clickstream data does not constitute sending "clickstream data"
+within the meaning of WhenU's privacy policy, and therefore does not constitute
+a violation of that policy. I think this is not the best reading of WhenU's
+original privacy policy, but it is one possible reading, if WhenU's privacy
+policy is interpreted as a freestanding document.
+However, WhenU's proposed interpretation of its privacy policy
+is contrary to and inconsistent with other text posted elsewhere on WhenU's
+site. For example, WhenU's installers simply
+but specifically promise that WhenU software "doesn't collect or send
+your browsing activity anywhere." Similarly, WhenU's About
+SaveNow page (screen-shot made May 25) claims that
+WhenU "does not transmit URLs viewed by the user." Interpreting
+these promises does not require a definition of "clickstream." Rather,
+they simply state, unambiguously, that WhenU will not transmit data that in
+fact WhenU does transmit. As a result, I stand by my prior conclusion that
+WhenU violates its privacy policy.
+WhenU's Partial Revisions to Its Sites
+On or around May 22, 2004, but after May 20, 2004 (when I first
+posted this page), WhenU modified at least one copy of its privacy policy in
+a way that better describes the company's actual practices.
+WhenU's original privacy policy said WhenU would not transmit
+"URLS visited by the user (i.e. the user's 'clickstream data')"
+WhenU subsequently revised the policy (as posted to www.whenu.com/privacy.html)
+to promise not to transmit "your 'clickstream data' (i.e. a log of
+all the sites you visit)"
+Compare this screen-shot of WhenU's
+privacy policy, as it stood on May 20, 2004, with WhenU's
+revised privacy policy as currently posted.
+If WhenU can in fact change its privacy policy without notice,
+as WhenU's license agreement claims (see discussion of notice),
+then WhenU's privacy policy change might be thought to eliminate prospective
+harm -- even as to users who have already accepted WhenU software on the basis
+of WhenU's old privacy policy.
+However, WhenU has not fully implemented the recent change
+to its privacy policy: Numerous old privacy statements remain available elesewhere
+on WhenU's site and within WhenU software still distributed on WhenU's official
+sites and beyond.
+WhenU's old, false statements about privacy remain posted
+to its About SaveNow page (screen-shot
+made May 25), which is linked from distribution partner RadLight's
+Adware page. As a result,
+when users turn to RadLight for information about the behavior of programs
+bundled with RadLight, they continue to get false information about WhenU's
+actual behavior. In addition, WhenU's old privacy statement also remains posted
+to its WhenUSearch License page (screen-shot
+made May 25).
+Furthermore, the WhenU WeatherCast installers (available
+on getweathercast and on WhenU's
+Products page) continue to promise that WhenU "... doesn't collect
+or send your browsing activity anywhere" and continue to include
+license agreements stating that "URLS visited by the user (i.e. the
+user's 'clickstream data') are NOT transmitted to WhenU.com or any third party
+server" (quotes still matching WhenU's original promises). Installers
+for WhenU's clocksync, SaveNow, and WhenUShop products continue to include
+similar or identical text (see screen-shots),
+as does the BearShare installer. (Installers last checked on July 1.) WhenU's
+false promises also remain in the readme.txt files in the WhenU folder on
+users' PCs. See screen-shot (made
+June 3, 2004).
+With conflicting information available on various parts of
+WhenU's own sites, and on WhenU's major partners' sites,users currently cannot
+know precisely how WhenU does and does not protect their privacy.
+Return to top
+Discussion
+Many spyware programs and other unwanted
+software programs make far-reaching promises about their
+privacy policies, including what data they collect and how they use this data.
+Such promises are valuable to users, who rely on these promises in deciding
+what software to install. However, in general there is little to stop a company
+from violating its privacy policy, even on a long-term and widespread basis.
+Further research, investigation, and reporting is necessary, as to a wide variety
+of software programs, to better document the scope and extent of programs violating
+their own privacy policies.
+I'm puzzled by the fact that I brought this violation to WhenU's
+attention in July 2003, yet WhenU company took no steps to address the situation
+until after I posted this page to the public in late May 2004. At any time during
+this ten-month period, WhenU could have modified its software to comply with
+its existing privacy policy and installer screens, or WhenU could have revised
+its privacy policy and installers to accurately describe what its software does.
+WhenU's delayed revisions are particularly puzzling because WhenU took no such
+action even following my March 19 submission
+(PDF) of this same violation to the FTC's
+call for comments
+on spyware and even following oral FTC workshop comments from Chris
+Hoofnagle (associate director of the Electronic
+Privacy Information Center) specifically mentioning my findings, with WhenU's
+CEO and counsel present in the audience. These many delays -- ten months since
+I first alerted WhenU to its apparent privacy policy violation, and two months
+since I first told the public -- are difficult to reconcile with WhenU's repeated
+promise of concern for users' privacy.
+I'm also a bit surprised by the limited public response since
+I brought this violation to the attention of the public in March 2004. In contrast,
+similar findings in the past have led to widespread outcry and, indeed litigation.
+For example, less than two weeks after Richard
+Smith's October 1999 release of The
+RealJukeBox Monitoring System (showing transmissions by RealJukeBox contrary
+to Real's license agreement and privacy policy),
+RealNetworks faced at
+least two class action suits as to its practices in violation of its privacy
+policy. Similar litigation proceeded against Alexa
+Internet (Supnick v. Amazon.com, Inc. & Alexa Internet), leading to
+a multi-million dollar settlement.
+WhenU's current
+privacy policy states that "WhenU.com may update its privacy policy
+for the software at any time," without any detail as to whether or how
+WhenU will notify users of such changes. WhenU's recent change is significant
+-- eliminating a promise WhenU previously listed prominently in its privacy
+policy and in its software installers. Can WhenU change this policy, as to its
+30-million user installed base, merely by modifying a web page on its web site,
+without any attempt to alert users to the change? Some companies specifically
+promise to notify users of major privacy policy changes (e.g. AOL:
+"If policy changes are substantial, we will notify each of our members
+individually through pop-up screens or e-mails"). Others do not (e.g. Google:
+"Google may decide to change this Privacy Policy from time to time. When
+we do, we will post those changes on this page"). My research and testing
+indicate that WhenU, like Google, generally does not know the email addresses
+of its users -- so WhenU likely could not send email notifications to its users,
+even if it wanted to do so. However, like AOL, WhenU could show each of its
+users a pop-up message -- describing the change in privacy policy, and explaining
+how to uninstall WhenU software if the new privacy policy is not acceptable.
+Such an approach would not cure WhenU's past violation of its privacy policy,
+but it might begin to prevent future violations by giving WhenU meaningful notice
+of WhenU's true effects on their privacy.
+A careful review of archive.org indicates that WhenU's false
+statement of its privacy practice replaced an accurate statement present in
+an older version of WhenU's web site. At least one old WhenU web page, still
+captured in archive.org, said "SaveNow does not transmit a full history
+of URLs visited by the user" (screen-shot).
+However, this page was removed from WhenU's public web site in late 2001 or
+early 2002. I consider this old page accurate because it allowed for the behavior
+WhenU's software actually performs, and because its narrow denial ("does
+not transmit a full history") implicitly, though confusingly, tells users
+that SaveNow does transmit a partial history of URLs visited. Had WhenU retained
+this original statement, and had it added no contrary statements, I would not
+consider its behaviors to violate its privacy policy.
+Return to top
+Disclosures
+My interest in spyware originally arose in part from a prior
+consulting engagement in which I served as an expert to parties adverse to Gator
+in litigation. See Washingtonpost.Newsweek
+Interactive Company, LLC, et al. v. the Gator Corporation. More recently,
+I have served as an expert or consultant to other parties adverse to spyware
+companies in litigation or contemplated litigation, including 1-800 Contacts,
+Quicken Loans, and Wells Fargo, all companies adverse to WhenU.
+This page is my own work - created on my own, without approval
+by any client, without payment from any client.
+This page is adapted from my March 2004 FTC comments, Methods
+and Effects of Spyware (PDF) (primarily
+paragraphs 7-12). I originally found the privacy violation at issue in
+the course of preparation to testify at a preliminary injunction hearing in
+a case brought by Quicken Loans and Wells Fargo against WhenU. My finding was
+brought to WhenU's attention in the course of that litigation, namely in my
+July 2003 declaration in that matter as well as in my subsequent oral testimony.
+My inspiration for this research, and this method of research,
+came in large part from Richard Smith's
+The RealJukeBox
+Monitoring System (October 1999).
+Last Updated: July 1, 2004 - Sign
+up for notification of major updates and related work.

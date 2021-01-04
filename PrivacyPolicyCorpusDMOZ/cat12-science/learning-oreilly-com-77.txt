@@ -1,0 +1,27 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch03s04.html#websec2-CHP-3-SECT-4.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Message Digest Functions
+Message digest functions distill the information
+contained in a file (small or large) into a single large number,
+typically between 128 and 256 bits in length. This is illustrated in
+Figure 3-4. The best
+message digest functions combine these mathematical properties:Every bit of the message digest function is potentially
+influenced by every bit of the function’s input.If any given bit of the function’s input is changed, every
+output bit has a 50 percent chance of changing.Given an input file and its corresponding message digest, it
+should be computationally infeasible to find another file with the
+same message digest value.Figure 3-4. A message digest functionMessage digests are also called one-way hash functions
+because they produce values that are difficult to
+invert, resistant to attack, effectively unique, and widely
+distributed.Many message digest functions have been proposed and are now in
+use. Here are a few:MD2 Message Digest #2, developed by Ronald Rivest.
+This message digest is probably the most secure of Rivest’s
+message digest functions, but takes the longest to compute. As a
+result, MD2 is rarely used. MD2 produces a 128-bit
+digest.MD4Message Digest #4, also developed by Rivest. This message digest algorithm was developed as a fast alternative to MD2. Subsequently, MD4 was shown to have a possible weakness. That is, it is possible to find ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

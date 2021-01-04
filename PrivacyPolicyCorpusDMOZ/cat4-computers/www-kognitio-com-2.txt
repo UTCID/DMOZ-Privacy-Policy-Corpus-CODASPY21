@@ -1,0 +1,143 @@
+http://www.kognitio.com/cookie-policy
+Solutions
+Solutions
+Kognitio for Data Analytics Service ProvidersKognitio for BI & Analytics LeadersKognitio for Chief Data OfficersKognitio for Data ArchitectsKognitio for Data Scientists
+Use cases
+Use cases
+Accelerate self-service BI & analyticsEnsuring data quality for analyticsFaster data visualizationsHigh performance data warehouse for big data
+Services & support
+Support
+DocumentationSupport portal (customers only)Community forumSupport OptionsAll Downloads
+Professional ServicesDevelopers
+More
+More
+AboutBig DataBlogCareersContact UsCase StudiesLearnNews & EventsPartnersResourcesSQL on Hadoop
+Getting Started
+Cookies help deliver this website. By using the site, you agree to the websites use of cookies, as detailed in the cookie policy.
+Kognitio Limited and Kognitio, Inc. Cookie Policy
+This document describes how Kognitio Limited and Kognitio Inc. (hereafter “we” or “Kognitio”) uses cookies. By continuing to browse the site without changing your cookie preferences (see below), you are agreeing to our use of cookies.
+TERMS AND CONDITIONS
+BACKGROUND:
+This website https://kognitio.com (“Our Site”) uses Cookies and similar technologies in order to distinguish you from other users. By using Cookies, We are able to provide you with a better experience and to improve Our Site by better understanding how you use it. Please read this Cookie Policy carefully and ensure that you understand it. Your acceptance of Our Cookie Policy is deemed to occur when you press the “I understand” button on Our Cookie banner. Should you not wish to use cookies on our site, you should control cookies in your browser. Details for how to do that can be found here. If you do not agree to Our Cookie Policy, please stop using Our Site immediately.
+Definitions and Interpretation
+In this Cookie Policy, unless the context otherwise requires, the following expressions have the following meanings:
+“Cookie”
+means a small file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site;
+“Cookie Law”
+means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003 and of EU Regulation 2016/679 General Data Protection Regulation (“GDPR”);
+“personal data”
+means any and all data that relates to an identifiable person who can be directly or indirectly identified from that data, as defined by EU Regulation 2016/679 General Data Protection Regulation (“GDPR”); and
+“We/Us/Our”
+means Kognitio Limited, a limited company registered in England under company number 02127833, whose registered address is 10b Bracknell Beeches, Old Bracknell Lane West, Bracknell, England, RG12 7BW.
+How Does Our Site Use Cookies?
+Our Site may place and access certain first party Cookies on your computer or device. First party Cookies are those placed directly by Us and are used only by Us. We use Cookies to facilitate and improve your experience of Our Site and to provide and improve Our products and services. We have carefully chosen these Cookies and have taken steps to ensure that your privacy and personal data is protected and respected at all times.
+By using Our Site, you may also receive certain third party Cookies on your computer or device. Third party Cookies are those placed by websites, services, and/or parties other than Us. Third party Cookies are used on Our Site for direct marketing, personalization and analytics.
+All Cookies used by and on Our Site are used in accordance with current Cookie Law. We may use some or all of the following types of Cookie:
+Strictly Necessary Cookies
+A Cookie falls into this category if it is essential to the operation of Our Site, supporting functions such as logging in to our forum, downloading our software.
+Analytics Cookies
+It is important for Us to understand how you use Our Site, for example, how efficiently you are able to navigate around it, and what features you use. Analytics Cookies enable us to gather this information, helping Us to improve Our Site and your experience of it.
+Functionality Cookies
+Functionality Cookies enable Us to provide additional functions to you on Our Site such as personalisation and remembering your saved preferences. Some functionality Cookies may also be strictly necessary Cookies, but not all necessarily fall into that category.
+Targeting Cookies
+It is important for Us to know when and how often you visit Our Site, and which parts of it you have used (including which pages you have visited and which links you have visited). As with analytics Cookies, this information helps us to better understand you and, in turn, to make Our Site and advertising more relevant to your interests. Some information gathered by targeting Cookies may also be shared with third parties.
+Third Party Cookies
+Third party Cookies are not placed by Us; instead, they are placed by third parties that provide services to Us and/or to you. Third party Cookies may be used by advertising services to serve up tailored advertising to you on Our Site, or by third parties providing analytics services to Us (these Cookies will work in the same way as analytics Cookies described above). At the current time we do not use any advertising-related cookies. For more details, please refer to section 4 below.
+Persistent Cookies
+Any of the above types of Cookie may be a persistent Cookie. Persistent Cookies are those which remain on your computer or device for a predetermined period and are activated each time you visit Our Site.
+Session Cookies
+Any of the above types of Cookie may be a session Cookie. Session Cookies are temporary and only remain on your computer or device from the point at which you visit Our Site until you close your browser. Session Cookies are deleted when you close your browser.
+Cookies on Our Site are not permanent and will expire as indicated in the table below.
+For more details of the personal data that We collect and use, the measures we have in place to protect personal data, your legal rights, and our legal obligations, please refer to our Privacy Policy https://kognitio./com/privacy-policy.
+For more specific details of the Cookies that We use, please refer to the table below.
+What Cookies Does Our Site Use?
+We have made every effort to list all the cookies our site uses, but if you find any discrepancies or cookies not present on this list, please contact us on info@kognitio.com.
+These are the first party cookies we use that may be placed on your computer or device:
+Name of Cookie
+Purpose & Type
+Provider
+Expires
+PHPSESSID
+This creates a unique session for your device, allowing a platform for login and shopping functions. No personal or device information is collected or stored. If you login, you will be given access to parts of the site for registered members.
+First party
+When closing your browser
+kickStartType
+The “kickStartType” cookie is set when a user selects a type of Kognitio to download on the form here: https://kognitio.com/kickstart/, this cookie is then used to determine which success page the user is directed to upon submission of the form. We store 3 values in this cookie: “hadoop” “standalone” “mapr”
+First party
+1 year
+downloadType
+The “downloadType” cookie is set when a user selects a type of Kognitio to download on the form here: https://kognitio.com/getting-started, this cookie is then used to determine which success page the user is directed to upon submission of the form.
+It also controls the download that the user receives once they land on the success page. We store 3 values in this cookie: “hadoop” “standalone” “mapr”
+First party
+1 year
+The following functionality and targeting Cookies may be placed on your computer or device:
+Name of Cookie
+Purpose & Type
+Provider
+Expires
+__hstc
+The main cookie for tracking visitors. It contains the domain, utk (see below), initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session).
+Hubspot
+2 years
+hubspotutk
+This cookie is used for to keep track of a visitor’s identity. This cookie is passed to HubSpot on form submission and used when de-duplicating contacts.
+Hubspot
+10 years
+__hssc
+This cookie keeps track of sessions. This is used to determine if we should increment the session number and timestamps in the __hstc cookie. It contains the domain, viewCount (increments each pageView in a session), and session start timestamp.
+Hubspot
+30 mins
+__hssrc
+Whenever HubSpot changes the session cookie, this cookie is also set. We set it to 1 and use it to determine if the visitor has restarted their browser. If this cookie does not exist when we manage cookies, we assume it is a new session.
+Hubspot
+Session cookie
+https://secure.leadforensics.com/js/98012.js
+https://secure.leadforensics.com/Track/Capture.aspx?retType=
+This cookie is used to identify which company the visitor is from based on the IP address of visitor. Only business IP addresses are identified. This allows us to understand our audience better and to provide marketing that is appropriate to the relevant industries and
+LeadForensics
+_hjIncludedInSample
+This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels.
+Hotjar
+365 days
+Our Site uses analytics services provided by Google Analytics. Website analytics refers to a set of tools used to collect and analyze anonymous usage information, enabling Us to better understand how Our Site is used. This, in turn, enables Us to improve Our Site and the products and services offered through it. You do not have to allow Us to use these Cookies, however whilst Our use of them does not pose any risk to your privacy or your safe use of Our Site, it does enable Us to continually improve Our Site, making it a better and more useful experience for you.
+The analytics service(s) used by Our Site use(s) analytics Cookies to gather the required information.
+The analytics service(s) used by Our Site use(s) the following analytics Cookies:
+Name of Cookie
+Purpose & Type
+Provider
+Expires
+_ga
+Used to distinguish users
+Google Analytics
+2 years
+_gid
+Used to distinguish users
+Google Analytics
+24 hours
+_gat
+Used to throttle request rate. If Google Analytics is deployed via Google Tag Manager this cookie will be named _dc_gtm_<property-id>.
+Google Analytics
+1 minute
+AMP_TOKEN
+Contains a token that can be used to retrieve a Client ID from AMP Client ID service. Other possible values indicate opt-out, inflight request or an error retrieving a Client ID from AMP Client ID service.
+Google Analytics
+30 secs to 1 year
+Consent and Control
+Before Cookies are placed on your computer or device, you will be shown a pop-up banner requesting your consent to set those Cookies. By giving your consent to the placing of Cookies you are enabling Us to provide the best possible experience and service to you. You may, if you wish, deny consent to the placing of Cookies by controlling the cookies via your browser; however certain features of Our Site may not function fully or as intended. You can return to your Cookie preferences to review and/or change them at any time by returning to the control settings in your browser.
+In addition to the controls that We provide, you can choose to enable or disable Cookies in your internet browser. Most internet browsers also enable you to choose whether you wish to disable all Cookies or only third party Cookies. By default, most internet browsers accept Cookies but this can be changed. For further details, please consult the help menu in your internet browser or the documentation that came with your device.
+The links below provide instructions on how to control Cookies in all mainstream browsers:
+Google Chrome: https://support.google.com/chrome/answer/95647?hl=en-GB
+Microsoft Internet Explorer: https://support.microsoft.com/en-us/kb/278835
+Microsoft Edge: https://support.microsoft.com/en-gb/products/microsoft-edge (Please note that there are no specific instructions at this time, but Microsoft support will be able to assist)
+Safari (macOS): https://support.apple.com/kb/PH21411?viewlocale=en_GB&locale=en_GB
+Safari (iOS): https://support.apple.com/en-gb/HT201265
+Mozilla Firefox: https://support.mozilla.org/en-US/kb/enable-and-disable-Cookies-website-preferences
+Android: https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en (Please refer to your device’s documentation for manufacturer’s own browsers)
+Changes to this Cookie Policy
+We may alter this Cookie Policy at any time. If We do so, details of the changes will be highlighted at the top of this page.  Any such changes will become binding on you on your first use of Our Site after the changes have been made.  You are therefore advised to check this page from time to time.
+In the event of any conflict between the current version of this Cookie Policy and any previous version(s), the provisions current and in effect shall prevail unless it is expressly stated otherwise.
+Further Information
+If you would like to know more about how We use Cookies, please contact Us at info@kognitio.com, by telephone on +44 1344 300770, or by post at Kognitio Limited, 10b Bracknell Beeches, Old Bracknell Lane West, Bracknell, England, RG12 7BW.
+For more information about privacy and data protection, please visit the following: https://kognitio.com/privacy-policy
+Copyright © 2020 Kognitio Ltd
+Privacy Policy | Cookie Policy

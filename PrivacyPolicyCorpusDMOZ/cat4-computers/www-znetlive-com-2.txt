@@ -1,0 +1,267 @@
+https://www.znetlive.com/legal/terms-of-usage/
+Legal Section
+All Legal Section
+Terms of Usage
+SLA
+Privacy Policy
+Acceptable User Policy
+Affiliate Agreement
+Brand GuideLines
+Ownership Disputes & Changes
+Report Abuse
+ZNetLive Advisory Club
+Advisory Program
+Postpaid Services
+Terms of Usage
+SLA
+Privacy Policy
+Acceptable User Policy
+Affiliate Agreement
+Brand GuideLines
+Ownership Disputes & Changes
+Report Abuse
+ZNetLive Advisory Club
+Advisory Program
+Postpaid Services
+Terms of Usage
+General
+Under no circumstance is pornography permitted. Nudity, adult-oriented e-commerce stores, and similar are allowed if the content is legal in India. ZNetLive will be the sole arbiter as to what constitutes a violation of this provision.
+Search Engine Optimization (SEO) farms or similar are strictly forbidden on ZNet's servers and networks. SEO farms create undue strain and resource abuse on any given server and affect all clients.
+Banner rotation services and link exchange networks are not permitted.
+Off-site media storage is not permitted.
+Operating a public mirror site is not permitted.
+Running a proxy or anonymizer, whether publicly accessible or protected, is not permitted.
+Prime bank or bank debenture-related sites, lottery sites, muds or online RPGs, hate sites, hacker-related sites, sites promoting illegal activity, IP scanner or other hacking tools, mail bombing or spam scripts, or forums and websites that distribute or promote warez content are expressly forbidden.
+Bit torrent applications, trackers, and clients as well as any file-sharing/peer-to-peer activities are forbidden.
+The operation of gaming servers (such as but not limited to Minecraft, Counter-Strike, Half-Life, battlefield1492) are forbidden.
+Web spiders and indexers are not permitted.
+Spamming is not allowed.
+The above mentioned services / web content create undue system load on our servers. All violations will be shut down immediately and may result in account suspension and/or termination. No refund will be provided in such cases.
+Fake hits through API, single IP or other malicious sources will not be entertained. Any attempts to undermine or cause harm to a ZNetLive Internet Solutions server or customer of ZNetLive is strictly prohibited.
+The client is solely responsible for the content or data hosted at his/her website/server. He/she will be directly responsible for any legal action that may arise due to content hosted at his/her website/server. If asked by government authorities, ZNet has full rights to share client's details/data even without client's approval.
+Domain Registration
+Domain Registration:
+If some other party is able to get the domain name (that you have applied for) registered prior to you, then ZNetLive cannot and shall not be held liable in such case. In case of any dispute arising out of this, the company's liability shall be restricted purely to making refund of the amount received by it for a new domain request and not beyond.
+If in case the client has wrongly spelled his domain name then no refund will be applicable following the registration of domain.
+You acknowledge that you have read ICANN Registrant Rights and have understood the responsibilities and rights that registrants (you) have with their domain registrar (ZNetLive) when they have a domain name registered through them.
+Domain Renewals:
+You acknowledge that it's your responsibility to keep records and maintain reminders regarding the expiry of any service. As a convenience to the client, and not as a binding commitment, we may notify him of any expiring services or services due for renewal, via email message sent to the contact information associated with the customer in the ZNetLive's database. Should renewal fees go unpaid for a service, the service will expire automatically & ZNetLive will not be responsible for any loss that may occur due to expiry/termination of services.
+Domain Transfer:
+Due to the unpredictable nature of the transfer process, no guarantees are made regarding the amount of time a specific transfer may take. If the transfer of the domain is done by znetlive.com on behalf of the account holder, a handling fee may be incurred. If the customer cancels service during the transfer period for any reason, all charges are considered earned.
+All domain Registration/Renewals/Transfers are governed by ICANN Policy.
+Thus, you agree to have read, understood, and acknowledge to be bound legally by the Registrar Transfer Dispute Resolution Policy;
+ICANN Rules for Uniform Domain Name Dispute Resolution Policy; this Agreement; any ZNetLive policies and procedures that are or may be published from time to time by ZNetLive, ICANN, and/or the Registry Administrator chosen by ICANN.
+Nameservers and Servers:
+It is the client's responsibility to change the nameservers. The propagation time for changes to reflect would be 48-72 hours and it can even exceed due to registry problems, ISP issues or technical factors whatsoever. The company in all such cases cannot and shall not be held liable to for changing of nameservers or any delays associated with it. No complaint tickets in this regard shall be entertained also.
+All genuine and valid password reset requests from owners originating from member control panel shall be processed and completed. In case of any disputes, the FTP log and other system specific details shall be made available to concerned government authorities, if a proper request is received from concerned authority.
+The company can change its hosted servers at any time as per its necessary technical requirements and shall not be liable to update clients about such steps. Nor shall the company be under any obligation to notify clients about any technical emergency or server downtimes.
+Our SLA agreement of 99.9% uptime is applicable only to Network availability and it does not take into account elements like emergency downtimes and Hardware failure.
+Shared Hosting
+Any action/processes that abuse/harm ZNetLive's server or negatively impact other clients' service experience is strictly prohibited.
+Processes
+Processes invoked by the web server, cron, shell or any other method should not exceed the following limitations:
+Consume more than 50 MB of RAM.
+Utilize in excess of 15 seconds of CPU time.
+Number of open files should not exceed 64.
+Create core dumps.
+Number of simultaneous processes should not exceed 5.
+Execute a script/binary that forks in a way to create a fork bomb.
+Programs may not run in the background or listen on a network port. If you require a bot, service or daemon, you should consider a dedicated server, as very few shared web hosts allow this type of program.
+Database Restrictions
+All users are restricted to 15 concurrent MySQL/MSSQL connections.
+Database servers should not be used as a hosted solution. Database access should only be used for the web site hosted by ZNet.
+Remote database access is for administrative purposes only.
+Any particular database that abuses/harms ZNetLive's servers or negatively impact other clients' service experience is strictly prohibitied. ZNetLive owns the rights to suspend or terminate any database that abuses/harms ZNetLive's servers.
+ZNetLive provides Starter plan with 1 MYSQL and/or 1 MSSQL Database. Each Database size is limited to 500 MB and the total database size allowed is 1GB.
+ZNetLive provides Standard plan with Unlimited MYSQL Databases. Each database size is limited to 500 MB and the total database size allowed is 5GB.
+ZNetLive provides Professional plan with Unlimited MYSQL Databases. Each database size is limited to 500 MB and the total database size allowed is 5GB.
+Files and Directories
+The total number of inodes in an account may not exceed 75,000. Every file (a webpage, image, email, php file, directory, etc.) on your account uses up one (1) inode. This is not something we actively enforce and it will only become an issue if a client is causing problems for other people on the server. We will of course notify you if this is the case with a full explanation.
+A directory cannot contain more than 2,500 immediate child files. This includes subdirectories themselves, but does not include files contained within those directories.
+Web
+Simultaneous IIS/Apache connections may not exceed 50 from one individual source at any given time.
+Web processes should not fork or spawn subprocesses.
+The number of hits on website hosted on shared server can't exceed to more than 50,000 hits/day.
+Email and Mailing Lists
+Email ID size should be 500 MB each. Though you can create unlimited Email IDs.
+Files in excess of 10 MB should not be sent via email.
+Processes should not send outbound mail to more than 25 recipients at any given time. We impose a limitation of 25 Emails/5min.
+POP connections are limited to 60 per hour.
+SMTP connections (outbound email connections) are limited to 500 per hour per server account.
+Mailing lists larger than 1,500 will require a semi dedicated, VPS, or dedicated server from us. Dividing one list into smaller parts to get around this limit is not allowed.
+Any mailing list over 900 emails is only allowed in off peak times such as Saturday and Sunday or from 1am to 8am IST during the week.
+Any mailing list must be throttled so that it sends an email every 6 seconds at the very minimum. If the mailing list software you are using doesn't support throttling you must use something else. We do this as this keeps the server load from going very high and causing problems for other users. If you don't do this you will be suspended.
+We do not allow you to send to a mailing list you were given or that you bought. This is spamming and we have zero tolerance for this.
+No Direct SMTP mailing system scripts are permitted. Mail should be relayed through the local MTA.
+Cron Jobs
+All cron jobs must be 'niced' to 15 or greater (see the Unix manpage for "nice" for more information).
+A cron job should not execute more frequently than once every 15 minutes.
+Logs
+No server logs can be provided for the shared/reseller hosting account.
+Cron Jobs
+All cron jobs must be 'niced' to 15 or greater (see the Unix manpage for "nice" for more information).
+A cron job should not execute more frequently than once every 15 minutes.
+Logs
+No server logs can be provided for the shared/reseller hosting account.
+Defining Unlimited
+ZNetLive although have plenty of available system resources but to avoid too much consumption of resources by any single user; ZNetLive has placed limits on the amount of a server's resources that any given user may consume and the same shall be applicable to you as well. While these are limits, server abuse is not limited to these policies and is up to ZNetLive's discretion what constitutes server abuse.
+On certain web hosting plans, ZNetLive does not place limits on the amount of particular resources a single client may use. ZNetLive makes every reasonable effort to provide clients with the disk space and bandwidth resources needed for their websites within the limitations of these Terms of Service. ZNetLive monitors all servers via automated and non-automated methods to help ensure no single client adversely impacts other clients located on the same server.
+Please note that shared hosting plans are for website hosting, and the storage of backups, file repositories, music files, videos, photo archives, data storage in the form like .exe, .jpg, .png, .mp3, .mp4, .wav, .zip, .rar and similar are strictly prohibited. Violators of this policy may have their accounts terminated without refund. In case your website has videos then only .flv & .3gp formats are allowed with size limit as 4 MB/video.
+Maximum 4% CPU resources & 50 MB RAM per account can be consumed in case of shared hosting and ZNetLive shall allow only 500 MB mail box size , 5 GB as total mail box size per domain. It is further clarified that in case of shared hosting maximum 250 mails can be sent per domain with total recipients 25 while mailing 25 mails per 5 min.
+We allow 10 FTP per hosting account even in case of Unlimited Domains Hosting Plans.
+Reselling in Shared Hosting Plans
+Reselling is not allowed on shared hosting plans. If reselling is desired, a reseller plan must be purchased. All the domains for a particular shared hosting account need to have single ownership. ZNetLive holds the full right to suspend/terminate the shared hosting accounts that have domains with multiple ownerships.
+Reseller Hosting
+ZNetLive will not entertain reseller's clients' queries.
+Addon Domain is not allowed in Reseller Plans. The clients will not be able to add any domain as add-on domain & they need to add it as new cPanel account.
+Each Database size for Reseller Hosting is limited to a maximum of 300 MB.
+VPS/Dedicated Servers
+ZNetLive provides root server access but in case the client uploads any applications or tamper with the server then ZNetLive will not be responsible for any mishappenings/server failure. The client will be solely responsible for the mishappenings and ZNetLive will not be liable for any support in order to restore the server to its previous state. ZNetLive's support team may ask for the appropriate amount, to be paid by client, in order to restore the server (only if the backup is available).
+ZNetLive forbids the use of unauthorized software or use of scripts or software runs on its servers that can cause the server to load beyond a reasonable level, as determined by ZNetLive. Third party script installation is at client's own risk. ZNet will not be responsible for any data loss/ security issues that occur due to the third-party software that client installs at their end or get them installed by ZNet team. You agree that you shall use only authorized/ licensed software installed by ZNetLive as per your requirement. You will be directly responsible towards the software provider so far as the software is related and ZNetLive shall not be responsible in any manner either towards you or towards the software provider regarding any dispute, claim or any difficulty related to the software.
+No client shall change the server passwords without intimating us. In case, any client does it, then he will be responsible for any downtime of server or services.
+No server logs can be provided by ZNet to clients. In case, client has done the setup to manage server logs then only ZNetLive's team can only assist the client in getting the logs.
+In case, a particular VPS/Dedicated server is consuming high bandwidth then clients are liable to pay as per the bandwidth usage.
+Pharmacy Sites' Restriction
+Please note that we do not host pharmacy sites on our servers. If it is brought to our notice by a complainant or if it is discovered that you are using our services to run a pharmacy business, then the reported site will be suspended with immediate effect and no refunds will be made in such a case. As a convenience to the client, and not as a binding commitment, we may inform the client and the complainant about the suspension of the site and reason for the same.
+Email Server Usage
+The mails in deleted folder will get automatically deleted after 30 days. Rest items will get automatically deleted after 3 months. (Not from the MS Outlook but from email server)
+No client can use email server for data storage including the option of leaving a copy on the server.
+Client is allowed to keep only relevant mails keeping in consideration the mailbox size limitations. ZNetLive allows only 500 MB mail box size and 5 GB as total mail box size per domain.
+Payment
+Service Rates
+Customer/Subscriber acknowledges that the nature of the service furnished and the initial rates and charges have been communicated to him. Customer/Subscriber is aware that the company may prospectively change the specified rates and charges from time to time.
+Payment
+Establishment of any service is dependent upon receipt of stated charges by the Company. Subsequent payments are due on the anniversary date of the month for that month's service or, on the annual renewal date in case of services purchased annually.
+Payments are accepted only in the form of crossed Demand Drafts, Cheques, Credit Cards or any other payment option communicated by the company. Charges for all services are payable prior to the beginning of each service period. Failure to pay in no way relieves the customer from making full payment.
+ZNetLive retains full rights to charge for or alter specifications or discontinue any of the services/ features offered under the various schemes at any time, without any prior notice.
+It shall be our endeavor to set-up the server within stipulated time frame as defined in our SLA, upon the receipt of completed form along with the payment (realization). If however, there is a delay due to any unforeseen circumstances, the customers are requested to kindly bear with us. Additional or customized services are available at extra cost as applicable and as mentioned in the hosting scheme.
+You accept that your account may be temporarily or permanently suspended without any prior notice or information to you in any event of non-payment from your side for any of ZNetLive's services.
+Payments and Fees
+Cheques and Drafts returned for any reason are subject to returned item charge. Service will be interrupted on accounts that reach 7 days past due. Service interrupted for nonpayment may be subject to a reconnect charge fixed at the sole discretion of ZNetLive. Accounts not paid by due date may be subject to a late fee at the sole discretion of ZNetLive. If you desire to cancel your account, please raise a ticket in the member control panel 30 days in advance. Failure to notify cancellation in advance would result in services billed and payable for the next period.
+Failure to Pay
+The Company may temporarily deny all services provided or terminate this Agreement upon the failure of customer to pay charges when due. Such termination or denial will not relieve customer of responsibility for the payment of all accrued charges, plus reasonable interest and any collection fees.
+In case your hosting service expired before the expiration of your domain then the Parking page of our company is shown and it is removed when the payment of hosting renewal is realized to us.
+You acknowledge that it's your responsibility to keep records and maintain reminders regarding the expiry of any service. As a convenience to the client, and not as a binding commitment, we may notify him of any expiring services or services due for renewal, via email message sent to the contact information associated with the customer in the ZNetLive's database. Should renewal fees go unpaid for a service, the service will terminate automatically & ZNetLive will not be responsible for any loss that may occur due to expiry/termination of services.
+TDS
+If any TDS is deducted on the professional services, then the credit for the same would be applicable only and only when the same is reflected in our 26AS for the corresponding quarter.
+Fund Transfer
+If for any reasons, you are managing two different member panel accounts then transfer of fund from one account to another account is not allowed. While sending offline payments, please make sure that you send us different DD/cheques for different accounts.
+Discount & Offers
+Any promotional offer introduced through the www.znetlive.com
+(ZNetLive) is available inside your Control Panel or while placing the order.
+Also, any promotional offer is contingent upon company achieving and maintaining its cost of service goals including but not limited to rates charged to company by its suppliers.
+These terms and conditions apply to those promotions where you must redeem a promotion code as part of the offer.
+The promotion code is valid for a limited time only. ZNetLive reserves the right to modify or cancel it at any time.
+Each promotion code can be used only once, unless otherwise specified.
+Each promotion code applies only to qualifying items.
+Each promotion code applies only to new products sold by ZNetLive. It does not apply to the same products sold by other sellers.
+The promotion is subject to all restrictions set forth in the offer.
+Promotions are applicable only for the new customers and not the existing ones.
+The promotion code is not transferrable and may not be resold.
+Promotion codes may not be combined with other offers.
+Limit one promotion code per customer.
+Void where prohibited.
+If you violate any of the Terms and Conditions, the promotion will be invalid, and the promotional code discount will not apply.
+IMPORTANT:
+All discounts, until explicitly mentioned, will be applicable on new registrations only. The discount will not be provided on renewals.
+Client should not opt for a premium domain name extension for domain extension that's available free of charge as value add with any service to him/her. If he/she chooses a premium one, then original prices will need to be paid for that TLD.
+Change of Registered mail ID
+If request is being sent from registered email ID
+The client needs to send address and ID proof scan copy for cross verification of account ownership. The change in email ID can be immediately done if the address proof provided by the client matches with ZNetLive's records for that particular client.
+If registered email ID is inaccessible
+The client needs to send us an email alongwith his ID proof mentioning the reason for the change in email ID. We further analyze the situation by sending the mail to the registered email ID for the requested change. We automatically make the changes if we don't get any response from registered email ID within one week
+(from the mail sent time).
+Backup Policy
+Your use of the service is purely at your sole risk. ZNet Live is not responsible for files and data residing on your account. You agree to take full responsibility for files and data transferred and to maintain all appropriate backup of files and data stored on ZNetLive servers, unless otherwise specified depending on the account type. ZNetLive performs backups of shared and reseller servers; however, these backups are for ZNetLive's administrative purposes only, and are in no way guaranteed! Customers are responsible for maintaining their own backups on their own personal computers. In case you are storing the backup at server then you can only keep single copy of backup. ZNetLive does not provide any sort of compensation for lost or incomplete data in the event that backups do not function properly (even if the malfunction was due to negligence on ZNetLive's part). We will do our best to ensure complete and accurate backups, but assume no responsibility for this duty. It is your responsibility to take backup of your site on your personal computer. We make no guarantees about the availability of backups.
+Mailing Policy
+Users may not send unsolicited e-mail messages, including, without limitation, bulk commercial advertising or informational announcements ('spam') in a way that could be reasonably expected to adversely impact the ZNetLive's network, including, without limitation, using an e-mail account on ZNetLive's network to send spam or bulk e-mail, or using the service of another provider to send spam or to promote a site hosted on or connected to the ZNetLive's Network.
+In addition, Users may not use the ZNetLive's Network in order to:
+(a) Send e-mail messages which are excessive and/ or intended to harass or annoy others.
+(b) Continue to send e-mail messages to a recipient that has indicated that he/she does not wish to receive them.
+(c) Send e-mail with forged TCP/IP packet header information.
+(d) Send malicious e-mail, including, without limitation, 'mailbombing'.
+(e) Send or receive e-mail messages in a manner that violates the use policies of any other internet service provider.
+(f) Use an e-mail box exclusively as a storage space for data
+(g) Offer for sale or solicit e-mail lists for the purposes of bulk e-mail.
+ZNetLive will not be responsible for any loss that may occur due to blacklisting of IPs due to mass mails.
+Sales Commitments
+Any commitment of sales team to client regarding availability of technical features, unless in accordance with technical specifications and plans mentioned on company website would not incur any liability upon the company. All such unsubstantiated commitments by sales team on phone or mails would not carry any weight in the eyes of company and exempt it from legal action.
+Suspension/Termination
+In case of non-payment, all services will be suspended/terminated as per the service's expiry date. ZNetLive will not be responsible for any data loss or monetary loss that you may incur due to this.
+Upgradation/Migration
+In case of migration/upgradation, your old server/account will be terminated in 48 hours of the activation of the new server/account without any further intimidation. It is the client's responsibility to ensure the full completion of migration within 48 hours of getting the new account details. ZNetLive will not be liable for any data loss/mishappenings that may occur after 48 hours of the activation of new account.
+In case you are migrating/upgrading your server/account near the expiry date of the old server/account then client's old service/account will be deactivated on its due expiry date. It is the client's responsibility to migrate all their data on new account before the old server/account expiry date.
+In case of VPS server migration, data is migrated from the old VPS (with your previous hosting provider) to the new VPS (bought from us) only if the previous VPS has CPanel or Plesk on it. For all VPS, without a control panel, the support team will only move the website files. All the other databases, emails and any other data will have to be moved by the user.
+Account Cancellation:
+Requests for canceling accounts may be made in writing with at least 30 days' notice but not more than 60 days prior written notice and by the subscribers /customers through the member control panel
+Only the authorized account holder or an authorized contact may cancel the account. Authorized contacts are appointed only by the account holder. In the event of cancellation, customer will automatically be billed for any excess usage during the then-current calendar month.
+Availability of Services
+Subject to the terms and conditions of this agreement, ZNetLive shall try its level best to offer the dedicated services throughout the term of this Agreement. You, however agree that from time to time the services may be inaccessible/ inoperable for any reason, including, without any limitation:
+Equipment malfunctions.
+Causes beyond the control of ZNetLive or that are not reasonably foreseeable by ZNetLive, including, without limitation, failure or interruption of telecommunication or digital transmission links, network congestion, hostile network attacks or other failures.
+Periodic repair procedures or maintenance that ZNetLive may undertake from time to time.
+You agree ZNetLive has no control of availability of services on a continuous and/ or uninterrupted basis.
+You further agree that as a normal course of its business, it may be really necessary for ZNetLive to migrate its servers. As a result, even though you may have a dedicated IP, You may be assigned a different IP number. ZNetLive does not warrant that you will be able to consistently maintain your allotted IP numbers.
+ZNetLive offers a network uptime guarantee of 99.9%. If ZNetLive fails to maintain this level, you may contact ZNetLive for further follow up. Any credit offered
+may be used only for the purchase of further services and products from ZNetLive, (excluding applicable taxes), this service is not available for our dedicated server clients. The credit, however, does not apply to service interruptions caused by:
+Errors caused by you from custom coding or scripting, at your end; or
+Causes beyond control of ZNetLive or that are not reasonably foreseeable by ZNetLive; or
+Periodic scheduled repairs or maintenance ZNetLive may undertake from time to time; and
+Outages that do not affect the appearance of the website but simply affect access to the site such as email and FTP; or
+Outages related to the reliability of certain programming environments.
+ZNetLive's Rights
+ZNetLive explicitly reserves the right and sole discretion to:
+Modify its pricing, if desired by ZNetLive from time to time.
+Establish guidelines and limits concerning the use of the services.
+Terminate your use of services for use of our services to unnecessarily/illegally harass ZNetLive or third parties, non-payment of fees for our services, activities designed to embarrass, defame, harm, threaten, abuse, slander/ stalk third parties, activities prohibited by the laws of India and/or foreign territories in which You conduct business, activities designed to encourage unlawful behavior by others, such as terrorism, child pornography, hate crimes, activities that are tortious, obscene, vulgar, invasive of the privacy of a third party, ethnically, racially, or otherwise objectionable in the sole opinion of ZNetLive or declared by the law of land, activities designed to harm minors in any way, activities designed to impersonate the identity of a third party, and other activities whether lawful/unlawful that ZNetLive determines, in its sole discretion, to be harmful to its other customers, reputation or operations.
+Terminate your use of services if Your use of services results in, or is the subject of, legal action or threatened or proposed legal action, against ZNetLive or any of its affiliates/partners, without considering for whether such legal action or threats or proposed legal action is eventually determined to be with/without merit; and terminate Your use of services at any time and for any reason if deemed reasonably necessary by ZNetLive.
+Disclaimer:
+The information contained in https://www.znetlive.com/ is for general information purposes only. The information is provided by www.znetlive.com and while we endeavor to keep the information up to date and correct. We make no representations or warranties of any kind, expressed or implied, about the completeness, accuracy, reliability, suitability or availability with respect to www.znetlive.com or the information, products, services, or related graphics contained on www.znetlive.com for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of www.znetlive.com.
+Through www.znetlive.com you are able to link to other websites which are not under the control of www.znetlive.com. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorsement of the views expressed within them.
+Every effort is made to keep www.znetlive.com up and running smoothly. However, www.znetlive.com takes no responsibility for, and will not be liable for, www.znetlive.com being temporarily unavailable due to technical issues beyond our control.
+Denial of Service:
+We reserve the right to refuse service to anyone at any time for any reason.
+Jurisdiction:
+The laws of the Republic of India shall govern this agreement. In any event of dispute the area of Jurisdiction would be Jaipur only.
+Acknowledgement:
+You agree that you as the person legally responsible for use of this account are at least 18 years of age. You agree to supply ZNetLive with a current and truthful name, postal address and telephone number for our records, and you have a continued obligation to keep this information current. You also agree that you are an authorized user of any credit card that you supply to us and agree that we have an obligation to fully investigate any possible fraudulent credit card use.
+By placing, hiring and continuing to maintain or place information at ZNetLive's servers you are stating and acknowledging that you have read the aforementioned terms and conditions and that you understand such terms and conditions and agree to be bound by them.
+Support Policy
+I. Although technical support is available 24x7x365 through live-chat, trouble tickets & telephone, but only very basic issues can be addressed over the phone. Here, basic issues refer to those simple issues and queries that can be answered or resolved on an immediate basis by our support executive.
+II. Live-Support is available at all times for any / every issue that a customer may have. However, the support team may request an email sent as part of the authentication process, where they deem it to be necessary. Here, live support refers to phone, chat or ticket support provided and handled by a real support executive in real time.
+III. All trouble tickets raised and emails sent will be responded to within an hour. If there is a need for further investigation, the customer will be informed accordingly.
+IV. For issues which have to be forwarded to any provider of the software and applications which ZNetLive provides, it won't be possible to estimate a time frame of resolution. It completely depends on the severity of the issue and the response time of the provider. Customers will receive updates on these issues.
+V. You will have to raise tickets or approach live support for the technical staff to attend to your problems. This is the fastest way of getting the attention of the support team.
+Support abuse:
+We always treat our customers with utmost respect and expect the same from you too. If our staff feels that you are consistently addressing them in a demeaning or rude manner, your account may be suspended and you may be asked to take your business elsewhere. In the event that we terminate service for support abuse, customers will be given ten (10) days' notice to find a new host. A pro-rated refund may be issued on a case-by-case basis.
+Support boundaries:
+Please do not provide your sensitive information to our agents/executives etc. like login details, passwords, banking info etc. on Skype Chat. You may also not make any commitments on live chat. All such commitments, disclosures and interactions with our team would solely be at your own risk and ZNetLive does not deem valid or vouch for the authenticity of all such interactions. ZNetLive recommends that for all complex and advanced issues customer duly raise a ticket by logging into their member control panel.
+The support team will not be responsible for damages or issues arising from the activities like upgrading kernel, OS, running windows updates and external software like firewalls and anti-virus.
+quick links
+Become A Partner
+Member panel
+Contact us
+Get support
+Knowledge Base
+ZNetLive status
+Payment options
+Privacy Policy
+Legal
+Sitemap
+Deals and offers
+Bug Bounty
+Report Abuse
+Blog
+ABOUT US
+In the Media
+Our Team
+Our Awards
+Our Story
+Our Reviews
+Work Culture
+Careers
+Ready to Scale Your Business?
+Chat with Expert
+ZNetLive is a business unit of ZNet Technologies Pvt. Ltd. which is now a part of RP Tech India
+Copyright © 2009- 2020 ZNetLive. Powered by RackNap, All Rights Reserved.

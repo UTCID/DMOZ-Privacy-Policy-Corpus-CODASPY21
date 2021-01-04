@@ -1,0 +1,170 @@
+http://www.proxyblind.org/internet_privacy_setting.shtml
+Your Ip Address:
+72.182.10.230 from
+United States
+[ Not in Public Proxy List  or You surfing behind Anonymous Server]
+HTTP_X_FORWARDED (typical proxy variable data):
+(none)
+HTTP_VIA (typical proxy variable data):
+(none)
+Proxy_Connection (typical proxy variable data):
+(none)
+Connection:
+close
+Language:
+(none)
+Accept:
+(none)
+Referer:
+(none)
+Server Protocol:
+HTTP/1.1
+Encoding:
+identity
+Character:
+(none)
+Port:
+59815
+Request method:
+GET
+Browser:
+Python-urllib/3.8
+Proxy
+Anonymous
+Port
+Proxy tools
+Test
+Web Proxy
+Proxies
+Forum
+Tutorials
+Blog
+Disclaimer
+sponsored links
+About Proxy Blind Site
+Proxy Blind is designed
+using just HTML, CSS, SSI and Perl. You will not find any Java script, Active-X control, Java applets, Flash, Cookies, Ads, Pop-up's, Frames
+on this site. Just for "testing" and counting purposes we use Active - X, Java script, Java so that every visitor can evaluate just how good his or her online privacy is at the moment! Free anonymous proxy list
+are updated daily inside forum and several time per month on the main site.
+We try to provide you a really working, tested
+and alive servers from our weekly update proxy list.
+All our proxy servers are manually tested and free. Usually with ProxyRama, AAtools or Charon.
+For any questions reguarding Proxy Blind please contact me :
+Fri Dec 11 00:38:32 EST 2020
+the past five minutes: 25
+visitors online
+Proxy Setting
+You can find on this page simple textual tutorials how to set up
+your favour browser to works behind proxies.
+Next browser are explained:
+Internet Explorer
+Netscape Navigator 6/7.x
+Mozilla
+Opera 7.x
+If you use another browser you can get better impression how to set it up
+behid proxy server or if you have any trouble try to get help on our forum.
+Proxy - Socks FAQ
+|
+Proxy Hunter
+|
+Chaining
+|
+IP Range
+|
+IE
+|
+Pictorial
+|
+PeerGuardian
+|
+Proxy Guide for Dummies
+IE Setting
+Internet Explorer setting
+Settings:
+ActiveX controls and plug-ins:
+Download signed activex controls: disable
+Download unsigned activex controls: disable
+Initialized script ActiveX controls not marked as safe: disable
+Run ActiveX controls and plug-ins: disable
+Script ActiveX controls marked safe
+for scripting: disable
+Cookies:
+Allow cookies that are stored on
+your computer: disable
+Allow per-session cookies (not-stored): disable
+Downloads:
+Downloads: enable
+Font download: enable
+Java:
+Java permissions: disable java
+Access data sources across domains: disable
+Drag and drop or copy and paste files: disable
+Installation of desktop items: disable
+Launching programs and files in an *****: disable
+Navigate sub-frames across different domains: disable
+Software channel permissions: high safety
+Submit nonencrypted form data: enable
+Userdata persistance: disable
+Scripting:
+Active scripting: disable
+Allow paste operations via script: disable
+Scripting of java applets: disable
+After checking these settings, click on ok, then the advanced tab.
+Scroll down until you find the heading Java VM.
+Uncheck the boxes beside all three options:
+Java console enabled: uncheck box
+Java logging enabled: uncheck box
+JIT compiler for virtual machine: uncheck box
+Proxy Settings in Internet Explorer 8.x
+1. Click "Tools" and then "Internet Options"
+2. Click "Connections"
+a. If you use Dial-Up connection, choose
+your connection and click "Settings" button.
+b. if you use LAN connection, click "LAN Settings" button in
+the "Local Area Network (LAN) Settings" group box;
+3. Enable "use a proxy server";
+4. In fields "Address" and "port", type proxy name
+and proxy port number;
+5. If nessesary, enable "bypass proxy server for local addresses";
+6. Click "OK";
+7. Click "OK" to close IE settings.
+Netscape Navigator 6/7.x
+1. Click "Edit" or "Preferences"
+2. Click "Category" "Advanced" "Proxies"
+3. Set "Manual proxy configuration"
+4. Click "View" at "Manual proxy configuration"
+5. Set proxies for following protocols: HTTP, FTP, etc.
+For illustrated instructons:
+Mozilla
+1. Click "Tools" and then "Options";
+2. Click
+"Advanced" and then "Network";
+3. Chose "Setting" by "Connection";
+3. Set "Manual proxy configuration";
+4. Set your proxy server by HTTP Proxy field;
+5. Check "Use this proxy server for all protocols" or
+select manually protocols below;
+6. Click OK;
+Opera 9.x
+1. Click "Tools"
+2. Click "Preferences"
+3. Click "Advanced" and then select "Network"
+4. Click "Proxy Servers"
+5. Set proxies
+Proxy
+Top Proxy Software
+GhostSurf Proxy Platinum
+Provides an anonymous and encrypted Internet connection. GhostSurf use own extremely fast and stable proxy servers to help your anonymous surfing and also as addition may stops spyware, eliminates ads, erases your tracks etc...
+(Highly Recommended)
+Anonymizer Anonymous Surfing
+A complete Anonymous suite of personalized privacy tools. Pretty cool!!!
+(Highly Recommended)
+Webroot Spysweeper
+Spy Sweeper is probably one of the most effective standalone tool for detecting, removing and blocking nasty ad-aware and spyware.
+(Highly Recommended)
+More Online Privacy Software
+To see more useful anonymous surfing and online privacy programs use link above.
+Proxy  |  Free Proxy  |  Anonymous Proxy  |  HTTPS Proxy |  SOCKS Proxy  |  Awards  |  Sitemap
+Proxy Blind
+Staying Anonymous in the Age of Surveillance
+Copyright © 2001 - 2012 All rights reserved.

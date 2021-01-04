@@ -1,0 +1,182 @@
+https://www.parishpump.co.uk/help/
+Skip to content
+Frequently Asked Questions (FAQs)
+Click on a question to see a (hopefully) helpful answer. If your question is not answered on this page then do contact us.
+Troubleshooting
+I haven't received my verification email for my free trial
+If you’ve signed up for a free trial, but haven’t received your ‘verification’ email in order to activate your account, please wait at least 10 minutes. If you still haven’t recieved it, please check your junk/spam mail folder. The message will come from info@parishpump.co.uk with the subject “Welcome to Parish Pump Ltd – membership confirmation”.
+If you are sure it has not arrived, then come back to the website, log-in and check that your email address has been entered correctly. If not, you can correct it (How to change my account) and then click the Resend Confirmation Email on your account page.
+If you’re still not receiving it, there is likely something not quite right with your email server, but get in touch with us and we can manually validate your account.
+I can't login! (or I've forgotten my password)
+To login – click on “Log in” at the top right hand corner of the site! Or click here: https://www.parishpump.co.uk/login/
+If you can’t log in using your email address and password:
+check you’ve spelled your email address correctly
+check you’ve entered your password correctly (e.g. check if CAPS LOCK is on!)
+if you use any form of username/password storage, then do check the details are stored correctly – sometimes you have saved an old password in your browser and it ‘auto-fills’ the password box with an incorrect password. You can simply delete this and type the password again.
+On Parish Pump you can log in using your registered email address OR your full Account Number. We suggest you use your email address, it’s easier to remember! You also need the password you chose when you registered, or when you transferred from the old site. This password is known only to you – and it is case-sensitive.
+If you’re using the correct email/account number and password but still can’t log in, then just do a password reset by clicking on the “Lost Password” link on any login page. This will allow you to send an email to your account email address containing a one-time link to allow you to reset your password.
+When you click on the link, you will see a page that allows you to enter a new password.  Then click “Reset Password”.
+If you don’t receive the password reset email – please check your spam/junk mail folder! These emails often get filtered out by over zealous spam filters… If you’ve already tried this and are encountering problems – then do get in touch!
+I paid by Paypal but my account is not active
+Usually when you pay via Paypal, your account is unlocked within a few seconds (often almost instantly), however in certain circumstances, there may be a delay of several minutes, or occasionally longer. You can sometimes find information about your payment on your PayPal account. These circumstances include (but are not limited to):
+echeck: You paid via Paypal using a funding method known as “eCheck” and this has not yet cleared, this may take up to 7 days.
+paymentreview: The payment is pending while it is being reviewed by PayPal for risk.
+other: The payment is pending for a reason other than those listed above. For more information, contact PayPal Customer Service.
+This is an automatic protection carried out by PayPal – it’s not deliberate on our part and it’s not that we don’t like you!
+Sometimes,if none of the above apply, the same thing can happen for ‘technical reasons’ and the message from Paypal to activate your account might go astray. This will normally remedy itself in a few minutes, but if you find yourself in this position, having paid by PayPal but not being able to access the content, do get in touch with us via the Contact Page and we’ll try to speed things along.
+Credit Card payments are not working
+When you choose to pay by Credit/Debit card, rather than BACS or cheque, or Paypal, you are using the Stripe payment gateway. If this gateway is not working, you can also pay by card using the Paypal gateway.
+You then need to click the ‘Checkout with Paypal’ button – even if you don’t have a Paypal account, you can enter your credit card details on the Paypal website – Paypal is our payment gateway for credit card payments.
+If the card payment itself is not working, then read on!
+There are many possible answers to this question – card payments are handled entirely by Stripe or PayPal for your own security and it is not possible for us (Parish Pump) to tell exactly why your card is being rejected or not working.
+Do check the list below for possible reasons why there might be a problem, and do get in touch with us if you are confused, but remember that in the end you may need to contact PayPal or your card issuer to resolve the problem.
+Payments using the on-site credit card facility are handled by Stripe, and you may be required to pass an additional SCA test (strong customer authentication) – if you cannot pass this test, then your payment will not be accepted. This is a legal requirement.
+If your credit/debit card is being rejected by PayPal with the message “The card you entered cannot be used for this payment. Please enter a different credit or debit card number.” it might be due to one of the following reasons:
+Your card is associated with a specific PayPal account, and you’re not logging in with that particular account.
+Your card was associated with a PayPal account that has since been closed.
+You’ve linked the card to a PayPal account, but have not yet confirmed it.
+You’ve exceeded your card limit with the PayPal system.
+Your email address is raising a red flag in PayPal’s system.
+Your browser is not accepting cookies. You should clear any existing cookies and try again. For instructions see this link: http://www.wikihow.com/Clear-Your-Browser’s-Cookies
+You have used this card without a PayPal account multiple times and PayPal have limited further uses until an account is created.
+If you are not using a PayPal account, but are using the ‘Pay with a debit/credit card (account optional)’ method, and you have used this option several times in the past, then PayPal may require you to sign up for an account in order to make further payments with this card. This is outside Parish Pump’s control. You may wish to consider opening a PayPal account if you encounter this problem, or alternatively use a different payment method. If you wish to pay by credit or debit card then you currently need to use the PayPal gateway to do this, with or without a Paypal account. See PayPal’s terms and conditions for ‘account optional’ transactions here: PayPal Account Optional Terms
+I can't open docx files! Please give me old doc files!
+Microsoft Word documents saved in earlier versions of Word are saved as .doc files. Since 2007, the default format has been .docx – which can cause a headache for users of older versions of Word (Word 2003 and earlier can’t open these by default). We do try to publish all our documents in both docx and in the old style doc (this is now 11+ years old) – but occasionally one slips through the net.
+If you are struggling to open a docx file, you can  simply copy and paste the text from the website for editorial articles, and you can also convert docx to doc, or update your software to allow docx to be opened.
+This site shows several methods: https://www.wikihow.com/Convert-Docx-to-Doc
+You can update Word 2003 to allow docx files to be opened by following method one in the above link, which is an update from Microsoft. You can also open docx files with the free OpenOffice software if necessary. The ‘new’ (11 years old) docx format actually allows more formatting and options to be saved and edited, so we would encourage users to move to a platform that uses this format where possible!
+The graphic has a watermark and the words Parish Pump on! How do I get rid of it?
+If you have a watermark and the words “Parish Pump” on your downloaded image, then you have probably downloaded the image by right clicking and choosing “save image as…”, or some other method of taking the image from the browser. You have taken the ‘thumbnail’ rather than the high quality image we offer you. Please DO NOT download images this way – these ‘thumbnails’ are deliberately watermarked and low-quality to prevent unscrupulous users from downloading images without paying for them.
+Just click the “Download JPG” button, (it’s big and blue!) and you’ll instantly get the high-quality watermark-free image! See below for full instructions on downloading resources.
+The graphic is too dark/light/faint/big/small/murky for me to use! How can I change it?
+Image printing too dark? Or not dark enough? Every printer is different! We cannot guarantee that our images will suit your printer… However – you can always adjust a graphic after you have received it from Parish Pump, in your own image editing software or word processing software.
+Resizing an image is the most common task. You can use ‘Paint’ if you have a Windows PC, or use ‘Preview’ if you are using a Mac.
+Here are some instructions: for Microsoft Paint and for Preview on a Mac. You can also use more advanced programs such as Photoshop or GIMP (a free open-source alternative to Photoshop https://www.gimp.org/). Most of the time though, you can do basic image editing within your word-processing software. Usually it’s simply a case of adjusting the contrast and/or brightness of an image.
+You can certainly do this in any image editing program, and directly in a Microsoft Word document. This is something that any good magazine editor should know how to do in order to make your images look great!
+In Word 2010: https://support.office.com/en-us/article/Change-the-brightness-contrast-…
+In Word 2016: https://support.office.com/en-au/article/Change-the-brightness-contrast-…
+Or in Picasa (photo editing software from Google): http://www.dummies.com/how-to/content/how-to-adjust-a-blog-photos-bright…
+How do I…?
+How do I renew my account?
+It’s very easy – in short: log in, then click ‘Pay/Renew’, then choose how to pay, and click submit!
+Please DON’T send us a cheque or bank transfer without renewing your account first! Once you renew on the site, you’ll generate an invoice, which you can see in your account area and you will also receive by email. We can then credit your payment to this invoice – but you need to renew before sending your payment! Renewing early will simply add a year on to your existing expiry date – so we recommend renewing during the last month of your membership rather than waiting until after it’s expired – you won’t lose any time, and you don’t risk losing access just when you have a deadline!
+Detailed instructions:
+First, you’ll need to be logged in (using your email address and password).
+Now click on “Pay/Renew” in the main navigation bar or just click here.
+Check your details are correct, and agree to the terms.
+Choose your payment method:
+Choose Credit/Debit Card to pay online via Stripe.
+Choose Paypal to pay via Credit/Debit Card or through your Paypal account
+Choose Cheque/Bank Transfer for offline payments.
+If you chose Credit/Debit card – you can fill in your card details here on the checkout page. Always check for the padlock icon in your browser bar when submitting credit card details online!
+Now click the ‘Submit and Check Out’ button or ‘Paypal Checkout’ button (which one you see will depend on your chosen payment method).
+If you chose Credit/Debit card, your payment will be processed. You may be required to perform an additional verification step by your card provider – simply follow the on-screen instructions.
+If you chose Paypal, you will be taken to the Paypal site to complete your payment.
+If you chose Cheque/Bank Transfer, you’ll receive instructions on what to do next to send your payment.
+Whichever way you chose, you’ll receive an invoice by email once you have completed the checkout.
+Once your payment has been received, your renewal will be active.
+Until then, you may continue using the site under your previous membership or free trial until the old expiry date.
+How do I get an invoice?
+To get an invoice, you need to renew your account! When you renew your account, you will generate an invoice which you can view in your account. You will also be sent one by email. If you paid by card or paypal – this invoice will also be a receipt, you’ve already paid it!
+If you chose to pay by cheque or bank transfer, this invoice can be given to your treasurer or used to generate a payment order – however it works for your church!
+Click on “My Account” at the top right, then click on “Membership details” on the left hand menu, in order to see a list of past invoices for your account. (Or click here).
+Clicking on the date of an invoice will allow you to see the details for that invoice and print it off if necessary.
+How do I download resources?
+Please note that to download an image without the “Parish Pump” watermark, you need to use the big “DOWNLOAD JPG” button – please don’t copy and paste the images from the web-page, these are low quality watermarked previews! Here’s how to do it:
+First, you’ll need to be logged in (using your email address and password).
+Then click on Resources in the top navigation menu. This will take you to the top view of all the resource categories available.
+Click on a category to view the individual resources for the current issue. e.g Cartoons
+Click on an individual item to see the available formats for download.
+Click on the format you require. For graphics this will normally be “DOWNLOAD JPG”. For Editorials, it will normally be “DOWNLOAD DOC” or “DOWNLOAD PDF”.
+Your browser will ask you what you want to do with the file OR will automatically put it in downloads folder (this depends on what browser you use and how you’ve set it up).
+Some browsers show you the file you just downloaded at the bottom of the screen.
+Once you’ve saved the file – you can use it in whichever publishing program you use to create your magazine/article. Downloading the file in this way ensures you get the highest quality file and no embedded watermarks.
+How do I access old resources?
+You can access old resources back to the date you first joined Parish Pump. Just scroll down on the Resources page to see the ‘Previous Issues’ menu. Click on the month you want to view, and you will be able to view the current category for that that month. To see all material in that month, just use the ‘breadcrumb’ at the top right of the title to navigate back up to the overall view for that month.
+How do I pay by Credit/Debit Card?
+You can pay by card by choosing ‘Pay by Credit/Debit card on the checkout page’, filling your card details in, and clicking ‘Submit and Checkout’. This uses the modern Stripe payment gateway to handle your card payment securely, and automatically updates your account. You may be required to perform an additional verification step from your card provider – simply follow the on-screen instructions.
+You can also pay by card through Paypal, without needing a PayPal account.
+If you wish to do this (e.g. if the first method is not working) please select  “Pay by Paypal” on the checkout page, and then click on the Paypal Checkout button.
+This will take you to the Paypal site where you can use whichever card you wish. You do not need a Paypal account to make a payment.  You can simply enter your card details to make a payment.
+You will see a page like this on the right (if you are not logged into a Paypal account). Choose “Pay by Debit or Credit Card”, and you should then be taken to a “Guest Checkout” page. Simply fill in your card and address details, and Paypal will handle the credit/debit card payment – you do not need to sign in or open an account with Paypal.
+Please note that even though you do not need an account with Paypal, this service is provided by Paypal and so is subject to the ‘Account Optional terms and conditions’- which can be viewed from the link on the Paypal page. (or here: https://www.paypal.com/GB/webapps/mpp/ua/privacywax-full)
+Please note that your card details are not stored or recorded at Parish Pump – they are submitted securely to Stripe or to Paypal – and therefore we cannot take card payments over the phone.
+How do I pay by PayPal?
+Log in to your Parish Pump account on this site.
+Click on the Pay / Renew link in the menu:
+Check your details and choose “Pay with PayPal”.
+Click on the PayPal Checkout icon.
+If you have a PayPal account, you can now login to PayPal using your PayPal username and password (N.B. This will be different (probably) from your Parish Pump account password), and pay via credit/debit card, bank balance or PayPal balance as normal for PayPal. You can also pay without using a PayPal account by clicking ‘Pay by Credit/Debit Card’.
+Once payment is complete you will be returned or given a link to take you back to the Parish Pump site.
+Please don’t pay us directly from PayPal without renewing your account on our website first – we will not be able to match your payment to your account! Just click ‘Pay/Renew’ on our site and follow the steps…
+How do I pay by Bank Transfer?
+Log in to your Parish Pump account – and then click on Pay/Renew (top menu).
+Check your details are correct, and confirm your agreement to the Terms and Conditions and Privacy Policies.
+Choose Cheque/Bank Transfer as your payment method.
+Click Submit.
+This will generate a renewal order and an invoice on your account – and lets us know to expect your payment by Bank Transfer. Please do this before sending your payment to us! Once done, please use the details below to set up your bank transfer.
+Our Account name: Parish Pump Ltd
+Our bank: HSBC
+Our bank account number: 01651358
+Our bank sort code: 40-31-02
+Your payment reference: e.g. PPN01234
+Annual membership price: £45.99
+Please use your Parish Pump account number as the payment reference. That way we can be sure of allocating your money to the correct account. You can see your account number on your account page once you are logged in. PLEASE NOTE! The above bank details have recently changed – if you are using existing details to pay us, please check them first to see if they match the details above. If you send money to the wrong account, we are not able to claim it back for you!
+How do I pay by Cheque?
+Log in to your Parish Pump account – and then click on Pay/Renew (top menu).
+Check your details are correct, and confirm your agreement to the T&Cs, and Privacy Policy.
+Choose Cheque/Bank Transfer as your payment method.
+Click Submit.
+This will generate a renewal order and an invoice on your account – and lets us know to expect your payment by Cheque. Please renew like this before sending your cheque to us! Once done, you can send the cheque to us. Make your cheque payable to Parish Pump Ltd. for the annual membership price (£45.99). IMPORTANT! Please write the following details on the back of your cheque so we can assign your payment to the correct account
+Your account number: e.g. PPN01234
+Your renewal date: ---
+Your name: e.g. John Smith
+Your email: e.g. johnsmith@parishpump.co.uk
+Send your cheque to: Parish Pump Ltd. PO Box 236 Macclesfield Cheshire SK10 4GJ
+Cheques can only be drawn against a UK bank account.
+How do I make changes to my account? Do you want to hand your Parish Pump subscription on to a new editor? Or have you changed your email address? Or moved house? It is very easy to change any of the details which we hold for your church’s account.
+Here is how you do it:
+If you’re logged in already (check at the top right of the page!), then just click here: https://www.parishpump.co.uk/your-profile/
+If you’re not logged in  then log in to Parish Pump using your usual details.
+Click on the button at the top right which says “My Account”.
+Then, click the button on the left hand menu that says “Edit Account Profile”.
+On this page you can edit any of your account details (although your account number cannot be changed).
+Always remember to click on “Update Profile” at the bottom of each page after making any changes to your account details.
+If you change your email – you will then need to log in with the new email address and not the old one!
+If you should need any further assistance, please do not hesitate to contact us.
+How do I change my password?
+Want to change your password – as we recommend you do at least once a year or more often? Here’s how:
+Log in to your account
+Click on My Account (Top right of page)
+Click on Membership Details (Left hand menu) or just click here
+Choose ‘Change Password’
+You should now enter your current password, and then the password you wish to change to.
+You will be asked to confirm the NEW password again.
+Now scroll down and click ‘Change Password’ at the bottom of the page.
+Done! Make sure you keep your new password safe in your memory or in a password manager. Some general password tips
+We recommend you DON’T:
+DON’T use a password that is one word, or made up of a few common words e.g. (letmein, password, parishpump)
+DON’T write your password down in a notebook, post-it note on your desk, or anywhere else visible from your computer.
+DON’T save it in plain text on your computer.
+DON’T use the same password / email combination for multiple accounts on other sites
+DON’T share your password with other people unless absolutely necessary (i.e. shared account in a church office).
+We recommend you DO:
+DO use a password that contains upper-case and lower-case letters, numbers and symbols where possible
+DO make your passwords at least 8 characters long
+DO try out ‘easy-to-remember-hard-to-guess’ passwords like: ‘GrumpySofaCatAteMyFish2019’ – tell an unusual story – no hacker will guess your story – but they will guess your birthday, house number or phone number.
+DO use a secure password manager if necessary to store all your passwords necessary for life in the 21st century.
+DO treat your passwords like your credit cards, particularly if you use similar passwords to access your email, bank or payment systems
+DO get used to using password reset functions – check your junk mail!
+DO get used to changing your passwords regularly – they’re not intended to stay the same for life…
+Useful Pages
+Home
+How it Works
+About Us
+Free Booklet
+Contact
+Testimonials
+Help!
+Terms, Conditions of Use, and Privacy Policy
+Resources
+This site uses cookies:
+Find out more in our Privacy Policy.Okay, thank you

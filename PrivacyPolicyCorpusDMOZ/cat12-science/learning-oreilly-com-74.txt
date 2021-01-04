@@ -1,0 +1,31 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch03s03.html#websec2-CHP-3-SECT-3.2.3
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Public Key Algorithms
+The existence of public key cryptography was first
+postulated in print in the fall of 1975 by Whitfield
+Diffie and Martin Hellman. The two researchers, then at
+Stanford University, wrote a paper in which they presupposed the
+existence of an encryption technique in which information encrypted
+with one key (the public key) could be decrypted by a second,
+apparently unrelated key (the private key). Robert Merkle, then a
+graduate student at Berkeley, had similar ideas at the same time, but
+because of the vagaries of the academic publication process, Merkle’s
+papers were not published until the underlying principles and
+mathematics of the Diffie-Hellman algorithm were widely known.Since that time, a variety of public key encryption systems have
+been developed. Unfortunately, there have been significantly fewer
+developments in public key algorithms than in symmetric key
+algorithms. The reason has to do with how these algorithms are
+created. Good symmetric key algorithms simply scramble their input
+depending on the input key; developing a new symmetric key algorithm
+requires coming up with new ways for performing that scrambling
+reliably. Public key algorithms tend to be based on number theory.
+Developing new public key algorithms requires identifying new
+mathematical equations with particular properties.The following list summarizes the public key systems in common
+use today:Diffie-Hellman key exchangeA system for exchanging cryptographic keys between active parties. ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

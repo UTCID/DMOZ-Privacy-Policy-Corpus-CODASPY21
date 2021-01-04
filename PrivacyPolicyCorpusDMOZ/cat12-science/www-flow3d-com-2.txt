@@ -1,0 +1,808 @@
+https://www.flow3d.com/terms-of-use/
+Solving the World’s Toughest CFD Problems
+Products
+FLOW-3D
+FLOW-3D AM
+FLOW-3D CAST
+FLOW-3D HYDRO
+FLOW-3D WELD
+FLOW-3D CLOUD
+FlowSight
+Industries
+Additive Manufacturing
+Water & Environmental
+Laser Welding
+Metal Casting
+Micro/Bio/Nano Fluidics
+Maritime
+Energy
+Consumer Products
+Coating
+Biotechnology
+Automotive
+Aerospace
+Sales
+Contact Sales
+Request a Personalized Demo
+CFD Services
+Find a Distributor
+Simulation Gallery
+Support
+Resources
+Bibliography
+Case Studies
+CFD-101
+Conference Proceedings
+Modeling Capabilities
+Webinars
+Academics
+Workshops
+Additive Manufacturing
+Metal Casting
+Microfluidics
+Water & Environmental
+Menu
+Products
+FLOW-3D
+FLOW-3D AM
+FLOW-3D CAST
+FLOW-3D HYDRO
+FLOW-3D WELD
+FLOW-3D CLOUD
+FlowSight
+Industries
+Additive Manufacturing
+Water & Environmental
+Laser Welding
+Metal Casting
+Micro/Bio/Nano Fluidics
+Maritime
+Energy
+Consumer Products
+Coating
+Biotechnology
+Automotive
+Aerospace
+Sales
+Contact Sales
+Request a Personalized Demo
+CFD Services
+Find a Distributor
+Simulation Gallery
+Support
+Resources
+Bibliography
+Case Studies
+CFD-101
+Conference Proceedings
+Modeling Capabilities
+Webinars
+Academics
+Workshops
+Additive Manufacturing
+Metal Casting
+Microfluidics
+Water & Environmental
+Updated: May 21, 2018.Read Flow Science’s terms of use below to learn more about restrictions, permissions and other legal information.DOCUMENTSPermission to use documents such as case studies, press releases, and other publications from this server (“Server”) is granted by Flow Science, Inc. (“FSI”) provided that (1) the appropriate copyright notice appears in all copies and that both the copyright notice and this permission notice appear, (2) use of such documents from this Server is for informational and non-commercial or personal use only and will not be copied or posted on any network computer or broadcast in any media, and (3) no modifications of any documents are made. Use for any unauthorized purpose is expressly prohibited by law, and may result in severe civil and criminal penalties.Documents specified above do not include the design or layout of this website. Elements of this website are protected by trade dress and other laws and may not be copied or imitated in whole or in part. No logo, graphic, image, or video from this website may be copied or retransmitted unless expressly permitted by FSI.FSI AND/OR ITS RESPECTIVE SUPPLIERS MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY OF THE INFORMATION CONTAINED IN THE DOCUMENTS AND RELATED GRAPHICS AND/OR SOFTWARE PUBLISHED ON THIS SERVER FOR ANY PURPOSE. ALL SUCH DOCUMENTS AND RELATED GRAPHICS ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND AND ARE SUBJECT TO CHANGE WITHOUT NOTICE. ALL RISK ARISING OUT OF THEIR USE REMAINS WITH THE RECIPIENT. IN NO EVENT SHALL FSI AND/OR ITS RESPECTIVE SUPPLIERS BE LIABLE FOR ANY DIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE OR OTHER DAMAGES WHATSOEVER (INCLUDING WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, OR LOSS OF BUSINESS INFORMATION), EVEN IF FSI HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.SOFTWAREAny software (“Software”) that is made available to download from this Server is the copyrighted work of FSI and/or its suppliers. Use of the Software is governed by the terms of the end user license agreement, if any, currently in existence between the end-user and FSI and/or which accompanies or is included with the Software (“License Agreement”). An end user will be unable to install any Software that is accompanied by or includes a License Agreement unless he or she first agrees to the License Agreement terms.The Software is made available for downloading solely for use by end users according to the License Agreement. Any reproduction or redistribution of the Software not in accordance with the License Agreement is expressly prohibited by law, and may result in severe civil and criminal penalties.WITHOUT LIMITING THE FOREGOING, COPYING OR REPRODUCTION OF THE SOFTWARE TO ANY OTHER SERVER OR LOCATION FOR FURTHER REPRODUCTION OR REDISTRIBUTION IS EXPRESSLY PROHIBITED.THE SOFTWARE IS WARRANTED, IF AT ALL, ONLY ACCORDING TO THE TERMS OF THE LICENSE AGREEMENT. EXCEPT AS WARRANTED IN THE LICENSE AGREEMENT, FSI HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH REGARD TO THE SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL FSI AND/OR ITS RESPECTIVE SUPPLIERS BE LIABLE FOR ANY DIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE OR OTHER DAMAGES WHATSOEVER (INCLUDING WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, OR LOSS OF BUSINESS INFORMATION), EVEN IF FSI HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.RESTRICTED RIGHTS LEGENDAny Software which is downloaded from this Server for or on behalf of the United States of America, its agencies and/or instrumentalities (“U.S. Government”), is provided with Restricted Rights. Use, duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software –Restricted Rights at 48 CFR 52.227-19, as applicable. The manufacturer is Flow Science, Inc., 683 Harkle Road, Santa Fe, NM 87505.TRADEMARKSFLOW-3D, TruVOF and any and all Flow Science’s brands, products, services and feature names, logos and slogans are trademarks or registered trademarks of Flow Science, Inc. All other brands, products, services and feature names or trademarks are the property of their respective owners.ONLINE PRIVACY STATEMENTMaking useful information available to our customers and web site visitors without infringing on their privacy is very important to us. FSI safeguards the security of the data you send us with physical, electronic and management procedures. For more information about our privacy practices, view our full Privacy Policy.Contact InformationFlow Science, Inc.683 Harkle RoadSanta Fe, NM 87505info@flow3d.com
+Subscribe to flow-3d news
+Newsletter Registration Form
+Connect with us on SocialFacebookInstagramLinkedInTwitterYouTube
+Flow ScienceA Message to the FLOW-3D Community
+About Us
+Blog
+Careers
+Contact Us
+Events
+Partners
+Press Releases
+Privacy Policy
+Terms of Use
+Code of Conduct
+Data Subject Access Request
+Menu
+Privacy Policy
+Terms of Use
+Code of Conduct
+Data Subject Access Request
+FLOW-3D and TruVOF are registered trademarks of Flow Science, Inc. in the USA and other countries.COPYRIGHT 2000 – 2020 FLOW SCIENCE, INC. ALL RIGHTS RESERVED.
+Request More Information
+FLOW-3D AM WELD Request Info
+First Name
+*
+Last Name
+*
+Company/Institution
+*
+Email
+*
+Phone
+What product are you interested in?
+FLOW-3D AM
+FLOW-3D WELD
+What additive manufacturing processes do you want to simulate?
+*
+Binder jetting
+Direct energy deposition
+Electron beam powder bed fusion
+Fused deposition modelling
+Laser powder bed fusion process
+Metal 3D printing
+Non-metal 3D printing
+Selective laser sintering
+What laser welding processes do you want to simulate?
+*
+Spot & seam welding
+Oscillation welding
+Dissimilar metals
+Laser brazing
+Laser cladding
+Laser soldering
+Laser beam shaping
+I am interested in:
+*
+Scheduling a demo
+Pricing information
+Academic program
+General inquiry
+Country
+*
+United States
+Canada
+Afghanistan
+Albania
+Algeria
+Argentina
+Armenia
+Australia
+Austria
+Bahrain
+Bangladesh
+Belarus
+Belgium
+Belize
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Côte d'Ivoire
+Cambodia
+Cameroon
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Cuba
+Czech Republic
+Denmark
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Eritrea
+Estonia
+Ethiopia
+Finland
+France
+Georgia
+Germany
+Ghana
+Greece
+Guatemala
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Liberia
+Libya
+Lithuania
+Luxembourg
+Macedonia
+Madagascar
+Malaysia
+Mexico
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Namibia
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Rwanda
+Saudi Arabia
+Senegal
+Serbia
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Taiwan
+Thailand
+Tunisia
+Turkey
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Uruguay
+Uzbekistan
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+Other
+Country
+FLOW-3D News
+Yes, please sign me up to receive email news.
+Privacy
+*
+I acknowledge I have read and I accept the Privacy Policy under which my Personal Data will be used by Flow Science. *
+reCAPTCHA
+Request Info
+If you are human, leave this field blank.
+Request Pricing for FLOW-3D HYDRO
+FLOW-3D HYDRO Price Request
+First Name
+*
+Last Name
+*
+Company/Institution
+*
+Email
+*
+Phone
+Water & Environmental Applications
+*
+Conveyance Infrastructure
+Dams & Spillways
+Ports & Coastal
+Rivers & Environmental
+Water Treatment
+Current Modeling Tools
+Schedule a one-on-one demo with a water & environmental applications engineer:
+*
+Yes
+No
+Country
+*
+United States
+Canada
+Afghanistan
+Albania
+Algeria
+Argentina
+Armenia
+Australia
+Austria
+Bahrain
+Bangladesh
+Belarus
+Belgium
+Belize
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Côte d'Ivoire
+Cambodia
+Cameroon
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Cuba
+Czech Republic
+Denmark
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Eritrea
+Estonia
+Ethiopia
+Finland
+France
+Georgia
+Germany
+Ghana
+Greece
+Guatemala
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Liberia
+Libya
+Lithuania
+Luxembourg
+Macedonia
+Madagascar
+Malaysia
+Mexico
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Namibia
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Rwanda
+Saudi Arabia
+Senegal
+Serbia
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Taiwan
+Thailand
+Tunisia
+Turkey
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Uruguay
+Uzbekistan
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+Other
+Country
+FLOW-3D News
+Yes, please sign me up to receive email news.
+Privacy
+*
+I acknowledge I have read and I accept the Privacy Policy under which my Personal Data will be used by Flow Science. *
+reCAPTCHA
+Request Pricing
+If you are human, leave this field blank.
+CFD Services
+Company
+*
+First Name
+*
+Last Name
+*
+Email
+*
+Phone
+Industry
+*
+Additive Manufacturing
+Aerospace
+Automotive
+Biotech
+Coastal/Offshore
+Coating
+Consumer Products
+Electronics
+Energy
+Maritime
+Metal Casting
+Microfluidics
+Water & Environmental
+Welding
+Application
+*
+Country
+*
+United States
+Canada
+Afghanistan
+Albania
+Algeria
+Argentina
+Armenia
+Australia
+Austria
+Bahamas
+Belarus
+Belgium
+Bermuda
+Bolivia
+Bosnia and Herzegovina
+Brazil
+Bulgaria
+Cambodia
+Chile
+China
+Colombia
+Costa Rica
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Estonia
+Ethiopia
+Finland
+France
+Georgia
+Germany
+Greece
+Greenland
+Guatemala
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Japan
+Jordan
+Kazakhstan
+Kenya
+South Korea
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Libya
+Lithuania
+Luxembourg
+Macedonia
+Malaysia
+Mexico
+Monaco
+Mongolia
+Morocco
+Mozambique
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Saudi Arabia
+Serbia and Montenegro
+Singapore
+Slovakia
+Slovenia
+South Africa
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Syria
+Taiwan
+Thailand
+Tunisia
+Turkey
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Uruguay
+Uzbekistan
+Venezuela
+Vietnam
+Yemen
+Zimbabwe
+I am interested in:
+*
+Consulting
+Custom CFD Development
+Training
+FLOW-3D News
+Yes, please sign me up to receive email news.
+Privacy
+*
+I acknowledge I have read and I accept the Privacy Policy under which my Personal Data will be used by Flow Science. *
+reCAPTCHA
+Request CFD Services
+If you are human, leave this field blank.
+Request Pricing for FLOW-3D CAST
+FLOW-3D CAST Price Request
+First Name
+*
+Last Name
+*
+Company/Institution
+*
+Email
+*
+Phone
+Casting Processes
+*
+Centrifugal Casting
+Continuous Casting
+Gravity Die Casting
+High Pressure Die Casting
+Investment Casting
+Lost Foam Casting
+Low Pressure Die Casting
+Low Pressure Sand Casting
+Sand Casting
+Sand Core Making
+Tilt Pour Casting
+CAD Tools
+*
+Solidworks
+PTC Creo
+Catia
+AutoCAD
+AutoDesk Products
+Rhino
+Other
+None
+Current Metal Casting Simulation Tool
+*
+Magmasoft
+Other
+None
+Schedule a one-on-one demonstration with a metal casting simulation engineer:
+*
+Yes
+No
+Country
+*
+United States
+Canada
+Afghanistan
+Albania
+Algeria
+Argentina
+Armenia
+Australia
+Austria
+Bahrain
+Bangladesh
+Belarus
+Belgium
+Belize
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Côte d'Ivoire
+Cambodia
+Cameroon
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Cuba
+Czech Republic
+Denmark
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Eritrea
+Estonia
+Ethiopia
+Finland
+France
+Georgia
+Germany
+Ghana
+Greece
+Guatemala
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Liberia
+Libya
+Lithuania
+Luxembourg
+Macedonia
+Madagascar
+Malaysia
+Mexico
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Namibia
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Rwanda
+Saudi Arabia
+Senegal
+Serbia
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Taiwan
+Thailand
+Tunisia
+Turkey
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Uruguay
+Uzbekistan
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+Other
+Country
+FLOW-3D News
+Yes, please sign me up to receive email news.
+Privacy
+*
+I acknowledge I have read and I accept the Privacy Policy under which my Personal Data will be used by Flow Science. *
+reCAPTCHA
+Request Pricing
+If you are human, leave this field blank.
+This site uses cookies:
+Find out more.Okay, thanks

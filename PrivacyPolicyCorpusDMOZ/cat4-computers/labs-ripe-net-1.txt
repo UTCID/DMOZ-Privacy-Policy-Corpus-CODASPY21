@@ -1,0 +1,320 @@
+https://labs.ripe.net/datarepository/conditions/basic
+Manage IPs and ASNs
+We distribute Internet number resources to our members and provide tools to help them manage their allocations and assignments.
+More information about
+Manage IPs and ASNs
+IPv4
+Request /24 Allocation
+IPv4 Run-out
+How Does The IPv4 Waiting List Work?
+IPv4 Waiting List
+IPv4 Transfer Request
+IPv6
+Request IPv6
+IPv6 Info Centre
+AS Numbers
+Request an AS Number
+Reassigning Referenced AS Numbers
+RIPE Database
+Related Software and Tools
+Webupdates
+Release Notes
+Database Support
+DNS
+Reverse DNS
+DNSSEC
+LIR Portal
+Documentation for Resource Management
+Resource Public Key Infrastructure (RPKI)
+Policy Implementation Status
+Assisted Registry Check
+Resource Transfers and Mergers
+Inter-RIR Transfers
+Mergers and Acquisitions
+Required Documents
+IPv4 Transfer Listing Service
+Brokers
+Legacy Internet Resources
+FAQ: Legacy Internet Resources
+Legacy space in the RIPE Registry
+Documentation
+Contact Registration Services
+Analyse
+We collect a wide range of Internet data and provide statistics and tools that our members and the wider Internet community can use for their own operations and analyses.
+More information about
+Analyse
+Statistics
+Total Number of LIRs
+Remaining IPv4 Addresses
+IPv6 RIPEness
+Other RIPE NCC Statistics
+RIPEstat
+Internet Measurements
+RIPE Atlas
+Internet Traffic Maps
+Analyses and Use Cases
+Routing Information Service (RIS)
+IXP Country Jedi (Alpha)
+RIPE IPMap
+DNS
+DNSMON
+Reverse DNS Zonecheck
+K-root
+Raw Datasets
+RIPE Atlas Raw Data Format
+RIPE Atlas Raw Data
+RIS Raw Data
+Terms and Conditions
+Archived Projects
+RIS Tools and Web Interfaces
+TTM
+RRCC
+DISI
+IRRToolset
+Re-implementation Project
+DBConstat
+Participate
+The smooth running of the Internet depends on the involvement of those who give their input on membership and policy issues. And there are many ways to get involved, online and in person.
+More information about
+Participate
+RIPE NCC Membership
+Become a Member
+LIR Basics for Members
+RIPE NCC Access
+Billing, Payment and Fees
+Member Lunches
+RIPE NCC Surveys
+RIPE Community
+RIPE Chair
+RIPE Community Plenary
+Working Groups
+Task Forces
+NRO NC/ASO AC
+Academic Cooperation (RACI)
+RIPE Fellowship
+Rob Blokzijl Foundation
+Meetings and Events
+RIPE Meetings
+Regional Meetings
+General Meetings
+Roundtable Meetings
+Upcoming Events
+Policy Development
+Current Policy Proposals
+Policy Implementation Status
+Monthly Policy Updates
+Join a Discussion
+Membership Mailing Lists
+RIPE Mailing Lists
+RIPE Forum
+Internet Governance
+IANA Stewardship Transition
+Internet Technical Community
+Multi-stakeholder Engagement
+Internet Governance News
+Get Support
+We support members and the RIPE community through several channels to offer timely and efficient help – whether it’s a ticket, a tweet or a training course.
+More information about
+Get Support
+Contact Us
+Office Information
+RIPE NCC Report Form
+Report Technical Emergency
+Training and Education
+Training Courses
+RIPE NCC Academy
+RIPE NCC::Educa
+Webinars
+Videos
+Training Material
+Documentation
+Developer Documentation
+RIPE Database Documentation
+FAQs
+Spam, Hacking and Phishing
+RIPE Database Abuse Finder
+RIPEstat Abuse Contact Finder
+Service and Security Announcements
+Planned Maintenance - LIR Portal
+Invoices unavailable in LIR Portal
+Community Projects Fund
+Funding Recipients 2018
+Terms and Conditions
+Privacy and Confidentiality Terms
+Certified Professionals
+RIPE Database Associate Exam
+Schedule an Exam
+Important Candidate Information
+Get your Digital Badge
+Publications
+Stay informed about everything Internet-related, from RIPE Policy and RIPE NCC member information to RIPE Labs blog posts and the latest Internet news.
+More information about
+Publications
+IPv6 Info Centre
+About IPv6
+Deploy IPv6 Now
+Statistics and Tools
+Training and Materials
+Documents
+Community
+RIPE NCC Organisational Documents
+Activity Plan and Budget
+Annual Reports
+Charging Schemes
+RIPE Labs
+Contributing to RIPE Labs
+RIPE Document Store
+RIPE Documents by Number
+RIPE Documents by Category
+RIPE Policies
+News
+RSS News Feeds
+About Us
+We're a not-for-profit membership association, a Regional Internet Registry and the secretariat for the RIPE community supporting the Internet through technical coordination.
+More information about
+About Us
+What We Do
+Regional Internet Registry
+RIPE NCC Service Region
+Coordination Function
+Statistics
+Transition to IPv6
+List of RIPE NCC Services
+Staff
+RIPE NCC Staff Structure
+Careers at the RIPE NCC
+Executive Board
+Functions and Expectations
+Minutes from Executive Board Meetings
+Financial Information
+Current Charging Scheme
+Current Billing Procedure
+Press Centre
+RIPE NCC in the News
+Publications and Presentations
+Press Releases
+Press Quality Photos
+Legal
+Arbitration
+Corporate Governance
+Internet Number Resources
+Information for Law Enforcement Agencies
+Other RIPE NCC Services
+Contact
+You are here:
+Home
+>
+Publications
+>
+RIPE Labs
+>
+Data Repository
+>
+Data Access
+>
+Terms and Conditions for Data Access
+RIPE Labs
+COVID-19
+RIPE Atlas
+Tools
+Security
+RIPE Database
+Data Repository
+Network Operator Groups (NOG)
+History of Networking
+Sustainability
+About
+Terms and Conditions for Data Access
+Terms and Conditions for Data Access.
+https://labs.ripe.net/datarepository/conditions/basic
+https://labs.ripe.net/logo.png
+Terms and Conditions for Data Access
+Site Administrator
+—
+Jul 2010
+Tweet
+8 likes,
+1 dislikes
+Terms and Conditions for Data Access.
+RIPE Data Repository Terms and Conditions
+Version 1.2
+Introduction
+The RIPE Data Repository is a collection of data submitted to the RIPE NCC by various organisations or gathered through measurements conducted by the RIPE NCC.
+The RIPE NCC aims to add value for useful research by facilitating the sharing of this data with researchers and RIPE Community members and shall make the RIPE Data Repository available under these Terms and Conditions (hereafter: the "Terms and Conditions").
+Article 1 - Definitions
+In the Terms and Conditions, the following terms shall be understood to have the meanings assigned to them below:
+RIPE NCC - Réseaux IP Européens Network Coordination Centre, a membership association under Dutch law, operating from its registered office in Amsterdam, the Netherlands
+RIPE Data Repository - a collection of data submitted to the RIPE NCC by various external organisations or gathered through measurements conducted by the RIPE NCC
+Data - the data contained in the RIPE Data Repository
+Data Supplier - the organisation that has collected a set(s) of Data and has submitted it to the RIPE NCC
+User - anyone who has created an account for accessing the RIPE Data Repository
+Access - accessing the RIPE Data Repository by the User after the creation of an account
+Article 2 - General
+1. The Terms and Conditions come into effect by means of an offer and an acceptance.
+2. By checking the option "I accept the full version of the Terms and Conditions" Users confirm that that they have read, understood and agreed to these Terms and Conditions.
+3. Only after having agreed on these Terms and Conditions can a User access the RIPE Data Repository and the Data.
+4. The RIPE NCC reserves the right to amend the Terms and Conditions. The RIPE NCC shall notify Users of such amendments. Should a User not agree with the amendments or supplements, they must cancel their account immediately and delete any Data they posses in any form according to Article 6 paragraph 3.
+5. The short explanation of the Terms and Conditions posted on the Access Request Form of the RIPE Data Repository is for convenience only and shall not affect the interpretation of the present Terms and Conditions.
+Article 3 - Use of the RIPE Data Repository
+1. A User may only access the RIPE Data Repository and the Data for scientific research or research in order to support the operation of a network. Access to and use of the RIPE Data Repository and the Data for any commercial purposes, for example selling the Data or services based on the Data, is not allowed.
+2. The RIPE Data Repository and the Data may only be accessed and used by the User. The User must not re-distribute the RIPE Data Repository or the Data to anybody else.
+3. A User may not re-package, compile, re-distribute or re-use any or all of the RIPE Data Repository or the Data unless when permission to do so is granted in writing by the RIPE NCC or the Data Supplier(s) of particular set(s) of Data.
+4. A User may only access and use the RIPE Data Repository and the Data for the purposes as mentioned in Article 3 paragraph 1 hereof and provided these Terms and Conditions are followed. Any abuse of the RIPE Data Repository and the Data or any use of the RIPE Data Repository and the Data for illegal activities is not allowed. The Users are solely responsible for any ethical and legal implications pursuant to their use of the RIPE Data Repository and the Data.
+5. Individuals cannot be identified by the Data. This anonymity must be maintained by the Users. In particular the Users must not:
+Try to reveal the identity of any individuals by their own means;
+Publish or make by any means publicly available combinations of Data with other data they posses, which can lead to the identification of individuals.
+6. Any User must attribute the RIPE NCC and the Data Supplier (if different than the RIPE NCC) when they make publicly available research results generated by any use of the Data.
+7. The User must provide a valid email address to the RIPE NCC for the purposes of establishing a channel of communication between the User and the RIPE NCC regarding the RIPE Data Repository.
+8. The User must inform the RIPE NCC about their research or publicly available research results generated by the use of Data, including publications. For this purpose the RIPE NCC may periodically send reminders to Users.
+Article 4 - Control of the RIPE Data Repository
+1. The RIPE NCC is entitled to control the use of the RIPE Data Repository and to restrict any unauthorised use or to correct unauthorised alterations of the Data. For this purpose the RIPE NCC may perform security checks and audits.
+2. Users must assist the RIPE NCC with security checks and audits as appropriate.
+Article 5 - Liability
+1. Use of the RIPE Data Repository and the Data is at the User's own risk.
+2. The User shall be liable for all aspects of the use of the RIPE Data Repository and the Data.
+3. The RIPE NCC does not guarantee that the RIPE Data Repository or the Data will be available on a best effort basis and the RIPE NCC may suspend its operation without notice or liability to the User, for technical, legal, anti-abuse reasons or any other legitimate reason within the scope of managing the operations of the RIPE Data Repository.
+4. The RIPE NCC shall, in any event, not be liable for non-performance or damages due to force majeure, including but not limited to industrial action, strikes, occupations and sit-ins, blockades, embargoes, governmental measures, denial of service attacks, war, revolutions or comparable situations, power failures, defects in electronic lines of communication, fire, explosions, damage caused by water, floods and earthquakes.
+5. The RIPE NCC excludes all liability for any direct or indirect damages, including, but not limited to, damages to the User's business, loss of profit, damages to third parties, personal injury or damages to property, except in cases involving willful misconduct or gross negligence on the part of the RIPE NCC.
+6. The User shall indemnify the RIPE NCC against any and all third party claims filed against the RIPE NCC in relation to the User's use of the RIPE Data Repository or the Data.
+Article 6 - Termination
+1. Any User may terminate their account at any time.
+2. The RIPE NCC may immediately terminate the account of any User, without being liable to pay damages to them and without prejudice to the RIPE NCC's right to claim (additional) damages from them if:
+a. The User has infringed any provision of the Terms and Conditions;
+b. The User in any way acts or neglects to act such as to cause damage to the name, trademarks or intellectual property rights of the RIPE NCC or the Data Supplier;
+c. The RIPE NCC is no longer able to contact the User (for example, if the User repeatedly does not respond to emails from the RIPE NCC or if the User fails to maintain a valid email address that is known to the RIPE NCC).
+3. Any User whose account has been for any reason deleted must immediately erase all copies of the Data they possess in any form.
+Article 7 - Miscellaneous
+1. Access to particular sets of Data might only be permitted provided that additional terms and conditions are accepted by the User, along with these Terms and Conditions.
+2. The RIPE NCC's intellectual property (agreements, documents, software, databases, website, etc.) may only be used, reproduced and made available to third parties upon prior written authorisation from the RIPE NCC.
+3. Without the RIPE NCC's prior written consent, the User shall not be permitted to assign to third parties any rights or obligations that arise from the Terms and Conditions.
+4. If any provision contained in the Terms and Conditions is held to be invalid by a court of law, this shall not in any way affect the validity of the remaining provisions.
+Article 8 - Governing Law
+These Terms and Conditions shall be exclusively governed by the laws of the Netherlands. The competent court in Amsterdam shall have exclusive jurisdiction with regard to disputes arising from these Terms and Conditions.
+Share
+5 Comments
+Anonymous
+says:
+04 Jan, 2011 05:56 AM
+I require datasets of ddos attacks.Kindly provide.
+Reply
+Anonymous
+says:
+06 Jan, 2011 01:43 PM
+Dear Monika,We don't have datasets of DDoS attacks. If we receive more interest in DDoS datasets from our community and see a possibility to provide these, we could certainly look into this.
+Reply
+tony apple
+says:
+26 Oct, 2011 05:57 AM
+I need datasets to anlysis traffic identification,so how to check the option "I accept the full version of the Terms and Conditions", so that I can access the dataset?
+Reply
+Emile Aben
+says:
+26 Oct, 2011 10:06 AM
+Due to migration to our single sign-on system, we're can't currently take new users to our prototype Data service. We expect to be able to take new data-users again mid-November 2011. Apologies for any inconvenience this may cause.
+Reply
+Silvia Colabrese
+says:
+04 Jun, 2012 11:03 AM
+I need to use this dataset,is it now possible to check the option "I accept the full version of the Terms and Conditions", so that I can access the dataset?
+Reply
+Commenting has been disabled.

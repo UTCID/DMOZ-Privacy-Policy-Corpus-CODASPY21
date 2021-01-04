@@ -1,0 +1,54 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch24s03.html#websec2-CHP-24-SECT-3.2
+P3P - Web Security, Privacy & Commerce, 2nd Edition [Book]
+Skip to main content
+Sign In
+Try Now
+Teams
+Individuals
+Features
+Certifications
+Interactive learning
+Live online sessions
+What’s New
+O’Reilly for marketers
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+P3PThe World Wide Web Consortium’s Platform for Privacy
+Preferences Project (P3P) provides a standard way for web sites to
+communicate about their practices regarding the collection, use, and
+distribution of personal information. This section provides a brief
+introduction to P3P, and Figure
+24-3 illustrates the P3P process; Appendix C contains more detailed
+technical information about the protocol.Figure 24-3. How P3P worksP3P and PICSP3P is an outgrowth of the W3C’s earlier work on its web site
+rating and filtering technology, PICS (see Chapter 23). The idea behind PICS
+was that web sites would be rated regarding their content, web
+browsers would download these ratings, and parents could program
+their children’s computers so that web pages that violated the
+parent’s standards would not be displayed.The P3P system supports many of these concepts. Instead of using the formalisms of PICS to rate their adult content, web sites and online services use the formalisms of P3P to describe their policies regarding data collection and use. These descriptions can be downloaded from the web site to the browser when the web pages are viewed. If the web site’s policies do not agree with the policies identified by the user, the browser can either warn the user or disable certain functionality. For example, a web browser could be programmed to discard any cookies from a web site that claims to use ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+About O’Reilly
+Teach/write/train
+Careers
+Community partners
+Affiliate program
+Diversity
+Support
+Contact us
+Newsletters
+Privacy policy
+facebook-logo
+linkedin-logo
+youtube-logo
+Download the O’Reilly App
+Take O’Reilly online learning with you and learn anywhere, anytime on your phone and tablet.
+Get unlimited access to books, videos, and live training.
+Sync all your devices and never lose your place.
+Learn even when there’s no signal with offline access.
+Do not sell my personal information
+Exercise your consumer rights by contacting us at donotsell@oreilly.com.
+© 2020, O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
+Terms of service • Privacy policy • Editorial independence

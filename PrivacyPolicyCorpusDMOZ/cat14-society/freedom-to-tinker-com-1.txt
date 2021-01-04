@@ -1,0 +1,242 @@
+https://freedom-to-tinker.com/tag/cybersecurity-policy/
+December 11, 2020
+Posts
+Comments
+Freedom to TinkerResearch and expert commentary on digital technologies in public life
+Security against Election Hacking – Part 2: Cyberoffense is not the best cyberdefense!
+August 18, 2016
+by Andrew Appel State and county election officials across the country employ thousands of computers in election administration, most of them are connected (from time to time) to the internet (or exchange data cartridges with machines that are connected).  In my previous post I explained how we must audit elections independently of the computers, so we can trust the results even if the computers are hacked.
+Still, if state and county election computers were hacked, it would be an enormous headache and it would certainly cast a shadow on the legitimacy of the election.  So, should the DHS designate election computers as “critical cyber infrastructure?”
+This question betrays a fundamental misunderstanding of how computer security really works.  You as an individual buy your computers and operating systems from reputable vendors (Apple, Microsoft, IBM, Google/Samsung, HP, Dell, etc.).  Businesses and banks (and the Democratic National Committee, and the Republican National Committee) buy their computers and software from the same vendors.  Your security, and the security of all the businesses you deal with, is improved when these hardware and software vendors build products without security bugs in them.   Election administrators use computers that run Windows (or MacOS, or Linux) bought from the same vendors.
+Parts of the U.S. government, particularly inside the NSA, have “cyberdefense” teams that analyze widely used software for security vulnerabilities.  The best thing they could do to enhance our security is notify the vendors immediately about vulnerabilities, so the vendors can fix the bugs (and learn their lessons).   Unfortunately, the NSA also has “cyberoffense” teams that like to save up these vulnerabilities, keep them secret, and use them as weak points to break into their adversaries’ computers.  They think they’re so smart that the Russkies, or the Chinese, will never be able to figure out the same vulnerabilities and use them to break into the computers of American businesses, individuals, the DNC or RNC, or American election administrators.  There’s even an acronym for this fallacy: NOBUS.  “NObody But US” will be able to figure out this attack.
+Vulnerability lists accumulated by the NSA and DHS probably don’t include a lot of vote-counting software: those lists (probably) focus on widely used operating systems, office and word-processing, network routers, phone apps, and so on.  But vote-counting software typically runs on widely used operating systems, uses PDF-handling software for ballot printing, network routers for vote aggregation.  Improvements in these components would improve election security.
+So, the “cyberdefense” experts in the U.S. Government could improve everyone’s security, including election administrators, by promptly warning Microsoft, Apple, IBM, and so on about security bugs.  But their hands are often tied by the “cyberoffense” hackers who want to keep the bugs secret—and unfixed.  For years, independent cybersecurity experts have advocated that the NSA’s cyberdefense and cyberoffense teams be split up into two separate organizations, so that the offense hackers can’t deliberately keep us all insecure.   Unfortunately, in February 2016 the NSA did just the opposite: it merged its offense and defense teams together.
+Some in the government talk as if “national cyberdefense” is some kind of “national guard” that they can send in to protect a selected set of computers.  But it doesn’t work that way.  Our computers are secure because of the software we purchase and install; we can choose vendors such as Apple, IBM, Microsoft, HP, or others based on their track record or based on their use of open-source software that we can inspect.  The DHS’s cybersecurity squad is not really in that process, except as they help the vendors improve the security of their products.  (See also:  “The vulnerabilities equities process.”)
+Yes, it’s certainly helpful that the Secretary of Homeland Security has offered “assistance in helping state officials manage risks to voting systems in each state’s jurisdiction.”  But it’s too close to the election to be fiddling with the election software—election officials (understandably) don’t want to break anything.
+But really we should ask: Should the FBI and the NSA be hacking us or defending us?  To defend us, they must stop hoarding secret vulnerabilities, and instead get those bugs fixed by the vendors.
+Filed Under: Privacy & Security Tagged With: cybersecurity policy, Voting, voting securityElection security as a national security issue
+August 3, 2016
+by Dan Wallach We recently learned that Russian state actors may have been responsible for the DNC emails recently leaked to Wikileaks. Earlier this spring, once they became aware of the hack, the DNC hired Crowdstrike, an incident response firm. The New York Times reports:
+Preliminary conclusions were discussed last week at a weekly cyberintelligence meeting for senior officials. The Crowdstrike report, supported by several other firms that have examined the same bits of code and telltale “metadata” left on documents that were released before WikiLeaks’ publication of the larger trove, concludes that the Federal Security Service, known as the F.S.B., entered the committee’s networks last summer.
+President Obama added that “on a regular basis, [the Russians] try to influence elections in Europe.” For the sake of this blog piece, and it’s not really a stretch, let’s take it as a given that foreign nation-state actors including Russia have a large interest in the outcome of U.S. elections and are willing to take all sorts of unseemly steps to influence what happens here. Let’s take it as a given that this is undesirable and talk about how we might stop it.
+It’s bad enough to see foreign actors leaking emails with partisan intent. To make matters worse,  Bruce Schneier in a Washington Post op-ed and many other security experts in the past have been worried about our voting systems themselves being hacked. How bad could this get? Several companies are now offering Internet-based voting systems alongside apparently unfounded claims as to their security. In one example, Washington D.C. looked at using one such system for its local elections and had a “pilot” in 2010, wherein the University of Michigan’s Alex Halderman and his students found and exploited significant security vulnerabilities. Had this system been used in a real election, any foreign nation-state actor could have done the same. Luckily, these systems aren’t widely used.
+How vulnerable are our nation’s election systems, as they’ll be used this November 2016, to being manipulated by foreign nation-state actors? The answer depends on how close the election will be. Consider Bush v. Gore in 2000. If an attacker, knowing it would be a very close election, had found a way to specifically manipulate the outcome in Florida, then their attack could well have had a decisive impact. Of course, predicting election outcomes is as much an art as a science, so an attacker would need to hedge their bets and go after the voting systems in multiple “battleground” states. Conversely, there’s no point in going after highly polarized states, where small changes will have no decisive impact. As an attacker, you want to leave a minimal footprint.
+How good are we at defending ourselves? Will cyber attacks on current voting systems leave evidence that can be detected prior to our elections? Let’s consider the possible attacks and how our defenses might respond.
+Voter de-registration: The purpose of a many attacks is simply to break things. Applied with partisan intent, you’d want to break things for one party more than the other. The easiest attack would be to hack a voter registration system, deleting voters who you believe are likely to support the candidate you don’t like. For voters who have registered for a political party, you know everything you need to know for who to delete. For independent voters you can probabilistically infer a their political opinions based on how their local precinct votes and on other demographic variables. (Political scientists do this sort of thing all the time.) Selectively destroying voter registration databases is likely to be recoverable. Such voters could demand to vote “provisional ballots” and those ballots would get counted as normal, once the voter registration databases were restored.
+Vote flipping: A nastier attack would require an attacker to access the computers inside DRE voting systems. (“Direct recording electronic” systems are typically touch-screen computers with no voter-verifiable paper trail. The only record of a voter’s ballot is stored electronically, inside the computer.) These voting systems are typically not connected to the Internet, although they do connect to election management computers, and those sometimes use modems to gather data from remote precincts. (Details vary from state to state and even county to county.) From the perspective of a nation-state cyber attacker, a modem might as well be a direct connection to the Internet. Once you can get malware into one of these election management computers, you can delete or flip votes. If you’re especially clever, you can use the occasional connections from these election management computers to the voting machines and corrupt the voting machines themselves. (We showed how to do these sort of viral attacks as part of the California Top to Bottom Review in 2007.)
+With paperless DRE systems, attacked by a competent nation-state actor, there will be no reason to believe any of the electronic records are intact, and a competent attacker would presumably also be good enough to clean up on their way out, so there wouldn’t necessarily even be any evidence of the attack.
+The good news is that paperless DRE systems are losing market share and being replaced slowly-but-surely with several varieties of paper-ballot systems (some hand-marked and electronically scanned, others machine-marked). A foreign nation-state adversary can’t reach across the Internet and change what’s printed on a piece of paper, which means that a post-election auditing strategy to compare the electronic results to the paper results can efficiently detect (and thus deter) electronic tampering.
+Where would an adversary attack? The most bang-for-the-buck for a foreign nation-state bent on corrupting our election would be to find a way to tamper with paperless DRE voting systems in a battleground state. So where then? Check out the NYT’s interactive “paths to the White House” page, wherein you can play “what-if” games on which states might have what impact in the Electoral College. The top battleground state is Florida, but thanks in part to the disastrous 2006 election in Florida’s 13th Congressional district, Florida dumped its DRE voting systems for optically scanned paper ballots; it would be much harder for an adversarial cyber attack to go undetected. What about other battleground states? Following the data in the Verified Voting website, Pennsylvania continues to use paperless DREs as does Georgia. Much of Ohio uses DRE systems with “toilet paper roll” printers, where voters are largely unable to detect if anything is printed incorrectly, so we’ll lump them in with the paperless states. North Carolina uses a mix of technologies, some of which are more vulnerable than others. So let’s say the Russians want to rig the election for Trump. If they could guarantee a Trump win in Pennsylvania, Georgia, Ohio, and North Carolina, then a Florida victory could put Trump over the top. Even without conspiracy theories, Florida will still be an intensely fought battleground state, but we don’t need a foreign government making it any worse.
+So what should these sensitive states do in the short term? At this point, it’s far too late to require non-trivial changes in election technologies or even most procedures. They’re committed to what they’ve got and how they’ll use it. We could imagine requiring some essential improvements (security patches and updates installed, intrusion detection and monitoring equipment installed, etc.) and even some sophisticated analyses (e.g., pulling voting machines off the line and conducting detailed / destructive analyses of their internal state, going beyond the weak tamper-protection mechanisms presently in place). Despite all of this, we could well end up in a scenario where we conclude that we have unreliable or tampered election data and cannot use it to produce a meaningful vote tally.
+Consider also that all an adversary needs to do is raise enough doubt that the loser has seemingly legitimate grounds to dispute the result. Trump is already suggesting that this November’s election might be rigged, without any particular evidence to support this conjecture. This makes it all the more essential that we have procedures that all parties can agree to for recounts, for audits, and for what to do when those indicate discrepancies.
+In case of emergency, break glass. If we’re facing a situation where we see tampering on a massive scale, we could end up in a crisis far worse than Florida after the Bush/Gore election of 2000. If we do nothing until after we find problems, every proposed solution will be tinted with its partisan impact, making it difficult to reach any sort of procedural consensus. Nobody wants to imagine a case where our electronic voting systems have been utterly compromised, but if we establish processes and procedures, in advance, for dealing with these contingencies, such as commissioning paper ballots and rerunning the elections in impacted areas, we will disincentivize foreign election adversaries and preserve the integrity of our democracy.
+(Addendum: contingency planning was exactly the topic of discussion after Hurricane Sandy disrupted elections across the Northeast in November 2012. It would be useful to revisit whatever changes were made then, in light of the new threat landscape we have today.)
+Related reading:
+David Dill on why online voting is a bad idea.
+David Jefferson on why online voting is a bad idea, and why voting security is a national security issue.
+The Boston Globe covered this story with quotes from Barbara Simons and Ron Rivest.
+The Christian Science Monitor ran an op-ed by Jason Healey, suggesting many possible responses, including hacking back at the Russians, and another op-ed by Scott Shackelford, discussing cybersecurity “codes of conduct” and the need to treat voting equipment as “critical infrastructure”.
+Filed Under: Privacy & Security Tagged With: cybersecurity policy, e-voting, Internet voting, russia, russia, VotingBrexit Exposes Old and Deepening Data Divide between EU and UK
+July 25, 2016
+by Axel Arnbak After the Brexit vote, politicians, businesses and citizens are all wondering what’s next. In general, legal uncertainty permeates Brexit, but in the world of bits and bytes, Brussels and London have in fact been on a collision course at least since the 90s. The new British prime minister, Theresa May, has been personally responsible for a deepening divide across the North Sea on data and communication policy. Although EU citizens will see stronger privacy and cybersecurity protections through EU law post-Brexit, multinational companies should be particularly worried about how future regulation will treat the loads of data they traffic about customers, employees, and deals between the EU and the UK.  [Read more…]
+Filed Under: Privacy & Security Tagged With: cybersecurity policy, EU, Law, Privacy, surveillance, surveillanceNext Page » Freedom to Tinker is hosted by Princeton's Center for Information Technology Policy, a research center that studies digital technologies in public life. Here you'll find comment and analysis from the digital frontier, written by the Center's faculty, students, and friends.
+What We Discuss
+AACS
+bitcoin
+CD Copy Protection
+censorship
+CITP
+Competition
+Copyright
+Cross-Border Issues
+cybersecurity policy
+DMCA
+DRM
+Education
+Events
+Facebook
+FCC
+Government
+Government transparency
+Grokster Case
+Humor
+Innovation Policy
+Law
+Managing the Internet
+Media
+Misleading Terms
+NSA
+Online Communities
+Patents
+Peer-to-Peer
+Predictions
+Princeton
+Privacy
+Publishing
+Recommended Reading
+Secrecy
+Security
+Spam
+Super-DMCA
+surveillance
+Tech/Law/Policy Blogs
+Technology and Freedom
+transparency
+Virtual Worlds
+Voting
+Wiretapping
+WPM
+Contributors
+Select Author...
+Aleecia M. McDonald
+Alex Halderman and Nadia Heninger
+Alex Migicovsky
+Andrew Appel
+Angelina Wang
+Annemarie Bridy
+Annette Zimmermann
+Annie Edmundson
+Arunesh Mathur
+Arvind Narayanan
+Axel Arnbak
+Aylin Caliskan-Islam
+Bart Huffman
+Barton Gellman
+Bendert Zevenbergen
+Bill Zeller
+Blake Reid
+Brett Frischmann
+Bryan Ford
+Dan Wallach
+Daniel Howe
+Dave Levine
+David Lukens
+David Robinson
+Diego Vicentin
+Dillon Reisman
+Ed Felten
+Elena Lucherini
+Eric Smith and Nina Kollars
+Ethan Heilman
+Gary McGraw
+Gina Neff
+Grayson Barber
+Gunes Acar
+Harlan Yu
+Harry Kalodner
+Hooman Mohajeri Moghaddam
+Ian Davey
+Ian Lundberg
+J. Alex Halderman
+James Grimmelmann
+Jared Ho
+Jasmine Peled
+Joanna Bryson
+JD Lasica
+Jeffrey Tignor
+Jennifer Rexford
+Jeremy Epstein
+Jerry Brito
+Jessica Su
+Joe Calandrino
+Joel Reidenberg
+Jon Penney
+Jonathan Mayer
+Joseph Bonneau
+Joseph Lorenzo Hall
+Joshua Goldstein
+Joshua Kroll
+Julia Stoyanovich
+Karen Eltis
+Katherine Haenschen
+Kelvin Chen
+Kenny Peng
+Kevin Lee
+Laura Cummings-Abdo
+Leonid Reyzin
+Liza Paudel
+Luis Villa
+Lukasz Olejnik
+Madelyn R Sanfilippo
+Marcela Melara
+Mark Hass
+Marshini Chetty
+Matheus Ferreira
+Matthew Salganik
+Mihir Kshirsagar
+Mike Freedman
+Miles Carlsten
+Mitch Golden
+Nadia Heninger
+Nathan Matias
+Nick Feamster
+Nicky Robinson
+Paul Ellenbogen
+Paul Ohm
+Paulina Borsook
+Pete Zimmerman
+Philip N. Howard
+Philipp Winter
+pmittal
+Priya Kumar
+Rebecca MacKinnon
+Ron Hedges
+Ronaldo Lemos
+Sam Ransbotham
+SG
+Stephen Schultze
+Steve Roosa
+Steven Englehardt
+Steven Goldfeder
+Suman Jana
+Tiffany Li
+Timothy B. Lee
+Vanessa Teague and J. Alex Halderman
+Vitaly Shmatikov
+Wendy Seltzer
+Will Clarkson
+Yan Shvartzshnaider
+Yoshi Kohno
+Yusuf Dahl
+Zeynep Tufekci
+Archives by Month
+2020:
+J F M A M J J A S O N D
+2019:
+J F M A M J J A S O N D
+2018:
+J F M A M J J A S O N D
+2017:
+J F M A M J J A S O N D
+2016:
+J F M A M J J A S O N D
+2015:
+J F M A M J J A S O N D
+2014:
+J F M A M J J A S O N D
+2013:
+J F M A M J J A S O N D
+2012:
+J F M A M J J A S O N D
+2011:
+J F M A M J J A S O N D
+2010:
+J F M A M J J A S O N D
+2009:
+J F M A M J J A S O N D
+2008:
+J F M A M J J A S O N D
+2007:
+J F M A M J J A S O N D
+2006:
+J F M A M J J A S O N D
+2005:
+J F M A M J J A S O N D
+2004:
+J F M A M J J A S O N D
+2003:
+J F M A M J J A S O N D
+2002:
+J F M A M J J A S O N D
+author log in
+Return to top of pageCopyright © 2020 ·Education Theme on Genesis Framework · WordPress · Log in

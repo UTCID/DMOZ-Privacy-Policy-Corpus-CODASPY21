@@ -1,0 +1,177 @@
+http://www.videocommerce.com/cookie-policy/
+COOKIE NOTICE
+LAST UPDATED: July 10, 2019
+Cookie Notice explains how and why Liveclicker (collectively “Liveclicker”, “we“, “us“, and “ours“) uses cookies and similar technologies to recognise you, as well as track and analyse your actions when you visit our websites at www.liveclicker.com, www.thefutureofemail.com, www.videocommerce.com, and any other sites that link to this Cookie Policy (“Websites“). We also provide information related to how and why those same technologies are applied to tracking and analysing logged-in users of our software application (“Services”) and recipients of emails sent through our Services by users of our Services.
+Information about what these technologies are and why we use them, as well as your rights to control our use of them, can be found below.
+What are cookies?
+Cookies are small data files that are placed on your computer or mobile device when you visit a website.
+Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information.
+We refer to cookies created by us as “first party cookies”.
+We refer to cookies that we set on our website but that are created by parties other than us as “third party cookies”.
+Third party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, interactive content and analytics).
+The parties that provide these third party cookies can recognise your computer both when it visits the website in question and also when it visits certain other websites.
+In addition to the party which sets the cookie, the duration of the cookie’s retention in your browser can help define its purpose. Session cookies are cookies which are stored on your device for the duration of the browser session. When you close your browser, the session cookies are cleared. Persistent cookies are stored either until you manually delete them or until your browser deletes them based on the duration set within the persistent cookie file.
+Why we use cookies
+We use both first and third party cookies for several reasons. First, let’s look at the broad categories of first and third party cookies in use on our sites:
+Essential website cookies: These cookies are strictly necessary to provide you with services available through our Websites and to use some of its features, such as access to secure areas. Refusal of these cookies may impact website functionality.
+Performance and functionality cookies: These cookies are used to enhance the performance and functionality of our Websites but are non-essential to their use.
+However, without these cookies, certain functionality may become unavailable.
+Analytics and customisation cookies: These cookies collect information that is used either in aggregate form to help us understand how our Websites are being used or how effective are marketing campaigns are, or to help us customise our Websites for you.
+Advertising cookies: These cookies are used to make advertising messages more relevant to you.
+They perform functions like preventing the same ad from continuously re-appearing, ensuring that ads are properly displayed for advertisers, and in some cases selecting advertisements that are based on your interests.
+Social networking cookies: These cookies are used to enable you to share pages and content that you find interesting on our Websites through third party social networking and other websites.
+These cookies may also be used for advertising purposes too.
+The information collected and stored by cookies and other tracking technologies likely meets the GDPR’s definition of personal data. The GDPR defines ‘personal data’ as “any information relating to an identified or identifiable natural person”. Personal data collected by the cookies and related technologies described below would include your location, information about your browsing behavior on this or other sites, and information you provide via forms or single fields on this site. This personal data will be used only in the manners described by this notice and our Privacy Notice.
+FIRST PARTY COOKIES
+Cookie Name
+Cookie Type
+Subject
+Purpose
+Retention Policy
+CM-Init-Visit
+Performance/Functionality
+campaign monitor.com site visitor
+Detects and stores very first visit to the site, allowing first touch actions to occur on some pages
+1 year
+CM-PTB-Visit
+Performance/Functionality
+campaign monitor.com site visitor
+Detects and stores first visit to PTB page, recording a view and close action of the exit intent box
+1 year
+CM-comm
+Performance/Functionality
+campaign monitor.com site visitor
+4 sets of data for the Help docs section covering the page they came from before the first touch to the help docs, the date of the first touch, the last touch page and the last search term
+1 year
+CM-currency (string)
+Performance/Functionality
+campaign monitor.com site visitor
+Detecting currency, stored and passed along through the signup form to provide consistent currency to be displayed throughout the experience with CM
+1 year
+CM-location-abbr (string)
+Performance/Functionality
+campaign monitor.com site visitor
+Location data used for various personalisation around the site
+1 year
+CM-location-city (string), CM-location-country (string), country name
+CM-location-set (string) , Region name (year long store),
+CM-location-check (string), Region name (7 day store),
+CM-location-state
+(string),
+CM-location-timezone
+(string), Timezone
+CM-location-zip (string), Postcode/Zip code
+Performance/Functionality
+campaign monitor.com site visitor
+Data used to locate a site visitor
+1 year
+CM-location-dv5 (encoded string)
+Performance/Functionality
+campaign monitor.com site visitor
+To display pricing based on region
+1 year
+_cdeTrData
+Analytics
+campaign monitor.com site visitor
+This data helps us analyze site traffic to better optimize performance.
+1 year
+CM-location-eu and CM-location-gdpr
+Essential
+campaign monitor.com site visitor
+To determine whether user is in the EU or not and whether user requires GDPR compliance
+1 year
+CM-location-status
+Essential
+campaign monitor.com site visitor
+Whether a location was able to be determined
+1 year
+cookie-accept
+Essential
+campaign monitor.com site visitor
+Flag of whether a user has given consent or not. Value is set to ‘implied’ for non-EU users
+1 year
+apex__payload
+Performance/Functionality
+campaign monitor.com site visitor
+To provide support contact details relevant to a Campaign Monitor account, and account details when submitting a support request
+30 days
+THIRD PARTY COOKIES
+Cookie Name
+Cookie Type
+Subject
+Purpose
+Retention Policy
+Google Analytics (Google Inc.) opt out
+Analytics
+liveclicker.com site visitor
+Google Analytics cookies help us measure and evaluate our site’s performance by providing insights into site visitor behavior and actions.
+1 year
+AdWords Remarketing (Google Inc.) opt out
+Advertising
+liveclicker.com site visitor
+AdWords is used to display targeted, more personal ads.
+1 year
+Display Advertising extension for Google Analytics (Google Inc.) opt out
+Advertising
+liveclicker.com site visitor
+This extension of Google Analytics is used to display targeted, more personal ads.
+1 year
+Google AdWords conversion tracking (Google Inc.)
+Analytics
+liveclicker.com site visitor
+Google AdWords conversion tracking is an analytics and advertising service provided by Google Inc. that connects data from the Google AdWords advertising network with actions performed on the Sites.
+1 year
+Google Tag Manager (Google Inc.)
+Analytics
+liveclicker.com site visitor
+Google Tag Manager is an analytics service provided by Google Inc.
+1 year
+Marketo
+Performance
+liveclicker.com site visitor
+To contact you for the purpose specified on the form
+14 months
+WordPress (WordPress Inc.)
+Essential/Functionality
+liveclicker.com site visitor
+For logged in users and commenters to the Liveclicker blog at www.liveclicker.com/blog/
+1 year
+UserIQ (UserIQ, Inc.)
+Analytics
+Services User
+Analytics for logged in users of the RealTime Email service at app.realtime.email.
+1 year
+Twitter
+Advertising
+liveclicker.com site visitor
+Social media companies may place cookies on your computer when you use their services on our Sites.
+1 year
+Google
+Advertising
+liveclicker.com site visitor
+1 year
+LinkedIn
+Advertising
+liveclicker.com site visitor
+1 year
+Facebook
+Advertising
+liveclicker.com site visitor
+1 year
+How to control the use of cookies
+Electronic devices and software applications on these devices may offer you tools to opt out of or block advertisements on the device or in specific applications. Consult the help documentation and settings specific to your devices and applications to learn more about your options. You have the right to decide whether to accept or reject cookies. You can withdraw your consent at any time for any cookies or other tracking technologies used by Liveclicker by deleting them from your device. Should you choose to remove or block cookies, some website functionality may become unavailable or unreliable.
+In addition, most advertising networks offer you a way to opt out of targeted advertising.
+If you would like to find out more information, please visit http://www.aboutads.info/choices/ or http://www.youronlinechoices.com.
+Other Tracking Technologies
+Other than the cookies listed above, we have also implemented the following tracking technologies within certain parts of our Websites and Services.
+Page tags and web beacons. These technologies are used for the purposes of tracking visitors as they navigate our Websites to better understand Website performance, and to measure the performance of online advertising. Recipients of emails sent by our customers which utilize our RealTime Email services are also tracked using this technology. For example, web beacons collect data like your IP address and device attributes for the purpose of personalizing emails sent by our customers. More information can be found in our Privacy Notice.
+Local and session storage. Our website uses local and session storage to temporarily store information to improve user experience while interacting with the website.
+This Privacy Notice also contains specific information about the rights of data subjects residing in the EEA and how to exercise them.
+Updates to this Cookie Notice
+Liveclicker will periodically make amendments to this notice, as necessitated by changes to our use of cookies and the legal requirements for notice of these uses. Please continue to check this notice regularly to stay aware of these changes and how they affect your continued use of our websites.
+The date at the top of this Cookie Notice indicates when it was last updated.
+Questions?
+If you have any questions about our use of cookies or other technologies, please email us at privacy@liveclicker.com.
+Modal Title
+Okay
+This site uses cookies to improve your user experience. By using this site, you are consenting to our use of cookies. Learn More.Okay, thanks

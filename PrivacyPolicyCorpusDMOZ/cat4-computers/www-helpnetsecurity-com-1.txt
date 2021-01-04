@@ -1,0 +1,42 @@
+https://www.helpnetsecurity.com/2019/10/30/overcome-patching-challenges/
+searchtwitterarrow rightmail strokearrow leftmail solidfacebooklinkedinplusangle upmagazine plus
+Majority of 2019 breaches were the result of unapplied security patches
+Optimizing the patch management process
+Researchers create system that predicts vulnerability severity from tweets
+40% of COVID-19 contact tracing apps lack basic protections
+Engineers design transistor that disguises key computer chip hardware from hackers
+Most IT decision makers don’t trust data, but 54% still use it to make decisions
+How do I select cyber insurance for my business?
+Phishers bypass Microsoft 365 security controls by spoofing Microsoft.com
+The cybersecurity threatscape in the UK is extremely complex and sophisticated. It is no longer a question of whether a cyberattack will occur, but when; according to a recent Beaming report, UK businesses faced cyberattacks every 50 seconds in the second quarter of 2019.
+Meanwhile, the Chief of the Defence Staff of the British Army recently stated the country is “at war every day” due to external cyber threats. Interestingly, analyst firm Gartner predicts that, through 2020, 99% of vulnerabilities exploited will continue to be the ones known by security and IT professionals. It’s not difficult to see why patching is a primary focus for UK organisations.
+Unfortunately, as CISOs are well aware, patching continues to be a thorn in the side of many organisations, even if they have purchased patch tools. Deploying the patch isn’t the root of the issue, it’s the myriad of other factors that must be considered: performance impacts caused by the patch, different versions of software, the impact on related applications, accurate views of what truly needs to be patched, approvals and notifications, and change windows – not to mention post-patching verifications to ensure the patch doesn’t inadvertently take down business-critical systems. And then there is all of the associated documentation and tracking required for governance. All of these aspects contribute to making patch management a seemingly insurmountable challenge.
+Consequently, more and more businesses are looking to automate patching. This is because implementing automation can enhance security, facilitate compliance, achieve maximum uptime and service delivery and, last but not least, alleviate IT teams’ patch-induced challenges.
+To patch or not to patch
+With today’s complex and often siloed IT environments, patching one specific vulnerability may introduce another – or accidentally cause outages or performance issues. This intrinsic complexity is what causes many businesses to delay or skip patching altogether. On the other hand, with cyberattacks on UK businesses increasing by 40% from last year and costing organisations over £200k, not patching would be foolish to say the least.
+Neglecting patching is a definite security faux pas for many reasons. Foremost, the importance of data privacy in today’s commercial environment is not to be underestimated. If there is anything we will remember about this time in our technological development’s history, it’s the huge focus on what organisations do with people’s information.
+Data privacy laws such as the GDPR have had a significant impact on business do’s and don’ts. Companies that experience security breaches which expose employee or customer data can incur substantial fines. A robust and effective patching strategy contributes to making a company compliant to such data privacy regulations – and ultimately a good corporate citizen that wants to do right by their customers regardless of regulations.
+Given recent high-profile breaches, it’s obvious that cyberattacks pose a much higher risk when an organisation fails to patch its systems regularly. As patching is non-negotiable, businesses need new solutions like automation to facilitate this arduous activity.
+Patching is about risky decisions
+Part of the reason why patching is such a torment for CISOs and IT teams is that it revolves around risky decisions. Patching means things can break, not patching means being exposed to security breaches. Then, there’s the decision of which patches to deploy. And, of course, the patch can suffer an installation failure or cause service disruption. So much can go wrong.
+Luckily, there is an easy way out. Automation can take the pressure off IT teams by taking over the difficult decisions. An automated patching solution can automatically investigate which patches are most appropriate for each system, cross-reference previous successful patches, give the go-ahead to a full patch management process, and automate post-patch verification and testing. Minimising manual steps helps reduce the chance of human error and ensure effective patch deployment.
+Patching takes time
+Another tricky aspect of patching is that it’s incredibly time consuming – its never-ending cycles require end-to-end orchestration and thorough system monitoring. The number of man-hours dedicated to select, deploy and verify patches is staggering – it can sometimes take months to install a required patch throughout an environment. The multi-step nature of patching creates delays as IT staff try to patch thousands of vulnerable servers, having to perform specific steps manually each and every time.
+This is exactly why the automation route is so appealing. As well as speeding up decision-making, automation enables simultaneous patches to be applied across multiple vulnerabilities in a controlled manner, dramatically accelerating these operations and eliminating the risk of failure.
+Allowing an automated solution to orchestrate tedious patch-related tasks also means freeing up staff to concentrate on more high-value, strategic jobs, empowering IT leaders to make critical decisions for business innovation and growth, rather than focusing solely on keeping the lights on.
+Another inescapable reality of patching, which makes it an even lengthier affair, is that it requires post-patch tests and verifications. Once a patch has been deployed, installation failures can occur, leading to services being interrupted or entirely new problems arising. Patches can introduce instability and negatively impact the performance of dependent applications.
+Automation can take over the entire patching process, including the verification phase. The right solution can automatically perform health checks, identify and log issues and quickly resolve problems pre- and post-patching. It also automates the time-consuming documentation of change management procedures that IT professionals dread, but that are critical for governance and compliance. This relieves IT teams of post-patching anxiety, allowing them to move on to the next pressing task.
+Successful, effective patching is all about finding that sweet spot between human judgement and automation. While some of the most crucial phases of the patching process can benefit from human oversight, automation can streamline and execute all of the steps in between, taking a process from days to minutes.
+Businesses that embrace automation for patching are sure to improve their security posture and their compliance with regulations, not to mention recognising significant gains in operational efficiency and resource allocation.
+More about
+automation
+CISO
+cybersecurity
+patching
+Resolve Systems
+strategy
+Share this
+2021 predictions: The rise of cyber resilience
+Phishers bypass Microsoft 365 security controls by spoofing Microsoft.com
+Don't miss
+×

@@ -1,0 +1,85 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch04s03.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+What Cryptography Can’t DoCryptography is an incredibly powerful technology for
+protecting information, but it is only one of many technologies that
+play a role in web security and commerce. Unfortunately, cryptography
+plays such an important role that many people assume that any computer
+system is automatically secure, and that any system that does not use
+encryption can’t be made secure. As a matter of fact, the phrase
+secure web server is often used interchangeably
+with the phrase cryptographically enabled web
+server.Encryption isn’t all-powerful. You can use the best cryptography
+that’s theoretically possible, but if other mistakes are made in
+either systems design or data handling, confidential information may
+still be revealed. For example, a document might be encrypted so that
+it could only be decoded by one person, but if that person prints out
+a document and then throws it out without first shredding the paper,
+the secrets that the document contains could still end up on the front
+page of the local newspaper.Likewise, cryptography isn’t an appropriate solution for many
+problems, including the following:Cryptography can’t protect your unencrypted documentsEven if you set up your web server so that it only sends
+files to people using 1024-bit SSL, remember that the
+unencrypted originals still reside on your web server. Unless
+you separately encrypt them, those files are vulnerable.
+Somebody breaking into the computer on which your server is
+located will have access to the data.Cryptography can’t protect against stolen encryption
+keysThe whole point of using encryption is to make it possible
+for people who have your encryption keys to decrypt your files
+or messages. Thus, any attacker who can steal or purchase your
+keys can decrypt your files and messages. That’s important to
+remember when using SSL, because SSL keeps copies of the
+server’s secret key on the computer’s hard disk. (Normally it’s
+encrypted, but it doesn’t have to be.)Cryptography can’t protect against most denial-of-service
+attacksCryptographic protocols such as SSL are great for
+protecting information from eavesdropping. Unfortunately,
+attackers can have goals other than eavesdropping. In banking
+and related fields, an attacker can cause great amounts of
+damage and lost funds by simply disrupting your communications
+or deleting your encrypted files. Although there has been some
+research on techniques by which cryptography can guard against
+some specific denial-of-service attacks (such as client puzzles
+and SYN hash cookies), the results of this research are not
+generally applicable.Cryptography can’t protect you against records of message traffic or the fact that a message was sent[62] Suppose you send an encrypted message to Blake
+Johnson, and Blake murders your lover’s spouse, and then Blake
+sends you an encrypted message back. A reasonable person might
+suspect that you have some involvement in the murder, even if
+that person can’t read the contents of your messages. Or suppose
+there is a record of your sending large, encrypted messages from
+work to your company’s competitor. If there is a mysterious
+deposit to your bank account two days after each transmission,
+an investigator is likely to draw some conclusions from this
+behavior.Cryptography can’t protect against a booby-trapped
+encryption programSomeone can modify your encryption program to make it
+worse than worthless. For example, an attacker could modify your
+copy of Netscape Navigator so that it always uses the same
+encryption key. (This is one of the attacks that was developed
+at the University of California at Berkeley.)Unless you write or inspect all of the programs that
+run on your computer, there is no way to completely
+eliminate these possibilities.[63] They exist whether you are using encryption or
+not. However, you can minimize the risks by getting your
+cryptographic programs through trusted channels and
+minimizing the opportunity for your program to be modified.
+You can also use digital signatures and techniques such as
+code signing to detect changes to your encryption
+programs.Cryptography can’t protect you against a traitor or a
+mistakHumans are the weakest link in your system. Your
+cryptography system can’t protect you if your correspondent is
+sending your messages to the newspapers after legitimately
+decrypting them. Your system also may not protect against one of
+your system administrators being tricked into revealing a
+password by a phone call purporting to be from the FBI.Cryptography can’t protect you against a passerbyIf you leave your computer unlocked when you go to the
+bathroom or to get a cup of coffee, somebody can use your
+computer and do things with your private keys.Thus, while cryptography is an important element of web
+security, it is not the only part. Cryptography can’t guarantee the
+security of your computer if people can break into it through other
+means. But cryptography will shield your data, which should help to
+minimize the impact of a penetration if it does occur.[62] In cryptanalysis, the study of such information is
+called traffic analysis.[63] And unless you are a stellar programmer, writing
+the programs yourself may put you at even greater risk
+from bugs and design errors.
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

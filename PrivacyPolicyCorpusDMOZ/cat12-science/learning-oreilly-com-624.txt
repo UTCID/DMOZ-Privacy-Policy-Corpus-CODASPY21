@@ -1,0 +1,30 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch25.html#websec2-CHP-25-SECT-1.3.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 25. Digital PaymentsDigital payment systems are a way to give somebody money without
+simultaneously giving them gold, coins, paper, or any other tangible
+item. It’s the transfer of value without the simultaneous transfer of
+physical objects. It’s the ability to make a payment in bits rather than
+atoms. Digital payments are not a new idea; Western Union devised
+systems for wiring money by telegraph in the 19th century.[209] Banks have extensively used interbank funds transfers, and
+consumers have had access to automatic teller machines (ATMs) since the
+1960s. Charge cards have been around in some form or another for almost
+90 years.Today credit cards are the most popular way of paying for services
+or merchandise ordered over the Web, and they are likely to remain the
+most popular system for quite some time. For that reason, we’ll start
+this chapter with a look at the history of credit cards and see how they
+are processed. Then we’ll look at some of the new digital payment
+systems developed for the Internet and explore why most of them have
+failed.Charga-Plates, Diners Club, and Credit Cards The Oxford English Dictionary lists
+more than 20 definitions for the word credit.
+Credit is belief, faith, and trust. Credit is trustworthiness. It is
+reputation. It is power derived from reputation, or from a person’s
+character. It is an acknowledgment of payment by making an entry into
+an account. It is an amount of money at a person’s disposal in the
+books of a bank:Pat deserves
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

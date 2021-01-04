@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch12s04.html#websec2-CHP-12-SECT-4.1
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+The Risks of Downloaded CodeFred McLain’s Internet Exploder showed that an ActiveX
+control can turn off your computer. But it could have done far worse
+damage. Indeed, it is hard to exaggerate the attacks that could be
+written and the subsequent risks of executing code downloaded from the
+Internet.Programs That Spend Your Money
+Increasingly, programs running computers can spend the
+money of their owners. What happens when money is spent by a program
+without the owner’s permission? Who is liable for the funds spent?
+How can owners prevent these attacks? To answer these questions,
+it’s necessary to first understand how the money is being
+spent.Telephone billing recordsOne of the first recorded cases of a computer
+program that could spend money on behalf of somebody else was the
+pornography viewer distributed by the Sexygirls web site
+(described earlier in this chapter).In this case, what made it possible for the money to be
+spent was the international long distance system, which already
+has provisions for billing individuals for long distance telephone
+calls placed on telephone lines. Because a program running on the
+computer could place a telephone call of its choosing, and because
+there is a system for charging people for these calls, the program
+could spend money.Although the Sexygirls pornography viewer spent money by placing international telephone calls, it could just as easily have dialed telephone numbers in the 976 exchange or the 900 area code, both of which are used for ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

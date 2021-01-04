@@ -1,0 +1,664 @@
+http://www.sec.gov/help/foiadocsbdfoiahtm.html
+Skip to main content
+Search SEC.gov
+Company FilingsMore Search Options
+U.S. Securities and Exchange Commission
+q
+About
+Careers
+Commissioners
+Contact
+Reports and Publications
+Securities Laws
+What We Do
+Divisions & Offices
+Corporation Finance
+Enforcement
+Investment Management
+Economic and Risk Analysis
+Trading and Markets
+Office of Administrative Law Judges
+Office of Compliance Inspections and Examinations
+Regional Offices
+All Divisions and Offices
+Enforcement
+Litigation Releases
+Administrative Proceedings
+Opinions and Adjudicatory Orders
+Accounting and Auditing
+Trading Suspensions
+How Investigations Work
+Receiverships
+Information for Harmed Investors
+Regulation
+Rulemaking Index
+Proposed Rules
+Final Rules
+Interim Final Temporary Rules
+Other Orders and Notices
+Self-Regulatory Organizations
+Staff Interpretations
+Education
+Investor.gov
+Five Questions to Ask Before You Invest
+About Investment Professionals
+Check Your Investment Professional
+Investing Tools and Calculators
+Investment Products
+Understanding Fees
+Investor Alerts and Bulletins
+Glossary
+Filings
+EDGAR – Search & Access
+EDGAR – Information for Filers
+Company Filing Search
+How to Search EDGAR
+Requesting Public Documents
+Forms List
+About EDGAR
+News
+Press Releases
+Public Statements
+Speeches
+Testimony
+Spotlight Topics
+What's New
+Upcoming Events
+Webcasts
+SEC in the News
+SEC Videos
+Media Gallery
+User account menu
+Log in
+U.S. Securities and Exchange Commission
+Divisions & Offices
+Enforcement
+Regulation
+Education
+Filings
+Newsroom
+Newsroom
+Press Releases
+Public Statements
+Speehes
+Testimony
+RSS Feeds
+Press Releases
+Public Statements
+Speeches
+Testimony
+Social Media
+@SEC_News
+SEC Channel
+SEC Photostream
+FOIA Services
+About
+Find Documents Online
+FOIA Library
+FOIA Guidance
+FOIA Reference Guide
+Submit a FOIA Request
+Submit a FOIA Appeal
+Major Information Systems
+Privacy Office
+FOIA Public Liaisons
+FOIA Reports
+Tell Us How We Are Doing
+Contact
+FOIA Services
+About
+Find Documents Online
+FOIA Library
+FOIA Guidance
+FOIA Reference Guide
+Submit a FOIA Request
+Submit a FOIA Appeal
+Major Information Systems
+Privacy Office
+FOIA Public Liaisons
+FOIA Reports
+Tell Us How We Are Doing
+Contact
+Data
+Company Information About Active Broker-Dealers
+March 2007 - December 2020
+What You Should Know About the Data File
+This ascii text file contains the Central Index Key (CIK) numbers, company names, SEC reporting file numbers, and addresses (business addresses are provided when mailing addresses are not available) of active broker-dealers who are registered with the SEC.
+The information in this file is raw data — data that is meant to be used as input to another program. The data items are provided as a "tab delimited" file. Although the file can be viewed in any program that accepts ASCII text (for example, a word processor), the data fields are best viewed when imported into a program that accepts delimited data, such as a spreadsheet. The record layout and maximum field sizes are shown below for those who want to process the data into another form.
+Field Name
+Maximum Size
+CIK NUMBER
+10 characters
+COMPANY NAME
+60 characters
+REPORTING FILE NUMBER
+25 characters
+ADDRESS1
+40 characters
+ADDRESS2
+40 characters
+CITY
+30 characters
+STATE CODE
+2 characters
+ZIP CODE
+10 characters
+What You Should Know About the Data Itself
+To get a copy of the actual Forms BD filed with the SEC, please refer to How to Request Public Documents.
+For technical questions regarding the website, send an e-mail message to webmaster@sec.gov. For additional information about the data, call the SEC's Office of Freedom of Information and Privacy Act Operations at (202) 551-8300.
+Data Downloads
+File
+Format
+Size
+File: December 2020
+Format:TXT
+Size:350.23 KB
+File: November 2020
+Format:TXT
+Size:350.51 KB
+File: October 2020
+Format:TXT
+Size:351.38 KB
+File: September 2020
+Format:TXT
+Size:352.06 KB
+File: August 2020
+Format:TXT
+Size:351.75 KB
+File: July 2020
+Format:TXT
+Size:353.46 KB
+File: June 2020
+Format:TXT
+Size:354.27 KB
+File: May 2020
+Format:TXT
+Size:354.7 KB
+File: April 2020
+Format:TXT
+Size:355.22 KB
+File: March 2020
+Format:TXT
+Size:356.06 KB
+File: February 2020
+Format:TXT
+Size:359.7 KB
+File: January 2020
+Format:TXT
+Size:360.82 KB
+File: December 2019
+Format:TXT
+Size:362.34 KB
+File: November 2019
+Format:TXT
+Size:363.4 KB
+File: October 2019
+Format:TXT
+Size:363.13 KB
+File: September 2019
+Format:TXT
+Size:362.9 KB
+File: August 2019
+Format:TXT
+Size:363.47 KB
+File: July 2019
+Format:TXT
+Size:363.71 KB
+File: June 2019
+Format:TXT
+Size:359.84 KB
+File: May 2019
+Format:TXT
+Size:359.63 KB
+File: April 2019
+Format:TXT
+Size:361.17 KB
+File: March 2019
+Format:TXT
+Size:361.7 KB
+File: February 2019
+Format:TXT
+Size:364.09 KB
+File: January 2019
+Format:TXT
+Size:365.36 KB
+File: December 2018
+Format:TXT
+Size:366.61 KB
+File: November 2018
+Format:TXT
+Size:367.02 KB
+File: October 2018
+Format:TXT
+Size:367.87 KB
+File: September 2018
+Format:TXT
+Size:368.78 KB
+File: August 2018
+Format:TXT
+Size:369.6 KB
+File: July 2018
+Format:TXT
+Size:369.99 KB
+File: June 2018
+Format:TXT
+Size:370.83 KB
+File: May 2018
+Format:TXT
+Size:371.27 KB
+File: April 2018
+Format:TXT
+Size:371.73 KB
+File: March 2018
+Format:TXT
+Size:372.37 KB
+File: February 2018
+Format:TXT
+Size:374.16 KB
+File: January 2018
+Format:TXT
+Size:375.29 KB
+File: December 2017
+Format:TXT
+Size:376.7 KB
+File: November 2017
+Format:TXT
+Size:378.33 KB
+File: October 2017
+Format:TXT
+Size:379.11 KB
+File: September 2017
+Format:TXT
+Size:384.77 KB
+File: August 2017
+Format:TXT
+Size:385.79 KB
+File: July 2017
+Format:TXT
+Size:385.87 KB
+File: June 2017
+Format:TXT
+Size:385.99 KB
+File: May 2017
+Format:TXT
+Size:386.98 KB
+File: April 2017
+Format:TXT
+Size:379.74 KB
+File: March 2017
+Format:TXT
+Size:379.46 KB
+File: February 2017
+Format:TXT
+Size:382.58 KB
+File: January 2017
+Format:TXT
+Size:384.72 KB
+File: December 2016
+Format:TXT
+Size:386.75 KB
+File: November 2016
+Format:TXT
+Size:387.48 KB
+File: October 2016
+Format:TXT
+Size:389.88 KB
+File: September 2016
+Format:TXT
+Size:390.54 KB
+File: August 2016
+Format:TXT
+Size:391.72 KB
+File: July 2016
+Format:TXT
+Size:392.43 KB
+File: June 2016
+Format:TXT
+Size:393.18 KB
+File: May 2016
+Format:TXT
+Size:393.19 KB
+File: April 2016
+Format:TXT
+Size:392.83 KB
+File: March 2016
+Format:TXT
+Size:393.22 KB
+File: February 2016
+Format:TXT
+Size:395.89 KB
+File: January 2016
+Format:TXT
+Size:397.76 KB
+File: December 2015
+Format:TXT
+Size:399.65 KB
+File: November 2015
+Format:TXT
+Size:400.17 KB
+File: October 2015
+Format:TXT
+Size:400.9 KB
+File: September 2015
+Format:TXT
+Size:402.08 KB
+File: August 2015
+Format:TXT
+Size:402.79 KB
+File: July 2015
+Format:TXT
+Size:403.35 KB
+File: June 2015
+Format:TXT
+Size:404.03 KB
+File: May 2015
+Format:TXT
+Size:405.1 KB
+File: April 2015
+Format:TXT
+Size:406.06 KB
+File: March 2015
+Format:TXT
+Size:406.47 KB
+File: February 2015
+Format:TXT
+Size:408.67 KB
+File: January 2015
+Format:TXT
+Size:410.25 KB
+File: December 2014
+Format:TXT
+Size:410.25 KB
+File: November 2014
+Format:TXT
+Size:412.14 KB
+File: October 2014
+Format:TXT
+Size:412.41 KB
+File: September 2014
+Format:TXT
+Size:414.32 KB
+File: August 2014
+Format:TXT
+Size:415.11 KB
+File: July 2014
+Format:TXT
+Size:410.6 KB
+File: June 2014
+Format:TXT
+Size:412.02 KB
+File: May 2014
+Format:TXT
+Size:413.3 KB
+File: April 2014
+Format:TXT
+Size:414.51 KB
+File: March 2014
+Format:TXT
+Size:415.61 KB
+File: February 2014
+Format:TXT
+Size:418.25 KB
+File: January 2014
+Format:TXT
+Size:420.32 KB
+File: December 2013
+Format:TXT
+Size:422.03 KB
+File: November 2013
+Format:TXT
+Size:424.73 KB
+File: October 2013
+Format:TXT
+Size:426.54 KB
+File: September 2013
+Format:TXT
+Size:426.85 KB
+File: August 2013
+Format:TXT
+Size:427.93 KB
+File: July 2013
+Format:TXT
+Size:429.24 KB
+File: June 2013
+Format:TXT
+Size:429.23 KB
+File: May 2013
+Format:TXT
+Size:431.85 KB
+File: April 2013
+Format:TXT
+Size:433.05 KB
+File: March 2013
+Format:TXT
+Size:434.27 KB
+File: February 2013
+Format:TXT
+Size:437.02 KB
+File: January 2013
+Format:TXT
+Size:438.61 KB
+File: December 2012
+Format:TXT
+Size:440.44 KB
+File: November 2012
+Format:TXT
+Size:442.06 KB
+File: October 2012
+Format:TXT
+Size:443.14 KB
+File: September 2012
+Format:TXT
+Size:444.28 KB
+File: August 2012
+Format:TXT
+Size:445.18 KB
+File: July 2012
+Format:TXT
+Size:447.61 KB
+File: June 2012
+Format:TXT
+Size:448.21 KB
+File: May 2012
+Format:TXT
+Size:450.89 KB
+File: April 2012
+Format:TXT
+Size:452.07 KB
+File: March 2012
+Format:TXT
+Size:452.31 KB
+File: February 2012
+Format:TXT
+Size:454.58 KB
+File: January 2012
+Format:TXT
+Size:456.54 KB
+File: December 2011
+Format:TXT
+Size:457.35 KB
+File: November 2011
+Format:TXT
+Size:458.87 KB
+File: October 2011
+Format:TXT
+Size:460.11 KB
+File: September 2011
+Format:TXT
+Size:461.58 KB
+File: August 2011
+Format:TXT
+Size:463.51 KB
+File: July 2011
+Format:TXT
+Size:464.01 KB
+File: June 2011
+Format:TXT
+Size:465.67 KB
+File: May 2011
+Format:TXT
+Size:466.21 KB
+File: April 2011
+Format:TXT
+Size:469.35 KB
+File: March 2011
+Format:TXT
+Size:470.54 KB
+File: February 2011
+Format:TXT
+Size:475.56 KB
+File: January 2011
+Format:TXT
+Size:477.92 KB
+File: December 2010
+Format:TXT
+Size:479.48 KB
+File: November 2010
+Format:TXT
+Size:479.1 KB
+File: October 2010
+Format:TXT
+Size:479.24 KB
+File: September 2010
+Format:TXT
+Size:481.08 KB
+File: August 2010
+Format:TXT
+Size:483.05 KB
+File: July 2010
+Format:TXT
+Size:484.16 KB
+File: June 2010
+Format:TXT
+Size:486.01 KB
+File: May 2010
+Format:TXT
+Size:486.32 KB
+File: April 2010
+Format:TXT
+Size:486.99 KB
+File: March 2010
+Format:TXT
+Size:489.22 KB
+File: February 2010
+Format:TXT
+Size:495.15 KB
+File: January 2010
+Format:TXT
+Size:497.48 KB
+File: December 2009
+Format:TXT
+Size:498.55 KB
+File: November 2009
+Format:TXT
+Size:500.3 KB
+File: October 2009
+Format:TXT
+Size:499.32 KB
+File: September 2009
+Format:TXT
+Size:501.61 KB
+File: August 2009
+Format:TXT
+Size:502.28 KB
+File: July 2009
+Format:TXT
+Size:502.89 KB
+File: June 2009
+Format:TXT
+Size:504.72 KB
+File: May 2009
+Format:TXT
+Size:509 KB
+File: April 2009
+Format:TXT
+Size:510.38 KB
+File: March 2009
+Format:TXT
+Size:513.17 KB
+File: February 2009
+Format:TXT
+Size:518.9 KB
+File: January 2009
+Format:TXT
+Size:521.09 KB
+File: December 2008
+Format:TXT
+Size:523.26 KB
+File: November 2008
+Format:TXT
+Size:522.84 KB
+File: October 2008
+Format:TXT
+Size:526.18 KB
+File: September 2008
+Format:TXT
+Size:526.62 KB
+File: August 2008
+Format:TXT
+Size:526.91 KB
+File: July 2008
+Format:TXT
+Size:527.69 KB
+File: June 2008
+Format:TXT
+Size:527.04 KB
+File: April 2008
+Format:TXT
+Size:529.37 KB
+File: March 2008
+Format:TXT
+Size:530.06 KB
+File: February 2008
+Format:TXT
+Size:537.93 KB
+File: January 2008
+Format:TXT
+Size:540.69 KB
+File: December 2007
+Format:TXT
+Size:542.66 KB
+File: November 2007
+Format:TXT
+Size:545.66 KB
+File: October 2007
+Format:TXT
+Size:547.09 KB
+File: September 2007
+Format:TXT
+Size:547.31 KB
+File: August 2007
+Format:TXT
+Size:551.29 KB
+File: June 2007
+Format:TXT
+Size:550.99 KB
+File: March 2007
+Format:TXT
+Size:555.18 KB
+Modified: Dec. 1, 2020
+STAY CONNECTED
+1 Twitter 2 Facebook 3RSS 4YouTube
+5 Flickr
+6LinkedIn 7 Pinterest 8 Email Updates
+Footer menu
+Accessibility
+Budget & Performance
+Careers
+Contact
+Contracts
+Data
+Diversity and Inclusion
+FOIA
+Inspector General
+Investor.gov
+No FEAR Act & EEO Data
+Ombudsman
+Plain Writing
+Privacy & Security
+Related Sites
+Site Map
+USA.gov
+Votes
+Whistleblower Protection
+Return to Top

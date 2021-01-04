@@ -1,0 +1,56 @@
+https://talon.openprivacy.org/
+Essentials:
+Overview
+Developer Notes
+Resources:
+Download
+Javadoc
+Talon
+An OpenPrivacy
+Java Component Framework
+Overview:
+Talon is a simple yet powerful component system similar to XPCOM or Microsoft COM.
+Talon solves a number
+of problems with these existing systems and is designed to incorporate Reputations (Sierra) as part of its Component
+factory mechanism.
+The use of Reputation to drive component selection enables a
+Talon based system to evolve over time, becoming more powerful.
+This mechanism
+is similar to advanced profiler
+technologies but works with distributed systems.
+Advantages:
+Thin factory/component mechanism for managing components.
+Utilizes Reputations to determine
+how to best serve/create a Component.
+Components can be served based on
+interface name, reputation and bias of the requester.
+(planned for 1.0)
+Simple, easy to use and doesn't require significant modification of
+application design.
+All objects within the system have a unique URI and can be requested
+from the ComponentFactory via this URI.
+This is desirable within
+distributed P2P component environments.
+Talon provides a central code/project location for standard interfaces
+(logging, property management, etc).
+This enables developers to code to a
+standard interface across projects.
+Maintains object lifetime (pools, singletons, on-demand, etc) without
+having to dedicate application logic to this task in outside projects.
+Talon initializes itself automatically which eases application
+integration.
+Written in 100% Java so that legacy languages don't damage the integrity
+of the API (no IDL, interface based, etc).
+Dual licensed under the GPL and BSD style.
+This allows Talon to be used
+within projects from the Free Software Foundation *and* the Apache Software
+Foundation.
+Commercial projects may also use Talon as the BSD license is
+very flexible in this respect.
+Status:
+Fri Apr 13 18:42:10 2001 (burton@relativity.yi.org): Talon 0.1.0 Released. Downloads are available.
+Talon is still in its early development stages.
+Everything should be
+functional except the Reputation Management Framework integration.
+Talon serves the components for
+OpenPrivacy projects

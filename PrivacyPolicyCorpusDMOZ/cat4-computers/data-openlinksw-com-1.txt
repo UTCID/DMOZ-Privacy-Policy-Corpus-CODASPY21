@@ -1,0 +1,57 @@
+http://data.openlinksw.com/oplweb/intelligent-data-privacy-security#this
+Not logged in
+: Login
+Facets (new session)
+Description
+Metadata
+Settings
+Rule:
+asEquivalentb3sb3sifpfacetshttp://www.w3.org/2002/07/owl#ldpoffers ontologyoplwebschema-oloskos-transvirtrdf-eturtle-containersvirtrdf-hashtagvirtrdf-ifpvirtrdf-labelvirtrdf-meta-entity-classNone
+Inverse Functional Properties:
+Disabled (fastest)
+Apply to subjects only
+Apply to objects only
+Apply to both subjects and objects
+"Same As":
+Disabled (fastest)
+Apply to subjects only
+Apply to objects only
+Apply to both subjects and objects (recommended)
+Apply to subjects, objects and predicates (not recommended on big datasets)
+Apply to predicates only (special use cases only)
+About:
+Intelligent Data Privacy & Security
+Goto
+Sponge
+NotDistinct
+Permalink
+An Entity of Type : http://www.openlinksw.com/ontology/oplcorp#ValueProposition,
+within Data Space : www.openlinksw.com associated with source document(s)
+Type:
+Corporate Value Proposition
+New Facet based on Instances of this Class
+Knowledge Graphs created by this platform manifest as a secure Semantic Web of Linked Data where Attribute-based Access Control (ABAC) provides the basis for intelligent Data Access Policies that scale across the enterprise and hybrid clouds.
+AttributesValuesdescription
+Knowledge Graphs created by this platform manifest as a secure Semantic Web of Linked Data where Attribute-based Access Control (ABAC) provides the basis for intelligent Data Access Policies that scale across the enterprise and hybrid clouds.
+Knowledge Graphs created by this platform manifest as a secure Semantic Web of Linked Data where Attribute-based Access Control (ABAC) provides the basis for intelligent Data Access Policies that scale across the enterprise and hybrid clouds. described by
+https://www.openlinksw.com/about/id/entity/urn/webdev:virtuoso http://oplussol11.intranet.openlinksw.com:8890/about/id/urn/webdev:virtuoso http://oplussol11.intranet.openlinksw.com:8890/about/id/entity/urn/webdev:virtuosotitle
+Intelligent Data Privacy & Securityimage
+comment
+Knowledge Graphs created by this platform manifest as a secure Semantic Web of Linked Data where Attribute-based Access Control (ABAC) provides the basis for intelligent Data Access Policies that scale across the enterprise and hybrid clouds. type
+Corporate Value Propositionhttp://www.openlin...y/oplcorp#hasRank
+4(xsd:integer)is topic
+of urn:webdev:virtuosois has value proposition
+of OpenLink Software
+Faceted Search & Find service v1.17_git51 as of Sep 16 2020
+Alternative Linked Data Documents:
+iSPARQL
+|
+ODE
+Content Formats:
+RDF
+ODATA
+Microdata
+About
+OpenLink Virtuoso version 08.03.3319 as of Sep 16 2020, on Linux (x86_64-generic-linux-glibc25), Single-Server Edition (30 GB total memory)
+Data on this page belongs to its respective rights holders.
+Virtuoso Faceted Browser Copyright © 2009-2020 OpenLink Software

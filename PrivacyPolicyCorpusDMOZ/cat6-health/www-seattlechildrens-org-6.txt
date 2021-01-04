@@ -1,0 +1,96 @@
+http://www.seattlechildrens.org/remoteaccesshelp/
+Skip to nav
+Skip to content
+COVID-19 Advisory: Visitors limited to only one parent/caregiver at all clinics and no siblings allowed. Learn more.
+Working from Home and Remote Access Help
+Remote Portal Login
+Many of the tools and technologies we use at Seattle Children’s are adaptable for working remotely. Find information here to help you get connected and work more effectively. If you need help, please call the Service Desk at 206-987-1111.
+When working remotely, the security of your home WiFi network is very important. Learn how to secure your network against attackers.
+Home Wifi Network Security
+General Information
+Work From Home (WFH) Internet Tips and Tricks (PDF)
+Changing Your Network Password (PDF)
+New to Working Remotely
+If this is your first time connecting to Seattle Children’s network remotely, you’ll need to install Citrix and set up remote access using Okta. Follow the instructions below.
+Citrix Workspace Install (PDF)
+How to Set Up Okta Verify: See Access Seattle Children's Network with Okta Verify below.
+Using WebEx for Meetings
+WebEx Mobile lets you interact with other attendees in remote meetings. Learn the nuances of connecting to meetings remotely.
+WebEx Mobile App Install (PDF)
+WebEx Mobile App Use (PDF)
+WebEx Call Me (PDF)
+WebEx Delegates (PDF)
+WebEx Meetings - Controlling Sounds (PDF)
+More Tools to Keep You Connected
+Send and receive Jabber messages from your smartphone. And, if you already have a Children’s dedicated phone number, you may be able to get those calls on your smartphone.
+Jabber Mobile Tips (PDF)
+Use Teams to connect and communicate.
+Microsoft Teams Tips (PDF)
+Here’s a tip for using Zoom for telehealth.
+Running Zoom & CIS (PDF)
+Access Seattle Children’s Network With Okta Verify
+Okta Verify ensures the security of protected patient health information (PHI), and works on your smartphone or mobile device to provide remote access to Seattle Children’s network. Follow the instructions below to get started. (Remote access using Gemalto is no longer available.)
+How to Set Up Okta Verify
+Follow these steps to start using the Okta Verify app. Contact the Help Desk at 206-987-1111 if you have questions.
+New phone?
+If you already have Okta Verify but change mobile phones, you must start by contacting the Help Desk to have your access reset. Then follow the steps below to set up the new device.
+1. Download the Okta Verify app on your smartphone (it also works on Android and Apple Watches).
+Visit the app store for your phone and search for Okta Verify (not Okta Mobile). Install Okta Verify on your phone (Apple, Windows or Google).
+You can also use Okta Verify on your Android or Apple Watch. Follow the manufacturer’s instructions for your watch.
+2. Log into Okta on your computer or workstation.
+After you log into your computer or VDI, visit the remote portal. (You can also reach Okta Verify here.)
+Register using your Seattle Children’s email address (if you have one) or (if you don’t have one) your UserID@seattlechildrens.org and network password.
+If your email address has changed, you might need to use the original address, such as Bob.Smith@seattlechildrens.org instead of Robert.Smith@seattlechildrens.org.
+While this process is easiest to complete onsite, you can also do it remotely. When you log in onsite, the system may ask for your password again. This is expected and you should enter it.
+3. Update your Okta account for password recovery.
+If this is your first time visiting Okta, complete the following steps now and you’ll be set to take advantage of self-service options if you have trouble logging on in the future.
+Enter a phone number and add text message verification for password recovery.
+Add a secondary email address also good for password recovery.
+You only need to choose one method for password recovery.
+Choose a security image.
+Select “Create my account.”
+4. Set up Okta Verify from your computer or workstation.
+Your name appears in the upper right corner. Click on your name.
+Select “Settings” from the dropdown menu.
+Now that you are logged into Okta and in the Settings window, scroll almost to the bottom of this page to the “Extra Verification” section.
+Select “Setup” next to Okta Verify.
+Select your device type and “Next.”
+A QR code will display.
+5. Register the Okta Verify app on your smartphone.
+Launch the Okta Verify app.
+Select “Add Account” or the “+” icon to turn the camera on.
+Hold your phone so the QR code fits inside the box on the screen. Once captured, the QR code disappears.
+If you see this image, your phone is now registered to your Okta account and you can close the app.
+You can ignore the 6-digit code on the screen.
+6. Use Okta Verify to reach the remote portal.
+On a remote computer, laptop or tablet (but not your smartphone), visit the remote portal and enter your Seattle Children’s email address (if you have one) or (if you don’t have one) UserID@seattlechildrens.org (with your own user ID) and network password to sign in.
+Still on your computer or tablet, select “Send Push.”
+Your phone will launch the app automatically. (Tap “Accept” if your phone asks before launching the app.)
+Tap “Approve” on your phone and the remote portal will load on your computer or device.
+The final step will be to install Citrix Workspace on your computer. Proceed to the next section.
+7. Install Citrix Workspace and log into the remote portal.
+See Installing Citrix Workspace and Logging Into the Remote Portal (PDF).
+Notes
+UserID@seattlechildrens.org is not an email address. This is only your username for logging in remotely if you do not have a Seattle Children’s email address.
+If this is the first time you are using this device for remote access, you will need to download and install Citrix. Navigate to receiver.citrix.com and select “Download for....” Follow the prompts to complete the process.
+Once setup is complete and you have the app on your smartphone, you can easily access and use it on Android and Apple Watches.
+If you get a new phone, you must call the Service Desk to reset your verification. Then follow the setup instructions in the steps above.
+Resources
+Other training resources
+How to Set Up Okta Verify (PDF) includes the above instructions with visual aids.
+Watch “How to Install Okta Verify From App Store and Set Up Okta Verify” (1:18).
+Watch “How to Log Into the Remote Portal From Your PC” (1:46).
+Need more help?
+If problems persist, please call the Service Desk at 206-987-1111.
+©1995–2020
+Seattle Children’s Hospital
+4800 Sand Point Way NE,
+Seattle,
+WA
+98105
+206-987-2000
+866-987-2000 (toll-free)
+206-987-0391 (TTY)
+Seattle Children’s complies with applicable federal and other civil rights laws and does not discriminate, exclude people or treat them differently based on race, color, religion (creed), sex, gender identity or expression, sexual orientation, national origin (ancestry), age, disability, or any other status protected by applicable federal, state or local law. Financial assistance for medically necessary services is based on family income and hospital resources and is provided to children under age 21 whose primary residence is in Washington, Alaska, Montana or Idaho.
+By clicking “Accept All Cookies,” you agree to the storing of cookies on your device to enhance site navigation, analyze site usage and assist in marketing efforts. For more information, see Website Privacy.
+Accept All Cookies

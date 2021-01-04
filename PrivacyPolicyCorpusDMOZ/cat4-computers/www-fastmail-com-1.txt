@@ -1,0 +1,26 @@
+https://www.fastmail.com/help/receive/addressing.html
+Plus addressing and subdomain addressing | Fastmail
+Plus addressing and subdomain addressing
+Plus addressing and subdomain addressing are features that allow you to give out alternatives to your normal email address that still arrive at your account. You can create a rule to automatically filter messages sent to one of these variations, which can be helpful for managing mailing lists and site registrations.
+For most users, you don't need to set up anything extra to create these addresses. They work right now, for both your username@domain.tld address and any aliases you have set up, both on Fastmail domains and any personal domains.
+For users who have pointed their custom domain to Fastmail using MX records only, there may be additional setup needed for subdomains. See here for more details.
+Plus addressing
+Plus addressing means any email sent to username+whateveryoulike@domain.tld is still sent to your account. This means you can have a lot of variations on your email address to give out to different people, sites, or mailing lists.
+If the part after the + matches the name of one of your folders (see below for how the matching works), the message will automatically be delivered there instead of your Inbox, without needing to create a rule.
+For example, suppose you gave someone the address username+hiking@domain.tld. Any messages sent to this address will be delivered to username@domain.tld, and if you have a folder called Hiking, will be delivered straight to that folder rather than your Inbox.
+The main downside to plus addressing is that addresses with a + are considered (incorrectly) to be invalid by some websites, and not allowed on some registration forms. Also, people may find this kind of address hard to remember, because it is quite unusual. Subdomain addressing, described below, overcomes these problems.
+Subdomain addressing
+Subdomain addressing offers all the advantages of plus addressing with fewer disadvantages. It works the same as plus addressing, but instead of username+whateveryoulike@domain.tld, you can use an address of the form whateveryoulike@username.domain.tld. Just like with plus addressing, messages will be automatically filed into folders with a matching name.
+Please note, your username cannot include an underscore ("_") or a dot (".") if you wish to use subdomain addressing.
+Only one level of subdomain addressing is supported: whateveryoulike@username.domain.tld is fine, but somethingelse@whateveryoulike.username.domain.tld will not work.
+How a folder is matched
+If you have a folder "Mailing Lists.My List", then messages sent to username+mailing-lists.my_list@domain.tld will get filed into that folder. This works by fuzzy folder matching. When a regular folder match fails, folders are compared case-insensitively, with the hyphen -, underscore _, and space " " characters treated the same. A full stop . is used to separate a parent from a subfolder.
+If the message should have been sent to a subfolder but the subfolder does not exist, the mail is delivered to the parent folder rather than to the Inbox. For example, if you sent a message to username+mailing-lists.hiking@domain.tld and you don't have a subfolder "Hiking" under the "Mailing Lists" folder, then the email will go to the "Mailing Lists" folder rather than the Inbox.
+If you create a rule that files the message into a folder, this will run instead of the folder matching described above.
+Sending email from a plus or subdomain address
+To send email using whateveryoulike@username.domain.tld, create an account identity with that email address.
+Alternatively, create an account identity with the email address *@username.domain.tld which will let you send email with any text you like replacing the *.
+If you're sending from a subdomain address using a custom domain, please be sure that you've set up SPF entries at your domain to ensure your messages are delivered successfully.
+Help & Support
+Receive, Organize & Find Mail
+Plus addressing and subdomain addressing

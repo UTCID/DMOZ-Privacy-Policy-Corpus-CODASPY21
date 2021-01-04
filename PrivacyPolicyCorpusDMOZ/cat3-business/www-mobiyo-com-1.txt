@@ -1,0 +1,403 @@
+https://www.mobiyo.com/terms-of-use/
+Terms of use
+Created with Sketch.
+FOREWORD
+Mobiyo SAS engages in a regulated activity subject to the authorization and control of the “Autorité de Contrôle Prudentiel et de Résolution (ACPR)” of the “Banque de France” (French Central Bank). By virtue thereof, Mobiyo holds an authorization from the “Autorité de Contrôle Prudentiel et de Résolution” (ACPR) as a “Payment institution”(CIB 16458) under which Mobiyo is authorized to offer payment services via its payment platform.
+Mobiyo SAS (RCS Nanterre 824 638 209, registered headquarters 94 rue de Villiers, 92532 Levallois-Perret Cedex – France) (henceforth “Mobiyo”) operates a payment platform designed to manage collection of payments made by Internet users (“Visitors”) on behalf of webmasters (“Merchants”).
+2. The Merchant has full legal capacity to enter into commitments under these General Terms and Conditions.
+The Merchant subscribes to Mobiyo services as part of an e-commerce activity and not as a consumer. For this reason, the parties waive application of the provisions of the French Monetary and Financial Code (Code Monétaire et Financier) applicable to private individuals acting for non-professional ends, and also the provisions of the French Consumer Code (Code de la Consommation).
+The Merchant, if a physical person, is 18 years of age or over.
+Access to the main features of the MOBIYO payment platform requires the use of an API (or payment script). The Merchant installs the script following the instructions given on the MOBIYO website and/or by contacting the MOBIYO helpline.
+In subscribing to the payment services proposed by MOBIYO, the Merchant mandates and instructs MOBIYO to manage the collection of payments made by Visitors for the purchase of content, virtual goods and/or services on the Merchant’s website. In so doing, the Merchant is aware of all the information necessary to contract on an informed basis and declares that the service provided by MOBIYO meets his needs and requirements. In connecting his website to and using the MOBIYO payment platform, the Merchant agrees unconditionally to these general terms and conditions and, where appropriate, to all documentation relating to the MOBIYO payment platform, which together constitute the entirety of the agreement entered into between the parties.
+ARTICLE  1: OBJECT
+The object of this agreement is to set out the contractual relations applying between the Merchant and MOBIYO. It sets out the roles and obligations of each party at the different stages of using the payment platform and sets the financial terms for use of the MOBIYO payment platform.
+ARTICLE  2: OPERATION OF THE MOBIYO PAYMENT PLATFORM
+2.1. The Merchant mandates and instructs MOBIYO to manage collection of payments made by Visitors for the purchase of contents, virtual goods and/or services on the Merchant’s website. MOBIYO is therefore responsible for receiving funds from Visitors and making outpayments to the Merchant after deducting the expenses and commissions payable to MOBIYO and to the various operators and payment service providers under the terms set out below.
+2.2. The payment platform proposed by MOBIYO handles payments made using the following payment instruments:
+i) Audiotel (IVR) payment: the Visitor makes payment by calling a premium-rate telephone number;
+ii) Premium-rate SMS payment: the Visitor makes payment by sending an SMS to a premium-rate short number;
+iii) Internet+ Box payment: the Visitor makes payment directly to his Internet Service Provider (ISP) on the subscription and billing conditions established by his ISP (“ISP debit”);
+iv) MPME (Micro Payment Mobile Enablers)/ Internet+ Mobile payment: the Visitor makes payment direct to his mobile phone operator on the subscription and billing conditions established by his mobile operator (“operator debit”).
+v) Bank debit/credit card payment: the Visitor makes payment using a bank debit/credit card;
+vi) Payment by prepaid cards or electronic wallet: the Visitor makes payment by debiting a prepaid card or electronic wallet accepted by MOBIYO (“prepaid card debit”).
+2.3. The Merchant may employ MOBIYO to manage collection of payments made by one or more of the payment instruments listed at 2.2.
+2.4. Payment made by means of the payment instruments listed in article 2.2
+i) For each payment made by a Visitor, the MOBIYO platform issues the Visitor with a transaction identification code (“the Code”) which the Visitor shall enter on the Merchant’s website page containing the script or the MOBIYO API payment request, in order to finalize the transaction and obtain the content, virtual good and/or service marketed by the Merchant.
+ii) The MOBIYO payment platform checks the validity of the Code entered.
+If the payment platform confirms the Code entered, the Visitor is redirected to the Merchant’s website page enabling him to access the content, virtual good and/or service marketed by the Merchant.
+If the Code entered is invalid, the Visitor is informed by means of an error message generated by the payment platform.
+c) A transaction generates:
+the issue of a single Code by the payment platform
+a single outpayment to the Merchant.
+d) If payment is made by MPME and/or Internet+, the Code is entered directly on Merchant’s website page with no action required from the Visitor. For this payment category, the Visitor is not issued with a Code.
+e) If payment corresponding to a subscription is made, the Code is directly entered on Merchant’s website page with no action required from the Visitor. For this payment category, the Visitor is not issued with a Code.
+ARTICLE 3: PAYMENT METHODS SUPPORTED BY THE MOBIYO PAYMENT PLATFORM
+3.1 One time payment:
+3.1.1 The payment platform enables the Merchant to obtain collection of “One time payment” transactions, i.e. for the purchase of content, virtual good and/or services payable in a one-off transaction. Each item of the Merchant’s content, virtual good and/or service is billed as defined by the Merchant.
+3.1.2. This payment method is available for all the payment instruments listed in article 2.2.
+3.1.3. Depending on the nature of the content, virtual goods and/or services proposed, the Merchant may determine whether the payment made allows the Visitor:
+one-off or multiple access to the content, virtual goods and/or services sold
+access for a predetermined length of time to the content, virtual goods and/or services sold
+Note: “One time payment” by MPME and/or Internet+ do not allow multiple access to content, virtual goods and/or services.
+3.1.4. The parameters of “One time payments” defined by the Merchant in accordance with article 3.1.2. will be associated with a Code issue and recognition system. Assuming that the Merchant has provided for the Visitor to be able to access the content, virtual good and/or service on more than one occasion, the Visitor simply needs to re-enter the Code every time he wishes to consult the content, virtual good and/or services marketed by the Merchant.  As soon as the number of consultations authorized by the Merchant is reached, the Code’s authorization will be revoked. Only the first entry of the code generates an outpayment, since other entries do not constitute new transactions.
+3.1.5 The sums relating to the valid “One time payment” purchase transactions made by Visitors are credited to the Merchant’s private interface (“MOBIYO Account”) (after deducting the expenses and commissions payable to MOBIYO and to the various payment operators and service providers under the terms set out below).
+3.2 Pay-per-minute:
+3.2.1 The payment platform enables the Merchant to obtain collection of pay-per-minute transactions.
+3.2.2. This payment method is available only for Audiotel (IVR) payments (see article 2.2.i), the only payments to enable premium-rate pricing per minute. The cost of communication with the premium-rate telephone server corresponds to the pricing schedule selected by the Merchant for billing his content, virtual good and/or service (see article 12: Pricing Schedule).
+3.2.3 Pay-per-minute billing is available for real-time access to the Merchant’s website (“Immediate Access”) or for deferred consultation (“Deferred Access”) of the content, virtual goods and/or services proposed by the Merchant. Details of these payment methods are given below.
+Due to the synchronization necessary between the MOBIYO platform and the Merchant’s website, the total effective time spent consulting the content, virtual goods and/or services marketed by the Merchant may differ slightly from the call time to the premium-rate telephone service.
+3.2.4 The sums relating to the valid pay-per-minute purchase transactions made by Visitors are recorded on the Merchant’s private interface (“MOBIYO Account”) (after deducting the expenses and commissions payable to MOBIYO and to the various payment operators and service providers under the terms set out below), as soon as the Visitor disconnects from the premium-rate telephone server, whether the access purchased is immediate or deferred.
+3.2.5 In accordance with current telecommunications regulations, Visitor calls not exceeding the time taken for the message informing callers of the premium-rate status of the number called will not give rise to any collection of sums on behalf of the Merchant.
+3.2.6. Pay-per-minute with “Immediate Access”:
+The Visitor is issued with a transaction identification code and is invited to call a premium-rate telephone number to validate and activate the Code. The Visitor is then redirected to the first page of the content, virtual goods and/or services marketed by the Merchant;
+The Visitor must remain simultaneously connected to the premium-rate number for the entire duration of the consultation/use of the Merchant’s content, virtual goods and/or services;
+As soon as the Visitor disconnects from the premium-rate telephone service, the MOBIYO platform revokes the authorization to access the Merchant’s content, virtual goods and/or services. The Visitor is automatically redirected to an exit page on the Merchant’s website.
+3.2.7. Pay-per-minute with “Deferred Access”:
+The Visitor is issued with a transaction identification code and is invited to call a premium-rate telephone number to validate and activate the Code.
+The Code issue and recognition system associates the Code with a time credit equal to the length of the Visitor’s communication with the premium-rate telephone service.
+The time credit purchased by the Visitor for consultation/use of the Merchant’s content, virtual goods and/or services can then be used within 60 days from the date of the purchase generating issue of the Code. The Visitor may use the time credit in one or more visits.
+At each consultation of the Merchant’s content, virtual goods and/or services, the Visitor must re-enter the Code so that the MOBIYO platform can check its validity. The platform checks that the 60-day limit has not expired and that the consultation time credit has not been exhausted.
+As soon as the Code is no longer valid, the MOBIYO platform revokes the authorization to access the Merchant’s content, virtual goods and/or services. The Visitor is automatically redirected to an exit page on the Merchant’s website.
+In accordance with article 3.2.4, the time credit purchase constitutes the sole transaction generating an outpayment to the Merchant. This transaction is credited to the Merchant at the end of the premium-rate telephone call used to purchase the time credit. Subsequent use of the Code to access the Merchant’s content, virtual goods and/or services constitutes only a technical service ancillary to payment and does not entitle the Merchant to collect any further sums.
+3.3. “Subscriber Pass” subscription payment:
+3.3.1. The payment platform enables the Merchant to obtain collection of subscriptions (“Subscriber Pass”) to the Merchant’s content, virtual goods and/or services.
+3.3.2. This payment method is available for all the payment instruments listed in article 2.2. with the exception of Audiotel (IVR) payment (see article 2.2. i) and premium-rate SMS payment (see article 2.2. ii).
+3.3.3. The Merchant determines the price, period of validity and purchase methods of the Subscriber Pass (the Merchant may restrict the Visitor’s possibilities for purchasing a Subscriber Pass to one of the payment instruments listed in article 2.2, as limited by the prohibitions provided for in article 3.3.2) up to a maximum ceiling of: 50 € per month.
+3.3.4. The characteristics of the Subscriber Pass will be associated with the Code issue and recognition system.
+3.3.5. At each consultation of the Merchant’s content, virtual goods and/or services, the Visitor must re-enter the Code so that the MOBIYO platform can check its validity. The platform checks that the Subscriber Pass is still valid:
+If the Subscriber Pass is valid, the Visitor is redirected to the content or the service on the Merchant’s website.
+If the Subscriber Pass has expired, the Visitor is informed and automatically redirected to an exit page on the Merchant’s website.
+3.3.6. The Merchant may bill:
+part of the content, virtual goods and/or services by Subscriber Pass and
+certain designated content, virtual goods and/or services on a “One time payment” basis (See article 3.1).
+3.3.7. In accordance with article 3.3.4, the purchase of the Subscriber Pass constitutes the sole transaction generating an outpayment to the Merchant. This transaction is credited to the Merchant on purchase of the Subscriber Pass and issue of the Code. Subsequent use of the Code to access the Merchant’s content, virtual goods and/or services constitutes only a technical service ancillary to payment and does not entitle the Merchant to collect any further sums.
+3.3.8. The sums relating to the Subscriber Pass purchase transactions made by Visitors are credited to the Merchant’s private interface (“MOBIYO Account”) (after deducting the expenses and commissions payable to MOBIYO and to the various payment operators and service providers under the terms set out below).
+3.4. Payment for access to the Merchant’s website: “Access Ticket”:
+3.4.1. The payment platform enables the Merchant to bill one-off access to the entire website (“Access Ticket”)
+3.4.2. This payment method is available for all the payment instruments listed in article 2.2. with the exception of Audiotel (IVR) payment (see article 2.2. i) and premium-rate SMS payment (see article 2.2. ii).
+3.4.3. The Merchant determines the price of the Access Ticket and the purchase method (the Merchant may restrict the Visitor’s possibilities for purchasing an Access Ticket to one or more of the payment instruments listed in article 2.2, as limited by the prohibitions provided for in article 3.4.2) up to a maximum ceiling of: 50 €.
+3.4.4. The Access Ticket is for one-off use only.
+3.4.5. The characteristics of the Access Ticket will be associated with the Code issue and recognition system.
+3.4.6. When the Visitor enters the Code the MOBIYO platform checks the validity of the Access Ticket:
+If the Access Ticket is valid, the Visitor is redirected to the content or the service on the Merchant’s website.
+If the Access Ticket has expired, the Visitor is informed and automatically redirected to an exit page on the Merchant’s website.
+3.4.7. The sums relating to the Access Ticket purchase transactions made by Visitors are credited to the Merchant’s private interface (“MOBIYO Account”) (after deducting the expenses and commissions payable to MOBIYO and to the various payment operators and service providers under the terms set out below).
+ARTICLE 4: PROCEDURE FOR CONNECTION TO THE MOBIYO PLATFORM
+Except with the express authorization of MOBIYO in writing, a Merchant may not make several connections to the MOBIYO payment platform.
+4.1. Registration application:
+4.1.1 MOBIYO registration form:
+The Merchant completes the registration form on the MOBIYO website https://merchant.mobiyo.com/security/registration/, providing the following information:
+a) If the Merchant is an individual:
+Last name;
+First name;
+Date of birth;
+Place of birth;
+Home address;
+Telephone number;
+Incorporation number for self-employed entrepreneur and/or self employment
+Valid e-mail address;
+Official ID document number (ID card, passport) and expiry date;
+References of the bank holding the Merchant’s account (e.g. IBAN);
+URL address of the Merchant’s website(s);
+Description of the Merchant’s activity (website content);
+Name of the provider hosting the website or service;
+Address of the provider hosting the website or service.
+b) If the Merchant is a legal entity (e.g. incorporated as a company):
+Last name of the legal entity’s representative;
+First name of the legal entity’s representative;
+Date of birth of the legal entity’s representative;
+Place of birth of the legal entity’s representative;
+Official ID document number (ID card, passport) of the legal entity’s representative and expiry date
+Name of the legal entity;
+Address of the legal entity’s headquarters;
+Description of the Merchant’s activity (website content);
+Registration number (e.g. SIREN)
+Intra-community VAT number for European Union companies or tax identification number for countries located outside the European Union;
+Telephone number;
+Valid e-mail address;
+References of the bank holding the applicant’s account (e.g. IBAN);
+URL address of the Merchant’s website(s);
+Description of the Merchant’s activity (nature of services, destination of funds, economic justification);
+Name of the provider hosting the website or service;
+Address of the provider hosting the website or service.
+Note: If the Merchant is a self-employed entrepreneur under the meaning of the French Act of 4 August 2008, he should register as an individual.
+4.1.2. According only to “strong KYC” requirements the Merchant asserts that he is the effective beneficiary of the agreement. Failing which, he is invited to provide all the information requested in this agreement concerning the effective beneficiary of the agreement on whose behalf he is acting, and to furnish all corresponding supporting documents and proxies.
+4.1.3. According only to “strong KYC” requirements and when the Merchant is not domiciled in France or on French territory, he is invited to state whether he (or the beneficiary on whose behalf he is acting) is a Politically Exposed Person under the meaning of article L.561-10 2° of the French Monetary and Financial Code (Code Monétaire et Financier). Politically Exposed Persons are required to furnish the following supplementary information:
+Proofs of their function as Politically Exposed Person;
+Information on the provenance of funds likely to transit via MOBIYO under the terms of this agreement.
+Note: Approval of the registration of a Merchant who is also a Politically Exposed Person is subject to the decision of the executive body of MOBIYO.
+4.1.4. The Merchant enters a login and a password to access his MOBIYO Account.
+4.1.5. The Merchant enters into this agreement unconditionally.
+The Merchant consents online to these General Terms and Conditions, and to all the documentation applicable to the MOBIYO payment platform. A Merchant who is also a legal entity is further required to return two signed copies of this agreement to MOBIYO.
+4.1.6. According only to “strong KYC” requirements, the Merchant also submits copies of supporting documents.
+The Merchant must furnish MOBIYO with the following documents within fifteen (15) days:
+Copy of the official ID card bearing a photograph,
+Current proof of residence,
+Proof of references of the bank holding the applicant’s account (e.g. RIB slip),
+“K-bis” or, where appropriate, any other company registration document issued by the authorities of the legal entity’s home country,
+Copy of the legal entity’s articles of association,
+Where appropriate, any proxies and powers required to execute this agreement.
+MOBIYO reserves the right to ask the Merchant to furnish supplementary supporting documents.
+4.1.7 « Strong KYC » requirements, conditions
+Identification through « Strong KYC » procedures is requested and will be requested to the MERCHANT when:
+MERCHANT is located outside the EU (Group 1), ii) outside EEE (Group 2), iii)or outside one of the recognized third party countries (Group 3) that would have the same anti-fraud and money-laundering legislation than EU (see the countries hereafter).
+Group 1: Austria, Belgium, Bulgaria, Cyprus, Denmark, Estonia, Finlance, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Czech Republic, Romania, Kingdom, Slovakia, Slovenia, Sweden.
+Group 2: Iceland, Lichtenstein, Norway.
+Group 3: South Africa, Australia, Brazil, Canada, South Korea, USA, Russia, Hong Kong, India, Japan, Mexico, Singapore, Switzerland.
+and/or
+A payout request for more than €250 from the MERCHANT.
+and/or
+MERCHANT cumulated 12 months’ payouts amount requests is beyond €2.500.
+and/or
+MERCHANT wishes to use credit card payment mean.
+and/or
+MERCHANT receives payments from countries located outside of the Group of countries above.
+4.2. Approval of registration by MOBIYO:
+4.2.1. MOBIYO checks that the Merchant fulfils the conditions necessary for registration (aged 18 or over, for example, or not already an MOBIYO Account holder), that the application is complete, the information and supporting documents consistent and that the Merchant does not figure on the assets frozen or embargo list.
+4.2.2. If the application is complete and consistent, MOBIYO sends the Merchant an e-mail of confirmation containing instructions to be followed by the Merchant in order to confirm his registration.
+4.2.3. If the application is not complete or consistent, or if the Merchant does not fulfill the conditions for registration, the registration is not confirmed and the registration process is suspended for a period of one month to await further information. If information is not regularized within this period, the application is closed.
+4.3. Merchant’s MOBIYO Account:
+4.3.1. The Merchant has sole responsibility for access to and use of his MOBIYO Account and in particular for password confidentiality.
+4.3.2. For the duration of this agreement, the Merchant undertakes to modify without delay, via his MOBIYO Account, the data furnished on registration so that the data remains accurate, up to date and exhaustive. The Merchant also undertakes to furnish all supporting documents that may be required.
+4.3.3. Should the information furnished by the Merchant become out of date or be accidentally incomplete, MOBIYO reserves the right to suspend with immediate effect the provision of services set out in this agreement, with no compensation for the suspension being due to the Merchant and no interest accruing to the Merchant on any sums withheld, until such time as the Merchant regularizes his situation, or to terminate the agreement as provided for in article 19.
+4.4 Installation of scripts or API payment request:
+4.4.1 MOBIYO furnishes the Merchant with all the information and technical instructions necessary to install and use the MOBIYO payment platform.
+4.4.2 The Merchant integrates the scripts (or the MOBIYO API payment request) on his website, following the integration procedure supplied at: http://www.mobiyo.com/22/integration
+Note : The Merchant shall accept to include the MOBIYO payment terms and conditions in the scripts (or the MOBIYO API payment request).
+4.4.3 The Merchant carries out all upgrades, updates, deletions and reinstallations of scripts (or API payment requests) requested by MOBIYO. MOBIYO will use its best efforts to inform Merchants in advance of any MOBIYO scripts (or MOBIYO API payment requests).
+4.4.4 Should the Merchant encounter any difficulties during any of these operations, he may contact the MOBIYO Customer Assistance service (see article 13).
+4.5. Definition of Merchant URLs and type of payment:
+4.5.1 The Merchant uses his MOBIYO Account to determine the URLs of content, virtual goods and/or services he wishes to distribute on a paid basis on his website, and also the corresponding payment methods he wishes to authorize on his website.
+4.5.2 The Merchant may modify any or all of these parameters at any time.
+4.5.3 MOBIYO advises the Merchant to make regular changes to the URL of the content virtual goods and/or services offered for sale, to install the protection scripts provided by MOBIYO, and to avoid disclosing links giving direct access to his content or services.
+ARTICLE   5: TERM
+5.1 This agreement comes into effect on the date the Merchant’s registration is approved by MOBIYO. This approval date will be legally binding upon both parties as the date of execution of this agreement. The Merchant is registered with MOBIYO and may begin using the MOBIYO service when the registration procedure set out in article 4 is fully and successfully completed.
+5.2 Unless any other herein annexed stipulations: This agreement is entered into for an unlimited term.
+5.3. When the agreement comes to an end, MOBIYO will make an outpayment of all sums remaining due to the Merchant under the conditions set out in article 19.
+5.4 In the event of the Merchant’s death, MOBIYO will make an outpayment of all sums remaining due to the Merchant to any legitimate heirs and assigns of the Merchant who have made themselves known to MOBIYO or, failing which, to the French State. The agreement will be terminated automatically by the death of the Merchant.
+ARTICLE  6:  OBLIGATIONS UPON THE MERCHANT
+6.1 Obligations as regards online identification:
+In accordance with current legislation, the Merchant undertakes to make available to the public on all websites published by the Merchant all or part of the following information, depending on the situation applicable to the Merchant (Company/individuals/self employment):
+The Merchant’s denomination or company name, registered headquarters, telephone number and, in the case of a company subject to registration with a Register of Trades and Companies or Register of Professions, the company registration number, registered capital and address of the registered headquarters;
+The Merchant’s last name, first name, home address and telephone number;
+The name of the director or co-director of publication of the Merchant’s website;
+The name, denomination or company name and address of the host or hosting provider of the Merchant’s website (with whom the Merchant has registered his last name, first name, home address and telephone number, as appropriate)
+6.2. Technical obligations:
+6.2.1 The Merchant undertakes to ensure that the addresses of his website content or services effectively and validly point to the content or services concerned.
+6.2.2 The Merchant undertakes to comply with all the technical indications and instructions provided by MOBIYO regarding the installation and use of the MOBIYO payment platform, particularly as regards security. More specifically, the Merchant undertakes not to attempt to alter or modify the operation of the MOBIYO payment platform.
+6.2.3 The Merchant accepts sole expense and sole and full responsibility for the integration of scripts (or of MOBIYO API payment requests) on his website, and equally for the upgrading, updating, withdrawal, deletion or reinstallation of scripts or MOBIYO payment requests.
+6.2.4 The Merchant undertakes not to display directly on his website the premium numbers used for MOBIYO payments. Only scripts (or MOBIYO API payment requests) may contain this information.
+6.2.5 The Merchant authorizes MOBIYO to access the content and services he markets, to enable MOBIYO to carry out, as required, all checks and tests necessary. Such access does not generate entitlement to an outpayment.
+6.3 Obligations as regards the Merchant’s content or services:
+MOBIYO reminds the Merchant, whether an individual or a legal entity, that his activity constitutes e-commerce under the meaning of article 14 of French Act n°2004-575 of 21 June 2004 in its current version.
+6.3.1 The Merchant undertakes not to use the MOBIYO payment platform for payments for material goods without MOBIYO written authorization.
+6.3.2 The Merchant must regularly check the availability and up to date nature of the content or services he markets.
+6.3.3 The Merchant accepts sole editorial responsibility for his website and for the content or services he markets. The Merchant undertakes to comply with the current regulations applicable to his activity and in particular with:
+Respect for the individual and for human dignity, for personality rights (such as image rights and privacy rights);
+Intellectual property rights and in particular trademark and patent law, copyright and neighboring rights, the suigeneris rights of database producers.
+The rights of individuals and property.
+6.3.4 The Merchant undertakes to abide by the recommended codes of practice applicable to his activity and not to market content or services:
+contrary to public order, the law or common decency;
+directly or indirectly insulting, defamatory, racist, xenophobic, homophonic, revisionist or injurious to the honour or reputation of others;
+directly or indirectly inciting discrimination against or hatred of an individual or group on the grounds of origin, sexual orientation, ethnicity, nationality or religious convictions;
+threatening an individual or a group;
+zoophilic or pedophilic in nature, offering or inciting to the use of prostitution or escort services;
+urological or scatological in nature, trading in or inciting to trade in elements and products of the human body;
+degrading or injurious to human beings, their dignity or integrity;
+inciting to commit an offence, crime or act of terrorism or seeking to justify war crimes or crimes against humanity;
+inciting to suicide;
+appealing to public generosity or for donations from the public;
+offering or proposing online gambling services and betting services not authorized under current regulations (including, if required, “Instant Wins” games) or other chance paying games that would not be allowed by local laws and regulations;
+enabling third parties directly or indirectly to procure i) software modified or distributed without authorization or license, ii) serial numbers of pirated software, iii) software enabling acts of intrusion into IT, telecommunication and automatic data processing systems, iv) virus and other logic bombs;
+enabling third parties directly or indirectly to procure illicit substances or products;
+in violation of the private nature of correspondence;
+confidential by virtue of a legislative measure or legal deed (in particular, privileged internal information, possession of which would constitute insider trading or breach of professional confidentiality).
+Considered to be prohibited by competition authorities.
+6.3.5 The Merchant undertakes to take all necessary measures to prevent access by minors to any element of an erotic or pornographic nature in the content or services he markets.
+6.3.6 The Merchant undertakes not to feature on his website, content or services any hypertext links redirecting directly or indirectly to pages featuring illegal elements.
+6.3.7 The Merchant undertakes to comply with all legal and regulatory obligations in force with regard to assistance, quality and warranty of the content or services he markets. Where necessary, the Merchant will ensure replacement of any defective content or service.
+6.3.8 The Merchant undertakes to comply with current legislation on personal data protection and to declare to the French Data Protection Agency (CNIL) any files he may constitute from information gathered on Visitors.
+6.3.9 The Merchant is under obligation to display on his website the General Terms and Conditions of Sale of the content or services he markets.
+6.3.10 Merchant undertakes to comply with carrier ethical rules and principles, in connection with the use of certain payment means. Merchant is responsible for complying with any rules and laws in connection with its activities. For the French territory, specific rules related to SMS and IVR are available there: http://www.afmm.fr/chartes-deontologie-sms-plus/ and there  http://www.afmm.fr/chartes-sva/.
+6.4 Other obligations:
+6.4.1 The Merchant undertakes to refrain from any statements or actions of a nature to bring the image, name and/or reputation of MOBIYO into disrepute.
+6.4.2 The Merchant undertakes not to infringe the rights held by MOBIYO to the MOBIYO payment platform. The Merchant will in particular refrain from any reproduction or adaptation of all or part of the hardware and software elements making up the MOBIYO payment platform, irrespective of the medium concerned.
+6.4.3 The Merchant undertakes to respect the strictest confidentiality regarding all technical or commercial information to which he may become privy through the performance of this agreement.
+6.4.5 The Merchant undertakes not to attempt, by any means that could be considered fraudulent, to augment the marketing of his content or services via the MOBIYO payment platform.
+6.4.6 The Merchant will refrain from subletting or trading in the MOBIYO payment platform. He undertakes not to use the MOBIYO payment platform on behalf of a third party or a website of which he is not the publisher.
+6.4.7 The Merchant undertakes to comply with the rules of security and use of the MOBIYO payment platform.
+6.4.8 The Merchant undertakes to declare to the appropriate authorities all revenue earned from his activity and more specifically as part of the marketing of his website content or services via the MOBIYO payment platform. The Merchant undertakes to pay all taxes applicable to his activity or required by his status. The Merchant has sole responsibility for this status and for the information he declares when registering with MOBIYO.
+The Merchant is reminded that his activity may require the creation of an appropriate legal structure in accordance with current legislation in his country of residence and/or operation.
+ARTICLE 7:  COMMISSION AND CHARGEBACK:
+7.1. In accordance with article 2.1., the Merchant employs MOBIYO to manage collection of payments made by Visitors for the purchase of content, virtual goods and/or services on the Merchant’s website.
+7.2. MOBIYO is responsible for making outpayments to the Merchant corresponding to Visitors payments, after deducting MOBIYO commissions which includes all the expenses deducted by MOBIYO and by the various operators and payment service providers.
+7.3. The Merchant is informed via his MOBIYO Account of the amount of the MOBIYO commission and of the sums due to him in respect of the Visitor transactions carried out on his website.
+7.4. The sums due to the Merchant after deduction of the commission debited by MOBIYO are calculated for each transaction (i) according to the payment instrument used by the Visitor (ii) according to the transaction amount, in accordance with the rates and outpayments schedule drawn up by MOBIYO (see article 12).
+7.5. In connection with the use of payment mean « Credit Card (CB) », Merchant expressly accepts to pay an administrative fee for each rejected transaction. Administrative fee per rejected transaction: €20.00. MOBIYO will deduct the total amount of chargeback fees and administrative fees from the Merchant payouts (or invoice directly the corresponding amount to the Merchant).
+ARTICLE 8:  AVAILABILITY OF FUNDS:
+8.1 MOBIYO makes the sums due to the Merchant available on his MOBIYO Account as from the moment MOBIYO receives the funds. MOBIYO make may these funds available in advance, as in the case of transactions made using the Audiotel (IVR) or premium SMS means of payment.
+8.2 In order to guarantee the security, protection and allocation of funds to be paid out to Merchants when payments are made by Visitors, MOBIYO deposits these funds in bank accounts opened specifically for the purpose.
+8.3 Sums collected by MOBIYO on behalf of the Merchant do not attract any contractual or legal interest, whatever the status of the Merchant.
+ARTICLE 9:   OUTPAYMENTS
+9.1. The operation of paying the Merchant the sums due to him, after deduction of the commission debited by MOBIYO, is called an outpayment.
+9.2. Requests for outpayments:
+9.2.1. When wishing to obtain the outpayment of all or part of the sums due to him, the Merchant makes a request via his MOBIYO Account, completing the “outpayment request form”. He is then invited to follow the indications given in his MOBIYO Account.
+9.2.2. At each outpayment request, the Merchant certifies on his honor via his MOBIYO Account i) that the content or services marketed are legal, compliant with current legislation and correspond to the content or services declared by the Merchant on registration, and ii) that he holds all the requisite rights and authorizations (and in particular the intellectual property rights) entitling him to use the content or services and hence submit a request for outpayment.
+9.2.3. Where the Merchant has not submitted a request for outpayment in respect of the sums due to him and has not used the MOBIYO payment platform for a period of 3 (three) years, MOBIYO will debit the Merchant the sum of €5 per month in respect of administrative management of the funds unclaimed by the Merchant.
+9.2.4 MOBIYO makes outpayments without charge as from an amount of €50 available for outpayment on the Merchant’s MOBIYO Account. Should the Merchant request outpayment for a sum of less than €50, the MOBIYO commission will be increased by the difference between the amount requested by the Merchant and the sum of €50.
+9.2.5. On transactions made by bank debit/credit card payment, the Merchant will be paid starting from the first day of Month M+2.
+9.2.6. Once the outpayment is made, the Merchant immediately checks all sums paid to him and reports any anomaly. The Merchant undertakes to notify MOBIYO without delay of any unauthorized payment (or outpayment) operation. Any anomaly not notified within 3 (three) months after it should have been checked by the Merchant will be foreclosed and the Merchant will be unable to claim any outpayment or compensation.
+9.2.7. If the MERCHANT website (or service) is not available at the time of the MERCHANT payouts requests, MOBIYO reserves the right to defer payment to the MERCHANT until termination of any legal/administrative buyer contesting period.
+9.3. Amount of outpayments:
+For each of the payment methods concerned by the outpayment (One time payment, pay-per-minute, Subscriber Pass or Access Ticket, as defined in article 3), MOBIYO has established the outpayments shown in the rates and outpayments schedule referred to in article 12.
+9.4. Outpayment methods:
+9.4.1. MOBIYO will use its best efforts to make payment within 24 to 48 hours of receipt (on a working day) of the Merchant’s outpayment request. For contractual purposes specific payment terms may be negotiated between MOBIYO and The Merchant. Specific payment terms will be annexed to the present document.
+9.4.2. MOBIYO is unable to guarantee handling times by third party agencies such as postal services, other payment service providers, telecommunications operators and ISPs.
+9.4.3. In accordance with article R. 551-20 of the French Monetary and Financial Code (Code Monétaire et Financier), the initial outpayment may only be made by bank transfer to the account for payment declared by the Merchant on registration. Any outpayment is made by default by bank transfer to the Merchant’s bank account using the references provided to MOBIYO on registration or as subsequently updated.
+9.4.4. Any bank collection charges are at the Merchant’s expense.
+9.4.5. The Merchant acknowledges and agrees that MOBIYO may deduct the commission and any sums due in respect of disputes (see article 11) from the sums due to the Merchant.
+9.4.6. All outpayments corresponding to payments made by Visitors on the MOBIYO payment platform, after deduction of the MOBIYO commission, are by default and unless otherwise stipulated made in euros.
+9.4.7.In the event of an outpayment involving a currency exchange rate:
+the exchange rate used will be the rate applying on the day of the outpayment request,
+exchange rate expenses and any bank collection charges are at the Merchant’ expense,
+a 2% administrative commission fee will be charged to the Merchant by MOBIYO on any amount concerned by an exchange rate operation,
+the Merchant unconditionally agrees to bear the cost of exchange rate fluctuations when an outpayment is made to the Merchant from funds made available in advance (i.e. before MOBIYO is in possession of the funds). The Merchant agrees that MOBIYO may deduct from future outpayments to the Merchant or request reimbursement of exchange rate variations taking place between the date of early outpayment and the date on which MOBIYO recovers the sums concerned, when these variations exceed 3%.
+9.4.8. In the case of international transactions, the Merchant agrees that taxes, deductions and other withholdings at sources may apply locally, as appropriate, and may modify the conditions of MOBIYO outpayments.
+ARTICLE  10:  STATEMENTS AND AGREEMENT ON PROOF
+10.1. The MOBIYO Account contains a statement of the operations carried out on the Merchant’s website via the MOBIYO payment platform, as set out in articles 7.4. and 7.5.
+10.2. MOBIYO retains information relating to payments made by visitors and commissions received by MOBIYO for a period of 5 (five) years from the last transaction. MOBIYO enables the Merchant to access this information, presented in the form of monthly summary statements (downloadable and printable) on the Merchant’s MOBIYO Account.
+10.3. For the duration of this agreement, the statistics provided by the MOBIYO payment platform will serve as the sole basis used for recording payments (the statistics are based on the article 10.4 sources) and making outpayments to the Merchant, to which the Merchant unconditionally agrees.
+10.4. In order to maintain the strictest transparency and impartiality as regards payment operations made, the parties will consider as the sole statistics valid in the event of a dispute as those produced by comparing the MOBIYO platform statistics with:
+For payments involving a telecommunications operator: the statistics of the telecommunications operator concerned.
+For payments made by bank debit/credit card: the statistics of the banking service provider signatory to the MOBIYO distance selling agreement having collected payment on the transactions in question.
+For payments involving electronic wallets or third party service providers: the statistics of companies issuing these means of payments.
+ARTICLE 11:  ANTI-FRAUD AND MONEY-LAUNDERING LEGISLATION, DISPUTED PAYMENTS
+11.1 Anti-fraud and money-laundering legislation:
+11.1.1 For the duration of this agreement, the Merchant undertakes to comply with current anti-fraud and money-laundering legislation. He further undertakes more specifically to respond diligently to any request from MOBIYO or from any judicial (or administrative) authority concerning his activity.
+11.1.2 Any violation by the Merchant of anti-fraud and money-laundering regulations constitutes a failing of particular gravity entailing termination of the agreement on the conditions set out in article 19.
+11.1.3 For the duration of this agreement, the Merchant undertakes to respond within 72 hours to any request from MOBIYO or from any judicial (or administrative) authority concerning his activity and the payments made on his website. He further undertakes to allow any judicial (or administrative) authority physical access to the data on simple request.
+11.1.4 In the event of fraud due to the Merchant’s negligence in his use of the MOBIYO payment platform, no outpayment will be made. Should the sums concerned have already been paid out, the Merchant agrees that corresponding sums be deducted from the amount of his outpayments or reimbursed to MOBIYO, irrespective of the date on which the fraud occurred.
+11.1.5 In the event of fraud or attempted fraud by the Merchant in the use of the MOBIYO payment platform, no outpayment respecting the sums concerned will be made to the Merchant. Fraud and/or attempted fraud in the use of the MOBIYO payment platform constitutes a failing of particular gravity entailing termination of the agreement on the conditions set out in article 19.
+11.1.6 All sums arising from fraudulent transactions or money-laundering operations will be retained MOBIYO pending an internal decision by MOBIYO, or a judicial or administrative decision.
+11.2 Fraudulent payments – Disputes:
+11.2.1 In the event of fraudulent payment by a Visitor, related to the theft of a mobile phone, bank debit/credit card, misappropriation of a telephone operator line or number and, more generally, in the event of any fraud relating to an element over which MOBIYO has no control, no outpayment will be made to the Merchant. Should the sum concerned have already been credited to the Merchant’s MOBIYO Account or the subject of an outpayment, the Merchant agrees that corresponding sums be deducted from the amount of his outpayments or reimbursed to MOBIYO, irrespective of the date on which the fraud occurred.
+11.2.2 In the event of the transaction made by a Visitor on the MOBIYO payment platform to acquire content, virtual goods and/or a service is unpaid, for whatever reason (and more specifically in the event of disputed or rejected transactions, particularly by the banks), the Merchant agrees that corresponding sums be deducted from the amount of his outpayments (or future outpayments) or reimbursed to MOBIYO, if the sum has already been the subject of an outpayment and irrespective of the date of the event giving rise to the unpaid transaction.
+11.2.3 If an unpaid transaction is suspected, in order to protect against the risks represented by such transactions, MOBIYO may withhold the entire amount under suspicion until all such doubts are removed. MOBIYO will then make an outpayment of the sums withheld.
+11.3 Information to the Merchant: The Merchant will be notified via his MOBIYO Account of any refusal by MOBIYO to make an outpayment and/or any withholding of an outpayment, and a reasoned explanation will be provided (within the limits allowed by law).
+Notice: Rejected transaction involves the payment of a chargeback fee and an administrative fee to Mobiyo (Cf article 7.5).
+ARTICLE 12: RATES AND OUTPAYMENTS SCHEDULE
+12.1. Unless any other herein annexed stipulations:The rates and outpayments schedule drawn up by MOBIYO may be accessed to the following address: https://www.mobiyo.com
+12.2. The rates and outpayments schedule may be modified at any time to reflect the pricing conditions applied to MOBIYO by the telecommunications operators and the various service providers on the market. In the event of a modification reducing the outpayments made to the Merchant, MOBIYO undertakes to inform the Merchant (by e-mail or via the Merchant’s MOBIYO Account) without delay and no later than 8 working days prior to the new outpayment rates coming into effect. Should the Merchant not wish to accept the new outpayment rates, he may terminate this agreement on the conditions set out in article 19. Otherwise, the Merchant will be considered as having accepted the modification to the outpayment rate.
+12.3. In connection with the use of payment mean « Credit Card (CB) », Merchant expressly accepts to pay a chargeback fee and an administrative fee for each rejected transaction (Cf article 7.5.)
+ARTICLE 13: CUSTOMER SERVICE
+13.1. Merchant Assistance
+In order to assist Merchants in using the MOBIYO payment platform and more specifically to answer their questions regarding:
+Installation and configuration of the MOBIYO payment platform;
+How the MOBIYO Account works;
+Outpayments;
+The payment methods proposed and activation of certain specific types of payment;
+Security of the MOBIYO payment platform;
+Availability of the MOBIYO payment platform;
+Anti-fraud and money laundering measures.
+MOBIYO provides a helpline for Merchants available:
+24-hour contact via the following e-mail address:merchant-support@mobiyo.com;
+Telephone helpline, open from 9h30 to 12h30 and 14h00 to 18h00, Monday to Friday; to callers from across Europe: +33 (0)1 71 25 55 55
+13.2. Transactions Assistance
+To assist Visitors encountering difficulties when making a payment via the MOBIYO payment platform, or wishing to report illegal activity or content, or who are victims of fraud, MOBIYO provides Visitors with a transaction assistance service available:
+24-hour contact via the following e-mail address: customer-support@mobiyo.com ;
+Telephone helpline, open from 9h00 to 18h00, Monday to Friday; to callers from across Europe:+33 (0)1 71 25 55 55
+ARTICLE 14:  AVAILABILITY OF THE MOBIYO PAYMENT PLATFORM
+14.1 MOBIYO strives to maintain optimal quality on its payment services. MOBIYO uses its best efforts to maintain a monthly availability rate of 99.5% for the MOBIYO platform, excluding maintenance periods. MOBIYO will do its best to inform the Merchant in advance of any maintenance operation likely to involve a temporary shutdown of the MOBIYO payment platform.
+14.2. The Merchant is informed that access to an Internet network and/or to a telecommunications provider’s network is needed in order to use the MOBIYO payment platform.
+14.3. The Merchant is informed and accepts that MOBIYO is unable to guarantee elements beyond its control, in particular:
+non-failure of the Internet network and/or ISP network, preventing some or all Visitors from accessing the ability to make a payment via the MOBIYO payment platform
+non-failure of telecommunications operators, preventing some or all Visitors from accessing the ability to make a payment via the MOBIYO payment platform using their telecommunications resources.
+14.4 MOBIYO does not guarantee the compatibility of the Merchant’s hardware or software with the MOBIYO payment platform. The MOBIYO solution meets the highest standards of security and compatibility on the market. It is up to the Merchant to carry out any necessary tests and, where necessary, contact MOBIYO Customer Service (see Article 13), to ensure that the MOBIYO payment platform is fully operational on his website.
+ARTICLE 15:  LIABILITY
+15.1 The Merchant recognizes and formally accepts that MOBIYO may not be held liable, either directly or indirectly, under any heading and on any grounds whatsoever, for any prejudice arising from:
+an astructures, irrespective of the cause.
+force majeure, as defined in article 20 of this agreement.
+use of content or services prohibited by the provisions of this agreement.
+third party intrusion into the Merchant’s IT system.
+the nature, quality, quantity or content of information, data and files released on the Merchant’s website, whether free or paid.
+any commercial prejudice, loss of customers, loss of orders, commercial disruption, loss of profit, image or brand image or any legal action brought against the Merchant by any party as a result of the Merchant’s content or services.
+any failure of the Internet network and/or failure by telecommunications service providers and operators and/or payment service providers.
+Indirect (or similar) damages as the result of the use of MOBIYO by The MERCHANT.
+15.2 Should a third party seek to hold MOBIYO liable on any heading whatsoever as a result of the content or services of websites published by the Merchant, the Merchant undertakes to indemnify MOBIYO on request for any fines imposed and any legal costs incurred in the defense of MOBIYO (including any lawyers’ fees and expert witness fees).
+Note: The Merchant’s content or services are neither published nor hosted by MOBIYO.
+15.3 The Merchant further acknowledges that:
+MOBIYO may not be held liable in any way for the Visitor’s use of the Merchant’s content or services, and more specifically of the content, virtual goods and/or services obtained via the MOBIYO payment platform. The Merchant will therefore assume liability for any loss and prejudice, direct or indirect, material or immaterial, that may be suffered by the Visitor as a result of the Merchant’s content or services. Consequently, the Merchant will assume sole responsibility for any dispute with a third party in respect of information disseminated on his website and of his content or services. The Merchant is also solely liable to Visitors should the content or services proposed not correspond in nature, quality or quantity to the offer and the Merchant’s advertising.
+MOBIYO may not be held liable in the event of non-delivery, attributable to the Merchant, to the Visitor of the content or service proposed, whether by reason of technical or hardware error or by reason of the non-existence or non-availability of the content or service listed in the Merchant’s offer.
+Note: Under no circumstances does MOBIYO deliver the Merchant’s content or service. This operation is performed from the Merchant’s website. MOBIYO is merely a payment service provider and does not have the capability to deliver, delete or modify the Merchant’s content or services.
+The Merchant further undertakes to inform MOBIYO without delay, by registered letter with acknowledgement of receipt, of all complaints, legal actions, breaches or claims relating to the content, virtual goods and/or services offered for purchase via the MOBIYO payment platform.
+The Merchant has sole liability for any loss or prejudice, material or immaterial, suffered by MOBIYO as a result of the Merchant’s wrongful or inadequate use of the MOBIYO payment platform.
+15.4 MOBIYO may not be held liable in any way for unauthorized use of the Merchant’s password and hence for the unauthorized use of his MOBIYO Account. The Merchant undertakes to inform MOBIYO immediately of any unauthorized use of his password and/or MOBIYO Account.
+15.5 The Merchant is solely liable for all costs incurred in keeping his website and its content or services online. MOBIYO does not host any content or service.
+15.6 MOBIYO declines all responsibility should the Merchant refuse or neglect to update the MOBIYO payment scripts (or MOBIYO API payment requests) on his website, in accordance with MOBIYO instructions.
+15.7 MOBIYO declines all responsibility should the Merchant’s website be connected to the MOBIYO payment platform in breach of a contract or exclusivity agreement entered into by the Merchant with a third party.
+15.8 MOBIYO declines all responsibility should the Merchant fail to declare sums received from marketing his content or services via the MOBIYO payment platform.
+15.9 MOBIYO may under no circumstances be held liable in the event of the Merchant failing to comply with data protection regulations in the exercise of its activities.
+ARTICLE 16: CITATION, PROMOTION AND ADVERTISING
+16.1 For the duration of this agreement, the Merchant expressly authorizes MOBIYO, under the terms of a non-exclusive worldwide license granted free of charge, to cite the Merchant’s website as an MOBIYO client and to present the Merchant’s content or services in order to promote the MOBIYO payment platform.
+16.2 The Merchant undertakes to furnish MOBIYO with all necessary authorizations for this purpose.
+ARTICLE 17:  INTELLECTUAL PROPERTY
+17.1 The MOBIYO website, services and payment platform, together with all content, texts, databases, graphics, software, applications, scripts, API, visual and audiovisual elements of which they are composed, are the exclusive property of MOBIYO and are protected by intellectual property rights.
+17.2 Apart from the licences granted under this agreement, neither of the parties acquires any intellectual property right over any element belonging to the other party by virtue of this agreement.
+17.3 By virtue of this agreement, for its duration and worldwide, MOBIYO grants the Merchant a solely non-exclusive and non-transferable right to access the MOBIYO website in order to consult his MOBIYO Account.
+17.4 For the purposes of this agreement, for its duration and worldwide, MOBIYO also grants the Merchant a solely non-exclusive and non-transferable right to the MOBIYO payment scripts (or API payment requests), so that these may be used and represented on the Merchant’s website. This license is granted solely for the purposes of this agreement and more specifically for the operating requirements of the MOBIYO payment platform. Under no circumstances is the Merchant authorized to distribute, free of charge or for consideration, any element making up the MOBIYO payment scripts (or MOBIYO payment requests).
+17.5 The Merchant further undertakes not to modify, disassemble, decompile or in any way seek in any way to prevent the functioning of the MOBIYO payment script (or MOBIYO payment request) or any element belonging to MOBIYO.
+17.6 Lastly, the Merchant undertakes not to remove the MOBIYO trademark from any element made available by MOBIYO.
+17.7 The MOBIYO trademark is a registered trademark owned by MOBIYO. This agreement does not grant any license or authorization to reproduce the MOBIYO trademark. The Merchant undertakes not to reproduce or seek to reproduce the MOBIYO trademark on his website, content or services (other than elements licensed to the Merchant and which may carry the MOBIYO trademark, without entitling the Merchant to reproduce or modify it). The Merchant further undertakes not to reproduce or seek to reproduce the MOBIYO trademark on any directory or any URL without express authorization in writing from MOBIYO. The Merchant further undertakes not to seek to present or list his website by using the MOBIYO trademark.
+17.8. MERCHANT shall remain the sole owner of any contents or services. MERCHANT grants MOBIYO a non-exclusive license on the MERCHANT contents or services available through the MOBIYO payment means. The above license is a royalty-free worldwide license granted for the duration of the agreement. The license is strictly limited to the agreement payment services needs and requirements and no rights are granted to MOBIYO outside of the payment service perimeter (i.e the license can only be used by MOBIYO in order to provide the MERCHANT with payments services). In the same way MOBIYO will be entitled to provide its payments partner with any sub-licenses that would be only and strictly required in order to provide the payment services to the MERCHANT (i.e the license can only be used by MOBIYO payment partners in order to provide the MERCHANT with payments services). MERCHANT shall remain at any time the only responsible of its contents or services towards end-users. The above license will not substitute MOBIYO (or MOBIYO payment partners) to the MERCHANT especially for warranties or responsibilities purposes.
+ARTICLE  18:  PERSONAL DATA
+18.1 MOBIYO gathers and processes data on the Merchant in order to enable the Merchant to subscribe to the service, access his MOBIYO Account and obtain payment of the sums collected by MOBIYO under the terms of this agreement. The data is gathered for such time as the Merchant continues to use MOBIYO services and for a 5 year-period beyond. The data are located in France according to best security practices.
+18.2. Pursuant to the French Data Protection Act n° 78-17 of 6th January 1978, the Merchant has the right to access, amend, correct and delete his personal data supplied to MOBIYO. MOBIYO certifies that it has registered such processing of personal data through its privacy controller. Furthermore, MOBIYO complies with the CNIL Unique Authorization AU3 (regarding Money laundering) and holds an authorization to work with the company SETEX located on the territory of Madagascar for the purpose of controlling the validity of Merchant documents (CNIL Decision DF-2012-055).
+18.3 For the purposes of its activities and services, and in particular to promote their proper functioning, the MOBIYO payment platform uses a system of cookies. These cookies may contain data on the Merchant’s identification and browsing history on MOBIYO websites and services.
+The cookies can be blocked or deleted through Merchant’s browser options (i.e “Google Chrome”: press Ctrl + Maj + Suppr; “Internet Explorer”: press Alt+X then select Internet Option box, “Mozilla firefox”: Click on the Firefox menu and select Options)
+Note: Certain services may require cookies to be enabled.
+18.4 The Merchant has the right of access his personal data via his MOBIYO Account. He may also contact MOBIYO at the following address:privacy@mobiyo.com
+18.5 MOBIYO informs the Merchant that it will disclose all data required by a judicial (or administrative) authority.
+ARTICLE 19: TERMINATION, END OF AGREEMENT
+19.1 Termination not for cause:
+Unless any other herein annexed stipulations: Each of the parties may terminate this agreement at any time and without cause or compensation, on the giving of 8 days’ notice by e-mail to the other party. The party in receipt of the e-mail has two working days in which to confirm receipt. Failing such confirmation, the party wishing to terminate the agreement should repeat its notice of termination by registered letter with acknowledgement of receipt to the other party. Termination will then take effect 15 days from the first presentation for delivery of this registered letter.
+19.2 Termination for non-compliance with this agreement:
+i) Should the merchant fail to meet his obligations under the terms of this agreement, MOBIYO reserves the right to suspend the Merchant’s access to his MOBIYO Account for a period of 10 days and/or until the Merchant has fulfilled all his contractual obligations.
+ii) At the end of this period, and/or if the failing noted i) is of a particularly grave nature, ii) is not subject to correction or remedy on the part of the Merchant, MOBIYO may terminate this agreement automatically, without notice or compensation.
+19.3 Other grounds for termination:
+This agreement may be terminated automatically, without notice or compensation:
+a) should no Visitors access the Merchant’s content or services over a period of 6 months or should the Merchant’s website be unavailable for a period of 6 months;
+b) should the Merchant breach his anti-fraud and money-laundering obligations, as set out in article 11;
+c) should the Merchant fail to furnish the information and supporting documents requested in article 3 and/or deliberately furnish false or out of date information;
+d) should the Merchant make more than one registration on the MOBIYO payment platform without express authorization in writing from MOBIYO.
+19.4 End of the agreement:
+a) At the end of this agreement, for whatever reason, the Merchant undertakes to cease using all MOBIYO websites and services and more specifically to return or delete any element belonging to MOBIYO that remains in his possession. The Merchant particularly undertakes to delete, at his own expense and on his own responsibility, all MOBIYO payment scripts (or MOBIYO payment requests) from the websites he publishes.
+The Merchant is informed and expressly accepts that this agreement contains no revertibility clause. The Merchant undertakes not to use, directly or indirectly, all or part of the elements belonging to MOBIYO after this agreement ends.
+b) In the event of termination not for cause or the end of this agreement, MOBIYO will make an outpayment of the sums due to the Merchant.
+c) In the event of termination on the grounds of the Merchant’s failure to meet one or more contractual obligations, MOBIYO will make an outpayment of the sums due to the Merchant, once the Merchant has complied with all requests arising from the failure providing grounds for termination.
+d) In the event of termination for fraud, money-laundering or any other criminal activity, MOBIYO will make an outpayment of the sums due to the Merchant on presentation of a judicial (or administrative) decision authorizing MOBIYO to make the outpayment and subject to the sums concerned still being in the hands of MOBIYO and not those of a judicial (or administrative) authority.
+ARTICLE 20: FORCE MAJEURE
+20.1 The provisions of this agreement will not be applicable in the event of force majeure delaying or preventing one of the parties from accomplishing its obligations.
+20.2 Force majeure consists of any event characterized as external, irresistible and unforeseeable as recognized in legal precedent and preventing one or both parties from performing the undertakings given in this agreement.
+20.3 The following are expressly considered as cases of force majeure, in addition to those generally recognized by legal precedent: earthquakes, fires, storms, floods, strikes, wars, terrorist attacks.
+20.4 The party invoking force majeure as the reason for failure to perform its obligations will:
+Inform the other party by any means in its power of the occurrence of a case of force majeure, stating the precise nature, starting point and estimated duration of the event;
+Take all appropriate steps without delay to remedy the situation and, whatever the circumstances, to limit its effects.
+20.5 If the event constituting force majeure continues for a period longer than one (1) month from the date of notification to the other party, this agreement may be terminated at the discretion of either party, without compensation, by registered letter with acknowledgement of receipt sent to the other party within a period of ten (10) days.
+20.6. If the event constituting force majeure continues for less than a month, the obligations resulting from this agreement will be suspended for the duration of the event. This agreement will continue to be performed normally as soon as the event is over.
+ARTICLE 21: OTHER STIPULATIONS
+21.1 Should one or more provisions of this agreement be deemed invalid or declared so pursuant to a law or regulation or following a final decision by a competent jurisdiction, all other provisions will retain their full force and scope. The parties agree, in such an eventuality, to replace the clause declared null and void by a clause as close as possible in content to the object pursued by the parties through the clause to be replaced.
+21.2 This agreement constitutes the full and sole agreement between the parties, replacing and cancelling any previous agreement relating to the same object.
+21.3 The parties agree that MOBIYO may at any moment modify its services and/or the terms of this agreement, particularly in the light of technical and factual changes in the regulations and technologies associated with the service. The Merchant will systematically be informed by e-mail of the updating of this agreement. It is up to the Merchant regularly to consult the most recent version of this agreement on the MOBIYO website (http://www.mobiyo.com/general-terms-and-conditions). MOBIYO undertakes to inform the Merchant in the event of any material changes to this agreement. “Material changes” are understood to be any changes pertaining to essential elements directly affecting the performance of this agreement.
+21.4 Under no circumstances may the Merchant cede or transfer this agreement or any of his rights and obligations pursuant to this agreement, without the prior agreement, in writing, of MOBIYO.
+21.5 Under no circumstances may this agreement be considered as establishing between MOBIYO and the Merchant:
+either a de factocompany;
+or a partnership or any other situation entailing any mutual representation or any joint and several liability with regard to their respective creditors.
+In consequence of which, the parties have decided that their collaboration is governed solely by the provisions of this agreement.
+21.6 Unless otherwise stipulated, all information provided for in this agreement may be duly notified, at the discretion of MOBIYO: i) by means of an e-mail sent to the address given by the Merchant on registration and kept up to date by the Merchant, ii) by notification on the Merchant’s MOBIYO Account.
+ARTICLE 22: APPLICABLE LAW, JURISDICTION
+22.1 This agreement is subject to the laws of France, to which the Merchant expressly agrees.
+22.2 The service being performed in Paris, any dispute pertaining to the validity, interpretation or performance of this agreement and not amenable to amicable settlement will be subject to the jurisdiction of the Paris Court of Appeal.
+Connect with us
+Connect with us
+×
+The website uses cookie to improve your experience. We'll assume you're ok with our Privacy & Cookie Policy, but you can opt-out if you wish.

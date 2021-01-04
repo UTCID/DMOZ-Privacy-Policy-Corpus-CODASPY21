@@ -1,0 +1,970 @@
+https://www.jsware.net/jsware/privacytips.php5
+Software
+WEB-ED Editor
+Now free
+JS PhotoPrep
+Now free
+JS PhotoPrep Screenshot
+Download, Install and
+Compatibility Info.
+Small Programs
+BMap Kit
+VB Color Picker
+Desktop Writer
+jsPageFilter
+P D F Converter
+Stream Viewer
+jsFolderView +
+Utilities For Windows Vista/7
+Code and Utilities
+VBScript Samplesand Components
+VBS Samples - Index
+VB Code Samples
+MSI - Windows Installer
+VB on Linux
+Group Policy Help
+XPFix - Improving XP
+HXStoCHM Converter
+Info and Diatribes
+Online Privacy Tips
+Online Security Issues: Internet Explorer
+Browser Optimizing Tips
+Disk Imaging Backup & Computer Upgrades
+Changes in Computing
+Whither Technology?
+A reflection on the role of
+technology in the age
+of senile modernism.
+Links
+'Best Of'
+Tweaks and Fixes
+Site Links
+Home - Search
+About JSWare - Contact
+Privacy Policy?
+Blog
+Online Privacy Tips
+Information about privacy on the Internet:
+Cookies, Referrer Fields, adware, etc.
+Topics
+About Online Privacy
+What are the Issues?
+Privacy Policies and Trust Logos
+Increasing Hypocrisy Under Pressure
+Specific Privacy Information
+Cookies and Web Bugs
+Super Cookies: Adobe Flash is Trojan Horse Spyware ... or Cookies are the Least of Your Worries
+Anti-Phishing Protection: An Intrusive Gimmick
+Email - Spying, Spam and "web bugs"
+Beware of Web-based Email and Online Services
+Referrer Fields And User IDs
+Geo-location spyware
+Ads are Spyware
+The Intrusion of Ads
+HOSTS File - The Single Best and Easiest Privacy Tool
+Software Adblockers
+If You Enable Script You're a Sitting Duck
+Cloud Mania - The Return of the Walled Garden
+Unforeseen Consequences
+Other Privacy Issues
+Final Thoughts
+About Online Privacy
+Privacy is a big topic, and different people have very different feelings about it. Often those
+feelings are not consistent. For instance, Google's Eric Schmidt
+famously said
+that anyone who wants privacy is probably up to no good. Yet an article about Mr. Schmidt's divorce
+quotes "a source"
+saying that he and his wife are both very private.
+One way to help clarify privacy issues might be to divide people into 3 groups:
+• Group 1: People who don't care about privacy and don't see what the fuss is about.
+• Group 2: People who are concerned about privacy, but don't want to put a lot of effort into protecting theirs.
+• Group 3: People who worry about privacy and do what they can to protect theirs.
+If you use free webmail
+(GMail, Hotmail, Yahoo) or free "social networking" services (Facebook, Google+, MySpace)
+then you are probably in Group 1 or Group 2. You don't worry about privacy, or at least don't care enough to
+do anything about it. The information here will not be of interest to you. If you are in Group 3... this
+webpage is for you. If you are in Group 3 and you also use some of the services above, then... this webpage is really for you.
+It's probably safe to say that the vast majority of people are in Group 2. They are somewhat concerned
+about privacy, but they like convenience. They like convenient online services. And they love free. If privacy means losing any of that then they'd
+rather not think about it. The ostrich approach.
+The fact that most people take an ostrich approach goes a long way to explain the current
+landscape in terms of online privacy. Big online companies are increasingly making big money
+by exploiting private information in a big way. Protecting online privacy, or even gaining a basic understanding
+of the issues, is becoming increasingly complex. And most people are ostriches. The result is
+a kind of "Don't ask, don't tell" scenario. People avoid looking under the surface of ad-supported online
+services and those services, in turn, are careful to keep the surface looking unsuspicious.
+In February, 2012 President Barak Obama's people released a fancy-looking
+Privacy Bill of Rights,
+made to look like an official government document, but saying nothing substantial. Concurrently, major browser makers
+said they will
+support a "Do Not Track" button
+for browsers... Maybe... Well, actually,
+not really.
+Facebook's approach has been described as "asking for forgiveness rather than permission".
+They exploit their members, to cash in on targeted advertising, as much as they feel they can get away with; then they backtrack when there's a backlash. All of this
+generates vague sounds of progress, and that's enough for most people. That's really all the ostriches are asking for -- a credible excuse to go back to sleep.
+Back to top
+What are the Issues?
+Computers enable efficient storage of data, with easy search and cross-referencing.
+Modern privacy issues arise from that. It's not so much the information itself but the ease of access to
+it, and the ability to "datamine" it, that's changed. Most people are being watched most of the time
+online. Not being spied on requires effort. A few examples of datamining in action:
+• Forbes ran a story
+about a Target store that deduced through basic datamining that a 16-year-old girl was pregnant and began sending her maternity-related coupons --
+much to the surprise of her father.
+• NPR has an interview with Joseph Turow, author
+of The Daily You: How the New Advertising Industry Is Defining Your Identity and Your Worth.
+• PCWorld ran an article in 2007 detailing
+how most people mistakenly think they have online privacy. (Little has changed since then, except that the intrusions have become more
+extensive and more clever.)
+•
+A 2013 Wall Street Journal article
+details what might be called "cross-device spyware" -- the increasing ability of online corporations and advertisers to know who you
+are on whatever device (phone, PC, tablet, etc.) you use, and to connect all of your devices to you personally, showing ads on your phone,
+for example, based on what you did this morning online.
+• More recently
+Google has been branching into matching up purchases at physical store branches with ads viewed online. What enables that is a trend
+toward amalgamation of datamining, with giant data dealers like Acxiom and Datalogix getting involved to
+cross-reference private information from various sources. Those sources might have individually promised
+to share your private data only in a limited way. But the data dealers behind the scenes have made no
+such promise. Most people have never even heard of these companies.
+• As Edward Snowden informed us,
+US government agencies are also collecting this vast data, in arrangements with the major online companies involved.
+• Commercial server companies such as Akamai
+present a third problem. Online services companies spy. The NSA spies. Then there are the companies that provide server capacity for large websites.
+Those companies, particularly Akamai,
+are well positioned to spy on most of your online activity by simply monitoring at the general traffic level. That's a problem that can't be circumvented simply
+by controlling cookies and browser settings.
+Most webpages now carry ads from at least one giant ad server. The most notorious is Doubleclick.
+Doubleclick is Google. Youtube is also Google. A large number of webpages use the free Google Analytics service
+to track their visitors. That means that Google is probably sent at least your IP address from nearly all webpages you visit.
+If Google is contacted then Google can track you, which means Google should have little trouble knowing who you
+are, where you've been, and where you're likely to be going. (Google has a famous motto: "Don't be evil".
+But they never said, "Don't be immoral." What many people don't know is that in the semi-literate world of nerd culture, "evil" is adolescent slang for
+"bad". As in: "Those cookies are evil. They've been sitting out for two days.")
+Google/Doubleclick/Youtube is just one company. There are numerous other large online ad companies.
+There is Facebook, continually cooking up new schemes for tracking Facebook members. There are a growing
+number of membership websites that can track you. None of this is obvious on the surface. But one basic trend
+runs through all of it:
+Online companies offering free services are ad-supported. Many people want those services.
+They want those services to remain free. They want those services to be very convenient. The companies involved
+can make more money on ads if the ads are targeted, which means that if they know who is looking at the
+ad they can charge more for the ad space. There is a lot of money at stake.
+Spying has gone mainstream.
+The New York Times requires people to sign up and allow being tracked in order to read their online articles.
+The potential profits from online spying are so great that the NYT doesn't even publish all of their articles
+in their newspaper. They happily risk insulting their paying customers by denying them access to part of the newspaper they've paid
+for, in order to coax those customers online where their reading habits can be tracked!
+Back to top
+Privacy Policies and "Trust Logos"
+Forget about privacy policies. They are meaningless. When companies
+issue privacy policies they are typically so long and abstruse that no one reads them.
+The policy does not necessarily say your privacy will be respected. In many cases privacy
+policies explain that by using a service or website you agree to give up your privacy.
+Even if you take the trouble to read privacy policies, and even if a particular
+policy is respectful, the authors invariably reserve the right to change the policy at any time
+and claim that you will auto-agree with any policy they publish, by virtue of their unilateral decree.
+That is, they claim that you will automatically sign on to any contract they post, even if you
+don't even know about it! In effect they're claiming the right to forge your signature.
+What about the reassuring, official-looking emblems and logos from "trustiness"
+organizations such as TrustE?
+Organizations like TrustE are trade organizations, created to head off government action over online privacy.
+In the view of most companies running online services, they simply can't afford to be honest.
+They have to spy on you to meet their profit goals. (Which were concocted based on the assumption
+that they would spy on you.) They pay for a TrustE logo, or join TrustE, or post privacy policies, to enable spying, not
+to stop it.
+What if you deal with a company that you really do trust? Perhaps you use free webmail
+or store your photos at a free website. Maybe you have no doubts about the trustworthiness
+and dependability of that
+company. But that company could also be bought out. The
+new owner would have no commitments to you. You cannot have a trusting relationship
+with a corporation. It is an amoral entity. There is no one there. No one is responsible. There are only business decisions
+made by ever-changing committees and boards of directors. That fact has been clearly demonstrated by
+the case of Radio Shack trying to sell their personal data store as part of their bankruptcy restructuring.
+So, privacy policies are meaningless. Period.
+Back to top
+Increasing Hypocrisy Under Pressure
+One unchanging theme in the privacy debate is that large online corporations
+make much of their profit from advertising. Increasingly, that advertising is "targeted", or customized
+for the viewer. Targeted advertising pays more but requires spying on the viewer and tracking
+their behavior, in order to determine what ads they should be shown. Public awareness of online
+spying has also increased, though most people, addicted to using spyware online services such as Facebook
+and free webmail, would prefer not to know about the seedy side of those services.
+The increasing prevalence
+and sophistication of spyware, combined with the intractably lazy ostrich mentality of the general public,
+has resulted in a public discourse rife with hypocrisy, as comical
+as it is contemptible:
+• Microsoft, when they released Internet Explorer 10,
+announced that it would enable
+Do Not Track by default.
+Advertising companies were upset by that announcement. What the advertisers want is for people to think
+that advertisers are cooperating on creating privacy tools... like Do Not Track... and then to make sure that
+such tools do not impede advertisers' spyware. The best way to do that is to provide privacy tools that no one understands
+or uses.
+Oddly, the Web standards body, the W3C, also
+rejected Microsoft's move.
+The scenario has become so strange that the W3C is institutionally opposed to privacy
+and honesty online! Presumably the W3C fears that if the Internet steers toward honesty and respectability
+that could destabilize online commerce.
+If Do Not Track is disabled by default then only a handful of geeks will ever use it. Also, website/advertiser cooperation
+with Do Not Track is voluntary. In other words, Do Not Track requires deliberate participation on the part of both websites and visitors.
+So all the hubbub about Do Not Track is much misleading ado about nothing. It's very unlikely that
+Do Not Track
+will ever provide any improvement to online privacy.
+Microsoft, meanwhile, tries to hide
+cookie settings in Internet Explorer, in order to enable tracking. Microsoft is also adopting a strategy of conflating
+their spyware online services with Windows 8 by encouraging people to "log on" to Microsoft online services,
+with a Hotmail account, when they boot their Windows 8 computers. How does that fit with the idea of Microsoft
+supporting Do Not Track as a default setting? Microsoft, like Apple, is trying to create an AOL-style walled garden
+by integrating Windows with online services. If that plan is reasonably successful then Do Not Track
+could actually help. With logged-on members stuck in a walled garden, Microsoft (like Apple with their restricted hardware
+and restricted iTunes store) could sell spyware service to advertisers. Do Not Track doesn't apply if people
+are willingly (or unwittingly) logged in. Note that this is not just speculation about
+dire possibilities with Windows.
+Microsoft has already descended to the depths of sleaze in
+selling out their online services customers
+to political advertisers.
+• Mozilla CEO Gary Kovacs gave a "TED" talk
+in May, 2012, in which he stressed the importance of online privacy and showed off
+the Collusion tool for Firefox. Collusion allows people to
+see, in real time, how they're being spied upon online. Collusion is somewhat interesting and informative, but it doesn't actually
+stop the spying. Firefox default cookie settings -- which Mozilla tries to hide, just as Microsoft tries to hide them -- enable 3rd-party cookie tracking
+by default. There is no excuse for that setting. Cookies were specifically designed to prevent access by 3rd-party websites. A 3rd-party
+cookie is spyware by definition. As for Do Not Track, the Mozilla people
+have adopted the absurd position
+that they support Do Not Track but feel that the default setting should enable spying so as not to "impede individuals' choice".
+Mozilla also gets most of their
+funding from commercial web services -- first Google and currently Yahoo -- in exchange for setting the default search in Firefox to those services.
+And Mozilla actually
+removed a former Firefox option to block 3rd-party images, which are nearly all spyware tracking bugs and/or ads. Ironically, in order to access the TED talk at all,
+one needs to either enable javascript and install Flash, or view the webpage with no "style". And unsurprisingly, the webpage contains tracking
+code for Google, scorecardresearch.com, doubleclick.net, addthis.com, LinkedIn and Facebook. It's an irony of the ad-infested Internet: Website owners
+find "content" (read: "any old thing") to put on their pages... so that they can show ads... so that they can make money. And the online privacy controversy makes for
+fairly attractive "content".
+• Anonymizing: A common refrain from online corporations using spyware is a reassurance
+that your privacy is safe because "the data is anonymized". The major function of computers is
+the ability to store, structure, process and analyze vast amounts of data quickly. There is no such thing as anonymized private data.
+The whole point of computerized data collection and analysis is to de-anonymize. The constant refrain about
+respecting privacy and anonymizing data only illustrates the lack of understanding among the general public about
+how online and mobile spying works.
+The bottom line is that these companies depend on spyware and feel they cannot do without it.
+With various people in Congress and in the public sphere speaking up for privacy, the public discussion becomes
+increasingly absurd and hypocritical. The only certainty is that the resulting privacy gimmicks cannot be trusted.
+Back to top
+Cookies and Web Bugs
+Cookies are encoded text files that are stored on your computer
+by websites that you visit. You are usually not informed of this happening.
+You can choose in most browser settings whether to accept cookies
+coming in. None of the major browsers will inform you nor give you a choice
+about cookies being called back to the server. If you have cookies they can be called back.
+How cookies function :
+Cookies are an easy, low-tech means for websites to keep a record of visitors.
+When you arrive at a website that uses cookies, the cookie is created or "set".
+With Internet Explorer it will be an individual file in the Windows\Cookies folder. With
+Mozilla browsers such as Firefox the cookie will be a single line in the file "cookies.txt", in the program folder
+or in a Windows\App Data subfolder.
+The cookie generally records the current time and a code number.
+When you go to another page at the same website, the cookie can be called back. By referencing the code number,
+the website can keep track of what happened on the last page....whether you ordered a product, etc.
+If a cookie is used for this purpose it will usually "expire" (be deleted) after you leave the website.
+Persistent cookies :
+In some cases cookies will be "persistent", meaning that they stay on your computer....
+They become a way to identify you on your next visit to a website. Persistent cookies
+can be used to make a website password possible, for example, or to allow customization of the webpage that you see.
+Using the cookie's code number, a website can reference it's record of your prior visits.
+Third party cookies:
+Cookies can only be read by the domain from whence they came. In the past this aspect
+has provided a measure of privacy. For instance, a Yahoo cookie
+is only read by a website in the Yahoo.com domain. With new advances in commercial exploitation of the Internet, however,
+this limitation has been circumvented. Through the use of third-party cookies it's possible for one cookie to be read from
+many websites. The way it works:
+An advertising company, such as Doubleclick,
+maintains the ad banners on a large number of websites. When your browser loads any webpage with one of these ads, it allows
+the ad company to "set" a cookie on your computer. ( Even though you're not browsing in the DoubleClick domain, the ad is being loaded from
+their domain. ) The result of this is that the ad company can collect information about your browsing habits on any of the
+numerous websites that host their ads. Third-party cookies allow one website to have access to all the information
+you've shared across many websites. If you allow cookies then you almost certainly have at least one DoubleClick cookie
+on your computer right now.
+UPDATE WARNING: Blocking 3rd-party cookies in
+some browsers may not actually work! If you think
+that you have disabled 3rd-party cookies,
+visit
+this page to test your browser.
+In addition, there are
+a number of known methods
+that companies can use to "hack their way" past 3rd-party cookie restrictions.
+Web Bugs:
+Web bugs, sometimes called web beacons, are typically images 1 pixel square.
+They are not visible. Web bugs are only added to webpages as tracking devices, to supplement
+or replace cookie use. Sometimes when script is disabled or cookies are blocked, a web bug
+will be used in it's place.
+When you visit a webpage the browser loads all of the files needed for the page.
+Every file loaded requires that you send a request to the server. The server then receives your IP
+address, which is equivalent to an Internet phone number. If 5 advertising companies have web bugs
+on a webpage, then 5 companies are informed when you visit that page. If those 5 companies have
+web bugs on lots of pages then they have the ability to track your movements online.
+To block web bugs you should use the HOSTS file. Mozilla browsers allow
+blocking 3rd-party images
+(images that are not coming from the website you're visiting),
+but the setting is hidden in the confusing chaos of "about:config", and blocking all 3rd-party
+images can render some websites unusable. (In rare cases websites load all of their images
+from a separate domain.) Also, in some cases web bugs may be put inside an IFRAME. An IFRAME
+is a browser window embedded in a webpage. An image inside a IFRAME may not look any different,
+but because it's in its own browser window, the image becomes 1st-party! In effect, you've been tricked
+into visiting the source website, which may even allow the perpetrator to set a 1st-party cookie. Using
+the HOSTS file to block domains avoids all of those pitfalls.
+Cookies and Universal User IDs :
+A more recent development is the user ID in cookies. See the section below,
+Referrer Fields And User IDs,
+for details about that.
+What does all of this mean? :
+Some sites offer a free service in exchange for marketing information. For example, the New York Times
+website requires that you fill out a questionnaire and accept cookies in exchange for freely reading their articles. That allows them
+to keep a record of which articles you read at their website. You simply
+have to choose whether you want to pay that price, allowing companies like the NYTimes to spy on you and sell information to advertisers about the
+articles that you read.
+To be realistic, if you have any persistent cookies you should not count on privacy.
+With current technology, keeping even one cookie might allow any website to obtain an exhaustive dossier on you ( see next topic ).
+And if you "register" with or join any online organization where you have to log in -- from the NYT to Facebook -- even deleting
+cookies won't prevent them from developing (and possibly selling) a record of your activities.
+An interesting synopsis of cookie and web bug usage is provided in the
+LinkedIn Privacy Policy:
+"We use ad technology such as web beacons, pixels, anonymous ad network tags, and cookies
+to more effectively
+serve ads to our Users on and off LinkedIn through ad networks,
+as well as to collect anonymized, aggregated
+auditing, research and reporting for advertisers. Because your web browser requests advertisements and web
+beacons directly from ad network servers, these networks can view, edit or set their own cookies, just as if you
+had requested a web page from their site."
+LinkedIn doesn't appear to be any worse than other popular sites. They're just unusually
+clear in their privacy policy.
+Back to top
+Super Cookies: Adobe Flash is Trojan Horse Spyware ...or... Cookies are the Least of Your Worries
+A little-known and little-publicized fact is that there are a number of ways to
+store tracking information on your PC without cookies. And the situation is getting worse.
+As of this writing, you will need to avoid Internet Explorer, avoid javascript, and disable
+Flash in order to achieve the level of privacy that you probably think you get from
+deleting cookies. (It goes without saying that you also need to avoid installing the various
+toolbars and plugins available.)
+Privacy problems getting out of hand
+Unfortunately, the privacy/security issues described here are simply too much for the average
+person to deal with, and privacy laws are far behind the technology. While the Internet of just a few
+years ago was a passive medium of print and pictures, that situation has changed
+and a feeding frenzy has developed as various entities plot to cash in on an interactive Web.
+There's a feeling of lawlessness to the whole thing, as software companies like Microsoft and Apple increasingly justify
+spyware and trespass onto the private property of the PC, redefining the PC as a service
+appliance, while Internet companies like Google/Doubleclick and Facebook justify mass-scale snooping and tracking.
+They all want to find as many ways as possible to collect money from everything done online.
+In connection with those changes, the basic, reasonable level of privacy that
+most people think they have online is quickly becoming unrealistic.
+Flash - trojan horse spyware
+Many people do not realize that Adobe Flash is actually software embedded in
+a webpage. A webpage is composed of HTML - text code that tells the browser how to display
+a webpage. If you visit a webpage you can view the HTML code. Not so with Adobe Flash. A
+Flash file, used to stream media, embed animations, etc. is a compiled program. When you allow
+Flash to run you are allowing a small software program to download onto your system. That is
+significant because Flash is actually running independently of the browser. In addition to security
+risks from Flash itself, Adobe's Flash allows websites to store and retrieve data on your computer.
+This data has been described as "Flash cookies", but it is not cookies. Flash can store significantly more
+data than cookies can store. Flash stored data is not controllable through the browser. And Flash stored
+data can be accessed by websites other than the originating one.
+If you simply disable Flash you can avoid security risks, annoying, frivolous animations, and unseen,
+personally identifiable, data storage by websites. But there are some websites which simply will not
+work without Flash. (Most notable among them is YouTube. To download local copies of videos from YouTube
+in Firefox without needing either Flash or javascript, install the
+DownloadHelper extension.)
+For more details about Flash data storage, see these links:
+http://epic.org/privacy/cookies/flash.html
+http://www.informationweek.com/news/showArticle.jhtml?articleID=160901743
+Browsers - little-known data storage problems
+As explained above, cookies are not the only way for websites to
+track you by storing data on your computer. Flash can also be used for that
+purpose. And there are also other methods being built into browsers. Internet Explorer
+has the little-known userData object that allows a website to store large amounts
+of data on your PC. In Firefox there is the scripting property window.globalStorage.
+Like IE's userData,
+this is an invisible, uncontrollable way for websites to store data on your PC without permission.
+And the HTML5 specification includes a similar item, local storage.
+This notion of "storage" represents a change in the commercial exploitation
+of the Internet, with companies increasingly thinking in terms of providing "services" through
+the browser. For that they want maximum interactiveness and maximum access/control of
+the client PC. There is a gradual transition being attempted by online companies such as
+Google/Doubleclick, Facebook, MySpace, Microsoft, etc. That development is not unlike the
+scenario where a shopping mall replaces Main St., moving the public conversation to a private
+retail establishment.
+If you're content to let Facebook manage your friendships, while Google/Doubleclick provides
+your software, then you will probably want to enable those companies to track you and store
+their files on your PC in order to enjoy the full extent of their services.
+If you find it a bit creepy that large corporations are taking the liberty
+of storing data on your PC clandestinely, then disable script in your
+browser. That can't be stressed too strongly. Script is implicated in the vast
+majority of online risks, and it's also used in most of the ways that secret data can be stored on your PC.
+There is an extensive detailing of the various data storage problems here:
+http://packetstormsecurity.org/papers/general/html5whitepaper.pdf
+If you would like to eliminate any currently stored tracking data on your PC, you
+can download a cleanup script here. This script comes with an information file and
+the ability to delete hidden files from Adobe Flash, Internet Explorer and Firefox.
+Download cleardat.zip (5 KB.)
+Back to top
+Anti-Phishing Protection: An Intrusive Gimmick
+Risks from Phishing:
+Phishing is the name given to a particular kind of scam, typically perpetrated through email.
+The way it works is that a scam email is sent that appears to be from your bank, credit card
+company, etc. The email typically requests that you visit a website to verify information.
+The trick is that the URL (Internet address) given may appear to be valid, but is not. For example,
+if you bank at FirstNational.com you might get an email that asks you to visit something like
+www.FirstNational.com.somewhereElse.com/login/etc. That website
+is actually at somewhereElse.com, not at FirstNational.com, but the URL might fool some people
+who are not expecting it.
+Phishing is not difficult to avoid if you are careful: First, no company you do business
+with should be sending you requests for online information in the first place. If you
+think a request may be valid then inspect the URL before proceeding. The last part before
+a forward slash ( "/" ) is the actual domain, the real address. Examples:
+www.FirstNational.com.somewhereElse.com/login/etc.
+Real address: somewhereElse.com
+100.100.100.100/www.FirstNational.com/login/etc.
+Real address: 100.100.100.100   (In this example the IP address is not translated to a URL.)
+URLs can sometimes also be further disguised by substituting ASCII
+codes for characters. Some websites do that with links when they don't want you to
+know where the link goes. A browser will look for an ASCII code (in this case a hexadecimal number
+representing a character) after any % sign. For example, a forward slash
+has the ASCII code number of 47, which is 2F in hexadecimal notation. So
+www.FirstNational.com.somewhereElse.com/login/etc.
+is the same as www.FirstNational.com.somewhereElse.com%2Flogin%2Fetc.
+The Gimmick of Phishing Protection:
+Both Internet Explorer and Firefox have introduced what are claimed to be
+built-in anti-phishing filters. Both browsers use a "blacklist" of known phishing sites.
+IE also uses a locally-stored "white list". When you visit a website, the URL is checked and a warning is
+issued if the site is a known phishing site. At the full functionality
+setting, both filters check with Microsoft or Google, respectively,
+every time that you visit a webpage. (The only exception would be with IE when
+the URL appears in the locally-stored "white list" of sites considered safe.)
+There are a number of problems with these phishing filters. First, the basic concept
+is hare-brained. Phishing sites typically move around with great frequency, closing down
+one URL to open another. So blacklisting is of limited value. Second, only the fully-functioning version of the
+filter, which checks each website against a list at Microsoft or Google/Doubleclick as you browse, has any chance at all of being
+even slightly useful.
+But that constitutes a radical intrusion of privacy in the guise of protection.
+It means that you will be reporting all the details of your Internet browsing
+to a corporation that can then keep a long-term record about you, personally.
+Google/Doubleclick sets and retrieves cookies when the Firefox anti-phishing filter is working.
+Presumably Microsoft does the same in Internet Explorer. There is absolutely no
+conceivable reason for these cookies other than as a tracking method to identify you and
+compile a history of your activity, probably for the purpose of targeted ads. (Cookies are used to
+store information between visits to a webpage, or to store information when moving
+between webpages. But the websites that you need to check against the phishing blacklist have no
+particular connection to each other, so there is no legitimate purpose in
+using cookies with a phishing filter.)
+Shocking Implications:
+The introduction of these fashionable phishing filters by Microsoft and
+Google/Firefox may be of little real value to the web browsing public, but the gimmick holds great promise
+for the browser makers. If Microsoft and Google/Doubleclick can get people to
+use their phishing filter tools in full-function mode, it could be almost as profitable for them as if they had turned
+the Internet into TV, with each person online being exposed to increasingly targeted
+ads as they travel from one website to the next, closely watched the entire time
+by the company that gave them their browser. Yet few, if any, online analysts
+seem to have considered that point. Most have just
+jumped on the bandwagon of alleged security improvements.
+Back to top
+Email - Spying, Spam and "web bugs"
+Some new services have appeared that claim to offer the possibility of monitoring
+your email: knowing when and if your email recipients have read your message. These services
+include DidTheyReadIt,
+ReadNotify
+and Constant Contact.
+If you are not familiar with how such a service works then it may seem like a very clever thing to
+accomplish, but actually it's just an old spammer's trick known as a "web bug". When email is sent
+as "HTML email" it can have images included. The images can be attached as files, they can be embedded into the email, or
+they can be linked. When an image is linked it is loaded from a remote location when the
+email is opened, just as images in a webpage may be opened from a remote location when you
+"navigate" to that webpage. HTML email is, essentially, a webpage.
+Spammers often exploit the ability to link images as a way to track their spam email.
+Each email will include a link to a tiny picture, just 1 x 1 pixel, using a unique ID number.
+When you read your email it retrieves the picture, sending the ID number at the same time.
+This allows the spammer to confirm that your email address is valid and to know that
+you opened the email. Email tracking services work in precisely the same way.
+The solution to web bugs is to prevent them from being loaded.
+If you read your email
+as plain text, or if you read it offline, or if you block images in your email, the web bug
+image will never be loaded, so
+that spammers and email snoops will have no way of
+knowing whether you read the email.
+Many email readers can be configured to block linked images from loading.
+Thunderbird blocks them by default.
+Many email programs also have the option to read all email
+as plain text because HTML email can be a security risk (especially in the
+MS Outlook and Outlook Express products where the HTML email viewer is
+actually a high-risk Internet Explorer window).
+If you are considering the option of paying a snoop service to track your email
+recipients, note that your email can only be tracked if the recipient: 1) Reads their email while online and
+2) has HTML email capability, but 3) has not disabled linked images and does not read
+their email as plain text, and 4) does not have a firewall that might warn them that their
+email program is attempting an unauthorized online connection.
+Back to top
+Beware of Web-based Email and Online Services
+Beware: You may give up rights to your own private property if you use web-based services.
+An increasing number of companies are trying to find a way to make money by providing
+online services. Web-based email (Yahoo, Hotmail, GMail, etc.) has been available for
+some time, and other services are gradually showing up: Microsoft and Google both have online office
+software and online storage services, for example.
+There are unique privacy and security issues with online services. Who owns your online email
+and files? Who can read them? You may not mind having tacky Yahoo ads in your email -
+and your friends may put up with it - but that's only the most obvious cost of "free" online services.
+There are two basic problems with online services that have not yet been dealt with,
+and those problems are only beginning to become evident:
+1) When you store private files on a commercial server, the legal status of those
+files is surprisingly unclear.
+2) Many companies providing online services - most of which are free - take
+the rather startling position that they are co-owners of any files that you store on their servers.
+That claim is not usually made overtly, but is typically written into the user agreement.
+You may feel that your Hotmail or your files stored on X-Drive or your photos hosted
+on a photo album website are your private property. But that is turning out not to be the case.
+You may have no control over files that you put into the hands of online service companies.
+For example, Microsoft at one point claimed co-copyright and co-ownership of all
+content passing through Hotmail. That means they were claiming the right, for example, to use
+your private email or family photo in their advertising. (Microsoft did reword the Hotmail user agreement after
+complaints brought the issue to public attention.)
+More recently, a US judge
+ordered
+that all email from a specific GMail account be handed over to the court, including all previously deleted email. As it turned out,
+Google/Doubleclick's user agreement states that they reserve the right to keep your email, even when you have
+told them to delete it. This disturbing court case highlights both of the problems noted above: Google/Doubleclick is
+claiming co-ownership of GMail users' email, and a government entity is regarding your email as Google/Doubleclick's property. The judge
+was not issuing a warrant to search an individual's computer. Rather, the judge issued a subpoena to Google/Doubleclick
+demanding the email of a private individual. The presumed owner of the email turns out to apparently have no property rights
+where their own web-based email is concerned.
+Google has been a well-regarded company in the past, but their pattern of storing private data
+(from searches and GMail) is disturbing. And one of Google/Doubleclick's newer products is a search function
+that combines online storage with the ability to search your computer. Again, that seems like a clever
+and useful idea at first glance. But if you accept Google/Doubleclick's
+search toolbar you could end up losing all rights of privacy to all of your own files! That's a high
+price to pay, especially when you consider that fast and sophisticated search functionality is already built into
+Windows, accessible from the Start Menu. (Well, sort of. Actually, Windows Search has been feeble at best since
+XP. But there are good, free alternatives
+available without resorting to spyware browser toolbars.)
+Maintaining Privacy While Avoiding Web-based Email
+Most ISPs provide the option to create more than one email account. If you use
+your ISP's email you get more functionality than is available through web-based email.
+(You can create storage folders, have multiple accounts, use filtering rules, and read newsgroups
+from most email programs, such as Thunderbird or Outlook Express. And all of your past email
+is stored on your computer - private as well as searchable.)
+In order to maintain privacy and avoid spam, avoid using your primary email address
+for any but personal correspondence. Then create two other email addresses: one
+for commercial purposes where you are required to submit an email address, and one for
+junk - situations where you need to submit an email address but have no intention
+of ever accepting email from that source. When your second or third email address
+starts to get too much spam you can just drop it and create a new email address.
+Example:
+You might create yourname@YourISP.com,
+shopping@YourISP.com
+and junk@YourISP.com. When your "shopping" or your "junk" email address gets filled
+with spam, just drop that address and create shopping2@YourISP.com
+or junkB@YourISP.com.
+There are also paid, commercial email services available, typically for only a couple
+of dollars per month. If you consider that it costs about twice that for a cup of foaming kiddie coffee
+at Starbucks, that's really a cheap price for privacy and ownership of your own writings.
+Back to top
+Referrer Fields And User IDs
+The "referrer field" is information sent by the browser when you arrive at a website.
+Any website you visit normally receives your IP address, the name and version of your browser,
+the page you're loading and referrer information. The referrer information
+tells where you just came from. In general this is benign. It provides a way for website
+operators to get information such as the URLs of other websites linking to them and how many
+people are arriving from those links.
+With the growing awareness of cookies, more people are blocking or deleting cookies from third party
+sites, making it more difficult to track online activity between sites.
+To get around that the referrer field is sometimes exploited to track people. Some websites may tack on extra
+text to the referrer string, in order to relay information to the next website you visit. Do you allow cookies
+at Google.com? If not (or even if you do) you may notice that most Google links now are not just links but
+tracking devices. Where a link at Google used to be
+www.somewhere.com
+it will now probably be something like:
+http://www.google.com/url?q=http://www.somewhere.com&sa=U&ei=my1ET_iTL8WthoE1VdgDw&
+ved=0CWFTbEA&usg=AFQjCNSwPOYmjUcVJ_v0WewwwStN73FJ0MOJ8A
+That link allows Google to watch what you click and attach tracking information to your referrer.
+Google's "secure" search:
+Among the items in the referrer string will be search terms from search engines. In other
+words, if you go to a search engine and search for "potato salad", when you click a link that website
+will be informed of the words "potato salad". Google has introduced a new service, with some fanfare,
+that prevents the transmission of that information if you are a logged-in member of Google services.
+However, while the search terms are blocked, Google still sends several coded ID numbers (like in the sample above). It would
+seem that Google is not actually blocking transmission of your search terms, but probably just restricting
+access to customers who use the Google Analytics service. Otherwise there would be no reason to attach
+unique ID numbers to the referrer string.
+Blocking transmission of referrer fields:
+• Internet Explorer does not have a means to block referrers, but they
+can be blocked in Mozilla browsers (Firefox, K-Meleon, Pale Moon) and in Opera.
+See the browser tips page.
+Back to top
+Geo-location Spyware
+Geo-location is a stunningly intrusive addition to browsers, yet many
+people are not aware of it. Most browsers now support geo-location. Most do not
+provide clear settings.
+How geo-location works: If you use a cellphone or wifi-equipped
+computer, hardware in that device communicates with cell towers or wifi access points,
+respectively. Your location can then be calculated based on which towers or wifi servers
+you contact and how long the transmission takes.
+Any website can collect that information. They need only
+add a snippet of simple code to their webpage. Or any number of 3rd-party
+actors who have scripts linked into that webpage can do it. They ask the
+browser for geo-location data. If you're lucky the browser asks you for
+permission to provide it. Then the browser calls a service, most likely to
+be Google, with the data collected from your device and the service returns
+latitude/longitude coordinates, potentially accurate to within feet. The browser
+then relays that data to the website.
+There are several ramifications to this. First, the website may
+know exactly where you are. Since they probably want that information
+for targetted ads, the companies advertising on their website probably also know
+exactly where you are. Since Google uses numerous tracking techniques on
+most commercial websites (Google Analytics website tracking, cookies, Doubleclick ads
+and web beacon, Google fonts, Google javascript libraries such as jquery)
+it's very likely that Google already has a record of your travels online as
+a result of their extensive tracking. That means they're tracking your IP
+address. When your browser then calls Google for location data it has to
+send your IP address. So Google ends up with your browsing history and
+they've matched it to your exact location. All you had to do was to allow geo-location
+service on only one website. Now they know where you live... Or they know you're
+in the produce aisle of the local supermarket... With enough repeat tracking
+they can know where you live and they can know your habits, your
+social contacts, etc.
+If you use a Mozilla browser (Firefox, Pale Mooon, K-Meleon)
+you can, at least, disable geo-location. See the
+Browser Tips Page
+for details about that.
+Back to top
+The Intrusion of Online Ads
+Online ads provide a means for advertising companies to track your online activity,
+identify you, and then sell that information to other marketing and product
+companies. That is possible because many commercial sites now have their banner ads supplied
+by ad-company servers. Doubleclick, for example, is one of the biggest ad servers.
+If you read the HTML code in nearly any major, commercial, website
+webpage you will find links to ad images coming from Doubleclick.
+If you allow cookies then you almost certainly have at least
+one Doubleclick cookie right now.
+Through the use of cookies, advertising images, and web bugs (invisible 1x1 pixel images),
+advertising companies can follow you around the Internet, creating a composite chart of
+your activities. When an ad image loads that involves your browser sending a request
+for the image file, which allows the ad server to record your IP address. By combining that
+information with information that you may share with various
+websites, you can potentially be identified and a marketing profile may be created for you.
+The reason for all of this spying is that targeted ads are worth more money. A golf ball company
+would like to only pay for ads shown to golfers. Likewise, diaper ads, car ads, etc. all have a
+"target" audience. If an advertising company knows who you are and what you buy they can make
+more money by showing you targeted ads as you browse online. This is also the reason that
+websites such as the New York Times want you to "register" and fill out a survey: They can
+then use a cookie to watch which articles you read and show you ads targeted at your
+demographic and personal interests. For example, a golf ball company might contract to show
+their ads only to suburban people between 30 and 65, who make over $40,000 per year, thus raising the odds
+that each ad they pay for will result in a sale. This approach allows websites to charge more
+for advertising space while simultaneously costing less for advertisers to reach their audience.
+Further, it provides important information that can be used in the actual sale: The golf ball
+company can adjust their webpages and prices based on your profile. For example, when you click on their ad they
+might show you a page where their golf balls are on sale if they know that you have bought
+golf balls from another company recently....or wealthy people may see a display of, say,
+the "executive platinum series" golf ball while people with more meager incomes may see the
+same golf ball advertised as the lower-priced "pro series".
+(This is just an example to illustrate the possibilities. It is not intended to imply
+anything about particular companies or products.)
+Targeted ads have become big business.
+Distasteful hype terms such as "behaviorally targeted advertising" and "audience management"
+are used to describe this attempt to glean and consolidate as much information about website visitors as possible,
+from numerous online and offline sources, in order to "monetize audience members". (Which literally means "turn people into money"!)
+This spying is not just an intrusion of privacy. It's also being done secretly, for the most part. People are rarely
+aware of being tracked online. The good news: It is easy to block most tracking cookies, web bugs, and many ads, by creating a HOSTS file on your computer.
+About the HOSTS File
+When you go to a website the address must be resolved to a numerical version in order
+to make contact. For example, if you go to www.somewhere.com, your browser
+will look up that address to get the Internet Protocol (IP) address (like a telephone number) which is the real address for the website. This number,
+might be something like: 25.201.1.244. It is composed of 4 numbers from 0 to 255. The
+address of where you are coming from (for the purposes here) is always 127.0.0.1.
+The HOSTS file dates back to a time when an index of Web addresses was kept on each machine. It is a simple
+text file that can be used on all operating systems to pre-assign addresses for URLs.
+It's your personal phone book, so to speak. You do not need to change any settings in order to use a HOSTS file.
+A URL pre-assigned in the HOSTS file will not be looked up by the browser. This means that if you
+assign www.somewhere.com to 127.0.0.1 in your HOSTS file then your browser will never load any files
+from www.somewhere.com because it will be told that www.somewhere.com is your
+own computer!
+So the HOSTS file can be used to prevent loading 3rd-party ads, images, web bugs, etc. from
+the websites that you visit. Moreover, the 3rd-party ad server will never be contacted so
+it will not log your identifying IP address.
+Side note: HOSTS files, Windows and Microsoft: Note that some Microsoft software may deliberately ignore
+the HOSTS file. This link
+describes how, with XP,
+Microsoft began bypassing the HOSTS file for Windows Media Player so that people could not
+prevent WMP calling home. It's possible that Microsoft could have hard-coded other such tricks into later versions
+of Internet Explorer, which is yet another reason (in addition to security issues) that it's best to avoid using Microsoft software online.
+But, that tangential concern aside...
+Creating a HOSTS File
+You may or may not already have a HOSTS file on your computer. To set up a HOSTS file for ad blocking
+and web bug blocking:
+1) If your system does
+not show file extensions, go to Control Panel -> Folder
+Options -> View or
+Start -> Settings -> Folder
+Options -> View
+and uncheck "Hide File Extensions for Known File Types".
+2) Locate or create a HOSTS file in the following location:
+Win95/98/ME - C:\Windows\HOSTS
+WinNT4/2000 - C:\WINNT\System32\Drivers\Etc\HOSTS
+WinXP/Vista/7 - C:\Windows\System32\Drivers\Etc\HOSTS
+(Adjust the path if Windows is not on C drive.)
+Note that the file has no extension. It is named simply "HOSTS",
+not "Hosts.txt", etc. Nevertheless, HOSTS is a simple text file that can be written in Notepad.
+3)
+Add this line to your HOSTS file:
+127.0.0.1 localhost
+Then add any known ad server or web bug URLs to your HOSTS file like the following, adding one URL per line,
+with a space between "127.0.0.1" and the server URL:
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 ads.atdmt.com
+127.0.0.1 server.somewhere.com
+Each line defines a particular Internet address as being on
+your computer (127.0.0.1). If you add only "ad.doubleclick.net" to your HOSTS file you should
+see a greatly reduced number of ads (which means a greatly reduced incidence of tracking).
+Note that each server URL is unique. If you block "ad.doubleclick.net" that will not
+block files coming from "ads.doubleclick.net" or "ad.doubleclick.com".
+A "comment" line can be created with a hash symbol (#), like so:
+# This line will be ignored.
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 ads.atdmt.com
+127.0.0.1 server.somewhere.com
+Improving and Updating the HOSTS File
+Once you start using a HOSTS file you need to add the URLs that you want to block,
+and those URLs can also change occasionally. The more ad-server and tracking URLs you
+put in your HOSTS file, the better it will work. To help with that process you can
+download a HOSTS file "kit". The kit includes information and a script file that will collect
+URLs for you. You just download a webpage that you are viewing and drop it on the
+script file. The script then extracts URLs from the webpage code and optionally adds them
+to your HOSTS file. If you use Internet Explorer this kit can also put a button on the
+IE toolbar to automate the whole process.The download, hosts.zip, contains the scripts, further explanation
+and a sample HOSTS file.
+Download HOSTS File Kit (25 KB)
+(Update note: This download now also contains a sample, improved HOSTS file that accepts wildcards,
+made possible by using Acrylic DNS proxy. See info in the download for explanation.)
+You can also find other sample HOSTS files online, preconfigured to block most
+major ad companies and tracking websites. Though considering that a HOSTS file is such an easy, efficient
+way to improve privacy, there is surprisingly little information available.
+Back to top
+Software Ad Blockers
+Ad blockers have been increasing in popularity as more people become
+aware of the extensive spying and risky malware associated with webpage ads. The ads
+have also become so intrusive, in many cases, that webpages become all but unreadable.
+Nearly all online ads are coming from large, corporate ad servers, with Google/Doubleclick being
+the biggest. With ads on most large websites, Google is able to follow people around online.
+Further, the automated system used to buy and sell ads has allowed malware to be injected
+into webpages through the ads. It's a perfect system for attack: The ads are already designed
+to bypass privacy and security by loading script and images from 3rd-party domains through
+dangerous IFRAMES. With the anonymous nature of ad sales those ads become handy
+attack vehicles. The problem of "malware ads" is increasing, providing
+a new, more urgent
+reason to block online ads from the big ad servers.
+So maybe you should get an ad blocker? There are pros and cons.
+One advantage is that ad blockers are easy to use. Though even a small HOSTS file
+will block the majority of ads. It might be best to try a HOSTS file first because the
+world of ad blockers is an increasingly sneaky business.
+The ad blockers are being bought
+out by the ad purveyors. The best known ad blocker, AdBlock Plus,
+has a so-called whitelist
+that allows some of the bigger ad companies to evade their filter. The big ad companies
+are actually the worst, since their ads function as spyware tracking devices. Meanwhile,
+the popular Ghostery privacy tool sells data to advertisers.
+An even more bizarre case is the iPhone app Crystal, which not only charges iPhone
+users to buy the Crystal ad blocker app, but then also
+takes money from
+advertisers, letting those companies' ads through its filter! Apple devotees are famous for being suckers,
+but Crystal is a shock even by exploitive Apple standards.
+Perhaps the biggest obstacle to privacy and security online is simply the
+complexity of the issue. The landscape keeps changing. The goalposts
+keep moving. It simply isn't realistic for most people to figure out who the
+good guys are or what the best tools are. With the makers of privacy
+software selling out their customers to corporate spyware ads, who can you trust?
+Given the situation, the best ad/tracker blocking is likely to be
+had from using a HOSTS file,
+blocking 3rd-party images through Firefox,
+and disabling frames.
+Though it should be noted that the latter 2 options may break some websites
+that depend on external images or that use iframes for actual webpage content.
+Back to top
+If You Enable Script You're a Sitting Duck
+Without getting into the extensive details about javascript problems, there are
+some things you should know: Nearly all security risks online require javascript enabled. In many
+cases, online spying requires javascript. You can greatly improve privacy and security online by
+disabling javascript. Unfortunately, some interactive websites will not work without javascript,
+and browsers are not well designed to control javascript settings in great detail.
+If you want to maximize privacy and security while still using interactive websites,
+use two browsers. Set one browser to accept session cookies and javascript. Use that browser
+for webmail, Facebook, etc. Set a second browser to block all cookies and script.
+It would also be advisable
+to disable IFRAMES
+in the safe browser.
+Use that browser
+whenever possible, for any website where it will work. For example, one might use Firefox with
+script enabled, and use the almost identical browser Pale Moon
+with script disabled.
+Cloud Mania - The Return of the Walled Garden
+A Whole New Level of Privacy Issues
+In the 1990s AOL reigned supreme online. AOL had their own browser. (Which was actually just a
+doctored version of IE.) They also had services, shopping and chat groups. When an AOL member logged onto
+the Internet they were transported into the vast AOL shopping mall. It wasn't easy to get out of AOL, onto the
+Internet. Many people thought AOL was the Internet. The AOL arrangement was popularly described
+as a walled garden: a sterile, controlled, commercial environment shut off from the rest of the world.
+More recently the idea of cloud services has become very popular. Cloud services
+are the return of the walled garden, but with some changes. Most notable is that cloud services stress
+mobility: You can store files and settings online to be accessed from work or smart phone or home PC. With
+the increased use of smart phones and tablets, that might be handy for some people.
+But in general, cloud services are just a rehash of the same AOL scam, trapping people into what have come to be called "silos";
+private, commercial sites separated off from the rest of the Internet:
+• Apple tightly controls (and profits from) everything that happens on the iPhone.
+• Google's Chrome browser is not really a browser at all. It's the return of the AOL browser.
+Everything typed turns into a Google search. Chrome nags about "logging into Chrome". Chrome
+is little more than an interface for Google services. Settings and options, for the most part, are
+missing entirely. One cannot even control cookies and script! That enables Google to make sure
+that you can be easily spied on while you move around online.
+• Microsoft's Windows 8 and RT is designed to nag people to "log in" to Microsoft's
+cloud, store files online, use Microsoft services, and buy software that is sold through Microsoft's store.
+The "tile interface" design (formerly known as
+Metro) is essentially AOL for high speed. It's a commercial portal,
+festooned with giant buttons ("tiles") that connect to various online services. When
+AOL was popular, people had dial-up connections. Dialing in was required to log into AOL. Once logged in, it
+was difficult to leave AOL. AOL literally hid the Internet behind the maze of their services. These days
+people have always-on connections. So Microsoft has created an overlay on top of the Windows Desktop.
+The Metro tile overlay displays at boot, covering the Desktop and hiding access to the file system. In
+place of the Windows Desktop one sees only gigantic, rectangular links to various Microsoft software and services. The
+tile interface is actually very similar to the AOL entrance menu of circa 1998. (Remember the window
+full of buttons for entertainment options that would display just after one had dealt with the credit card offer that couldn't be refused?)
+But there is one radical difference: AOL was trying to cash in on your online life. Microsoft is trying to
+cash in on what you do both online and offline.
+• Networking sites such as Facebook, Google+, LinkedIn, etc. are a bit more subtle, but no less
+inclusive, in their attempts to herd people, spy on them, and show them targeted ads. Google and Facebook both
+started out as one business but each later transformed into an advertising company. We have developed a very odd situation,
+where millions of people are having their communication and social life hosted by an advertising company in exchange
+for their privacy!
+Additionally worrisome is that many of the people at Google and Facebook seem to honestly
+believe their own do-gooder mythology. Googlites want to "do no evil" and Facebookies want to "connect the world".
+A bizarre, Orwellian example of such apparent self-deception was
+spoken by Facebook's COO Sheryl Sandberg,
+who said that Facebook "enables brands to find their voices… and to have genuine, personal relationships with their customers" ..."to make marketing truly social".
+Ms. Sandberg is recasting Facebook's strikingly intrusive advertising as warm, fuzzy, fulfilling human relationships. She is redefining business as its opposite, social activity, while
+she redefines retail products as provisional humans with a personal story to tell to their Facebook friends. With friends like that... who needs friends?
+Those are all variations on the AOL walled garden. They are all attempts to promote
+cloud mania with the intent to profit not only from the sales of computers and software, but
+also from the ongoing usage of computers and software.
+If you use "social" services like
+Facebook and Google+ it's really not realistic to plan for privacy. Facebook is increasingly tracking everything they
+possibly can, even
+connecting peoples' offline lives, such as retail purchasing history, with their Facebook identities,
+while continually blurting the absurd disclaimer, "Not to worry, it's all anonymized." But Facebook demands that people use their true identities on their Facebook accounts. And
+Sheryl Sandberg claims to be playing Cupid between Facebook members and "brands". And
+Facebook's partnership with Datalogix is specifically meant to tell advertisers
+what you buy offline. There's no "anonymity" to be found in any aspect of Facebook's operations.
+But there are still a few things that even Facebook fans can do to help minimize privacy intrusion:
+Don't use Chrome. Don't use Safari (or anything else from Apple). Never stay logged into
+any social networking site longer than necessary. Only allow session cookies. (Or set cookies to be deleted
+when the browser is closed.) Don't click on Facebook "Like" buttons or similar webpage
+"vote icons". Those buttons are just a trick to use your own vanity (pride in your own
+opinions) to show ads to your friends in your name.
+Facebook has been criticized for
+using webpage coding tricks to spy on their members even when those people are not logged into Facebook. Completely avoiding that kind of spying
+requires the use of a HOSTS file. But the situation is worse if you remain logged in to Facebook while visiting other websites.
+Back to top
+Unforeseen Consequences
+If you don't protect your privacy it may be legislated away:
+Most people are largely unaware of the spying and tracking that happens
+online, and most would prefer not to know. But that selective ignorance could have unforeseen
+costs.
+This clear and
+insightful analysis looks at long-term legal ramifications: As people gradually accept the premise that
+it's not wrong for Google and Facebook to spy... that it's not intrusive for commercial websites to link into
+your Facebook page in order to advertise to your friends by telling them that you just read, or bought, or listened to
+their product, that acceptance changes the social norms. That can change court rulings and legal precedent.
+The popular concept of "a reasonable expectation of privacy" is being defined in Europe as "the right to be forgotten".
+But in the business-obsessed corporatocracy of the US we are headed in the opposite direction. If the average
+person doesn't complain that online businesses track their activities and sell that information, then it becomes
+difficult to assert any such thing as "a reasonable expectation of privacy".
+George Orwell never could have guessed....
+In March, 2012 the New York Times ran a feature article explaining that college
+students on Spring Break have become notably subdued in their holiday partying activities because they
+worry about incriminating photos getting online. Most
+of the Spring Break revelers are addicted to Facebook and smart phones; constantly connected
+to a circle of friends; constantly maintaining their public reputations through their online activities.
+But that connectivity has resulted in a tragic-comic switcheroo: The students have become
+careful about what they do and say. Not because the government is restricting them. Nor
+are their schools or employers restricting them. Rather, the students are worried about the public record
+left on commercial websites. They have imposed a restrictive sentence upon
+themselves, in all of their activities, simply because they can no longer even imagine a life outside
+of their lives as constantly connected "consumers", constantly monitored by an array of exploitive businesses.
+The NYT article referred specifically to public drunkenness. College students are
+worried that lewd or silly photos of themselves could end up permanently online. But this is really
+a bigger issue than that. The students are addicted to Facebook. Facebook tells their friends
+when they buy a book or listen to music. What started out as fun sharing with friends
+becomes a carefully maintained public persona. Friends are turned into acquaintances,
+as people avoid any uncalculated behavior in any place less private than a locked bathroom.
+In a bizarre, Orwellian twist, people begin to plan who they will be in order to avoid legal
+problems, career threats, or public ridicule.
+Ironically, we cannot provide a link to the NYT story because the NYT, like Facebook,
+is no longer really online. It has converted into a private service. You cannot access NYT webpages
+at all unless you allow them to spy on you. To access more than a few pages requires joining up,
+providing personal information, paying a monthly fee and allowing them to spy on you.
+Back to top
+Other Privacy Issues
+• Download "accelerators" and similar software of dubious benefit
+Most programs and services that promise faster browsing or downloads are provided
+for the purpose of online tracking. Some are spyware. Others require that you allow all online activity to be tracked.
+Some people may not be bothered by that. If you are, and you use these kinds of programs/services, you should
+read the privacy agreement and license. (Be aware, too, that most privacy agreements contain disclaimers
+saying the agreement can be changed at any time without notification. Such a privacy agreement is meaningless.) There is an
+interesting article on CNET if you want to know more.
+• In some cases, clicking a link in email to go to a website will send your email address to that site.
+A solution to that is to copy and paste the URL into your browser.
+• Some ISPs have begun selling tracking information to marketers. Check your ISP's privacy
+statement if you're concerned about that.
+• Browser toolbars are nonsense
+There is no good reason to ever accept the installation of a browser toolbar.
+They are simply spyware. But one has to be careful to avoid them. Software installers often
+try to sneak in a browser toolbar. For example, many freeware installers will present a window
+with an option selected to install the Ask.com toolbar
+from InterActiveCorp.
+• Smart Phones are a tracking collar
+Using a so-called smart phone is actually more intrusive than radio tracking attached
+to wild animals. First, the phone itself is a tracking collar. (In addition to GPS services, receiving a call requires that the phone
+continually "ping" nearby phone towers, and US federal law requires that cellphones be precisely geo-locatable through those pings, for the purposes of 911 calls.)
+If you use an Apple phone or other gadget, you can also be tracked and identified by your Apple ID number. (More recently
+that tracking has been "improved" through the newer
+IDFA or "ID For Advertisers".) In September, 2012 evidence came to light
+that either Apple or 3rd-party software authors were amassing Apple gadget IDs and personal data, then seemingly sharing that data with
+NCFTA, a commercial shadow organization
+created to legalize the illegal sharing of private information with the FBI.
+Presumably there's also money to be made through "accidental" leaks of such data for commercial purposes. There's no way to know how
+many entities might have received the list of IDs and personal information, but the existence of such a list shows that
+neither Apple nor their "app" makers can be trusted because Apple does not respect privacy by design.
+Beyond that, just
+about anything on your phone may be stolen by hackers or even by companies that supply the phone's
+software. From
+Path.com and others
+stealing address books, to
+Facebook stealing text messages, the theft of photos and wiretapping of phone calls,
+your smart phone is an open book. You might even have the entire contents of your phone
+copied during a routine traffic stop by police,
+without your knowledge.
+(For a more in-depth discussion of cellphone privacy issues,
+see here.)
+Back to top
+Final Thoughts
+There's a pattern here. Entities as varied as commercial online services and overzealous cops
+are taking advantage of murky territory created by the sheer ease of accessing information.
+Facebook employees would never be ordered to steal your briefcase. Nor can police search
+your briefcase without reason. (At least not legally.) But a situation has developed where the
+content of your briefcase can be copied in a second, without you knowing, and with very little
+effort. Stealing your briefcase, so to speak, has become so easy that it's easy to pretend
+that it's not theft at all.
+Even if we assume good intentions on the part of all commercial interests and law enforcement
+agencies, we are still creating an ominous situation. An Orwellian police state does not necessarily
+require a corrupt government, and radical privacy intrusion does not necessarily require corrupt businesses.
+As information becomes easier to store and process, marketers
+and bean counters and bureaucrats and law enforcement are all increasingly deciding that if we
+can get and store information, then we should. They figure that it might come in handy, so why not?
+It usually gets stored with few people noticing. Therefore, few people complain. As a result,
+as noted above,
+we are establishing a legal precedent and social tradition by which no one has a right to privacy, anywhere or
+at any time. In other words, if you don't act to protect your own privacy then you are acting to eliminate it.
+Back to top

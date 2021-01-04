@@ -1,0 +1,62 @@
+http://www.shelton-dehaan.com/index.php?main_page=privacy
+Home Page
+New Products
+Specials
+Products All
+Contact Us
+Site Map
+Home
+|   Log In
+Currencies:
+currencies);
+$currencies_array = array();
+while (list($key, $value) = each($currencies->currencies)) {
+$currencies_array[] = array('id' => $key, 'text' => $value['title']);
+}
+$hidden_get_variables = '';
+reset($_GET);
+while (list($key, $value) = each($_GET)) {
+if ( ($key != 'currency') && ($key != zen_session_name()) && ($key != 'x') && ($key != 'y') ) {
+$hidden_get_variables .= zen_draw_hidden_field($key, $value);
+}
+}
+}
+?>
+Manufacturers
+Please Select
+Armedica
+Bailey
+Biofreeze
+Chattanooga
+Core Products
+Earthlite
+Flex Support
+Ideal Products
+Lloyd Tables
+Mettler
+Richmar
+Thera-Band
+Quotes
+Log In to create or manage your quotes.
+Categories
+Popular Items (9)Biofeedback (1)Biofreeze (8)Chiropractic Tables & Equipment-> (80)Clinical Equipment-> (74)Clinical Supplies-> (62)Cold Therapy-> (44)Compression Therapy (27)Electrotherapy & Ultrasound-> (175)Evaluation / Measurement / FCE-> (39)Fluidotherapy-> (4)Heat Therapy-> (47)Hydrotherapy-> (20)Iontophoresis (16)Laser & Light Therapy (22)Lifts (12)Massage Therapy-> (140)Orthopedic Supports-> (205)Physical Rehab Trainning-> (356)Pillows & Cushions-> (172)Recovery-> (7)Storage Racks & Cabinets-> (72)Traction Therapy-> (107)Treatment Therapy Tables-> (360)Work Tables (30)
+Featured
+MEDIFLOW WATER PILLOW (CHIROFLOW)Price UnavailableBIOFREEZEÂ® Topical Pain Reliever
+- 4 fl oz Gel TubesPrice Unavailable
+Shopping Cart
+now in your cart 0 items
+Privacy Notice
+Privacy Sample Text ...
+This section of text is from the Define Pages Editor located under Tools in the Admin.
+To remove this section of the text, delete it from the Define Pages Editor.
+Home ::
+Contact Us
+::
+My Account
+::
+Site Map
+::
+Privacy Notice
+::
+Shared
+Copyright © 2020 Shelton-DeHaan Co.. Powered by Zen Cart Privacy Notice

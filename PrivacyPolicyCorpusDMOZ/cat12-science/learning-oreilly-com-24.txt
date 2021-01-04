@@ -1,0 +1,78 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch01s02.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Risk Analysis and Best PracticesSecurity is most often viewed as a process that is designed to
+prevent something from happening. As a result,
+people often approach computer security by thinking about the risks
+that they face and then formulating strategies for minimizing or
+mitigating these risks. One traditional way to approach this problem
+is with the process of risk analysis , a technique that involves gauging the likelihood of
+each risk, evaluating the potential for damage that each risk entails,
+and addressing the risks in some kind of systematic order.Risk analysis has a long and successful history in the fields of
+public safety and civil engineering. Consider the construction of a
+suspension bridge. It’s a relatively straightforward matter to
+determine how much stress cars, trucks, and weather on a bridge will
+place on the bridge’s cables. Knowing the anticipated stress, an
+engineer can compute the chance that the bridge will collapse over the
+course of its life given certain design and construction choices.
+Given the bridge’s width, length, height, anticipated traffic, and
+other factors, an engineer can compute the projected destruction to
+life, property, and commuting patterns that would result from the
+bridge’s failure. All of this information can be used to calculate
+cost-effective design decisions and a reasonable maintenance schedule
+for the bridge’s owners to follow.Unfortunately, the application of risk analysis to the field of
+computer security has been less successful. Risk analysis depends on
+the ability to gauge the likelihood of each risk, identify the factors
+that enable those risks, and calculate the potential impact of various
+choices—figures that are devilishly hard to pin down. How do you
+calculate the risk that an attacker will be able to obtain system
+administrator privileges on your web server? Does this risk increase
+over time, as new security vulnerabilities are discovered, or does it
+decrease over time, as the vulnerabilities are publicized and
+corrected? Does a well-maintained system become less secure or more
+secure over time? And how do you calculate the likely damages of a
+successful penetration? Unfortunately, few statistical, scientific
+studies have been performed on these questions. Many people think they
+know the answers to these questions, but research has shown that
+people badly estimate risk based on personal experience.Because of the difficulty inherent in risk analysis, another
+approach for securing computers has emerged in recent years called
+best practices , or due care . This approach consists of a series of recommendations,
+procedures, and policies that are generally accepted within the
+community of security practitioners to give organizations a reasonable
+level of overall security and risk mitigation at a reasonable cost.
+Best practices can be thought of as “rules of thumb” for implementing
+sound security measures.The best practices approach is not without its problems. The
+biggest problem is that there really is no one set of “best practices”
+that is applicable to all web sites and web users. The best practices
+for a web site that manages financial information might have
+similarities to the best practices for a web site that publishes a
+community newsletter, but the financial web site would likely have
+additional security measures.Following best practices does not assure that your system will
+not suffer a security-related incident. Most best practices require
+that an organization’s security office monitor the Internet for news
+of new attacks and download patches from vendors when they are made
+available. But even if you follow this regimen, an attacker might
+still be able to use a novel, unpublished attack to compromise your
+computer system.The very idea that tens of thousands of organizations could or
+even should implement the “best” techniques available to secure their
+computers is problematical. The “best” techniques available are simply
+not appropriate or cost-effective for all organizations. Many
+organizations that claim to be following best practices are actually
+adopting the minimum standards commonly used for securing systems. In
+practice, most best practices really aren’t.We recommend a combination of risk analysis and best practices.
+Starting from a body of best practices, an educated designer should
+evaluate risks and trade-offs, and pick reasonable solutions for a
+particular configuration and management. Web servers should be hosted
+on isolated machines, and configured with an operating system and
+software providing the minimally-required functionality. The operators
+should be vigilant for changes, keep up-to-date on patches, and
+prepare for the unexpected. Doing this well takes a solid
+understanding of how the Web works, and what happens when it doesn’t
+work. This is the approach that we will explain in the chapters that
+follow.
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

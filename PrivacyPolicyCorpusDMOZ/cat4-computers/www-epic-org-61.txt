@@ -1,0 +1,569 @@
+http://www.epic.org/privacy/streetview/
+Defend Privacy. Donate Now.
+Policy Issues
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Program
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+All Policy Issues
+Our Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+Privacy Campaigns
+Congressional Testimony
+EPIC Publications
+Spotlight on Surveillance
+Press
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+Events
+EPIC Blog
+EPIC Bookstore
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+Public Voice Fund
+Contact EPIC
+Support EPIC
+Investigations of Google Street View
+Summary |
+Latest News |
+Timeline |
+United States |
+Canada |
+Europe |
+Asia-Pacific
+Overview
+Many countries around the world have launched investigations of Google Street View. The number of investigations increased dramatically once it was determined that Google was collecting Wi-Fi data in addition to digital images. The purpose of this page is to provide an overview of the various investigations. We will update the page as information is received. Please send updates to streetviewwatch@epic.org.
+Map
+Click for larger image
+Definition of Map Terms
+No Street View Activity: According to Google, Street View cars have not yet been deployed to these countries.
+Unknown: Street View cars have gathered data from at least some locations, but there have been no reports of complaints or investigations.
+Public Protest Reported: Street View cars have been active, and some form of public protest (e.g., complaints, letters, demonstrations) has been reported.
+Investigations Underway: An official inquiry or investigation has been announced by authorities.
+Sanctions: An official government agency has imposed sanctions, such as halting all Street View activity.
+Summary
+When Google began the Street View project in 2007, many privacy concerns were raised, but the debates focused almost exclusively on the collection and display of images obtained by the Google Street View digital cameras. It turns out that Google was also obtaining a vast amount of Wi-Fi data from Wi-Fi receivers that were concealed in the Street View vehicles. Following independent investigations, Google now concedes that it gathered MAC addresses (the unique device ID for Wi-Fi hotposts) and network SSIDs (the user-assigned network ID name) tied to location information for private wireless networks. Google also admits that it has intercepted and stored Wi-Fi transmission data, which includes email passwords and email content.
+Following numerous protests around the world, Google ended its illegal collection of wifi data transmissions. The company, which originally claimed it was not even collecting wifi data, was forced to admit that it had collected payload data, although at first Google only admitted to collecting "fragments" of such data. Eventually after investigations revealed it, Google acknowledged that "in some instances entire emails and URLs were captured, as well as passwords."
+As of 2012, investigations have gone forward in at least 12 countries, and at least 9 countries have found Google guilty of violating their laws.
+For more information on the events surrounding the closure of the FCC's Street View investigation, see EPIC: FCC Investigations of Street View
+Latest News
+Google Announces Limits on Data Transfer in Ad Bids: Google has announced that it will no longer describe the type of content on an app or webpage when conducting auctions for ads. Google stated the change was the result of "engagement with data protection authorities" and would help prevent those bidding on ads from linking individual people to sensitive content. The change raised concerns about entrenching Google's dominance over internet advertising and whether the policy change would further diminish advertising revenue for content publishers. Questions also remain as to whether the change is necessary under the GDPR if user IDs are effectively deidentified as Google has claimed. Google's modifications to its Street View data collection failed to halt multiple fines by data protection agencies for legal violations. The company's ad exchange is still under investigation for violations of the EU General Data Protection Regulation. EPIC recently urged lawmakers to unwind bad mergers, including Google's acquisition of YouTube and Nest. (Nov. 18, 2019)
+Missouri AG Cites EPIC's FTC Complaint in Announcing its Investigation into Google: Missouri Attorney General Josh Hawley has announced an investigation into Google's business practices concerning Internet privacy. The investigation also examines whether Google misappropriated content from competitors' websites and manipulated search results to preference Google sites. The Missouri AG stated, "when a company has access to as much consumer information as Google does, it's my duty to ensure they are using it appropriately." The announcement highlighted EPIC's recent FTC Complaint against Google regarding the company's tracking of in-store purchases as well as the record fine by the European Union for monopolistic search practices. Under the leadership of then Connecticut Attorney General Richard Blumenthal, the state Attorneys General previously investigated Google for the unlawful interception of private communications by means of the Google "Street View" vehicles. That state AGs fined Google $7,000,000 when it was found that the company "casually scooped up passwords, e-mail and other personal information from unsuspecting computer users." (Nov. 13, 2017)
+EPIC Ask FTC to Investigate Privacy Risks of Pokemon GO: EPIC has urged the FTC to launch an investigation of Pokemon GO and the app's developer Niantic. When the augmented-reality app was first released, Niantic granted itself "full access" to users' Google accounts in violation of federal privacy law. Even after recent changes, the company continues to collect detailed location history and has access to smartphone cameras. Pokemon GO "raises complex and novel privacy issues that require close FTC scrutiny," EPIC told the Commission. Senator Al Franken recently sent a letter to the company asking for clarification on the scope and purpose of its data collection. Niantic has close ties to Google and its CEO oversaw Google's controversial Street View project, which was found to collect private wifi data transmissions. (Jul. 22, 2016)
+Supreme Court Rejects Google's Street View Appeal: The U.S. Supreme Court has denied a petition from Google to reverse the decision in the Google Street View case. In Joffe v. Google, Internet users sued Google for intercepting private communications, including passwords, medical records, and financial information, of millions of users across the country. EPIC filed a friend of the court brief in support of Internet users, arguing that Wi-Fi communications are not "readily accessible to the general public," and that companies should not intercept communications of private residential networks. The Ninth Circuit agreed and found that the wiretap exception for access to "radio communications" does not apply to Wi-Fi networks. More than twelve countries have investigated Google for its collection of private Wi-Fi data, and at least nine countries have found that Google violated their national wiretap laws. For more information, see EPIC: Joffe v. Google and EPIC: Investigations of Google Street View. (Jun. 30, 2014)
+EPIC Obtains Letter Concerning Justice Department Non-Investigation of Google Street View: Pursuant to the Freedom of Information Act, EPIC has obtained the closing letter from the Department of Justice to Google attorneys in the Street View matter. The letter briefly mentions Google's interception and collection of private Wi-Fi communications across the United States over several years. The disclosure of the activity occurred after a European data protection authority discovered that Google's "Street View" vehicles also captured private Wi-Fi data. More than 12 countries subsequently investigated Google's programs, and at least 9 countries found Google guilty of violating their laws. The letter from the DOJ states
+that US officials were aware that Google's "equipment collected 'payload' data, including contents of e-mail and Internet addresses typed by users," but the Department "decided not to seek charges" against Google for violating the Wiretap Act. The Ninth Circuit recently affirmed a federal court's decision to allow a class action lawsuit against Google to move forward for wiretap violations stemming from the Street View program. For more information, see EPIC: Investigations of Google Street View and EPIC: Joffe v. Google. (May. 13, 2014)
+Federal Appeals Court Rules Against Google in Street View Case, Denies Rehearing: The Ninth Circuit Court has denied Google's petition for rehearing en banc in Joffe v. Google, a suit brought by individuals whose private Wi-Fi communications, including passwords and other sensitive information, were intercepted by Google. The appeals court previously found that Wi-Fi "payload" data are not exempt from protection under the Wiretap Act. EPIC filed an amicus brief in the case, arguing that Wi-Fi communications "are not 'broadcast' like traditional radio communications; they are sent from one device to another directly and there is nothing about the typical configuration of a Wi-Fi device to suggest that users expect that their communications between these devices would be 'readily accessible to the general public.'" Google recently reached a $7-million settlement with the attorneys general of 38 states and the District of Columbia over the Street View collection. For more information, see EPIC: Joffe v. Google and EPIC: Investigations of Google Street View. (Dec. 30, 2013)
+States Fine Google for Street View Privacy Violations: Attorneys general for 38 states and the District of Columbia today reached a "$7 Million Settlement"
+with Google over consumer protection and privacy claims. The company engaged in the unauthorized collection of data from wireless networks, including private WiFi networks of residential Internet users. A detailed Assurance of Voluntary Compliance, setting out the terms of the settlement, is now available. In 2010, EPIC urged the Federal Communication Commission to investigate the Google Street View program after it became clear that Google had intercepted the private communications of millions of users of wi-fi networks in the United States. EPIC subsequently pursued FOIA requests regarding the FCC and the Department of Justice investigations. Federal wiretap claims concerning Street View are still pending in federal court. For more information, see EPIC: Investigations of Google Street View and EPIC: Joffe v. Google. (Mar. 12, 2013)
+In UK, Google Admits It Retains Street View Data: In a letter to the UK Information Commissioner, Google has admitted it retained payload data improperly collected by Street View vehicles. Google had promised earlier it would delete the data. The UK privacy agency has now demanded that Google turn over the payload data for examination and forensic analysis. EPIC recently filed an amicus brief in a US federal appeals court, arguing that Google Street View violated federal wiretap law. For more information, see EPIC: Investigations of Google Street View and EPIC: Joffe v. Google. (Jul. 27, 2012)
+Swiss Court Sets Out Requirements for Google Street View in Switzerland: The Swiss Federal Supreme Court has allowed Google to continue operating its Street View service in Switzerland, subject to certain privacy protections. Google must completely obscure faces and license plates near "sensitive facilities" such as schools and prisons, and must not publish pictures of courtyards or lawns not visible to pedestrians unless the company obtains the owners' consent. Google must also honor requests from people who want to anonymize images of themselves. Recently, the unredacted version of an FCC report revealed that Google intentionally intercepted payload data for business purposes and that many supervisors and engineers within the company reviewed the code and the design documents associated with the project. EPIC is pursuing FOIA requests with the FCC and the Department of Justice regarding the agencies' investigations into Google Street View. For more information, see EPIC: Investigations of Google Street View and EPIC: FCC Investigation of Google Street View. (Jun.
+8, 2012)
+On Google Spy-Fi, Senator Durbin Calls for Update to Wiretap Law, FCC Chair Agrees Law Should Protect Unencrypted Communications: In a hearing with Federal Communications Commission Chairman Julius Genachowski, Senator Dick Durbin (D. IL.) criticized the agency's decision to issue a mere $25,000 fine against Google following the investigation of Street View data collection. (Hearing video beginning at 64:20) Senator Durbin said that Google's interception and collection of private wi-fi communication was a clear violation of privacy. Chairman Genachowski defended the agency's decision but agreed with the committee chairman that "the law should protect people even if they have unencrypted wi-fi." Senator Durbin said that he would consider changes to the law if that is necessary. Senator Durbin also asked the FCC to provide the legal memoranda supporting the FCC's decision not to find Google guilty of violating the Communications Act. EPIC has a similar FOIA request pending with the agency. For more information, see EPIC: FCC Investigation of Google Street View and EPIC: Electronic Communications Privacy Act. (May. 11, 2012)
+Google Street View Timeline
+May 29, 2007 - Google announces launch of Street View, initially available in San Francisco, New York, Las vegas, Denver, and Miami.
+May 30, 2007 - Internet publication BoingBoing discusses emerging privacy concerns associated with Street View, after a reader notes with alarm that it features her living room window with enough detail to render her pet cat clearly visible.
+June 1, 2007 - The New York Times reports on the emerging Street View privacy debate.
+September 11, 2007 - Canada issues a press release noting that the Privacy Commissioner had written to Google "to seek further information [regarding Street View] and assurances that Canadians' privacy rights [would] be safeguarded if [Street View were] deployed in Canada."
+September 11, 2007 - Canada writes to Google, seeking assurances about privacy.
+September 25, 2007 - Canadian news service CanWest reports that Google's global privacy counsel Peter Fleischer promises Google will "try not to have identifiable faces and identifiable licence plate numbers in any Street View images in Canada."
+December 11, 2007 - The Boston Globe quotes Stephen Chau, product manager for Google Maps as saying, "We take privacy concerns seriously . . . All these images are taken on public streets. It's exactly what you could see walking down the street."
+April 2, 2008 - A Pittsburgh couple files suit against Google for invasion of privacy after Street View makes photographs of the couple's home available online without their consent.
+May 12, 2008 - Google announces that it has begun testing face-blurring technology to automatically recognize and blur faces in Street View photographs.
+March 23, 2009 - International privacy watchdog group Privacy International addresses a complaint to UK Information Commissioner Richard Thomas regarding Google Street View.
+April 1, 2009 - Residents of Broughton, Buckinghamshire, England force a Street View recording vehicle spotted in their neighborhood to turn around, citing privacy and safety concerns.
+May 11, 2009 - Greece halts Street View operations, pending investigation.
+May, 2009 - Google Japan agrees to lower the height of the cameras on its Street View vehicles amidst concerns that the vehicles may be capturing images from above the height of fences and walls intended to keep homes concealed.
+July 28, 2009 - The London Times publishes a letter from Google's Global Privacy Counsel Peter Fleischer rebutting allegations that Google flouts privacy concerns and stating, "We work hard to make sure our users understand what data we collect and how we use it, because we are committed to transparency and user choice."
+August 21, 2009 - The Office of the Privacy Commissioner of Canada writes a letter to Google summarizing Street View negotiations to date and reminding Google of "the need for [citizens'] knowledge and consent" in Street View operations.
+November 13, 2009 - Switzerland announces that it is taking Google to Federal Administrative Court over Google's Street View practices.
+April 23, 2010 - Germany announces that Street View vehicles have been collecting data from Wi-Fi networks.
+May 16, 2010 - Google deletes private data in Ireland.
+May 18, 2010 - Hong Kong Privacy Commissioner seeks assurances from Google. When Google fails to respond, the Commissioner threatens sanctions.
+May 19, 2010 - Italy confirms that it launched a prosecution against Google Street View.
+May 19, 2010 - The French National Commission on Computing and Liberty (CNIL) confirms they are investigating Google.
+May 19, 2010 - Reps. Markey and Barton write to FTC Chairman Jon Leibowitz asking whether Google has broken federal law
+May 21, 2010 - EPIC writes to FCC asking the Commission to launch an investigation into Google's conduct.
+May 22, 2010 - Swiss Federal Data Protection and Information Commission announces they are working with European data protection authorities to investigate Google Wi-Fi collection.
+May 26, 2010 - Reps. Markey, Barton, and Waxman of the House Committee on Energy and Commerce send a letter to Google CEO Eric Schmidt.
+May 28, 2010 - Austria bans Street View cars, confirms investigation is taking place.
+May 28, 2010 - Rep. Conyers writes to CEO Schmidt expressing concern over Google's conduct and requesting that Google retain the data collected by its Street View cars until review of the matter is complete.
+June 4, 2010 - Hungarian Parliamentary Commissioner for Data Protection and Freedom of Information announces the beginning of an official investigation of Google Street View and writes letter to Google.
+June 8, 2010 - Hong Kong Commissioner announces that Google has ceased operating Street View cars in Hong Kong and that Google has delivered a written undertaking.
+June 11, 2010 - Reps. Markey, Barton, and Waxman issue a press release promising to "actively and aggressively monitor developments in this area" and calling Google's behavior "deeply troubling" They also call for a hearing into the matter.
+June 17, 2010 - The French CNIL announces that its preliminary analysis of Google's data collection indicates Google saved e-mails and passwords.
+June 22, 2010 - London's Metropolitan Police commence an investigation into Google's Wi-Fi activities.
+July 21, 2010 - (Former) Connecticut AG Blumenthal's Office announces that 38 states are participating in a multi-state investigation into Google's collection of Wi-Fi data. Blumenthal sends a letter to Google on behalf of the coalition.
+September 21, 2010 - Italy orders Google to stop collecting Wi-Fi data.
+September 22, 2010 - The Czech Republic turns down Google's application to collect personal data for Street View.
+October 19, 2010 - The Spanish Data Protection Authority (DPA) files suit against Google for five violations of Spanish law.
+October 20, 2010 - The Canadian Privacy Commissioner determines that Google violated Canadian privacy law.
+October 22, 2010 - Google ends its illegal collection of Wi-Fi data transmissions, and admits to having collected private information.
+October 27, 2010 - The Federal Trade Commission closes its "non-investigation" of Google Street View.
+November 3, 2010 - British officials announce that Google violated UK data protection laws.
+November 10, 2010 - The Wall Street Journal reports that the Federal Communications Commission has opened an investigation into Google's Wi-Fi data collection.
+November 29, 2010 - Google pending patent application for use of Wi-Fi locational data linked to particular users becomes public.
+December 14, 2010 - (Former) Connecticut AG Blumenthal issues a civil investigative demand for Google Street View data.
+December 14, 2010 - New Zealand Privacy Commissioner finds Google violated New Zealand privacy law.
+December 16, 2010 - FBI Agents interview three Google employees regarding possible criminal violations of U.S. law.
+January 6, 2011 - The South Korea National Police determine that Google broke Korean privacy law.
+January 28, 2011 - Connecticut AG Jensen drops the Civil Investigative Demand, and agrees to Google stipulation and settlement negotiations.
+March 21, 2011 - France CNIL fines Google 100,000 Euros for violating French privacy laws.
+May 27 2011 - DOJ closes its investigation after deciding not to seek charges against Google.
+March 30, 2012 - EPIC files an amicus brief in the Ninth Circuit urging the court to affirm legal protections for users of home Wi-Fi networks.
+April 13, 2012 - FCC fines Google $25,000 for obstructing an FCC investigation; releases redacted report.
+April 18, 2012 - EPIC files a FOIA request with the FCC for the complete, unredacted Google Street View report.
+April 26, 2012 - Google responds to FCC and agrees to pay the $25,000 fine; reveals existence of DOJ investigation.
+April 27, 2012 - EPIC files a FOIA request with the DOJ for documents related to the agency's investigation of Google Street View.
+April 28, 2012 - Google releases complete FCC report , revealing that multiple engineers had knowledge of Wi-Fi payload data collection.
+November 14, 2016 - EPIC receives documents from the DOJ as a result of its FOIA request.
+January 17, 2017 - EPIC receives documents from the FTC as a result of its FOIA request.
+United States
+Under federal and state laws, Google may be both civilly and criminally liable for the unauthorized capture of data from private Wi-Fi networks in the United States. Google's conduct may constitute violations of the federal Wiretap Act and the federal Pen/Trap Act. Google may also be liable for deceiving consumers and violating individuals' privacy.
+Potentially Relevant Federal Statutes
+Under the federal Wiretap Act, it is illegal to "intentionally intercept[] . . . any wire, oral, or electronic communication." Moreover, even if an interception is not intentional, anyone who, "having reason to know that the information was obtained through the interception of a wire, oral, or electronic communication," uses such information is also guilty of a violation of the Wiretap Act. However, it is not illegal to intercept electronic communications that are "readily accessible to the general public."
+The federal Communications Act makes it illegal for anyone receiving any interstate radio communication to "divulge or publish the existence, contents, substance, purport, effect, or meaning thereof, except through authorized channels of transmission or reception, to any person other than the addressee." Additionally, "[n]o person having received any intercepted radio communication or having become acquainted with the contents, substance, purport, effect, or meaning of such communication (or any part thereof) knowing that such communication was intercepted, shall divulge or publish the existence, contents, substance, purport, effect, or meaning of such communication (or any part thereof) or use such communication (or any information therein contained) for his own benefit or for the benefit of another not entitled thereto."
+The Pen/Trap Act, enacted as part of the Electronic Communications Privacy Act, makes it criminal to "use a pen register or a trap and trace device without first obtaining a court order." A pen register is defined as "a device or process which records or decodes dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted . . . ." A trap and trace device is "a device or process which captures the incoming electronic or other impulses which identify the originating number or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication . . . ." Both definitions are subject to the limitation that captured "information shall not include the contents of any communication."
+Under 18 U.S.C. §1030, it is unlawful to "intentionally access[] a computer without authorization or exceed[] authorized access, and thereby obtain[] (A) information contained in a financial record of a financial institution; . . . (B) information from any department or agency of the United States; or (C) information from any protected computer . . . ."
+Congressional Investigations
+On May 26, 2010, Representatives Ed Markey (D-MA), Joe Barton (R-TX), and Henry Waxman (D-CA) of the House Committee on Energy and Commerce sent a letter to Google CEO Eric Schmidt. The letter expressed particular concern that Google's collection of payload data was not disclosed until long after the fact. The Congressmen also asked Schmidt to answer a number of important questions about Google's conduct, including how many networks were logged, how many consumers were subject to its data collection, and how Google intended to use the data it captured. Google sent a response dated June 9.
+On May 28, 2010, Congressman John Conyers (D-Mich.) also wrote to Schmidt. Conyers' letter expressed concern about Google's conduct and requested that Google "retain the data collected by its Street View cars, as well as any records related to the collection of such data, until such time as review of this matter is complete."
+On June 11, 2010, Congressmen Markey, Barton, and Waxman issued a press release. Markey pledged to "actively and aggressively monitor developments in this area." Barton called Google's behavior "deeply troubling" and called for a hearing on the matter.
+Federal Trade Commission
+As the federal agency responsible for protecting consumers, the FTC works to prevent fraud, deception, and unfair business practices in the United States. The FTC's Bureau of Consumer Protection is responsible for enforcing federal consumer protection laws and educating consumers.
+On May 19, 2010, Representatives Ed Markey (D-MA) and Joe Barton (R-TX) wrote to FTC Chairman Jon Leibowitz. Among other things, the letter asked the Commission whether Google had violated the public's reasonable expectation of privacy, whether its actions were unfair and deceptive, and whether it had broken federal law.
+On May 20, 2010, Leibowitz, in response to questioning from Senator Susan Collins (R-ME) during a Senate Appropriations Subcommittee hearing (video link; question at around 101:35), said that his agency is "going to take a very, very close look" at Google's conduct. Leibowitz further noted: "Obviously this is just one example . . . of why consumers have very serious privacy concerns about data that's being collected. So we are going to take a look at it. Absolutely."
+On October 27, 2010, The Federal Trade Commission sent a letter to Google, ending an investigation that never began. In May, the Federal Trade Commission was asked by members of Congress to investigate Google's secretive collection of wifi data as part of Street View, a mapping program characterized by the collection of digital imagery. The Federal Trade Commission never pursued an independent investigation of Street View, examined the data collected by Google in the United States, or even acknowledged the findings of other agencies.
+In documents obtained by EPIC through a Freedom of Information Act request, a senior attorney with the Federal Trade Commission describes the Google WiFi investigation as a "wasted summer" and hopes that a Hill briefing on Google WiFi "won't be too much of a time suck." EPIC sought these documents after the FTC dropped its investigation of Google Streetview.
+Federal Communications Commission
+The FCC is the federal agency that regulates interstate and international communications by radio, television, wire, satellite, and cable. The seven Bureaus of the FCC are responsible for, among other things, analyzing complaints, conducting investigations, enforcing the Communications Act, and protecting consumers in communications matters.
+On May 21, 2010, EPIC wrote to FCC Chairman Julius Genachowski, asking the Commission to launch an investigation into Google's conduct. In particular, EPIC asked the Commission to determine whether Google's collection of Wi-Fi communications may have violated the Wiretap Act or the Communications Act.
+On June 11, 2010, the FCC's Chief of the Consumer and Governmental Affairs published a blog post reminding consumers how to protect their Wi-Fi networks and stating that "collecting information sent over Wi-Fi networks clearly infringes on consumer privacy."
+On November 10, 2010, the Wall Street Journal reported that the Federal Communications Commission had opened an investigation into Google's secretive interception and collection of wifi data collection.
+On April 13, 2012, the FCC closed an investigation into Google Street View by announcing that it will fine the company $25,000 for obstruction. The FCC found that Google impeded the investigation by "delaying its search for and production of responsive emails and other communications, by failing to identify employees, and by withholding verification of the completeness and accuracy of its submissions." Although the base forfeiture for failing to respond to an FCC inquiry is $4,000, the FCC determined that Google's conduct warranted an upward adjustment. In many cases, Google's failure to cooperate was deliberate. Furthermore, the FCC found that "[m]isconduct of this nature threatens to compromise the Commission's ability to effectively investigate possible violations of the Communications Act and the Commission's rules." Thus, the FCC fined Google $25,000. The FCC may impose a fine of up to $112,500 for each violation.
+EPIC also submitted a FOIA request for the complete, unredacted version of the FCC's Google Street View report. The FCC's report was heavily redacted, raising questions about the scope of the agency's investigation. The redactions also obscured important details. For example, the FCC redacted information about the total volume of private data collected. The FCC also redacted important information related to Google's intent in capturing private Wi-Fi data, such as the purposes for which a Google engineer initially reviewed payload data.
+Department of Justice
+The DOJ enforces a wide range of federal laws by investigating and prosecuting violations.
+In response to the FCC's $25,000 fine, EPIC wrote a letter to Attorney General Eric Holder asking the Department of Justice to investigate Google's collection of private Wi-Fi data. EPIC noted that "by the agency's own admission, the investigation conducted was inadequate and did not address the applicability of federal wiretapping law to Google's interception of emails, usernames, passwords, browsing histories, and other personal information." "In light of the Attorney General's law enforcement responsibilities and the inadequate responses of the other federal enforcement agencies, EPIC urges the Department of Justice to investigate the extent of Google's interception of private Wi-Fi data in the United States," EPIC concluded.
+Google's response to the FCC stated that "the Department of Justice ("DOJ") conducted and long ago completed its own thorough examination of the facts." Because the DOJ's Street View investigation was never publicly released, EPIC also submitted a FOIA request to the Department of Justice for documents related to the agency's investigation of Google Street View and possible violations of federal wiretap laws. On May 6, 2014, EPIC obtained a copy of the DOJ's closure letter, which had been sent to Google attorneys on May 27, 2011.
+News:
+Lawmakers ask FTC to look into Google Wi-Fi data, Diane Bartz, Reuters, May 19, 2010
+Satisfied with Google's Promise to Restraint Street View, FTC Drops Privacy-Breach Probe, Cecilia Kang, The Washington Post, October 27, 2010.
+FCC Is Investigating Google Street View, Edward Wyatt, The New York Times, November 10, 2010.
+FCC Investigating Google Data Collection, Amy Schatz and Amir Efrati, The Wall Street Journal, November 11, 2010.
+Conn. attorney general says agreement with Google allows settlement talks over Wi-Fi data, The Los Angeles Times, January 28, 2011.
+State Attorneys General
+On June 4, 2010, Missouri Attorney General Chris Koster's office announced that the Attorney General had sent a letter to Google asking it to provide details on information collected from Missouri residents, including the nature of the data, how the data was used, to whom the data was disclosed, and what protections Google had put in place to ensure the data would not be improperly utilized. The letter further requested that Google preserve all data collected from Missouri residents pending further investigation.
+On June 8, 2010, Connecticut Attorney General Richard Blumenthal's office issued a press release stating that it was investigating Google's collection of data from private networks. The office indicated that it was considering whether Google engaged in illegal conduct, stating in part, "Google grabbed information -- which could include emails, passwords and web-browsing -- that consumers rightly expect to be private. Google needs to better explain how this practice happened, exactly when, where and why."
+On June 16, 2010, Illinois Attorney General Lisa Madigan's office issued a press release announcing the commencement of an official investigation in Google's conduct. According to the release, Madigan and Massachusetts Attorney General Martha Coakley sent a joint letter to Google on June 9, 2010, requesting answers to several questions. Madigan stated, "My office takes issues concerning privacy and the security of personal information very seriously, and we are investigating Google's actions to determine whether any laws were broken and what steps must be taken to protect the privacy of Illinois residents."
+On June 17, 2010, Michigan Attorney General Mike Cox announced that his office had requested information from Google regarding its interception of information from private Wi-Fi networks. Cox stated, "We want to ensure that Michigan citizens' privacy rights were not violated."
+On June 17, 2010, Virginia Attorney General Ken Cuccinelli's office issued a press release regarding Google's collection of private Wi-Fi data. Cuccinelli said, "These incidents serve as a reminder of the vulnerabilities of unsecured computer networks and the potential for breaches of privacy and even for criminal conduct." He has reportedly requested that Google provide details regarding its conduct in the state of Virginia.
+On June 21, 2010, Connecticut Attorney General Richard Blumenthal's office issued a press release announcing that Blumenthal plans to lead a multistate investigation into Google's unauthorized collection of personal data from wireless computer networks. More than 30 states participated in a recent conference call to discuss the investigation. Blumenthal stated, "Street View cannot mean Complete View -- invading home and business computer networks and vacuuming up personal information and communications . . . . Google must come clean, explaining how and why it intercepted and saved private information broadcast over personal and business wireless networks."
+On July 21, 2010, Connecticut Attorney General Richard Blumenthal's office issued a press release announcing that 38 states are now participating in a multistate investigation into Google's collection of data transmitted over wireless computer networks. Blumenthal also announced that he had sent a letter to Google on behalf of the 38-state coalition asking whether Google intended to collect random bits of information over Wi-Fi or download specific types of data, as well as whether it has sold or otherwise used the technical network information it collected.
+On December 10, 2010, Connecticut Attorney General, and Senator-elect, Richard Blumenthal issued a "civil investigative demand," similar to a subpoena, for access to the data Google's Street View cars collected from homes and businesses in Connecticut. "Google's story changed," Blumenthal said, "first claiming only fragments were collected, then acknowledging entire emails." Google's purposeful and secretive collection of wifi data occurred in thirty countries over a three-year period, and several countries are investigating. The data sought by the Connecticut AG could provide evidence of illegal activity in the United States.
+On January 28, 2011, the new Connecticut Attorney General, George Jepsen, announced that his office had reached an agreement with Google over the Civil Investigative Demand that the AG's Office had issued. Google agreed to stipulate for settlement discussions that the payload data it collected "contained URLs of requested Web pages, partial or complete e-mail communications, or other information, including confidential and private information the network user was transmitting." The State of Connecticut and the 40-state coalition it leads will begin settlement negotiations with Google. AG Jepsen also released a statement on how CT residents can secure their wireless networks, including a recommendation to "turn off your wireless network when you know you won't use it."
+Private Litigation
+On May 17, 2010, two individuals, one from Oregon and one from Washington state, filed a class action lawsuit against Google in a Portland, Oregon federal court. In the complaint, the plaintiffs stated they had "an expectation of privacy with respect to the . . . data collected . . . by Google" and argued that Google's conduct constituted an invasion of their privacy. The plaintiffs requested statutory damages, punitive damages, an attorney's fee, and an injunction barring Google from destroying collected data. On May 24, the court issued an order requiring Google to turn over a copy of the hard drive containing the network content data collected in the United States. On June 2, the plaintiffs filed an amended complaint alleging that a patent application filed by Google in November 2008 establishes that Google intended to collect vast amounts of data from individuals' Wi-Fi networks.
+On May 20, 2010, two Californians and a resident of Ohio filed a class action lawsuit against Google on Google's home turf in the Northern District of California. The complaint alleges that "Google purposefully equipped its [Street View] Vehicles with, among other items, devices designed to intercept, capture and store wireless signals and data of the sort transmitted by wireless networks such as plaintiffs' and those of millions of other Americans." The complaint asserts that Google intercepted personal and confidential communications in violation of the federal Wiretap Act. The plaintiffs seek statutory damages, punitive damages, and costs and attorneys' fees.
+On May 25, 2010, an internet service provider, Galaxy Internet Services, Inc., filed a class action lawsuit in the District of Massachusetts against Google regarding its collection of data from private Wi-Fi networks. The complaint claimed that Google's conduct constituted the tort of invasion of privacy. The plaintiffs asserted that Google's unauthorized access of wireless networks "invade[d] the objectively reasonable expectation of privacy of both the plaintiff, and the customers they serve." Plaintiffs requested nominal compensatory damages, punitive damages to prevent similar conduct in the future, statutory damages, and an injunction barring Google from destroying or altering data collected in Massachusetts.
+On May 26, 2010, a Washington, D.C. resident filed a class action lawsuit against Google in a federal court. The complaint alleges that Google "intentionally sought, intercepted and collected the electronic communications of the Plaintiff and the class" and that as a result, it succeeded in unlawfully intercepting private communications. The plaintiff requests statutory damages and an order preventing Google from "any act to intercept electronic communications" and from "disclosing to anyone the communications intercepted."
+On May 28, 2010, three individuals in Illinois filed a class action lawsuit against Google in the Southern District of Illinois. The complaint requests a declaration that Google violated the Wiretap Act, an award of statutory damages, costs of suit, and attorneys' fees.
+On May 28, 2010, two Washington, D.C. residents and one Virginia resident filed a class action lawsuit against Google in the District of Columbia. Their complaint alleges that Google collected, without consent, data that "is not reasonably accessible by the general public" because some of the data collected "is not readable by members of the public absent the acquisition and use of sophisticated decoding and processing technology." The plaintiffs assert that Google's "mission, and the means . . . used to accomplish it . . . have raised serious privacy concerns." They further allege that Google's engineers designing the Street View data collection system "intentionally included wireless sniffers" to capture and analyze data traveling over private Wi-Fi networks. The complaint accuses Google of fraudulently concealing its conduct in an attempt to avoid legal conflict. The plaintiffs request statutory damages, punitive damages, and fees and costs.
+On June 2, 2010, a married couple residing in Philadelphia filed a class action lawsuit against Google in the Eastern District of Pennsylvania. The complaint argues that Google violated the Wiretap Act and engaged in fraudulent concealment of its activities. The plaintiffs request, in part, award damages, including statutory damages, and expenses and fees.
+On June 8, 2010, Google filed a motion to consolidate eight private actions against it pending in six federal judicial districts and to transfer the actions to the Northern District of California. In a memo supporting the motion, Google asserts that "[w]hile there are variations among these cases, they are all rooted in the same basic alleged facts and theory."
+On August 17, 2010, the United States Judicial Panel on Multidistrict Litigation transferred eight cases to the Northern District of California. The Wiretap Act provides a private right of action against any person who "intentionally intercepts ... any wire, oral, or electronic communication..." 18 U.S.C. § 2511(1)(a). However, Section 2511(2) provides exceptions to this private right of action where the "electronic communications system [is] configured so that such electronic communication is readily accessible to the general public." 18 U.S.C. § 2511(2)(g)(i).
+The District Court considered three issues: "(1) what 'radio communication' means within the purview of the Wiretap Act; (2) whether wireless home internet networks are 'radio communications' within the purview of the Wiretap Act's usage of that term; and (3) whether cellular telephone calls constitute 'radio communications' as intended by Congress when drafting the Wiretap Act and, if so, whether such technology properly fits within any of the five enumerated exceptions to the definition of 'readily accessible to the general public' as outlined in Section 2510(16)." Id. at 1072.
+The District Court dismissed the plaintiffs' claims under state wiretapping law, finding that the federal Wiretap Act preempts the state wiretap statutory schemes. Id. at 1085. However, the District Court did not dismiss the plaintiffs claims under the Wiretap Act. The court did not accept Google's argument that the Wiretap Act's prohibitions were inapplicable to communications sent over an "open" Wi-Fi network. Id. at 1079. Specifically, the court found that Congress did not intend to "electronic communications" such as Wi-Fi to be included in the narrow exception [2511(2)(g)(i)] for radio services "readily accessible to the general public." Id.
+On March 30, 2012, EPIC filed an amicus brief in the Ninth Circuit urging the court to affirm legal protections for users of home Wi-Fi networks. Google argued that it should be exempt from liability under the federal Wiretap Act because Wi-Fi communications are "readily accessible to the general public." However, a lower court held that saying "that a network is unencrypted does not render that network readily accessible to the general public and serve to remove the intentional interception of electronic communications from that network from liability under the ECPA." EPIC's brief for the Court of Appeals, which contains a detailed technical discussion of Wi-Fi technology, explains that residential Wi-Fi networks are unlike traditional radio broadcasts and should be protected Electronic Communications Privacy Act. EPIC also said that consumers should not bear the burden of securing their networks against sophisticated eavesdroppers when the purpose of the ECPA is to protect communications from such interception.Back to top
+Canada
+On September 11, 2007, the Privacy Commissioner of Canada, Jennifer Stoddart, wrote a letter to Google expressing concern that its Street View photograph-taking activities may not have been in compliance with Canada's Personal Information Protection and Electronic Documents Act (PIPEDA). In response, Google began automatically blurring faces and license plates.
+On August 21, 2009, Stoddart wrote another letter, this time regarding Google's data retention policy for the Street View images it captured. The letter called Google's one-year retention policy "reasonable," but called on Google to remain cognizant of the requirement for knowledge and consent and to be "be sensitive about the areas [Google chooses to photograph.]"
+On June 1, 2010, Stoddart, launched an investigation to determine whether Google's Wi-Fi data collection violated PIPEDA. The Privacy Commissioner noted that her office is "very concerned about the privacy implications stemming from Google's confirmation that it had been capturing WiFi data in neighborhoods across Canada and around the world over the past several years" and has "a number of questions about how this collection could have happened and about the impact on people's privacy."
+On October 20, 2010, Canada's Privacy Commissioner has determined that Google violated Canadian privacy law when the company's Street View cars collected user information from wireless networks. The personal information Google captured included e-mails and the names, addresses, and home phone numbers of people suffering from a certain medical condition. The Commissioner called on Google to strengthen its controls and designate an individual to be responsible for privacy issues.
+Resources:
+The Personal Information Protection and Electronic Documents Act
+Captured on Camera: Street-level Imaging Technology, the Internet and You, published by the Office of the Privacy Commissioner of Canada.
+September 11, 2007 letter from Stoddart to Google VP and Chief Legal Officer David Drummond.
+August 21, 2009 letter from Stoddart to Canada Policy Counsel Jacob Glick.
+June 1, 2010 press release from the Office of the Privacy Commissioner of Canada.
+October 19, 2010 press release from the Office of the Privacy Commissioner of Canada.
+News:
+Privacy Office to Probe Google Street View, Jameson Berkow, Financial Post, June 2, 2010
+Google Street View Broke Canada's Privacy law with Wifi Capture, Josh Halliday, The Guardian, October 20, 2010
+Back to top
+Europe
+Since even before Street View was launched in Europe, privacy organizations were wary of the service. Officials at the European Union level have grown increasingly impatient with Google's practices that compromise user privacy in building its Street View service. Most of the European states discussed on this page are members of the European Union; as such, they are subject to EU privacy laws in addition to any national laws they have on the subject.
+Resources:
+March 23, 2009 complaint from Privacy International to UK Information Commissioner Richard Thomas.
+March 25, 2009 open letter from Privacy International to Google CEO Eric Schmidt.
+April 19, 2010 letter to Schmidt from international privacy authorities.
+May 18, 2010 open letter from Privacy International to EU privacy commissioners.
+News:
+Google Blurs the Privacy Issue, Richard Wray, The Guardian, May 13, 2008
+Google Urged to Bring Street View in Line With EU Law, Stephanie Bodoni, Bloomberg Businessweek, May 11, 2010
+MEPs want Google to keep customer data for longer: Make your minds up, can't you?, Emma Woollacott, TechEYE.net, June 4, 2010
+Google Accused of Criminal Intent Over StreetView Data, BBC News, June 9, 2010
+European Union
+Most of the European states discussed on this page (all except for Switzerland) are members of the European Union; as such, they are subject to the EU Data Protection Directive. Under EU law, a "directive" places an obligation on each EU member state to enact national legislation implementing standards that conform to those defined in the directive. The Data Protection Directive requires states to implement laws that restrict the use of data with a focus on three principles: notice, fidelity, and proportionality. Under the notice aspect of the Directive, states must require data controllers to tell consumers why they want to collect personal data and to receive "unambiguous" consent before collecting such data. Under the fidelity aspect of the Directive, states must require data controllers to use personal data only for stated purposes, and prohibit controllers from redirecting such data to other purposes. Under the proportionality aspect of the Directive, states may allow the collection of personal data only where such data has a reasonable relationship to the purposes for which it is collected.
+Article 29 of the Data Protection Directive establishes a Working Party comprising representatives of the EU's 27 member states. On May 26, 2010, Jacob Kohnstamm, Chairman of the Article 29 Working Party, wrote a letter to Google stating, in part, "Given the predominant role of the Google search engine in the daily lives of all citizens of the European information society, the apparent lack of focus on privacy in this area is concerning." The letter to Google urged it to employ an outside auditor to ensure that data which Google pledged to purge of individually identifiable details was truly made completely anonymous. Kohnstamm sent a copy to the U.S. Federal Trade Commission along with a letter addressed to FTC Chairman Jon Leibowitz. The letter to Leibowitz noted, "We respectfully offer our assistance in any possible steps you might want to take in finding a constructive solution to protect the private life of everybody that conducts searches on the Internet."
+Officials at the EU level have grown increasingly impatient with Google's practices that compromise user privacy in building its Street View service. EU Justice Commissioner Viviane Reding has reportedly criticized Google for failing to cooperate with privacy officials. She stated, "It is not acceptable that a company operating in the EU does not respect EU rules."
+Resources:
+EU Data Protection Directive.
+Article 29 Working Party.
+May 26, 2010 letter from Jacob Kohnstamm to Google.
+May 26, 2010 letter from Jacob Kohnstamm to FTC Chairman Jon Leibowitz.
+News:
+Google Urged to Bring Street View in Line With EU Law, Stephanie Bodoni, Bloomberg Businessweek, May 11, 2010.
+Germany Asks Google to Surrender Private Data, Kevin O'Brien, The New York Times, May 18, 2010.
+Austria
+Austria has placed a temporary ban on Google Street View cars so that government regulators can take time to investigate privacy concerns. Austria's data protection commission has ruled that the cars are not allowed to collect data until it has evaluated whether personal data were wrongfully obtained. The Data Protection Commission (DSK) confirmed that an investigation is taking place. The Commission said: "To clarify the matter, we are asking Google... to present a precise technical description of its data-collection activities by June 7, 2010, as well as to answer a detailed questionnaire." The probe could take about two months, according to commission member Waltraut Kotschy. Once the Commission has received the requested information, the Commission will then decide on further steps to take.
+Resources:
+Austria's Data Protection Act.
+Official statement from the Austrian Data Protection Commission (German).
+News:
+Austria Bans Google's Street View Cars over Privacy, AFP, May 28, 2010
+Czech Republic
+In April, the Czech Office for Personal Data Protection (ÚOOÚ) began investigating Google's Street View activities. "We initiated the administrative action April 21. by sending Google a formal notice and the procedure began three days ago when Google received the letter in the U.S.," Hana Stepankova of the ÚOOÚ told news reporters. Like France, the Czech Republic imposes "conditions of registration" on companies that collect personal data, and the ÚOOÚ alleges that Google did not satisfy these conditions. The Office may fine Google up to €392,000.In September, the Czech Office for Personal Data Protection turned down Google's application to collect personal data for its Street View service.
+Resources:
+Czech Republic's Personal Data Protection Act. (Click "English" in the upper right corner.)
+News:
+Czech Privacy Data Watchdog Probes Google Street View Acts, Leos Rousek, Wall Street Journal, May 20, 2010.
+Google Under Investigation for Stealing Private Data: Czech Inquiry Falls in Line with International Suits, as Internet Giant Calls Incidents "Accident", Gabriella Hold, Prague Post, May 26, 2010
+Google's Street View Will Not Resume Its Activities in the Czech Republic", EDRI-gram, September 22, 2010
+Denmark
+Denmark requested that the Wi-Fi data be destroyed, and Google confirmed that it destroyed the data as requested: "Following requests from the Irish, Danish and Austrian data protection authorities, we can confirm that we have deleted payload data identified as coming from those countries."
+News:
+Wider European Scrutiny of Google on Privacy, Kevin J. O'Brien, New York Times, May 21, 2010
+France
+Companies in France must file a declaration with the French National Commission on Computing and Liberty (CNIL) "describing personal data they intend to store in computer systems and the use they plan to make of it." Google never filed such a declaration. The CNIL confirmed on their website on May 19 that they are "currently conducting a review of Google, in order to obtain all the information on this case and decide what action to take." Google subsequently handed copies of the data over to CNIL.
+On June 17, 2010, CNIL issued a press release (French) providing updated information regarding its investigation into Google's conduct. CNIL announced that preliminary analysis of the data Google collected showed that Google "saved passwords for access to mailboxes" and obtained content of electronic messages.
+On March 21, 2011, the CNIL fined Google 100,000 Euros for violating French privacy laws."
+Resources:
+France's Data Processing, Data Files and Individual Liberties Act.
+French Prime Minister's October 2005 Decree regarding enforcement/application of the Act.
+May 19, 2010 statement from the CNIL (French).
+June 17, 2010 press release from the CNIL (French).
+March 21, 2010 press release from the CNIL (English)
+News:
+Google's Street View contested in France and Switzerland, EDRi, August 26, 2009
+Google Street View Faces Investigation in France and Italy, Peter Sayer, PCWorld, May 19, 2010
+French Find E-mail Passwords in Google Street View Data, BBC, June 21, 2010
+Germany
+German authorities have been suspicious of Google Street View since 2008, when Street View vehicles first began photographing German streets. In a press release dated July 16, 2008, Data Protection Commissioner Peter Schaar expressed his office's concerns regarding the service and noted that Google promised to blur out license plates and individual people.
+In April 2009, Google agreed with German data protection officials to allow individuals whose faces or license plates showed up in Street View pictures to register complaints with Google Germany to have those images blurred. The German data protection agency insisted that Google delete the images permanently. Google, however, wanted to retain them, claiming that it needed to do so to improve its technology.
+Johannes Caspar, the data protection supervisor for Hamburg, threatened to "investigate the possibility of sanctions" if Google did not delete the offending data by May 20, 2009. In addition, agency spokesman Dietmar Mueller announced on May 5 that private citizens would be allowed to sue Google in German courts to a limited extent for privacy breaches.
+Caspar later discovered in an inquiry that "all vehicles used for the Internet service of Google Street View are equipped with technological devices for mapping" Wi-Fi networks. This revelation was first disclosed publicly on April 23, 2010, by Peter Schaar, the Federal Commissioner for Data Protection and Freedom of Information. At that time, Google had not yet provided a written answer to Shaar's questions about the technological specifications, nor allowed an inspection of the Street View cars. Said Caspar of Google's collection of Wi-Fi data, "The procedure of Google is unacceptable. This illegal scanning has never been the subject matter of discussions about Google Street View." Schaar remarked, "I am shocked for which purposes these tours were used without the third parties being aware of them.."
+Google steadfastly refused to hand over the data through the May 26 deadline, citing concerns that doing so could impose criminal liability. On May 27, Google agreed to allow experts from the German Data Protection Agency to examine one of the Street View vehicles as well as the software Google used to collect the payload data. Google stated on June 3 that it is "close to resolving the legal issues" that it previously claimed prevented it from handing it over. It has since confirmed in an email statement that the data will be handed over to German government authorities.
+On June 9, a third-party audit exposed the precise technological mechanisms by which Google's Street View vehicles collected the payload data. Privacy International stated that the audit proved Google or its employees had acted with criminal intent and that German prosecutors would be virtually certain to file criminal charges.
+Resources:
+July 16, 2008 press release from the Federal Commissioner for Data Protection and Freedom of Information (in German).
+Germany's Federal Data Protection Act.
+Germany's Telecom Act.
+April 23, 2010 press release from the Federal Commissioner for Data Protection and Freedom of Information.
+News:
+Google Street View Privacy Probes Widen Across Europe, Stephanie Bodoni, Bloomberg Business Week, May 20, 2010
+Google Balks at Turning Over Private Internet Data to Regulators, Kevin J. O'Brien, New York Times, May 27, 2010
+Google is 'Close' to Handing Over German Wi-Fi Data, BBC, June 3, 2010
+Greece
+In May 2009, citing privacy concerns, Greece forced Street View to cease operations within its borders, pending further investigation of the service. Street View has not operated in Greece since.
+Resources:
+Law 2472/1997 on the Protection of Individuals with regard to the Processing of Personal Data.
+Law 3471, amending Law 2472/1997.
+May 11, 2009 press release from Greece's Hellenic Data Protection Authority, requiring Google to suspend its Street View activities.
+News:
+Greece Puts Brakes on Street View, BBC, May 12, 2009
+Hungary
+On June 4, 2010, the office of the Hungarian Parliamentary Commissioner for Data Protection and Freedom of Information issued a press release announcing the commencement of official activity undertaken by the Commissioner regarding Google Street View. The press release stated that Privacy Commissioner Jóri András had sent a letter (in Hungarian) (in English) to Google requesting more information about Google's collection of data from private Wi-Fi networks.
+Resources:
+June 4, 2010 press release (Hungarian) from the office of the Hungarian Parliamentary Commissioner for Data Protection and Freedom of Information.
+June 2, 2010 letter (in Hungarian) from Privacy Commissioner Jóri András to Google.
+June 2, 2010 letter (in English) from Privacy Commissioner Jóri András to Google.
+Ireland
+In its 2009 annual report, the office of the Data Protection Commissioner of Ireland stated that it had meetings with Google to "confirm that the system would operate in accordance with data protection law." In response to the announcement that Google had been collecting Wi-Fi payload data, the Irish Data Protection Commissioner requested that Google delete the data. An independent third party confirmed that it had deleted the data.
+Resources:
+Ireland's Data Protection Act.
+May 16, 2010 letter confirming the deletion of payload data collected in Ireland.
+News:
+Google Deletes Private Data in Ireland; A Complaint Filed in U.S., Cecilia Kang, Washington Post, May 19, 2010
+Italy
+Italy has launched its own investigation into Google over its collection of payload data. Italy's data protection authority, the Garante per la Pertezione dei Dati Personali, is requiring the company to "disclose to the authority the date it started collecting information, how it collected the data and for what purpose, and where and for how long it stores the information," and "clarify what data it collected from Wi-Fi networks, and whether any of that information has been sold." The data protection authority confirmed in a press release on its website that they had "launched a prosecution against Google to verify the legality and fairness of the processing of personal data under the Street View service."
+This is not the first time Google has had trouble with Italian privacy law. Just this February, three Google executives were found gulity of defamation and violating Italy's privacy code.
+In September 2010, Italy ordered Google to stop collecting Wi-Fi data in Italy through its Street View cars.
+Resources:
+May 19, 2010 press release from Italy's Office of the Privacy Regulator.
+News:
+Google Street View Faces Investigation in France and Italy, Peter Sayer, PCWorld, May 19, 2010
+Italy investigates Google's Street View, Danilo Masoni, Reuters, May 19, 2010
+Italy orders Google to Stop Collecting WiFi Data, EuroNews, September 21, 2010.
+Spain
+On May 19, 2010, in a press release on its website, the Spanish Agency of Data Protection confirmed that its director, Artemi Rallo, ordered an investigation to determine whether Google had infringed Spanish data protection laws and citizens' rights by capturing and storing private Wi-Fi data without consent.
+On June 13, 2010, Spanish data protection watchdog group APEDANICA filed a criminal complaint against Google in the Police Court of Madrid. In the complaint, APEDANICA president Miguel Gallardo rejects Google's assertion that private Wi-Fi data collection resulted from a mistake, arguing that something carefully programmed and done in thirty countries could not have been a mistake.
+On June 15, 2010, Spanish consumer organization FACUA issued a press release announcing that it, too, had filed a criminal complaint against Google. FACUA filed its complaint in the National Court. FACUA asserted that Google's conduct may have violated Article 197 of the Spanish Penal Code.
+On October 19, 2010, the Spanish Data Protection Agency has filed suit against Google Street View for five violations of Spanish law. The Agency found that Google collected and stored personal data transmitted through open Wi-Fi networks, as well as SSIDs and MAC addresses that contained subscribers real names.
+Resources:
+May 19, 2010 press release from Spain's Data Protection Agency (in Spanish).
+June 13, 2010 complaint filed by APEDANICA against Google.
+June 15, 2010 press release from consumer organization FACUA.
+Article 197 of the Spanish Penal Code.
+October 18, 2010 press release from Spanish Data Protection Agency.
+News:
+Google to Hand Over Wi-Fi Data to European Regulators, Brian Womack, Bloomberg Businessweek, June 4, 2010.
+Una asociacion denuncia en el juzgado a Google por captar datos privados (in Spanish), Efe via El Pais, June 13, 2010.
+Spain Objects to Street View Wi-Fi Snooping, The Register, June 14, 2010.
+Spain Investigates Google Street View WiFi Snooping, BBC News, August 17, 2010.
+Switzerland
+Google has been facing conflict with Swiss authorities since spring of 2009, when the Federal Data Protection and Information Commissioner informed Google that under Swiss law it was required to anonymize Street View images before publication. The FDPIC further warned Google that it would take legal action if the company failed to comply. Following activation of Street View in Switzerland in August, the FDPIC received numerous referrals and complaints regarding Google's failure to adequately anonymize personally identifiable details. In response, the FDPIC intervened, demanding substantial improvements.
+In October 2009, the FDPIC issued a recommendation to Google. Google refused to follow the majority of the recommended measures; the FDPIC took Google to court in November. In a press release on the matter, the FDPIC criticized Google for failing to be forthcoming about its image captures, stating "the advance information that Google gave to the FDPIC was incomplete: for example, Google announced that it would primarily be filming urban centres, but then put comprehensive images of numerous towns and cities on the Internet."
+In December 2009, the FDPIC announced that he had reached a temporary agreement with Google regarding Street View pending a forthcoming decision from the Federal Administrative Court.
+On May 22, 2010, the FDPIC told Sonntag, a Swiss newspaper, that he was working with European data protection authorities to investigate Google's collection of personal data from Wi-Fi networks.
+Resources:
+The FDPIC's summary page regarding Street View
+November 13, 2009 press release from the FDPIC explaining why it is taking Google to Federal Administrative Court
+December 17, 2009 press release from the FDPIC summarizing an agreement it has reached with Google
+May 22, 2010 Sonntag article reporting the FDPIC's reaction to reports that Google collected private wi-fi data
+News
+Datenschützer Hanspeter Thür Will Gesetz Gegen Google, Von Sandro Brotz and Nadja Pastega, Sonntag, May 22, 2010 (in German)
+Swiss privacy watchdog to sue Google Street View, Associated Press via CBC News, November 13, 2009
+United Kingdom
+On April 23, 2009, in response to a complaint from Privacy International, the UK's Information Commissioner's Office (ICO) issued a press release stating its position that Street View's picture-taking activities did not violate the Data Protection Act.
+The ICO has decided not to pursue Google for its Wi-Fi snooping activities after Google promised to delete the payload data. The ICO has said it is reviewing the third party source code analysis released on June 9, but that it had no plans to pursue the matter under formal investigation.
+On June 22, 2010, London's Metropolitan Police opened crime reference number 2318672/10, commencing an investigation into Google's Wi-Fi sniffing activities. The police will begin by conducting an investigation into the underlying facts. This investigation could lead to further inquiries and potentially, prosecution.
+On November 3, 2010, British officials announced that Google violated UK data protection laws when the company's Street View cars collected wifi data from private wireless networks. In lieu of a fine, Google UK will undergo an audit and must sign a commitment to ensure that data protection breaches do not happen again. UK Information Commissioner stated that "the collection of this information was not fair or lawful and constitutes a significant breach of the first principle of the Data Protection Act.". Google also agreed to delete the data.
+Resources:
+UK Data Protection Act of 1998
+April 23, 2009 press release from the Information Commissioner's Office.
+Source code analysis by Stroz Friedberg.
+June 22, 2010 press release from Privacy International regarding the Metro Police's investigation.
+November 3, 2010 press release from the Information Commissioner's Office.
+News:
+Google Keeps Street View's UK Wi-Fi Data as Privacy Group Seeks Legal Action: Search Giant Securely Storing Data Captured from Home Wi-Fi Networks by Street View Cars Pending More Specific Instructions, Charles Arthur, Guardian (UK), May 21, 2010
+Google Accused of Criminal Intent Over StreetView Data, BBC, June 9, 2010
+Google Under Investigation by Met Police, BBC, June 22, 2010
+UK: Google Wi-Fi Collection Violated Data Protection Laws, Jeremy Kirk, ComputerWorld, November 13, 2010.
+Back to top
+Asia-Pacific
+Australia
+In May 2010, Australian Privacy Commissioner Karen Curtis confirmed that an investigation into Google is underway, but she noted that the Privacy Act prevented her from commenting on the specific details. Ms. Curtis confirmed that the Assistant Privacy Commissioner met with Google representatives on May 17, 2010 in order to discuss what action to be taken by Google in respect of any information it has collected before launching an investigation.
+At a forum on Internet security on June 6, 2010, Australian Attorney General Robert McClelland informed reporters that the matter has been handed over to the Australian Federal Police. The legal basis of this investigation will be based on whether Google violated the country's Telecommunications Interception Act, which "prevents people from accessing electronic communications other than for authorized purposes," according to the Attorney General.
+Google said on June 6, 2010 that it will cooperate with the Australian police probe. Australian Communications Minister Stephen Conroy on May 24, 2010 accused Google of invading privacy by photographing streets and using software to intercept wireless data and has also accused Google of purposely capturing the Wi-Fi data noting that this could possibly be "the largest privacy breach in history across Western democracies."
+On July 9, 2010, Australian Privacy Commissioner Karen Curtis announced that her office has completed an investigation of Google's Street View activities, finding that Google had violated Australia's Privacy Act. Although the Act does not empower the Commissioner to impose sanctions, Google has agreed to: (1) publish an apology; (2) conduct a Privacy Impact Assessment (PIA) on any new Street View data collection activities in Australia that include personal information; (3) provide a copy of these PIAs to the Commissioner's Office; and (4) regularly consult with the Commissioner about personal data collection activities arising from significant product launches in Australia.
+Resources:
+Australia's Privacy Act.
+Telecommunications (Interception and Access) Act 1979.
+Telecommunications (Interception) and Listening Device Amendment Act 1997.
+The Telecommunications (Interception) Amendment Act 2006.
+Overview of the Act by Electronic Frontiers Australia.
+May 13, 2009 letter to Google from Electronic Frontiers Australia and the Australian Privacy Foundation.
+July announcement from Australia's Office of the Privacy Commissioner.
+News:
+Google Wi-Fi Intercept triggers Aussie Police Probe, Lance Whitney, CNET, June 7, 2010
+Australian Police Probe Google's Street View Service, Marion Rae and Mark Lee, Bloomberg Businessweek, June 7, 2010
+Report Shows Google Collected WiFi Data, Fran Foo, The Australian, June 10, 2010
+Hong Kong
+In 2009, Hong Kong's Privacy Commissioner for Personal Data inquired into Google's Hong Kong Street View operations, but did not announce the results.
+On May 18, 2010 The Commissioner, Roderick B. Woo, met with Google's Asia Pacific's Head of Government Affairs. The Commissioner asked for an account of Google's collection of personal Wi-Fi traffic during its Street View operation in Hong Kong. On May 19, The Commissioner sent a form of Undertaking, seeking assurances from Google. When Google failed to respond, the Commissioner threatened to sanction Google by "resort[ing] to a more assertive action."
+On June 8, 2010 the Commissioner's Office stated that had Google ceased operating its Street View cars in Hong Kong and when the cars commence driving again in the city they will not collect Wi-Fi data. The Commissioner confirmed that Google delivered a written Undertaking on June 7, 2010 to assure that future Street View car operations carried out in Hong Kong will comply with the requirements of Hong Kong's Personal Data (Privacy) Ordinance.
+Resources:
+Hong Kong's Personal Data (Privacy) Ordinance.
+February 5, 2009 press release from the Privacy Commissioner for Personal Data.
+May 18, 2010 official statement of the Commissioner.
+May 26, 2010 official statement of the Commissioner.
+Undertaking sent to Google by the Commissioner.
+News:
+Google Denies Germany, Hong Kong Access to Street View WiFi Data, Clint Boulton, eWeek, May 27, 2010
+Google Balks at Turning Over Private Internet Data to Regulators, Kevin J. O'Brien, New York Times, May 27, 2010
+HK Privacy Commissioner: Google Ceases Using Street View Mapping Cars In HK, Wall Street Journal, June 8, 2010
+Japan
+Since its launch in August 2008, Street View Japan has faced complaints about invasions of privacy. These complaints eventually led Google to re-shoot the entirety of the photographs shot in Japan. Since Google has admitted collecting Wi-Fi data, however, Japan has been largely silent.
+News:
+Japanese Group Asks Google to Stop Map Service, Yoko Kubota, December 19, 2008
+Google Street View has to Reshoot in Japan, Chris Matyszczyk, CNET News, May 13, 2009
+Korea
+On June 8, 2010, it was confirmed that Korean regulators are investigating whether Google collected sensitive private information from wireless networks. The Korea Communications Commission (KCC) said that Google Korea has reported its collection of personal information to the members of the KCC. "We requested additional data (in late May) and we will go forward with internal reviews once we receive it," a KCC official said.
+On January 6, 2011, the South Korea National Police Agency determined that Google broke Korean privacy laws when it collected and stored personal data sent over unsecured wireless networks. The Korean Police made this finding after seizing computer hard drives from Google's Seoul office and reviewing the hundreds of thousands of e-mails, passwords, search histories, and other personal information Google had collected.
+Resources:
+KCC's english website.
+News:
+Google Faces Inquiry Over Data Collection, Cho Ji-hyun, Korea Herald, June 8, 2010
+Google Illegally Collected Private Info, Lee Hyo-Sik, Korea Times, January 6, 2011
+New Zealand
+Under Section 216B of the New Zealand Crimes Act, it is a crime to intercept private communication by means of an interception device.
+On May 14, 2010, in response to initial reports that Google Street View vehicles had secretly collected Wi-Fi data in New Zealand, Privacy Commissioner Marie Shroff stated in a press release she was "surprised that the public was not more clearly told beforehand." Shroff reported that her office was in conversations with Google to obtain more details regarding its conduct.
+On June 10, 2010, the office of the Privacy Commissioner issued another press release regarding Google's interception of wi-fi data. Assistant Privacy Commissioner Katrine Evans reported that the office had referred the matter formally to the New Zealand Police to investigate whether Google committed a criminal offense. According to New Zealand news outlets, the investigation will be conducted by the National Response Center for Cyber Crimes.
+On December 14, 2010, The New Zealand Privacy Commissioner found that Google violated New Zealand privacy law when its Street View vehicles collected data, including the content of personal emails, from wireless routers located in private homes and businesses. The Privacy Commissioner said that Google "breached our privacy law when it collected the content of people's communications."
+Resources:
+May 14, 2010 press release from the office of the New Zealand Privacy Commissioner regarding reports that Google's Street View vehicles collected Fi-Fi data.
+June 10, 2010 press release from the office of the New Zealand Privacy Commissioner regarding ongoing investigations into Google's collection of data from Wi-Fi networks.
+December 14, 2010 press release from the Office of the New Zealand Privacy Commissioner
+New Zealand Crimes Act Section 216B, Prohibition on use of interception devices
+News:
+Web Giant Google Faces NZ Police Probe, Alanah May Eriksen, New Zealand Herald, June 10, 2010
+Singapore
+On June 12, 2010, Singapore newspaper Straits Times reported that the Infocomm Development Authority, an office of the Singapore government, had begun discussions with Google regarding its collection of data from private Wi-Fi networks.
+Resources:
+Official website of Singapore's Infocomm Development Authority
+News:
+Govt Talks to Google Over its Data Collection, Straits Times (subscription required), June 12, 2010
+Share this page:
+Subscribe to the EPIC Alert
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+EPIC Alert archive »
+Electronic Privacy Information Center
+1519 New Hampshire Avenue NW
+Washington, DC 20036
+202.483.1140
+info[at]epic[dot]org
+© 1994 - 2020 EPIC, all rights reserved.
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+EPIC Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+Electronic Privacy Information Center1519 New Hampshire Avenue NW Washington, DC 20036More info
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+FOIA Documents
+EPIC FOIA Notes
+EPIC Former Secrets
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+EPIC Bookstore
+Support EPIC

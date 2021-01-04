@@ -1,0 +1,203 @@
+http://www.postsharp.org/support/policies
+Support Policies
+In this document
+Disclaimers
+Versioning and Backward Compatibility Policies
+Quality Standards
+Security Standards
+Support Lifecycle Policy
+Supported Platforms and Frameworks
+Support Level for Commercial Customers
+Support Level for Non-Commercial Users
+See also Requirements and Compatibility in the reference documentation.
+Disclaimers
+Nothing in these policies is legally binding. We work on an "economically reasonable effort" basis.
+We may change policies without notice.
+We may decide to make exceptions to these policies.
+Versioning and Backward Compatibility Policies
+Versioning
+PostSharp distinguishes between major releases, minor releases, and patch releases:
+Major releases are any release which updates the Major version number.
+For example, 5.0 is updated to 6.0. Major releases may introduce breaking
+changes both at source code and binary levels.
+Minor releases are any release which updates the Minor version number. For example, 6.0.0 is
+updated to 6.1.0. Minor releases typically introduce new features that could possibly cause regression
+bugs. However, there is both a feature freeze and a platform freeze after a minor releases reaches the
+stable maturity level (as opposed to preview or rc maturities).
+Patch releases are any release which update the Patch number. For example, 6.0.10 is updated to 6.0.11.
+Patch releases only correct bugs and are therefore unlikely to introduce regressions.
+This policy is compatible with the semantic versioning specification.
+Maturity
+We use 4 maturity levels:
+Alpha
+releases are private builds, prior to making them public;
+Previews are intermediate public builds that are not yet feature-complete and may still be subject to breaking changes;
+Release Candidates (RC)
+meet all quality standards for a stable releases, except that they have not been tested in the wild;
+Stable (Ready To Manufacture/RTM) means that all quality standards are met and the feature freeze applies. The moment when a
+release is marked as stable is called the general availability date. At this moment, the releases appear in the stable channels in our web site,
+on Visual Studio Marketplace, and on NuGet Gallery, and it starts to be massively downloaded. Note that it typically takes 4 to 6 weeks after a
+new Major.Minor release is marked as stable before most bugs surface.
+Side-by-Side Versions
+A project can have references (direct and indirect) to several PostSharp packages of different versions within the same major version.
+The version of the PostSharp package must be higher than or equal to the version of any other package of the PostSharp family.
+Side-by-side compatibility is provided on a "economically reasonable effort" basis. We perform structural tests of backward
+compatibility (comparison of public APIs, shared internals, and serialization details), but not behavioral tests such as unit tests.
+Our support team may ask customers to upgrade all their packages to the same patch release, as there may be no other economically
+reasonable solution to some issues.
+Quality Standards
+At PostSharp, we take the term release candidate seriously, which means that RC should have the same quality as an RTM,
+with the difference that it has been less tested by customers.
+Before we tag a new release as RC quality, the following criteria must be fulfilled for all features:
+Features are fully implemented.
+Features are reasonably tested, including error conditions.
+Features are documented, both with conceptual and procedural documentation.
+Features have been tested on physical devices.
+All public APIs have gone through extensive critical review.
+All bugs with higher priority than Later have been fixed.
+FxCop warnings have been addressed for public APIs.
+Integration with new features and old features has been tested.
+Security Standards
+We have implemented the following security practices:
+Our executables and libraries are signed with Authenticode.
+We scan all deliverables with more than 40 anti-malware engines thanks to Virus Total.
+All developer workstations and build agents are equipped with anti-malware software.
+Support Lifecycle Policy
+Customers can choose to use the Long Term Support (LTS) releases, Current or Preview releases:
+LTS releases are supported for 5 years after the general availability date or 1 year after a subsequent release has been promoted LTS, whichever is shorter.
+We may apply Exclusions to the support.
+Exclusions are features or platforms that are no longer supported in this release and that either require an update to a subsequent release, or have been abandoned.
+We apply exclusions when it is not economically or technically viable to continue to support these features or platforms in this release.
+Current releases are supported for 2 months after the general availability of another Current release.
+Preview releases (including alpha releases and release candidates) are supported until the next Preview or Current release of the same minor version is published.
+Customers using LTS will need the latest patch update within the same minor release installed to qualify for support.
+Version
+Release Date
+Support Level
+End of Support
+Exclusions
+PostSharp 6.7
+October 26, 2020
+Current
+PostSharp 6.6
+April 20, 2020
+Current
+December 27, 2020
+PostSharp 6.5
+March 10, 2020
+LTS
+March 11, 2025 or 1 year after some future version is promoted LTS
+PostSharp 6.4
+December 2, 2019
+Unsupported
+May 11, 2020
+PostSharp 6.3
+October 22, 2019
+Unsupported
+February 3, 2020
+PostSharp 6.2
+May 13, 2019
+Unsupported
+December 23, 2019
+PostSharp 6.1
+March 11, 2019
+Unsupported
+July 14, 2019
+PostSharp 6.0
+July 9, 2018
+Unsupported
+May 12, 2019
+PostSharp 4.3
+July 27, 2016
+LTS
+March 11, 2021
+Xamarin
+Supported Platforms and Frameworks
+In this section, we use the term platform to refer to Windows, .NET Framework, .NET Core or Visual Studio.
+This section covers only policies. For a list of supported platforms, please see Requirements and Compatibility in
+the documentation of each PostSharp version.
+What we mean by supported platform
+By supported (or officially supported) platform version we mean that we have spent or will spend commercially-reasonable efforts to:
+test our product with these versions before or shortly after they are released,
+fix issues that stem from the use of these versions, and
+provide support services.
+It frequently happens, in practice, that PostSharp will work with a non-supported platform version.
+However, if some issue happens, we will first ask you to upgrade or downgrade to a supported platform version.
+Support of future versions
+Our list of supported versions includes future versions. Of course, it is as impossible to test a product
+against a future version. Sometimes a new platform version introduces a breaking change that PostSharp cannot
+cope with without introducing another breaking change.
+Therefore, we have no way to guarantee that the current version of PostSharp will support any future version of
+a supported platform. Consequently, the list of supported platforms of expresses intents, not guarantees.
+Additionally, a platform version that used to be supported with a PostSharp version was released may no longer be
+supported by the moment you will file a support request.
+If you believe this is a mess, we agree! To mitigate this, consider the strategy of using only Long-Term Support
+(LTS) versions of platforms and development tools where possible.
+Support of platform versions by their manufacturer
+Only platform versions that are currently supported by their manufacturer are supported by PostSharp.
+If the manufacturer differentiates Mainstream Support for Extended Support, only platforms under
+Mainstream Support will be supported by PostSharp.
+Check the support policies of the platform you rely on. The support lifecycle is probably shorter than you would expect!
+Check the following documents:
+Visual Studio Servicing Policies
+Windows Lifecycle Fact Sheet
+.NET Framework Lifecycle FAQ
+.NET Core Support Policies
+.NET Core Support Policies FAQ
+Preview Releases
+Pre-release platform versions are never officially supported, even when they get a production license from their publisher.
+Patch Releases
+Only the latest Patch Release of a supported platform version is officially supported.
+Operating systems must be updated with all Important Updates to qualify for support.
+Before providing support services to you (such as diagnosing or fixing a bug), we ask you to update PostSharp and all platforms to the latest Patch Release.
+Abandon of support for platforms
+When we release a new major or minor release, we remove support for platforms, frameworks, compilers and other tools that are no longer in mainstream
+support from Microsoft or their vendor. We may also remove support for a version of a platform if we consider that too many versions of the platform
+would be otherwise supported, taking usage statistics into account.
+Customers of these retired platforms may still use a supported version of PostSharp during some time but may not upgrade to a new major version.
+We reserve the right not to implement support for all new platforms or platform versions Microsoft or others may come with.
+Support Level for Commercial Customers
+Support Ticket
+We generally answer within 4 business hours to any message – whether it is an initial question or a clarification.
+Due to the complexity of the product, we do not employ support engineers. You will be directly in contact with the
+software engineers who built the product.
+Note that we generally don't debug your source code neither offer support through screen sharing.
+Bug Fixing
+At PostSharp we are on a 3-week iteration pace. Normally, each iteration, we release one build per maintained branch
+(which means generally 3 branches: the current stable branch, the previous major version and the in-development branch
+if it is already ready for preview).
+We use 5 priorities of bug fixes:
+Priority
+Description
+ASAP
+Fix and publish the fix as soon as possible (cycle time: typically 1 or 2 business days).
+Current Iteration
+Fix during the current iteration and include in the planned build (cycle time: up to 3 weeks).
+Next Iteration
+Fix during the next iteration and include in the planned build (cycle time: up to 6 weeks).
+Later
+Fix in a special bug-fixing iteration or in a later release.
+Maybe
+No guarantee that the bug will ever be fixed.
+We are assigning priorities to bug fixes according to the following rules:
+Severity
+Description
+Priority
+Low
+It does not work according to design and a workaround exists or the defect in a release that is older than 18 months.
+Later
+Normal
+It does not work and there is no workaround and the use case has never worked.
+Next Iteration
+High
+It does not work and there is no workaround and the use case worked in a previous build.
+Current Iteration
+Critical
+Several developers cannot do their normal work because of our product and there is no workaround,
+not even rolling back to a previous build.
+ASAP
+Note that commercial customers escalate the priority of issues that have been reported by non-commercial users.
+Support Level for Non-Commercial Customers
+We provide strictly no support to non-commercial users of PostSharp. We will consider fixing bugs reported by non-commercial
+users only if they submit a complete reproduction and if it is obvious that it is a bug. We suggest non-commercial users to
+seek support on StackOverflow and tag this question with postsharp.

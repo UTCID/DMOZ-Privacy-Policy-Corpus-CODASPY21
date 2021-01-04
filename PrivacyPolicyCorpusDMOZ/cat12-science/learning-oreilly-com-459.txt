@@ -1,0 +1,30 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch16.html#websec2-CHP-16-SECT-1.2.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 16. Securing Web Applications Web servers are fine programs for displaying static
+information such as brochures, FAQs, and product catalogs. But
+applications that are customized for the user or that implement business
+logic (such as shopping carts) require that servers be extended with
+specialized code that executes each time the web page is fetched. This
+code most often takes the form of scripts
+or programs that are run when a
+particular URL is accessed. There is no limit to what a good programming
+team can do with a web server, a programming language, and enough time.
+Unfortunately, programs that provide additional functionality over the
+Web can have flaws that allow attackers to compromise the system on
+which the web server is running. These flaws are rarely evident when the
+program is run as intended.This chapter focuses on programming techniques that you can use to
+make web programs more secure.A Legacy of Extensibility and RiskThere are four primary techniques that web developers
+can use to create web-based applications:CGIThe Common Gateway Interface (CGI) was the first means
+of extending web servers. When a URL referencing a CGI program
+is requested from the web server, the web server runs the CGI
+program in a separate process, captures the program’s output,
+and sends the results to the requesting web browser. Parameters
+to the CGI programs are encoded as environment variables and
+also provided to the program on standard input.CGI programs can perform database ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

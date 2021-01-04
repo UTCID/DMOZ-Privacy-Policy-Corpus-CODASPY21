@@ -1,0 +1,69 @@
+http://www.bu.edu/cs/charles-river-privacy-day/
+Important Announcement2 December, 2020 at 1:14 PMVisit Back2BU for the latest updates and information on BU's response to COVID-19.  Students can find additional information in the Undergraduate Student Guide and Graduate & Professional Student Guide.
+Boston University
+Computer Science
+Charles River Privacy Day
+The Charles River Privacy Day will take place on Friday November 15, in the Hariri Institute at Boston University (111 Cummington Mall, MCS 180). There will be four talks covering different aspects of the challenge of protecting privacy of personal information in public databases.
+The Charles River Privacy Day is co-organized by Ran Canetti, Sharon Goldberg, Kobi Nissim, Sofya Rashkhodnikova, Leo Reyzin, and Adam Smith, and is sponsored by the Center for Reliable Information Systems and Cyber Security and by the Hariri Institute for Computing at Boston University.
+Schedule
+9 – 9:30am Light breakfast
+9:15am Welcome and Introductory Remarks
+9:30am Privately Solving Allocation Problems: Aaron Roth (University of Pennsylvania)
+10:45am Break
+11:00am Fingerprinting Codes, Traitor-Tracing Schemes, and the Price of Differential Privacy: Jonathan Ullman (Harvard University)
+12:00pm Lunch (provided)
+2:00pm Genome Hacking: Yaniv Erlich (MIT and Whitehead Institute)
+3:15pm Break
+3:30pm Privacy and coordination: Computing on databases with endogenous participation: Katrina Ligett (California Institute of Technology)
+Introductory Talk
+An introductory talk on the challenge of protecting privacy of personal data on public statistical databases will be given on Wednesday, November 13th at the same location (Hariri Institute), by Professor Adam Smith of Penn State.
+Talk Details
+Privately Solving Allocation Problems
+Aaron Roth, University of Pennsylvania
+Abstract: In this talk, we’ll consider the problem of privately solving the classical allocation problem: informally, how to allocate items so that most people get what they want. Here, the data that we want to keep private is the valuation function of each person, which specifies how much they like each bundle of goods. This problem hasn’t been studied before, and for good reason: its plainly impossible to solve under the constraint of differential privacy. The difficulty is that publishing what each person i receives in a high-welfare allocation might necessarily have to reveal a lot about the preferences of person i, which is what we are trying to keep private! What we show is that under a mild relaxation of differential privacy (in which we require that no adversary who learns the allocation of all people j != i — but crucially not the allocation of person i — should be able to learn much about the valuation function of player i) the allocation problem is solvable to high accuracy, in some generality. Our solution makes crucial use of Walrasian equilibrium prices, which we use as a low information way to privately coordinate a high welfare allocation.
+Bio: Aaron Roth is the Raj and Neera Singh assistant professor of Computer and Information Sciences at the University of Pennsylvania. Prior to this, he was a postdoctoral researcher at Microsoft Research, New England, and earned his PhD at Carnegie Mellon University. He is the recipient of a Yahoo! Academic Career Enhancement Award, and an NSF CAREER award. His research focuses on the algorithmic foundations of data privacy, game theory and mechanism design, and the intersection of the two topics.
+Fingerprinting Codes, Traitor-Tracing Schemes, and the Price of Differential Privacy
+Jonathan Ullman, Harvard University
+Abstract: In this talk I will present some new, nearly-optimal lower bounds on the amount of data required to release differentially private statistics on high-dimensional datasets.
+These lower bounds show exponential gaps between the amount of data that is necessary to compute these statistics with and without a privacy guarantee.
+Specifically, we prove information theoretic lower bounds, which apply to any differentially private algorithm, using a cryptographic primitive called a fingerprinting code that we show is closely connected to differentially private data analysis.
+We also prove even stronger computational lower bounds, which apply only to efficient differentially private algorithms, using a related primitive called a traitor-tracing scheme.
+These results show that there is a significant “price of differential privacy” in high-dimensional datasets.
+Bio: Jon Ullman is a postdoctoral fellow at the Center for Research on Computation and Society at Harvard University.
+He recently completed his PhD, also at Harvard.
+He is interested in the foundations of data privacy and its connections to areas such as cryptography, learning theory and game theory.
+Genome Hacking
+Yaniv Erlich, MIT and Whitehead Institute
+Abstract: Sharing sequencing datasets without identifiers has become a common practice in genomics. We developed a novel technique that uses entirely free, publicly accessible Internet resources to fully identify individuals in these studies. I will present quantitative analysis about the probability of identifying US individuals by this technique. In addition, I will demonstrate the power of our approach by tracing back the identities of multiple whole genome datasets in public sequencing repositories.
+Short bio: Yaniv Erlich is a Fellow at the Whitehead Institute for Biomedical Research. Erlich received his Ph.D. from Cold Spring Harbor Laboratory in 2010 and B.Sc. from Tel-Aviv University in 2006. Prior to that, Erlich worked in computer security and was responsible for conducting penetration tests on financial institutes and commercial companies. Dr. Erlich’s research involves developing new algorithms for computational human genetics.
+Privacy and coordination: Computing on databases with endogenous participation
+Katrina Ligett, Assistant Prof of Computer Science and Economics, Caltech
+Abstract: We propose a simple model where individuals in a privacy-sensitive population decide whether or not to participate in a pre-announced noisy computation by an analyst, so that the database itself is endogenously determined by individuals’ participation choices. The privacy an agent receives depends both on the announced noise level, as well as how many agents choose to participate in the database. Each agent has some minimum privacy requirement, and decides whether or not to participate based on how her privacy requirement compares against her expectation of the privacy she will receive if she participates in the computation. This gives rise to a game amongst the agents, where each individual’s privacy if she participates, and therefore her participation choice, depends on the choices of the rest of the population.
+We investigate symmetric Bayes-Nash equilibria, which in this game consist of threshold strategies, where all agents whose privacy requirements are weaker than a certain threshold participate and the
+remaining agents do not. We characterize these equilibria, which depend both on the noise announced by the analyst and the population size; present results on existence, uniqueness, and multiplicity; and
+discuss a number of surprising properties they display.
+Joint work with Arpita Ghosh
+Paper PDF (appeared at EC 2013).
+Brief bio: Katrina Ligett is an assistant professor of computer science and economics at Caltech. Before joining Caltech in 2011, she received her PhD from Carnegie Mellon and spent two years as a postdoc at Cornell.
+Area Hotels
+The two closest hotels to the Hariri Institute are the Hotel Commonwealth, 617-933-5000, and the Hotel Buckminster, 800-727-2825. The Hotel Commonwealth offers a BU rate; just mention that you are attending an event at BU.
+A longer list of hotels in the area can be found here.
+Calendar
+12.11Spark! Demo Day
+12.14Decolonization@60 Symposium: Roundtable
+12.14Writing Business Proposals, A Seminar for Faculty with Abi Barrow
+12.16Center for Systems Neuroscience Virtual Seminar Series
+1.22"Did You Know You Could…?” Series: Conduct behavioral experiments online using Gorilla
+1.22"Did You Know You Could…?” Series
+1.27Introduction to SciVal, Bibliometrics Database
+Recent NewsCS Professors Receive $2 Million DARPA Grant to Battle Automated Misinformation in the NewsBy Keziah Zimmerman
+CS Professors Bryan Plummer and Kate Saenko, in collaboration with...
+Computer Scientists Contribute to COVID-19 Drug Development Via Network AnalysisProfessors Mark Crovella (CS, Bioinformatics) and Simon Kasif (BME, CS, Bioinformatics) are...
+CS Part-Time Lecturer Named to Boston Business Journal’s 40 under 40Greg Ryslik, who was a CS part-time lecturer during the Spring 2020...
+CS Ambassadors Organize a Splash Event Unlike Any OtherBy Keziah Zimmerman
+This past Saturday, September 12th, CS Ambassadors hosted CS Splash,
+ResourcesRemote Instruction using Zoom
+Careers
+CS Student Center
+CS News Tip
+Additional Resources

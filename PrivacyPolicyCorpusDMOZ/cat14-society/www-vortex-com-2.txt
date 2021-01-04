@@ -1,0 +1,262 @@
+http://www.vortex.com/privacy/priv.08.18
+PRIVACY Forum Archive Document
+PRIVACY Forum Home Page
+PFIR - "People For Internet Responsibility" Home Page
+Vortex Technology Home Page
+PRIVACY Forum Digest
+Monday, 6 December 1999
+Volume 08 : Issue 18
+(http://www.vortex.com/privacy/priv.08.18)
+Moderated by Lauren Weinstein (lauren@vortex.com)
+Vortex Technology, Woodland Hills, CA, U.S.A.
+http://www.vortex.com
+===== PRIVACY FORUM =====
+-------------------------------------------------------------------
+The PRIVACY Forum is supported in part by
+the ACM (Association for Computing Machinery)
+Committee on Computers and Public Policy,
+Cable & Wireless USA, Cisco Systems, Inc.,
+and Telos Systems.
+- - -
+These organizations do not operate or control the
+PRIVACY Forum in any manner, and their support does not
+imply agreement on their part with nor responsibility
+for any materials posted on or related to the PRIVACY Forum.
+-------------------------------------------------------------------
+CONTENTS
+IDs in Color Copies--A PRIVACY Forum Special Report
+(Lauren Weinstein; PRIVACY Forum Moderator)
+*** Please include a RELEVANT "Subject:" line on all submissions! ***
+*** Submissions without them may be ignored! ***
+-----------------------------------------------------------------------------
+The Internet PRIVACY Forum is a moderated digest for the discussion and
+analysis of issues relating to the general topic of privacy (both personal
+and collective) in the "information age" of the 1990's and beyond.
+The
+moderator will choose submissions for inclusion based on their relevance and
+content.
+Submissions will not be routinely acknowledged.
+All submissions should be addressed to "privacy@vortex.com" and must have
+RELEVANT "Subject:" lines; submissions without appropriate and relevant
+"Subject:" lines may be ignored.
+Excessive "signatures" on submissions are
+subject to editing.
+Subscriptions are via an automatic list server system;
+for subscription information, please send a message consisting of the word
+"help" (quotes not included) in the BODY of a message to:
+"privacy-request@vortex.com".
+Mailing list problems should be reported to
+"list-maint@vortex.com".
+All messages included in this digest represent the views of their
+individual authors and all messages submitted must be appropriate to be
+distributable without limitations.
+The PRIVACY Forum archive, including all issues of the digest and all
+related materials, is available via anonymous FTP from site "ftp ftp.vortex.com",
+in the "/privacy" directory.
+Use the FTP login "ftp" or "anonymous", and
+enter your e-mail address as the password.
+The typical "README" and "INDEX"
+files are available to guide you through the files available for FTP
+access.
+PRIVACY Forum materials may also be obtained automatically via
+e-mail through the list server system.
+Please follow the instructions above
+for getting the list server
+"help" information, which includes details
+regarding the "index" and "get" list server commands, which are used to access
+the PRIVACY Forum archive.
+All PRIVACY Forum materials are available through the Internet Gopher system
+via a gopher server on site "gopher.vortex.com/".
+Access to PRIVACY Forum
+materials is also available through the Internet World Wide Web (WWW) via
+the Vortex Technology WWW server at the URL: "http://www.vortex.com";
+full keyword searching of all PRIVACY Forum files is available via
+WWW access.
+-----------------------------------------------------------------------------
+VOLUME 08, ISSUE 18
+Quote for the day:
+"It's not the heat, it's the humanity!"
+-- Jeff Douglas (Van Johnson)
+"Brigadoon" (MGM; 1954)
+----------------------------------------------------------------------
+Date:
+Mon, 6 Dec 99 13:31 PST
+From:
+lauren@vortex.com (Lauren Weinstein; PRIVACY Forum Moderator)
+Subject: IDs in Color Copies--A PRIVACY Forum Special Report
+Greetings.
+We've recently seen a tirade of stories about "hidden"
+identification codes and what many would consider to be surreptitious
+centralized information flowing from various popular Internet products and
+packages.
+These have tended to highlight an important truth--whether or not
+users really would be concerned about the particular identifiers or data
+involved, they tend to get the most upset when they feel that an effort was
+made to perform such functions "behind their backs."
+While it can be argued
+how routine, intrusive, or even mundane and innocent a particular case may
+be, it's certainly true that people feel a lot better when they know what's
+going on.
+This issue isn't restricted only to the Internet world.
+A case in point--
+the recurring rumors floating around regarding the presence or absence of
+identification codes in color copies (or color prints xerographically
+generated from computer output systems).
+A recent story involved a customer who was refused permission to make a
+color copy of his driver's license (to deal with an identification problem
+with his local telephone company).
+A Kinko's (copying center) worker
+reportedly told him that such a copy was "illegal," and could be traced back
+to the store through a "hidden ID."
+Regardless of whether or not the Kinko's employee was being overzealous in
+his interpretation of the rules, what's really going on here regarding a
+so-called hidden ID code?
+In fact, rumors about this, often chalked up as an "urban legend," have been
+circulating for a long time.
+This is a bit ironic, given that in the
+copier/printer industry it's been well known for years--no secret--that
+"invisible" IDs are imprinted on virtually all color xerographic output,
+from (apparently) all of the manufacturers.
+But for persons outside of
+"the trade," this hasn't been as widely known (even though the issue goes
+back to the early 90's, and the topic has appeared in publications such as
+the Wall Street Journal).
+However, it does not appear that the
+privacy-related aspects of this technology have ever been subject to
+significant public discussion.
+In an effort to pin down the current state of the art in this area, I had a
+long and pleasant chat with one of Xerox's anti-counterfeiting experts, who
+is the technical product manager for several of their color-copying
+products.
+The conversation was quite illuminating.
+Please note that the
+details apply only to Xerox products, though we can safely assume similar
+systems from competing manufacturers, although their specific policies may
+differ.
+Years ago, when the potential for counterfeiting of valuable documents on
+color copiers/xerographic printers became apparent in Japan (where such
+machines first appeared) manufacturers were concerned about negative
+governmental reaction to such technology.
+In an effort to stave off
+legislative efforts to restrict such devices, various ID systems began being
+implemented at that point.
+At one stage for at least one U.S.
+manufacturer, this was as crude as a serial number etched on the underside
+of the imaging area glass!
+Modern systems, which are now reportedly implemented universally, use much
+more sophisticated methods, encoding the ID effectively as "noise"
+repeatedly throughout the image, making it impossible to circumvent the
+system through copying or printing over a small portion of the image area,
+or by cutting off portions of printed documents.
+Effectively, I'd term this
+as sort of the printing equivalent of "spread spectrum" in radio technology.
+To read these IDs, the document in question is scanned and the "noise"
+decoded via a secret and proprietary algorithm.
+In the case of
+Xerox-manufactured equipment, only Xerox has the means to do this, and they
+require a court order to do so (except for some specific government
+agencies, for whom they no longer require court authorizations).
+I'm told
+that the number of requests Xerox receives for this service is on the order
+of a couple a week from within the U.S.
+The ID is encoded in all color copies/prints from the Xerox color
+copier/printer line.
+It does not appear in black and white copies.
+The
+technology has continued to evolve, and it is possible that it might be
+implemented within other printing technologies as well (e.g. inkjet).
+At
+one time there were efforts made to also include date/time stamps within the
+encoded data, but these were dropped by Xerox (at least for now) due to
+inconsistencies such as the printer clocks not being set properly by their
+operators, rendering their value questionable.
+It's interesting to note that these machines also include other
+anti-counterfeiting measures, such as dumping extra cyan toner onto images
+when the unit believes it has detected an attempt to specifically copy
+currency.
+These techniques have all apparently been fairly successful--the
+Secret Service has reported something on the order of a 30% drop in color
+copying counterfeiting attempts since word of such measures has been
+circulating in the industry.
+The average person might wonder who the blazes
+would ever accept a xerographic copy of money in any case... but apparently
+many persons are not very discerning.
+I'm told that the Secret Service has
+examples in their files of counterfeit currency successfully passed that was
+printed on dot matrix printers.
+So counterfeiting is certainly a genuine
+problem.
+OK, so now you know--the IDs are there.
+The next question is, what does
+this really mean?
+Obviously the vast majority of uses for color copies are
+completely innocuous or even directly beneficial to the public good (e.g.
+whistleblowers attempting to expose a fraud against the public).
+Is it
+acceptable for an ID to be embedded in all color copies just to catch those
+cases?
+The answer seems to be, it depends.
+In some cases, even having an ID number doesn't necessarily tell you who
+currently owns the machine.
+While some countries (e.g. China) do keep tight
+reign on the ownership and transfer of such equipment, there is no
+"registration" requirement for such devices in the U.S. (though the routine
+servicing realities of large units might well create something of a de-facto
+registration in many situations).
+Xerox points out that non-color copies (at least on their machines) have no
+IDs, and that most copying applications don't need color.
+It is however also
+true that as the prices of color copiers and printers continue to fall, it
+seems only a matter of time before they become the "standard" even for home
+copying, at which time the presence of IDs could cover a much vaster range
+of documents and become increasingly significant from a routine privacy
+standpoint.
+It's also the case that we need to be watchful for the "spread" of this
+technology, intended for one purpose, into other areas or broader
+applications (what I call "technology creep").
+We've seen this effect
+repeatedly with other technologies over the years, from automated toll
+collection to cell phone location tracking.
+While there is currently no U.S.
+legislative requirement that manufacturers of copier technology include IDs
+on color copies, it is also the case that these manufacturers have the clear
+impression that if they do not include such IDs, legislation to require them
+would be immediately forthcoming.
+It is important to be vigilant to avoid such perceived or real pressures
+from causing possibly intrusive technology creep in this area.
+In the
+copier case, that ID technology being used for color copies could be
+adapted to black and white copies and prints as well.
+The addition of
+cheap GPS units to copiers could provide not only valid date/time stamps,
+but also the physical locations of the units, all of which could be
+invisibly encoded within the printed images.
+Pressures to extend the surveillance of commercial copyright enforcement
+take such concepts out of the realm of science-fiction, and into the range of
+actual future possibilities.
+What many would consider to be currently
+acceptable anti-counterfeiting technology could be easily extended into the
+realm of serious privacy invasions.
+It would only require,
+as Dr. Strangelove once said, "The will to do so."
+Perhaps the most important point is that unless we as a society actively
+stay aware of these technologies, however laudable their initial
+applications may often be, we will be unable to participate in the debate
+that is crucial to determining their future evolution.
+And it's in the
+vacuum of technology evolving without meaningful input from society that the
+most serious abuses, be they related to the Internet or that copy machine
+over on your desk, are the most likely to occur.
+--Lauren--
+lauren@vortex.com
+Lauren Weinstein
+Moderator, PRIVACY Forum - http://www.vortex.com
+Co-Founder, PFIR: People For Internet Responsibility - http://www.pfir.org
+Member, ACM Committee on Computers and Public Policy
+------------------------------
+End of PRIVACY Forum Digest 08.18
+************************
+PRIVACY Forum Home Page
+Vortex Technology Home Page
+Copyright © 2005 Vortex Technology.
+All Rights Reserved.

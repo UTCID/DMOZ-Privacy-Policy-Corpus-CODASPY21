@@ -1,0 +1,218 @@
+https://www.electricity-today.com/smart-grid/cybersecurity-privacy/communications-data-hardening-and-the-smart-grid
+CLOSE
+T&D Automation
+Overhead T&D
+Fleets & Mobile Computing
+Infrastructure & Technologies
+Outage Management & Restoration
+Underground T&D
+Lineman Safety
+Fall Protection
+Grounding & Protection
+Safety Best Practices
+Safety Technologies
+Utility Safety Standards
+Electrical Substations
+Breakers & Relays
+Dielectric Fluids
+Physical Security & Monitoring
+Substation Automation
+Substation Technologies
+Substation Testing & Maintenance
+Smart Grid
+Big Data
+Cybersecurity & Privacy
+DMS & SCADA
+Grid Communications
+Grid Modernization
+Renewable Energy Connections
+Software
+Utility Automation & Monitoring
+Electricity Forum
+Electricity Today T&D Magazine
+Intelligent Power Today Magazine
+Archives
+Advertise
+T&D BUYER’S GUIDE
+FREE SUBSCRIPTION
+T&D Automation
+Making the World More Sustainable
+Cutting Through the Noise
+Itron to Buy Silver Springs to Boost Smart Grid Presence
+Speed Up Damage Assessment, Assembly and Dispatch of Resources During Outage…
+Cyber Security Strategy is a Must-Have for AMI/MDMS and DA Systems
+Overhead T&D
+AllFleets & Mobile ComputingInfrastructure & TechnologiesOutage Management & RestorationUnderground T&D
+The Overlooked Benefits of High-Performance Powerline Conductors
+Preventing Losses Due to Wildlife Contacts in Electrical Substations
+BIRDS AND SUBSTATION OUTAGES
+SAME DAY SWITCHING
+Lineman Safety
+AllFall ProtectionGrounding & ProtectionSafety Best PracticesSafety TechnologiesUtility Safety Standards
+SAME DAY SWITCHING
+Choosing Your Rubber Safety Gloves
+Safe Work Verified Through Data Logging Technology
+Why Testing Rubber Goods Is Essential to Electrical Safety
+Electrical Substations
+AllBreakers & RelaysDielectric FluidsPhysical Security & MonitoringSubstation AutomationSubstation TechnologiesSubstation Testing & Maintenance
+Advancements in Dissolved Gas Analysis: Data Quality
+Preventing Losses Due to Wildlife Contacts in Electrical Substations
+TRANSFORMER INRUSH
+BIRDS AND SUBSTATION OUTAGES
+Smart Grid
+AllBig DataCybersecurity & PrivacyDMS & SCADAGrid CommunicationsGrid ModernizationRenewable Energy ConnectionsSoftwareUtility Automation & Monitoring
+Communications, Data Hardening, and the Smart Grid
+Distributed Energy Resources: Part 2.
+Leading the transformation to a…
+The Right Vendor Partnerships Positively Impact Line Crew Safety
+Smart Grid Cybersecurity: The Rising Threat to OT Networks
+Necessitates…
+×
+Home
+Smart Grid
+Grid Communications
+Communications, Data Hardening, and the Smart Grid
+Smart GridCybersecurity & PrivacyGrid CommunicationsT&D Products
+Share on Facebook
+Tweet on Twitter
+The SmartGrid continues to expand and gather new functions as needs expand. Automated metering, relay operation, RTU operation, electric management systems, remedial action schemes, SCADA, field reclosers, Synchrophasors, remote access, weather, and earthquake monitoring and future needs still yet to be identified. All these operations require low latency, low jitter communications network. The data being transported and the devices functioning on the network require a secure, authenticated and guarded system to operate. Data hardening implies that the data moving across the system is protected and monitored to ensure transmission of mission critical operational information.
+There are three primary communications protocols, Modbus, DNP3, and IEC61850, with numerous secondaries. Modbus is primarily poll based and not real-time. DNP3 operates in near real time while using TCP messaging as it requires an acknowledgment and real time if exceptions are used.
+IEC61850 is a real-time protocol that requires high time accuracy. IEEE 1588 Precision time protocol is the current high accuracy time protocol that utilizes IP networks. It uses Ethernet networks primarily as the transport conduit and requires hardware enhancements to the network switches and routers to perform optimally, producing time accuracy down to the low nanoseconds. IRIG is another common high accuracy time system that is supported out of band using coax and serial connections to reach the relays, RTUs, and other end devices in substations. Precision time protocol uses the Ethernet network to reach those same end devices.
+Read full article in the SPECIAL SCADA for the Smart Grid ISSUE.
+iS5 Communications advertisement in the issue:
+“Secure Intelligent Network Solutions for Mission Critical Applications”
+RELATED ARTICLESMORE FROM AUTHOR
+Communications, Data Hardening, and the Smart Grid
+The Overlooked Benefits of High-Performance Powerline Conductors
+POWER TRANSFORMERS.
+Surplec Repair Facilities
+NO COMMENTS
+Our Latest Issue
+CLICK HERE TO READ OUR LATEST ISSUE
+Download PDF - SPECIAL EDITION
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+Read On-Line
+2020 Special Substations Issue
+Download PDF - SPECIAL EDITION
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+Read On-Line
+2020 Special Transformer Issue
+Download PDF - SPECIAL EDITION
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+Read On-Line January-February 2020 Special HV Testing Issue
+Download PDF
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+Read On-Line November-December 2019 Special Linemen Safety Issue
+Download PDF
+Subscribe Now
+Update/Renew Subscription
+Read On-Line September-October 2019 Special SCADA for the Smart Grid Issue
+Download PDF
+Subscribe Now
+Update/Renew Subscription
+Read On-Line July-August 2019 Special SUBSTATIONS Issue
+Download PDF
+Subscribe Now
+Update/Renew Subscription
+Read On-Line May/June 2019 Special Transformer Issue
+Download PDF
+Subscribe Now
+Update/Renew Subscription
+Read On-Line March/April 2019 Issue
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+Read On-line January/February 2019 Issue
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+Read On-line Winter 2018 Issue
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+Read Online Fall 2018 Issue
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+Read Online Summer 2018 Issue
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+Read Online Spring 2018 Issue
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+Winter 2017/2018 Issue.Read Online
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+July/Aug/Sep 2017 Issue.Read Online
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+Jan/Feb/Mar/2017 Issue.Read Online
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+4th Quarter 2016 Issue.Read Online
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+3rd Quarter 2016 Issue.Read Online
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+2nd Quarter 2016 Issue.Read Online
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+1st Quarter 2016 Issue.Read Online
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+2015 Year in Review Issue.Read Online
+SUBSCRIPTION CENTER
+Subscribe Now
+Update/Renew Subscription
+Featured ET Partner
+Product Showcase
+American Connectors
+Timberland Equipment Limited
+Innovative Utility Product Corp.
+KA Factor Group
+Energy Ottawa
+Electrical Videos WordPress Image Slider
+T&D Automation
+Making the World More Sustainable
+Harrison John Bhatti 0
+Smart grid is an idea of upgradation of the traditional electric grid infrastructure. The efficiency of the existing electrical grid can be automated by...
+Cutting Through the Noise
+Itron to Buy Silver Springs to Boost Smart Grid Presence
+Electrical Substations
+Advancements in Dissolved Gas Analysis: Data Quality
+Dr. Zachary H Draper and Dr. James J Dukarm 0
+Introduction
+There is more to DGA interpretation than comparing the latest gas concentrations to limits in a table or plotting them in a triangle or...
+Preventing Losses Due to Wildlife Contacts in Electrical Substations
+TRANSFORMER INRUSH
+POPULAR CATEGORIESSmart Grid135T&D Automation134Overhead T&D92State of Industry58Electrical Substations46Grid Modernization36Electrical Transformers33Power Transformers28Lineman Safety28Smart Metering25 Subscriptions subscribe
+Renew Subscription
+Change Mailing Address
+Contact us
+Advertise in the magazine media kit
+circulation
+ABOUT USElectricity Today is a leading electrical transmission and distribution magazine distributed free of charge to North American T&D electric utility engineering, construction and maintenance personnel, as well as high-voltage T&D consulting engineers.FOLLOW US
+About Us
+Advertise
+Contact Us
+© 2017 Electricity Today T&D Magazine. All Rights Reserved.
+Close
+ELECTRICITY TODAY | Advertisements

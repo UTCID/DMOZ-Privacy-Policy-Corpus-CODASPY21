@@ -1,0 +1,85 @@
+https://www.iab.org/activities/programs/concluded-programs/privacy-and-security-program/
+Home»Activities»IAB Technical Programs and Administrative Support Groups»Concluded Programs»Privacy and Security Program
+Note: The Privacy and Security Program closed in July 2019.
+Purpose
+The IAB Privacy and Security Program is a successor to its previous Security and Privacy programs.  It provides a forum to develop, synthesize and promote security and privacy guidance within the Internet technical standards community.   While security and privacy have each been explicitly and implicitly considered during the design of Internet protocols, there are three major challenges which face the community:
+most Internet protocols are developed as building blocks and will be used in a variety of situations.  This means that the security and privacy protections each protocol provides may depend on adjacent protocols and substrates.  The resulting security and privacy protections depend, however, on the initial assumptions remaining true as adjacent systems change.  These assumptions and dependencies are commonly undocumented and may be ill-understood.
+many security approaches have presumed that attackers have resources on par with those available to those secure the system.  Pervasive monitoring, distributed networks of compromised machines, and the availability of cloud compute each challenge those assumptions.
+many systems breach the confidentiality of individuals’ communication or request more than the minimally appropriate data from that communication in order to simplify the delivery of services or meet other requirements.  When other design considerations contend with privacy considerations, privacy has historically lost.
+This program seeks to consolidate, generalize, and expand understanding of Internet-scale system design considerations for privacy and security;  to raise broad awareness of the changing threat models and their impact on the properties of Internet protocols; and to champion the value of privacy to users of the Internet and, through that value, as a contributor to the network effect for the Internet.
+Public comments can be sent to privsec-discuss@iab.org.
+Membership
+Volunteers should send a statement of interest to privsec-program@iab.org, specifying which focus area or areas are of interest.  The current IAB members are:
+Stephen Farrell (IAB Co-Lead)
+Wes Hardaker
+Ted Hardie
+Christian Huitema
+Mark Nottingham
+Gabriel Montenegro
+Martin Thomson (IAB Co-Lead)
+Melinda Shore
+Brian Trammell
+Suzanne Woolf
+Non-IAB members include:
+Roman Danyliw
+Joe Hall
+Russ Housley
+Benjamin Kaduk
+Xing Li
+Lucy Lynch
+Kathleen Moriarty
+Karen O’Donoghue
+Christine Runnegar
+Eric Rescorla
+Wendy Seltzer
+Dave Thaler
+Chris Wood
+Juan Carlos Zuniga
+Areas of Focus
+Confidentiality
+After helping develop initial text for the  IAB’s statement on Internet Confidentiality, the group described the threat models related to surveillance, published as RFC 7624.  The program is now working to describe the building blocks which may be used to mitigate pervasive surveillance and the impact of specific design patterns on information leakage.  It will also develop a systems engineering description of how to build a confidential application which flows across the open Internet.
+Work products anticipated:
+Mitigations document
+One or more design pattern documents
+Systems engineering document
+Trust
+The program’s work on trust is coordinated work with the relevant IETF and IRTF working groups.  Its first related work product, on cryptographic algorithm agility, was moved to the IETF for consideration as a best current practice and eventually published as BCP 201 (RFC 7696). The program is currently working on a document examining the current Web Trust model.  The program also plans to document  general considerations for managing protocol systems in which there are multiple sources of truth which may provide assurances related to identity, authorization, or repudiation.
+Work products anticipated:
+Examination of the Web’s Trust model and implementation
+Considerations for designing protocols with multiple sources of truth.
+Recent Posts
+IAB Reappoints Warren Kumari to the ICANN Technical Liaison Group
+Reappointment of Colin Perkins as IRTF Chair
+IAB Report to the Community for IETF 109
+Call for nominations: IETF appointment to the ISOC Board of Trustees
+Call for Feedback on the ICANN Technical Liaison Group Appointment
+Search for:
+IAB Work
+IAB Agenda
+IAB Minutes
+IAB Documents
+IAB Open Meetings
+IAB Wiki
+Technical Plenaries
+IAB Programs
+Evolvability, Deployability, and Maintainability Program
+IANA Program
+Internet Threat Model Program
+Liaison Oversight
+Plenary Planning Program
+RFC Editor Future Development Program
+RFC Editor Series Oversight Committee (RSOC)
+Related Organizations
+IETF Administration LLC
+RFC Editor
+IANA
+IRTF
+IETF Trust
+ISOC
+Privacy Statement
+IETF/IRTF/IAB Privacy Statement
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org

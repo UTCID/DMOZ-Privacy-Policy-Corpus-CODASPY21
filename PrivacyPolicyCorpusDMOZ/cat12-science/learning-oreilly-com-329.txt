@@ -1,0 +1,28 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch13s02.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+JavaScriptInvented by Brendan Eich and originally called LiveScript,
+JavaScript is a programming language that Netscape
+developed to add forms validation, other local calculations, and some
+forms of interaction to web browsers. JavaScript programs reside in
+HTML files, usually surrounded by <script> tags (so that they will be recognized by
+JavaScript-enabled browsers) and HTML comment tags (so that they will
+be ignored by browsers that do not understand JavaScript).Full JavaScript allows HTML files to command the browser. JavaScript programs
+create new windows, fill out fields in forms, jump to new URLs,
+process image maps locally, change the HTML content of the page
+itself, compute mathematical results, and perform many other
+functions. JavaScript can also modify the appearance of web browsers,
+making visual elements of the web browser appear or disappear
+dynamically. JavaScript makes messages appear in the status line of
+web browsers—some of the earliest JavaScript applications displayed
+moving banners across the web browser’s status line. Early versions of
+JavaScript could even reprogram a browser’s history, although this
+feature has now been disabled. (It was abused by pornographic web
+sites.)A web page can contain multiple JavaScript sections, called
+scripts . The scripts are programmed to run when the web page loads, when a button or link on the page is touched or clicked with the mouse, or after a certain amount of time has passed. Scripts can also access elements on the ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

@@ -1,0 +1,35 @@
+https://www.golod.com/wordpress-help-adding-author-updated-to-your-posts-and-pages/
+WordPress Help – Adding Author & Updated to Posts and Pages
+by Jason Golod | Dec 28, 2015 | Tutorials
+The Microdata Problem
+Using Google’s Webmaster Tools is a great way to find little issues that might be holding your site back from ranking better in the Google SERPs.   It had been a few years since I hopped into Webmaster Tools, and when I did, I noticed a number of errors in the Structured Data section.  Clicking a few links it seemed that Google wanted to see “Updated” and “Author” data called out on many of my pages and posts.  After poking around a big on the WordPress forums, I found that most people answering questions didn’t really understand what was being asked, nor what Google was looking for.  I have played around with Rich Snippets and other Microdata information, so I had a good idea of how to solve the problem…it was just going to take a little poking around in the WordPress Codex (their repository of the code snippets that give users access to all of the information we have entered into our blogs).
+NOTE:
+This information is for people with “self-hosted” WordPress blogs. In other words, your website is not hosted on wordpress.com. Also, use this information at your own risk. Don’t freak out if you don’t know what your doing and your website goes blank when you start changing code in your wordpress files. Computers need things to be perfect, not close. So, take your time and make sure you don’t leave out punctuation, or add extra spaces here and there…sometimes, a semicolon can be the difference. Use of any information you find here is at your own risk. You have been warned.
+Adding Author Data / Updated to Your Posts
+For the un-initiated, delving in to the workings of a WordPress blog can be a bit daunting.  But, it need not be so.
+Most (not all) WordPress themes use the “single.php” file as a template to generate the web pages for your posts.  Basically, all of the fancy stuff on the screen around your post is found here.  WordPress just grabs your post content and sticks it in the middle of the single.php file and, boom, you have a post.  Somewhere in your single.php file, you should see something like this:
+<?php the_content(); ?>
+This is the piece of code that grabs the post you have written and puts it into your theme’s post template (single.php in this case).  At this point, you have two choices.  You can add information just above, or just below your post’s content.  To automatically add the date your post was last modified AND add the author responsible for the post, enter the code below just above or below the code above:
+Updated on: <span class=”date updated”><?php echo get_the_modified_date();?></span> by <span class=”vcard author”><span class=”fn”><?php the_author_link(); ?></span></span>.
+Use the WordPress Codex for more information on get_the_modified_date() and the_author_link() functions and options for changing how they work.
+Adding Author Data / Updated to Your Pages
+Adding updated and or author data to your pages is just as easy.  Instead of using single.php, your theme likely uses the page.php file as a template for your pages.
+So, fire up your favorite text editor and look for the same function in the page.php code:
+<?php the_content();?>
+Add the code again either above or below to display author and last modified date information:
+Updated on: <span class=”date updated”><?php echo get_the_modified_date();?></span> by <span class=”vcard author”><span class=”fn”><?php the_author_link(); ?></span></span>.
+You should see this data listed at the bottom of this post to get an idea of what you can expect.
+The Problem With This Technique
+Ok, so as with anything, there is no perfect solution.
+Modifying your theme’s files is a dicey proposition.  This is because when you update your theme, it may overwrite the changes we just made.  To deal with this, I keep a note in Evernote of the modifications I make to the theme I use.  When I need to update the theme, I know that I have to make a few changes on top of the them update.  This happens very infrequently, so I am ok with this system.
+If you have any questions, please leave a comment below and I will try my best to respond.
+Enjoy!
+DisclaimersChildren’s Privacy
+Anti-Spam Policy
+Disclaimer – Compensation Affiliate Affadavit
+Privacy Policy
+Terms of Service
+Share This
+https://www.facebook.com/jason.golod
+Twitter
+Google+

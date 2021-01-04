@@ -1,0 +1,185 @@
+http://www.mjmcom.co.uk/article/privacy-policy
+Computers/ Electronics
+Cases & Sleeves
+Computer Accessories
+Desktop Computers
+LAN
+Network Racking & Cabinets
+Network Storage
+Networking Cables
+Monitors
+Notebook Computers
+Portable Batteries
+Portables Chargers and power
+Powerline
+Tablet Screenprotectors
+Tablets & e-Books
+Tablets & e-Books Case
+Thin Clients
+Wearables
+Furniture
+Bookcases
+Conference Furniture
+Desks
+Furniture / Seating Accessories
+Management Seating
+Office Trollies
+Operator Seating
+Printer Stands
+Screens
+Office Technology
+Air Conditioners
+Air Purifiers
+Attendance Machines
+Binding Machines
+Calculators
+Cash Registers
+Computer Hardware
+Computer Media Supplies
+Computer Software
+Dictation Machines
+Digital Cameras
+Electronic Peripherals
+Electronic Reference
+Fax Machines
+Guillotines & Trimmers
+Headsets
+Intercom Equipment
+Labelling Machines
+Laminators
+Multifunction
+Networking
+Pencil Sharpeners
+Presentation Equipment
+Presentation Supplies
+Printers
+Scanners
+Shredders
+Telephone Accessories
+Telephones
+Office Supplies
+Notice Boards
+Office Environment
+Office Planning
+Safety & Security
+Stationery
+Adhesives & Tapes
+Arts & Crafts
+Books & Pads
+Desktop Accessories
+Envelopes
+Filing Supplies
+Legal & Personnel Supplies
+Mailing Supplies
+Paper
+Personal Planners & Diaries
+Writing Supplies
+Consumables
+Batteries
+Binding Covers
+Binding Strips
+Calculator Ink Rollers
+D1 Tapes
+Dictation Cassettes
+Drums
+Embossing Tape
+Fabric Ribbons
+Fascimile Inkfilm/Ribbons
+Filters
+Fuser Units
+Fusers & Accessories
+Guillotine/Trimmer Consumables
+Icon Labels
+Imaging Units
+Ink Sticks
+Inkjet Cartridges
+Junior/Omega Tapes
+Labelwriter Labels
+Laminating Cartridges
+Laminating Pouches
+Laminating Roll
+Laser Toners
+Letratag Tapes
+Lift Off Tapes
+M Series Tapes
+OPC Belts
+Photoconductors
+Plastic Combs
+Print Heads
+Printer Maintenance Kits
+Printer Paper
+Printer Ribbons
+QL Tapes
+Rhino Tapes
+Shredder Bags
+Shredder Oil
+Signmaker Consumables
+Staples
+Tape Creator
+TC Tapes
+Thermal Covers
+TR Tapes
+Transfer Belts
+Transfer Belts & Kits
+TX Tapes
+Typewriter Ribbons
+TZ Tapes
+Waste Toner Bottles
+Whiteboard Erasers
+Wire Combs
+XR Tapes
+XTL Tapes
+Cleaning, Catering & Safety
+Catering Supplies
+Cleaning Products
+Cleaning Supplies
+Safety Wear
+Brands
+Ink & Toner Finder
+Account Login
+Your basket
+Continue Shopping
+Proceed to Checkout
+There are no items in your basket.
+Product   Qty
+Price Total
+View {{ item.accessoryCount }} available accessories / consumables
+Please enter between 1 and 999
+£{{ item.priceExVat.toFixed(2) }} £{{ item.priceIncVat.toFixed(2) }} inc. VAT
+£{{ item.itemTotalExVat.toFixed(2) }} £{{ item.itemTotalIncVat.toFixed(2) }} inc. VAT
+Discount Applied {{ vouchers.appliedVoucher.offer.string }}
+Have a Voucher Code?
+Apply
+{{ vouchers.message }}
+Sub Total £{{ basket.totals.subTotal.exVat.toFixed(2) }}£{{ basket.totals.subTotal.incVat.toFixed(2) }} inc. VAT
+'{{ vouchers.appliedVoucher.code }}'
+{{ vouchers.appliedVoucher.offer.string }}
+Postage Cost How is this calculated?
+{{ basket.regions[0].name }}
+FREE
+£{{ basket.totals.carriage.exVat.toFixed(2) }}£{{ basket.totals.carriage.incVat.toFixed(2) }} inc. VAT
+VAT £{{ basket.totals.grandTotal.vat.toFixed(2) }}
+Grand Total £{{ basket.totals.grandTotal.incVat.toFixed(2) }}
+Continue Shopping
+Proceed to Checkout
+UK Mainland
+£5.75 for items under £250.01 (ex VAT)
+{{ trustText(basket.deliveryText) }}
+Hide
+{{ basketBanner[$index].name }} {{ basketBanner[$index].description }}
+{{ productName }} has successfully been added to your basket
+Continue Shopping View Basket
+Privacy Policy What is this Privacy Policy for?
+This privacy policy is for this website http://www.mjmcom.co.uk/ and served by MJM Computers & Consumables and governs the privacy of its users who choose to use it.
+The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
+The Website
+This website and its owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website complies to all UK national laws and requirements for user privacy.
+Contact & Communication
+Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
+Email Newsletter
+This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.
+Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website's email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.
+Email marketing campaigns published by this website or its owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list].
+This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
+In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to unsubscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un­subscription system is unavailable clear instructions on how to un­subscribe will by detailed instead.
+View all

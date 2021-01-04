@@ -1,0 +1,97 @@
+https://www.openprivacy.org/
+Essentials:
+Overview
+White Paper
+News
+License
+Technical:
+Reputations
+Requirements
+Platform
+Projects:
+Talon
+Sierra
+Reptile (SCDS)
+User Content License
+Resources:
+Definitions
+Background
+Bibliography
+Credits:
+Acknowledgements
+Founders
+Overview
+The OpenPrivacy initiative is an Open Source collection of software
+frameworks, protocols and services providing a cryptographically secure
+and distributed platform for creating, maintaining, and selectively
+sharing user profile information.
+In effect, OpenPrivacy is the first open platform that enables user
+control over personal data while simultaneously - and at user discretion
+- providing marketers with access to higher quality profile segments.
+The resulting marketplace for anonymous demographic profiles will create
+opportunities for a new breed of personalized services that provide
+people and businesses with timely and relevant information.
+Throughout
+the system, information may be shared with guaranteed personal privacy,
+creating at last a level playing field for the user, marketer and
+infomediaries.
+Several projects are in the works, listed with the most-developed
+initiative first:
+Sierra, a reference
+implementation of the Reputation Management Framework (RMF)
+OpenPrivacy's core project is designed to ease the process of
+creating community with reputation enhanced pseudonymous entities.
+The RMF is primarily a set of four interfaces: Nym Manager,
+Communications Manager, Storage Manager and Reputation Calculation
+Engine (RCE).
+Sierra is a reference implementation that meets these
+interfaces.
+Talon
+A simple yet powerful component system for Java.
+Sierra is being
+developed using Talon and we expect that Talon will soon be able to
+use Sierra's reputation manager to drive component selection
+Zero-knowledge proof of sibling nym relationships by parent
+paper forthcoming
+Reputation Capital Exchange
+A secure mechanism for mapping between RCEs that use
+different trust metrics.
+This is accomplished by first attaching an
+OpenPrivacy-style Nym to the local namespace user name, and then by
+authenticating a match between these secure nyms.
+Reptile
+An open source/free software Syndicated Content Directory Server
+(SCDS) that provides a personalized news and information portal with
+privacy and reputation accumulation.
+User Content License -
+Reversing the Privacy Policy Circle
+Adding an HTTP header prior to the request being transferred
+from client to server that contains a user copyright notice for any data
+transferred from the client.
+(While not directly related to the
+concept of anonymous profile data, we think it's a cool hack!)
+We are interested in finding people who would like to help with any and
+all of these projects.
+OpenPrivacy is a grassroots effort creating open
+source (and free) code.
+Our goal is to create a saner, safer Internet.
+Longer Term Goals
+The OpenPrivacy platform enables applications that will afford the user many
+direct benefits without the loss of privacy or fear that their data is being
+used inappropriately, including the ability to:
+provide a standard framework (objects and protocols) for general
+purpose reputation management
+enjoy the benefits (TBD: describe) of personalized information
+without loss of privacy
+browse (if and when they chose) offers from businesses and marketers
+respond to offers directly or through third party infomediaries
+maintain confidence that their profile is being used only as permitted
+understand and leverage the value of their profile information
+again, all of this without the loss of privacy or fear that your data
+is being used inappropriately!
+OpenPrivacy satisfies one of the
+requirements for Broadcatch systems
+and supports the Principles of the
+Identity Commons
+Historical note: OpenPrivacy closed its virtual doors in May of 2002.
+I wish thissite were

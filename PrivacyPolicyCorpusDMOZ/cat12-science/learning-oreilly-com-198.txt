@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch08s03.html#websec2-CHP-8-SECT-3.1
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Log FilesWhile information provided by users may be the most
+detailed information collected, by far the most pervasive information
+collection comes from the operation of the network itself. This data
+is stored in log files created by network programs and devices.Log files are ubiquitous. Programmers add log files to their
+programs to assist in writing and debugging. System operators leave
+log files enabled so they can verify that software is working
+correctly, and so they can diagnose the cause of problems when things
+do not operate properly. Governments and marketers use this
+information because it is an excellent source of data.Computers are extraordinarily complicated systems; few system
+operators are aware of all the log files that their computers create.
+Many times, a system operator will firmly assert that a particular
+piece of information is not being retained by their computer system,
+only to discover that in fact the information is
+being retained, somewhere in a log file.There is fundamentally no way for the user of a computer system
+to know with certainty if a log file is being created of the user’s
+activities. Many organizations that have assured users that records
+were not being kept of user actions have later discovered that
+activities were in fact logged. Likewise, many organizations that
+assumed activities were logged have later discovered problems with the
+logging system.Retention and RotationSome computer systems automatically age and discard old log files, a process ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

@@ -1,0 +1,3 @@
+http://www.gcp-auditing.com/privacy-policy
+Fatal error:
+Namespace declaration statement has to be the very first statement in the script in /var/sites/g/gcp-auditing.co.uk/public_html/sites/all/modules/recaptcha/recaptcha-php/src/ReCaptcha/ReCaptcha.php on line 27

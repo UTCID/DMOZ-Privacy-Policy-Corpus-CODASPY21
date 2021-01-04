@@ -1,0 +1,13 @@
+http://www.itclear.com/privacy-policy
+Warning:
+"continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/itclearadmin/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2339
+Warning:
+"continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/itclearadmin/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2343
+Warning:
+"continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/itclearadmin/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3165
+Deprecated:
+Function create_function() is deprecated in /home/itclearadmin/public_html/wp-content/plugins/revslider/includes/framework/functions-wordpress.class.php on line 257
+Warning:
+"continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/itclearadmin/public_html/wp-content/plugins/siteorigin-panels/inc/styles-admin.php on line 390
+Warning:
+Cannot modify header information - headers already sent by (output started at /home/itclearadmin/public_html/wp-content/plugins/revslider/includes/operations.class.php:2339) in /home/itclearadmin/public_html/wp-includes/pluggable.php on line 1219

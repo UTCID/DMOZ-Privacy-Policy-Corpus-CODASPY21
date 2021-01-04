@@ -1,0 +1,600 @@
+http://www.citmedialaw.org/legal-guide/using-name-or-likeness-another
+Skip to main content
+Welcome to the website of the Digital Media Law Project. The DMLP was a project of the Berkman Klein Center for Internet & Society from 2007 to 2014. Due to popular demand the Berkman Klein Center is keeping the website online, but please note that the website and its contents are no longer being updated. Please check any information you find here for accuracy and completeness.
+Error messageNotice: Undefined index: HTTP_X_FORWARDED_PROTO in include_once() (line 268 of /web/forrest/drupal7/docs/sites/dmlp.org/settings.php).
+In most states, you can be sued for using someone else's name,
+likeness, or other personal attributes without permission for an
+exploitative purpose. Usually, people run into trouble in this area
+when they use someone's name or photograph in a commercial setting,
+such as in advertising or other promotional activities. But, some
+states also prohibit use of another person's identity for the user's
+own personal benefit, whether or not the purpose is strictly
+commercial. There are two distinct legal claims that potentially apply
+to these kinds of unauthorized uses: (1) invasion of privacy through
+misappropriation of name or likeness ("misappropriation"); and (2)
+violation of the right of publicity. (The "right of publicity" is the
+right of a person to control and make money from the commercial use of
+his or her identity.) Because of the similarities between
+misappropriation and right of publicity claims, courts and legal
+commentators often confuse them. We will not try to exhaustively
+explain the differences between these two legal claims here. It is
+mostly important for you to understand the legal principles that are
+common to both claims; we will point out relevant differences below and
+on the state pages when appropriate.
+You might be familiar with the now-famous case of Alison Chang,
+which is a good example of a potentially unlawful use of someone's name
+or likeness. In September 2007, Chang's parents filed a lawsuit
+in state court in Texas against Virgin Mobile Australia and Creative
+Commons. Virgin Mobile Australia obtained a photograph of Chang from
+Flickr, where is was posted with a CC "Attribution" license, which gave Virgin Mobile permission from a copyright perspective
+to use the photograph in a commercial setting so long as it gave
+attribution to the photographer who took the photo. (For information on
+copyright licensing, see Copyright Licenses and Transfers.)
+Virgin Mobile used the photograph in an advertising campaign to promote
+its free text messaging and other mobile services without getting
+permission from Chang or her parents to use her name or likeness.
+Chang's parents sued Virgin Mobile for misappropriation of her
+likeness, and the facts would also have supported a claim for violation
+of her right of publicity. They brought other claims against Creative
+Commons, which they dismissed shortly after filing the lawsuit. The
+case, which was subsequently dismissed for lack of personal jurisdiction over Virgin Mobile, is interesting
+because it highlights the fact that somebody seeking to use a
+photograph needs to worry not just about copyright law, but also
+misappropriation and rights of publicity.
+The Chang case involved a clearly commercial use of her
+likeness. As a general matter, you should never use someone's name or
+photograph in advertising or promotion of your website or blog without
+permission. The same goes for creating merchandise that you plan to
+sell to the public which incorporates someone's name or photograph.
+With the limited exception for "incidental advertising use" discussed
+below, you need to get consent for commercial uses like these. But what
+about a casual reference to your neighbor in a blog post? Or what if
+you write an article about a local politician that features his
+photograph? Or what if you publish a photograph that you took of a
+famous actress walking down the red carpet at the Oscars? Fortunately,
+the law does not give individuals the right to stop all mention,
+discussion, or reporting on their lives or activities. The common law
+of most states creates an exception to liability for news reporting and
+commentary on matters of public interest, and many state statutes
+explicitly exempt news reporting and other expressive activities from
+liability. Despite these substantial protections, it is a good practice
+to obtain consent of the person depicted when you publish photographs
+or other personal information about someone on your blog, especially if
+your use might be construed as commercial or promotional.
+Who Can Sue for Unlawful Use of Name or Likeness
+Only human beings, and not corporations or other organizations, have
+rights of publicity and privacy interests that can be invaded by
+misappropriation of name or likeness. Thus, only individuals can sue
+for unlawful use of name or likeness, unless a human being has
+transferred his or her rights to an organization. Note that companies
+may sue you for trademark infringement and unfair competition if you
+exploit their brand names for commercial purposes. See the Trademark section for details.
+In some states, celebrities cannot sue for misappropriation of
+name and likeness (on the theory that they have no privacy interest to
+protect), and non-celebrities may not sue for violation of the right of
+publicity (on the theory that their personalities have no commercial
+value). The growing trend, however, is to permit both celebrities and
+non-celebrities to sue for both misappropriation and violation of the
+right of publicity, as long as they can establish the relevant kind of
+harm.
+You cannot invade the privacy of a dead person, so you
+generally cannot be sued for misappropriation of the name or likeness
+of a dead person, unless the misappropriation took place before the
+person in question died. However, in many states the right of publicity
+survives after death, so you could be sued for violating the publicity
+rights of a dead person. This is most likely to come up with dead
+celebrities.
+Elements of a Claim for Unlawful Use of Name or Likeness
+A plaintiff must establish three elements to hold someone liable for unlawful use of name or likeness:
+1. Use of a Protected Attribute: The plaintiff must show
+that the defendant used an aspect of his or her identity that is
+protected by the law. This ordinarily means a plaintiff's name or
+likeness, but the law protects certain other personal attributes as
+well.
+2. For an Exploitative Purpose: The plaintiff must
+show that the defendant used his name, likeness, or other personal
+attributes for commercial or other exploitative purposes. Use of
+someone's name or likeness for news reporting and other expressive
+purposes is not exploitative, so long as there is a reasonable
+relationship between the use of the plaintiff's identity and a matter
+of legitimate public interest.
+3. No Consent: The plaintiff must establish that he or she did not give permission for the offending use.
+Below, we address these elements in greater detail. Keep in mind
+that misappropriation and right of publicity are state-law legal
+claims, so there is some variation of the law in different states. For
+state-specific information, see State Law: Right of Publicity and Misappropriation.
+Use of a Protected Attribute
+A plaintiff bringing a misappropriation or right of publicity claim
+must show that the defendant used attributes of his or her identity
+that are protected by the law. Usually, this means showing that the
+defendant used the plaintiff's name or likeness. With regard to use of
+a name, it does not have to be a full or formal name, just something
+that is sufficient to identify the plaintiff. Using a well-known
+nickname can suffice. For instance, in Faegre & Benson, LLP v.
+Purday, 367 F. Supp. 2d 1238 (D. Minn. 2005), the court held that the
+defendant had misappropriated the plaintiff's name when he used the
+pseudonym that the plaintiff blogged under in the domain name for a
+website. "Likeness" refers to a visual image of the plaintiff, whether
+in a photograph, drawing, caricature, or other visual presentation. The
+visual image need not precisely reproduce the plaintiff's appearance,
+or even show his or her face, so long as it is enough to evoke the
+plaintiff's identity in the eyes of the public.
+The law protects other personal attributes or aspects of
+identity from unauthorized use as well. For example, courts have held
+that use of a celebrity's voice can violate the right of publicity.
+See, e.g., Midler v. Ford Motor Co.,
+849 F.2d 460 (9th Cir. 1988). One court held a defendant liable for
+using the slogan "Here's Johnny" as a brand name for portable toilets
+because it sufficiently evoked Johnny Carson's identity. See Carson v. Here's Johnny Portable Toilets, Inc.,
+698 F.2d 831 (6th Cir. 1983). In other examples, courts have held
+defendants liable for using a photograph of the plaintiff's race car in
+a television commercial, see Motschenbacher v. R.J. Reynolds Tobacco Co.,
+498 F.2d 821 (9th Cir. 1974), and creating a commercial featuring a
+robot decked out to resemble Vanna White and posing next to a Wheel of
+Fortune game board, see White v. Samsung Elec. Am., Inc.,
+917 F.2d 1395 (9th Cir. 1992). In all of these cases, the common
+rationale was that the attribute in question was sufficient to identify
+the plaintiff and evoke their identity for the public.
+Note also that the Supreme Court has recognized that state law
+may protect a celebrity's right of publicity in the content of his or
+her unique performance. In Zacchini v. Scripps-Howard Broadcasting Co.,
+433 U.S. 562 (1977), the Court held that Ohio could constitutionally
+recognize Hugo Zacchini's right of publicity in his "human canonball"
+performance.
+Some state statutes limit liability to the unauthorized use of
+particular attributes. For example, the New York statute only covers
+"name, portrait, picture or voice," N.Y. Civ. Rights Law § 51, the California statute covers only "name, voice, signature, photograph, or likeness," Cal. Civ. Code § 3344(a), and the Massachusetts statute covers only "name, portrait, or picture," Mass. Gen. Laws ch. 214, § 3A.
+Depending on state law, relief for the use of a wider array of personal
+attributes may be available under the common law (i.e., judge-made
+law). See State Law: Right of Publicity and Misappropriation for details.
+Exploitative Purpose
+A plaintiff bringing a misappropriation or right of publicity claim
+must show that the defendant used his or her name, likeness, or other
+personal attribute for an exploitative purpose. The meaning of
+"exploitative purpose" differs depending on whether we are dealing with
+a right of publicity or a misappropriation claim:
+Exploitative Purpose: Right of Publicity
+The right of publicity is the right of a person to control and
+make money from the commercial use of his or her identity. A plaintiff
+that sues you for interfering with that right generally must show that
+you used his or her name or likeness for a commercial purpose. This ordinarily means using the plaintiff's name or likeness in advertising or promoting your goods or services, or placing the plaintiff's name or likeness on or in products or services you sell to the public.
+Therefore, it is a bad idea to create an advertisement suggesting that
+a celebrity -- or anyone for that matter -- endorses your website or
+blog. It is equally unwise to use someone else's name as the title of
+your website or blog, especially if you host advertisements. You can be
+liable even without creating a false sense that the person in question
+endorses your product or service; the key is that you are exploiting
+the plaintiff's identity to drive traffic or obtain some other
+commercial benefit.
+It may also be an exploitative commercial use to sell
+subscriptions to your site in return for access to content relating to
+a specific (usually famous) individual. For instance, one court held
+that a website operator violated Bret Michaels and Pamela Anderson's
+rights of publicity by providing website users access to a
+Michaels-Anderson sex video in return for a subscription fee. See
+Michaels v. Internet Entm't Group, 5 F. Supp.2d 823 (C.D. Cal. 1998).
+In another example, a court issued an injunction prohibiting a website
+operator from violating Paris Hilton's right of publicity by selling
+subscriptions to a website providing access to photographs of her and
+other private materials belonging to her. See Hilton v. Persa, No. 07-cv-00667 (C.D. Cal. Feb. 20, 2007), and our database entry on the case for additional details.
+Exploitative Purpose: Misappropriation of Name or Likeness
+Most lawsuits claiming invasion of privacy through
+misappropriation of name or likeness also involve commercial uses of
+the plaintiff's identity, such as in advertising or promoting products
+or services. For example, one of the first cases to recognize a legal
+claim for misappropriation sprang out of the defendant's use of the
+plaintiff's photograph in an advertisement for life insurance. See
+Pavesich v. New England Life Ins. Co., 50 S.E. 68 (Ga. 1905). You also
+may be held liable for some non-commercial uses of someone's name or likeness if you exploit the plaintiff's identity for your own benefit.
+For example, one court has held that an anti-abortion activist
+who registered domain names incorporating the names and nicknames of
+his ideological rivals had misappropriated their names for his own
+benefit. See Faegre & Benson, LLP v. Purdy, 367 F. Supp. 2d 1238
+(D. Minn. 2005). The court also held that the defendant had committed
+misappropriation through a form of sock puppetry -- namely, he posted
+comments on his own bulletin board pretending to be lawyers from a law
+firm that fought for abortion rights; in these comments, he expressed
+opinions and views that were favorable to his own position that
+abortion is immoral. See Faegre & Benson, LLP v. Purdy, 447 F.
+Supp. 2d 1008 (D. Minn. 2006). In another case, a professor created
+non-commercial websites and email accounts containing portions of the
+names of several of his former colleagues. Using these email accounts,
+the professor then sent emails to a number of universities, pretending
+to nominate these former colleagues for university positions and
+directing readers back to his websites, which contained critical posts
+about the nominated individuals. When the University and his former
+colleagues sued, an Indiana state court found that he had committed
+misappropriation. The Supreme Court of Indiana affirmed the lower
+court's decision, holding that the professor had exploited the
+plaintiffs' names for his own benefit "in that [the misappropriation]
+enabled him to pursue a personal vendetta." Felsher v. Univ. of
+Evansville, 755 N.E.2d 589, 600 (Ind. 2001).
+One court has held that posting a photograph of a real estate
+agent on a "gripe site" dedicated to criticizing him was not
+sufficiently exploitative to impose liability. The court reasoned that
+the defendant had not published the photo in order to "tak[e] advantage
+of [the real estate agent's] reputation, prestige, or other value
+associated with him, for purposes of publicity," but only "as a part of
+a declaration of his opinion." McMann v. Doe, No. 06-11825-JLT (D. Mass. Oct. 31, 2006).
+As a general matter, then, it is a good idea to avoid
+impersonating other individuals on the Internet for political or even
+personal reasons, because that may be sufficiently exploitative to
+result in liability for misappropriation. On the other hand, simply
+using someone's name or likeness in the process of expressing your
+opinion is probably safe, especially given the exception for news and
+commentary discussed below.
+Consent
+Consent is a complete defense to a legal claim for misappropriation
+of name or likeness or violation of the right of publicity. When you
+gather information from or take photographs of an individual, it is a
+good practice to ask for consent to use the material on your website,
+blog, or other online platform. Make sure to get consent in writing
+whenever possible.
+When taking photographs or video of someone, you can use a model release form. Some examples of model releases can be found at the American Society of Media Photographers (model release for adult, model release for minor child, simplified model release, and pocket release), and the New York Institute of Photography.
+You can find additional samples by doing a basic Internet search for
+"model release." Note that you can choose between various types of
+model release, which are of varying complexity. You may be better off
+using one of the simpler forms, unless you are planning on using
+someone's name or likeness in advertising or an obviously commercial
+use. All of these sample releases need to be customized to your own
+particular circumstances and purposes. You should not use someone's
+photograph for a purpose or in a type of media not covered by the
+release because then the release will be ineffective.
+For interviewing someone (with or without taking photographs), it is also good practice to obtain an interview release form. This release can protect you against publication of private facts claims in addition to misappropriation and right of publicity claims. Some examples of interview releases can be found in Stanford's Copyright and Fair Use Guide, and at EmilioCorsetti.com and the University of Michigan Press. You can find additional samples by doing a basic Internet search for "interview release," and the book The Copyright Permission and Libel Handbook
+by Lloyd J. Jassin and Steven C. Schecter has two excellent examples.
+There are a number of different kinds of interview release forms; you
+will need to choose and customize one to suit your own purposes. As
+above, you should not use someone's name or likeness for a purpose or
+in a type of media not covered by the release.
+If, instead, you obtain photographs for use on your website or
+blog from a publicly available source on the Internet, it may be more
+difficult to obtain the consent of the persons depicted in those
+photographs, especially if they are celebrities. In close cases, where
+you are not sure whether your proposed use is commercial or otherwise
+exploitative, or where you are unsure whether your use fits within the
+protection for "news and commentary" (see below), you should do your
+best to obtain consent. If you cannot get it, then you should consider
+using a different image. When using photographs that you did not
+personally take, you need to worry about copyright law in addition to
+name or likeness issues. Getting permission from the person depicted in
+the photograph only stops a claim for misappropriation or violation of
+the right of publicity. You also need to get copyright permission from
+the person who took the photograph (or whoever owns the copyright). For
+details on getting permission to use a copyrighted work, see Copyright Licenses and Transfers.
+Children cannot consent on their own behalf. When using the name
+or likeness of a minor (generally someone under the age of eighteen),
+you should seek consent from the minor's parent. Some of the example
+release forms linked to above are geared toward getting the consent of
+minors. Keep in mind that people giving you consent can revoke (i.e.,
+take back) that consent anytime before the use of their name or
+photograph takes place. Therefore, you should honor the decisions of
+consenting persons who suddenly change their minds, so long as
+publication hasn't already taken place.
+Free Expression Limitations on Liability
+Fortunately, the law places important limitations on
+misappropriation and right of publicity claims, which help to protect
+your right of free expression and to safeguard the free flow of
+information in society. Below, we discuss these limitations in detail.
+Exception for News and Commentary
+You generally cannot be held liable for using someone's name,
+likeness, or other personal attributes in connection with reporting or
+commenting on matters of public interest. Many courts view this as a
+constitutional privilege based on the First Amendment, and some states
+have statutes explicitly exempting news reporting and commentary on
+public issues from liability. It is not always easy to determine what
+will qualify as news or legitimate commentary, especially on the
+Internet. But the courts traditionally have taken an extremely broad
+view of "news" and "commentary" -- it encompasses any reporting or
+commenting on current events or social issues, "soft news" which is of
+primarily entertainment value, and conveyance of information on past
+events of interest. The exception is extremely broad, and would
+encompass almost anything that conveys information or comments on a
+topic of even arguable public interest. For example, courts have found
+that the following media uses qualified for the exception:
+an Internet bulletin board devoted to discussing Howard Stern's candidacy for governor;
+an unauthorized biography of a celebrity;
+a magazine report on meeting women at summer concerts, with photos of some of the women;
+a TV news report on allegations that an orthopedist was sexually assaulting his female patients;
+a magazine article discussing a research study about how caffeine affects fertility, with a photo of a large family;
+a fundraising letter discussing public policy questions in
+the field of education and relating a local political figure's praise
+of the organization sending the letter;
+a magazine article on contemporary attitudes of
+Irish-Americans in New York City, including a photo of an individual
+dressed up for the Saint Patrick's Day parade;
+a magazine article featuring the plaintiff as "Asshole of
+the Month," with a photograph of the plaintiff superimposed over the
+rear-end of a bent-over naked man;
+a book profiling the various leading securities experts and analyzing their strategies;
+a magazine article about a "bomber jacket," with information
+about the approximate price, the name of the designer, stores where it
+could be purchased, and a photograph of the plaintiff modeling the
+jacket;
+a report that a professional female tennis star had posed nude for a photograph; and
+a report on teenage grooming.
+There are literally thousands of additional examples. While most of
+these cases involved the traditional print and broadcast media, there
+is no reason to believe that the exception for news and commentary will
+not apply to your online activities. One case, Stern v. Delphi Internet Services Corporation,
+626 N.Y.S.2d 694 (N.Y. Sup. Ct. 1995), addressed this question directly
+and held that the news and commentary exception applied to the
+defendant's online bulletin board service.
+Hosting advertisements on your site does not deprive you of
+the news and commentary exception. The courts have long recognized that
+for-profit news organizations that sell advertising space are entitled
+to protection. See, e.g., Arrington v. New York Times, 434 N.E.2d 1319,
+1322 (1982); Berkos v. National Broad. Co., 515 N.E.2d 668, 679 (Ill.
+App. Ct. 1987). This principle should extend to online platforms that
+sell advertising space.
+There are two important limitations on the exception for news and commentary:
+First, if the plaintiff can show that your use of his or her name or likeness bears no reasonable relationship
+to the content of the news or commentary presented, then you may be
+liable for creating an "advertisement in disguise." This usually comes
+up with photographs used to illustrate otherwise newsworthy stories. As
+a general rule, it is never a good idea to illustrate an article or
+post with a completely unrelated photograph, especially if the purpose
+of the photograph is simply to catch the public's attention or draw
+traffic to your site.
+Some courts have let media defendants get away with using
+photographs of people who are not actually discussed in the article in
+question. For instance, the New York Court of Appeals held that a
+magazine lawfully could use the photograph of a large family to
+illustrate its article on a research study about caffeine and
+fertility, even though the family did not participate in the study. The
+court ruled that the photograph of the family was reasonably related to
+the "theme" of fertility that ran throughout the article. See Finger v.
+Omni Publ'n Int'l Ltd., 566 N.E.2d 141 (N.Y. 1990). Other courts have
+rejected this view, holding that there is no reasonable relationship
+between the photograph and the subject matter of the article if the
+person in the photograph is not mentioned in the text. For instance, in
+Christianson v. Henry Holt & Company, 2007 WL 2680822 (C.D. Ill.
+June 29, 2007), the court ruled in favor of a woman whose photograph
+appeared on the cover of the book Nickel and Dimed. Although
+the book itself dealt with a newsworthy topic, the author and publisher
+could not use the woman's photograph on the cover because she was never
+mentioned in the book.
+Using a photograph of a totally unrelated person to illustrate
+a story may also create liability for defamation and false light
+invasion of privacy. See Overview of Publishing Information That Harms Reputation for details on these two legal claims.
+Second, the Supreme Court has held that the First Amendment does not protect the media when they appropriate a celebrity's entire performance without compensation, even in connection with a newsworthy story or program.
+In Zacchini v. Scripps-Howard Broadcasting Co.,
+433 U.S. 562 (1977), a news reporter videotaped Hugo Zacchini's "human
+cannonball" act at a county fair without permission, and his employer
+broadcast the entire fifteen-second act on the evening news. The
+Supreme Court held that the First Amendment did not prevent liability
+for violation of the right of publicity, even though the broadcast was
+newsworthy. Therefore, it is not a good idea to record and publish all
+or most of someone's performance (e.g., a live musical or dance
+performance) without permission, even if the performance is
+legitimately newsworthy.
+Protection for Creative Works
+The First Amendment and the laws of many states also protect your
+use of someone's name or likeness in creative works and other forms of
+entertainment. Included in this category are things like novels that
+include mention of real-life figures, historical fiction, movies based
+loosely on real-life events, "docudramas," works of art that
+incorporate an individual's photo or image, and acts of parody directed
+at an individual. Some state statutes explicitly exempt these kinds of
+work from liability for misappropriation or violation of the right of
+publicity. See, e.g., 42 Pa. Cons. Stat. § 8316(e)(2)
+(link is to entire code; you need to click through to title 42, part
+VII, chapter 83, subchapter A, and then choose the specific provision);
+Wash Rev. Code § 63.60.070(1).
+In other states, the courts look at the creative or artistic work in
+question and decide on a case-by-case basis whether the First Amendment
+values at stake trump the plaintiff's rights of privacy and publicity.
+See State Law: Right of Publicity and Misappropriation for details.
+As a general matter, you will not be held liable for using
+someone's name or likeness in a creative, entertaining, or artistic
+work that is transformative, meaning that you add some
+substantial creative element over and above the mere depiction of the
+person. In other words, the First Amendment ordinarily protects you if
+you use someone's name or likeness to create something new that is
+recognizably your own, rather than something that just evokes and
+exploits the person's identity.
+For instance, in one case an artist created and sold t-shirts
+that contained a realistic depiction of The Three Stooges, and the
+company which owns the publicity rights sued. The California Supreme
+Court recognized that the First Amendment generally protects artistic
+and creative works, but found that the t-shirts in question were not
+sufficiently transformative because "the artist's skill and talent
+[was] manifestly subordinated to the overall goal of creating a
+conventional portrait of a celebrity so as to commercially exploit his
+or her fame." Comedy III Prods., Inc. v. Gary Saderup, Inc., 21 P.3d 797, 810 (Cal. 2001). In another case, the artist Barbara Kruger
+created an untitled work that incorporated a photograph of Charlotte
+Dabny holding a large magnifying glass over her right eye (which itself
+was a famous photograph by German photographer Thomas Hoepker). Kruger
+cropped and enlarged the photographic image, transferred it to
+silkscreen and superimposed three large red blocks containing the
+sentence "It's a small world but not if you have to clean it." A New
+York court held that Dabny could not recover for misappropriation
+because Kruger's artistic work was protected by the First Amendment
+because Kruger had added sufficiently transformative elements. See
+Hoepker v. Kruger, 200 F. Supp.2d 340 (S.D.N.Y. 2002).
+Incidental Advertising Use
+If you use someone's name or likeness in connection with news
+reporting, commentary, or a creative work protected by the First
+Amendment, then you can also use it in connection with truthful advertising of your own work.
+Courts refer to this as the "incidental use" doctrine. This doctrine
+permits TV news shows to use "teaser" ads including images of people
+reported on during the main program, and publishers to create book
+jackets and advertisements for unauthorized biographies containing the
+name or photograph of the book's subject.
+One court has held that this doctrine applies to online activities as well. In Stern v. Delphi Internet Services Corporation,
+626 N.Y.S.2d 694 (N.Y. Sup. Ct. 1995), an Internet service provider set
+up an on-line bulletin board dedicated to discussion of Howard Stern's
+candidacy for governor. To advertise its service, the company took out
+a full page advertisement in New York Magazine featuring a
+photograph of Stern in leather pants which exposed his buttocks. An
+accompanying caption read "Should this man be the next governor of New
+York?" The advertisement invited readers to purchase Internet access
+from the ISP and to join the online debate about Stern. The court held
+that, because the ISP could lawfully use Stern's name for its online
+bulletin board (i.e., it fit the news and commentary exception -- see
+above), it could also use his name and photo to advertise that service.
+The court noted that "New York courts have consistently held that the
+incidental advertising exception applies to all 'news disseminators,'
+not just newspapers and magazines." There is no reason to believe
+courts in other states would not reach a similar result.
+So, for example, if you write an article about a celebrity, you
+should be able to use that celebrity's name and image sparingly for
+purposes of promoting the article.
+Special Types of Websites
+Social Networking Sites
+Operating a social networking site presents special problems
+relating to misappropriation and rights of publicity. Such sites
+obviously incorporate the names and likenesses of those people who join
+the network, and it is not yet clear from a legal perspective whether
+the type of information conveyed by a social networking site fits into
+the "news and commentary" exception to liability. Although the famous
+social networking sites have teams of well-paid lawyers, others
+interested in incorporating social networking functionality into their
+websites need to be aware of how using the name or likeness of another
+can lead to liability.
+Because of the legal uncertainty surrounding this topic, people
+interested in using social networking functionality should seek consent
+from account holders in their terms of use. A clause like this, from
+Facebook's terms of use, may be helpful:
+By posting User Content to any part of the Site, you
+automatically grant, and you represent and warrant that you have the
+right to grant, to the Company an irrevocable, perpetual,
+non-exclusive, transferable, fully paid, worldwide license (with the
+right to sublicense) to use, copy, publicly perform, publicly display,
+reformat, translate, excerpt (in whole or in part) and distribute such
+User Content for any purpose, commercial, advertising, or otherwise, on or in connection with the Site or the promotion thereof,
+to prepare derivative works of, or incorporate into other works, such
+User Content, and to grant and authorize sublicenses of the foregoing.
+This should help protect against misappropriation and right of
+publicity claims brought by users based on the photos and other
+materials they upload. Incidentally, having users agree to such a
+clause also gives you the permissions you need to avoid copyright
+claims brought by users.
+A different problem arises when someone creates a false profile
+on a social networking site. In these cases, the person whose name or
+likeness is being used improperly is not an account holder and has not
+given consent. The law is not settled on this point yet, but it appears
+that a person whose name or likeness is posted to a false profile may
+have a valid legal claim for misappropriation and/or violation of the
+right of publicity. Beyond that, false profiles often lead to defamation claims against the person who posted the false profile. See Law.com's article, Fake Online Profiles Trigger Suits,
+for examples. From the perspective of the website operator, defamation
+claims based on fake profiles are not a serious legal threat because section 230 of the Communications Decency Act (CDA 230) provides immunity from defamation claims based on third-party content. See Immunity under CDA 230 for details on immunity from liability for user-generated content.
+In Doe v. Friendfinder Network, Inc.,
+2008 WL 803947 (D.N.H. Mar. 27, 2008), someone created a false profile
+of a real woman (we'll call her Jane Doe) on the social networking site
+"Adult Friendfinder." The false profile included biographical
+information about Jane, along with spurious statements about her sexual
+proclivities. The photograph posted to the profile was not Jane, but
+she alleged that the biographical information was sufficient to
+identify her to people in her community. The social networking site not
+only hosted the fake profile, but incorporated it into teaser
+advertisements that appeared on Internet search engines when users
+entered search terms matching some of the information in the profile,
+including true biographical information about Jane. The teaser ads also
+appeared on other "sexually related" websites. Jane sued the adult
+social networking site, bringing various state law claims including
+invasion of privacy and publicity rights. The court held that, under
+the circumstances, she had stated a valid claim for violation of her
+right of publicity. In addition, the court held that CDA 230,
+which immunizes website operators from many state law legal claims
+based on user-generated content, does not apply to right of publicity
+claims. Therefore, Jane's claim against the social networking site
+could go forward, despite the fact that a third-party created the
+profile.
+To deal with the fake profile issue, you might want to include
+a clause in your terms of service that requires users not to post
+material that would violate a third-party's privacy or publicity
+rights. Technically, this might help you recover some of the costs if
+you are sued by someone for hosting a fake profile. In reality, it may
+be impossible to identify who posted the fake profile, and they may not
+have any money to pay you.
+Your best defense against these types of lawsuits is to create
+a mechanism for aggrieved individuals to submit complaints and to
+respond expeditiously to complaints about fake profiles. In addition,
+you can help protect yourself by not using user profiles in any sort of
+advertising or site promotion.
+Fan Sites
+Fan sites pertaining to a celebrity, such as a sports figure,
+musician, or movie star, are potentially vulnerable to right of
+publicity and misappropriation claims because they rely so heavily on
+the name and likeness of their particular hero. In the last year, we've
+documented two examples of this problem. In July 2007, Patrick O'Keefe,
+the operator of the fan site MarianoRivera.com received a
+cease-and-desist letter from SFX Baseball Group, which represents
+Yankees baseball player, Mariano Rivera. The letter asserted that the
+site's use of the domain name, marianorivera.com, violated Mr. Rivera's
+right of publicity and federal trademark law. After discussions, an SFX
+representative told O'Keefe that he could continue to operate the
+website, but refused to give any assurances about the future. See our
+database entry, SFX Baseball Group v. MarianoRivera.com,
+for details. In another example, pop star Prince sent a number of
+cease-and-desist letters to Prince fan sites in November 2007, claiming
+right of publicity violations and copyright infringement. The letters
+asked the fan sites to remove all photographs, images, lyrics, album
+covers, and anything linked to Prince's likeness. After Prince got a
+lot of bad publicity, the parties entered into negotiations, which
+appear to be ongoing. See our database entry, Prince v. Prince Fan Sites, for details.
+Whether fan sites like these actually violate the publicity or
+privacy rights of their idols is not clear under the law. The best
+legal arguments in favor of fan sites are probably that they provide
+"news" about the celebrity in question and that their use of the
+celebrity's name or likeness is not commercial or otherwise
+exploitative (this argument may be stronger if the site hosts no
+advertisements whatsoever). These sites should avoid selling
+merchandise, like t-shirts or coffee mugs, emblazoned with the name or
+likeness of their particular celebrity. In the end, we will have to
+await further guidance from the courts on these issues.
+Fan sites also raise copyright and trademark issues; consult the Intellectual Property section for more information.
+Statute of Limitations
+The "statute of limitations"
+is a term used by courts to describe the maximum amount of time
+plaintiffs can wait before bringing a lawsuit after the events they are
+suing over took place. This time limit is set by state law and is
+intended to promote fairness and keep old cases from clogging the
+courts. In misappropriation and right of publicity cases, the statute
+of limitations ordinarily runs from the date of first publication or
+exhibition of the offending use of the plaintiff's name or likeness.
+The limitations period varies based on state law; for misappropriation
+and right of publicity claims, it can be anywhere from one to six
+years. For specific information on limitations periods applicable to particular state law claims, see the State Law: Right of Publicity pages.
+Jurisdiction: United StatesSubject Area: DefamationPrivacyRight of PublicityMisappropriation
+Printer-friendly version
+TABLE OF CONTENTS
+Forming a Business and Getting OnlineDealing with Legal Threats and RisksNewsgathering and PrivacyAccess to Government InformationIntellectual PropertyRisks Associated With PublicationPublishing Information that Harms Another's ReputationPublishing Personal and Private InformationPublication of Private FactsUsing the Name or Likeness of AnotherState Law: Right of PublicityPractical Tips for Avoiding Private Facts, Misappropriation, and Right of Publicity ClaimsPublishing the Statements and Content of OthersCorrecting or Retracting Your Work After PublicationPublishing Product or Service EndorsementsDealing with Foreign Legal ThreatsUnique Content: Special RisksGuides and Resources
+Subscribe to our content! Follow us on Twitter
+Username *
+Password *
+Request new password
+Recent Blog Posts
+Seven Years of Serving and Studying the Legal Needs of Digital Journalism
+6 years 5 months ago
+DMLP Announcement: A New Report on Media Credentialing in the United States
+6 years 6 months ago
+Will E.U. Court's Privacy Ruling Break the Internet?
+6 years 7 months ago
+Baidu's Political Censorship is Protected by First Amendment, but Raises Broader Issues
+6 years 7 months ago
+Hear Ye, Hear Ye! Some Federal Courts Post Audio Recordings Online
+6 years 7 months ago
+Service and Research at the Frontier of Media Law
+6 years 8 months ago
+DMLP Announcement: Live Chat Session on Tax-Exempt Journalism (UPDATED)
+6 years 8 months ago
+A New Approach to Helping Journalism Non-Profits at the IRS
+6 years 9 months ago
+more
+We are looking for contributing authors with expertise in media law, intellectual property, First Amendment, and other related fields to join us as guest bloggers. If you are interested, please contact us for more details.
+Disclaimer
+Information in this guide is based on general principles of law and is intended for information purposes only; we make no claim as to the comprehensiveness or accuracy of the information. It is not offered for the purpose of providing individualized legal advice. Use of this guide does not create an attorney-client or any other relationship between the user and the Digital Media Law Project or the Berkman Center for Internet & Society.
+Legal Guide Navigation
+Legal Guide Home PageBrowse Guide SectionsBrowse by SubjectSearch the Guide
+Most Viewed Guide Pages
+Fair Use
+Recording Phone Calls and Conversations
+California Recording Law
+State Law: Recording
+Using the Name or Likeness of Another
+New York Recording Law
+Texas Recording Law
+Linking to Copyrighted Materials
+Copyright 2007-20 Digital Media Law Project and respective authors. Except where otherwise noted,content on this site is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 3.0 License: Details.
+Use of this site is pursuant to our Terms of Use and Privacy Notice.

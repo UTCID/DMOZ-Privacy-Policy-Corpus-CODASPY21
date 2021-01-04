@@ -1,0 +1,28 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch12s03.html#websec2-CHP-12-SECT-3.4
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Microsoft’s ActiveXActiveX is a collection of technologies, protocols, and APIs
+developed by Microsoft that are used for automatically downloading
+executable machine code over the Internet. The code is bundled into a
+single file called an ActiveX control
+and the file has the extension OCX. You can think of an
+ActiveX control as a self-installing plug-in.ActiveX controls are automatically downloaded when Internet
+Explorer encounters a web page containing an <OBJECT> tag that
+references an ActiveX control. Depending on the current setting for
+Internet Explorer, these tags either are ignored or cause software to
+be downloaded. If the control is downloaded (again depending on the
+security setting of Internet Explorer), the control may be run
+directly, or the user may be prompted as to whether the control should
+or should not be run. This process is shown in Figure 12-4.Figure 12-4. Internet Explorer’s security settings determine whether
+ActiveX controls will be downloaded and how they will be
+run.ActiveX is an extraordinarily powerful technology. Because raw
+machine code is downloaded and run, the ActiveX controls can do
+anything—from displaying a new file type to upgrading your computer’s
+operating system!Despite the similarities between ActiveX controls and
+plug-ins, there are a few significant differences:ActiveX applets have been used for much more than plug-ins. Whereas plug-ins ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

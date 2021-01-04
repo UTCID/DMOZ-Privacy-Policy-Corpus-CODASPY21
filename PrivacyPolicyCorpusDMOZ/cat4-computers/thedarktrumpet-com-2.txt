@@ -1,0 +1,114 @@
+https://thedarktrumpet.com/blog/security/privacy/2020/08/03/PrivacyVsSecurity/
+TheDarkTrumpet.com
+About Me
+Resume
+Hobbies
+Articles
+Programming
+Security
+Privacy
+SQL Server
+GTD/Productivity
+All Categories
+Home
+Privacy and Security, Defined
+August 03, 2020
+Reading time ~5 minutes
+Home
+Articles
+Programming
+Security
+Privacy
+SQL Server
+GTD/Productivity
+All Categories
+About Me
+Resume
+Hobbies
+Privacy and Security, Defined
+Recently, in an IRC chat room I hang out in, specific to the topic of Security a person more or less mentioned the following:
+There’s a secure search engine, described at (link), what are people’s thoughts about it?
+I made the comment that, at least according to their link, the search engine was privacy focused, and that the use of the term “secure” was incorrect in their statement.
+While they agreed with me, I see the distinction between Privacy and Security blurred quite commonly, and the distinction is incredibly important.
+Privacy Defined
+Privacy is defined as the following[1]:
+the quality or state of being apart from company or observation
+and
+freedom from unauthorized intrusion
+What these mean, in practice is that privacy is the act, or the state, of keeping your personal information from external parties.
+The important part here is it’s our private data, where privacy is being used as an adjective.
+For example, private data about you being shared to other entities is potentially a loss of privacy.
+Security Defined
+Security is defined as the following[2]:
+the quality or state of being secure: such as … freedom from danger
+So in practice, we implement safeguards (be that procedure, systems, etc) that are designed to protect ourselves - or in this specific case to protect our data.
+Like Privacy, Security can be a state - but more often we use it as a verb.
+Definitions Clarified
+Another way to look at the distinction between privacy and security is that security (verb) is often the process, system, software, etc that safeguards our personal, private (adjective) data.
+In other words, data can be public or private - and it’s the private data we want to protect through secure procedures and the process and systems we use to protect this data is “security”.
+Another important thing to remember is that while we have a good deal of control over our private information, we don’t necessarily have much control over the security of some systems that hold our data.
+For example, you can choose to use a company like Facebook - and any private information you provide to Facebook - but
+Examples
+Below are a few examples that can hopefully illustrate how security and privacy are different, and why the distinction matters.
+Example 1 - Forum Posts That Are Leaked
+We’ve seen cases where member lists, and their associated posts have been leaked.
+For example, recently “WeLeakData” has been hacked [3], and their private messages have been leaked.
+From a data perspective, they have both public and private information.
+The Public information is the main website, maybe some posts, and so on.
+The Private information is the data associated with the direct messages between users.
+When thinking of privacy - do the people who had their information leak use more private communication options (e.g. tor, VPN, etc)?
+Did the private communication include personal details (finance information, personal information, etc)?
+The participants in these forums lost part of their privacy, but probably have not been compromised (unless using shared passwords across sites).
+The owning group had the security breached, and the users had their private information stolen.
+So from the perspective of the owning group - they had a violation of security, as well as privacy.
+Whereas, the users had a violation of privacy but not necessarily security.
+Example 2 - Equifax Data Breach
+Back in 2017, Equifax was breached and privacy information for many citizens were disclosed [4].
+Much like example 1, we have two groups involved - Equifax, and affected citizens.
+From the citizen’s point of view, there was a loss of privacy due to the breach.
+Their personal, private information was leaked and sold.
+Their security, from this specific incident wasn’t violated - but, it can be violated through the use of this information to affect those citizens.
+For example, an attacker can now attempt to open accounts in the person’s name.
+But, it’s still important to understand is that while a loss of privacy can lead to a loss of (physical) security, they still aren’t the same because we’re now talking about the probability of multiple events with multiple actors involved.
+From Equifax’s point of view, they had a breach of security but not as much a loss of privacy (compared to citizens).
+While some of their employees may have been affected, the company as a whole not as much.
+Through litigation, they may have a further loss of privacy.
+But, much like the Citizen point of view, this is now multiple events we’re talking about.
+The breach of security resulted in the loss of private information (both citizens, and likely their internal organization function)
+Example 3 - Wifi Breach
+This happens periodically, and could happen to most of the readers of this article.
+This is more a hypothetical situation, but has happened to very large companies like TJX back in 2007.
+But, it happens to general individuals too.
+In this particular hypothetical situation, lets assume that the hacker is getting into a poorly protected network (weak password, WEP, etc).
+Their motivation may be as simple as using someone else’s internet connection instead of paying for their own internet.
+From the wifi owner’s perspective, there’s a breach in security.
+The password was hacked, and someone is on the network.
+But, is it a loss of privacy?
+Not really.
+Can this result in a loss of privacy if the attacker decides to poke at the systems on the network?
+Yeah, it can.
+But, much like the two examples above we’re now talking about multiple events here.
+The first event was the attack on the network and breach (joining) within the network.
+The second event may not happen, and the attacker stops and simply uses the internet for browsing Reddit.
+Conclusion
+I hope these examples help better clarify the difference between Security and Privacy and how they are not the same, and shouldn’t be confused as such.
+When it comes to the internet, our best defense when we have no control over the security of the system our private data is stored on is - simply - do not allow the storage of that information.
+Our focus on security should be in our locus of control; that being our own networks, machines, and data that we can modify (e.g. Cloud Storage).
+References
+1: https://www.merriam-webster.com/dictionary/privacy
+2: https://www.merriam-webster.com/dictionary/security
+3: https://cisomag.eccouncil.org/3-hacking-forums-hacked-database-leaked-online/
+4: https://en.wikipedia.org/wiki/2017_Equifax_data_breach
+5: https://en.wikipedia.org/wiki/TJ_Maxx#Data_theft
+About the Author
+David Thole
+Applicaton Developer, SQL Server DBA.
+Reads/studies a lot and enjoys all things technology
+Follow @thedarktrumpet
+Read More
+GTD With Hobonichi
+# What's Hobonichi?Hobonichi \[[1](#references)\] is a brand of journal/planner, made in Japan, that I've been using for a few years now....… Continue reading
+Black Box Performance Analytics - SQL Server Profiler
+Published on October 03, 2020
+Why Privacy Matters
+Published on July 25, 2020

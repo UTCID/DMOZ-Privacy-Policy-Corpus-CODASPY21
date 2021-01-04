@@ -1,0 +1,192 @@
+https://blog.mozilla.org/privacy/2013/02/25/firefox-getting-smarter-about-third-party-cookies/
+Mozilla
+Menu
+Internet Health
+Technology
+Give
+Discover Firefox
+Explore
+Categories
+Search this site
+Search
+Mozilla has a long running interest in fostering greater transparency, trust and accountability related to privacy and the many cookie-based practices we see today.
+On Friday, Mozilla released a Firefox patch into its “Nightly” channel that changes how cookies from third party companies function. Users of this build of Firefox must directly interact with a site or company for a cookie to be installed on their machine. The patch also provides an additional control setting under the “Privacy” tab in Firefox’s Preferences menu (see image).
+Many years of observing Safari’s approach to third party cookies, a rapidly expanding number of third party companies using cookies to track users, and strong user support for more control is driving our decision to move forward with this patch.
+We have a responsibility to advance features and controls that bring users’ expectations in line with how the web functions for them. As our General Counsel, Harvey Anderson, wrote a few weeks ago in a post about Mozilla’s recognition as the Most Trusted Internet Company for Privacy in 2012:
+We all have to continue our efforts — both big and small — to create a more trustworthy environment of online products that seamlessly integrate ease of use, transparency, and user choice.
+In my own use of this release this morning, I followed one of my typical browsing paths, starting with a look at surfing conditions, then local news, a major national news site, and a popular site covering the tech industry. (Incidentally, all the great coverage of our launch of Firefox OS at Mobile World Congress is really exciting!)
+Here’s how the new patch changed the extent to which I was tracked:
+Current Default:
+Allow All Cookies
+Proposed New Default:
+Allow Cookies Only From Visited Domains
+4 web sites used 8 first party domains
+4 web sites used 8 first party domains
+81 cookies from first party domains
+75 cookies from first party domains
+117 third party domains
+0 third party domains
+304 cookies from third party domains
+0 cookies from third party domains
+Total: 385 first & third party cookies
+Total: 75 first party cookies
+I cleared all my cookies before visiting these sites and then re-performed this process several times, as I wanted to verify that in fact four sites did lead to over 300 cookies from more than 100 companies I had not visited. Display ads and sharing widgets on the sites worked fine, and as I clicked on them, the various parties involved were able to set cookies. The privacy policies on all four sites cover their cookie practices, including from third parties. Interestingly, they all pointed me to using settings in my browser to control the behavior of these cookies on their sites.
+Mozilla is passionate about putting its users first and moving the web forward. That mission requires taking a leadership role on privacy, which we have repeatedly done (e.g., Do Not Track, Social API, Secure Search, Persona and Collusion).
+Mozilla’s users frequently express concerns about web tracking, and we’ve been listening. We are constantly challenging ourselves to deliver a browser that conforms to user expectations while facilitating online innovation. We regularly review community and partner input, web standards, extensions, practices by other browsers, and much more. The new third party cookie patch in Firefox is just another example of those efforts.
+The new default is currently only in this very early developer build of Firefox as it goes through Mozilla’s usual vetting process. As with other features we deploy, it will be several months of evaluating technical input from our users and the community before the new policy enters our Beta and General release versions of Firefox. The policy for how our current versions of Firefox handle cookies can be found here and here.
+Mozilla loves to hear from our users about how it can make Firefox even better. We encourage all those interested to provide feedback via the mozilla.dev.privacy discussion group.
+Previous article
+Cyber-security heating up on both sides of the Atlantic
+February 14, 2013
+Next article
+Data, Apps and Developers
+April 4, 2013
+More articles in “Do Not Track”
+Engaging on e-Privacy at the European Parliament
+June 7, 2017
+Prefer:Safe — Making Online Safety Simpler in Firefox
+July 22, 2014
+We’re More Than The Sum Of Our Data
+October 23, 2013
+Mozilla’s new Do Not Track dashboard: Firefox users continue to seek out and enable DNT
+May 3, 2013
+“do track or do not track?” — that is the question
+January 28, 2013
+Recent articles
+Mozilla teams up with Twitter, Automattic, and Vimeo to provide recommendations on EU content responsibility
+December 9, 2020
+Mozilla reacts to publication of the EU Democracy Action Plan
+December 3, 2020
+Four key takeaways to CPRA, California’s latest privacy law
+November 20, 2020
+Mozilla DNS over HTTPS (DoH) and Trusted Recursive Resolver
+(TRR) Comment Period:
+Help us enhance security and privacy online
+November 18, 2020
+Mozilla Mornings on addressing online harms through advertising transparency
+October 19, 2020
+Love the Web?
+Get the Mozilla newsletter and help us keep it open and free.
+Your e-mail address
+Language
+Deutsch
+English
+Español
+Français
+Polski
+HTML
+Text
+I’m okay with Mozilla handling my info as explained in this Privacy Policy.
+Sign up now
+We will only send you Mozilla-related information.
+Thanks!
+If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so.
+Please check your inbox or your spam filter for an e-mail from us.
+More Mozilla BlogsThe Mozilla Blog
+The Firefox Frontier
+Internet Citizen
+about:community
+Mozilla Hacks
+More articles
+privacy
+Uncategorized
+Trust
+Europe
+Security
+Data protection
+User Rights
+Do Not Track
+privacy
+Mozilla DNS over HTTPS (DoH) and Trusted Recursive Resolver
+(TRR) Comment Period:
+Help us enhance security and privacy online
+November 18, 2020
+India’s ambitious non personal data report should put privacy first, for both individuals and communities
+September 12, 2020
+Practicing Lean Data and Defending “Lean Data”
+August 20, 2020
+Australian watchdog recommends major changes to exceptional access law TOLA
+July 27, 2020
+The Facts: Mozilla’s DNS over HTTPs (DoH)
+February 25, 2020
+Uncategorized
+Mozilla reacts to publication of the EU Democracy Action Plan
+December 3, 2020
+Four key takeaways to CPRA, California’s latest privacy law
+November 20, 2020
+Mozilla Partners with the African Telecommunications Union to Promote Rural Connectivity
+October 1, 2020
+By embracing blockchain, a California bill takes the wrong step forward.
+August 6, 2020
+The Open Technology Fund’s vital role for democracy worldwide should not be undermined
+July 27, 2020
+Trust
+Mozilla reacts to publication of the EU Democracy Action Plan
+December 3, 2020
+Mozilla DNS over HTTPS (DoH) and Trusted Recursive Resolver
+(TRR) Comment Period:
+Help us enhance security and privacy online
+November 18, 2020
+Mozilla Mornings on addressing online harms through advertising transparency
+October 19, 2020
+Mozilla files comments with the European Commission on safeguarding democracy in the digital age
+September 17, 2020
+Australian watchdog recommends major changes to exceptional access law TOLA
+July 27, 2020
+Europe
+Mozilla Mornings on addressing online harms through advertising transparency
+October 19, 2020
+The EU’s Current Approach to QWACs (Qualified Website Authentication Certificates) will Undermine Security on the Open Web
+October 8, 2020
+Mozilla files comments with the European Commission on safeguarding democracy in the digital age
+September 17, 2020
+Mozilla offers a vision for how the EU Digital Services Act can build a better internet
+September 8, 2020
+Mozilla’s response to EU Commission Public Consultation on AI
+June 22, 2020
+Security
+Mozilla DNS over HTTPS (DoH) and Trusted Recursive Resolver
+(TRR) Comment Period:
+Help us enhance security and privacy online
+November 18, 2020
+The EU’s Current Approach to QWACs (Qualified Website Authentication Certificates) will Undermine Security on the Open Web
+October 8, 2020
+Australian watchdog recommends major changes to exceptional access law TOLA
+July 27, 2020
+Análise da Mozilla: a proposta de lei sobre notícias falsas do Brasil prejudica a privacidade, a segurança e a liberdade de expressão
+June 29, 2020
+Mozilla’s analysis: Brazil’s fake news law harms privacy, security, and free expression
+June 29, 2020
+Data protection
+India’s ambitious non personal data report should put privacy first, for both individuals and communities
+September 12, 2020
+Bringing California’s privacy law to all Firefox users in 2020
+December 31, 2019
+India’s new data protection bill: Strong on companies, step backward on government surveillance
+December 10, 2019
+Trusted Recursive Resolvers – Protecting Your Privacy with Policy and Technology
+December 9, 2019
+Indian government allows expanded private sector use of Aadhaar through ordinance (but still no movement on data protection law)
+March 5, 2019
+User Rights
+Criminal proceedings against Malaysiakini will harm free expression in Malaysia
+July 8, 2020
+Bringing California’s privacy law to all Firefox users in 2020
+December 31, 2019
+Trusted Recursive Resolvers – Protecting Your Privacy with Policy and Technology
+December 9, 2019
+Mozilla Mornings on the future of EU content regulation
+August 22, 2019
+Building on the UK white paper: How to better protect internet openness and individuals’ rights in the fight against online harms
+July 2, 2019
+Do Not Track
+Engaging on e-Privacy at the European Parliament
+June 7, 2017
+Prefer:Safe — Making Online Safety Simpler in Firefox
+July 22, 2014
+We’re More Than The Sum Of Our Data
+October 23, 2013
+Mozilla’s new Do Not Track dashboard: Firefox users continue to seek out and enable DNT
+May 3, 2013
+Firefox getting smarter about third-party cookies
+February 25, 2013

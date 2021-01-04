@@ -1,0 +1,48 @@
+https://www.fatpipeinc.com/privacy.php
+Privacy Statement
+In general, you can visit us on the internet without telling us who you are or giving us personal information. There are times when we may need information from you, for instance: to process an order, to correspond, to provide a subscription or in connection with a job application. We may supplement this information to complete a transaction or to provide a better service.
+When we collect information from you, you may tell us that you do not want it used for further marketing contact and we will respect your wishes. You may also turn off cookies in your browser.
+Questions about this statement or about FatPipe Networks Inc.'s handling of your information may be sent to: webmaster@fatpipeinc.com, or FatPipe Networks Inc., 392 East Winchester Street, Salt Lake City, UT 84107
+Company
+Awards
+Careers
+Press Articles
+Contact Us
+Contact Us
+Technical Support
+Resellers
+Sub-Second WAN Failover
+Customers require continuity of their connections so that critical transactions are completed and do not have to be repeated.
+FatPipe provides sub-second failover in the WAN that complements Extreme SDN Fx's sub-second failover in the LAN.
+Traffic-steering and failover are reduced to 200 ms or less.
+MPSec performs deep packet inspection and parses packets to find the optimal path; and sub-second failover provides session-connectivity without having to restart the session
+in the case of line failure, thereby reducing potential traffic security concerns.
+Critical transactions—credit card, patient information, and other continuity-required transactions—remain up and stateful without the need for resending,
+which benefits retail, health care, financial, and any institution that uses electronic payment exchanges.
+Close
+Hybrid WAN Load Balancing
+Customers require dynamic use of their multiple connections in an Active-Active or Active-Active-Active state.
+FatPipe provides connectivity using any combination of MPLS, broadband, wireless or satellite connections.
+FatPipe load balances across these multiple paths and split-tunnels the internet traffic to the public cloud for access to public servers.
+With bur stability of traffic to any additional bandwidth that may be on a backup path,
+FatPipe augments the bandwidth on the primary path.
+This benefits companies with an MPLS network or multiple dedicated internet connections by allowing the use of all available bandwidth.
+For manufacturing, SOHO and retail companies, as well as branch offices where having a large pipe may not make operational or financial sense,
+FatPipe offers the option to utilize backup paths actively rather than just standing by passively.
+Close
+Large Chemical Distributor
+A company ranked in the top 30 U.S. private companies by Forbes magazine, markets, distributes, trades and transports chemicals, and oil products. It has over two dozen offices worldwide.
+Challenge
+The company handles chemicals. Thus, its offices are located in remote areas.
+Poor communication infrastructure resulted in bandwidth bottlenecks and communication disruptions.
+Solution
+FatPipe combines any type of data lines into one high-speed Ethernet connection at multiple sites around the world
+Provides automatic failover and restoration of data services
+Assures VPN connectivity for transactions
+Benefits
+Ease of Management
+Improved Bandwidth
+WAN Aggregation of a Variety of Line
+VPN Failover to Maintain Application Continuity
+No BGP
+Close

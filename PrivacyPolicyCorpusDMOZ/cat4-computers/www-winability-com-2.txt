@@ -1,0 +1,163 @@
+https://www.winability.com/add-group-policy-local-security-policy-windows-10-home/
+If you like to tweak various hidden settings of Windows 10, you've undoubtedly encountered many methods that mentioned the use of Group Policy editor (GPEdit.msc) or Local Security Policy editor (secpol.msc). However, such tools are only available for the Windows 10 Pro users and if your edition is Windows 10 Home you are out of luck: if you tried to use nay of these tools, you have probably encountered an error message saying they were unavailable. If this situation was frustrating to you, you would be glad to know that both Group Policy and Local Security Policy editors are actually available in Windows 10 Home, they are just not configured for use. (Those Microsoft marketing people can sure find sneaky ways to nudge you toward upgrading to the Pro edition of Windows, don't they?)
+Encrypt and password-protect external drives with USBCrypt encryption software for Windows 10,8,7, and XP.
+User rating:
+4.7/5
+Purchase
+or
+download a free trial.
+Read more...
+In any case, this article is intended to show how to create a simple batch file (using Windows Notepad) that would perform the necessary configuration to enable Group Policy and Local Security Policy editors for use in Windows 10 Home edition.
+Before you continue, though, a word of CAUTION: the instructions below worked for us in out test lab at the time they were being prepared, but they MAY NOT WORK for your specific computer configuration. THE FOLLOWING INFORMATION IS PROVIDED "AS-IS" WITHOUT A WARRANTY OF ANY KIND. BY CHOOSING TO USE THE FOLLOWING INFORMATION, YOU ASSUME THE ENTIRE RISK OF SELECTION, APPLICATION, AND USE OF THE INFORMATION. INDEPENDENT OF THE FORGOING PROVISIONS, IN NO EVENT AND UNDER NO LEGAL THEORY, INCLUDING WITHOUT LIMITATION, TORT, CONTRACT, OR STRICT PRODUCTS LIABILITY, SHALL WINABILITY SOFTWARE CORPORATION OR ANY OF ITS SUPPLIERS BE LIABLE TO YOU OR ANY OTHER PERSON OR ENTITY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER MALFUNCTION, OR ANY OTHER KIND OF COMMERCIAL DAMAGE, EVEN IF WINABILITY SOFTWARE CORPORATION HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION SHALL NOT APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY TO THE EXTENT PROHIBITED BY APPLICABLE LAW. IN NO EVENT SHALL WINABILITY SOFTWARE CORPORATION'S LIABILITY FOR ACTUAL DAMAGES FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF ACTION, EXCEED THE AMOUNT OF THE PURCHASE PRICE PAID FOR THE SOFTWARE LICENSE OR ONE UNITED STATES DOLLAR, WHICHEVER IS THE GREATER.
+IF YOU DO NOT AGREE TO FULLY ACCEPT THE RISK OF USING THIS INFORMATION, STOP HERE. If you do agree, BACKUP YOUR ENTIRE WINDOWS SYSTEM INSTALLATION before continuing.
+Let's create a simple batch file that would perform the tasks needed. With File Explorer, navigate to the folder where you want to store the batch file. It could be almost any folder, for example the Downloads folder should work just fine. Now select all text in the box below (by clicking it with the mouse and pressing Ctrl+A), then press Ctrl+C to copy the text.
+@echo off
+echo This will install Group Policy editor (gpedit.msc) and Local Security Policy (secpol.msc)
+net session >nul 2>&1
+if %errorLevel% == 0 (
+echo This file is intended for use on Windows 10 Home edition only.
+echo Press any key to continue or Ctrl+C to exit.
+pause > nul
+pushd "%~dp0"
+dir /b %SystemRoot%\servicing\Packages\Microsoft-Windows-GroupPolicy-ClientExtensions-Package~3*.mum > Install-GPEdit.txt
+dir /b %SystemRoot%\servicing\Packages\Microsoft-Windows-GroupPolicy-ClientTools-Package~3*.mum >> Install-GPEdit.txt
+for /f %%i in ('findstr /i . Install-GPEdit.txt 2^>nul') do (
+dism /online /norestart /add-package:"%SystemRoot%\servicing\Packages\%%i"
+)
+pushd "%~dp0"
+del /Q Install-GPEdit.txt
+echo Press any key to exit.
+pause > nul
+) else (
+echo -------------------------------
+echo Run this file As Administrator!
+echo -------------------------------
+echo Press any key to exit.
+pause > nul
+)
+Now use Windows Start menu to run Notepad and press Ctrl+V to paste the text you've just copied into an empty Notepad window. Finally, use File - Save As on the Notepad menu to save the file to the Downloads folder. Give the file an appropriate name, such as Install-GPEdit.bat (make sure that the name ends in .bat) and, before pressing the Save button, make sure to select All files in the Save as type list:
+Now back to File Explorer, right-click on the file you've just saved and choose Run as Administrator. You should be prompted to enter any key to continue, or you can press Ctrl and C at the same time to abort the procedure if you've changed your mind. If you do want it to proceed, press any key (the Enter key should work just fine), and after a few seconds the Group Policy and Local Security Policy editors should be installed and available for use with your Windows 10 Home computer:
+Take control of your files and folders with AB Commander file manager for Windows 10,8,7,Vista, and XP.
+User rating:
+4.8/5
+Purchase
+or
+download a free trial.
+Read more...
+To verify the success, press the WIN+R keys and enter gpedit.msc as the command to run. If it opens the Group Policy editor window, it worked. Now try the same WIN+R keys but this time enter secpol.msc as the command. Congratulations, you can now tweak your Windows settings and policies just like Windows 10 Professional users do!
+Happy settings tweaking!
+If you want to link to this article, you can use this HTML code: <a href="https://www.winability.com/add-group-policy-local-security-policy-windows-10-home/">How to add Group Policy and Local Security Policy to Windows 10 Home</a>
+Read more
+Solved: How to add Group Policy and Local Security Policy to Windows 10 Home
+File too large for USB drive? Here is how to fix it.
+Forget your WI-FI password? Find it in Windows 10 settings
+What is FAT32 maximum file size limit?
+How to create a secret folder with Folder Guard for Windows 10
+How to easily password-protect Windows 10 Linux folders with Folder Guard
+How to reset the root password after upgrading MariaDB
+How to upgrade MySQL or MariaDB properly
+Force DISKPART to delete EFI system partition on Windows 10
+How to make Windows 10 recognize a cloned hard drive again
+How to stop Windows 10 from using thumbnail preview icons for folders
+How to hide pictures from the Photos app in Windows 10
+How to save Windows Spotlight photos to your computer
+How to move the OneDrive folder to an encrypted drive
+Windows 10 fails to upgrade? Here is how to fix it.
+How to stop Microsoft Edge from hijacking PDF files
+Preventing installations of specific programs with Folder Guard
+Folder Guard licensing explained
+Speed up the updates of the network folders
+Make your Windows laptop work as a Wi-Fi access point
+How to stop automatic updates on Windows 10
+Windows cannot connect to the printer. Access is denied.
+Migrating encrypted data from TrueCrypt to USBCrypt
+Enhancing a photo CD collection with PhotoLauncher
+“The Microsoft account service is unavailable right now. Try again later.”
+Using DiffMerge as the external tool of AB Commander to compare plain text files
+How to erase the icon cache and/or thumbnail cache in Windows 10
+Transferring images between your PC and an Android device: Part 2
+Transferring images between your PC and an Android device: Part 1
+Case study: Using SoftDetective to suppress Corel Guide sign-in prompt
+Using junction points to change the iTunes backup folder location
+How to tell if my Windows is 32- or 64-bit?
+How do I stop Windows from rearranging my desktop icons?
+Organize your photo library with the Rename tool of AB Commander
+Windows does not offer the NTFS format option? Here is how to bring it back.
+Encrypt Firefox profile, bookmarks, and cookies with USBCrypt
+Restarting Windows 10 and Windows 8 in the safe mode
+Integrating AB Commander with Universal Viewer
+How to delete a protected EFI system partition with Windows 10, 8, or 7
+Using Folder Guard to protect from the social engineering attacks
+How to erase Windows login password if you forget it
+How to unhide a folder hidden with Folder Guard
+How to repair Windows desktop icons with AB Commander
+Slow network in Windows 7 Virtual PC? Speed it up!
+How to show drive letters first in AB Commander and Windows Explorer
+What is my IP address?
+Why can’t I copy large files over 4GB to my USB flash drive or SD card?
+Test the strength of your password with USBCrypt
+How to set up an external text editor for AB Commander
+How to restrict Internet Explorer from downloading programs from the Internet
+Personal vs business license for USBCrypt
+Use Folder Guard to restrict access to Control Panel
+Compare MySecretFolder and Folder Guard
+Hide folders and make files invisible with Folder Guard
+WINEXIT vs ActiveExit: automatically log off users from Windows 10
+Password protect folders, lock files and folders with passwords
+How to restrict access and lock external drives with Folder Guard
+How to password-protect Dropbox folder with USBCrypt
+How to set up Folder Guard to stop downloading from the Internet
+Is [Wipe the content] the same as [Secure Delete]?
+How to encrypt and protect the system C: drive with USBCrypt
+Make it easier to return your lost encrypted drive
+USBCrypt for users of Microsoft® Office
+How to start programs elevated from a batch file
+How to make elevated programs recognize network drives
+How to disable hibernation with AB Commander
+Using names and labels to organize USBCrypt drives
+How to password-protect a USB flash drive
+Always have a backup of your important files
+Leave a comment Cancel replyYour email address will not be published. Required fields are marked *Comment See below before pressing the SUBMIT button!Name *
+Email *
+Website
+IMPORTANT! Do not put any URLs in the comment, or it will be rejected. Before submitting, please solve the following simple math problem (so we know that you are not a spambot) :-) What is three minus 2 ?Please enter the answer as a number, 1 through 9:Please leave these fields as-is:
+Useful Windows utilities, security and encryption software
+Folder Guard
+Password-protect and hide personal files and folders with Folder Guard for Windows 10, 8, 7, and XP. Read more...
+USBCrypt
+Encrypt and password-protect flash drives, external and internal USB and other drives with USBCrypt software for Windows 10, 8, 7,
+and XP. Read more...
+AB Commander
+Take control of your files and folders with AB Commander file manager for Windows 10, 8, 7, Vista, and XP.
+Read more...
+SOFTWARE
+Folder Guard
+USBCrypt
+AB Commander
+StartFinity
+MySecretFolder
+Space Investigator
+SoftDetective
+ActiveExit
+TweakUAC
+Icon Shepherd
+PURCHASE
+Purchase Folder Guard
+Purchase AB Commander
+Purchase USBCrypt
+Upgrade…
+Purchase Orders…
+More…
+DOWNLOAD
+Download Folder Guard
+Download USBCrypt
+Download AB Commander
+Download Icon Shepherd
+More…
+HELP
+Frequently Asked Questions (FAQ)
+Privacy policy
+Folder Guard User’s Guide
+USBCrypt User’s Guide
+AB Commander User’s Guide
+Contact us…

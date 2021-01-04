@@ -1,0 +1,248 @@
+http://www.mythic-beasts.com/terms/privacy
+Privacy Policy
+Our compliance with Data Protection legislation, including GDPR
+User ID:
+—
+Customer:
+—
+login
+Mythic Beasts Ltd provides a variety of internet hosting services.
+These services include domain registration, SSL certificate procurement,
+DNS configuration, running shared servers to host customer websites and
+email, providing virtual servers and dedicated servers, co-locating
+customer hardware, managing servers on behalf of customers, and
+providing backups.
+Providing these services can result in Mythic Beasts
+processing personal data.
+In doing so, it is our policy to comply with
+all applicable provisions of the Data Protection Acts and the General
+Data Protection Regulation (GDPR), and to make all reasonable efforts to
+keep personal data secure and up-to-date.
+The GDPR makes a distinction between personal data that we collect for
+our own purposes, and personal data which we process on behalf of third
+parties, typically a customer.
+For the former class of data, Mythic
+Beasts are the data controller; in the latter case, we are the data
+processor acting for a third-party data controller.
+It is the data
+controller who has ultimate responsibility for ensuring data is only
+processed for legitimate purposes, is kept secure, and is not retained
+longer than necessary.
+When are Mythic Beasts the data controller?
+We are the data controller for all systems which are for our
+internal use.
+This includes our systems for customer support,
+billing, finances and human resources.
+We are the data controller for all personal data on our mail hubs.
+Customers have no access to these (other than to send mail through
+them) and have relatively little control over how mail is processed
+on them.
+We are the data controller for all personal data on our nameservers,
+other than any personal data which customers may have put into their
+zone files, for which we are just a data processor.
+We are the data controller for all personal data in server logs on
+our shared hosting servers, except where we have given the user
+control over what is logged and how long the logs are retained, and
+the ability to delete logs, in which case we are just a data
+processor.
+We are a data processor of all user data on shared hosting servers
+or shared database servers.
+This includes data stored on websites,
+in mailboxes, or in databases.
+We are a data processor for all personal data on any customer’s
+virtual server, dedicated server or co-located server which we have
+been given permission to access, whether via a server management
+contract or through some other arrangement.
+We are a data processor for all personal data which is backed up to
+our backup servers, unless the data being backed up is data for which
+we are data controller, in which case we are data controller for the
+backup too.
+We are neither the data controller nor a data processor of personal
+data on any virtual server, dedicated server or co-located server
+which the customer has not given us permission to access,
+notwithstanding the fact that it may sometimes technically be
+possible for us to gain access to them.
+Our responsibilities as a data controller
+This section describes the types of personal data Mythic Beasts is
+responsible for as a data controller, how long we retain it, what we do
+with that data, and when we are permitted to disclose that data to a
+third party.
+What information do we collect?
+We hold and process the following types of personal data:
+Contact information of anyone authorised to liaise with us on behalf
+of a customer.
+This information includes the contact’s name,
+organisation name, email address, postal address, phone number and
+fax number.
+Details of payments made to us or by us.
+This may include the
+contact information of the card holder or account holder from whom a
+payment was received.
+It does not include the bank account number
+when paying by bank transfer or direct debit, nor does it include
+the card number when paying by credit or debit card.
+Payroll and human resources information for employees and job
+applicants.
+This includes employee health and absence information
+which is special category data in the meaning of the GPDR.
+Administrative records such as contact details, bank account details
+(where provided for electronic payment), accounting records,
+correspondence files and contact information for suppliers and
+others.
+Access credentials (typically usernames and passwords) created by or
+provided to customers and other users in order to access our
+services.
+Server logs.
+These generally details of the service being accessed,
+the date and time of the connection, the IP address used to connect
+to the service, and any username used to authenticate access to the
+service.
+Passwords are never logged.
+a.
+Web server logs include the URL being accessed (including any
+“GET” CGI parameters), and the user-agent string which typically
+identifies the name and version of the web browser or operating
+system.
+Content in the bodies of HTTP requests or responses is
+not logged.
+b.
+Email server logs include the envelope sender and recipients,
+and the subject line of the email being sent.
+Content in the
+bodies of email messages is not logged, but may be processed by
+spam detection software and the result of this logged.
+A log of major operations performed via our control panel, such as
+when a server is rebooted, or the nameservers for a domain are
+changed.
+Correspondence sent to or by the company, or its employees and
+contractors when acting on the company’s behalf.
+How long do we retain this data?
+Contact information for customer account contacts is held until
+either it is replaced, or 11 years has elapsed since the account
+last had an active service or product attached to it.
+This includes
+the name of the company or organisation holding the account.
+The amount and date of customer payments, the type of service or
+product purchased, and the applicable customer account number is
+retained indefinitely.
+However the deletion of the account contact
+information, as described above, leaves this information anonymised.
+Financial and administrative records, including payroll information
+and any additional details associated with customer payments, may be
+held for up to 11 years in order to conform to the current EU VAT MOSS
+requirements.
+Human resources information is held for 8 years.
+Information on
+unsuccessful candidates is deleted within a year of application,
+unless otherwise requested by the applicant (which consent may be
+withdrawn at any time).
+Access credentials are held only for as long as they are valid.
+They are deleted once the service to which they pertain is
+cancelled, or the credentials are changed.
+Server logs are normally held for 30 days or less.
+In some cases,
+it is necessary to store logs for a longer period to comply with the
+Investigatory Powers Act or other legislation.
+For this reason,
+email logs are normally retained for 12 months.
+The log of major operations performed through the control panel is
+retained for 3 years.
+Correspondence may, at the company’s discretion, be held indefinitely.
+How do we use this data?
+We use your contact information to contact you as necessary to provide
+the services or products you ordered, including when issuing invoices,
+to remind you when a product or service is about to expire, to inform
+you of any changes which may affect your account or the services we are
+providing to you, or to alert you to any problems with your account or
+services we are providing to you.
+We also use your contact information
+to identify you when you contact us.
+If you have explicitly opted to receive such communications, we may also
+use your contact information to send you occasional informational or
+marketing materials about Mythic Beasts and our services and products.
+You may withdraw your consent at any time, either through our control
+panel or by contacting us.
+We process personal data, particularly server logs, to detect illegal
+activity or unauthorised use of our server, such as in sending or
+relaying of unsolicited bulk email (spam), attempting to gain
+unauthorized access to other equipment connected to the Internet, or
+mounting denial of service attacks on other equipment; and to identify
+the cause of any such activity detected.
+We may use personal data to review and improve the services we offer.
+This may include analysing our logs to understand how our services are
+used, and reviewing past correspondence to understand what difficulties
+have arisen.
+Access credentials are used to ensure only authorised persons can access
+our services.
+Passwords are always stored using a one-way hash.
+Disclosure of your data to third parties
+Mythic Beasts Ltd will not disclose your personal data except as
+described below.
+We may enter enter into a contract with a third party to process data
+which may include your personal data.
+In such a situation, the third
+party will be acting as the data processor under us as data
+controllers, and the data processor will be based in the United
+Kingdom or European Economic Area.
+If you register a domain, you are required to provide contact
+information which we pass to the domain registry, which may disclose
+the information further (via the whois service or otherwise).
+We
+allow you to customise the information provided, but it is not
+normally possible to opt out of providing this information
+altogether.
+There can be costs associated with subsequently
+changing this contact information, and other restrictions may be
+placed on changes to the provided information.
+We believe it is
+likely that the compatibility of this process with the GDPR will be
+tested in court in the near future, and it will very probably have
+to be changed as a result.
+If you use a service which requires sending you an SMS message –
+such as if you enable two-factor authentication on your account or
+configure SMS monitoring of a server – we may disclose your phone
+number to an SMS provider who may be outside the European Economic
+Area.
+Your data will be disclosed or shared if there a legal duty to do
+so, or as ordered by a competent court or law enforcement agency.
+We may disclose, share or transfer your personal data to any future
+subsidiary company or holding company.
+In the event that Mythic Beasts Ltd sells all or substantially all
+of its assets to a third party, your personal data will be
+transferred to that party.
+Our responsibilities as a data processor
+We are a data processor of customer data on some customer or shared
+servers.
+Unless the customer has informed us, we do not in general know
+whether the data includes personal data, and if so whether is special
+category data as defined by the GDPR.
+However we assume by default that
+it will contain unspecified personal data.
+About us
+Mythic Beasts Ltd is a privately owned limited company registered in
+England and Wales, company number 04052652.
+In this policy, Mythic
+Beasts Ltd is sometimes referred to as “we”, “us” or “our”, depending on
+context.
+Our postal address is 103 Beche Road, Cambridge, CB5 8HX.
+Our
+email address is support@mythic-beasts.com..
+Mythic Beasts
+Home
+Terms and Conditions
+Privacy Policy
+Contact
+Follow us on
+Twitter
+About Us
+Mythic Beasts is a privately owned hosting ISP with a focus on a no-nonsense service backed by
+excellent technical support
+More about Mythic Beasts…
+Contact Us
+We realise that the range of options can be daunting, and are always very
+happy to offer advice on what makes sense for you.
+Drop us an email and we'll do our best to help.
+sales@mythic-beasts.com
+Other ways to contact us
+Copyright © 2013 - 2020 Mythic Beasts Ltd
+Raspberry Pi is a trademark of the Raspberry Pi Foundation

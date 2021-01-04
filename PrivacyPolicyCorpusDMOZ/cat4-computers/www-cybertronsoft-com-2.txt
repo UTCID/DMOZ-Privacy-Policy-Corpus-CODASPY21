@@ -1,0 +1,154 @@
+https://www.cybertronsoft.com/products/privacy-drive/
+Cybertron Software
+English (United States)
+English (United States)
+French
+German
+Italian
+Japanese
+Spanish
+Portuguese
+Chinese (Simplified)
+Chinese (Traditional)
+Toggle navigation
+Home
+Products
+Privacy Eraser
+Privacy Drive
+All Products
+Download
+Purchase
+Support
+Online Help
+Support Center
+Company
+About Us
+Contact Us
+Partners
+Press Center
+Media Kit
+Newsletter
+Home
+Products
+Privacy Drive
+Privacy Drive - Secure Sensitive Data & Protect Your Privacy!
+On-the-fly encryption software to lock, hide and encrypt all kind of pictures, videos, documents, files and folders, password protects your sensitive data from unauthorized access.
+Download
+Buy Now!
+Overview
+Features
+System Requirements
+Screenshots
+FAQs
+Privacy Drive is easy to use encryption software that uses Virtual Disk and "on the fly" disk encryption technology to not only lock and encrypt your data, but also hide it. Whatever you want to keep away from prying eyes - photographs, videos, graphic files, documents, spreadsheets or even whole folders. All of your private information will be fully protected from unauthorized access.
+Using industry-leading 256 bit encryption algorithms, Privacy Drive can create as many encrypted volumes as you need to mount as virtual disks. Once mounted they can be used as other regular hard drives. All data on the virtual disks is encrypted and unencrypted automatically before they are saved or loaded. So there's no need to encrypt or decrypt each file or folder individually.
+When you have finished working with your private data and you want to lock folders and files, simply dismount the virtual disk, and everything will be instantly protected. Without the correct password, nothing from the encrypted volume can be read or accessed.
+You can also share, copy and transfer your encrypted volumes via email, backup, external hard drives, CD/DVD, Cloud Servers (eg Microsoft OneDrive, Dropbox or Google Drive) or any other portable storage device.
+This allows you to take your confidential data and information anywhere you want, without the fear of data loss or theft.
+Privacy Drive supports AES 128-bit & 256-bit industry standard encryption algorithms, works on Microsoft Windows 10/8.x/7/Vista/2012/2008 (32/64-bit) and supports FAT16/FAT32/exFAT/NTFS file systems.
+Major Features:
+Virtual Disk & User-transparent "On-the-Fly" Disk Encryption Technology.You don't need to manually encrypt or decrypt each and every file or folder.
+Lock, hide, encrypt and password protect all kind of pictures, videos, documents, files and folders.
+Simple drag and drop to encrypt files & folders, just like using normal hard drive.
+Support AES 128-bit & 256-bit industry standard encryption algorithms.
+No limit of the numbers of files and folders protected.
+Protected data is highly portable.Encrypted volumes can be stored on external hard drives, USB drives, Firewire drives, CD/DVD and Cloud Servers (such as Microsoft OneDrive or Google Drive).
+Support for Deniable Encryption.Encrypted volumes do not contain any signatures that would prove this is an encrypted volume or container.
+No Backdoors.Encrypted data is protected from being accessed/modified by unauthorized users.
+And much more...
+Key Benefits:
+Easy to use
+By using Virtual Disk & "On-the-Fly" Disk Encryption Technology, Privacy Drive has made security as simple as using your hard drive. Files can be created, saved and opened just as before. As long as they are put onto the virtual disk, they are automatically encrypted or decrypted on-the-fly.
+SpeedAll algorithms are optimized and blazing fast! Privacy Drive processes data on-the-fly meaning data only gets decrypted when it is accessed. Other file encryption software encrypts or decrypts the entire file before you can use it. Privacy Drive does this automatically in the background and only to the data that you access, saving valuable time and system resources.
+SecurityPrivacy Drive uses industry trusted and proven algorithms. Among the chosen algorithms is AES, the Advanced Encryption Standard, selected by the NIST to be the US Federal Government standard to protect sensitive information.
+Intel/AMD or other compatible processor
+Microsoft Windows 10/8.x/7/Vista/2012/2008 (32/64-bit)
+1GB of RAM or more
+10MB of available hard disk space
+Welcome
+Main Window
+Create
+Creating
+Mount
+Properties
+Change Password
+Settings
+About
+Expand all
+Why do you need Privacy Drive?
+For protecting sensitive information. For example, you can hide your sensitive data from other people who might have access to your computer, or encrypt your files on a removable storage device for transportation to prevent that the files can be accessed when the device is stolen or lost.
+How does it work?
+The encryption engine of Privacy Drive operates at system kernel level between the operation system and the virtual disk, providing user-transparent, on-the-fly disk encryption and decryption. Every read operation on the virtual disk causes decryption of the data to be read to RAM memory, and every write operation causes encryption of data to be written to disk. All data are automatically encrypted or decrypted right before they are saved or loaded, without any user intervention. This "On-the-Fly"
+encryption technology is called Transparent Encryption.
+Your data is always stored in safe, encrypted form, entire file system is encrypted (e.g., file names, folder names, contents of every file, free space, meta data, etc.). There is no data stored on an encrypted volume can be read (decrypted) without using the correct password.
+How strong is protection in Privacy Drive?
+The program uses the AES-256 encryption algorithm (with the 256-bit key length). Currently, there are no computers that could break the encryption key in a reasonable amount of time (it will take millions of years).
+How can the password be broken?
+A password, or more precisely its hash (SHA-256 or SHA-512), is used to protect the encryption key. Neither the password nor its hash is stored anywhere. You enter it while mounting an encrypted volume. If the password is not correct, it will be impossible to get the encryption key and consequently to decrypt data info.
+We recommend that you do not use short or simple passwords. Choose something that will be easy for you to remember but hard for others to guess.
+Is there a "Backdoor" in the software?
+Absolutely No! Please keep in mind your password. If you forget your password, you will not be able to access your data anymore. There is no special procedure, secret code, or hidden entry method to fall back on.
+What is Encryption & Decryption?
+Encryption is the conversion of data into a form, called a ciphertext, that cannot be easily understood by unauthorized people. Decryption is the process of converting encrypted data back into its original form, so it can be understood.
+What is Encrypted Volume & Virtual Disk?
+Encrypted Volume: A special container that will be used to store encrypted data, it can be mounted as a virtual disk. All files and folders stored in the virtual disk are automatically stored in the container file in encrypted form. The container file is called encrypted volume. By default, the container file has a .pdv file extension, however you can store your encrypted data to a file with any extension.
+Virtual Disk: A virtual device that will be used to access encrypted volume. You can use the virtual disk to access encrypted data (pictures, videos, documents, files and folders.) that stored in encrypted volume.
+What is the maximum size of encrypted volume?
+The maximum file size is limited by 2GB for FAT16, 4GB for FAT32, 16EB for exFAT and NTFS file systems.
+As designed, the maximum NTFS file size is 16EB minus 1kB. As implemented, the maximum NTFS file size is 16TB minus 64kB (Windows 7, Windows Server 2008 R2 or earlier implementation). With Windows 8 and Windows Server 2012, the maximum NTFS file size is 256TB minus 64KB.
+Is it possible to increase the size of encrypted volume?
+No. In this case, you should create a new encrypted volume with a larger size and copy all the data into it.
+How to delete an existing encrypted volume?
+First you need to dismount the encrypted volume, then right-click on it, click "Delete from disk" on the popup-menu. You can also delete its .pdv file directly from hard drive as long as it's not being used.
+Can I share the vitual disk on a network?
+Yes, you can. The virtual disk look like usual local disk, and any software or operating system utility will work with the virtual disk in the usual way. As an example of this feature, the virtual disk can be shared on a network in the same way as other local drives.
+Can I store the encrypted volume on a network share?
+Yes, you can. It is safe to store and mount an encrypted volume on a network share since Privacy Drive automatically encrypts the data transmitted over the network.
+How to use Dropbox/OneDrive/Google Drive to backup encrypted files?
+There are two solutions:
+1. If you place Dropbox folder in virtual disk, all files in the folder will be "read-out" from the disk and synced to your Dropbox account by Dropbox client. That means all files in the folder will be first decrypted to RAM memory by the encryption engine of Privacy Drive and then be synced to your Dropbox account. In this case, all your files are stored in normal/unencrypted form on Dropbox cloud servers.
+2. If you place the encrypted volume (.pdv file) in Dropbox folder, the .pdv file will be "read-out" from the folder and synced to your Dropbox account. You can then mount the .pdv file from anywhere, anytime to access the protected data. When you finish your work, simply dismount the encrypted volume and Dropbox client will automatically sync any changes that have been made within the .pdv file. In this case, the .pdv file is always stored in encrypted form on Dropbox cloud servers.
+What happens after the license period expires?
+You will not be able to create new encrypted volume and existing encrypted volumes will be mounted as read-only mode. You can always download the latest updates from our website at any time of your convenience.
+How to install Privacy Drive?
+If you download Privacy Drive self-extracting setup file from Internet. Just double click the setup file in Windows Explorer and the setup process will start. If you download the Privacy Drive zip package, please extract all files from the package into a temporary directory using your archiver, such as WinZip or WinRAR. Run the installation program(setup.exe), follow the instructions that appear on the screen.
+How to uninstall Privacy Drive?
+There are two ways to uninstall Privacy Drive:
+1. Click Start > All Programs > Privacy Drive > Uninstall Privacy Drive
+2. Click Start > Control Panel > Programs and Features or Add/Remove Programs > Privacy Drive
+Download
+Buy Now!
+What's New
+11/1/2019 - Privacy Drive v3.17 Released.
+6/1/2019 - Privacy Drive v3.16 Released.
+11/1/2018 - Privacy Drive v3.15 Released.
+More...
+Awards
+More...
+Testimonials
+"It's a very nice and easy to use file encryption software. As a lawyer, it is really important for me to keep my client's documents secure. Privacy Drive has now become an integral part of my professional life."
+John Terry
+More...
+Home
+Products
+Privacy Eraser
+Privacy Drive
+All Products
+Download
+Purchase
+Support
+Online Help
+Support Center
+Company
+About Us
+Contact Us
+Partners
+Press Center
+Media Kit
+Newsletter
+Follow Us
+Facebook
+Twitter
+Spread Your Love
+Copyright © 2002-2020 Cybertron Software Co., Ltd. All rights reserved.
+Terms of Use | Privacy Policy

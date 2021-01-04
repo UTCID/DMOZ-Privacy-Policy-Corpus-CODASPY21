@@ -1,0 +1,456 @@
+http://www.veluxusa.com/help/support/activesupport
+Product Registration
+Catalog
+BIM Models & Specs
+Media & Press
+Find an installer
+Find Dealer
+Contact Us
+VELUX ACTIVE with NETATMO support
+Search
+Compatibility
+My installation
+Using my app
+Measurements & automation
+My data
+HomeKit
+Google Assistant
+Frequently asked questions
+I have upgraded to iOS 14.2 and I can’t set up my VELUX ACTIVE with Netatmo. What should I do?
+A bug has occurred in iOS 14.2, preventing the full Wi-Fi configuration of VELUX ACTIVE.
+NOTE:
+This does NOT impact the day-to-day use of your VELUX ACTIVE app. Only the initial product setup and its Wi-Fi reconfiguration are affected.
+If you have updated your iOS device to 14.2, here is a workaround to help you set up VELUX ACTIVE:
+USE THE iOS Wi-Fi SETTINGS
+You can use the iOS Wi-Fi settings to configure your product. Please follow the steps below.
+Open your VELUX ACTIVE app.
+If you are:
+Trying to reconfigure the Wi-Fi of your product, go to Settings > Home Management > VELUX Gateway > Setup Wi-Fi.
+Setting up the product for the first time, select VELUX ACTIVE in the list.
+Follow the steps within the app to put VELUX ACTIVE in Wi-Fi configuration mode.
+When you can see this screen, go to your iOS Wi-Fi settings WITHOUT force quitting the VELUX ACTIVE app.
+Wait for your product to appear in the “Set up new device” section of the screen (this might take a few minutes).
+Select your Wi-Fi network in the list and press “Next”.
+When the “Setup Complete” screen appears, immediately return to the VELUX ACTIVE app.
+Follow the steps in the app to finish the setup.
+If you use an Android device or an iOS device that has not been updated to iOS 14.2, you can complete the installation of VELUX ACTIVE without going through these steps.
+Where can I find the MAC address and/or serial number of my product?
+If your gateway is already installed, you can find the MAC address in the VELUX ACTIVE app. Go to: Settings > Home management > Gateway > MAC address and look for the 12-character code: "70: ee :50: xx: xx: xx". If you haven't installed your gateway, you can find the MAC address printed on the back of the gateway. Look for the 7-character code in the format "g:xx:xx:xx" (the last part of the gateway serial number which is located on the 3rd line).
+I cannot connect my VELUX ACTIVE with NETATMO to my Wi-Fi network. What should I do?
+"Some Wi-Fi networks are incompatible with the VELUX ACTIVE with NETATMO gateway:
+- Public and enterprise networks.
+- Networks that only use the 5GHz band.
+- Networks behind an authentication portal.
+Make sure your smartphone is properly connected to a functional Wi-Fi network before beginning the installation.
+Then follow these steps:
+1. Reboot the Wi-Fi router and smartphone.
+2. Check the gateway is connected to power (small wihite LED is on next to the mains cable)
+3. If you have any Wi-Fi boosters/repeaters in your network, make sure each available access point has a different name (SSID) and check that the gateway is being connected to the access point with the strongest signal.
+If the above steps doesn't solve your problem, then you should check your router settings by connecting to the router's configuration page (refer to your router's user manual).
+- Update the router to its latest firmware version.
+- Set a simpler Wi-Fi password, without special characters.
+- Ensure there is no MAC filtering enabled on the router (or make sure the gateway is in the white-list).
+- Ensure access restrictions (parental control, etc.) are disabled.
+- Check if the router has a sleep function. If so, disable that function
+- Disable the Wi-Fi channel restriction (enable automatic selection), or select channel 1, 6 or 11.
+- Check that 2.4GHz is also enabled if the router is dual band compatible (VELUX ACTIVE with NETATMO can only connect to 2.4GHz networks). Try also to disable 5GHz.
+- Check that UPnP is enabled.
+- Try to replace the current DNS servers with Google's (Primary: 8.8.8.8 / Secondary: 8.8.4.4).
+- Check if your router has any firewall / port filtering. If so, open the 25050 port (TCP).
+- Give the gateway a static IP with it's MAC address."
+How can I share access to my VELUX ACTIVE?
+You can invite and share access with a new user by opening the app and locating: "Settings > Guest management > Invite a user"
+Can I define a group of products to be controlled together?
+Product groupings cannot be created in the app. If you would like to move multiple products to the same position, this must be done one-by-one.
+You can control groups of the same type of products from the sensor switch. Groups are always skylights or blinds.
+Guidance for setup
+VELUX ACTIVE departure switch setup guide
+Download departure switch guide
+VELUX ACTIVE climate sensor setup guide
+Download climate sensor guide
+VELUX ACTIVE climate control setup guide
+Download climate control guide
+Apple HomeKit setup guide
+Download Apple homekit guide
+Compatibility
+Is the app available for my phone?
+The app is available for iOS 9.0 or later on the Apple App Store and for Android 5.0 or later on Google Play.
+How many users (or app instances) can I connect to my VELUX ACTIVE gateway?
+You can connect up to 15 users to one gateway.
+How many homes can I control from the app?
+You can control up to 5 different homes from the app
+What types of Wi-Fi network is required?
+VELUX ACTIVE requires a personal Wi-Fi network. It cannot be configured on a public hotspot or an enterprise network. You need a 2.4 GHz (802.11 b/g/n) Wi-Fi with WEP, WPA or WPA2-Personal network security settings.
+How many products can be controlled by VELUX ACTIVE with NETATMO?
+VELUX ACTIVE can control up to 200 products. Apple HomeKit supports up to a maximum of 100 products.
+How many sensors can I add to my VELUX ACTIVE gateway?
+You can add up to 10 sensors to one VELUX ACTIVE gateway. If more than 10 sensors are required, you must divide your house in two regions and use one gateway for each region.
+How many switches can I add to my VELUX ACTIVE gateway?
+VELUX ACTIVE has a limit of 5 departure switches per gateway.
+If more than 5 switches are required, you must divide your house in two regions and use one gateway for each region.
+My installation
+I have upgraded to iOS 14.2 and I can’t set up my VELUX ACTIVE with Netatmo. What should I do?
+A bug has occurred in iOS 14.2, preventing the full Wi-Fi configuration of VELUX ACTIVE.
+NOTE:
+This does NOT impact the day-to-day use of your VELUX ACTIVE app. Only the initial product setup and its Wi-Fi reconfiguration are affected.
+If you have updated your iOS device to 14.2, here is a workaround to help you set up VELUX ACTIVE:
+USE THE iOS Wi-Fi SETTINGS
+You can use the iOS Wi-Fi settings to configure your product. Please follow the steps below.
+Open your VELUX ACTIVE app.
+If you are:
+Trying to reconfigure the Wi-Fi of your product, go to Settings > Home Management > VELUX Gateway > Setup Wi-Fi.
+Setting up the product for the first time, select VELUX ACTIVE in the list.
+Follow the steps within the app to put VELUX ACTIVE in Wi-Fi configuration mode.
+When you can see this screen, go to your iOS Wi-Fi settings WITHOUT force quitting the VELUX ACTIVE app.
+Wait for your product to appear in the “Set up new device” section of the screen (this might take a few minutes).
+Select your Wi-Fi network in the list and press “Next”.
+When the “Setup Complete” screen appears, immediately return to the VELUX ACTIVE app.
+Follow the steps in the app to finish the setup.
+If you use an Android device or an iOS device that has not been updated to iOS 14.2, you can complete the installation of VELUX ACTIVE without going through these steps.
+I'm having trouble installing the VELUX ACTIVE with NETATMO starter pack. What should I do?
+Please refer to the video tutorial or follow these steps:
+1) Download the VELUX ACTIVE app from the Apple App Store or Google Play. Avoid downloading the app from sites other than the Apple App Store or Google Play. If you already have the app installed on your smart phone, delete it and download the latest version.
+2) Connect the VELUX ACTIVE gateway to your mains power supply.
+3) Connect your mobile device to the Wi-Fi network that you intend to use for the gateway.
+4) Follow the installation instructions in the app:
+- Create a VELUX account (or use your existing account)
+- Connect/pair the gateway with your router
+- Pair all sensor & departure switches with your gateway
+- Copy all products from your remote(s) to the gateway
+- Build your home in the app by defining rooms and placing the products in the rooms
+Your VELUX ACTIVE solution is now ready for use.
+Important: When naming your rooms and products, be careful not to use the room type within the product name, as this can cause a naming conflict. Keep room type names (Bathroom, Kitchen, etc) for the rooms and product type names (Skylight, Blind, etc.) for the products. This will create the best integration with Siri (Apple HomeKit) voice commands. If you are using English language for Siri, name your rooms and products with English names/terms for best performance.
+Where can I find the MAC address and/or serial number of my product?
+If your gateway is already installed, you can find the MAC address in the VELUX ACTIVE app. Go to: Settings > Home management > Gateway > MAC address and look for the 12-character code: "70: ee :50: xx: xx: xx". If you haven't installed your gateway, you can find the MAC address printed on the back of the gateway. Look for the 7-character code in the format "g:xx:xx:xx" (the last part of the gateway serial number which is located on the 3rd line).
+How can I download the app?
+For iOS devices (Apple) go to Apple App Store, for Android devices go to Google Play. Search for VELUX ACTIVE Indoor Climate Control and download the app.
+Can I install VELUX ACTIVE with NETATMO without the sensors?
+Yes, it is possible but it is advised to install a sensor in each room to gain the full benefit of the VELUX ACTIVE indoor climate control system. You can skip the sensor registration during the installation if you select "It's done" when asked in the app to insert batteries in the switches, and then press "All my switches are here" on the following screen after the search is completed.
+How can a new user access to the app and  my VELUX ACTIVE with NETATMO solution?
+There are two ways to add a new user to an existing VELUX ACTIVE solution:
+1. The new user gets the information about the account email and password and simply logs on to the same account as the existing user
+2. An existing user can invite and grant access a new user. This is done in the app in: "Settings > Guest Management > Invite a user".
+Note: As VELUX ACTIVE is very secure, the new user needs to retrieve a security key from the gateway to gain full access (please follow the instructions in the pop-up messages in the app).
+I have a new phone or tablet. How do I access my existing VELUX ACTIVE with NETATMO solution?
+You can download the app on your new device and login with your existing account.
+Note: VELUX ACTIVE is very secure, you need to retrieve a security key from the gateway to gain full access (please follow the instructions in the pop-up messages in the app).
+Can I connect an Apple and Android phone to VELUX ACTIVE with NETATMO at the same time?
+Yes, VELUX ACTIVE can be accessed by any mobile device - Apple or Android.
+How can I know if my gateway is properly powered?
+You should see a white LED next to the power cable connector on your VELUX ACTIVE gateway. Check that the mains cable is connected to the gateway and that the mains switch is ON. If already connected, please unplug the gateway for 10 seconds and plug it in again.
+Where should I place my gateway?
+Place your gateway in a central location to ensure a stable wireless connection to all your VELUX products and to your Wi-Fi router. The Wi-Fi signal strength can be displayed by entering:  "Settings > Home management" in your VELUX ACTIVE with NETATMO app. After determining the optimal position, you can mount the VELUX ACTIVE gateway on the wall using the installation bracket.
+I bought a new VELUX ACTIVE with NETATMO to replace an old one. How can I transfer my old data?
+You must create a new installation when replacing the gateway. For security reasons, you cannot transfer information from one gateway to another, but you can keep your existing VELUX account for the new gateway.
+I cannot connect my VELUX ACTIVE with NETATMO to my Wi-Fi network. What should I do?
+"Some Wi-Fi networks are incompatible with the VELUX ACTIVE with NETATMO gateway:
+- Public and enterprise networks.
+- Networks that only use the 5GHz band.
+- Networks behind an authentication portal.
+Make sure your smartphone is properly connected to a functional Wi-Fi network before beginning the installation.
+Then follow these steps:
+1. Reboot the Wi-Fi router and smartphone.
+2. Check the gateway is connected to power (small wihite LED is on next to the mains cable)
+3. If you have any Wi-Fi boosters/repeaters in your network, make sure each available access point has a different name (SSID) and check that the gateway is being connected to the access point with the strongest signal.
+If the above steps doesn't solve your problem, then you should check your router settings by connecting to the router's configuration page (refer to your router's user manual).
+- Update the router to its latest firmware version.
+- Set a simpler Wi-Fi password, without special characters.
+- Ensure there is no MAC filtering enabled on the router (or make sure the gateway is in the white-list).
+- Ensure access restrictions (parental control, etc.) are disabled.
+- Check if the router has a sleep function. If so, disable that function
+- Disable the Wi-Fi channel restriction (enable automatic selection), or select channel 1, 6 or 11.
+- Check that 2.4GHz is also enabled if the router is dual band compatible (VELUX ACTIVE with NETATMO can only connect to 2.4GHz networks). Try also to disable 5GHz.
+- Check that UPnP is enabled.
+- Try to replace the current DNS servers with Google's (Primary: 8.8.8.8 / Secondary: 8.8.4.4).
+- Check if your router has any firewall / port filtering. If so, open the 25050 port (TCP).
+- Give the gateway a static IP with it's MAC address."
+I have a poor Wi-Fi signal. How can I boost it?
+To improve the Wi-Fi signal strength between the router and your gateway, you can physically move the gateway and router closer to each other. You can also add a wireless range extender to your Wi-Fi network.
+I've changed my Wi-Fi access code or I've moved. How can I update my Wi-Fi configuration?
+To connect your gateway to a new Wi-Fi access point (router), go to the app and locate: "Settings > Home management > Gateway > Setup Wi-Fi". You will now be guided to re-enter the identification code of your Wi-Fi access point.
+My sensor or departure switch is not detected by the gateway. What should I do?
+Remove the batteries, press any of the remote buttons and reinsert the batteries. You should see a green light blinking on the front of the remote to indicate that it is correctly powered. Install new batteries if you don't see the light, or if it is weak/dim.
+For connection issues, place the sensor/switch closer to the gateway (20-50 cm) during the detection procedure.
+Where should I place my sensors?
+To obtain the best conditions for accurate measurements, place the sensor according to the following guidelines:
+- Place the sensor in reach at a suitable height on the wall (90-170cm)
+- Do not place the sensor on the inner side of an exterior wall
+- Do not place the sensor in direct sunlight
+- Do not place the sensor above heating elements or radiators
+- Do not place the sensor behind curtains, furniture or other obstacles
+Where should I place my departure switch?
+Place your departure switch within reach, at a suitable height (90-120cm), next to your main entrance. You can place a departure switch at each entrance to your home.
+What is the maximum operating range between a sensor / departure switch and the gateway?
+The maximum operating range between a sensor / departure switch and the gateway is 300 m free sight or approx. 30 m indoors (including walls and ceilings).
+I have a weak signal from my sensor / departure switch. How can I boost it?
+Try moving the gateway and switches closer to each other to improve the wireless signal strength. A wireless range extender cannot be used.
+How do I select the product(s) to be controlled by the sensor?
+Your sensor switch is pre-set to control all skylights in the room by default. If the room has no electrical skylights, then all exterior sun protection is controlled. If no exterior sun protection is installed, then all interior blinds are controlled.
+You can edit this default setting in your app by locating: "Settings > Home management > Room > Sensor switch > Controlled actuators". A sensor switch can only control products in the same room and can only control one product type at a time.
+How do I install an additional sensor?
+To add an additional sensor to your VELUX ACTIVE solution, open the app and locate: "Settings > Install new products > Install additional switch" and follow the instructions.
+How can I remove a sensor?
+To remove a sensor from your VELUX ACTIVE installation, open the app and locate: "Settings > Home management > Room > Sensor switch" and press "Remove product".
+Can I move a sensor to another room?
+To move a sensor from one room to another, open the app and locate: " Settings > Home management > Room > Sensor switch" and press "Move product".
+Can I use one sensor to control multiple rooms?
+A sensor can only control the products in the room where it is placed. It is recommended to install a sensor in each room to obtain the optimal automatic control of your products and achieve all the benefits of VELUX ACTIVE.
+How do I install an additional departure switch?
+To add an additional departure switch to your VELUX ACTIVE solution, open the app and locate: "Settings > Install new products > Install a new switch" and follow the instructions.
+What is the maximum control range between the gateway and a product?
+The maximum operating range between a VELUX product and the gateway is 300 m free sight or approx. 30m indoors (including walls and ceilings). The range can be doubled (60m indoors) by adding the io-homecontrol range extender (KLF).
+Do I have to reset all my skylights to install VELUX ACTIVE with NETATMO?
+No. Simply copy the identity of your skylights and blinds from one (or more) of your existing remote controls to the gateway. All existing controllers will remain unchanged.
+I just purchased a new skylight or solar-powered blind. How do I pair it with the remote control?
+If your skylight or blind was delivered with a wall switch (local control), you should always start by pairing it with this switch. Please follow the instructions provided with the wall switch.
+If you have a VELUX control pad (KLR 200) or a VELUX remote control with display (KLR 100), add the skylights or blinds to this remote control as well. Please follow the instructions provided with the remote control.
+Gathering all your products in one remote control will simplify the process of copying your VELUX products to your VELUX ACTIVE gateway.
+I just purchased a new skylight or blind, how can I add it to my VELUX ACTIVE gateway?
+To add a new skylight or blind to your VELUX ACTIVE installation, open the app and locate: "Settings > Install new products > Install a new skylight" and follow the instructions.
+Note: Before adding a new product to VELUX ACTIVE, the product must be already paired to a VELUX remote control.
+How can I update my VELUX ACTIVE gateway?
+Your VELUX ACTIVE gateway's firmware is automatically updated when new features and bug fixes are released. Make sure it is always powered on and connected to the internet.
+Using my app
+Where can I see the VELUX ACTIVE Terms of Use?
+To view the VELUX ACTIVE Terms of Use, click here.
+Where can I see the air quality level of my home?
+The air quality level in your home is constantly displayed in the VELUX ACTIVE app. By entering the room page (product control) you can see the temperature-, humidity- and CO2-levels being measured by the sensor in that room.
+Where can I see the measurements from each sensor?
+Go to the room page to see the current temperature-, humidity- and CO2-levels of a specific room. Switch rooms to see the levels in another room.
+What is a good indoor temperature level?
+According to WHO, a good indoor temperature level is between 17° to 26° Celsius (63 to 79° Fahrenheit). This can prevent condensation, mould, or dehydration of the people in the room.
+How can I change between Fahrenheit and Celcius?
+To choose Celsius or Fahrenheit as the temperature unit, open the app and locate: "Settings > My account > Unit system" and select the preferred unit.
+What is a good indoor humidity level?
+According to WHO, a good indoor humidity level (quantity of water vapour in the air) is between 40% to 60%.
+What is a good indoor CO2 level?
+According to WHO, a good indoor CO2 level is below 1150 ppm.
+Where can I check the  battery level / radio signal of my gateway and remotes?
+To check the battery level or signal strength of a sensor switch, open the app and locate: "Settings > Home management > Room > Sensor switch".
+To check the battery level or signal strength of a departure switch, open the app and locate: "Settings > Home management > Departure switch".
+To check the Wi-Fi signal strength to the gateway, open the app and locate: "Settings > Home management > Gateway.
+How do I get the app to show another home?
+To display another home in the app, press "Home" on the dashboard for iOS or in the settings menu for Android and then select your preferred home.
+I forgot the password to my account, what should I do?
+If you have forgotten your password to your VELUX account, press "Forgot your password?" on the login screen and follow the instructions in the e-mail. If you do not receive an e-mail, check your spam messages folder.
+How can I share access to my VELUX ACTIVE?
+You can invite and share access with a new user by opening the app and locating: "Settings > Guest management > Invite a user"
+How can I update the app to the latest version?
+You will automatically receive a notification when a new version is released. Go to the download page and accept the update if you have not enabled automatic updates.
+How do I operate my VELUX skylights or blinds to a desired position?
+You can use the app or the remote control to operate your VELUX skylights or blinds to a desired position. From the app, select the room and scroll down until you see the product you would like to control. Slide the knob on the control bar to set the desired position. Release it to start the movement. You can always stop the movement by pressing the "Stop" button.
+How do I stop a skylight or blind in operation?
+To stop a product while it is operating, use the remote control or the VELUX ACTIVE app. Press the "Stop" button on the room screen in the app.
+How do I temporarily stop the automatic control of a skylight?
+There are two ways to stop the automatic control temporarily:
+- Manually control a product to a new position - either from the app or from a VELUX remote control. This will isolate the product  from further ACTIVE control until the following morning.
+- Turn all ACTIVE control manually Off for that specific room the in the additional parameter view. To reactivate ACTIVE control, you manually turn it On or just wait to the following morning when it's done automatically.
+How do I open my skylight to the ventilation position?
+To open your skylight to the secured ventilation position, slide the knob on the control bar horizontally until it reaches the "locked ventilation" icon.
+Note: The "locked ventilation" icon will not be displayed if your skylight does not have a ventilation flap.
+How do I find the correct skylight or blind to be operated in the app?
+Accessories that are installed on a skylight will also be grouped with the skylight in the app. To find a specific product, select the room with the skylight and scroll down until you see the skylight or blind to be controlled.
+Can I define a group of products to be controlled together?
+Product groupings cannot be created in the app. If you would like to move multiple products to the same position, this must be done one-by-one.
+You can control groups of the same type of products from the sensor switch. Groups are always skylights or blinds.
+Why can't I access my skylight or blind from my app, but it is being automatically-controlled by VELUX ACTIVE with NETATMO?
+All control commands sent from your app require an internet connection between your mobile device and the gateway. If this communication link is disrupted, your app cannot be used until it's re-established. VELUX ACTIVE will continue to provide automatic control without internet access as it is controlled directly by the gateway.
+Can I change the default settings for automatic control?
+Yes. You can modify several automatic control parameters to meet your personal preferences - i.e. the CO2, humidity or temperature system sensitivities or the preferred operating hours for automatic control. Open the app and locate: "Settings > Active control" to set your personal preferences.
+How do I rename my home, room or products?
+You can rename your home, room or products at any time. To rename your home, open the app and locate: "Settings > Home management > Name of House" and enter your preferences. To rename your room, open the app and locate: " Settings > Home management > Room" and enter your preferences. To rename your products, open the app and locate: "Settings > Home management > Room > Product" and enter your preferences.
+Important: When naming your rooms and products, be careful not to use the room type within the product name, as this can cause a naming conflict. Keep room type names (Bathroom, Kitchen, etc.) for the rooms and product type names (Skylight, Blind, etc.) for the products. This will create the best integration with Siri (Apple HomeKit) voice commands. If you are using English language for Siri, name your rooms and products with English names/terms for best performance.
+Can I create a notification to alert me when the sensor batteries are low?
+The app will automatically notify you when any of the sensors or departure switch batteries need to be replaced. If you wish to remove notifications, you can manage all VELUX ACTIVE notifications by opening the app and locating:  "Settings > Notifications".
+How do I manage my notification preferences or create customized notifications?
+You can manage your standard VELUX ACTIVE notifications by opening the app and locating: "Settings > Notifications". It is not currently possible to create new notifications in VELUX ACTIVE.
+What are the quick action buttons "Sun" and "Moon" used for?
+The two red buttons on the opening screen, marked with a sun and moon, are used for quick and easy control of your blinds. Pressing the sun button raises all blinds in the home (Good morning). Pressing the moon button lowers all blinds in the home (Good night).
+Can I modify the functionality of the quick action buttons?
+Yes. You can modify the "Lock" to also lower all sun protection at departure or modify the "Good night" scenario to also close all skylights when lowering the blinds. To modify the scenarios, open the app and locate: "Settings > Quick actions.
+What is the quick action button "Lock" and the departure switch used for?
+The lock button and departure switch are used to place your VELUX ACTIVE indoor climate control into a secured mode (away) when you are not at home. Pressing the "closed lock" sets the secured/away mode. Pressing the "open lock" sets the unsecured/home mode.
+Note: Setting the states in the app is the same as pressing the departure switch.
+Why can't I unlock my home from the app (grey unlock icon)?
+VELUX ACTIVE is secured to prevent unauthorized users from unlocking your home. Unlocking requires your smartphone to have downloaded a specific security key from the gateway. Users that do not have this key are unable to unlock the home from their app.
+There are two ways to retrieve the key:
+- The key is automatically retrieved during the installation of the gateway.
+- The key is provided during the "Guest management" process when you are invited to join VELUX ACTIVE.
+The security key is stored directly on the smartphone for security reasons. You will have a retrieve a new key if you change your smartphone or device.
+Note: You can always unlock your home using the departure switch.
+Why does my home unlock when I open a skylight with a remote?
+VELUX ACTIVE interpret it an authorized user and deems it safe to unlock the home when a control command is received from a remote control.
+Measurements and automation
+Can I modify how the algorithms control my skylights and blinds?
+VELUX ACTIVE algorithms can be adjusted to meet your personal preferences. If you want to increase or reduce the sensitivity to the indoor climate parameters or you want to define an inactive period, this can be done by opening the app and locating: "Settings > Active Control”.
+Are external weather factors such as wind, cold and heat taken into account by the algorithm?
+Outdoor weather data is used to adjust duration and to which extent the skylight opens during ventilation and to prevent the skylight from operating when no improvement of the indoor climate can be made. The weather data is also used to adjust your blinds to prevent potential overheating before it occurs.
+How do I select the skylights that are controlled by VELUX ACTIVE with NETATMO?
+When the indoor climate sensor is installed and the control algorithms are activated in the app, VELUX ACTIVE will automatically control all skylights and blinds in the room.
+Will VELUX ACTIVE with NETATMO keep working during internet or power outages?
+VELUX ACTIVE will continue to operate during internet outages. It continues to regulate the indoor climate and blinds according to the latest set point applied before the outage (away mode, manual set point, etc.).
+However, during the outage you will not be able to use the app (i.e. no product control, no reading of indoor climate parameters and no modification of any settings). App functionality is automatically re-activated on all connected devices when the internet connection is re-established. The gateway may take a few minutes to reconnect after the internet connection has been re-established.
+During a power outage, VELUX ACTIVE functionality will not available. You will, however, be able to control solar powered VELUX products using the remote control. When power returns, the gateway will automatically reconnect to your router and the cloud servers. Please note that this may take a few minutes.
+My automatic control enters secure mode after a power failure. What should I do?
+To ensure total security of your home, the VELUX ACTIVE gateway will automatically enter secure mode (away mode) after a power failure. This prevent skylights from opening if a power failure is created outside the home by a malicious person.
+Can I set the skylight to close automatically after a predefined period?
+Yes, you can use the app to define a period after which your skylight will automatically close (i.e. time-based bathroom ventilation). To define the period, press the timer icon in the upper corner of the room screen. At the end of the timer, the skylight will automatically close and VELUX ACTIVE will re-engage.
+What is the maximum time period for automatic skylight closure?
+You can adjust the period when your skylight will automatically close to meet your personal needs. By default, the period is set to 30 minutes, but it can be adjusted to any value between 0 - 12 hours.
+Can I define my own schedule for the opening and closing my skylights and blinds?
+No. VELUX ACTIVE does not provide the opportunity to define a schedule for opening and closing your skylights or blinds. If you are using VELUX ACTIVE on iPhone, you can create a schedule in the Apple Home app - please refer to Apple HomeKit support.
+Can I turn off VELUX ACTIVE with NETATMO to stop the automatic control of my skylights and blinds?
+It is possible to disable or stop VELUX ACTIVE to avoid automatic control of your skylights and blinds. Open the app and locate: "Settings > Active control" to turn off all ACTIVE control. Or keep ACTIVE control enabled in a specific room, or part of a room, by opening the app and locating “Settings > Active control > Room”.
+Can I turn off automatic control during the night?
+Yes, it is possible to disable VELUX ACTIVE temporarily in one (or all) rooms to avoid the automatic control of your skylights and blinds during the night. Open the app and locate: "Settings > Active control > Room" to define the operating hours for that room (i.e. 8am to 9pm). Repeat this step for each room.
+Can I turn off VELUX ACTIVE with NETATMO in one room and leave it on in another?
+Yes, it is possible to disable VELUX ACTIVE in one room while continuing to have automated control in another room. Open the app and locate: "Settings > Active control" and select the room in which you want to disable VELUX ACTIVE. You can now turn off all ACTIVE control for that room – or define the operating hours for the room.
+How does VELUX ACTIVE with NETATMO measure the room temperature?
+The room temperature is measured by the indoor climate sensor. The temperature is measured every 20 seconds within the 0-50°C / 32-122°F range.
+The temperature displayed in the app differs from another thermometer measurement. What should I do?
+VELUX ACTIVE temperature sensor measurements that are different from the measurement of another thermometer in the room could be caused by an improper installation point. Check that the sensor is not placed in direct sunlight, above a heating element, behind a curtain, near an open window or door. Remove the sensor and move it to a different position.
+How does VELUX ACTIVE  with NETATMO measure the humidity level of the room?
+Humidity is measured by the indoor climate sensor installed on the wall in your room. The humidity measurement is updated every 20 seconds and is measured within the range 0-100% with ± 3% accuracy.
+How does VELUX ACTIVE with NETATMO measure the carbon dioxide level (CO2) of the room?
+The carbon dioxide (CO2) level of the room is measured by the indoor climate sensor installed on the wall in your room. The CO2 measurement is updated every 5 minutes and is measured within the 0-5000 ppm range.
+My sensor does not work. What should I do?
+If no sensor measurement values are displayed in your app, it may be due to a battery or communication issue.
+First check the battery level of the sensor.
+- Check the sensor battery level by opening the app and locating: "Settings > Home management > Room > Sensor switch > Battery level".
+- Remove the batteries, wait a few seconds before re-inserting them and then check if the LED is blinking on the front face of the switch.
+Then check the radio signal quality between the sensor and the gateway.
+- Check the sensor radio signal quality by opening the app and locating: "Settings > Home management > Room > Sensor switch > Radio signal".
+- Move the sensor closer to the gateway.
+I can't see any rain measurement level in the app. What can I do?
+The rain sensor provided with your VELUX skylight is connected directly to the motor control. No information is transmitted to the app when rain is detected and the skylight closes (rain detection is handled locally by the skylight). The VELUX ACTIVE app will only provides a warning if the skylight is opened while it's raining.
+Some sensor measurements are not displayed. What can I do?
+If some or all your sensor values are missing, then your sensor may be unreachable (this will be indicated in the app). Please check the sensor batteries and replace them if needed. If only your carbon dioxide (CO2) value is missing, but the humidity and temperature levels are displayed correctly, then wait for 5-10 minutes to see if a measurement appears. The CO2 level is only measured every 5 minutes and this may occur after a battery replacement.
+If none of these actions have made the sensor values appear, then your sensor needs to be replaced.
+Note: CO2 measures will not be displayed up to 12 hours after initial installation due to calibration of the sensor.
+How often must I replace the batteries in the sensor and departure switch?
+The sensor and departure switch have a typical battery life of 2 years under normal operation. The sensor and departure switch will remain fully functional up to 7 days after entering the low battery state.
+My data
+What personal and product data is stored by the VELUX Group and how long is that data stored?
+During installation of VELUX ACTIVE, you will be asked to create an account with your email and a password. Your email is stored on a secure cloud server. Your password will not be able to be accessed by VELUX. If you install your VELUX gateway via Apple HomeKit, no data will be stored.
+If you install via the VELUX ACTIVE app, we will store data about your gateway and system setup for service and product optimization purposes.
+We store your personal data while your account is active and 6 months after the products are disconnected.
+For a full overview of what personal data we store, please see the VELUX ACTIVE Privacy Policy
+Where is my personal data stored?
+VELUX ACTIVE data is stored in a secure data center managed by NETATMO. Data is only accessible by VELUX A/S, NETATMO and your local VELUX sales company. The data center is in the EU.
+Is my personal data visible to others?
+VELUX ACTIVE data is not visible to any entities other than VELUX A/S, NETATMO and, to a limited extent, your local VELUX sales company.
+What data is collected by VELUX ACTIVE with NETATMO and how is it used?
+VELUX ACTIVE collects data to be able to regulate your indoor climate effectively. Data is used for service and product optimization purposes, and for marketing purposes if you have given us consent. For a full overview of what personal data we store, please see the VELUX ACTIVE Privacy Policy
+How can I receive a copy of my personal data?
+If you would like to see a report of the personal data we have stored, please contact: active-support@velux.com
+How can I change my email address or other personal data?
+You can change your email address and the names of homes, rooms, skylights, and blinds in the VELUX ACTIVE app. If you have any other requests, please contact: active-support@velux.com
+How can I delete my personal data?
+If you would like to remove the information that is stored by VELUX, you will have to place a request for your VELUX ACTIVE account to be deleted. When you reset your gateway, we will delete your personal information within the period defined in the VELUX ACTIVE Privacy Policy. If you would like the information removed immediately, please contact: active-support@velux.com with a deletion request. For more details, please see the VELUX ACTIVE Terms of Use.
+What should I do if I observe a data leak or suspect a privacy issue?
+The VELUX Group is committed to preventing incidents such as hacking and misuse of data. To ensure this, we have implemented a high number of technical, administrative and physical security mechanisms, designed to protect the data collected by VELUX ACTIVE. Please note that despite our dedicated efforts to protect your data, no security solution is perfect, nor impenetrable.
+If you, against all odds, observe any form of personal data issue, a suspected breach, an IT issue or similar relating to VELUX ACTIVE, please write to databreach@velux.com and include the following information:
+Provide a detail description
+When did the incident take place?
+Where did you observe it? (i.e. webpages URL)
+Does the data leak contain personal information?
+Who is informed about this incident?
+We will respond to queries promptly.
+HomeKit
+How can I get the most out of Apple HomeKit?
+You can use Apple HomeKit to control your VELUX products through Siri (Apple's voice assistant). Use your voice to open your skylight and blinds or to ask about the current air quality status of your home. Apple HomeKit also enables you to create scenarios that connect your VELUX products and other HomeKit compatible devices.
+My VELUX skylights are properly paired with VELUX ACTIVE with NETATMO, but they do not work with Apple HomeKit. What should I do?
+If Apple HomeKit is not working with your VELUX skylights, check your data synchronization:
+- Unplug (power off) the gateway for at least 30 seconds and plug it in again.
+- Wait for the iCloud synchronization to finish on all connected devices using the same Apple account.
+You can force synchronization, by connecting your iPhone to the charger and restarting it. If this doesn't work, you will need to reset the HomeKit configuration and connect it again.
+I cannot configure Apple HomeKit
+"If you have already configured HomeKit with another iOS device, please refer to the FAQ: ""How do I share the control of Apple HomeKit?"" to get an invitation.
+Otherwise, follow the below steps:
+First, reset the HomeKit pairing of your gateway:
+- Remove the gateway from the Home app in case you see it in your Home app.
+- Verify your smartphone is connected to the same Wi-Fi network as your gateway.
+- Verify that your gateway is powered and that no LED is blinking at the back the gateway.
+- Press and hold the button marked with the gear icon.
+- When you see the LED blink red, release the button and press it once again quickly to confirm the reset.
+- The gateway will now reset and reboot automatically.
+- Wait until the LED at the back of the gateway glows in white.
+Second, reconfigure the Wi-Fi access of the gateway:
+- Open the VELUX app and select ""Settings""
+- Select ""Home management""
+- Select ""VELUX Gateway""
+- Select ""Setup Wi-Fi"" and follow the instructions.
+Finally, pair your gateway with HomeKit:
+- Open the VELUX app and select ""Settings""
+- Select ""Home management""
+- Select ""VELUX Gateway""
+- Select ""Setup HomeKit"" and follow the instructions."
+Why is my home unlocking when I open a skylight with Apple HomeKit?
+HomeKit relies on a secured local protocol provided and designed by Apple. Apple HomeKit requires you to be at home and connected to your Wi-Fi network. VELUX ACTIVE considers this safe and unlocks your home when an Apple HomeKit command is executed. It is only possible to access HomeKit when you are away from home, if you are using an Apple home hub (such as an Apple TV or an iPad).
+Note: Be careful using HomeKit automation when you are away from home, as this could result in your home unlocking.
+Apple HomeKit does not work when I am away from home. What should I do?
+To control your products with Siri and Apple HomeKit when you are away from your home (not connected to your home Wi-Fi network), you need to set up a device as a HomeKit home hub. This can be:
+- An Apple TV4 with tvOS 10 or later.
+- An iPad with iOS 10 or later.
+I can't control my VELUX skylights or blinds using Siri voice control. What should I do?
+You can use Siri voice control by pressing the home button, by pressing the side button or by saying the phrase: "Hey Siri". To use the "Hey Siri" command on your device, you must activate it by entering: Settings > Siri & Search > Listen for "Hey Siri".
+Tip! When naming your rooms and products, you should be careful not to use the room type within the product name, as this can cause a naming conflict. Keep room type names (Bathroom, Kitchen) for the rooms and product type names (Skylight, Blind) for the products. This will provide optimal integration with Siri (Apple HomeKit) voice commands as well. If you are using English language for Siri (for best voice recognition), you should name your rooms and products with English terms for best performance.
+Where can I find the Apple HomeKit setup code for VELUX ACTIVE with NETATMO?
+During VELUX ACTIVE setup, you will be asked to scan the HomeKit setup code with the camera of your device.
+The 8 digit Apple HomeKit code (xxx-xx-xxx) can be found on:
+- The label at the back of your gateway.
+- The last page of the Quick Start Guide provided in the packaging.
+You can also enter the code manually if you cannot scan it with the device camera.
+If you did not configure HomeKit during the initial installation, simply do it by selecting: "Settings > Home management > Gateway > Set up HomeKit"
+How do I share the control of Apple HomeKit?
+You can share control of HomeKit accessories with other people if they use iOS 10 or later and are signed in to iCloud.
+To share control, you will need to be either at home or have a home hub set up in your home when sending an invite.
+In the VELUX ACTIVE with NETATMO app locate: "Settings > Home management > HomeKit > Invite".
+In the Apple Home app locate: "The "arrow icon" in the upper-left corner > Invite > Enter the person's Apple ID used with iCloud > Send Invite".
+Can I add the gateway to Apple HomeKit app without installing the app?
+Yes, you can install the gateway using Apple HomeKit (and not the VELUX ACTIVE with NETATMO app). Please follow the instructions provided in this link.
+Note: For these installations, you can only use the functionality provided by Apple HomeKit and the Apple Home app. The ACTIVE automatic algorithms are not included in Apple HomeKit and can only be accessed by using the VELUX ACTIVE app.
+How can I reset my HomeKit pairing when I am not using the VELUX ACTIVE app?
+"When resetting the HomeKit pairing of your gateway, you will remove:
+- The Wi-Fi connection between the gateway and your router
+- The HomeKit pairing of your gateway
+The pairing to your VELUX products, sensor and Departure switch will remain unchanged.
+To perform a HomeKit reset:
+- Press and hold the button marked with the gear icon
+- When you see the LED blink red, release the button and press it once again quickly to confirm the reset
+- The gateway will now reset and reboot automatically
+- When the LED blink white, your gateway is ready for a new HomeKit pairing
+- Open your Home app and add the gateway as a new accessory in HomeKit"
+How can I update my Wi-Fi configuration when I am not using the VELUX ACTIVE app?
+You can update your Wi-Fi configuration in case you need to change your internet provider.
+To perform the Wi-Fi update:
+- Press and hold the button marked with the gear icon
+- Release the button when you see the LED blink in white
+- Open the iOS settings of your device and open the “Wi-Fi” section
+- Select your gateway in the “SET UP NEW DEVICE …” section
+- Follow the instructions to update the Wi-Fi configuretion
+Google Assistant
+How do I set up Google Assistant with VELUX ACTIVE with NETATMO to control my VELUX INTEGRA® products?
+If you have a Google Home speaker, use the “Google Home” application, available on iOS and Android, to connect your VELUX INTEGRA® products. To learn more about the steps of set-up, see the Google Help website.
+If you do not have a Google Home speaker, download the “Google Assistant” application, available at the App Store for iOS and the Play Store for Android. To learn more about the steps of set-up, see the Google Help website.
+For increased security, an additional step is necessary to be able to control your skylights with the Google Assistant. Simply create a Google Assistant security code in the VELUX ACTIVE with NETATMO app. To do so, simply follow the steps described below in "How can I create a security code for Google Assistant?"
+How can I create a security code for Google Assistant?
+For increased security, an additional step is necessary to be able to control your skylights with the Google Assistant. Simply create a Google Assistant security code in the VELUX ACTIVE with NETATMO app by following the steps below:
+Open the "VELUX ACTIVE with NETATMO" app
+Tap on the top left icon to access the "Settings" section
+Tap on "Home management"
+Tap on your home's name at the top
+Tap on "Google Assistant" in the "Advanced" section.
+Tap on "Enable skylight control" and create a 4-digit PIN code.
+The set-up is complete. You can now open your VELUX skylights with the Google Assistant:
+"Ok Google, open the skylights in the living room"
+How do I delete access to my VELUX products in my Google Assistant?
+To delete VELUX products from your Google Assistant:
+Open your “Google Assistant” application and tap on one of your set-up VELUX products (skylight or blind).
+Tap on “Unlink VELUX ACTIVE with NETATMO”
+Confirm by selecting “Unlink” again.
+Now, your Google Assistant no longer has access to any of your VELUX products.
+Why does Google Assistant not understand my commands?
+Depending on Google Assistant's maturity in your local language, you may experience some difficulties with Google Assistant's language understanding. To limit these misunderstandings you should name your products and rooms, and make sure to include these names in your commands.
+Alternatively, you can go to "Settings" in your Google Home app and add a secondary language (preferably English, French or German) which will allow you to use commands in both your local language as well as a language in which the Google Assistant has higher proficiency.
+Contact support

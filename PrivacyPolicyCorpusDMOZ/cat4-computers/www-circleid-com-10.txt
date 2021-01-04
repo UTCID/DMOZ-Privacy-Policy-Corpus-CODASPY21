@@ -1,0 +1,321 @@
+http://www.circleid.com/posts/20200922-a-failed-whois-policy/#12862
+Welcome:
+Login
+|
+Sign Up
+|
+About CircleID
+Follow:
+Twitter  |
+Facebook  |
+LinkedIn
+Home
+Topics
+Access Providers
+Blockchain
+Brand Protection
+Broadband
+Censorship
+Cloud Computing
+Coronavirus
+Cyberattack
+Cybercrime
+Cybersecurity
+Data Center
+DDoS Attack
+DNS
+DNS Security
+Domain Management
+Domain Names
+Email
+Enum
+ICANN
+Internet Governance
+Internet of Things
+Internet Protocol
+IP Addressing
+IPTV
+IPv6
+Law
+Malware
+Mobile Internet
+Multilinguism
+Net Neutrality
+Networks
+New TLDs
+P2P
+Policy & Regulation
+Privacy
+Regional Registries
+Registry Services
+Spam
+Telecom
+UDRP
+VoIP
+Web
+White Space
+Whois
+Wireless
+Display Options:
+List by Popularity
+Chart by Popularity
+Blogs
+Latest
+Recently Discussed
+Most Discussed
+Most Viewed
+News
+Latest
+Recently Discussed
+Most Discussed
+Most Viewed
+Community
+Recently Featured
+Most Featured
+Most Active
+Most Read
+Recent Members
+Top 100 Leaderboard
+Alphabetical View
+Random View
+Recent Comments
+Industry
+Latest Posts
+Most Viewed
+Leaderboard
+CircleID Members:
+Afilias
+Afilias Mobile & Web Services
+AppDetex
+CSC
+i2Coalition
+Internet Commerce Association
+MarkMonitor
+GoDaddy Registry
+Radix Registry
+Threat Intelligence Platform (TIP)
+Verisign
+WhoisXML API
+Home
+/ Blogs
+A Failed Whois Policy
+By Fabricio Vayra
+Partner at Perkins Coie LLP
+September 22, 2020
+Views: 7,840
+Comments: 7
+ICANN's two-year effort to purportedly preserve the Whois public directory to the greatest extent possible while complying with GDPR has failed. Under the latest proposal, the Whois database, once a contractually-required directory of domain name registrants, will be gutted to the point of virtual worthlessness, as registrars, registries, academics, and hand-wringing others ignored the public interest and imposed ever-higher barriers to legitimate, GDPR-compliant access to registration data. The world now is nearly completely without a tool necessary to protect against online abuses and safeguard important rights.
+At its core, the policy recommendations resulting from this process affords ICANN Org, registrars and registries a place to hide from doing the right thing, as allowed under the GDPR. ICANN Org — the ultimate overseer of the domain name system (DNS) — is now faced with a stark choice: either step up to properly enforce their own contracts to the greatest extent possible while complying with GDPR (as it should as the accrediting body charged with oversight of the DNS for the public interest), or acknowledge this is a matter that should be resolved from outside of ICANN — and be open to national legislation that can do that.
+Background
+More than two years ago, ICANN faced a real dilemma. Whois was impacted by GDPR and would need to be revamped.
+Registries and registrars, maintainers of the Whois system, needed a way to comply with the new law without violating their contracts with ICANN, which required an operating Whois. At the eleventh hour, ICANN issued a temporary contractual specification for registries and registrars (the "temp spec") that allowed them to close down Whois, except in circumstances when legitimate interests needed access to registration records. ICANN then chartered a group of domain name industry participants to supplant the temp spec with a permanent policy that set out new rules for the Whois system that provided legitimate access without violating GDPR. Known as an expedited policy development process (EPDP), the team's work was meant to be thorough but efficient. After two-and-a-half years of deliberations, a final report details its recommendations.
+The problem is, of course, the recommendations are quite empty — inadequate on the most basic level. So insufficient are the team's recommendations, in fact, they are unlikely to garner meaningful support as they're considered by ICANN's governing policy council (the Generic Names Support Organization Council) later this week. They simply don't meet the needs of the community — or the public interest Whois is meant to fulfill — and as a result represent a failed policy.
+Warnings from Key Stakeholders Ignored
+Broader community reactions also have been swift and damning. Governments and security experts, both tasked with advising the ICANN Board of Directors, have condemned the output, while others, including consumer advocates, have joined the chorus. The common refrain is that the recommendations are woefully inadequate:
+World governments, represented by the Governmental Advisory Committee, warn that "in their current form [certain recommendations] do not strike the appropriate balance between protecting the rights of those providing data to registries and registrars, and protecting the public from harms associated with bad actors seeking to exploit the domain name system."
+Security experts, represented by the Security and Stability Advisory Committee, denounced the proposals and noted that the process "has not provided outcomes that are reasonably suitable for security and stability."
+End-users, globally represented by the At Large Advisory Committee, said of the proposed Whois access and disclosure mechanism that "the probability of its meeting the goals needed by the communities whose efforts [they] support will be low."
+Global business and intellectual property interests, represented by the Business and Intellectual Property Constituencies, said that the Final Report "fails to deliver a System for Standardized Access that meets the needs of its users."
+It should be no surprise to anyone that a slapdash policy that is worse than the failed, current policy, is met with disapproval.
+Why it Failed
+From a high level, there are three main reasons why the policy work failed:
+First, it doesn't meet its objective, which was to ensure GDPR compliance while maintaining Whois to the greatest extent possible. Unfortunately, the proposed policy doesn't avail itself of the GDPR's most basic tenets on limitations to scope that would allow reasonable access to large swaths of the Whois database (e.g., legal persons, persons outside the European Union). The EPDP team has, instead, chosen to overapply GDPR, and that fails the Whois availability objective entirely.
+Second, the recommendations fall short of public interest needs — needs that were recognized by both the European Commission and ICANN itself. The EPDP team focused more on limiting potential registry and registrar liability instead of addressing the public interest needs of the broader community. The recommendations therefore don't even afford the most basic tools necessary to law enforcement and cybersecurity experts to address their interests, which have been repeatedly relayed to the EPDP team, including by the GAC.
+Again, this leaves the recommendations unfit for the most basic and widely acknowledged of purposes, particularly in an environment of growing DNS abuse that even ICANN CIIO Ashwin Rangan explicitly stated in an August 5 webinar has been "increasing dramatically."
+Third, operationally, the EPDP team has produced little more than a ticketing system for people to submit data requests. It potentially could ease the intake burden, sure, but provides no substantive benefit regarding the heart of the issue to be resolved — disclosure responses to legally and legitimately based requests for Whois data. Specifically, the proposal does nothing to resolve the underlying decision-making issue: that is, the same 2000+ registrars and registries who are largely denying and/or ignoring legal and legitimate requests today will be the same parties receiving the requests through the fancy ticketing system the policy proposes — and probably will continue to largely deny and ignore. It presumably doesn't take two-and-a-half years of policymaking work to produce an intake system ICANN could have independently designed and built itself.
+A healthy multistakeholder model would have delivered a balanced solution to the full community, had it been working by design. However, this policy output is arguably worse for users than is the temp spec itself, which at least was less restrictive and could have offered "reasonable access" to Whois data, had it been properly enforced. Instead, the proposed policy has left the Whois system fractured and not fit for purpose.
+What's Next
+Those on the side of combating DNS abuse, hunting down criminals, protecting consumers, guarding intellectual property rights, and otherwise making the Internet a safer place must have reasonable access to registration data. Because policy work failed, however, they are now forced to look outside the ICANN process for a workable solution to the data problem and have already begun doing so.
+ICANN leadership has responded by going on the attack and defending its multistakeholder model rather than recognize its role in the failure and its fiduciary responsibility to step in and fix the problem. CEO Goran Marby has attempted to spin the failure by stating that "the PDP reached as far as it could," and "we can't do more." In the same breath he indicated that if law enforcement wants access to Whois data — an allowance nearly all in the community support — European data protection authorities will have to update interpretations of the law, or outright change it.
+Inexplicably, ICANN Org has now focused its firepower on the GAC. In an antagonistic letter to GAC chair Manal Ismail, ICANN retreats to answering outstanding questions with questions, and obfuscating matters by demanding the GAC further justify its plainly stated concerns over EPDP outcomes with "legal bases." This overtly confrontational letter shows that ICANN, which has been chronically behind the rest of the world in its reaction to and handling of GDPR, continues to take a hard line on exempting themselves from taking positions or responsibility with oversight of the DNS in the public's interest. In this vein, the letter reads more like a trade association that is defending the interests of its members than what is expected from an organization charged with oversight of the DNS in the public interest.
+More than ever, it's clear now that this lacking result must be met with assertive action. ICANN should finally act — by saying no to a substandard ticketing system, finding a way to get legal certainty about GDPR application, or even enabling an enforceable code of conduct for registrars as allowed through their existing contracts with registrars. If ICANN compounds policy development failure with its own failure to act, it should expect others in a position to act to take charge. And to do so with the authority ICANN apparently abandoned willingly during this entire misguided process.
+By Fabricio Vayra, Partner at Perkins Coie LLP
+DNSDomain NamesICANNInternet GovernancePolicy & RegulationWhois
+CircleID Newsletter
+The Weekly Wrap
+More and more professionals are choosing to publish critical posts on CircleID from all corners of the Internet industry. If you find it hard to keep up daily, consider subscribing to our weekly digest. We will provide you a convenient summary report once a week sent directly to your inbox. It's a quick and easy read.
+I make a point of reading CircleID. There is no getting around the utility of knowing what thoughtful people are thinking and saying about our industry.
+Comments
+Blame the Hypocrisy of INTA and the IP Constituency
+By George Kirikos  –  Sep 22, 2020 3:00 pm PST
+I believe in transparency of the WHOIS system. My own registrar (Tucows) allows my company to opt-in to publication of WHOIS data, and I've done that. It's a good practice for others to be able to identify who they are dealing with online. It's important to have a public WHOIS history for researching the provenance of domain names, too.
+However, the IP Constituency and INTA undermined this transparency principle by being extremely hypocritical, as they fought tooth and nail to keep the Trademark Clearinghouse (TMCH) database private. That's completely at odds with and inconsistent with any arguments they might have regarding transparency of WHOIS. We know that the TMCH was widely abused in the sunrise periods to grab desirable dictionary word domains such as "THE", "HOTEL", "HOTELS", etc. ahead of the rest of the public via sunrise periods. Yet, the IP Constituency and INTA continued to fight to keep that database secret, despite the widespread abuse.
+The IP Constituency and INTA only want "transparency" when they are the ones doing the digging, investigating other people. They don't want transparency when others in the public are investigating the abuses of trademark holders. They protected the bad actors in their ranks, by fighting to keep the TMCH private, rather than maintaining an open database that could be inspected and researched by the public.
+Conclusion: You reap what you sow. No one trusts those who make hypocritical arguments.
+# 1
+Reply
+|
+Link
+|
+Report Problems
+The Policy Development Process worked
+By Volker Greimann  –  Sep 23, 2020 12:56 am PST
+I do not know, but the EPDP WG produced a final report that received mostly consensus for most of its recommendations. That does not look like failure, that looks like the process worked in producing a result that was supported by the community (pending GNSO council approval, of course).
+The report and its recommendations are based on a compromise solution in form of a hybrid model that was agreed by all parties at the table, including the the IPC and BC, as well as the GAC when it became clear that a centralized, unified model was not going to be possible due to the liability issues involved.  Anything that takes the decision making power away from the parties that are ultimately legally liable for any incorrect decisions was a non-started without full indemnification from the legal risks involved, which no one was willing or able to provide.
+The WG encountered problem after problem and always a compromise solution was found that was - at the time- supported by most of the participants in the work, including the requestor side. Most of the objectives of the group were resolved. The model does not overapply GDPR either. While it is correct that legal entity data !may! be redacted just like individual data, this is not an overapplication in and of itself as the legal entities data may contain personal information that would need to be protected.
+Only at the end, when all was done and dusted, an overblown cost estimate (hopefully erring significantly on the high side) by ICANN prompted the requestor caucus to withdraw the support for a model that they had previously supported, albeit grudgingly.
+Essentially the requestor caucus within ICANN now seems to be saying that they support the status quo over this model. That is their choice to make, but I still see a lot of improvements in this model over the current situation:
+- requests can follow a unified format and set of requirements
+(no more of each contracted party having to develop their own set of rules and no more requestors having to tailor each request to the different disclosing parties)
+- under an SLA
+- no more ignored requests
+- within a system that provides legal assurance to all parties involved that the disclosure is in fact legal.
+- Requestors that follow the proper rules will be able to form reasonable expectations on how and when their requests will be answered.
+- Certain requestor types will enjoy even faster and some even automated responses.
+The process may have failed in bringing back whois, as desired by the requestor caucus, but that was an impossibility from the start. Privacy legislation is expanding around the globe, with GDPR leading the way.
+The process has succeeded in producing an implementable policy and model, you may not like that model, but not liking the result does not make the process a failure. Not getting everything you wanted is not failure.
+ICANN is absolutely correct in defending the result and asking those who demand more what the legal bases for their requests are. Any party that demands more needs to justify those demands under the law and clearly show how their proposal is legally implementable without leaving an other party "holding the bag".
+And that is what the evolutionary process has been designed to do which is a fundamental element to the new model. The new model can evolve into something that will suit requestor needs better over time as we all learn more.
+The new model is not the end result, it is the start into a new era of protecting personal information while at the same time providing access to those with legitimate interests or legal rights.
+# 2
+Reply
+|
+Link
+|
+Report Problems
+IPC fought the law, and the law won
+By Rubens Kuhl  –  Sep 23, 2020 7:24 am PST
+Upholding the law is not a policy failure, it's the only outcome in an assembly of parties that value the rule of law.
+# 3
+Reply
+|
+Link
+|
+Report Problems
+Perhaps it's time to drop back to
+By Todd Knarr  –  Sep 23, 2020 8:26 am PST
+Perhaps it's time to drop back to a simpler policy. Even if a domain has no servers, the domain name itself can be involved in trademark disputes. So, everyone who owns a domain name has an expectation of needing to deal with legal claims. Set the minimum bar for WHOIS information be that it must be sufficient contact information to effect service of process or serve other legal documents on the domain owner, either directly or through an agent authorized to accept service on behalf of the owner. There shouldn't be any GDPR issues with that.
+# 4
+Reply
+|
+Link
+|
+Report Problems
+Trademark holders don't want service to be accepted!
+By George Kirikos  –  Sep 23, 2020 9:19 am PST
+Todd: You assume, incorrectly, that trademark holders actually want legal documents to be accepted for service.
+For example, in the RPM PDP, I openly proposed (URS Individual Proposal #7) that WHOIS be augmented to include the registrant's legal contact. This would improve service of process immensely.
+Guess what? The TM holders not only opposed this proposal outright, they blocked its publication in the initial report, preventing others from even being aware of it to comment on it! See here for more discussion, or also see page 19 of the results of the "anonymous poll” they conducted of working group members.
+This has never been about GDPR compliance. It's all been about the TM holders trying to game any system in their favour. Many TM holders thrive on default judgments, where the registrant never receives actual notice of a dispute. Your "solution" (which I support as a reasonable compromise, consistent with my own proposals) wouldn't be acceptable to a large fraction of the TM lobby, as it would awaken registrants to their rights!
+In fact, TM holders (and others in law enforcement, etc.), don't need any public WHOIS at all, as long as registrars respond to court orders. TM holders can obtain Norwich Pharmacal orders (or their equivalent in other jurisdictions) via courts to compel the registrars to provide them the information. Except that many TM holders are on fishing expeditions, and are either unwilling or unable to meet the standards required, namely convincing a judge that there's any actual dispute or crime.
+The fact is, we have a bunch of lawyers lobbying ICANN because their
+business models are being disrupted. Many of those lawyers appear to be uncomfortable stepping foot in a court room, or making arguments in front of a judge. Instead, they want to game the system to compel registrars to simply give up private information without a fight.
+I think many responsible registrants (like my own company) are happy to have their WHOIS be public, and I think the market would reward that transparency (greater trustworthiness rating, etc.). Instead of focusing on a bigger and fancier "stick", perhaps more efforts should be turned to using "carrots" to solve some of the "big problems." For example, if registrars had verified public WHOIS, reduce the ICANN fee (or domain name registry fee) by 10 cents per domain per year (or another figure that would have an impact). Make the economics so that folks opt-in to public WHOIS, and many will do so.
+# 5
+Reply
+|
+Link
+|
+Report Problems
+You misunderstand. It's not about whether trademark
+By Todd Knarr  –  Sep 24, 2020 11:37 pm PST
+You misunderstand. It's not about whether trademark owners want to contact a domain owner, it's simply an indisputably valid reason why someone would have a need to serve legal papers on the owner of a domain even if it didn't host any content and didn't provide any services, merely existed. That provides a valid legal reason to disclose contact information under the GDPR so the GDPR can't be used as an excuse not to disclose it.
+That's also why the allowance for an authorized agent, so that if someone truly wishes to keep their own contact information private they have a way to do so. It just involves finding someone else who'll put themselves on the legal hook for the domain owner, which is something no privacy-protection service is going to take on without being very certain they can cough up valid contact information for the real owner if they have to. That should suitably discourage sham fronts whose only purpose is to hide the actual owner.
+Then we can simply go back to the old fully-public WHOIS system, just allowing the registrant information to be hidden and replaced by a legal contact, dump all the current wrangling and work on a better protocol without the "I want a domain without having to be held legally responsible for it." crowd.
+# 6
+Reply
+|
+Link
+|
+Report Problems
+I agree with Volker
+By Owen Smigelski  –  Sep 25, 2020 8:25 am PST
+After reading this "article" I wanted to leave a comment disputing its many wild inaccuracies. But I saw that Volker had already done so, and he correctly described what the EPDP Phase 2 team actually did and how this "article" is not reflective of the truth. I can comment on this, because like Volker, I was on the EPDP Phase 2 team (unlike Fabricio who was not). I am also purposely using quotes around "article" because it's not really factual- it is a biased, flawed, and inaccurate opinion piece.
+The IPC continues to somehow cling to the belief that a unified access model (UAM) is the only possible outcome. To be abundantly clear- the UAM does not comply with GDPR, and the IPC/BC representatives agreed in the LA Face to Face meeting in September 2019 to comprise along with the rest of the EPDP team and work to create the hybrid model. To imply otherwise misrepresents reality.
+I will not go over the other points of the "article"- I will, however, discuss its optics.
+Using inflammatory wording as "failure" when referring to the ICANN multistakholder model (MSM) is shocking, especially coming from someone who has been involved in the ICANN MSM for well over a decade- including building a legal practice that is highly dependent upon ICANN policies achieved through the MSM. Just because your side did not get 100% what it wanted this time does not mean the MSM does not work. The EPDP Phase 2 Final Report is an absolute success of the MSM.
+This brings me to a problem I have encountered with having lawyers involved in the policy making process. To be clear, I am making this statement as a lawyer who was introduced to ICANN as a member of the IPC (and have participated in policy groups for over 10 years). This this observation also applies to non-lawyers. Too many lawyers in MSM processes proceed as if they are arguing a case before a judge- trying to score points against others so someone will rule in your favor. The ICANN policy process is more akin to a mediation with multiple parties. We all have our positions, and we consider the facts, laws, needs, and opinions of everyone involved- and we come up with something together that is agreeable to all. Is it perfect, do we get exactly what everyone wants? Of course not. But it is the collective work of many disparate views, and the results are good for everyone who participates. For at least a year we all worked towards the same goal (including the IPC reps). We came up with something that fits the basic requirements of the EPDP Phase 2 charter, is better than what we had under the Temp Spec, and is a good start towards the future.
+Characterizing the EPDP Phase 2 Final Report as a failure is dangerous. There is the potential that those not familiar with the realities of the EPDP and of ICANN’s multistakeholder model might misunderstand such statements. I, along with so many of my colleagues, will continue to work together in support of the MSM. I hope that you (and others unhappy that they did not get exactly what they wanted) can continue to work together with us.
+# 7
+Reply
+|
+Link
+|
+Report Problems
+Add Your Comments
+To post your comments, please login or create an account.
+Related
+International Law and Cyberspace: It's the "How", Stupid
+Wolfgang Kleinwächter
+Dec 10, 2020 12:43 PM PST
+Views: 923
+Can We Advance Policies Towards a Safe Transnational Internet Market for Medicines?
+Mark Datysgeld
+Dec 09, 2020 12:13 PM PST
+Views: 941
+97% of All Global 2000 Companies at Risk from SAD DNS Attack
+Ken Linscott
+Dec 08, 2020 12:20 PM PST
+Views: 1,633
+A Balanced DNS Information Protection Strategy: Minimize at Root, TLD; Encrypt When Needed Elsewhere
+Dr. Burt Kaliski Jr.
+Dec 08, 2020 7:59 AM PST
+Views: 798
+An Innovative Framework That Will Help the IoT Industry Scale Into the Billions
+Natasha D’Souza
+Dec 04, 2020 10:50 AM PST
+Views: 3,109
+Internet Governance and the Universal Declaration of Human Rights, Part 6: Articles 18-19
+Klaus Stoll
+Dec 01, 2020 11:39 AM PST
+Views: 3,797
+CIPA Supports Key Findings From Alliance for Safe Online Pharmacies Survey
+Tim Smith
+Nov 23, 2020 2:41 PM PST
+Views: 5,831
+A Winning Biden 5G Strategy: Flatten the Curve
+Anthony Rutkowski
+Nov 23, 2020 2:28 PM PST
+Views: 5,628
+ICANN Should Keep Content Regulation and Other Arbitrary Rules Out of Registry Contracts
+Mitch Stoltz
+Nov 23, 2020 11:19 AM PST
+Views: 4,970
+Holiday Shoppers Beware: Tips on Protecting Brand Owners and Consumers from Domain Security Threats
+Vincent DAngelo
+Nov 19, 2020 7:40 PM PST
+Views: 6,243
+More
+Topics
+IP Addressing
+Sponsored byIPv4.Global
+Domain Names
+Sponsored byVerisign
+New TLDs
+Sponsored byAfilias
+DNS Security
+Sponsored byAfilias
+Cybersecurity
+Sponsored byVerisign
+Brand Protection
+Sponsored byAppdetex
+Cybercrime
+Sponsored byThreat Intelligence Platform
+Whois
+Sponsored byWhoisXML API
+View All Topics
+A World-Renowned Source for Internet Developments. Serving Since 2002.
+FOLLOW
+CIRCLEID:
+About  |
+Advertising & Promotional Services  |
+Contact Us  |
+News Tips
+SECTIONS:
+Home  |
+Topics  |
+Featured Blogs  |
+News Briefs  |
+Industry Updates  |
+Community
+TERMS OF USE:
+Code of Conduct  |
+Privacy Policy  |
+Terms of Use
+Copyright © 2002-2020 CircleID.
+Iomemo Inc.
+All rights reserved unless where otherwise noted.
+Local Time: Thursday, December 10, 2020 10:17 PM PST – Page Load: 0.5355 Sec.
+Service Partners:
+DNS Managementby Constellix
+Managed Hostingby Hostway

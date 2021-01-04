@@ -1,0 +1,30 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch10s02.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Anonymous BrowsingAlthough they’re great for blocking advertisements and crushing
+cookies, there’s one thing that HTTP proxies can’t do, and that’s hide
+your IP address. Fundamentally, there is no way for a proxy
+to change your IP address, because if it did, the remote web server
+wouldn’t be able to send you back the web pages that you
+request!But despite the apparent difficulty of doing so, there are good
+reasons for wanting to protect your IP address from other computers on
+the Internet: IP addresses and hostnames can contain personal
+information and, like cookies, they can be used for correlating
+browsing activities across different web sites. Finally, your IP
+address can be used to track back seemingly “anonymous” web
+transactions to uncover your true identity—something that you may wish
+to prevent from happening.Consider these hostnames and IP addresses that were recovered
+from log files:daily-bugle.media.mit.edu 18.85.13.120This hostname and its matching IP address belonged to a
+desktop computer at the MIT Media Lab in the early 1990s.
+Because this computer was only used by one person, wherever this
+person went on the Internet, he left tracks in log files that
+could be traced directly back to him. As the computer
+daily-bugle was also used to send mail and
+post to the Usenet, it was relatively simple to determine the
+identity of the person using this computer.h00a0c030202a.ne.mediaone.net 108.21.147.24This hostname was assigned by Media One to a cable modem subscriber in Cambridge, ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

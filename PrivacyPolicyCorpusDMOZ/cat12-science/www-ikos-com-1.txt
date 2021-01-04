@@ -1,0 +1,179 @@
+http://www.ikos.com/terms_conditions/privacy
+Electronic Design Automation
+High-Level Synthesis
+RTL Low-Power Opt & Analysis
+Functional Verification
+Tanner AMS IC Design Flow
+Tanner MEMS Design Flow
+Photonic Design
+IC Design
+IC Manufacturing
+IC Test
+Intellectual Property
+FPGA
+Systems
+Electrical Systems, Networks & Harnesses
+System Modeling & Design Management
+PCB & IC Package Design
+PCB Manufacturing, Assembly & Test
+CAE Simulation & Test
+CAD-Embedded CFD
+Electronics Cooling CFD
+Low-Frequency Electromagnetics & Motors
+Semiconductor Device Thermal Testing
+1D CFD
+Automotive
+Connectivity
+Electrification
+Autonomous
+Architecture
+Embedded
+Products
+IoT Solutions
+Toolchain Services
+Runtime Services
+Industries
+Home
+Products
+Functional Verification
+Veloce Emulation Platform
+Functional Verification
+Veloce Emulation Platform
+Veloce Strato Platform
+Veloce2 Emulator
+Veloce Apps
+Veloce Power Application
+Veloce Deterministic ICE App
+Veloce Virtual Network (VN) App
+Veloce DFT App
+Veloce Protocol Solutions
+Veloce Testbench XPress
+Veloce Resources
+X-STEP
+Solutions
+Products
+Protocol Support
+Questa Verification Solution
+Questa CDC
+Questa Formal Verification
+Questa inFact
+Questa Power Aware Simulation
+Questa Simulation
+Questa Verification Management
+Analog/Mixed-Signal Verification
+Clock-Domain Crossing
+Questa CDC
+Questa Signoff CDC
+Questa RDC
+Debug
+Certus Silicon Debug
+Codelink
+Visualizer Debug Environment
+Formal Verification Apps
+Questa Property Checking
+Questa Formal Assertion Library
+Questa AutoCheck
+Questa CoverCheck
+Questa Connectivity Check
+Questa Post Silicon Debug
+Questa Register Check
+Questa Secure Check
+Questa SLEC
+Questa X-Check
+Verification IP
+Simulation VIP
+AMBA®
+Display
+Ethernet
+MIPI®
+PCIe®
+Serial
+USB
+Other Protocols
+Memory Library
+Questa Formal Assertion Library
+Virtual Prototyping
+Vista Flow
+UVM
+Products A to Z
+Resources
+White Papers
+Multimedia
+Success Stories
+News & Press
+Events
+Blog
+Contact Functional Verification
+Email Us
+Chat Online
+Chat OnlineNo agents are available
+1-800-547-3000
+Direct: (503) 685-8000
+Veloce Strato Platform
+Veloce Strato Platform
+The Veloce Strato Emulation platform has sufficient execution speed, full visibility capabilities and ease-of-use in model creation and model updates to span the entire range of needs throughout the life of the design development process.
+Learn More
+The Veloce Strato Platform: Unique Core Components Create High-Value Advantages
+White Paper
+Veloce Power Application
+Veloce Power Application
+Veloce Power Application boosts runtime and performance of the power analysis flow by up to 4.5X.
+Learn More
+The 2016 Wilson Research Group ASIC/IC and FPGA Functional Verification Study
+On-demand Web Seminar
+Veloce VirtuaLAB
+Veloce VirtuaLAB
+Virtual peripherals and host devices make the emulator a shared resource for multiple HW and SW engineers around the world 24/7.
+Learn More
+Veloce Delivers Best of ICE and Virtual Emulation to the SSD Storage Market
+White Paper
+The Veloce® Emulation Platform dramatically reduces risk in the verification of today’s complex SoCs and is a core technology in the Mentor Enterprise Verification Platform™ (EVP).
+Comprehensive verification support
+Mentor’s software and application solutions and continual enhancements enable a comprehensive verification environment for IP, chip, and system level verification.
+Veloce Strato and Veloce Strato OS
+Veloce Strato emulation platform consists of three main components: the chip, the operating system software and the hardware. Each main component delivers unique capabilities, but just as importantly, they are designed to work together to enhance user benefits and deliver exceptional verification productivity.
+Veloce2 Emulator
+The leading high-performance, high-capacity hardware-assisted solution for verifying embedded systems and SoC designs. The Veloce emulator accelerates block and full SoC RTL simulations during all phases of the design process.
+Veloce OS3
+Veloce's innovative operating system, Veloce OS3, adds software programmability and resource management to the Veloce emulator. OS3 makes it easy to add new use models and extend the value of the platform.
+Veloce VirtuaLAB
+Veloce VirtuaLAB devices are software solutions that create a “virtual lab” environment for SoC verification. They provide greater flexibility and visibility over a target protocol in applications such as video/audio, storage, and networking as well as industry-standard bus protocols.
+iSolve
+iSolve solutions provide application and protocol-based solutions for several vertical market areas; including video/audio, networking, wireless, embedded software, and storage.
+Veloce TestBench XPress
+TestBench XPress (TBX) co-modeling software makes Veloce2 an ultrafast transaction-level modeling (TLM) verification engine, up to 10,000 times faster than software simulators, significantly reducing development schedule risks.
+Verification IP
+Verification IP delivers higher levels of productivity for simulation and for acceleration of IP and SoC verification, easing the transition from simulation to acceleration.
+Codelink
+Codelink® establishes a highly productive, software-driven hardware debug environment with innovative features that make a debug session appear just like an interactive session while maintaining synchronization.
+Vista
+Vista™ supports Electronic System Level (ESL) tool integration with Veloce2. An integrated TLM 2.0-based solution for architectural design exploration, verification, and virtual prototyping, it allows engineers to validate hardware and software early in the design cycle.
+Other technologies
+The Veloce platform also incorporates Mentor’s advanced functional verification methodology, to provide the same advanced capabilities as simulation for assertions, coverage, TLM, and UVM. In addition, Mentor JTAG solutions provide both physical and virtual JTAG connections to software development tools.
+The Veloce Emulation Platform advantage
+The Veloce emulation platform combines a unique hardware architecture, innovative operating system, specialized applications, and versatile peripheral solutions to deliver a comprehensive and flexible high-speed, high-capacity verification environment. Veloce accelerates simulation and provides uncompromised visibility and debug.
+Its innovative Veloce operating system adds software programmability and resource management, making it easier to add new use models that extend the value of the emulator. The interplay of software innovation on powerful, flexible hardware makes emulation a more effective verification choice for more companies.
+State-of-the-art emulation SoC and scalable hardware configurations for verifying designs from 40 million to 15 billion gates.
+Acceleration of block, module, and full SoC regression test runs is many orders of magnitude faster than simulation
+Eliminates most silicon respins by running billions of cycles to find hard-to-find bugs missed by traditional methods
+Comprehensive and versatile simulation-like debug environment for ease-of-use
+Full system integration using real-world stimulus and software for testbenches before first silicon is available
+Simulation-like use model for assertion and coverage based verification
+Standard queuing support for optimal utilization of emulation resources among various teams and sites
+Veloce Apps leverage the proven, robust emulator capabilities to solve specific verification and validation challenges.
+Featured Resources
+Automotive Design Needs Efficient Verification to SurviveWhite Paper
+SystemVerilog Constraints: Appreciating What You Forgot in School to Get Better ResultsWhite Paper
+Veloce Strato Hardware Emulation / Visualizer Debug Environment - What’s New in Functional Verification from Mentor: Session 2
+On-demand Web Seminar
+Low Power Verification with Questa – An Overview
+On-demand Web Seminar
+Terminal Boundary Dictates Power Aware MacrosWhite Paper
+5G SoCs Demand New Verification ApproachesWhite Paper
+How to make BFM architectures emulation readyWhite Paper
+View all resources
+This site uses cookies to improve your user experience and to provide you with content we believe will be of interest to you. Detailed information on the use of cookies on this website is provided in our Privacy Policy. By using this website, you consent to the use of our cookies.
+Ok, don't show me this again
+Chat
+|
+Contact

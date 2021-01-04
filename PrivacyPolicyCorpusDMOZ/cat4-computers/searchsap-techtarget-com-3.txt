@@ -1,0 +1,116 @@
+https://searchsap.techtarget.com/feature/New-Onapsis-service-helps-uncover-SAP-security-issues
+James Thew - Fotolia
+Share this item with your network:
+By
+Jim O'Donnell,
+News Writer
+Published: 12 Jun 2019
+SAP customers may have been a little unnerved by recent reports of security vulnerabilities in SAP systems, but they now have a new way to assess and deal with SAP security issues.
+Onapsis Inc., a cybersecurity vendor that focuses on SAP and Oracle enterprise systems, has unveiled Onapsis Business Risk Illustration (BRI), a program that enables organizations to assess security vulnerabilities in SAP systems. Onapsis BRI analyzes SAP security issues associated with applications, systems and custom code, according to the company.
+SAP and other enterprise ERP systems are rich targets for cybercriminals, because they contain much of an organization's most valuable data, and organizations are often too lax about regularly applying software security patches to the systems. The SAP systems' vulnerabilities got attention in May, when the U.S. Department of Homeland Security issued a US-CERT alert concerning 10KBLAZE, an exploit that targets "unsecure configurations of SAP components," according to the report.
+SAP security issues need more attention
+SAP security is a serious issue that's not getting enough attention, according to Jason Fruge, chief information security officer at Fossil Group Inc., a global firm based in Richardson, Texas, that designs and manufactures several watch brands.
+Jason Fruge
+Fossil Group has run an SAP implementation for 16 years, with mission-critical applications that run the company's HR management, payroll, manufacturing, repair centers and distribution centers, Fruge said.
+"If SAP was to go down, we would stop operations. There's just nothing we could do without it," Fruge said. "It maintains all of our customer history, as well as our internal employment information. So, this is [a] really critical application in the company."
+One of the problems with maintaining SAP security is standard IT event management and patching tools aren't geared for SAP systems, and the vulnerabilities can be niche and specialized at the SAP application layer, according to Fruge. So, getting the resources to address SAP vulnerabilities begins with understanding the problems.
+Opening up SAP leads to vulnerabilities
+Fruge turned to Onapsis BRI, which indicated vulnerabilities that could cause significant financial and operational damage existed. SAP is also becoming more vulnerable now, because it's being opened up to the internet through UI apps like Fiori.
+The BRI assessment models how an unauthorized entity can enter an SAP system and identifies where the specific vulnerabilities are, Fruge said. The initial analysis was completed in a couple of hours and was done on Fossil Group's production environment, which meant no valuable time was lost shutting the system down for testing.
+Fruge said a mistake many organizations make is they focus their security efforts on compliance with regulatory efforts such as Sarbanes-Oxley and may miss other critical SAP security issues.
+"[In order to comply with Sarbanes-Oxley], you need to make sure your financial systems are secure from a roles perspective, like what users allowed to do what," Fruge said. "But that doesn't say anything about how frequently you need to maintain the security patching capability. There's really no prescription for security. It requires a thoughtful approach that says, 'What does my asset landscape look like, and where are my most important assets and my least important assets?'"
+Identifying key SAP security issues
+Onapsis BRI provides organizations access to its security teams who probe SAP systems for vulnerabilities, according to the company. The Onapsis teams mimic attackers' behavior to identify the organization's target SAP systems and detect vulnerabilities such as weaknesses in custom code or misconfigurations. SAP applications and systems are then rated on Onapsis' Business Application Risk Maturity Model, which provides a six-stage scale of risk maturity from healthy to high-risk.
+Onapsis BRI can identify several SAP application or system vulnerabilities, according to the company, including the following:
+the 10KBLAZE exploit, identified in the US-CERT AA19-122A alert, which allows a remote entity to access SAP applications through the SAP Message Server;
+the Invoker Servlet vulnerability, identified in US-CERT Alert TA16-132A, which allows SAP applications to be compromised via a web browser;
+SAP Gateway configuration issues that allow attackers to perform sensitive operations that can access information in SAP systems; and
+vulnerabilities in custom code that organizations create for their own SAP processes.
+Related Resources
+SAP Infrastructures in the Cloud
+–SUSE
+Dig Deeper on SAP infrastructure and cloud
+SAP security vulnerability could affect 40,000 customers
+By: Jim O'Donnell
+Recon vulnerability puts thousands of SAP customers at risk
+By: Alex Scroxton
+SAP S/4HANA migration: Critical advice for moving off ECC
+By: Christine Parizo
+Understand and fight potential SAP exploits
+By: Christine Parizo
+Jim O'Donnell asks:
+What are the biggest SAP security issues that your organization has encountered?
+Join the Discussion
+Sponsored News
+Partners Take On a Growing Threat to IT Security
+–Intel
+Three Tenets of Security Protection for State and Local Government and Education
+–Dell Technologies
+Real-world use cases for FlashStack
+–Pure Storage
+See More
+Related Content
+DHS warns on actively exploited SAP Java vulnerability
+– SearchSecurity
+Onapsis SAP tool traps security holes
+– ComputerWeekly.com
+SAP security vulnerability could affect 40,000 ...
+– SearchSAP
+Latest TechTarget resources
+ERP
+Oracle
+Data Management
+AWS
+Business Analytics
+Content Management
+HR Software
+SearchERP
+RACI matrix for project management success, with example
+A lack of clarity around roles and responsibilities is a common cause of project failure. A RACI matrix can help project managers...
+Unit4 ERP cloud vision is impressive, but can it compete?
+With the upcoming Unit4 ERPx, the Netherlands-based vendor is again demonstrating its ambition to challenge the market leaders in...
+Five keys to using ERP to drive digital transformation
+Digital transformation is critical to many companies' success and ERP underpins that transformation. Here's a look at how to make...
+SearchOracle
+Oracle Autonomous Database shifts IT focus to strategic planning
+This handbook looks at what Oracle Autonomous Database offers to Oracle users and issues that organizations should consider ...
+Oracle Autonomous Database features free DBAs from routine tasks
+Oracle Autonomous Database can automate routine administrative and operational tasks for DBAs and improve productivity, but ...
+Oracle co-CEO Mark Hurd dead at 62, succession plan looms
+Oracle co-CEO Mark Hurd's abrupt death at 62 has put the software giant in the position of naming his replacement, and the ...
+SearchDataManagement
+The top 6 use cases for a data fabric architecture
+Enterprise data fabric adoption has been on the rise as a way to ensure access and data sharing in a distributed environment. ...
+Varada accelerates data virtualization with Presto
+The new Varada Data Platform combines data virtualization with the open source Presto SQL query engine to help enable rapid ...
+SingleStore raises $80M for distributed SQL database
+Raj Verma, CEO of SingleStore, explains why the vendor rebranded from MemSQL and how its platform is more than just an in-memory ...
+SearchAWS
+How Amazon and COVID-19 influence 2020 seasonal hiring trends
+Retail and logistics companies must adapt their hiring strategies to compete with Amazon and respond to the pandemic's effect on ...
+New Amazon grocery stores run on computer vision, apps
+Amazon dives deeper into the grocery business with its first 'new concept' grocery store, driven by automation, computer vision ...
+Amazon's sustainability initiatives: Half empty or half full?
+Amazon's public perception and investment profile are at stake as altruism and self-interest mix in its efforts to become a more ...
+SearchBusinessAnalytics
+New ThoughtSpot tool advances embedded BI capabilities
+ThoughtSpot this week unveiled ThoughtSpot Everywhere, an embedded analytics platform in preview, and a host of features on its ...
+15 common data science techniques to know and use
+Data scientists use a variety of statistical and analytical techniques to analyze data sets. Here are 15 popular classification, ...
+Snowflake's Slootman predicts future of cloud analytics
+Cloud data platforms that effectively eliminate data silos and reduce the need for multiple tools will emerge over the next few ...
+SearchContentManagement
+How a content tagging taxonomy improves enterprise search
+Creating an enterprise taxonomy can help users more easily find the content they need when searching through files in a content ...
+Compare information governance vs. records management
+Information governance focuses on the framework a business must follow for managing information, while records management focuses...
+5 best practices to complete a SharePoint Online migration
+Moving from an on-premises system to SharePoint Online offers businesses new capabilities, such as Power Suite and site analytics...
+SearchHRSoftware
+Ultimate guide to recruitment and talent acquisition
+It's no longer good enough to recruit for tomorrow. You need to take a long view and build a workforce for the next stage of ...
+Employers face daunting COVID-19 vaccination questions
+COVID-19 has all but ensured offices will never fully return to normal. Now that vaccinations are here, HR will have to decide ...
+7 talent acquisition strategies for better hiring in 2021
+The war for talent could resume if the effects of the pandemic recede as expected in 2021. Be prepared with an engaging candidate...
+Close

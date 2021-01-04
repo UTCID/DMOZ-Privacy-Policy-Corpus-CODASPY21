@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch08s05.html#websec2-CHP-8-SECT-5.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Web BugsIn September 2000, the Colorado-based Privacy
+Foundation[105] released a report on a new technology for monitoring
+Internet users, which the foundation called web
+bugs . Although the use of this technology had been widely
+known in advertising circles, it had not previously been publicized to
+the larger community of Internet users.Web bugs are small graphic images placed on web pages or in
+email messages to facilitate third-party tracking of users and
+collection of statistics. A typical web bug consists of a
+1-pixel-by-1-pixel transparent GIF, making it invisible to the
+unassisted eye. To see a web bug, you must view the source of an HTML
+page or email message.According to the foundation’s Web Bug FAQ:[106]The word bug is being used to denote a small, eavesdropping
+device. It is not a euphemism for a programming error.... Rather
+than the term `Web bugs,’ the Internet advertising community prefers
+the more sanitized term `clear GIF.’ Web bugs are also known as `1-by-1 GIFs,’
+`invisible GIFs,’ and `beacon GIFs.’Web Bugs on Web PagesHere are two web bugs that the Privacy Foundation
+found on the Intuit’s home page for Quicken.COM:<img src="http://ad.doubleclick.net/ad/pixel.quicken/NEW"
+width=1 height=1 border=0>
+<IMG WIDTH=1 HEIGHT=1 border=0
+SRC="http://media.preferences.com/ping?ML_SD=IntuitTE_Intuit_1x1_RunOfSite_Any&db_
+afcr=4B31-C2FB-10E2C&event=reghome&group=register&time=1999.10.27.20.5 6.37">The first web bug causes a single 1 x 1 image to be fetched from the Doubleclick ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

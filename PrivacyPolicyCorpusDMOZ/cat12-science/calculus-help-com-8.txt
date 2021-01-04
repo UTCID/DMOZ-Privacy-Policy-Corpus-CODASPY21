@@ -1,0 +1,100 @@
+https://calculus-help.com/2020/09/02/logarithmic-equation/
+Skip to content
+Logarithmic equations may have a variable, several variables, or a base you'll need to determine. You will use the Power Rule or other calculus rules.
+Image source: Pixabay.com
+A logarithmic equation needs to be rewritten as an exponential equation for you to find the variable. This common calculus problem contains constants and expressions, and you’ll find logarithmic shortened to “log” in some written problems.
+Quick Navigation
+1
+Exponents, Graphs, And Intercepts
+2
+Overview Of Logarithmic Equations
+3
+Fine Tune Your Study Schedule To Get Better Grades
+Condense a problem with more than one logarithm by turning it into one equation. A logarithm is constructed in a way that allows it to change a math function into another math function to solve a problem. Multiplication turns into addition and division becomes subtraction. The function changes let you find the variable value.
+You’ll work with some well-known calculus rules with logs, such as:
+The Power Rule
+The Product Rule
+The Quotient Rule
+Exponents, Graphs, And Intercepts
+You will work with many components to solve logarithmic equations. Here are a few of them, with some brief information about the function of each one.
+An exponent is a small raised number next to a larger numeral in an equation. The small number shows how many times the larger number is multiplied by itself. The small raised number 2 shows that the larger number is multiplied by itself twice.  A number multiplied by itself twice can be referred to as 4 to the second power or four squared.
+A variable is a symbol for an unknown number. Linear equations may have many values that can be used in place of the variable. Most variables, however, are solved with a single value.
+The variable F represents the graph of a function. The graph of a function represents all points in f(x). You can also refer to the graph of a function as the graph of an equation.
+When you look at the equation of a straight line (such as y equals mx plus b) the y-intercept is the location where the line goes through the vertical y-axis. In y equals mx plus b, b is the y-intercept, the slope is m, and the variable m is multiplied on the variable x.
+An x-intercept appears at the spot where the graph crosses the x-axis. The x-intercept is also the point on the graph that shows the variable x as zero.
+Overview Of Logarithmic Equations
+A problem with one logarithm on each side of the equation that has the same base lets you use arguments that are the same. The expressions M and N are the arguments in the following description:
+Logb M equals Logb N leads to M equals N
+A problem with a logarithm on one side of the equation you can use an exponential equation to find the answer.
+Logb M equals N leads to M equals bN
+Example #1
+Solve this problem:
+Log3 (x) plus Log3 (x -2) equals Log3 (x plus 10)
+Condense the log arguments on the left side into one logarithm with the Product Rule. You need one log expression on both sides of the equation. X will have a power of two, so you’ll need to solve a quadratic equation.
+You get Log3 [(x) (x minus 2)] equals Log3 (x plus 10). Now condense (x) (x-2) = x squared minus 2x. Then you get Log3 (x squared minus 2x) equals Log3  (x plus 10)
+Get rid of the logs and set the arguments inside the parenthesis to match each other.
+X squared minus 2x equals x plus 10
+Now use the factoring method to finish the quadratic equation. Move all information to one side and make the opposite side contain a zero value.
+X squared minus 3x minus 10 equals zero
+(x minus 5) (x plus 2) equals zero
+Now turn each factor to zero and solve x. X minus 5 equals zero means that x equals 5. X plus 2 equals zero means that x equals negative 2.  X equals 5 and X equals negative 2 are the answers we may use. Now check the answers to see if they are correct.
+Place the answers back in the first logarithmic equation to verify their validity.
+For x equals 5, Log3 (5) plus Log3 (5-2) equals Log3 (5 plus 10)
+Log3 (5) plus Log3 (3) equals Log3 (15)
+This is the correct answer. X  equals negative 2 gives us a few negative numbers inside the parenthesis, and a log of zero and negative numbers in the equation make negative 2 the wrong answer.
+Example #2
+Solve the following problem: ½ log (X to the fourth power) minus log (2x minus 1) equals log (x squared) plus log (2).
+Log without a written base has a base of 10. Base 10 is the common logarithm. Compress both sides of the equation into one log. You’ll see the Quotient Rule applied on the left side ( a difference of logs) and the Product Rule (the sum of logs) on the right side.
+Pay attention to the ½ coefficient on the left side. You’ll need to use the Power Rule and bring the coefficient ½ up in reverse order.
+Log (base), M to the k power equals K times log (base) M, then ½ log (X to the fourth power) minus log (2x minus 1) equals log (x squared) plus log (2)
+Now use the ½ as an exponent on the left. Log (x to the fourth power) to the one/half power minus log (2x minus 1) equals log (x to the second power) plus log (2).
+Now simplify the exponent to log (x squared) minus log (2x minus 1) equals log (x squared) plus log (2) Now condense log using the Product Rule on the right and the Quotient Rule on the left.
+Log ( x squared over 2x minus one) equals log (2x to the second power)
+It’s all right to show that if we have the same base in our equations (base 10), we can show that they are equal to each other.  Now drop the logs and put arguments inside their parentheses.
+X squared over 2x minus 1 equals 2x squared
+Use the Cross Product to solve the Rational Equation. Factor out to get the brief, final answer after moving all terms to one side of the equation. Make each factor equal to zero and then solve x.   X equal ¾ is one possible answer, x equals zero is the other.
+Check your possible answers. X equals zero bring an undefined zero logarithm into the equation, which is wrong. X equals 3.4 is the only solution.
+Fine Tune Your Study Schedule To Get Better Grades
+Students who consistently get excellent grades in calculus or geometry do so because they study daily and show a steady interest in their classwork and homework. Establish a study routine by choosing a quiet place where you can read and practice solving problems at the same time each day (or at least a few times a week).
+Bookmark math websites and videos containing videos that will help you understand the formulas and concepts that give you trouble, including any logarithmic equation. Along with your class notes and practice problems in your textbook, you’ll be equipped with everything you need to study more efficiently.
+Contact other students in your class, tutors from the math department, or independent math tutors to help you if you’re unable to master a particular formula on your own. Even the best students need help from another student or a tutor from time to time. You can find help online from professional tutors who are available 24/7 to help answer your questions. To ask a question click here.
+Don’t expect calculus or any math class to be difficult or easy; work on the assignments without worrying about your grades or the outcome. Study for tests up to a week in advance, preferably with classmates or other math students. Trade tips and discuss different solutions and approaches to problems.
+No one fails calculus because they lack the skills or mental capacity to perform exercises properly. People fail because they are unwilling or unable to do the required work. Teachers and calculus experts suggest you study six or seven hours on weekends and a few hours each weeknight to get the best grades possible.
+Anyone who only has five to ten hours a week to study and prepare for class or tests should delay calculus classes until they are ready to study more often. Calculus courses are fast-paced, and if you get behind it will be hard to get caught up on the lessons you missed or didn’t understand.
+Work as hard as you can in the first month of class. Define your strengths and weaknesses, and enlist tutors or a study group if you need them. Don’t get behind and think you can catch up quickly without help. You may end up dropping the class if you don’t take charge of your studies.
+Don’t miss classes. Calculus isn’t like history or English, where catching up is hard, but not impossible, by yourself. If you miss one class, you should be able to catch up if you have a passable grasp of previous classes.
+Anyone with a poor understanding of previous formulas and problem-solving methods will find that they are completely lost after missing a class or two. As soon as you feel confused, let your teacher, tutor, or study group know and ask for help. If you want flexibility with help, then you can use online tutors.Click here to get tutor help.
+Post navigation
+Previous Previous post: What Is the Tangent Line Equation?Next Next post: Finding Limits In Calculus – Follow These Steps
+Archives
+September 2020
+August 2020
+January 2020
+December 2019
+October 2019
+September 2019
+July 2019
+June 2019
+May 2019
+February 2019
+May 2018
+January 2017
+September 2016
+Categories
+Articles
+Tutorials
+Uncategorized
+Video-Tutorials
+Meta
+Log in
+Entries feed
+Comments feed
+WordPress.org
+Recent Posts
+Problem 3: Position and Velocity
+Ultimate Guide On How To Calculate The Derivative Of Arccos
+What is a Relative Minimum in Calculus?
+Finding Limits In Calculus – Follow These Steps
+How To Solve A Logarithmic Equation In Calculus
+Search for:
+Search

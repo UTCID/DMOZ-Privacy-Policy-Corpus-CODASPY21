@@ -1,0 +1,31 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch16s06.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Writing Scripts That Run with Additional Privileges
+Many scripts need to run with user permissions different
+from those of the web server itself. On a Unix computer, the easiest
+way to do this is to make the script SUID or SGID. By doing this, the
+script runs with the permissions of the owner of the file, rather than
+those of the web server itself. On Macintosh, DOS, and Windows 95
+systems, there is no such choice—scripts run with the same privileges
+and can access everything on the system.Unfortunately, programs that run with additional privileges
+traditionally have been a source of security problems. This list of
+suggestions is based on those problems and specially tailored for the
+problems faced by the web developer:Avoid using the superuser (SUID root or SGID
+wheel) unless it is vital that your program
+perform actions that can only be performed by the superuser. For
+example, you will need to use SUID root if you want your program
+to modify system databases such as
+/etc/passwd. But if you merely wish to have
+the program access a restricted database of your own creation,
+create a special Unix user for that application and have your
+scripts SUID to that user.If your program needs to perform some functions as superuser
+but generally does not require SUID permissions, consider putting
+the SUID part in a different program and constructing a carefully
+controlled and monitored interface between the two.If you need SUID or SGID permissions, use them for their intended purpose as early ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

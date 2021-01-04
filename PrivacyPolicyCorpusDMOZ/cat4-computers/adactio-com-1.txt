@@ -1,0 +1,282 @@
+http://adactio.com/tags/privacy
+adactio
+Monday, November 30th, 2020
+Clean advertising
+Imagine if you were told that fossil fuels were the only way of extracting energy. It would be an absurd claim. Not only are other energy sources available—solar, wind, geothermal, nuclear—fossil fuels aren’t even the most effecient source of energy. To say that you can’t have energy without burning fossil fuels would be pitifully incorrect.
+And yet when it comes to online advertising, we seem to have meekly accepted that you can’t have effective advertising without invasive tracking. But nothing could be further from the truth. Invasive tracking is to online advertising as fossil fuels are to energy production—an outmoded inefficient means of getting substandard results.
+Before the onslaught of third party cookies and scripts, online advertising was contextual. If I searched for property insurance, I was likely to see an advertisement for property insurance. If I was reading an article about pet food, I was likely to be served an advertisement for pet food.
+Simply put, contextual advertising ensured that the advertising that accompanied content could be relevant and timely. There was no big mystery about it: advertisers just needed to know what the content was about and they could serve up the appropriate advertisement. Nice and straightforward.
+Too straightforward.
+What if, instead of matching the advertisement to the content, we could match the advertisement to the person? Regardless of what they were searching for or reading, they’d be served advertisements that were relevant to them not just in that moment, but relevant to their lifestyles, thoughts and beliefs? Of course that would require building up dossiers of information about each person so that their profiles could be targeted and constantly updated. That’s where cross-site tracking comes in, with third-party cookies and scripts.
+This is behavioural advertising. It has all but elimated contextual advertising. It has become so pervasive that online advertising and behavioural advertising have become synonymous. Contextual advertising is seen as laughably primitive compared with the clairvoyant powers of behavioural advertising.
+But there’s a problem with behavioural advertising. A big problem.
+It doesn’t work.
+First of all, it relies on mind-reading powers by the advertising brokers—Facebook, Google, and the other middlemen of ad tech. For all the apocryphal folk tales of spooky second-guessing in online advertising, it mostly remains rubbish.
+Forget privacy: you’re terrible at targeting anyway:
+None of this works. They are still trying to sell me car insurance for my subway ride.
+Have you actually paid attention to what advertisements you’re served? Maciej did:
+I saw a lot of ads for GEICO, a brand of car insurance that I already own.
+I saw multiple ads for Red Lobster, a seafood restaurant chain in America. Red Lobster doesn’t have any branches in San Francisco, where I live.
+Finally, I saw a ton of ads for Zipcar, which is a car sharing service. These really pissed me off, not because I have a problem with Zipcar, but because they showed me the algorithm wasn’t even trying.
+It’s one thing to get the targeting wrong, but the ad engine can’t even decide if I have a car or not! You just showed me five ads for car insurance.
+And yet in the twisted logic of ad tech, all of this would be seen as evidence that they need to gather even more data with even more invasive tracking and surveillance.
+It turns out that bizarre logic is at the very heart of behavioural advertising. I highly recommend reading the in-depth report from The Correspondent called The new dot com bubble is here: it’s called online advertising:
+It’s about a market of a quarter of a trillion dollars governed by irrationality.
+The benchmarks that advertising companies use – intended to measure the number of clicks, sales and downloads that occur after an ad is viewed – are fundamentally misleading. None of these benchmarks distinguish between the selection effect (clicks, purchases and downloads that are happening anyway) and the advertising effect (clicks, purchases and downloads that would not have happened without ads).
+Suppose someone told you that they keep tigers out of their garden by turning on their kitchen light every evening. You might think their logic is flawed, but they’ve been turning on the kitchen light every evening for years and there hasn’t been a single tiger in the garden the whole time. That’s the logic used by ad tech companies to justify trackers.
+Tracker-driven behavioural advertising is bad for users. The advertisements are irrelevant most of the time, and on the few occasions where the advertising hits the mark, it just feels creepy.
+Tracker-driven behavioural advertising is bad for advertisers. They spend their hard-earned money on invasive ad tech that results in no more sales or brand recognition than if they had relied on good ol’ contextual advertising.
+Tracker-driven behavioural advertising is very bad for the web. Megabytes of third-party JavaScript are injected at exactly the wrong moment to make for the worst possible performance. And if that doesn’t ruin the user experience enough, there are still invasive overlays and consent forms to click through (which, ironically, gets people mad at the legislation—like GDPR—instead of the underlying reason for these annoying overlays: unnecessary surveillance and tracking by the site you’re visiting).
+Tracker-driven behavioural advertising is good for the middlemen doing the tracking. Facebook and Google are two of the biggest players here. But that doesn’t mean that their business models need to be permanently anchored to surveillance. The very monopolies that make them kings of behavioural advertising—the biggest social network and the biggest search engine—would also make them titans of contextual advertising. They could pivot from an invasive behavioural model of advertising to a privacy-respecting contextual advertising model.
+The incumbents will almost certainly resist changing something so fundamental. It would be like expecting an energy company to change their focus from fossil fuels to renewables. It won’t happen quickly. But I think that it may eventually happen …if we demand it.
+In the meantime, we can all play our part. Just as we can do our bit for the environment at an individual level by sorting our recycling and making green choices in our day to day lives, we can all do our bit for the web too.
+The least we can do is block third-party cookies. Some browsers are now doing this by default. That’s good.
+Blocking third-party JavaScript is a bit trickier. That requires a browser extension. Most of these extensions to block third-party tracking are called ad blockers. That’s a shame. The issue is not with advertising. The issue is with tracking.
+Alas, because this software is labelled under ad blocking, it has led to the ludicrous situation of an ethical argument being made to allow surveillance and tracking! It goes like this: websites need advertising to survive; if you block the ads, then you are denying these sites revenue. That argument would make sense if we were talking about contextual advertising. But it makes no sense when it comes to behavioural advertising …unless you genuinely believe that online advertising has to be behavioural, which means that online advertising has to track you to be effective. Such a belief would be completely wrong. But that doesn’t stop it being widely held.
+To argue that there is a moral argument against blocking trackers is ridiculous. If anything, there’s a moral argument to be made for installing anti-tracking software for yourself, your friends, and your family. Otherwise we are collectively giving up our privacy for a business model that doesn’t even work.
+It’s a shame that advertisers will lose out if tracking-blocking software prevents their ads from loading. But that’s only going to happen in the case of behavioural advertising. Contextual advertising won’t be blocked. Contextual advertising is also more lightweight than behavioural advertising. Contextual advertising is far less creepy than behavioural advertising. And crucially, contextual advertising works.
+That shouldn’t be a controversial claim: the idea that people would be interested in adverts that are related to the content they’re currently looking at. The greatest trick the ad tech industry has pulled is convincing the world that contextual relevance is somehow less effective than some secret algorithm fed with all our data that’s supposed to be able to practically read our minds and know us better than we know ourselves.
+Y’know, if this mind-control ray really could give me timely relevant adverts, I might possibly consider paying the price with my privacy. But as it is, YouTube still hasn’t figured out that I’m not interested in Top Gear or football.
+The next time someone is talking about the necessity of advertising on the web as a business model, ask for details. Do they mean contextual or behavioural advertising? They’ll probably laugh at you and say that behavioural advertising is the only thing that works. They’ll be wrong.
+I know it’s hard to imagine a future without tracker-driven behavioural advertising. But there are no good business reasons for it to continue. It was once hard to imagine a future without oil or coal. But through collective action, legislation, and smart business decisions, we can make a cleaner future.
+Wednesday, October 21st, 2020
+Chrome exempts Google sites from user site data settings
+Collusion between three separate services owned by the same company: the Google search engine, the YouTube website, and the Chrome web browser.
+Gosh, this kind of information could be really damaging if there were, say, antitrust proceedings initiated.
+In the meantime, use Firefox
+Friday, October 16th, 2020
+How To Protect Your Privacy Online In 8 Tips : Life Kit : NPR
+Take a look at your smartphone and delete all the apps you don’t really need. For many tasks, you can use a browser on your phone instead of an app.
+Privacy-wise, browsers are preferable, because they can’t access as much of your information as an app can.
+Thursday, October 8th, 2020
+Parties and browsers
+Tess calls for more precise language—like “site” and “origin”—when talking about browsers and resources:
+When talking about web features with security or privacy impact, folks often talk about “first parties” and “third parties”. Everyone sort of knows what we mean when we use these terms, but it turns out that we often mean different things, and what we each think these terms mean usually doesn’t map cleanly onto the technical mechanisms browsers actually use to distinguish different actors for security or privacy purposes.
+Personally, rather than say “third-party JavaScript”, I prefer the more squirm-inducing and brutually honest phrase “other people’s JavaScript”.
+Wednesday, September 23rd, 2020
+Blacklight – The Markup
+This is an excellent new tool for showing exactly what kind of tracking a site is doing:
+Who is peeking over your shoulder while you work, watch videos, learn, explore, and shop on the internet? Enter the address of any website, and Blacklight will scan it and reveal the specific user-tracking technologies on the site—and who’s getting your data. You may be surprised at what you learn.
+Best of all, you can inspect the raw data and analyse the methodology.
+There are some accompanying explainers:
+I Scanned the Websites I Visit with Blacklight, and It’s Horrifying. Now What?
+How We Built a Real-time Privacy Inspector
+The High Privacy Cost of a “Free” Website
+Monday, September 7th, 2020
+Daring Fireball: Online Privacy Should Be Modeled on Real-World Privacy
+Just because there is now a multi-billion-dollar industry based on the abject betrayal of our privacy doesn’t mean the sociopaths who built it have any right whatsoever to continue getting away with it. They talk in circles but their argument boils down to entitlement: they think our privacy is theirs for the taking because they’ve been getting away with taking it without our knowledge, and it is valuable.
+Monday, July 27th, 2020
+the Web at a crossroads - Web Directions
+John weighs in on the clashing priorities of browser vendors.
+Imagine if the web never got CSS. Never got a way to style content in sophisticated ways. It’s hard to imagine its rise to prominence in the early 2000s. I’d not be alone in arguing a similar lack of access to the sort of features inherent to the mobile experience that WebKit and the folks at Mozilla have expressed concern about would (not might) largely consign the Web to an increasingly marginal role.
+Thursday, July 9th, 2020
+Implementors
+The latest newsletter from The History Of The Web is a good one: The Browser Engine That Could. It’s all about the history of browsers and more specifically, rendering engines.
+Jay quotes from a 1992 email by Tim Berners-Lee when there was real concern about having too many different browsers. But as history played out, the concern shifted to having too few different browsers.
+I wrote about this—back when Edge switched to using Chromium—in a post called Unity where I compared it to political parties:
+If you have hundreds of different political parties, that’s not ideal. But if you only have one political party, that’s very bad indeed!
+I talked about this some more with Brian and Stuart on the Igalia Chats podcast: Web Ecosystem Health (here’s the mp3 file).
+In the discussion we dive deeper into the naunces of browser engine diversity; how it’s not the numbers that matter, but representation. The danger with one dominant rendering engine is that it would reflect one dominant set of priorities.
+I think we’re starting to see this kind of battle between different sets of priorities playing out in the browser rendering engine landscape.
+Webkit published a list of APIs they won’t be implementing in their current form because of security concerns around fingerprinting. Mozilla is taking the same stand. Google is much more gung-ho about implementing those APIs.
+I think it’s safe to say that every implementor wants to ship powerful APIs and ensure security and privacy. The issue is with which gets priority. Using the language of principles and priorities, you could crudely encapsulate Apple and Mozilla’s position as:
+Privacy, even over capability.
+That design principle would pass the reversibility test. In fact, Google’s position might be represented as:
+Capability, even over privacy.
+I’m not saying Apple and Mozilla don’t value powerful APIs. I’m not saying Google doesn’t value privacy. I’m saying that Google’s priorities are different to Apple’s and Mozilla’s.
+Alas, Alex is saying that Apple and Mozilla don’t value capability:
+There is a contingent of browser vendors today who do not wish to expand the web platform to cover adjacent use-cases or meaningfully close the relevance gap that the shift to mobile has opened.
+That’s very disappointing. It’s a cheap shot. As cheap as saying that, given Google’s business model, Chrome wouldn’t want to expand the web platform to provide better privacy and security.
+Monday, April 6th, 2020
+Local-first software: You own your data, in spite of the cloud
+The cloud gives us collaboration, but old-fashioned apps give us ownership. Can’t we have the best of both worlds?
+We would like both the convenient cross-device access and real-time collaboration provided by cloud apps, and also the personal ownership of your own data embodied by “old-fashioned” software.
+This is a very in-depth look at the mindset and the challenges involved in building truly local-first software—something that Tantek has also been thinking about.
+Thursday, February 6th, 2020
+Switching to Firefox | Brad Frost
+Like Brad, I switched to Firefox for web browsing and Duck Duck Go for searching quite a while back. I highly recommend it.
+Saturday, November 16th, 2019
+The new dot com bubble is here: it’s called online advertising - The Correspondent
+The benchmarks that advertising companies use — intended to measure the number of clicks, sales and downloads that occur after an ad is viewed — are fundamentally misleading. None of these benchmarks distinguish between the selection effect (clicks, purchases and downloads that are happening anyway) and the advertising effect (clicks, purchases and downloads that would not have happened without ads).
+It gets worse: the brightest minds of this generation are creating algorithms which only increase the effects of selection.
+A terrificly well-written piece on the emperor’s new clothes worn by online advertising. Equal parts economic rigour and Gladwellian anecdata, it’s a joy to read! Kudos to Alana Gillespie for the great translation work (the original article was written in Dutch).
+We currently assume that advertising companies always benefit from more data. … But the majority of advertising companies feed their complex algorithms silos full of data even though the practice never delivers the desired result. In the worst case, all that invasion of privacy can even lead to targeting the wrong group of people.
+This insight is conspicuously absent from the debate about online privacy. At the moment, we don’t even know whether all this privacy violation works as advertised.
+The interaction design of this article is great too—annotations, charts, and more!
+Monday, November 11th, 2019
+8 Unbelievable Things You Never Knew About Tracking
+The slides from Laura’s excellent talk at FF Conf on Friday.
+Thursday, November 7th, 2019
+Data Patterns Catalogue
+I really like the work that IF are doing to document patterns around handling data:
+Signing in to a service
+Giving and removing consent
+Giving access to data
+Getting access to data
+Understanding automated decisions
+Doing security checks
+Each pattern has a description, advantages, limitations, and examples.
+Friday, October 25th, 2019
+Latest Firefox Brings Privacy Protections Front and Center Letting You Track the Trackers - The Mozilla Blog
+I really like this latest addition in Firefox to show how many tracking scripts are being blocked. I think it’s always good to make the invisible visible (one of the reasons why I like RequestMap so much).
+Tuesday, September 3rd, 2019
+Today’s Firefox Blocks Third-Party Tracking Cookies and Cryptomining by Default - The Mozilla Blog
+If you haven’t done so already, you should really switch to Firefox.
+Then encourage your friends and family to switch to Firefox too.
+Monday, August 26th, 2019
+Opening up the AMP cache
+I have a proposal that I think might alleviate some of the animosity around Google AMP. You can jump straight to the proposal or get some of the back story first…
+The AMP format
+Google AMP is exactly the kind of framework I’d like to get behind. Unlike most front-end frameworks, its components take a declarative approach—no knowledge of JavaScript required. I think Lea’s excellent Mavo is the only other major framework that takes this inclusive approach. All the configuration happens in markup, and all the styling happens in CSS. Excellent!
+But I cannot get behind AMP.
+Instead of competing on its own merits, AMP is unfairly propped up by the search engine of its parent company, Google. That makes it very hard to evaluate whether AMP is being used on its own merits. Instead, the evidence suggests that most publishers of AMP pages are doing so because they feel they have to, rather than because they want to. That’s a real shame, because as a library of web components, AMP seems pretty good. But there’s just no way to evaluate AMP-the-format without taking into account AMP-the-ecosystem.
+The AMP ecosystem
+Google AMP ostensibly exists to make the web faster. Initially the focus was specifically on mobile performance, but that distinction has since fallen by the wayside. The idea is that by using AMP’s web components, your pages will be speedy. Though, as Andy Davies points out, this isn’t always the case:
+This is where I get confused… https://independent.co.uk only have an AMP site yet it’s performance is awful from a user perspective - isn’t AMP supposed to prevent this?
+See also: Google AMP lowered our page speed, and there’s no choice but to use it:
+According to Google’s own Page Speed Insights audit (which Google recommends to check your performance), the AMP version of articles got an average performance score of 87. The non-AMP versions? 95.
+Publishers who already have fast web pages—like The Guardian—are still compelled to make AMP versions of their stories because of the search benefits reserved for AMP. As Terence Eden reported from a meeting of the AMP advisory committee:
+We heard, several times, that publishers don’t like AMP. They feel forced to use it because otherwise they don’t get into Google’s news carousel — right at the top of the search results.
+Some people felt aggrieved that all the hard work they’d done to speed up their sites was for nothing.
+The Google AMP team are at pains to point out that AMP is not a ranking factor in search. That’s true. But it is unfairly privileged in other ways. Only AMP pages can appear in the Top Stories carousel …which appears above any other search results. As I’ve said before:
+Now, if you were to ask any right-thinking person whether they think having their page appear right at the top of a list of search results would be considered preferential treatment, I think they would say hell, yes! This is the only reason why The Guardian, for instance, even have AMP versions of their content—it’s not for the performance benefits (their non-AMP pages are faster); it’s for that prime real estate in the carousel.
+From A letter about Google AMP:
+Content that “opts in” to AMP and the associated hosting within Google’s domain is granted preferential search promotion, including (for news articles) a position above all other results.
+That’s not the only way that AMP pages get preferential treatment. It turns out that the secret to the speed of AMP pages isn’t the web components. It’s the prerendering.
+The AMP cache
+If you’ve ever seen an AMP page in a list of search results, you’ll have noticed the little lightning icon. If you’ve ever tapped on that search result, you’ll have noticed that the page loads blazingly fast!
+That’s not down to AMP-the-format, alas. That’s down to the fact that the page has been prerendered by Google before you even went to it. If any page were prerendered that way, it would load blazingly fast. But currently, this privilege is reserved for AMP pages only.
+If, after tapping through to that AMP page, you looked at the address bar of your browser, you might have noticed something odd. Even though you might have thought you were visiting The Washington Post, or The New York Times, the URL of the (blazingly fast) page you’re looking at is still under Google’s domain. That’s because Google hosts any AMP pages that it prerenders.
+Google calls this “the AMP cache”, but it would be better described as “AMP hosting”. The web page sent down the wire is hosted on Google’s domain.
+Here’s that AMP letter again:
+When a user navigates from Google to a piece of content Google has recommended, they are, unwittingly, remaining within Google’s ecosystem.
+Through gritted teeth, I will refer to this as “the AMP cache”, because that’s what everyone else calls it. But make no mistake, Google is hosting—not caching—these pages.
+But why host the pages on a Google domain? Why not prerender the original URLs?
+Prerendering and privacy
+Scott summed up the situation with AMP nicely:
+The pitch I think site owners are hearing is: let us host your pages on our domain and we’ll promote them in search results AND preload them so they feel “instant.” To opt-in, build pages using this component syntax.
+But perhaps we could de-couple the AMP format from the AMP cache.
+That’s what Terence suggests:
+My recommendation is that Google stop requiring that organisations use Google’s proprietary mark-up in order to benefit from Google’s promotion.
+The AMP letter, too:
+Instead of granting premium placement in search results only to AMP, provide the same perks to all pages that meet an objective, neutral performance criterion such as Speed Index.
+Scott reiterates:
+It’s been said before but it would be so good for the web if pages with a Lighthouse score over say, 90 could get into that top search result area, even if they’re not built using Google’s AMP framework. Feels wrong to have to rebuild/reproduce an already-fast site just for SEO.
+This was also what I was calling for. But then Malte pointed out something that stumped me. Privacy.
+Here’s the problem…
+Let’s say Google do indeed prerender already-fast pages when they’re listed in search results. You, a search user, type something into Google. A list of results come back. Google begins pre-rendering some of them. But you don’t end up clicking through to those pages. Nonetheless, the servers those pages are hosted on have received a GET request coming from a Google search. Those publishers now know that a particular (cookied?) user could have clicked through to their site. That’s very different from knowing when someone has actually arrived at a particular site.
+And that’s why Google host all the AMP pages that they prerender. Given the privacy implications of prerendering non-Google URLs, I must admit that I see their point.
+Still, it’s a real shame to miss out on the speed benefit of prerendering:
+Prerendering AMP documents leads to substantial improvements in page load times. Page load time can be measured in different ways, but they consistently show that prerendering lets users see the content they want faster. For now, only AMP can provide the privacy preserving prerendering needed for this speed benefit.
+A modest proposal
+Why is Google’s AMP cache just for AMP pages? (Y’know, apart from the obvious answer that it’s in the name.)
+What if Google were allowed to host non-AMP pages? Google search could then prerender those pages just like it currently does for AMP pages. There would be no privacy leaks; everything would happen on the same domain—google.com or ampproject.org or whatever—just as currently happens with AMP pages.
+Don’t get me wrong: I’m not suggesting that Google should make a 1:1 model of the web just to prerender search results. I think that the implementation would need to have two important requirements:
+Hosting needs to be opt-in.
+Only fast pages should be prerendered.
+Opting in
+Currently, by publishing a page using the AMP format, publishers give implicit approval to Google to host that page on Google’s servers and serve up this Google-hosted version from search results. This has always struck me as being legally iffy. I’ve looked in the AMP documentation to try to find any explicit granting of hosting permission (e.g. “By linking to this JavaScript file, you hereby give Google the right to serve up our copies of your content.”), but no luck. So even with the current situation, I think a clear opt-in for hosting would be beneficial.
+This could be a meta element. Maybe something like:
+<meta name="caches-allowed" content="google">
+This would have the nice benefit of allowing comma-separated values:
+<meta name="caches-allowed" content="google, yandex">
+(The name is just a strawman, by the way—I’m not suggesting that this is what the final implementation would actually look like.)
+If not a meta element, then perhaps this could be part of robots.txt? Although my feeling is that this needs to happen on a document-by-document basis rather than site-wide.
+Many people will, quite rightly, never want Google—or anyone else—to host and serve up their content. That’s why it’s so important that this behaviour needs to be opt-in. It’s kind of appalling that the current hosting of AMP pages is opt-in-by-proxy-sort-of.
+Criteria for prerendering
+Which pages should be blessed with hosting and prerendering? The fast ones. That’s sorta the whole point of AMP. But right now, there’s a lot of resentment by people with already-fast websites who quite rightly feel they shouldn’t have to use the AMP format to benefit from the AMP ecosystem.
+Page speed is already a ranking factor. It doesn’t seem like too much of a stretch to extend its benefits to hosting and prerendering. As mentioned above, there are already a few possible metrics to use:
+Page Speed Index
+Lighthouse
+Web Page Test
+Ah, but what if a page has good score when it’s indexed, but then gets worse afterwards? Not a problem! The version of the page that’s measured is the same version of the page that gets hosted and prerendered. Google can confidently say “This page is fast!” After all, they’re the ones serving up the page.
+That does raise the question of how often Google should check back with the original URL to see if it has changed/worsened/improved. The answer to that question is however long it currently takes to check back in on AMP pages:
+Each time a user accesses AMP content from the cache, the content is automatically updated, and the updated version is served to the next user once the content has been cached.
+Issues
+This proposal does not solve the problem with the address bar. You’d still find yourself looking at a page from The Washington Post or The New York Times (or adactio.com) but seeing a completely different URL in your browser. That’s not good, for all the reasons outlined in the AMP letter.
+In fact, this proposal could potentially make the situation worse. It would allow even more sites to be impersonated by Google’s URLs. Where currently only AMP pages are bad actors in terms of URL confusion, opening up the AMP cache would allow equal opportunity URL confusion.
+What I’m suggesting is definitely not a long-term solution. The long-term solutions currently being investigated are technically tricky and will take quite a while to come to fruition—web packages and signed exchanges. In the meantime, what I’m proposing is a stopgap solution that’s technically a lot simpler. But it won’t solve all the problems with AMP.
+This proposal solves one problem—AMP pages being unfairly privileged in search results—but does nothing to solve the other, perhaps more serious problem: the erosion of site identity.
+Measuring
+Currently, Google can assess whether a page should be hosted and prerendered by checking to see if it’s a valid AMP page. That test would need to be widened to include a different measurement of performance, but those measurements already exist.
+I can see how this assessment might not be as quick as checking for AMP validity. That might affect whether non-AMP pages could be measured quickly enough to end up in the Top Stories carousel, which is, by its nature, time-sensitive. But search results are not necessarily as time-sensitive. Let’s start there.
+Assets
+Currently, AMP pages can be prerendered without fetching anything other than the markup of the AMP page itself. All the CSS is inline. There are no initial requests for other kinds of content like images. That’s because there are no img elements on the page: authors must use amp-img instead. The image itself isn’t loaded until the user is on the page.
+If the AMP cache were to be opened up to non-AMP pages, then any content required for prerendering would also need to be hosted on that same domain. Otherwise, there’s privacy leakage.
+This definitely introduces an extra level of complexity. Paths to assets within the markup might need to be re-written to point to the Google-hosted equivalents. There would almost certainly need to be a limit on the number of assets allowed. Though, for performance, that’s no bad thing.
+Make no mistake, figuring out what to do about assets—style sheets, scripts, and images—is very challenging indeed. Luckily, there are very smart people on the Google AMP team. If that brainpower were to focus on this problem, I am confident they could solve it.
+Summary
+Prerendering of non-Google URLs is problematic for privacy reasons, so Google needs to be able to host pages in order to prerender them.
+Currently, that’s only done for pages using the AMP format.
+The AMP cache—and with it, prerendering—should be decoupled from the AMP format, and opened up to other fast web pages.
+There will be technical challenges, but hopefully nothing insurmountable.
+I honestly can’t see what Google have to lose here. If their goal is genuinely to reward fast pages, then opening up their AMP cache to fast non-AMP pages will actively encourage people to make fast web pages (without having to switch over to the AMP format).
+I’ve deliberately kept the details vague—what the opt-in should look like; what the speed measurement should be; how to handle assets—I’m sure smarter folks than me can figure that stuff out.
+I would really like to know what other people think about this proposal. Obviously, I’d love to hear from members of the Google AMP team. But I’d also love to hear from publishers. And I’d very much like to know what people in the web performance community think about this. (Write a blog post and send me a webmention.)
+What am I missing here? What haven’t I thought of? What are the potential pitfalls (and are they any worse than the current acrimonious situation with Google AMP)?
+I would really love it if someone with a fast website were in a position to say, “Hey Google, I’m giving you permission to host this page so that it can be prerendered.”
+I would really love it if someone with a slow website could say, “Oh, shit! We’d better make our existing website faster or Google won’t host our pages for prerendering.”
+And I would dearly love to finally be able to embrace AMP-the-format with a clear conscience. But as long as prerendering is joined at the hip to the AMP format, the injustice of the situation only harms the AMP project.
+Google, open up the AMP cache.
+Tuesday, June 18th, 2019
+The New Wilderness (Idle Words)
+An excellent piece by Maciej on the crucial difference between individual privacy and ambient privacy (and what that means for regulation):
+Ambient privacy is not a property of people, or of their data, but of the world around us. Just like you can’t drop out of the oil economy by refusing to drive a car, you can’t opt out of the surveillance economy by forswearing technology (and for many people, that choice is not an option). While there may be worthy reasons to take your life off the grid, the infrastructure will go up around you whether you use it or not.
+Because our laws frame privacy as an individual right, we don’t have a mechanism for deciding whether we want to live in a surveillance society. Congress has remained silent on the matter, with both parties content to watch Silicon Valley make up its own rules. The large tech companies point to our willing use of their services as proof that people don’t really care about their privacy. But this is like arguing that inmates are happy to be in jail because they use the prison library. Confronted with the reality of a monitored world, people make the rational decision to make the best of it.
+That is not consent.
+For more detail, I highly recommend reading his testimony to the senate hearing on Privacy Rights and Data Collection in a Digital Economy.
+Wednesday, June 5th, 2019
+Let’s Clarify some Misunderstandings around Sign In with Apple • Aaron Parecki
+Aaron knows what he’s talking about when it comes to authentication, and Apple’s latest move with sign-in for native apps gets the thumbs up.
+Sign In with Apple is a good thing for users! This means apps will no longer be able to force you to log in with your Facebook account to use them.
+This does not mean that Apple is requiring every app to use Sign in with Apple.
+Tuesday, May 28th, 2019
+How Ireland became Europe’s data watchdog - BBC News
+The coming GDPR storm:
+Ireland’s Data Protection Commissioner, Helen Dixon, is expected to circulate her decisions on some cases by July or August, with final rulings made by the end of the year.
+(That’s my sister-in-law, that is.)
+Saturday, April 13th, 2019
+Goodbye Google Analytics, Hello Fathom - daverupert.com
+Dave stops feeding his site’s visitors data to Google. I wish more people (and companies) would join him.
+There’s also an empowering #indieweb feeling about owning your analytics too. I pay for the server my analytics collector runs on. It’s on my own subdomain. It’s mine.
+Older »
+More information
+About this site
+Adactio is the online home of Jeremy Keith, a web developer and author living and working in Brighton, England.
+Get in touch
+Customise
+Choose a theme…
+default
+dark
+tatemodern
+seaside
+zeldman
+adactizilla
+sci-fi
+renaissance
+hirnlego
+?
+This is the plain vanilla look.
+Search
+Find
+Go!
+Within
+adactio.com
+journal
+links
+articles
+notes
+Peruse the archive
+Browse the tags
+Subscribe
+I have some feeds that you can subscribe to in your RSS reader:
+My journal
+My links
+My articles
+My notes
+My journal, links, articles and notes together
+You can also follow these Twitter accounts:
+notes
+journal
+links
+articles

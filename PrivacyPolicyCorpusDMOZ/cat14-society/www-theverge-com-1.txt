@@ -1,0 +1,85 @@
+https://www.theverge.com/2020/3/16/21175699/mta-omny-privacy-security-smartphone-identifier-location-nyc
+Skip to main content
+clock
+menu
+more-arrow
+no
+yes
+Filed under:
+Features
+The NYC subway’s new tap-to-pay system has a hidden cost — rider data
+OMNY will collect a significant amount of information from riders, including smartphone device identifiers and location
+By
+Ali Winston
+Mar 16, 2020,
+9:00am EDT
+Share this story
+Share this on Facebook
+Share this on Twitter
+Share
+All sharing options
+Share
+All sharing options for:
+The NYC subway’s new tap-to-pay system has a hidden cost — rider data
+Linkedin
+Reddit
+Pocket
+Flipboard
+Email
+New York City’s subway system, a 24/7 behemoth that logs a billion and a half trips per year, is synonymous with archaic technology, from a signals system that dates to the Great Depression era to rail cars in service for more than four decades. The introduction last year of OMNY, a $574 million new contactless payment system for city buses and subways, bucks that trend.
+However, experts say the OMNY payment scheme is rife with problems, based on the limited information about the system made public in its terms of service and privacy policy. The collection of significant amounts of information from users, including smartphone device identifiers and location, which, coupled with payment and transportation data, could be used to map out riders’ patterns of life in minute detail and create a privacy nightmare.
+Created for the MTA by Cubic Corporation, OMNY uses near-field communication (NFC) technology to enable tap payment at turnstiles via debit cards, smartphone payment apps, and eventually a loadable card such as those used by transit riders in London, Sidney, San Francisco, and Washington, DC. Cubic has created NFC card payment systems for transit systems in San Diego, Sydney, Vancouver, and the Bay Area in recent years, and is also expected to debut mobile payment apps on the Chicago Transit Authority later this year.
+This replacement for the venerable MetroCard (the magnetic stripe swipe card introduced in 1992 to replace the subway token) will supposedly speed up bus service and entry to the subway system – and spare countless out-of-towners the embarrassment of not knowing how to correctly swipe in at a turnstile.
+In addition to privacy concerns, there are also questions related to the security of such data, whether OMNY could be used by the MTA to unilaterally exclude people from New York City’s transit system, and language in the payment system’s terms of service that indemnifies the MTA from liability for customers being double-charged for rides.
+The problems have been exacerbated by the MTA’s refusal to engage with questions about different aspects of OMNY, even as the payment system is being rapidly introduced throughout the city. By the end of 2020, OMNY validators will be in every subway station and bus in the city. Early next year, the new payment system will be introduced to the Metro North and Long Island Rail Road commuter lines.
+Photo by Amelia Holowaty Krales / The Verge
+Riders of New York City subways and buses are well accustomed to the reality that they are being tracked on public transportation. Surveillance cameras proliferated as anti-terrorism and crime measures in the years after 9/11, while MetroCard data is routinely used by police to recreate a criminal suspect’s movements.
+NYPD officers and district attorney investigators have for years used judicial subpoenas to retrieve MetroCard information stored by the MTA to track criminal suspects. One such instance involved the murder of a baby boy by his father, who worked as a subway cleaner. Detectives used the man’s MTA-issued MetroCard to track his movements from Co-Op City in the Bronx to lower Manhattan, where he allegedly threw his son’s body into the East River.
+However, the introduction of a payment system that ties a rider’s movements not only to their bank card, but potentially their smartphone via payment apps creates a raft of privacy and data security issues. In OMNY’s privacy policy, the MTA states that information including, but not limited to, payment information, billing address, and the point of entry to the transit system will be logged in Cubic Corporation’s servers.
+Steve Brunner, Cubic’s general manager for the tri-state area, said the firm had multiple local data centers to safeguard against losing information in a catastrophic event. “If there is an outage or failure of a component at one data center, it will automatically either partially or fully roll over to the other data center,” Brunner said in an interview with The Verge last year.
+In addition, the privacy policy authorizes the MTA and Cubic to retain the data for an indefinite period — the MTA claims that it stores transaction information for six months, but keeps other portions of the transaction information for up to seven years. Riders can log in to their OMNY account and review their movement history for the 90 days prior.
+Privacy advocates say that OMNY’s retention of individual rider data warrants greater disclosure
+Privacy advocates say that OMNY’s retention of individual rider data and smartphone device identifiers for an indeterminate period that could run over half a decade warrants greater disclosure and public discussion.
+“If you’re using OMNY on your phone – there’s no card yet – it’s not clear to me what other information they’re taking from your phone or how that can identify you,” said Jerome Greco, a staff attorney at the Legal Aid Society’s digital forensics unit who specializes in surveillance technology.
+OMNY’s privacy policy also includes a carve-out for the collection of additional information “that is not specifically listed” in the document, allowing the transit authority broad leeway to harvest additional data from riders. According to the MTA, such information includes IP addresses and device numbers from phones used to pay for rides, creating a whole new category of sensitive information that could be used either to push advertisements toward riders or track their movements outside of the transit system via Bluetooth, Wi-Fi, or their device’s MAC address.
+The MTA maintains that it retains all information securely with triple DES encryption and that such data is never decrypted.
+“Our transactions are encrypted from the moment you touch the validator,” said Al Putre, the MTA’s program director for OMNY. “We keep them in an encrypted state even when we store it in our account-based processor. We use state of the art encryption methods and security module hardware. We do absolutely everything we can do to maintain the integrity of the transaction to ensure it’s secure. If we have just one little glitch, our credibility goes out the door.”
+“Our transactions are encrypted from the moment you touch the validator”
+Indeed, the OMNY terms of service contain specific language that admits riders run the risk of incursions to their privacy by using the payment system. “Security risk is inherent in all internet and information technologies, and we cannot guarantee the security of your Personal Information,” the policy reads. While the MTA maintains this is standard contractual language for information technology products, it is telling straphangers they will be sacrificing privacy for convenience.
+Cubic, the company in charge of designing and implementing the OMNY system, has run into problems around data security before: in San Francisco, information from its contactless payment system for the Muni light rail system was hacked and held ransom for $73,000 in Bitcoin, forcing the system to let riders use it for free. Last year, London’s Oyster payment system was taken offline after a credential stuffing spree compromised the accounts of an untold number of riders.
+“We’re definitely concerned about issues on privacy and how the MTA is using data,” said Jaqi Cohen, the campaign direction for the New York Public Interest Research Group’s Straphangers Campaign. “Any way the MTA is planning on using and protecting data should be known to riders and the public – the terms of service should not be hidden from the riders and the way the MTA plans to use these data should be made very explicit.”
+The MTA is already facing an open records lawsuit in New York regarding its unannounced deployment of facial recognition technology in the Times Square station last Spring. In London, where former New York City Transit President Andy Byford drew much inspiration for his projects, Cubic has already tested facial recognition options for payment.,The MTA denies that facial recognition is being considered for any integration into the OMNY payment system.
+The retention of cellphone device identifiers by OMNY was singled out by advocates as a significant matter for concern. Law enforcement makes particular use of cellphone location data to identify and track persons of interest. In New York City, US Immigration and Customs Enforcement agents use cell-site simulators to track down undocumented immigrants by their cellphones. ICE has shown an appetite for both criminal justice and transportation data to locate deportation targets nationwide, and recently subpoenaed New York City authorities for data on four people slated for deportation.
+“If they’re able to single out your individual phone, then can they get more data from your phone company or iCloud backup, and those would require warrants,” said Greco of the Legal Aid Society. However, he pointed out that OMNY’s privacy policy does not require a warrant to turn information over to law enforcement.
+Photo by Amelia Holowaty Krales / The Verge
+Much like how cashless payments have come under fire for discriminating against people without bank accounts or mobile payment apps or debit cards, OMNY’s implementation is running into questions over access and equity. Last summer, in the early stages of the new payment system’s rollout, riders who pay with a MasterCard debit were reimbursed $5.50 every Friday. In other transit systems run by Cubic, customers can earn fare discounts by watching ads on their cellphone.
+At a moment when the MTA and Governor Andrew Cuomo are taking a hard line with fare evasion, the idea that OMNY’s promotions are effectively subsidizing wealthier riders’ trips has proven galling for some.
+“We’re creating a system where wealthy riders pay less while Cuomo is deploying an army to crack down on black and brown riders,” said Albert Fox Cahn, the director of the Surveillance Technology Oversight Project, which issued a critical report on OMNY last year and filed the open records suit over the MTA’s use of facial recognition.
+Transit advocates say many low-income riders often pay more per ride because they cannot afford to purchase the weekly or monthly passes that cost riders less money per rides. The MTA has said it will continue providing discounted rides for students and seniors, as well as the discounted weekly and monthly cards, in the coming months.
+With regard to fares, the MTA has also included language in its terms of service that indemnify the transit agency for accidental double payments, several of which have recently taken place when riders swiped in to the subway system with a MetroCard, only for their cellphone’s Apple Pay app to accidentally deduct a $2.75 ride from their account after coming into contact with the display.
+The relevant passage from OMNY’s terms of service essentially blames riders for failing to properly use their devices, and states that the “MTA is not responsible if your fare is charged to a card or through a smart device that you did not intend to use.” The MTA maintains such language is necessary to indemnify the transit authority against fraud, the faulty double payment was caused by Apple’s unannounced update last November to the Express Transit mode payment option, and it has fully refunded fares for all the roughly 500 instances of double payment. However, transit advocates are not satisfied with the response.
+“It’s particularly outrageous that there’s explicit language in the Terms of Service saying that if you don’t pay, it’s your fault, while the MTA is claiming fare evasion is a huge issue and using it to hire 500 new cops,” said Cohen from NYPIRG’s Straphangers’ Campaign. “How much [money] has been collected in error?”
+“How much [money] has been collected in error?”
+Aside from concerns over surveillance and functionality, OMNY’s terms of service also hint that the MTA is looking to use the tap payment system as a new method to unilaterally exclude people from city subway stations, buses, and commuter railways.
+Access to the transit system, according to OMNY’s terms of service, can be blocked for “suspicion of other illegal activity, in MTA’s sole discretion.” What’s more, the MTA claims the right to suspend access to OMNY “if you engage in activity that we conclude, in our sole and absolute discretion, breach our code of conduct.” Behaviors deemed illegal by the MTA in recent years include putting your feet up on a seat, sleeping on the train, or passing between subway cars.
+In response to queries by The Verge, the MTA’s Putre said the terms of service language would be amended to remove prohibitions on people accessing the transit system.
+“The purpose of OMNY is to provide our customers with an easy and convenient way to pay the fare and we are committed to protecting NYC Transit riders’ privacy and preventing fraud,” Putre said in a statement. “For clarity and effective immediately, the OMNY Terms of Service have been amended to remove references to actions that might summarily prohibit access to OMNY services — a provision that has never been used. The Terms, as they did previously, will continue to protect customers from fraudulent use of their accounts by allowing interruption of OMNY charges in that situation.”
+“the OMNY Terms of Service have been amended to remove references to actions that might summarily prohibit access to OMNY services”
+“By putting your feet up or falling asleep, you could get your OMNY account suspended,” said Cohen. “That’s why the MTA needs to be transparent and explain to the public how this will work.”
+“Public transit is public space, it’s part of the public sphere. The idea of banning anyone from public transit raises prominent constitutional issues for us,” said Daniel Pearlstein, the policy and communications director for the New York Riders Alliance, a transit advocacy organization.
+Pearlstein said that the possibility of the MTA issuing unilateral bans to individuals for perceived offenses outside the criminal justice systems could amount to a de facto form of segregation.
+“We are skeptics around the MTA’s narrative on fare evasion. Their rhetoric is about blaming low income riders of color for the ills of a transit system that are overwhelmingly the fault of powerful people going back a generation.”
+To date, individual exclusion from public transit is not something that has taken place outside of specific criminal cases. NYPD Commissioner Dermot Shea has pushed legislators in Albany to pass a law banning repeat sex offenders from using city subways. However, the MTA’s codification of unilateral authority to ban people for incidents that may not even rise to the level of criminality may also run into problems around due process.
+“Here, they’re just talking about suspicion. They’re not talking about people who’ve been convicted: this is suspicion by the MTA. The MTA becomes the judge, jury and executioner,” said Greco of the Legal Aid Society.
+“It seems to be even more egregious if it is in the MTA’s sole discretion. How do I appeal that? How do they make that determination? Who makes that determination? What standards are they using? Is this going to become like the no-fly list?”
+Science
+Uber asks governors to give drivers early access to COVID-19 vaccines
+Tech
+Boeing’s 737 Max is back in service
+Transportation
+Cruise is now testing fully driverless cars in San Francisco
+View all stories in Transportation
+Loading comments...
+Share this story
+Twitter
+Facebook

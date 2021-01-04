@@ -1,0 +1,315 @@
+http://medshopexpress.com/cookies-policy
+Cookies Policy - Medshopexpress
+Free!
+GET IT FAST:
+{{ userLocation }}
+FREE {{transitDay}}DAY SHIPPING FOR ORDERS $75+
+FREE SHIPPING IN THE US ON $75+
+EXPRESS SHIPPING AVAILABLE TO {{countryName}}
+EXPRESS SHIPPING AVAILABLE
+Hide
+Sign In
+{{ mini_cart_count }}
+Medicine Shop
+Bath & Body
+Skin Care
+Baby & Child
+First Aid
+Home Health Care
+Vitamins & More
+Diet & Health
+Sexual Health
+Daily Deals
+Rewards Program
+Shop Menu
+New
+Rewards Program
+Our Story
+Medicine Shop
+All Products
+Antacids
+Cold & Allergy
+Cold & Cough
+Cold Drops & Lozenges
+Cold Ointment & Rubs
+Cold/Allergy Liq & Syrups
+Deodorants
+Diabetics - Test Kits
+Elastic Supports-Braces
+Generic HBA
+Heating Pads & Sunlamps
+Hemorrhoidals
+Homeopathic Remedies
+Hypodermics
+Laxatives
+Liniments & Rubs
+Nose/Throat Spr-Drop-Inhal-Acc
+Pain Relievers
+Refrigerated Items
+Room Vaporizers & Inhalants
+Sedatives & Tranquilizers
+Smoking Deterrents
+Sun Preparations
+Bath & Body
+All Products
+Dandruff Preparations
+Dental Floss & Access
+Denture Products
+Depilatories
+Eye Ear & Lip Preps
+Foot Products
+Foot Products - Other
+Hair Care Sundries
+Hair Colorings
+Hair Dressings & Tonic
+Hair Dressings & Tonic - Mens
+Hair Rinses + Conditioners
+Hair Shampoos
+Hair Sprays & Hair Sets
+Home Permanents
+Hosiery
+Mouth Washes & Sprays
+Oral Care
+Pre & After Shave Mens
+Razor Blades - Shaver - Access
+Shave Aerosols & Tubes - Mens
+Tooth Brushes
+Tooth Pastes & Powders
+Skin Care
+All Products
+Acne Dept
+Bath+After Bath Prod & Access
+Cosmetics - Face Make Up+Acces
+Cosmetics - Nail Care+Access
+Fragrances
+Hand & Face Lotions & Creams
+Baby & Child
+All Products
+Baby Bottles & Caps
+Baby Care Products - Sundries
+Baby Foods
+First Aid
+All Products
+Adhesive Bandages & Tapes
+Cotton & Gauze Prod
+Kits
+Ointment-Cream-Lotion
+Poison Oak Preparations
+Seasonal Products
+Spray-Liquid
+Home Health Care
+All Products
+Batteries-Flashlight-Lantern
+Catheters - Kits & Trays
+Home Health Care
+Hospital Disposable/Consumable
+Hospital/Kits/Trays
+Household Supplies
+Miscellaneous Sundries
+Paper Products
+Rubber Sundries
+Vitamins & More
+All Products
+Brand Vitamins & Tonics
+Dietary & Food Supplements
+Generic Vitamins & Tonics
+Sleeping Aids
+Stimulants
+Diet & Health
+All Products
+Wets & Drys
+Sexual Health
+All Products
+Condoms
+Family Planning
+Fem Hyg Deodorant Sprays
+Fem Hyg Douches & Syringes
+Fem Hyg Tampons & Napkins
+Daily Deals
+All Products
+Deals/ Trial Size
+Mixed Deals
+Help
+Email Us
+Phone:
+1 (949) 215-1444
+Shipping & Returns
+Privacy policy
+Terms
+Media Buzz
+Give Feedback
+Wholesale
+Blog
+{{ cart_items_count }}
+Your Bag
+Your bag is empty
+You may also like
+{{ recommendItem.name }}
+Add to bag
+$ {{ humanPrice(recommendItem.price) }}
+Out of Stock
+Only {{item.count_on_hand}} units in stock
+{{ item.name }}
+Update
+$ {{ humanPrice(item.price) }}
+Auto-Reorder to save 5%
+Subtotal
+${{ subtotal() }}
+Trial Discount
+-${{ -trialPromotionTotal.toFixed(2) }}
+Loyalty discount
+-${{ loyaltyTotal.toFixed(2) }}
+Rewards Discount
+-${{ orderRewardAmount.toFixed(2) }}
+Wholesale Discount
+Referral code discount
+-${{ humanPrice(wholesaleDiscount) }}
+Promo Code Discount
+Referral code discount
+-${{ discountAmount().toFixed(2) }}
+Total
+$ {{ orderTotal.toFixed(2) }}
+Loyalty credit earned
+${{ loyaltyEarn.toFixed(2) }}
+Checkout
+${{ leftAmountForFreeShipping }} away from FREE shipping
+Congratulations! You have earned Free Shipping
+Enter your email and get
+10% OFF + 5%
+additional loyalty credit
+Get code!
+PRIVACY NOTICE ABOUT COOKIES
+In addition to first party cookies, our website, like many others, uses third party cookies, which are cookies from a domain different than ours. These cookies are used for our advertising and marketing efforts.
+More specifically, we use cookies and other tracking technologies for the following purposes:
+Assisting you in navigation;
+Assisting in registration to our events, login, and your ability to provide feedback;
+Analyzing your use of our products, services or applications;
+Assisting with our promotional and marketing efforts. (including behavioral advertising)
+The cookies we use on our website are split into the following types:
+Strictly Necessary Cookies
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you, such as setting your privacy preferences, logging in, or filling out forms. You can set your browser to block or alert you about these cookies, but some parts of the site may not be able to properly function.
+1. Cloudflare
+These cookies are used to speed up page load times. It does not contain any user identification information.
+Cookie Name
+Description
+__cfduid
+It is used to override any security restrictions based on the IP address the visitor is coming from.
+2. App Specified Cookie
+Cookie Name
+Description
+guest_token
+This cookie stores the guest user session while browsing our site. This will be browser specific.
+Performance Cookies
+These cookies allow us to count visits and identify traffic sources, and we use this information to improve our website performance. These cookies are helpful because we can find out the most and least popular pages on our website and see how visitors move around the site. All information for these cookies are aggregated and anonymous. By not allowing these cookies, we will not know when you have visited our site.
+1. Google Analytics Cookie
+Google Analytics is a simple, easy-to-use tool that helps us to measure how users interact with website content and ultimately refine that experience to better serve you.
+Cookie Name
+Description
+_ga
+Used to distinguish users.
+_gid
+Used to distinguish users.
+_gat
+Used to throttle request rate.If deployed via Google Tag Manager, this cookie will be named _dc_gtm_
+2. Hotjar
+These cookies are used to get details of visitor behaviour patterns.
+Cookie Name
+Description
+_hjIncludedInSample
+This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels.
+_hjMinimizedPolls
+This cookie is set once a visitor completes a poll using the Feedback Poll widget. It is used to ensure that the same poll does not re-appear if it has already been filled in.
+3. HubSpot
+HubSpot's tracking code sets the following cookies when someone visits the site.
+Cookie Name
+Description
+__hstc
+The main cookie for tracking visitors. It contains the domain, utk (see below), initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session).
+hubspotutk
+This cookie is used for to keep track of a visitor's identity. This cookie is passed to HubSpot on form submission and used when de-duplicating contacts.
+__hssc
+This cookie keeps track of sessions. This is used to determine if we should increment the session number and timestamps in the __hstc cookie. It contains the domain, viewCount (increments each pageView in a session), and session start timestamp.
+__hssrc
+Whenever HubSpot changes the session cookie, this cookie is also set. We set it to 1 and use it to determine if the visitor has restarted their browser. If this cookie does not exist when we manage cookies, we assume it is a new session.
+4. Optimizely Classic
+Optimizely uses persistent visitor-level cookies and localStorage to uniquely identify visitors, track their actions, and deliver consistent experiences across page loads.
+Cookie Name
+Description
+optimizelyBuckets
+Records the Optimizely Classic variation that the visitor has seen for each experiment
+optimizelyEndUserId
+Stores a visitor's unique Optimizely identifier.
+optimizelySegments
+Persists the visitor's Optimizely Classic segments: browser, campaign, mobile, source type, and any custom dimensions that you may have configured.
+Functional Cookies
+These cookies allow us to enhance the functionality and personalization of your experience on our website (videos and live chats). They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies, you may not be able to use these functionalities.
+1. Klaviyo
+We use Klaviyo to manage all our newsletter and marketing subscriptions and the content we send out
+Cookie Name
+Description
+__kla_id
+This cookie recognizes each user with a unique id and allows us to track the content they engage with. For example, it records all those volunteers who book with homeless charities so that we can keep them up to date with new opportunities.
+2. ShareThis
+ShareThis social sharing widget placed on a site to enable sharing of content across various social networks.
+Cookie Name
+Description
+__unam
+The "__unam" cookie is set as part of the ShareThis service and monitors "click-stream" activity.It counts clicks and shares of a page.
+3. Yotpo
+Cookie Name
+Description
+pixel
+This is used for review rating on our site.
+4. App Specific Cookies
+Cookie Name
+Description
+first_visit
+This cookie is used to store whether user is visiting the site for the first time.
+_artdeco_session
+This cookie stores the session for Artdeco in the site.
+Targeting Cookies
+These cookies are set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant ads on other sites. They work by uniquely identifying your browser and device. If you do not allow these cookies, you will not experience our targeted advertising across different websites.
+1. Google Website Call Conversion
+Cookie Name
+Description
+gwcc
+This cookie is not essential to our website. This cookie allows Google to track any call conversions on mobile devices.
+MANAGE COOKIES
+You can choose which cookies you’d like MedshopExpress.com to store on your device by updating your browser settings. Each browser allows you to restrict or block cookies in different ways.
+Cookie Name
+Description
+accept_cookie
+This is used to store session for the user that whether cookies are accepted or not.
+Please note that we're not responsible for the content of external websites.
+Choose Your Location
+Delivery options and delivery speeds may vary for different locations
+Sign In
+or enter a zip code
+Deliver to
+{{ zipcode }}
+Change
+{{ errorMessage }}
+Done
+Get 10% off your next order & join our newsletter
+Thanks for subscribing!
+Check your email for a confirmation message.
+Something went wrong!
+Help
+Email Us
+Phone:
+1 (949) 215-1444
+Give Feedback
+Shipping & Returns
+Privacy Policy
+Terms
+Wholesale
+Our Story
+Media Buzz
+Blog
+Rewards Program
+2020 © MEDSHOP. All rights reserved.
+MedshopExpress.com
+uses cookies to give you the best shopping experience. If you continue to use our services, we will assume that you agree to the use of such cookies. Find out more about cookies and
+how you can refuse them
+Manage Cookies
+Accept Cookies

@@ -1,0 +1,86 @@
+http://www.linkalarm.com/about/privacy/
+premium wordpress themes
+About
+Company
+Copyright
+Privacy
+Trial
+Features
+The Report
+Blog
+Help
+Register
+Privacy
+Copyright
+Company
+Trial
+Privacy
+About LinkAlarm
+LinkAlarm is a web site quality assurance service. Site administrators and webmasters use LinkAlarm to monitor the validity of the links on their site. A trail LinkAlarm account is free and includes 100 LinkAlarm credits for checking the pages of web sites.
+1. What personally identifiable information of yours or third party personally identification is collected from you through the web site
+When joining LinkAlarm you are asked to provide your name and email address. Your account maintains a list of the web sites they need checked. When a site is checked, a report is prepared for use over the internet, and notification is sent by email to the account owner and any additional recipients specified. A username and password can be enabled for the account and any LinkAlarm reports.
+When entering a site to be checked, the owner specifies the URL and the general industry category.
+Account holders can purchase additional LinkAlarm pages by using our secure order processing system. The credit card transaction is handled by our commerce service provider, Verisign/Paypal. Link Alarm, Inc does not view or process the credit card details presented during the transaction. LinkAlarm is not permitted to use this personally identifiable information for any secondary purposes. We obtain notification of your transaction before making credits available.
+LinkAlarm reports are prepared by an automated software process that gathers every link on every page of the site to be checked. These links (both internal and external) are checked for validity by the HTTP GET and HEAD procedures.
+In addition to http and ftp links, LinkAlarm reports mailto links (email addresses) encountered on the site.
+LinkAlarm gathers the IP addresses, browser types, referring URLs, operating systems and access times from computers and proxy servers that access the LinkAlarm web sites and reports. This information is not tied to personally identifiable information.
+LinkAlarm does not supplement any of this information gathered with any other source.
+2. The organization collecting the information
+Link Alarm, A division of AVIA Consulting Inc.
+http://www.linkalarm.com
+PO Box 547, Northborough, MA US
+3. How the information is used
+We use the information you provide to check your web site, notifying you by email when your LinkAlarm report on the web is ready. Each time your site is checked, you receive notification that your report has been updated. In addition, we notify you by email when your account is running out of credits, and when it has run out of credits.
+We occasionally contact current account holders (those who have not cancelled their accounts) by email for necessary information and changes regarding the operation of the service. Our aim is to use this mechanism only when absolutely necessary.
+LinkAlarm site settings can be used to specify a logo and message on a LinkAlarm report. LinkAlarm does not place a logo on your reports by default, but you are free to do so if required.
+LinkAlarm aggregates overall statistics from all LinkAlarm reports for publication on the LinkAlarm web site. Details of individual accounts, sites and reports are never publicized. We occasionally ask some users for testimonials about the LinkAlarm service. If these users give permission, we may include their report location for others to view.
+LinkAlarm provides a score out of 100 when it has checked a site. We provide a comparative analysis of other sites in the category specified. LinkAlarm uses the overall category scores on its web site and with third parties detailing aggregate scores for specific categories. We never publicize any score or link quality ratings for individual sites or account holders.
+We use IP addresses, browser types, referring URLs, operating systems and access time information gathered from our visitors for traffic analysis and statistics purposes only.
+4. With whom the information may be shared
+LinkAlarm does not share your account information, your sites, or your LinkAlarm reports, with any organization or individual.
+Your LinkAlarm account is published on our web servers and is available to any person with the correct URL. The membership URL is not derivable from any of the personal information provided, so it is unlikely internet users will come across your membership unless you provide the location to them. Password protection can be enabled on any account by using the Account Settings : Account Password. You can change your password on the same page.
+Your LinkAlarm report is published on our web servers and is available to any person with the correct URL. The report URL is not derivable from the URL of the site being checked, so it is unlikely internet users will come across your report unless you provide the location to them. Password protection can be enabled on any LinkAlarm report by using the Site Control : Report Security. You can change your password on the same page.
+The IP address information gathered from our visitors for traffic analysis is never shared with any organization or individual.
+5. What choices are available to you regarding collection, use and distribution of the information
+LinkAlarm account holders may cancel their LinkAlarm service, all their reports and all contact by using the Account Settings : Cancel Account page in their account. Additionally, if you would like your site to be excluded from checking by anyone you can put a "robots.txt" file at the top of your server containing the lines:
+User-agent: LinkAlarm
+Disallow: /
+If you're getting unwanted email from us, include a copy of the offending email when contacting the Help Desk. If you're having difficulty with any of these methods for opting out, please contact the LinkAlarm Help Desk.
+6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under LinkAlarm's control
+Link Alarm has physical and electronic security monitoring systems in all office locations. The security of your account is our concern so we urge you to specify a Account Password as soon as your account has been established.
+Link Alarm, Inc undergoes internal security audits. Only help desk and network administration staff have the ability to see and modify your account information.
+7. How you can correct any inaccuracies in the information
+LinkAlarm users can correct and/or update their personally identifiable information using the Account Settings : Owner Information area of their account.
+If you're having difficulty with any of these methods for updating your details, please contact the LinkAlarm Help Desk.
+Delete/Deactivate Policy
+LinkAlarm account holders can deactivate their LinkAlarm service by using the Account Settings : Cancel Account page in their membership.
+If you're having difficulty with any of these methods for deactivating your service, please contact the LinkAlarm Help Desk.
+Notification of Updates to This Privacy Policy and Use of Your Information
+LinkAlarm users are notified about changes to this privacy policy by email.
+If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an email. However, if you have opted out of all communication with the site then you will not be contacted, nor will your personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change.
+(end)
+Next Steps…  Register for a free trial account
+Log in to your account
+Comment on our service
+Contact our Help Desk
+Latest Posts
+Maintenance Completed, Link Alarm Report Server Online!
+Link Alarm Maintenance WIndow Nov 20/21
+Link Alarm gets upgraded “Forbidden File” controls
+Link Alarm Move Complete
+Link Alarm is moving to new servers!
+Register for a Free Account
+Join thousands of web managers using LinkAlarm on their sites. Register for a free account now.
+Your LinkAlarm account includes everything you need to check 100 pages anywhere on the web. To check more pages just credit your account to cover your requirements. The price is only one cent ($US 0.01) per page checked.
+Link Alarm Move is Completed
+On March the 3rd the Link Alarm service was moved from it's old hardware to a new server with a new operating system. The last reported issue was resolved last Thursday and everything is operating normally. We took great pains to minimize the impact of the move on you - our clients. Effective downtime was minimal and most of the issues that came up were minor or limited in scope.
+Now we are positioned to begin the work evolving Link Alarm into a better tool than ever in doing the labor-intensive parts of web site maintenance. If we can make the live of the web developer or maintainer better, then we're doing our job.
+Thank you for choosing Link Alarm!
+Home
+About
+Features
+The Report
+Blog
+Help
+Register
+Copyright ©1998-2019 Link Alarm

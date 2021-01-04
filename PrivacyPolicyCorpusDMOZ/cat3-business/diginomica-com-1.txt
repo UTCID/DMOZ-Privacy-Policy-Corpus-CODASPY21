@@ -1,0 +1,69 @@
+https://diginomica.com/2017/11/07/dreamforce-2017-michael-j-fox-foundation-chooses-salesforce-help-fight-parkinsons/
+Skip to main content
+Dreamforce 2017 - Michael J. Fox Foundation chooses Salesforce to help fight Parkinson’s
+After Michael J. Fox disclosed that he had Parkinson’s at the young age of 29, he set up the Michael J. Fox Foundation to help fund research into tackling the disease. Since then the Foundation has invested millions and millions of dollars in research.
+It may seem a stretch to say that Salesforce is helping to facilitate this, but the Foundation runs much of its operations off of its CRM platform, and the more efficient the platform, and the more efficient the organisation, the more money that can be allocated towards funding the research and tackling Parkinson’s.
+Adam Saunders, Director, CRM, The Michael J. Fox Foundation, was speaking at Dreamforce in San Francisco this week, where he provided some insights into the Foundation’s project of moving away from an ageing CRM system towards Salesforce Marketing Cloud and Salesforce’s Nonprofit Success Pack (NPSP - which includes flexible, open data architectures and adds pre-built constituent and donor management components).
+Saunders explained:
+The Michael J. Fox foundation is a major funder of Parkinson’s research worldwide. In 2016 we funded $90 million in research initiatives and we are also very efficient - 89 cents on every dollar goes on to fund research programmes. And the team in Michael J. Fox is continuously focused on finding a cure for Parkinson’s disease. The CRM team supports them in their mission by providing amazing apps and business processes that make their work life more efficient and allow them to do their jobs.
+We were in a bit of a difficult place when we started. The Foundation was always moving at an incredibly fast pace, but unfortunately the CRM systems, this was in 2016, were not really supporting that case and level of growth. There were limited integrations between systems, there was lots of manual processes for transferring data, which naturally led to data silos and data duplication.
+And overall this led to dirty data and fundamentally the data architecture itself was quite complex and difficult, even for a CRM administrator to understand, which naturally led to a lot of frustration amongst our users.
+As a result of this, users were working outside of the CRM system inside spreadsheets and other applications, which Saunders said was ‘fundamentally a problem’, as the Foundation wanted the CRM system to be a database of record.
+A choice
+Saunders said that this left the Foundation with a choice - should it stay or should it go? Should it make changes to its current Luminate CRM system, or find a new system of record. He said:
+We really had a difficult decision to make. We could stay with the existing system, which is obviously easier. It’s easier to make small incremental changes, which is what we did initially. We created custom reports, list views, dashboards, trying to make users lives easier. And in evaluating this fundamental question, we looked at Luminate CRM system, its managed service, with a pre-existing architecture.
+There’s obviously less short-term risk with sticking with the existing system and not making a large scale data migration. However, we were continually frustrated by the fact that core integrations between things like Luminate Online and Luminate CRM would fail. Data cleansing was not really possible because when I tried de-duplicate five records, for instance, I would get a series of errors. And despite the teams best efforts, we weren’t really able to work through these issues in a way that allowed us to feel we were in control of our own CRM system.
+Saunders said that these problems meant that users couldn’t make customisations that they needed to support the Foundation’s growth plans and that they weren’t really in control. Because of this, this presented a much more strategic, long-term risk than sticking with the legacy architecture. It ultimately decided that going with a new platform was the most sensible choice. He added:
+What platform architecture should we use? Should we build everything from scratch based on the standard Salesforce implementation? Should we implement NPSP as a basic architecture to launch us and get us started? Or should we go with something else, another third party managed package?
+We looked at all these options and the option of building from scratch was really a difficult one, because we were a CRM team of two people at the time, with limited resources to execute the migration, and building from scratch was going to take much more in terms of resources that we had available. Also, we looked at other third party applications - however, we recognised that those applications, like Luminate, weren’t allowing the level of customisation that we felt our users needed.
+Saunders said that this is where NPSP fitted nicely with the Foundation’s aims, as it gave it a framework, the basic data framework and architecture that it needed. It provided the CRM team with useful automations within the system, that it could then build upon and customise to meet the needs of the users.
+Planning
+Having decided upon Salesforce Marketing Cloud and NPSP, Saunders and his team were still presented with a number of options around how to migrate and go live. He said:
+We went with NPSP, however, we asked ourselves the question - how are we going to pull this off? Are we going to uninstall Luminate in the current work and install NPSP on top of that, or are we going to move to a completely new org and migrate all the data over to that, and then start from that point?
+We looked at the first option, installing everything in the current org, and we recognised that the amount of effort to do that over the course of what would have to be a three day weekend, was simply too risky. And we have to have our users up and running on Monday or Tuesday when they came back to work. That didn’t really make sense to us.
+So we went ahead and stood up a new org with NPSP and started the data transfer process. That in itself is a huge problem, because you have to transfer hundreds of objects, map hundreds of fields, and you have to understand the nuances of the data, how it’s being used by your users, and you have to maintain that integration for a number of months before we made the transition, so that we could validate that everything in the old org was moved into the old org. We used a tool called Domo to do that, a reporting tool that allowed us to look at org A and org B and verify that yes was in fact the same in both.
+However, once everything was validated, the Foundation moved on to the launch. Prior to go-live, Saunders undertook extensive user training, lots of planning and created a meticulous timeline of what was going to happen and when.
+To facilitate this, Saunders and his team focused on using Google Sheets and Slack to collaborate on the project, giving everyone involved clear insight into progress. The Foundation also made use of Salesforce consultants to beef up its internal capability. Saunders said:
+During the launch we focused on collaboration, communication, we were using Google Sheets and Slack - and up to about 20 people were sharing information on those channels. So after the transition we had implemented enhanced support with our Salesforce partners, and that allowed us to scale from being a CRM team of two, for a short period of time, to having about six CRM experts. They worked with staff members, rapidly assigning and resolving issues.
+Results and advice
+Upon finishing the project, the Foundation has seen a clear impact on the use of its CRM to drive growth. Saunders said:
+The results of our project are that we have integrated data. We have alignment between teams. We have operational efficiencies, which overall leads to continued growth within the Foundation.
+However, he also had some clear guidance for other companies or charities that are undergoing a similar project - namely, to not underestimate the effort involved. Saunders added:
+In terms of recommendations and lessons - over-estimate what a project like this is going to take in terms of time and resources. I initially estimated that it would take six months to execute. It actually took a year. If I had to do it again, I’d probably estimate that this really is more of a two year project. Definitely over-estimate.
+Also, you’re constantly going to be pulled in many directions to create complex systems and integrations, so if you ever have any opportunity to just keep it simple and keep things as constrained and simple as possible, definitely make sure to do so.
+Also, with a project of this scale, expect problems, they’re going to arise, and the best thing you can do is plan for them and have the experts in place for when you do run into difficulty. There weren’t any major problems with our overall transition, but I think that was partly due to planning.
+Then focus on people, your users or your customers, they’re the ones that will ultimately determine the success of your project - focus on them and communicate, communicate, communicate.
+New on diginomica
+Adobe eyes $15bn in revenue in 2021 as Q4 numbers beat expectations
+Ellison pledges data center build out after a Q2 when demand outstripped supply for Oracle Cloud Infrastructure
+Why data is your most valuable business asset in achieving resilience
+Asana posts Q3 results, ponders impact of Adobe on enterprise work management
+Facebook under fire for illegal monopolistic practice, but what chance genuine action by regulators?
+Premier partner newsfeed
+Employee Spotlight: Tapas Basak
+BPM: Alignment is the word
+Using SignalR with Acumatica Push Notifications
+Looking to Design-for-Service? Start Here
+Recruitment SEO – Create an optimized careers page
+The Systems Behind ZoomInfo’s Chart-Topping Tech IPO
+Nine IT experts on how to align to shifting goals with work management
+2020 Release 4 Highlight: Transform Decision-Making with Sage Intacct Intelligent GL
+Pixie by New Relic: Developer-First Observability for Kubernetes
+Organizations know SaaS Maturity matters, so why are they waiting?
+ASUG SAP S/4HANA Virtual Boot Camp Gives Attendees a Crash Course in a Successful Implementation
+Creative ways to stay connected with remote coworkers—that aren’t a virtual happy hour
+Enterprise AI® Powered Supply Chains:
+Being Planful: Helpful FP&A Resources
+How We Can Collaborate to Empower the Future Workforce
+CPO View: Why Fostering Collaboration Between IT and Procurement is Critical
+Meet the Trailblazer behind the Salesforce reboot at GoCardless
+Turn your supply chain into a competitive advantage: 6 insights from industry leaders
+Rimini Street Awarded Three Brazilian Public Sector Contracts to Support Oracle and SAP Enterprise Software Systems
+See what our customers say about Neptune Software | Testimonials
+A Season of Gratitude: Recognizing Manufacturers that Keep the World Running
+Fall 2020 Release: Deeper forecasting, predictive insights, more productivity
+Elevating your warehouse to be a competitive differentiator
+ServiceNow powers up new data centres for next-gen experiences
+Latest Conversations
+Go to topics
+Government- Analytics planning and data analysis- Best of archives- Best of Cloud ERP financials and supply chain- Best of Digital government and public services- Best of Healthcare transformation- Best of IoT robotics and AI- Cloud ERP financials and supply chain- Cloud platforms - infrastructure and architecture- Collaboration sharing and digital productivity- CRM and customer experience- Customer service management- Data privacy- DevOps NoSQL and the open source stack- Digital and content marketing- Digital enterprise in the real world- Digital government and public services- Central- Education- G-Cloud and the Digital Marketplace- Health- Local- Third sector and non-profits- Digital skills and training- Digital transformation - frictionless enterprise- Diversity- e-commerce- Financial services and fintech- Financials- Fintech- Frictionless enterprise- Future of work- Governing identity privacy and security- HCM and the digital future of work- Healthcare transformation- HR admin and payroll- Identity- Infrastructure- Internet of Things- IoT robotics and AI- IT service management- Machine intelligence and AI- Mobile- NoSQL- Open source- Outsourcing- Productivity- Professional services- Regulation- Retail e-commerce and the omni-channel- Robotics- Security- Social- Spend management- Talent management- The new professional and IT as a service- Uncategorized- Use cases- User experience- UX and application design

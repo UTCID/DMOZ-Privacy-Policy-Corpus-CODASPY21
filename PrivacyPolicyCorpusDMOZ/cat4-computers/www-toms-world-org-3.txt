@@ -1,0 +1,108 @@
+https://www.toms-world.org/blog/privacy/
+Skip to content
+Tom's World Tech Blog Home of my tech rants, free programs, and a story or two…
+Home
+Search our site...
+Tom's World Tech BlogTom’s World Privacy Policy
+AUTOMATIC UPDATES
+Many of the programs that are offered here on this web site contain automatic update functionality. In order for these programs to check for updates the program must contact my web site and retrieve a small bit of data. In the process of checking for an update the program sends to my web site a program code or name of the program to identify the program that you’re using along with the current version of the program you currently have. The version that is sent consists of the major and minor version numbers, for example… 1.2. An example of a program code is “restorepointcreator”. No personally identifying information is stored or sent to my server when checking for an update. The version of Windows that you are using along with the program name and versions are also sent to my web site for platform tracking purposes. I do not use this data to personally identify you in any way, I simply use this to gather anonymous platform statistics (how many people still use Windows XP, 7, 8.1, etc.). No personally identifying information is stored.
+DOWNLOADS
+Downloads are counted on this site for tracking how many people are downloading my programs. All that is tracked is the number of people who downloaded a file. No personally identifying information is stored.
+OPERATING SYSTEM NAMES
+The operating system name is sent when programs from this web site contact this web site for updates and other HTTP-related activity. I use this data to track what versions of Windows are the most popular versions of Windows among my users. This is how I came to the conclusion that Windows XP isn’t very popular among my users hence the reason why I pulled support for Windows XP. All that happens is a counter increment based upon the name of the OS.
+PROGRAM NAMES AND VERSION NUMBERS
+The program name and version info is sent when programs from this web site contact this web site for updates and other HTTP-related activity. I use this data to customize what data is being fed to the program, this is especially important for System Restore Point Creator because there are systems in place on this web site that sends customized changelogs based upon what version of the program you currently have installed.
+EMAIL
+All email addresses hosted for toms-world.org is hosted by Google. Please see Google’s Privacy Policy for details on GMail’s privacy.
+COMMENTS
+Comments on this site are powered by Disqus. Please see Disqus’s Privacy Policy for details on Disqus’ privacy.
+GENERAL THIRD PARTY
+No information that you personally share with me is shared with anyone outside of this site. All information is kept strictly confidential and will not be used in any form of marketing.
+CRASH SUBMISSION DATA
+Many of the programs that are offered here on this web site contain the ability to automatically submit crash data to me. The crash data contains the following data. Your IP Address, your email address, the time of the crash, operating system and version of the operating system, the current version of the Microsoft .NET Framework installed on your system, how much RAM your system has, your CPU, the number of cores your CPU has, the current program version, the user under which the program is running on your system, the crash type, and the crash message. This information is never shared with anyone, the information contained in the crash data is used only by me to facilitate the process of debugging my programs and is kept strictly confidential.
+An example of crash data that’s sent to me is…
+Reported on: Thursday, January 7th, 2016 at 1:25 AM
+IP Address: 192.168.10.65
+Name: Joe Somebody
+Email Address: someone@someone.com
+Program Name: Restore Point Creator
+Is it Reproducable: No
+User was doing what at the time
+Running the program.
+Program Crash Details
+System Information
+Time of Crash: 7-1-2016 2:29:33
+Operating System: Windows 10 Pro 64-bit (Microsoft .NET 4.0)
+System RAM: 16 GBs
+CPU: Intel Core i5-3570K CPU @ 3.40GHz
+Number of Cores: 4
+Program Version: 3.4 Build 16
+Running As: Someone
+Exception Type: System.NullReferenceException
+Message: Object reference not set to an instance of an object.
+The exception occurred at Restore_Point_Creator.Functions.Functions.updateRestorePointCreatorUninstallationInfo() in Restore Point Creator (New Design)\Restore Point Creator\Classes and Modules\Functions.vb:line 38
+ProgramsOpen Source
+Hasher
+Virus Reports
+Restore Point Creator (DISCONTINUED!)
+HTTPHelper
+Source Code Repository
+VB.NET Source Code
+C# Source Code
+VB.NET Examples
+C# Examples
+Windows Checksum
+Privacy Policy
+Official Contact Form
+How to Submit Crash Reports
+Printer Fixer
+PHP Script: Parse User Agent String
+SimpleQR
+YAWA2 Updater
+Scheduled Task Scanner
+Start Program at Startup without UAC Prompt
+Space 2315Main Page
+Prologue
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
+Chapter 7
+Chapter 8
+Chapter 9
+Chapter 10
+Chapter 11
+Chapter 12
+Chapter 13
+Chapter 14
+Chapter 15
+Chapter 16
+Chapter 17
+Chapter 18
+Chapter 19
+Chapter 20
+Chapter 21
+Space 2315… PeaceMain Page
+Prologue
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+ToolsNATO Phonetics
+cssMin
+jsMin
+Whois
+What’s My IP Address?
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Cookie settingsACCEPTPrivacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+Necessary
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.

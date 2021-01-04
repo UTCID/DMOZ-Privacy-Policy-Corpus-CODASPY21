@@ -1,0 +1,122 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/pr01s05.html#websec2-PREF-SECT-5.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+History and AcknowledgmentsIn June 1991, O’Reilly & Associates published our first book,
+Practical Unix Security. The book was 450 pages and
+contained state-of-the-art information on securing Unix computers on the
+Internet. Five years later, we published the revised edition of our
+book, now entitled Practical Unix & Internet Security. During the intervening years, the field of computer
+security had grown substantially. Not surprisingly, so had our page
+count. The new volume was 1000 pages long.In 1996, our editor Debby Russell suggested that we create a
+revised version of Practical Unix & Internet Security that was aimed at the growing community of web users
+and service providers. But because the book was already so long, we
+decided to write a new book that would focus on SSL encryption,
+client-side digital signature certificates, and special issues
+pertaining to electronic commerce. That book, Web Security and Commerce, was published in 1997.In the spring of 2000, Debby approached us again, asking if we
+would like to rewrite either of the security books. We looked them over
+and started on this project. Originally we thought that we would simply
+remove the material from Web Security and Commerce
+that was no longer relevant—alternatives that had been rejected by the
+marketplace. And certainly, some screen shots and configuration
+information needed to be revised. But as we looked more deeply at the
+project, we realized that a total rewrite and a significant expansion of
+the book was required. The result of that complete rewrite is this
+second edition.Second EditionFor help in creating this second edition of the book, we wish to
+offer our special thanks to:Aaron Goldfeder at Microsoft. Over more than six months,
+Aaron proved to be a godsend, able to find out the answers to all
+sorts of questions having to do with Internet Explorer, Internet
+Information Services, Authenticode, and even VeriSign. Many errors
+were headed off at the pass by Aaron’s gracious responses to our
+email. And thanks to Charles Fitzgerald for putting us in touch
+with Stephen Purpura, who put us in touch with Aaron!Andy Cervantes and the Privacy Foundation, who provided us
+with information regarding hostile browser helpers.Ann Wiles and CardWeb.com, who provided us with information
+about credit card fraud.Aaron S. Cope at Vineyard.NET, who provided all-around
+question-answering and web-searching capabilities.Bert-Jaap Koops, who answered questions about his Crypto Law
+Survey and allowed us to reprint its findings.Bradford Biddle, now at Intel, who answered many questions
+about PKI and public key issues and provided us with material for
+Chapter 7.Christopher D. Hunter, who provided information about online
+privacy issues.D.A. Smith at Sandstorm Enterprises, whose constant reading
+and summarization of Bugtraq and other mailing lists saved the
+authors a tremendous amount of time.David Flanagan, who answered questions on JavaScript
+security.Elisabeth Cohen, formerly at Merrit Group, VeriSign’s PR
+agency, who helped set up an interview that proved useful.Eric Pollard at Earthlink, who put us in touch with one of
+our reviewers, Lisa Hoyt.Karl Auerbach at ICANN, who provided needed details
+regarding the organization’s formation.Jane Winn, who answered many questions about digital
+signatures and wrote a terrific article about E-SIGN.Jeff Morrow of Switch and Data, which provided us with a
+photograph of their Internet data center.Jeff Ubois at Omniva Policy Systems, who sent us many
+messages that self-destructed.Joe Chou at Sun and the Mozilla project, who verified for us
+that JavaScripts downloaded by SSL are not treated as signed
+JavaScripts (despite claims to the contrary in the documentation).
+Also thanks to George Drapeau at Sun and Norris Boyd at ATG, and
+John Gable at Netscape, who worked on the same issue.John Lambert at Microsoft, who found out for us the process
+for getting a root certificate bundled into Microsoft Internet
+Explorer.Kevin Fu at MIT, whose knowledge of cookies and cryptography
+proved invaluable.Lorrie Cranor, who answered all things relating to P3P, and
+even wrote our appendix on the subject.Michael Baum, who took time out of his busy flying schedule
+to answer some questions about digital signatures and the
+law.Michael Froomkin, who answered questions about digital
+signatures and put us in touch with Jane Winn.Mitchell Stoltz, who answered even more questions about
+signed JavaScripts in Netscape 6.Shaun Clowes for providing very helpful information on PHP
+security.Stephen Wu of VeriSign, who caught and helped us to correct
+many inaccurate statements regarding his company.Trista Haugen at Surety, who answered questions about the
+company’s current offerings.Veronica at Lycos.com’s Product Support Analysis Team, who
+really tried to find out for us what HotBot’s cookies do, but
+ended up simply telling us how to disable cookies in our
+browser.This book was reviewed by Norris Boyd at ATG, Carl Ellison at
+Intel, Kevin Fu at MIT, Lisa Hoyt at Earthlink, Reuven Lerner, Radia
+Perlman at Sun Microsystems, Mitch Stoltz at Netscape, Rich Wellner,
+and Stephen Wu at VeriSign. Many thanks to all of you.Our editor Debby Russell did yet another fabulous job editing
+this book. Rob Romano created illustrations that helped convey some of
+the more difficult ideas. Many thanks to Colleen Gorman, the
+production editor for this book; Edie Freedman and Ellie Volckhausen,
+who designed the front cover; Emma Colby, who designed the back cover,
+David Futato, who designed the interior format; Audrey Doyle, the
+copyeditor; Mary Brady, Phil Dangler, Maureen Dempsey, Derek Di
+Matteo, Catherine Morris, and Edie Shapiro, who entered edits; and
+John Bickelhaupt, who indexed the book.First EditionWe want to reiterate our thanks to the people who helped us in
+creating the original edition of Web Security & Commerce. We received help from many people in the computer
+industry, including:[14]At Consensus, Christopher Allen and Tim Dierks reviewed our
+chapters on SSL.At Cybercash, Carl Ellison sent us many email messages about
+the role and usefulness of certificates.At First Virtual, Marshall Rose and Lee Stein gave us lots
+of juicy information about what they were doing.At JavaSoft, David Brownell answered many questions
+regarding Java and Java’s interaction with digital
+signatures.At Microsoft, we had tremendous help from Charles
+Fitzgerald, Barbara Fox, Rick Johnson, Thomas Reardon, and Michael
+Toutonghi, who spent a great number of days and nights acquainting
+us with the issues of SET, Java, JavaScript, and ActiveX
+security.At Netscape, Frank Chen, Eric Greenberg, Jeff Treuhaft, and
+Tom Weinstein provided us with many technical insights.At VeriSign, Michael Baum, Gina Jorasch, Kelly M. Ryan, Arn
+Schaeffer, Stratton Sclavos, and Peter Williams were very patient,
+answering many questions.At the World Wide Web Consortium (W3C), Paul Resnick
+reviewed the chapter on PICS and made several helpful
+suggestions.Adam Cain at UIUC provided interesting timing information about
+SSL for the SSL chapter. Brad Wood from Sandia National Labs gave us
+excellent comments about the role of encryption in securing web
+servers. John Guinasso at Netcom gave us interesting insights into the
+human problems facing ISPs. Mark Shuttleworth at Thawte and Sameer
+Parekh at Community ConneXion told us more about web servers and
+dealing with VeriSign than we ever imagined we might need to know.
+Nessa Feddis at the American Banker’s Association straightened us out
+about many banking regulations. Eric Young, the author of SSLeay,
+answered many questions about his program and other aspects of SSL.
+Jon Orwant looked over the Perl code and answered questions for
+us.We would like to thank our reviewers, who made this a better
+book by scanning the draft text for inaccuracies and confusions.
+Special thanks are due to Michael Baum, David Brownell, Carl Ellison,
+Barbara Fox, Lamont Granquist, Eric Greenberg, John Guinasso, Peter
+Neumann, Marshall Rose, Lincoln Stein, Ilane Marie Walberg, Dan
+Wallach, and David Waitzman. Special thanks to Kevin Dowd, who
+provided information on Windows NT host security, to Bradford Biddle,
+who gave us permission to include digital signature policy
+information, and to Bert-Jaap Koops, who let us use his
+table on export restrictions.
+[14] The companies and organizational affiliations listed here
+were accurate as of the writing of the first edition; many of
+these companies may no longer exist, and most of these people have
+moved on to other opportunities.
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

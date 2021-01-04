@@ -1,0 +1,313 @@
+https://www.drivehq.com/help/Features/Comparisons/comparisons.aspx
+Feature Comparison
+Price Comparison
+Expert Reviews
+DriveHQ Plans Comparison
+DriveHQ has been a leading enterprise cloud IT service provider since 2003. Our technologies are generations ahead of our competitors.
+Choose a long-term service provider that has proven to deliver the best enterprise features.
+Cloud Service Features
+Drive HQ
+Drop box
+Carbo- nite
+Box
+Egnyte
+Google Drive
+Cloud File Storage, Cloud Drive
+Web Browser-based Cloud Storage
+Explorer-like File Manager Software
+Users need to access and manage cloud files using a program similar to Windows Explorer. Why do they have to sync their cloud storage to all computers? It wastes a lot of disk space on each computer, and it also wastes time and bandwidth. What if you don't have enough free storage space on your computer?
+WebDAV Drive Mapping
+Accessing cloud storage just like a local drive, it is the most straight-forward way of accessing cloud files. It is easy for anybody in your organization. There is literally no change, it's even easier than Dropbox.
+The WebDAV feature seems to be available, but Box's own website says it's not officially supported on PC. So use at your own risk.
+Folder Synchronization
+Real-Time Folder Sync
+One-way Sync (cloud-to-local or local-to-cloud)
+Scheduled Sync
+Real-time folder sync can be very inefficient if you keep changing a large file, and the file is sync-ed again and again. Many Internet connections (such as ADSL and Cable Modem) have a much slower upload bandwidth than download bandwidth. Sync-ing a large file will slow down your Internet connection significantly. That's why you need scheduled sync. Many users asked for this feature.
+Multiple Sync Tasks with Different Schedules
+Users may need to sync one folder in real-time, and another folder at night time. If files are being changed frequently, sync-ing in real-time can be very inefficient.
+Sync Any Local Folder to Any Cloud Folder
+Select any folder on a PC and synchronize it to a folder in the cloud. Why should it be limited to a special folder such as "Dropbox", "Box", "Google Drive" or "Local Cloud"? With DriveHQ FileManager, you can keep using any folder that you have used before.
+This feature is more powerful than "Selective Sync" offered by Dropbox. With Selective Sync, you can only select a cloud folder(s),
+but you cannot select a local folder.
+Synchronize Open Files
+If a file is opened by another program for writing, then the file is locked. Directly sync-ing the file will fail or it may corrupt the file. To sync / backup a locked file, it must first create a snapshot of the file using VSS (volume shadow copy) technology.
+Without supporting this feature, if you worked on a file at work, and if you forgot to close the file, then the latest version file won't be synchronized to the cloud. You won't be able to work on it from home!
+Protection From Accidental Deletion
+In general, folder synchronization is not as safe as online backup. If you delete a file from a synchronized folder, then it will delete all copies of the file from any folders synchronized to the folder!
+DriveHQ has a mechanism to protect files from being deleted in a sync-ed folder accidentally.
+Sync Network Drives / External Drives / Servers
+Cross Office Sync, Hybrid Cloud Storage
+In one office location, all employees will access files on a local storage server or a NAS device. To sync files across multiple office locations, or to access files remotely, files on the storage server or NAS device must be synchronized with the cloud. Hybrid cloud storage can dramatically reduce the bandwidth requirement. In one office, employees will not notice any differences. The benefit is they can access the same files from multiple office locations. To support this feature, a synchronization service must support syncing storage servers or NAS devices
+Max Items That Can Be Sync-ed
+Unlimited
+Unclear
+40,000
+According to Box, Box Sync has a techical limit of max 40,000 files and folders. Even worse, the recommended maximum items should be fewer than 10,000! No wonder so many customers are complaining on their support site!
+20K / folder
+Egnyte limits maximum 20,000 files in a folder, and possibly limits 600 sub-folders in a folder. It also has a max file size of 5GB limit.
+Unclear
+Exclude Certain Files from Being Sync-ed
+Very often you don't need to sync certain file types, e.g. you don't need to sync temp files created by MS Office or other programs, you don't need to sync cache files, and you don't need to sync *.obj files. DriveHQ FileManager allows you to exclude certain files / folders using wild cards such as *.obj, *.bak, ~*.tmp, etc.
+Client Software
+Folder Sync Software
+Explorer-like File Manager Software
+Users need to access and manage cloud files using a program similar to Windows Explorer. Why do they have to sync their cloud storage to all computers? It wastes a lot of disk space on each computer, and it also wastes time and bandwidth. What if you don't have enough free storage space on your computer?
+Online Backup Software
+Online Backup and Folder Sync are very different. Online Backup truly protects your data. A modern backup program should support real-time and scheduled backup. It can run as a service process backing up your computer even if nobody is logged on.
+Due to Dropbox's popularity, many users have used folder sync for online backup. However, it is not as safe as online backup, and it lacks the advanced backup features. If you delete a file from a sync-ed folder, it will delete the file in all folders sync-ed to it.
+Email Backup Software
+DriveHQ has a backup program that is designed to backup Outlook emails. It can backup emails one by one without backing up the entire PST file. This way, it can incrementally backup your emails, and you can drag and drop restore your emails
+Mobile App for iPhone and iPad (iOS)
+Mobile App for Android
+Mobile App for Windows Phone
+Metro App for Windows 8
+Support 3rd party FTP and WebDAV software
+According to Box Support, it supports FTP for Business & Enterprise customers. However, it says it's not recommended and should only be used for
+initial bulk uploading and occasional bulk downloading, which means it is not designed to be a real FTP hosting service. Similarly, it seems Box has WebDAV, but Box does not officially
+support it on PC, so use at your own risk.
+Egnyte's FTP service is designed as an alternative upload/download tool. According to Egnyte's support page, it can be used to upload
+up to 100GB of data. It is different from a full-blown FTP hosting service. A true FTP hosting service should be able to handle any amount of data, very high number of concurrent connections,
+and host large files for many people to download at the same time. Clearly, Egnyte does not support anonymous FTP so it cannot host large files for many Internet users to download.
+Online Backup Files and Emails
+Basic Online Backup Features
+Multiple Backup Tasks with Different Schedules
+Backup Open Files (such as Outlook PST and Quickbooks files)
+Backup Outlook Emails Instead of PST Files
+Backup Network Drives and USB Drives
+Backup Servers with Nobody Logged On
+Only the highest level plan (Business Premier Plan) supports Server Backup.
+Group Backup with Central Monitoring
+Group Backup with Central Management
+FTP, Email, Web and File Hosting
+FTP Server Hosting (Custom Domain)
+According to Box Support, it supports FTP for Business & Enterprise customers. However, it says it's not recommended and should only be used for
+initial bulk uploading and occasional bulk downloading, which means it is not designed to be a real FTP hosting service. So use at your own risk.
+Egnyte's FTP service is designed as an alternative upload/download tool. According to Egnyte's support page, it can be used to upload
+up to 100GB of data. It is different from a full-blown FTP hosting service. A true FTP hosting service should be able to handle any amount of data, very high number of concurrent connections,
+and host large files for many people to download at the same time. Clearly, Egnyte does not support anonymous FTP so it cannot host large files for many Internet users to download.
+Email Server Hosting (Custom Domain)
+Static Web Hosting (Custom Domain)
+File Download Hosting, CDN Replacement)
+Upload & Download Technologies
+Data Compression for Fast Upload & Download
+Unclear
+Unclear
+Unclear
+Unclear
+Upload / Download Task List with Progress Bar
+Monitor the list of files being uploaded / downloaded, the transfer speed and the progress info in real-time.
+Pause/resume a transfer task, delete files from the transfer task list.
+It not only provides more detailed transfer information, but also can be used to manage the transfer tasks.
+For example, you can pause uploading a very large file, so that other smaller files can be uploaded faster.
+Bandwidth Throttling
+If you upload / download very large files, the software may use all your network bandwidth. It could make your Internet
+connection much slower. For small offices, one person sync-ing or backing up a large file could affect the Internet speed of everybody in the office.
+To avoid it, you can throttle the maximum upload / download speed of the software. DriveHQ FileManager supports this feature.
+Unclear
+Unclear
+Magic Upload & Data De-duplication
+If a file has already been uploaded by another user, and if you upload the same file,
+the software can detect the same file and skip uploading. It can make upload extremely fast.
+Unclear
+Unclear
+Incremental Upload / Download
+Resume Interrupted Uploads / Downloads
+If a file is partially uploaded, and your network connection dropped or your computer is rebooted,
+can Dropbox resume from where it was interrupted? It seems no.
+If a file is partially uploaded, and your network connection dropped or your computer is rebooted,
+can Carbonite resume from where it was interrupted? It seems no.
+If a file is partially uploaded, and your network connection dropped or your computer is rebooted,
+can Box resume from where it was interrupted? It seems no.
+If a file is partially uploaded, and your network connection dropped or your computer is rebooted,
+can Egnyte resume from where it was interrupted? It seems no.
+If a file is partially uploaded, and your network connection dropped or your computer is rebooted,
+can Google Drive resume from where it was interrupted? It seems no.
+Maximum File Size
+Unlimited
+Unlimited
+Unlimited
+250MB-5GB
+Very restrictive. According to Box's support page:
+Free users: 250MB
+Paid Personal: 1GB
+Paid Business: 2GB
+Paid Enterprise: 5GB.
+2.5-10GB
+Office Plan: 2.5GB Business Plan: 5GB Enterprise Plan: 10GB
+2MB-10GB
+Max size for Google App Doc files: 2MB
+Google Doc spreadsheet files: 20MB
+Google Doc presentation files: 50MB
+Other files: 10GB
+Data Caching & Offline Access
+File Sharing
+Share files to non-members
+It seems you can share files to non-members? However, the other user must sign up a Dropbox account! Moreover, if you share a large folder to a (free) Dropbox
+member, the member must have enough free storage space in his account. Otherwise, he must upgrade his subscription to access the shared folder! Do you really want to push your friends or clients to
+order Dropbox subscription?
+Egnyte does not offer free service at all. You cannot share files to non-members.
+Share files to members
+If you share a very large folder to another Dropbox user, and if the user does not have enough free storage space, then he must upgrade his subscription! Do you
+really want to push your friends or clients to order Dropbox subscription?
+You can not share files to other Egnyte members (except within the same group)
+ACL-based File Sharing
+Share files to groups and sub-groups
+Share files to contact groups
+Set Share Expiration Time
+Automatic New File Notification
+On DriveHQ.com, if a folder is shared to 10 users, and if a user uploads a new file to the shared folder, the system can send a new file notification email to all 10 users.
+Publish Files and Folders
+Publish Individual Files (Create Static Links)
+Publish Folders (incl. All Files in It)
+Regular Publish URL
+A regular publish URL usually includes the file name in the URL. It is easier for users to understand the content of the link. It is also more convenient for the content publisher as he only needs to publish a folder, then he will have the publish URLs for all files in the folder.
+A regular publish URL has two weaknesses:(1) If the file name contains invalid characters for URL, then the publish URL will not work;
+(2) A regular URL may include the account username, foldername and filename.
+Safe Publish URL
+A safe publish URL does not include the account username, foldername and file name. It will work even if the file name contains invalid characters for URL.
+Unclear
+Unclear
+Unclear
+Unclear
+File Hosting for Large Files or Large Volumes
+Most cloud storage services limit the maximum number of downloads for a published file, or it limits the maximum file size. Therefore, they cannot be used for hosting large files or large download volumes.
+True Drop Box Folder
+Like a real drop box in the post office, it allows anybody to upload files to you securely without the hassle of signup or logon. It is totally different from Dropbox.com service. In fact, Dropbox.com appears to be a misnomer - a more precise name would be "Syncbox".
+True Drop Box Folder
+Embed a Drop Box Folder in Your Own Web Page
+Security and Privacy
+Client-side Data Encryption
+Encrypt data on your own computer using your own encryption key before transferring the data to the cloud. The cloud server and other users cannot decrypt your files without your encryption key. For ultimate security and privacy, this feature is a must. Server-side encryption is not secure because the cloud server has access to the unencrypted version of your files. It can also decrypt your files on demand.
+File Versioning
+Recycle Bin Folder
+Password Policy
+Such as: require strong password; force changing password at next logon; automatically expire a password after certain number of days, etc.
+Unclear
+IP Address Restriction
+Event Log
+Costs extra $75/month!
+Unclear
+Business and Enterprise Management Features
+Support Sub-users
+Support Sub-group Administrators
+On DriveHQ.com, sub-groups can be created for departments and branch offices. A sub-group is a permission group and a management group. The sub-group administrator and create and manage sub-users in his sub-group. A folder can be shared to a sub-group, and then all sub-users in the sub-group can access the shared folder.
+Unclear
+Unclear
+Unclear
+Unclear
+Unclear
+Contact Groups / Mailing List
+On DriveHQ.com, a contact group is a list of contacts (i.e. a "folder" in an address book). A contact group is used as a mailing list on DriveHQ email service. It is also used as a permission group in file sharing. If a folder is shared to a contact group, then all users in the contact group can access the shared folder.
+Storage and Download Bytes Quota
+Unclear
+Manage Guest Users for External Clients
+A guest user has much lower privilege than a regular sub-user. He cannot see other group members; he cannot access group-shared folders. He can only access the folder(s) shared to him directly.
+Batch Import / Export Users
+Unclear
+Unclear
+Unclear
+Unclear
+Unclear
+Batch Provisioning Many Accounts
+Batch allocate storage space / download bytes quota; batch set user options, etc.
+Active Directory Integration and SSO
+Dropbox uses 3rd party solution that is not free.
+Box uses 3rd party solution that is not free.
+Egnyte uses 3rd party solution that is not free.
+Other SSO integration such as integrating with Salesforce, or your company’s web service, etc.
+Customization, Branding, Integration and API
+Custom Logo and Landing Page Service
+Custom domain FTP, Email and Web Hosting service
+Only FTP feature, seems it is not designed for FTP hosting.
+Only FTP feature, seems it is not designed for FTP hosting.
+Only offers email hosting service.
+Full website customization and localization (provide website template files for customization and localization.)
+Complete White label service
+API
+DriveHQ has both open standard APIs and proprietary APIs.
+Customer Support
+Phone Support
+We offer better phone support that is based in U.S.; we don't put people on hold for a long time.
+Unclear
+Unclear
+Email Support and Support Forum
+Service Demo, Walkthrough and Initial Training
+Unclear
+Unclear
+Unclear
+Unclear
+Remote Desktop Support
+Unclear
+Unclear
+Unclear
+Courier Data Upload
+Emergency Data Download / Restore
+Service Level Agreement
+A written service level agreement that guarantees service up-time with terms on penalties.
+HIPAA / Business Associate Agreement
+Unclear
+Unclear
+Unclear
+Note: Not all DriveHQ features are available in all service plans.
+Please visit DriveHQ Plans Comparison Page for more info.
+Even with more features and better services, DriveHQ's price is significantly lower than our competitors. In some cases, the price is dramatically lower!
+Please visit the Price Comparison with Other Cloud Services page.
+In fact, our price is even lower than AWS, which is often used as the raw infrastructure service or the building block for
+other cloud services such as Dropbox! In comparison, DriveHQ has its own data center years before Amazon launched its AWS service, that's why our price can be significantly
+lower than Dropbox.
+Compare with Amazon Web Service (i.e. AWS: S3 and EC2)
+Features
+DriveHQ
+Amazon
+Virtual Machine
+Cloud Storage
+Ready-to-use Business Cloud Services
+Ready-to-use FTP Server
+Ready-to-use Email Server
+Ready-to-use Static Web Server
+Ready-to-use WebDAV Server
+Online File and Email Backup Software
+Explorer-like File Management Software
+Folder Synchronization Software
+File Sharing & Collaboration
+ACL-based Folder Access Control
+Group, Sub-group and Contact Group
+Price Comparison
+Cost Comparison & Analysis
+The price is based on the subscription plan. It bundles storage, bandwidth, server requests and advanced features.
+The price is charged separately for raw cloud storage,
+raw virtual machine, bandwidth, server requests
+Raw Cloud Storage Price
++ Raw bandwidth
++ Raw Request Price
+DriveHQ bundles raw storage, bandwidth, requests with advanced features. The prices below do not include the initial charge for plans below 10TB (which is very small when you order plans over 10TB).
+AWS can offer potentially more flexible or even more advanced
+features, but it requires technical expertise and software development work.
+5 TB Storage
++ 2.5 TB/month download bytes
++ x server requests
+$416/month (based on annual service)
+$715/month + $x/month
+10 TB storage
++ 5 TB/month download bytes
++ x server requests
+$750/month
+$1415/month + $x/month
+20 TB Storage
++ 10 TB/month download bytes
++ x server requests
+$1332/month
+$2895/month + $x/month
+50 TB Storage
++ 25 TB/month download bytes
++ x server requests
+$2916/month
+$6565/month + $x/month
+>500 TB
++ 250 TB/month download bytes
++ x server requests
+$ 25000/month
+$52315/month + $x/month
+DriveHQ's subsidiary CameraFTP.com offers a separate service called "Cloud Surveillance". CameraFTP is a leading Cloud Surveillance service provider.
+Cloud Surveillance is more secure than regular surveillance services. Your cameras will record data to CameraFTP's Cloud Storage. Intruders cannot destroy your recorded footage even if they steal your cameras.

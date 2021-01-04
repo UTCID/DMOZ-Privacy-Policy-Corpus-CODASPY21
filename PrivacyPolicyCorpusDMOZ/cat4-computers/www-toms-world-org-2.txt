@@ -1,0 +1,264 @@
+https://www.toms-world.org/blog/httphelper/examples/
+Skip to content
+Tom's World Tech Blog Home of my tech rants, free programs, and a story or two…
+Home
+Search our site...
+Tom's World Tech BlogVB.NET Examples
+Upload File Example
+Try
+OpenFileDialog.Title = "Browse for file to upload..."
+OpenFileDialog.FileName = Nothing
+OpenFileDialog.Filter = "Image Files (JPEG, PNG)|*.png;*.jpg;*.jpeg"
+If OpenFileDialog.ShowDialog() = DialogResult.OK Then
+Dim strHTTPResponseHeaders As String
+Dim strServerResponse As String = Nothing
+Dim httpHelper As New Tom.httpHelper()
+httpHelper.useHTTPCompression(True)
+httpHelper.setProxyMode(True)
+httpHelper.setHTTPTimeout(10)
+httpHelper.setUserAgent("Microsoft .NET") ' Set our User Agent String.
+httpHelper.addHTTPCookie("mycookie", "my cookie contents", "www.toms-world.org", "/")
+httpHelper.addHTTPHeader("myheader", "my header contents")
+httpHelper.addPOSTData("test1", "value1")
+httpHelper.addPOSTData("test2", "value2")
+httpHelper.addGETData("test3", "value3")
+httpHelper.addFileUpload("myfileupload", OpenFileDialog.FileName, Nothing, Nothing)
+If httpHelper.uploadData("http://www.toms-world.org/httphelper.php", strServerResponse) Then
+strHTTPResponseHeaders = httpHelper.getHTTPResponseHeaders().ToString
+End If
+End If
+Catch ex As Tom.httpProtocolException
+' You can handle httpProtocolExceptions different than normal exceptions with this code.
+Catch ex As Net.WebException
+MsgBox(ex.Message & " " & ex.StackTrace)
+End Try
+Post Data Example
+Try
+Dim strHTTPResponseHeaders As String
+Dim strServerResponse As String = Nothing
+Dim httpHelper As New Tom.httpHelper()
+httpHelper.useHTTPCompression = True
+httpHelper.setProxyMode = True
+httpHelper.setUserAgent = "Microsoft .NET" ' Set our User Agent String.
+httpHelper.addHTTPCookie("mycookie", "my cookie contents", "www.toms-world.org", "/")
+httpHelper.addHTTPHeader("myheader", "my header contents")
+httpHelper.addPOSTData("test1", "value1")
+httpHelper.addPOSTData("test2", "value2")
+httpHelper.addGETData("test3", "value3")
+httpHelper.addPOSTData("major", "3")
+httpHelper.addPOSTData("minor", "9")
+httpHelper.addPOSTData("build", "6")
+If httpHelper.getWebData("http://www.toms-world.org/httphelper.php", strServerResponse) Then
+strHTTPResponseHeaders = httpHelper.getHTTPResponseHeaders().ToString
+End If
+Catch ex As Tom.httpProtocolException
+' You can handle httpProtocolExceptions different than normal exceptions with this code.
+Catch ex As Net.WebException
+MsgBox(ex.Message & " " & ex.StackTrace)
+End Try
+Get Web Data Example
+Try
+Dim strHTTPResponseHeaders As String
+Dim strServerResponse As String = Nothing
+Dim httpHelper As New Tom.httpHelper()
+httpHelper.useHTTPCompression = True
+httpHelper.setProxyMode = True
+httpHelper.setUserAgent = "Microsoft .NET" ' Set our User Agent String.
+httpHelper.addGETData("test3", "value3")
+httpHelper.addHTTPCookie("mycookie", "my cookie contents", "www.toms-world.org", "/")
+httpHelper.addHTTPHeader("myheader", "my header contents")
+If httpHelper.getWebData("http://www.toms-world.org/httphelper.php", strServerResponse) Then
+strHTTPResponseHeaders = httpHelper.getHTTPResponseHeaders(True).ToString
+End If
+Catch ex As Tom.httpProtocolException
+' You can handle httpProtocolExceptions different than normal exceptions with this code.
+Catch ex As Net.WebException
+' You can handle web exceptions different than normal exceptions with this code.
+Catch ex As Exception
+MsgBox(ex.Message & " " & ex.StackTrace)
+End Try
+Setting a URL Pre-Processor
+Dim httpHelper As New httpHelper
+httpHelper.setUserAgent("Microsoft .NET") ' Set our User Agent String.
+httpHelper.useHTTPCompression(True)
+httpHelper.setProxyMode(True)
+httpHelper.setURLPreProcessor(Function(ByVal strURLInput As String) As String
+If Not strURLInput.StartsWith("http://", StringComparison.OrdinalIgnoreCase) Then
+strURLInput = "http://" & strURLInput
+End If
+Return strURLInput
+End Function)
+File Download Example
+Private downloadThread, statusUpdatingThread As Threading.Thread
+Private urlToFileToBeDownloaded As String = "http://releases.ubuntu.com/16.04/ubuntu-16.04-desktop-amd64.iso"
+Private pathToDownloadFileTo As String = "S:\ubuntu-16.04-desktop-amd64.iso"
+Private httpHelper As Tom.httpHelper() ' This is our httpHelper Class instance object that will be able to be referenced in multiple threads.
+Sub downloadThread()
+Try
+' We use the downloadFile() function which first calls for the URL and then
+' the path to a place on the local file system to save it. This function
+' is why we need multithreading, this will take a long time to do.
+httpHelper.downloadFile(urlToFileToBeDownloaded, pathToDownloadFileTo)
+statusUpdatingThread.Abort() ' Since the file is done downloading we no longer need the status updating thread so we stop it.
+MsgBox("Download complete.")
+Catch ex As Tom.httpProtocolException
+' You can handle httpProtocolExceptions different than normal exceptions with this code.
+Catch ex As Net.WebException
+statusUpdatingThread.Abort()
+MsgBox(ex.Message & " " & ex.StackTrace)
+Catch ex As Threading.ThreadAbortException
+statusUpdatingThread.Abort()
+' Since we aborted the download the downloaded file is incomplete so we need to delete it, but
+' before we just go ahead and try and delete it we need to make sure that the file exists first
+' or deleting the file when it doesn't exist will cause a FileNotFoundException.
+If IO.File.Exists(pathToDownloadFileTo) Then IO.File.Delete(pathToDownloadFileTo)
+MsgBox("Download aborted.") ' And tell the user that the download is aborted.
+End Try
+End Sub
+Sub updateStatus()
+' This gets our percentage of the file that's been downloaded.
+Dim percentage As Short = httpHelper.getHTTPDownloadProgressPercentage()
+While percentage <> 100 ' We loop while the percentage is not 100.
+Label1.Text = String.Format("Downloaded {0} of {1} ({2}%)", httpHelper.getHTTPDownloadLocalFileSize(), httpHelper.getHTTPDownloadRemoteFileSize(), percentage)
+ProgressBar1.Value = percentage ' Set the progress bar the percentage value.
+Threading.Thread.Sleep(1000) ' Let's sleep for a second.
+percentage = httpHelper.getHTTPDownloadProgressPercentage() ' Get the new percentage value.
+End While
+ProgressBar1.Value = 0
+Label1.Text = "Download Complete"
+End Sub
+Sub stopDownload()
+downloadThread.Abort()
+End Sub
+Sub startDownload()
+' First we create our httpHelper Class instance.
+httpHelper = New Tom.httpHelper()
+httpHelper.useHTTPCompression(True)
+httpHelper.setProxyMode(True)
+httpHelper.setUserAgent("Microsoft .NET") ' Set our User Agent String.
+' This example we're going to be downloading a file so this is going to take some time. We need multithreading!
+' Now we need to create our download thread.
+downloadThread = New Threading.Thread(AddressOf downloadThread)
+downloadThread.Start() ' Starts our download thread.
+' We want to give the user some status on the download so we need a thread to do it.
+statusUpdatingThread = New Threading.Thread(AddressOf updateStatus)
+statusUpdatingThread.Start() ' Start our status update thread.
+End Sub
+File Download Example #2 Using an Injected Updating Function
+Private downloadThread As Threading.Thread
+Private Sub btnDownloadFile_Click(sender As Object, e As EventArgs) Handles btnDownloadFile.Click
+' First we create our httpHelper Class instance.
+Dim httpHelper As New Tom.httpHelper()
+httpHelper.setUserAgent = "Microsoft .NET" ' Set our User Agent String.
+End Sub
+' Now we set up our download status updating Lambda function that's passed to the Class instance to execute within the memory space of the Class.
+httpHelper.setDownloadStatusUpdateRoutine(Function(remoteFileSize As Long, amountDownloaded As Long, percentage As Short)
+Label1.Text = String.Format("Downloaded {0} of {1}", httpHelper.fileSizeToHumanReadableFormat(amountDownloaded), httpHelper.fileSizeToHumanReadableFormat(remoteFileSize))
+Label2.Text = percentage.ToString & "%"
+ProgressBar1.Value = percentage ' Set the progress bar the percentage value.
+End Function)
+' Now we need to create our download thread.
+downloadThread = New Threading.Thread(Sub()
+Dim urlToFileToBeDownloaded As String = "http://releases.ubuntu.com/16.04/ubuntu-16.04-desktop-amd64.iso"
+Dim pathToDownloadFileTo As String = "S:\ubuntu-16.04-desktop-amd64.iso"
+Try
+btnStopDownload.Enabled = True
+btnDownloadFile.Enabled = False
+' We use the downloadFile() function which first calls for the URL and then the path to a place on the local file system to save it. This function is why we need multithreading, this will take a long time to do.
+httpHelper.downloadFile(urlToFileToBeDownloaded, pathToDownloadFileTo)
+btnDownloadFile.Enabled = True
+btnStopDownload.Enabled = False
+MsgBox("Download complete.") ' And tell the user that the download is complete.
+Catch ex As Net.WebException
+btnDownloadFile.Enabled = True
+btnStopDownload.Enabled = False
+MsgBox(ex.Message & " " & ex.StackTrace)
+Catch ex As Threading.ThreadAbortException
+btnDownloadFile.Enabled = True
+btnStopDownload.Enabled = False
+If IO.File.Exists(pathToDownloadFileTo) Then IO.File.Delete(pathToDownloadFileTo)
+MsgBox("Download aborted.") ' And tell the user that the download is aborted.
+End Try
+End Sub)
+downloadThread.Start() ' Starts our download thread.
+End Sub
+Setting a Custom Error Handler
+Dim httpHelper As New Tom.httpHelper()
+' The "ex" is the Exception Object, you can find out what happened in the class instance by referencing this object.
+' The "classInstance" object is the current class instance that the customErrorHandler is running in. The class passes itself to your custom error handler so you can see what's going on inside the class and call any of the public properties and functions of the class.
+httpHelper.setCustomErrorHandler(Function(ex As Exception, classInstance As httpHelper) As Boolean
+If TypeOf ex Is Net.WebException Or TypeOf ex Is httpProtocolException Then
+MsgBox("The server responded with an HTTP error.", MsgBoxStyle.Critical, "Dialog Title")
+ElseIf TypeOf ex Is sslErrorException Then
+MsgBox("An HTTP SSL error occurred.", MsgBoxStyle.Critical, "Dialog Title")
+Else
+MsgBox("A general error occured.", MsgBoxStyle.Critical, "Dialog Title")
+End If
+' For instance, you can call the toString() function using the classInstance object.
+classInstance.toString() ' This outputs everything that the Class instance has in memory.
+End Function)
+ProgramsOpen Source
+Hasher
+Virus Reports
+Restore Point Creator (DISCONTINUED!)
+HTTPHelper
+Source Code Repository
+VB.NET Source Code
+C# Source Code
+VB.NET Examples
+C# Examples
+Windows Checksum
+Privacy Policy
+Official Contact Form
+How to Submit Crash Reports
+Printer Fixer
+PHP Script: Parse User Agent String
+SimpleQR
+YAWA2 Updater
+Scheduled Task Scanner
+Start Program at Startup without UAC Prompt
+Space 2315Main Page
+Prologue
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
+Chapter 7
+Chapter 8
+Chapter 9
+Chapter 10
+Chapter 11
+Chapter 12
+Chapter 13
+Chapter 14
+Chapter 15
+Chapter 16
+Chapter 17
+Chapter 18
+Chapter 19
+Chapter 20
+Chapter 21
+Space 2315… PeaceMain Page
+Prologue
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+ToolsNATO Phonetics
+cssMin
+jsMin
+Whois
+What’s My IP Address?
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Cookie settingsACCEPTPrivacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+Necessary
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.

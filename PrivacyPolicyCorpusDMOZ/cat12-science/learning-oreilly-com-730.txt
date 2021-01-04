@@ -1,0 +1,25 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/apb.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Appendix B. The SSL/TLS ProtocolThis appendix describes the SSL Version 3.0 protocol introduced in Chapter 5. It gives a general overview of
+the protocol that’s appropriate for a semi-technical audience.The Internet Engineering Task Force (IETF) Transport Layer
+Security (TLS) working group was established in 1996 to create an open
+stream encryption standard. The group began working with SSL Version 3.0
+and, in 1999, published RFC 2246. “TLS Protocol Version 1.0” RFC 2712
+adds Kerberos authentication to TLS. RFC 2817 and 2818 apply to TLS
+using HTTP/1.1.TLS is a general-purpose protocol for encrypting web,
+email, and other stream-oriented information sent over the Internet. But
+while TLS may eventually supersede SSL, it could be years before this
+happens. Even once TLS becomes widely used, people may still call it SSL
+by sheer force of habit.The charter for the TLS working group can be found at http://www.ietf.org/html.charters/tls-charter.html.HistoryThe SSL protocol was designed by Netscape Communications
+for use with Netscape Navigator. Version 1.0 of the protocol was used
+inside Netscape. Version 2.0 of the protocol shipped with Netscape
+Navigator Versions 1 and 2. After SSL 2.0 was published, Microsoft
+created a similar secure link protocol called PCT (described briefly
+in Chapter 5) that it claimed overcame some of SSL 2.0’s shortcomings. However, PCT generally annoyed the rest of the industry, which claimed that Microsoft wasn’t interested in working with standards bodies ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

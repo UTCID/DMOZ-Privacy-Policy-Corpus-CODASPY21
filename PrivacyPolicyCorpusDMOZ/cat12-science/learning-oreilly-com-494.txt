@@ -1,0 +1,30 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch17.html#websec2-CHP-17-SECT-1.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 17. Deploying SSL Server CertificatesThis chapter describes how to create and install SSL
+(Secure Sockets Layer) certificates using the Open SSL implementation
+and the Apache mod_ssl module on the FreeBSD
+operating system. (See Chapter 5
+for basic information on SSL. See Chapter
+6 and Chapter 7 for
+information about digital certificates.) We will also show you how to
+get a certificate that is signed by the VeriSign certification
+authority. The process is decribed in detail to give you a feel for how
+the mechanics of the process work. However, as it is likely you will be
+performing this process with different software than described here,
+refer to your own documentation before beginning the procedure.Planning for Your SSL ServerTo set up a cryptographically enabled
+web server, you must complete these steps:Plan your SSL installation. Why do you want to use SSL? What
+protocols do you want to use with SSL? Which server will you be
+using? Where will you be keeping your web server’s private key? Do
+you want it to be possible for people to connect to your server
+without using SSL? Make sure that you know
+the answers to these questions before you proceed to avoid any
+false starts.Obtain a web server that supports SSL. Most likely, you will
+either download your web server over the Internet or install it
+from a CD-ROM.Install the web server.Create a private/public key pair for your web server.Create your own self-signed certificate so you can test your installation and get your ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

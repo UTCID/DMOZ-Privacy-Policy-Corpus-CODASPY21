@@ -1,0 +1,60 @@
+http://help.reportassist.com/index.php?title=GDPR
+ReportAssist
+Menu
+Search
+What links hereRelated changesSpecial pagesPrintable versionPermanent linkPage information Recent changes Help
+GDPR
+The EU General Data Protection Regulation (GDPR) replaces the existing 1995 EU Data Protection Directive (European Directive 95/46/EC), it imposes strict controls on how all organisations collect and process personal data within the EU and/or the personal data of EU citizens.
+We’re constantly improving the technical and organisational security measures we have in place to protect your data and are committed to being fully compliant with GDPR and our role as a data processor.
+It is our policy to keep data private, secure and safe.
+We do this in several ways, including:
+Data is collected only for specific, explicit and legitimate purposes.
+Sensitive data is encoded whilst on and before it leaves your computer.
+Data is also further encrypted with AES-256 encryption locally and/or with us (optionally turned off).
+Passwords are stored with us as one-way salted hashes.
+SSL technology is used to ensure data is private during communication.
+Data is retained only for as long as necessary.
+Regular backups are made in-case we ever need to recover data.
+Personal data can be exported in a machine-readable format.
+Why data may sometimes be sent outside of the EU or outside the Privacy Shield and why encryption is optional:
+A small percentage of our customers are not within the EU or the Privacy Shield, in that unusual case we will have to send data outside of the EU or Privacy Shield to those specific customers - this is so they can edit their reports.
+The customers in some of those countries may also not legally be allowed to encrypt data, for that reason we have the option to turn off either local and/or server encryption for their data.
+The default for these settings is 'local off, server on'.
+In any event, data is also encoded and not stored in plain text.
+The settings for encryption are in Admin>School Details.
+The reason we recommend local encryption off is so that if you have a local hard drive fault then recovery software will have a better chance of working.
+Where is data stored?
+We use DreamHost to store data.
+DreamHost has included the Model Clauses in its Data Processing Addendum which is legally sufficient for meeting the GDPR's requirements for exporting data to a non-EU country in lieu of Privacy Shield: https://www.dreamhost.com/legal/customer-eu-data-processing-addendum (Please see Section 6 and Schedule B.)
+===What is the Privacy Shield:===
+The EU data adequacy finding states that data transfers are covered by the EU-US Privacy Shield framework.
+The Privacy Shield places requirements on US companies certified by the scheme to protect personal data and provides for redress mechanisms for individuals. US Government departments such as the Department of Commerce oversee certification under the scheme.
+The privacy shield allows us to use servers that make our service more cost-effective.
+Our general e-mail is managed on servers run by Flexential Corp: https://www.privacyshield.gov/participant?id=a2zt0000000GnYlAAK
+(USA, West Coast)
+Why we would sometimes provide third parties with your information:
+An example of an abnormal condition that could arise would be if we were asked by a school to directly interface with a third-party support team that the school uses or if we were forced to provide information to a third party if we are requested by the police/court - e.g. for a set of past school reports for a particular pupil.
+Who has access to your information:
+Only a few select staff have access to the school licence name and password - our admin system checks their IP address as well as their password and will prevent logging in if incorrect.
+All passwords are stored using a one-way salted hash code - that is why we can't recover teacher passwords, just replace them.
+Our server checks IP addresses for direct data access and only allows specific IP addresses to directly log into the database, everything else has to go through our web API with requires the username and password to gain access.
+Our web API does not use cookies or sessions in order to prevent things like cookie hijacking and session fixation attacks.
+Full backups are made daily between 2 am and 3 am to a secure machine in a different location to the main server.
+Data is backup up on average once per 24 hours and is stored on a secure server managed by ReportAssist Limited in Nottingham, UK.
+Website logs are encrypted and deleted after 72 hours.
+Our registration with the ICO:
+The enforcement of the GDPR is overseen by the UK’s supervisory authority, the Information Commissioner’s Office (ICO). It ensures that everyone is playing by the rules and that the rights of data subjects - the people whose data is being processed - are correctly protected.
+We are registered with the Information Commissioner's Office in the UK (ID: ZA329948).
+A full copy of our data protection certificate and statement is available via their website.
+The information on the ICO website also encompasses our website and employees (usually marked as 'internal').
+This is because the ICO website (in their words) holds only general information per company - it's not meant to be a concise document.
+Your school contact:
+Specify your Data Protection contact
+Under the GDPR, those collecting or processing data at 'large scale', collecting or processing certain types of sensitive data, or who are a 'public authority or body' may need to designate a Data Protection Officer (DPO) and/or an EU representative.
+This is the person who we would normally contact regarding data protection.
+Administrators will see a screen similar to this if we do not know who to contact regarding data protection.
+Within the program, administrators will also see a GDPR option in the Administrator menu that shows who and when you informed us who your data protection contact is.
+If you ever want to contact us about GDPR, data protection or to find out more about how we process your data, please feel free to drop an email to our Data Protection Officer (DPO) and they will get back to you as soon as possible.
+Need more help with this?
+Let us know via our forum...
+Retrieved from ‘https://help.reportassist.com/index.php?title=GDPR&oldid=538’

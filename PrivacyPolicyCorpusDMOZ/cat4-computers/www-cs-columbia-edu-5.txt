@@ -1,0 +1,147 @@
+https://www.cs.columbia.edu/cookie-policy/
+Skip to content
+Toggle navigation
+General
+Academic Advising
+Computing Research Facilities (CRF)
+Directory
+Other
+Photo Gallery
+Purchasing
+Technical Reports
+Travel and Business Expense Reimbursement
+Procedures and Policies
+Academics
+BS/BA Programs
+MS Program
+PhD Program
+CS@CU MS Bridge Program in Computer Science
+Computer Engineering Program
+Dual MS in Journalism and Computer Science Program
+Doctor of Engineering Science (DES)
+Apply for MS and PhD Programs
+Admissions Information
+Courses
+Prospective Students FAQ
+Faculty
+Faculty
+Affiliates
+Faculty Achievements
+Adjunct Teaching
+Procedures and Policies
+News & Events
+Department Lectures
+Department Events
+News
+Newsletters
+Press Mentions
+Advising & Student Services
+Academic Advising
+Student Services Staff
+Student Life
+Student Services Events
+Community Service
+Student Organizations
+Careers
+Life After CS@CU
+Affiliated Programs
+Computer Engineering
+Data Science Institute
+Journalism & Computer Science
+Entrepreneurship
+Research Areas
+Machine Learning
+Vision & Robotics
+Networking
+Computer Engineering
+Software Systems
+Computational Biology
+Security & Privacy
+NLP & Speech
+Theory
+Graphics & User Interfaces
+Theory
+Graphics & User Interfaces
+NLP &Speech
+Security &Privacy
+ComputationalBiology
+SoftwareSystems
+ComputerEngineering
+Networking
+Vision &Robotics
+MachineLearning
+ArtificialIntelligence
+This site uses cookies – small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping carts, and provide anonymised tracking data to third party applications like Google Analytics. As a rule, cookies will make your browsing experience better. However, you may prefer to disable cookies on this site and on others. The most effective way to do this is to disable cookies in your browser. We suggest consulting the Help section of your browser or taking a look at the About Cookies website which offers guidance for all modern browsers
+COVID-19 Response
+The Columbia Engineering community has come together to combat the coronavirus pandemic on multiple fronts. In close collabo-ration with the Columbia University Irving Medical Center, we’re leveraging our expertise and innovation to address short term medical needs and long term societal impacts.
+Learn more about the COVID-19 Response
+Upcoming Events
+Dec
+11
+NLP - Faisal Ladhak
+Friday 12:00 pm
+Online lecture
+Faisal Ladhak, Columbia University
+Dec
+14
+Demystifying the Dissertation - Yuchi Tian
+Demystifying the Dissertation: PhD Research Discussions
+Monday 11:00 am
+https://columbiauniversity.zoom.us/s/91230045928?pwd=cmtqcjQrdjh5VHdNcEp3bWtSNWRCQT09
+Yuchi Tian
+Dec
+14
+CS@CU MS Bridge Info Session
+Monday 3:00 pm
+Online Event
+Prof. Tony Dear, https://www.cs.columbia.edu/ms-bridge/
+Dec
+15
+Demystifying the PhD - Elsbeth Turcan
+Tuesday 1:00 pm
+https://columbiauniversity.zoom.us/s/98163303253?pwd=OXRYdjRSd3NVSmpTeXppdm02SGFJZz09#success
+Elsbeth Turcan
+View All >>
+Around the Department
+In the News
+Press Mentions
+© Columbia
+Webmaster
+Privacy Policy
+This website uses cookies and similar tools and technologies to improve your experience and to help us understand how you use our site. By continuing to use this website, you consent to Columbia University's use of cookies and similar technologies. For more information about Columbia University website cookie policy, please visit our Cookie PolicyOk
+Dean Boyce's statement on amicus brief filed by President Bollinger
+President Bollinger announced that Columbia University along with many other academic institutions (sixteen, including all Ivy League universities) filed an amicus brief in the U.S. District Court for the Eastern District of New York challenging the Executive Order regarding immigrants from seven designated countries and refugees. Among other things, the brief asserts that “safety and security concerns can be addressed in a manner that is consistent with the values America has always stood for, including the free flow of ideas and people across borders and the welcoming of immigrants to our universities.”
+This recent action provides a moment for us to collectively reflect on our community within Columbia Engineering and the importance of our commitment to maintaining an open and welcoming community for all students, faculty, researchers and administrative staff. As a School of Engineering and Applied Science, we are fortunate to attract students and faculty from diverse backgrounds, from across the country, and from around the world. It is a great benefit to be able to gather engineers and scientists of so many different perspectives and talents – all with a commitment to learning, a focus on pushing the frontiers of knowledge and discovery, and with a passion for translating our work to impact humanity.
+I am proud of our community, and wish to take this opportunity to reinforce our collective commitment to maintaining an open and collegial environment. We are fortunate to have the privilege to learn from one another, and to study, work, and live together in such a dynamic and vibrant place as Columbia.
+Sincerely,
+Mary C. Boyce
+Dean of Engineering
+Morris A. and Alma Schapiro Professor
+{{title}}
+{{month}} {{#doyear}}{{year}}{{/doyear}}
+{{day}}
+{{start}} - {{end}}
+{{#location}}Location: {{location}}{{/location}}
+{{#speaker}}Speaker: {{{speaker}}}{{#organization}}, {{organization}}{{/organization}}{{/speaker}}
+{{#series}}Series: {{series}}{{/series}}
+{{#nlToBr}}{{{abstract}}}{{/nlToBr}}
+{{#speaker}}{{#biography}}
+Bio
+{{{biography}}}{{/biography}}{{/speaker}}
+Add to GMail
+Close
+{{title}} {{fullname}}
+{{#wwwLink}}{{personal_uri}}{{/wwwLink}} {{#cvLink}}{{cv_uri}}{{/cvLink}} {{#scholarLink}}{{scholar_uri}}{{/scholarLink}}
+{{longtitle}}
+Interests: {{interests}}
+{{#addRoom}}{{room}}{{/addRoom}}
+{{#addPhone}}{{phone}}{{/addPhone}}
+{{{bio2}}}
+{{#showCourses}}
+Courses This Semester
+{{#courses}}
+{{title}} ({{dept}} {{prefix}}{{course_num}}-{{section}})
+{{/courses}}
+{{/showCourses}}
+{{#showBlogs}}{{{blog_posts}}}{{/showBlogs}}
+Close

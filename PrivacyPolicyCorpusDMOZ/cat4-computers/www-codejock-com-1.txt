@@ -1,0 +1,83 @@
+http://www.codejock.com/support/support-policy.asp
+Codejock Software is dedicated to provide reasonable support in a timely manner to all clients with active subscriptions. However, processing time may depend on the difficulty of the request, as well as current volume of requests and resources available.
+It is important to choose the right support option for your request and to submit all necessary details to receive help quickly.
+Support Options:
+Forum Support:
+Important: Never publish your order details on the forum.For users who do not have an active subscription or active trial version this is the only option to get support from Codejock Software. Also, this is a good place to ask other Codejock users (Codejock community) for their input and opinions.
+Codejock monitors all open topics and takes users' feedback into account.
+However, Codejock Software has no obligation to provide any support to the users in the forums and retains the right of choosing whether to answer specific questions or not. If you have an active subscription and need to hear back from Codejock support staff, please select another support option.
+Whenever you submit a new request please follow the advise outlined in the Support Guidelines section.
+To use forum support go to http://forum.codejock.com.
+Limited Phone Support:
+This option is for customers with an active subscription or active trial version. Our call center representatives can answer only general questions by phone as our engineers do not provide direct phone support.
+They are equipped to help with issues involving login/password reset, access to download files and other non-technical support issues.
+Please make sure you have your order information ready prior to making a call.
+If you require technical assistance please select the e-mail/ticket support option.
+Call center is available between the hours of 9:00am - 5:00pm Eastern Standard Time (EST) and can be reached by phone number +1-(989)-472-4761 (option 2) (subject to change without notice).
+E-mail/Ticket Support:
+Important: Never share your support credentials with anyone.This option is for customers with an active subscription or active trial version. You can send your request to support@codejock.com and our system will automatically create an issue and send you access credentials specific to our support portal http://support.codejock.com.
+These credentials are not the same as those for accessing our online store and product downloads.
+You can send a request for support by e-mail to support@codejock.com
+or create a new ticket directly in our support web-site http://support.codejock.com.
+NOTE: support credentials are needed to create new tickets on this site.
+Whenever you create a new ticket please make sure you follow the advise described below in the Support Guidelines section in addition to the following e-mail/ticket support guidelines:
+Always provide your order information for each new ticket. A failure to provide it will result in requesting those details anyway and no support will be provided until the order is confirmed. Trial version requests are exempt from this requirement.
+Make sure your attachments are either plain text files with .TXT extension, or images in common image formats, or .ZIP files for any other data. If you are not sure simply add your file to a ZIP archive and attach it.
+Do not attach or include into ZIP archives any binary executable files (.DLL, .EXE, .OCX, etc) as they can either be infected or rejected by our anti-virus. Even if such a file is not rejected automatically we will not run it in our test environment due to safety concerns.
+Do not upload large files, use file sharing services for large volumes of data.
+Do not include source code in the body of your request message as some of the special symbols or Unicode characters can be removed from the message thus making it incomplete or broken. Provide source code as attachments only.
+Remote Support:
+In some exceptional cases our engineers may provide a reasonable amount of remote support.
+This option is only available to solve critical issues after all other ways to provide support have been exhausted.
+We retain the right of choosing the way of providing remote support, i.e. using remote desktop connection or using a meeting software.
+This option is limited and available only for customers with active subscriptions.
+Support Guidelines
+In order to facilitate processing of your request in a timely manner, it is necessary to be prepared. Follow these guidelines when you submit your request:
+For e-mail/ticket requests you MUST provide your order information.
+Make sure you understand and can explain the problem clearly.
+Make sure you can reproduce the problem and provide clear steps for us to follow in order to reproduce the problem on our end.
+Make sure you can narrow the problem to Codejock components only by temporarily disabling all possible factors and 3rd party libraries.
+Make sure you have tested it in other environments in order to eliminate or confirm environment dependencies.
+Make sure you have tried it in our samples and can either confirm the problem using certain test applications or can confirm it's not reproducible in any samples.
+If our samples cannot be used for reproducing the problem please prepare your own small sample application as follows:
+It has the least possible amount of code and dependencies.
+It allows to reproduce the issue following the simple and clearly defined steps.
+It can be easily compiled without changing the code or re-configuring the project.
+If it can be reproduced only in your production application you can make a copy of it, remove all redundant code and provide just a bare working minimum of the code for debugging.
+Do not include pre-built executable binary files (.DLL, .EXE, .OCX, etc) as they can either be infected or rejected by our anti-virus. Even if such a file is not rejected automatically, we will not run it in our test environment due to safety concerns.
+Provide a detailed description of your environment, it should include but not limited to:
+Full OS information including build and service pack numbers (hint: use "systeminfo command line command for collecting OS information).
+Your desktop setup and configuration information if applicable, i.e. the number and layout of desktops, DPI and resolution setting (for all and each desktop), visual theme, etc.
+Programming language and development environment information, including the build and service pack numbers, used SDK versions, and information about all possible dependencies.
+Support Requests
+When you submit a new support request keep in mind our processing policies:
+All information and assets that you provide during your communicating with Codejock Software is protected by our Privacy Policy and is considered to be confidential. Read our detailed Privacy Policy at http://www.codejock.com/corporate/privacy.asp.
+We will not spend time on fixing or accommodating your submitted test projects or code snippets unless they work right out-of-the-box and this process is very straightforward.
+We do not have expertise in all possible programming languages and development environments, so if you use a non-mainstream programming languages most likely we will not be able to help you unless you are able to re-construct your use case using a language such as C++, C#, VB6, VB.NET, VBA and possibly a few others.
+We will not process any issues caused by conflicts with any 3rd-party software.
+We will not write any code for your project, we can only give advise on possible solutions.
+We are not responsible for any issues caused by your changes in Toolkit Pro or Suite Pro source code.
+All requests get a priority assigned, there are many factors that affect priorities but normally the highest priority have issues that have the biggest impact and affect a broad number of users. You can try to raise priority of your request by asking for an update in the initial ticket or using Phone Support (read above). Do not create duplicated tickets to get your issue processed faster.
+We will not tolerate any abuse, personal attacks, hate speech, use of explicit language, trolling, and provocative, insulting, aggressive or threatening behavior.
+We treat all customers equally.
+Getting Updates
+Normally all users will get their updates in the next maintenance or major product release, however there are some other options:
+Toolkit Pro and Suite Pro Source subscription holders may get the necessary updates for the issues they have reported in a form of either patched files of DIFF logs. We keep the right of deciding whether this option is available in every particular case, as sometimes changes can affect many places in the code and providing such a patch would require extensive merging and testing. Please note, getting updates this way does not guarantee the fix will work properly and it will not break any other functionality as it doesn't go through a thorough system testing process. It is your responsibility to apply the fix as prescribed.
+Suite Pro users will have to wait for the next product release as all Suite Pro components are pre-built executable binary files, and sending code patches is not possible for this category of users.
+Both Toolkit Pro and Suite Pro customers can request a custom build to include selected updates, if such a build is possible in our opinion. This option is available for an additional fee of $250 USD (the price is subject to change without any notice). The custom build will only have basic functional testing and will not go through thorough system testing.
+Because of this, it is possible that the requested updates may not work as expected and/or new issues may be introduced.
+Release Date Policy
+If an estimated release date is provided, all dates for version updates are tentative and may change without notice. Codejock Software is not responsible for your product releases. Read our detailed Release Date Policy at http://www.codejock.com/corporate/release-date-policy.asp.
+Custom Development
+If your support request falls outside the scope of our support coverage, and requires custom software development, we can help.
+Codejock Software provides custom consulting services at reasonable rates.
+Please send your requests to consulting@codejock.com or refer to the Phone Support section and talk to one of our representatives for more details.
+Quick Links
+Request Support
+Articles and Tutorials
+Developer Forum
+Support Policy
+Contact Sales
+Call center available M-F 9:00 - 4:00 US Eastern Time.(989) 472-4761 (option 1)
+Case Studies
+E.d. Soft selected Suite Pro with Visual Basic over many other...

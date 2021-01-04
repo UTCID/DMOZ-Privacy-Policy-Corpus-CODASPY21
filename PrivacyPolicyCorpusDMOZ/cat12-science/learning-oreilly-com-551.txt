@@ -1,0 +1,32 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch20s02.html#websec2-CHP-20-SECT-2.5
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Controlling Access with ApacheOne of the most common ways to restrict access to
+web-based information is to protect it using usernames and passwords.
+Although different servers support many different ways of
+password-protecting web information, one of the most common techniques
+is with the <Limit> server configuration directive present in
+the Apache web server.Using <Limit>, you can control which files on your web
+server can be accessed and by whom. The
+Apache server gives you two locations where you can
+place your access control information:You can place the restrictions for any given directory (and
+all of its subdirectories) in a special file located in that
+directory. Traditionally the name of this file is .htaccess, although you can change the
+name in the server’s configuration file.Alternatively, you can place all of the access control
+restrictions in a single configuration file. The Apache server
+allows you to place access control information in the server’s
+single httpd.conf
+file.Whether you choose to use many access files or a single file is
+up to you. It is certainly more convenient to have a file in each
+directory. It also makes it easier to move directories within your web
+server, as you do not need to update the master access control file.
+Furthermore, you do not need to restart your server whenever you make
+a change to the access control list—the server will notice that there
+is a new .htaccess
+file and behave appropriately.On the other hand, having an access file ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

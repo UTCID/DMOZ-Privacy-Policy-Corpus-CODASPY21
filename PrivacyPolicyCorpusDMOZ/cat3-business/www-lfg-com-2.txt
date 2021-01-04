@@ -1,0 +1,298 @@
+http://www.lfg.com/public/general/contactformsclaims/lostpolicyinquiry
+Close
+I have a
+Retirement Account, Annuity Account, Life Insurance Policy, Group Benefits Policy or Brokerage Account.
+Close
+I administer my company's Retirement Plan, Group Benefits Plan or LifeComp®
+policy.
+Close
+I was hired by an employer to provide administrative services for a Retirement Plan or Group Benefits Plan.
+Close
+I sell or want to start selling Lincoln products or I am support staff or a sales assistant.
+Close
+I am a dentist or work in a dental office and need to verify patient eligibility.
+Lost policy inquiry
+Lost policy inquiry
+Please complete the form below so we can help you locate a misplaced Lincoln policy, contract or account.
+There are errors on this page. Please fix them to continue.
+{{errorMsg}}
+SUCCESS. Thank you for sharing your information.
+Show summary
+Before you begin filling out the form, having the following information will be helpful:
+First and Last name on the policy
+Date of birth on the policy
+Last state of residence
+Social security number (optional)
+Policy / contract number (optional)
+Who we are searching for
+?
+This is the person we will search our records for to determine if any benefit is available.
+This is the person we will search our records for to determine if any benefit is available.
+Enter First name
+Enter middle initial
+Enter last name
+Please enter Last name.
+Please enter valid last name
+Maiden name or alias (optional)
+Please enter valid maiden alias name
+Date of birth
+Month
+Day
+Year
+Please select Date of birth.
+Please select valid Date of birth.
+Please select valid date of birth
+Select last state of residence
+Select last state of residence
+AL
+AK
+AZ
+AR
+CA
+CO
+CT
+DE
+DC
+FL
+GA
+HI
+ID
+IL
+IN
+IA
+KS
+KY
+LA
+ME
+MD
+MA
+MI
+MN
+MS
+MO
+MT
+NE
+NV
+NH
+NJ
+NM
+NY
+NC
+ND
+OH
+OK
+OR
+PA
+RI
+SC
+SD
+TN
+TX
+UT
+VT
+VA
+WA
+WV
+WI
+WY
+Please select last state of residence.
+Please select last state of residence
+SSN (optional, no dashes)
+Policy / contract #(optional)
+Please enter valid policy / contract number
+Requestor contact information
+Enter First name
+Please enter First name.
+Please enter valid first name
+Enter last name
+Please enter Last name.
+Please enter valid last name
+Relationship
+Please enter Relationship.
+Please enter valid relationship
+Email address
+?
+We require your email address in order to communicate with you on the status of your Lost Policy inquiry.
+Please enter Email address.
+Please enter valid Email address.
+Please enter valid email
+Confirm email address
+Please enter your confirmation Email address
+Please confirm your valid Email address.
+Please confirm your Email address.
+Please enter valid email
+Phone number
+Please enter Phone number.
+Please enter valid Phone number.
+Please enter valid phone
+Requestor mailing information
+Address
+City
+Select state
+Select state
+AL
+AK
+AZ
+AR
+CA
+CO
+CT
+DE
+DC
+FL
+GA
+HI
+ID
+IL
+IN
+IA
+KS
+KY
+LA
+ME
+MD
+MA
+MI
+MN
+MS
+MO
+MT
+NE
+NV
+NH
+NJ
+NM
+NY
+NC
+ND
+OH
+OK
+OR
+PA
+RI
+SC
+SD
+TN
+TX
+UT
+VT
+VA
+WA
+WV
+WI
+WY
+Please select state.
+Please enter valid state
+Zip
+Please enter Zip.
+Please enter valid Zip.
+Please enter valid zip
+Additional information
+Additional Information that would be helpful to us in locating a policy (optional)
+Please enter valid additional information
+I have read and agree to the
+Terms and Conditions of the Lost Policy Inquiry
+Please select Terms and conditions.
+Google Recaptcha
+Please assure us you are a human.
+SUMMARY
+As you fill out the form your summary information will be displayed here.
+Who are we searching for
+First name:
+{{lostPolicyData.notifierFirstName}}
+Middle initial:
+{{lostPolicyData.notifierMiddleName}}
+Last name:
+{{lostPolicyData.notifierLastName}}
+Maiden name:
+{{lostPolicyData.maidenAliasName}}
+Date of birth:
+{{lostPolicyData.notifierDob}}
+Last state of residence:
+{{lostPolicyData.notifierState}}
+SSN:
+{{(lostPolicyData.ssn.length > 0) ? '***-**-' + lostPolicyData.ssn.substring(7, 11) : ''}}
+Policy / contract#:
+{{lostPolicyData.polConNo}}
+Change
+Requestor contact information
+First name:
+{{lostPolicyData.requestorFirstName}}
+Last name:
+{{lostPolicyData.requestorLastName}}
+Relationship:
+{{lostPolicyData.requestorRelationship}}
+Email address:
+{{lostPolicyData.requestorEmail}}
+Phone number:
+{{lostPolicyData.requestorDayPhone}}
+Change
+Requestor mailing information
+Address:
+{{lostPolicyData.requestorStreetAddress}}
+City:
+{{lostPolicyData.requestorCity}}
+State:
+{{lostPolicyData.requestorState}}
+ZIP Code:
+{{lostPolicyData.requestorZipCode}}
+Change
+STEPS
+Learn about unclaimed property and how to secure what's yours.
+Fund Profile
+Fund Performance
+Unit Values
+Chart
+Bar
+Overview (as of {{invescoOverlay.fundPortFolioDate}})
+Fund Inception Date {{invescoOverlay.funDetail.fundInceptionDate}}
+Fund Asset Size ${{invescoOverlay.funDetail.totalFundAssets}} M
+Average Market Cap ${{invescoOverlay.funDetail.averageMarketCap}} M
+Price/Book Ratio {{invescoOverlay.funDetail.priceBookRatio}}x
+Price/Earnings Ratio {{invescoOverlay.funDetail.priceEarningsRatio}}x
+Dividend Yield {{invescoOverlay.funDetail.dividendYield}}%
+Export:
+PDF
+Top 10 Holdings
+Total {{invescoOverlay.totalHolding}}%
+{{listOfCompany.companyName}} {{listOfCompany.pct}}%
+{{invescoOverlay.yearName}} Inception Date: {{invescoOverlay.fundInceptionDate}}
+Export:
+PDF
+Excel
+Performance %
+Change from Previous Day {{invescoOverlay.performanceData.changeFrmPrevDayPerformance}}0
+YTD as of {{invescoOverlay.fundPerformanceData.fullperfData.productPerformance.lastDailyPerfDate}} {{invescoOverlay.performanceData.perfValueYtd1}}0
+YTD as of {{invescoOverlay.fundPerformanceData.fullperfData.productPerformance.monthlyPerformanceYtd2Date}} {{invescoOverlay.performanceData.perfValueYtd2}}0
+1 Month {{invescoOverlay.performanceData.perfValueOneMonth}}0
+3 Month {{invescoOverlay.performanceData.perfValueThreeMonth}}0
+1 Year {{invescoOverlay.performanceData.perfValueOneYear}}0
+3 Year {{invescoOverlay.performanceData.perfValueThreeYear}}0
+5 Year {{invescoOverlay.performanceData.perfValueFiveYear}}0
+10 Year {{invescoOverlay.performanceData.perfValueTenYear}}
+0
+Since Inception{{invescoOverlay.performanceData.perfValueSinceInception}}
+0
+Fund Inception Date {{invescoOverlay.funDetail.uvInceptionDate}}
+Year End {{invescoOverlay.fundPerformanceData.fullperfData.productPerformance.lastUnitValueYearDate}} unit value ${{invescoOverlay.funDetail.unitValueLastYear}}
+Daily as of {{invescoOverlay.fundPerformanceData.fullperfData.productPerformance.lastUnitValueDate}} unit value ${{invescoOverlay.funDetail.unitValueYesterday}}
+Export:
+PDF
+Excel
+Compare Investment Options
+View
+Export:
+PDF
+Print
+Privacy
+Legal
+© 2020 Lincoln National
+Corporation. All rights reserved.
+Lincoln Financial Group is the marketing name for Lincoln National Corporation and insurance company affiliates, including The Lincoln National Life Insurance Company, Fort Wayne, IN, and in New York, Lincoln Life & Annuity Company of New York, Syracuse, NY. Variable products distributed by broker-dealer/affiliate Lincoln Financial Distributors, Inc., Radnor, PA. Securities and investment advisory services offered through other affiliates.Lincoln products are not a deposit nor FDIC-insured, may go down in value, and are not insured by any federal government agency or guaranteed by any bank or savings association.
+You are now leaving theLincoln Financial Group® website.
+Thank you for visiting the Lincoln Financial Group website. Come back and visit us often.
+You have requested the website of another organization not associated with Lincoln Financial Group.Lincoln Financial Group is not responsible for the content of the site you are about to visit.
+Continue
+Cancel
+LCN 2343920-121018
+Back To Top

@@ -1,0 +1,59 @@
+http://saabnet.com/tsn/privacy.html
+Privacy
+The Saab Network NEVER gives or sells private information such as
+email addresses, mailing addresses, names, phone numbers, or any
+other information that might be deemed of a private nature unless
+instructed so by the owner such as in the case of classified ads.
+When using The Saab Network web site, you should be aware that your
+Internet address is logged each time you access the site. In fact,
+ALL web servers log this information, not just The Saab Network.
+This information all by itself is not sufficient to identify who
+you are. The Saab Network uses these logs to help correct errors
+within the site. On occassion, the logs are used to help identify
+abusive users. While The Saab Network cannot identify who you are,
+log entries of abusive users will be sent to their ISPs who can use
+this data to determine who you are. The Saab Network does not use
+cookie technology.
+Whenever we do collect personal data, such as in the case of raffle
+entries, that data is stored in a password and limited access controlled
+area. In addition, since we do not use raffle data for any other purpose,
+all data is destroyed after each raffle.
+More about Web Log Files
+Here's a quick guide to what gets logged in our web log files. It's actually quite
+interesting. Here's an example line out of the web log (using fictitious addresses).
+nyc.host23.xyzdomain.com - - [01/Sep/2000:08:12:55 -0400] "GET /tsn/class/sonettclass.html HTTP/1.0" 200 18254
+Here's what each part means:
+nyc.host23.xyzdomain.com - The Internet address of the computer being used. Depending on how
+descriptive it is, you can sometimes deduce where it is geographically.
+[01/Sep/2000:08:12:55 -0400] - The date the computer accessed the web server.
+GET /tsn/class/sonettclass.html - What file was retrieved (in this case, the Sonett classifieds).
+HTTP/1.0" 200 - What version of the Hyper Text Transfer Protocol was used and was
+the request successful (200=success).
+18254 - How much data was transfered.
+That's a lot of info and there's a line in the web log for every single item retrieved (pages and images) or posted to/from
+the site. Here's the kicker; The Saab Network server doesn't even log all the info that's possible. Most web servers will
+also log what type of operating system you are running, exactly which browser type and version you used, and from what page
+you came previous to this site (i.e how did you find our server?). We don't log this simply because the log files get
+so immensely huge (more than 1GB per month).
+How do we use the web log info?
+For the most part, we only use the web logs to track how many times the site and the pages within were viewed. The exception
+to that is when we get a user who is abusing the site. Then we use the log files to identify their computer (never the
+person personally) and we configure the server to no longer talk to that computer. Sometime users will go further in their
+abuse and use the bulletin boards in an unethical manner - for example, to degrade someone they don't like or to spread
+false information. The most common abuse is to post multiple negative postings under different names to make it look as if
+many people share the same view. When this happens, we will never release personally identifiable information, but we will
+point out on the bulletin board that these postings are forged from the same computer.
+Click Here to see a couple pieces of your current info right now.
+The Saab Network works with a number of third party ad brokers who
+sometimes use cookies to help distribute fresh ads. Also, some
+have asked that their privacy information be posted here as well (see below):
+Third Party Advertising
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here
+Third Party Cookies
+In the course of serving advertisements to this site, our third-party
+advertiser may place or recognize a unique "cookie" on your browser.
+Return to The Saab Network
+The content on this site may not be republished without permission. Copyright © 1988-2020 -
+The Saab Network - saabnet.com.
+For usage guidelines, see the Saabnet.com Mission and Purpose Page.
+[Contact | Site Map | Saabnet.com on Facebook | Saabnet.com on Twitter | Shop Amazon via TSN | Site Donations]

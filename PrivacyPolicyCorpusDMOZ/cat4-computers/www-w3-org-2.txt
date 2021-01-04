@@ -1,0 +1,210 @@
+https://www.w3.org/TR/2012/NOTE-app-privacy-bp-20120703/
+Web Application Privacy Best PracticesW3C Working Group Note 03 July 2012This version:http://www.w3.org/TR/2012/NOTE-app-privacy-bp-20120703/Latest published version:http://www.w3.org/TR/app-privacy-bp/Latest editor's draft:http://dev.w3.org/2009/dap/privacy-practices/Previous version:http://www.w3.org/TR/2011/WD-app-privacy-bp-20110804/Editor:Frederick Hirsch, Nokia
+Copyright © 2012 W3C® (MIT, ERCIM, Keio), All Rights Reserved. W3C liability, trademark and document use rules apply.
+Abstract
+This document describes privacy best practices for web
+applications, including those that might use device
+APIs.
+Status of This DocumentThis section describes the status of this document at the time of its publication. Other documents may supersede this document. A list of current W3C publications and the latest revision of this technical report can be found in the W3C technical reports index at http://www.w3.org/TR/.
+This document outlines privacy best practices for web
+applications that may rely upon device APIs. These web
+application practices impact the user of the web application
+but are not directly related to the API definition itself, but
+rather the context of the use of those APIs by the web
+application.
+Since the last publication of this document, a new best practice
+related to "active consent" has been added (best practice 6),
+"informed consent" is noted in an existing practice (best practice
+3), various editorial wording changes have been made, and the
+practices have also been renumbered to accomodate the addition
+of the new practice.
+A red-line showing the changes since the
+previous publication is available.
+This document was published by the Device APIs Working Group as a Working Group Note. If you wish to make comments regarding this document, please send them to public-device-apis@w3.org (subscribe, archives). All feedback is welcome.Publication as a Working Group Note does not imply endorsement by the W3C Membership. This is a draft document and may be updated, replaced or obsoleted by other documents at any time. It is inappropriate to cite this document as other than work in progress.This document was produced by a group operating under the 5 February 2004 W3C Patent Policy. W3C maintains a public list of any patent disclosures made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent. An individual who has actual knowledge of a patent which the individual believes contains Essential Claim(s) must disclose the information in accordance with section 6 of the W3C Patent Policy.Table of Contents1. Introduction2. Privacy By Design3. User Centric Design4. Minimize collection and
+transmission of personal data5. Maintain the confidentiality of personal data6. Control and log access7. Best Practices SummaryA. ReferencesA.1 Normative referencesA.2 Informative references
+1. Introduction
+This document outlines good privacy practices for web
+applications, including those that might use
+device APIs. This continues the work on privacy best practices
+in section 3.3.1 on "User Awareness and Control"
+Mobile Web Application Best Practices [MWABP]. It does not repeat the privacy principles and
+requirements documented in the Device API Privacy Requirements Note
+[DAP-PRIVACY-REQS] which should also be consulted.
+2. Privacy By Design
+The principles of "Privacy by Design" should be reflected in the
+web application design and implementation, including the use
+of device APIs.
+These are enumerated below and in more detail in the reference
+[PRIVACY-BY-DESIGN].
+Best Practice 1: Follow "Privacy By Design" principles.
+Proactively consider privacy, make preservation of
+privacy the default, including privacy in a
+user-centric and transparent design without making
+tradeoffs against privacy for other features as
+privacy is possible along with other functionality.
+These principles include the following:
+Proactive not Reactive; Preventative not Remedial
+Privacy as the Default Setting
+Privacy Embedded into Design
+Full Functionality — Positive-Sum, not Zero-Sum
+End-to-End Security — Full Lifecycle Protection
+Visibility and Transparency — Keep it Open
+Respect for User Privacy — Keep it User-Centric
+3. User Centric Design
+Privacy should be user centric, giving the user understanding
+and control over use of their personal data.
+Best Practice 2: Enable the user to make informed decisions about
+sharing their personal information with a service.
+The end user should have enough information about a service
+and how it will use their personal information to make an
+informed decision on whether to share information with that service.
+This should include understanding of the data to be shared,
+clarity about how long data will be kept
+and information with whom it will be shared (and for what purpose).
+Best Practice 3: Enable the user to make decisions at the
+appropriate time with the correct contextual information.
+The user should have the opportunity to decide whether to
+share information (and what to share) at the time it is
+needed. This is necessary as the decision can depend on the
+context, including the details of what the user is trying to
+accomplish, the details of that task, and differences in how
+the service will operate, use and share data.
+The Web Application should make sure that consent is "informed
+consent" and provide necessary privacy notice and other information at
+the time user consent is required, either through action or
+other means.
+Best Practice 4: When learning user privacy
+decisions and providing defaults, allow the user to easily view and
+change their previous decisions.
+A service may learn and remember personal information of the
+user in order to improve a service. One example is
+remembering a billing address; another example might be
+remembering
+payment information. When doing so the service should make it
+clear to the user which information is retained and how it is
+used. It should give the user an opportunity to correct or remove
+the information.
+Best Practice 5: Focus on usability and avoid needless prompting.
+Focusing on usability should improve a service as well as
+making it easier for the user to understand and control use of their
+personal information. Minimize use of modal dialogs as they
+harm the user experience and many users will not understand how to
+respond to prompts, instead making a choice that enables them to
+continue their work
+[GEOLOCATION-PRIVACY].
+Best Practice 6: Active consent should be freely given, for
+specific data,
+and be informed.
+Active consent is where user action is
+taken to also give permission, avoiding the need for consent
+dialogs. Such active consent should be freely given, for
+specific data,
+and be informed. Thus the user should be able
+to cancel the operation, know which data is shared, and have
+adequate information at the time of the action regarding the
+intended use of the data [CONSENT-EU-WP187]. The web
+application should provide the user with information on
+intended use in conjunction with device API usage.
+Examples of active consent include selecting
+contact fields to share, electing to create a picture by
+clicking on the camera shutter, and so on.
+Active consent can improve usability
+and be less disruptive than consent dialogs, and can also
+meet privacy requirements if appropriate criteria are met.
+Best Practice 7: Be clear and
+transparent to users regarding
+potential privacy concerns.
+The end user should understand if information is being used
+by the service itself or being shared with a third
+party, especially when third party services are
+involved in a "mashup".
+Best Practice 8: Be clear as to whether information is
+needed on a one-time basis or is necessary for a period of
+time and for how long.
+The end user should understand whether information collected is
+for a single use or will be retained and have an impact over time.
+4. Minimize collection and
+transmission of personal data
+Review the data and how it is structured and used, minimizing
+the amount and detail of data required to provide a service.
+Best Practice 9: Request the minimum number of data
+items at the
+minimum level of detail needed to provide a service.
+As an example, an address book entry is not the
+natural level of granularity as the user may wish to
+share various individual address
+book fields independently. Thus the natural level of
+granularity in an address book is a field and no
+more than the necessary fields should be provided in
+response to
+an address book entry request.
+Best Practice 10:
+Retain the minimum amount of data at the minimum level of detail for
+the minimum amount of time needed.
+Consider potential misuses of retained data and
+possible countermeasures.
+As an example, retaining user payment information
+entails the risk of this information being stolen and
+misused. Perhaps it does not need to be retained but
+if it is (with user permission) perhaps it should be
+encrypted (to give one possible countermeasure).
+5. Maintain the confidentiality of personal data
+Best Practice 11:
+Maintain the confidentiality of user data in
+transmission, for example using HTTPS for
+transport rather than HTTP.
+Use of HTTPS can provide confidentiality of
+personal data in
+transport when an appropriate cipher suite is
+required.
+This should be done for sensitive personal
+information unless confidentiality can be assured by other means.
+Best Practice 12:
+Maintain the confidentiality of user data in
+storage.
+The confidentiality of personal information should be
+maintained
+when in storage, to prevent inadvertent or
+malicious loss (e.g. break in to a server, theft of backups
+or other threats).
+6. Control and log access
+Best Practice 13: Control and log access to data.
+Control access to information through access controls and
+log access.
+7. Best Practices SummaryBest Practice 1: Follow "Privacy By Design" principlesBest Practice 2: Enable the user to make informed decisions about
+sharing their personal information with a service.
+Best Practice 3: Enable the user to make decisions at the
+appropriate time with the correct contextual information.
+Best Practice 4: When learning user privacy
+decisions and providing defaults, allow the user to easily view and
+change their previous decisions.
+Best Practice 5: Focus on usability and avoid needless prompting.
+Best Practice 6: Active consent should be freely given, for
+specific data,
+and be informed.
+Best Practice 7: Be clear and
+transparent to users regarding
+potential privacy concerns.
+Best Practice 8: Be clear as to whether information is
+needed on a one-time basis or is necessary for a period of
+time and for how long.
+Best Practice 9: Request the minimum number of data
+items at the
+minimum level of detail needed to provide a service.Best Practice 10:
+Retain the minimum amount of data at the minimum level of detail for
+the minimum amount of time needed.
+Consider potential misuses of retained data and
+possible countermeasures.
+Best Practice 11:
+Maintain the confidentiality of user data in
+transmission, for example using HTTPS for
+transport rather than HTTP.
+Best Practice 12:
+Maintain the confidentiality of user data in
+storage.
+Best Practice 13: Control and log access to data.
+A. ReferencesA.1 Normative referencesNo normative references.A.2 Informative references[CONSENT-EU-WP187]WP189, Opinion 15/2011 on the definition of consent. EU Article 29 Data Protection Working Party, 01197/11/EN WP187. 13 July 2011. URL: http://ec.europa.eu/justice/policies/privacy/docs/wpdocs/2011/wp187_en.pdf
+[DAP-PRIVACY-REQS]Alissa Cooper, Frederick Hirsch, John Morris. Device API Privacy Requirements 29 June 2010. W3C Note URL: http://www.w3.org/TR/2010/NOTE-dap-privacy-reqs-20100629/
+[GEOLOCATION-PRIVACY]Marcos Cáceres Privacy of Geolocation Implementations, "W3C Workshop on Privacy for Advanced Web APIs" paper, 12/13 July 2010. URL: http://www.w3.org/2010/api-privacy-ws/papers/privacy-ws-21.pdf
+[MWABP]Adam Connors; Bryan Sullivan. Mobile Web Application Best Practices. 14 December 2010. W3C Recommendation. URL: http://www.w3.org/TR/2010/REC-mwabp-20101214/
+[PRIVACY-BY-DESIGN]Ann Cavoukian, PhD. Privacy By Design: The 7 Foundational Principles. August 2009, revised January 2011. URL: http://www.ipc.on.ca/images/Resources/7foundationalprinciples.pdf

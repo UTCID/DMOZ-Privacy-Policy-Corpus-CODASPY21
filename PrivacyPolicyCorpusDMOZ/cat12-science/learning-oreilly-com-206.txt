@@ -1,0 +1,30 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch08s04.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Understanding Cookies
+A cookie is a block of ASCII text
+that a web server can pass into a user’s instance of Netscape
+Navigator (and many other web browsers). Once received, the web
+browser sends the cookie every time a new document is requested from
+the web server. Cookies are transmitted by the underlying HTTP
+protocol, which means that they can be sent with HTML files, images
+(GIFs, JPEGs, and PNGs), sounds, or any other data type.Netscape introduced “cookies” with Navigator Version 2.0. The
+original purpose of cookies was to make it possible for a web server
+to track a client through multiple HTTP requests. This sort of
+tracking is needed for complex web-based applications that need to
+maintain state between web pages.Typical applications for cookies include the following:A catalog site might use a cookie to implement an electronic
+“shopping cart.”A news site might use cookies so that subscribers see local
+news and weather.A subscription-only site might use cookies to store
+subscription information, so that a username/password combination
+does not need to be presented each time the user visits the
+site.The preliminary cookie specification can be found at http://www.netscape.com/newsref/std/cookie_spec.html . RFC 2965, dated October 2000, outlines a proposed
+codification of the cookie specification, but as of August 2001 this
+standard had still not been adopted by the IETF.
+The Cookie ProtocolA web server sends a cookie to your browser by
+transmitting a Set-Cookie message ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

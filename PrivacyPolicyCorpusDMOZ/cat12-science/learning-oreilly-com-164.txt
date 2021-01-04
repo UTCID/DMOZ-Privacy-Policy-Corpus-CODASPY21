@@ -1,0 +1,26 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch07s02.html#websec2-CHP-7-SECT-2.4.1
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Certification Authorities: Third-Party RegistrarsA certification authority
+(CA) is any organization that issues digital
+certificates.Any individual or organization can be a certification authority:
+being a CA simply means that the individual or organization signs
+certificates with a public key. A CA can impose standards before it
+signs a key; in the case of a university, it would probably verify
+that the key that it was about to sign really belonged to a bona fide
+student. Another CA might not have any standards at all. The world’s
+largest CA, VeriSign, issues several different kinds of
+certificates. VeriSign signs certificates under its VeriSign Trust Network (VTN) for public use; the company
+also issues certificates for use within corporations. The lowest level
+of certificates issued by VTN have no assurance; the highest levels
+come with the promise that VTN attempted to establish the identity of
+the key holder before the certificate was issued.Conceptually, a CA’s certificate looks like a cryptographically
+signed index card. The certificates, signed by the certification
+authority’s own private key, contain the name of the CA, that CA’s
+public key, a serial number, and other information, as shown in Figure 7-7. To date, most certificates are a promise by the CA that a particular public key belongs to a particular individual or organization. But certificates can also be used for assertions. For example, the Commonwealth of Massachusetts could issue certificates saying that an ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

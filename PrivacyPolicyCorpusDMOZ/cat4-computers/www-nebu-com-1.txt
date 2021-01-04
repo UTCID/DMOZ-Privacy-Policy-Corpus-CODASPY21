@@ -1,0 +1,103 @@
+http://www.nebu.com/privacy-and-cookies-policy
+Our offer
+Vertical solutions
+Library
+CSR
+Pressroom
+Contact
+Nebu
+Our offer
+Vertical solutions
+Library
+CSR
+Pressroom
+Nebu
+Contact
+Blog
+Login
+Cookies Policy
+This site uses cookies, please read further to understand how Hubspot tracks visitors
+Introduction
+Don’t be fooled by the name. “Cookie tracking” is not a new app for finding local bakeries’ freshest treats. Instead, cookies are a common way of keeping track of online visitors for a number of reasons, including website analytics and user logins.
+Whether you know it or not, your browser likely has a number of cookies picked up along the way during your browsing sessions. These small files are almost everywhere you look online, but they’re not always well understood, so let's dig into what cookies are, how your HubSpot-tracked pages use them to track contacts.
+What is a cookie?
+In the most basic sense, a cookie is just a small text file that is stored on your browser. When you visit a website, the site developers may have a script on their pages to generate this text file and add it to your browser. Cookies are useful for a lot of what we want to do online. If you’re doing some online shopping, a cookie keeps track of your shopping cart for you and keeps you logged in while you switch between pages. Cookies are also helpful for website owners to understand their site traffic and how many individuals visit their website by tagging browsers with a unique cookie.
+Nebu’s website is created in HubSpot. Hubspot uses cookie tracking to give Nebu’s marketers context for sites’ visits. When someone arrives on a HubSpot tracked page, a cookie is added to his or her browser to remember which site pages he or she viewed. Though this cookie does not have any identity information for anonymous, first-time visitors, it can still store the visitor's pages viewed. If our visitor enjoys the content so much that they choose to fill out a HubSpot form, they will have a record created as a contact in our HubSpot contact database. On this contact record, Nebu marketers will be able to see a visitor’s page history and interest in Nebu’s content.
+Why are cookies helpful?
+Cookies are helpful for marketers because of providing the context needed to analyze what content resonates with the audience. Even when a visitor is not yet engaged enough to fill out a form, cookies still provide some useful information for site metrics. If someone does fill out a form and hasn’t cleared his or her cookies from when he or she was an anonymous visitor, marketers will have their visit information from that time as well. This shows the audience’s interests and allows to target marketing efforts on what is relevant to their needs.
+Aside from page view history, cookies are helpful for contacts to update their email addresses. If a contact comes back to Nebu site and fills out a form with a different email address, HubSpot will use their cookie information to update their record.  This means fewer duplicate records for marketers, and no information lost for contacts.
+How does Hubspot track visitors?
+Hubspot tracks visitors using browser cookies. Every time a visitor lands on Nebu’s website, HubSpot will check for the presence of an existing tracking cookie. If one does not exist, HubSpot spins up a unique cookie for that visitor and will log every page that person visits moving forward.
+There are a few things to be aware of in regards to how HubSpot handles tracking cookies:
+Visitors will be tracked anonymously even before they become contacts. If and when a visitor fills out a form, HubSpot will associate their previous page views based on the tracking cookie.
+If a visitor deletes his or her cookies, he or she will be considered a new visitor and will be assigned a new cookie. However, HubSpot will automatically deduplicate form submissions coming from the same email address, even if different browser cookies were associated with the submissions.
+Since cookies are unique to a browser, if two people share a single computer, their submissions will be associated with the same contact record. This deduplication by cookie ensures that if a contact submits multiple forms on your website using different email addresses, all submissions will be associated with a single record in HubSpot since they are all from the same contact. Keep in mind that if you as a visitor submit multiple submissions from one browser with different email addresses, these submissions will overwrite each other on a single contact record in HubSpot due to the common tracking cookie.
+HubSpot will also attribute visits to a contact if the contact clicks a link in a tracked marketing email which directs to a page.
+What cookies does HubSpot set in a visitor's browser?
+HubSpot's tracking code sets the following cookies when someone visits Nebu site. These cookies fall into two general categories:
+Functional cookies: these cookies do not require consent.
+Consent banner cookies: there are cookies included in the consent banner under GDPR.
+Specific cookie names and descriptions are listed below:
+Functional cookies
+__hs_opt_out
+This cookie is used by the opt-in privacy policy to remember not to ask the user to accept cookies again. This cookie is set when Nebu gives users the choice to opt-out policy.
+(Expires: 2 years)
+__hs_do_not_track
+This cookie can be set to prevent the tracking code from sending any information to HubSpot. Setting this cookie is different from opting out of cookies, which still allows anonymized information to be sent to HubSpot.
+(Expires: 2 years)
+__hs_testcookie
+This cookie is used to test whether the visitor has support for cookies enabled.
+(Expires: Session cookie)
+hs_ab_test
+This cookie is used to consistently serve visitors the same version of an A/B test page that they’ve seen before.
+(Expires: Session cookie)
+hs_lang_switcher_choice
+This cookie is used to consistently redirect visitors to the language version of a page in the language they’ve selected on this top-level private domain in the past (if such a language version exists).
+<id>_key
+When visiting a password-protected page, this cookie is set so future visits to the page from the same browser do not require a login. The cookie name is unique for each password-protected page.
+hs-messages-is-open (TTL 30 minutes)
+This cookie is used on the visitor UI side so HubSpot can determine/save whether the chat widget is open for future visits. It resets after 30 minutes to re-close the widget after 30 minutes of inactivity
+hs-messages-hide-welcome-message (TTL 1 day)
+Consent banner cookies
+__hstc
+The main cookie for tracking visitors. It contains the domain, utk (see below), initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session).
+(Expires: 2 years)
+hubspotutk
+This cookie is used for to keep track of a visitor's identity. This cookie is passed to HubSpot on form submission and used when de-duplicating contacts.
+(Expires: 10 years)
+__hssc
+This cookie keeps track of sessions. This is used to determine if Hubspot should increment the session number and timestamps in the __hstc cookie. It contains the domain, viewCount (increments each pageView in a session), and session start timestamp.
+(Expires: 30 min)
+__hssrc
+Whenever HubSpot changes the session cookie, this cookie is also set. We set it to 1 and use it to determine if the user has restarted their browser. If this cookie does not exist when we manage cookies, we assume it is a new session.
+(Expires: None. Session cookie)
+messagesUtk
+This cookie is used to recognize visitors who chat with us via the messages tool. If the visitor leaves Nebu’s site before they're added as a contact, they will have this cookie associated with their browser. If Nebu has a history of chatting with a visitor and they return to our site later in the same cookied browser, the messages tool will load your conversation history with that visitor.
+Nebu
+Meet us
+What we offer
+Our products
+Social Responsibility
+Pressroom
+Knowledge & Learning
+Library
+Blog
+Dub Community
+Nebu Data Suite
+Nebu Data Hub
+Nebu Dub InterViewer
+Nebu Dialer as a Service
+Nebu Panel Manager
+Nebu Reporter
+Nebu Assessment
+Global Reach
+Ecosystem
+Resellers
+Partners
+Contact
+Nebu BV Pakhuisplein 42V 1531 MZ Wormer The Netherlands T +31 251 311 413 E nebu@nebu.comUK Sales: +44 33 080 87820US Sales: +1 347 708 1633
+©2020 Nebu bv All rights reserved
+Cookies Policy
+Privacy Statement
+Disclaimer
+Security and Data Protection

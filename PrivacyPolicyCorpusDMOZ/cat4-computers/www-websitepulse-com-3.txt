@@ -1,0 +1,248 @@
+http://www.websitepulse.com/help/glossary.php
+We are using cookies to ensure you get the best experience on our website. To find out more, please read our Privacy Policy section.   Got it!
+24/7 Live chat
+24/7 1-888-WSPULSE
+Login
+Sign Up
+ToolsServicesPricingBlog
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AAccessibility - The art of ensuring that, to as large extent as possible, facilities (such as, for example, Web access) are available to people whether or not they have impairments of one sort or another.
+Accessibility can also be viewed as the "ability to access" and benefit from some system or web applicationsAJAX / Asynchronous JavaScript and XML - AJAX stands for Asynchronous JavaScript and XML. It is a web development technique used for creating interactive web applications. The idea is to make web pages more responsive by exchanging small amounts of data with the server behind the web application so that the entire web page does not have to reload each time the user requests a change.Alert - An automated method to send a person, group of people, IT staff members or another system a warning that a web site, network component or web application has failed. Alphanumeric - Consisting of English language (Latin) letters (A-Z), numeric characters (digits 0-9), or combination
+of both, and occasionally containing control characters or other special characters.API / Application Programming Interface - API stands for Application Programming Interface and is a source code interface that a computer system provides in order to support requests for services.ASCII / American Standard Code for Information Interchange - ASCII stands for American Standard Code for Information Interchange. It is a common character encoding standard. Files including ASCII code contain standard keyboard characters but no formatting information.Availability - The ability of a network component, web service or web application to perform its required functions at any time when needed.BBackbone Network - The Backbone network is a high-speed network, which is at the top level of a hierarchical computer network forming a major pathway within the network. It provides connectivity between lower-level networks (LANs or subnetworks) and nodes in the hierarchy.Browser / Web Browser - A web browser (commonly referred to as a browser) is a program which allows a person to read hypertext. The browser gives the means of viewing the contents of nodes and of navigating from one node to another.CConnect Time - The connect time is the time it takes a client browser or WebSitePulse monitoring agent to connect to a web server across the InternetContent Match - Content match is the ability of the WebSitePulse system to verify if a specific string of characters appears in the source code of an HTML web page. An alert can be sent in the event of a positive or negative matchContent Time - Content time, also referred to as time to download the last byte, is the time in seconds that it takes a website to deliver all of its content (images, HTML, and other objects) from the web server where it resides to the client browser or the WebSitePulse agent. You can measure the content time and other components of your website with our Website Test tool.Cookie - Small bits of information about a user that web servers store on the user's computer using their web browser for later use. The browser may store the cookies and send them back with the next request to the same server.
+Writing data to a cookie is usually done when a new webpage is loaded.
+For example, web servers can use cookies to store the user's website configuration, to remember items placed in a "shopping cart" at an online shopping site, or to store account and password information for subscription sites.
+Also called HTTP cookie, web cookie, Internet cookie, browser cookie.
+Authentication cookies are used by web servers to know whether the user is logged in or not, and which account they are logged in with.
+Tracking cookies are used as ways to compile long-term records of individuals' browsing histories.
+Session cookies also know as in-memory cookies or transient cookies are erased when the user closes the web browser. They are stored in temporary memory and are not retained after the browser is closed. Session cookies do not collect information from the user's computer.CRAM-MD5 SMTP authentication - CRAM-MD5 stands for challenge-response authentication mechanism (CRAM). In CRAM-MD5 authentication, the server first sends a challenge string to the client. The client responds with a username followed by a checksum. The checksum contains the user's password as the secret key, and the server's original challenge as the message. The server also calculates its own checksum with its notion of the user's password, and if the client's checksum and the server's checksum match then authentication was successful.DDaemon - A daemon is a computer program that runs continuously in the background and exists for the purpose of handling periodic service requests that a computer system expects to receive. The daemon computer program forwards the requests to other computer programs or processes as appropriate. Every web server connected to the Internet has an HTTPD (Hyper Text Transfer Protocol Daemon) that continuously listens for requests coming in from Web clients and their users.Diagnose / Diagnostic tools test - Performing multiple instant tests in order to identify and resolve different problemsDiagnostic Tools - Diagnostic Tools are the test tools designed to test instantly performance, availability, response time and other parameters of a web server, transaction or web applicationDNS / Domain Name System (Service) - An Internet service (naming system) that translates domain names into numerical IP addresses needed for locating and identifying computer services and devices (anything connected to the Internet) with the underlying network protocols.
+The Internet uses two principal namespaces --
+the domain name hierarchy and the IP address spaces. The DNS maintains the domain name hierarchy and provides translation services between it and the address spaces. Internet name servers and a communication protocol implement the Domain Name System.
+In other words DNS turns domains name into IP addresses that computers use to identify each other on the network. For example DNS turns "websitepulse.com" into 69.20.69.149.
+If you want to check your IP address, try our free HostName TestDNS error - DNS error occurs when a browser or the WebSitePulse monitoring agent attempts to locate the tested website or web page and is not being able to obtain the corresponding IP addressDNS Look-up / DNS Lookup - The DNS Look-up is the process of querying a DNS server to lookup and resolve the requested hostname or domain name and returning the corresponding IP address. To find out more, you can try our DNS Lookup Test.DNS Server - A DNS Server is a server, which contains a list with certain IP addresses and hostnames and translates a hostname to its corresponding IP address.
+In other words it matches domain names like websitepulse.com to their IP addresses -- 204.232.239.198
+You can instantly test a DNS server with our Server Test tools.DNS Time - DNS Time is the time it takes a web browser or the WebSitePulse monitoring agent to translate a hostname to its corresponding IP addressDomain name - A name (such as "websitepulse.com") of a service, website, or computer, and so on in a hierarchical system of delegated authority - the Domain Name SystemDowntime - The term downtime represents the total time period during which a server, website, web application or web component is unavailable or not operational, within its scheduled service times. It is measured in hours and minutes and also as a percentageEEmail contact - The Email contacts receive alerts and reports by email. They include all regular email accounts or any other devices that can receive email like email to cellular phone, email to SMS, email to pager, etc. Alerts to the Email contacts are free.End user - End user (sometimes end-user) is a natural person who makes use of resources for application purposes. They typically do not possess the technical understanding or skill of the product designers and developers.FFirst Byte Time - First Byte Time is the time it takes to receive the first byte of the page HTML, graphic object or other web component after the TCP connection is completed. You can measure the time it takes the first byte of a website to download with our Website Test tool.FTP / File Transfer Protocol - The File Transfer Protocol (FTP) is a standard network protocol which provides the basic elements of file sharing between hosts. FTP uses TCP to create a virtual connection for control information and then creates a separate TCP connection for data transfers. The control connection uses an image of the TELNET protocol to exchange commands and messages between hosts.Fullpage Failed - This field shows the total number of page components which were not functioning properly at the time of the test.Fullpage Frames - The WebSitePulse.com monitoring agent is testing all the frames on the web page.Fullpage Images - The WebSitePulse.com monitoring agent is testing all the images presented on a web page, including not only the images called by tags, but also body and table background images. Fullpage Links - The WebSitePulse.com monitoring agent is testing all the links on the web page.Fullpage Other External - The WebSitePulse.com monitoring agent is testing all the forms available on the web page.Fullpage Other Inline - The WebSitePulse.com monitoring agent is checking for Flash movies, Java applets or other plugable components.Fullpage References - This section shows the total number of references which you have selected for testing. These include the images, frames, links and other internal and external page components.GGateway - A gateway is a network point that acts as an entrance to another network. On the Internet, a node or stopping point can be either a gateway node or a host (end-point) node. Both the computers of Internet users and the computers that serve pages to users are host nodes. The computers that control traffic within your company's network or at your local Internet service provider (ISP) are gateway nodes.
+In the network for an enterprise, a computer server acting as a gateway node is often also acting as a proxy server and a firewall server. A gateway is often associated with both a router, which knows where to direct a given packet of data that arrives at the gateway, and a switch, which furnishes the actual path in and out of the gateway for a given packet.HHost name - Hostname (archaically nodename) is the unique name (label) of the server / computer that is used for reaching it on a specific computer network or over the Internet.
+The hostname for a computer on a home/work network may be something like a Mike's PC, My Laptop, or Family Desktop.
+Hostnames are also used by DNS servers to access a website by domain name instead of an IP address to open a website.
+Hostname could be a FQDN (Fully qualified domain name) for example www.websitepulse.com or pda.websitepulse.com, an IPv4 address like 207.97.202.80, or an IPv6 address like 2001:4800:7818:104:be76:4eff:fe05:5f2e. However, this option not available in all of our monitoring locations.
+If you need to know what your host name is, try our free Hostname test.HTML / Hypertext Markup Language - HTML stands for Hypertext Markup Language -- a standard markup computer language for representing the contents of a page of hypertext; the language that most web pages and web applications are currently written in.
+Web browsers receive HTML documents from a server and render them into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.HTTP / HyperText Transfer Protocol - HTTP stands for HyperText Transfer Protocol. The application-level Internet protocol used to exchange HTML documents.
+Hypertext is structured text that uses logical links (hyperlinks) between nodes containing text. HTTP is the protocol to exchange or transfer hypertext.
+HTTP is the foundation of data communication for the World Wide Web.
+HTTP is also used as a generic protocol for communication between user agents and proxies/gateways to other Internet systems. In this way, HTTP allows basic hypermedia access to resources available from diverse applications.HTTP Request - The HTTP request is a message sent from the browser or the WebSitePulse monitoring agent to the server to retrieve an HTML page, graphic object or CSS fileHTTP Response - After an HTTP server listening to that port receives an HTTP request, the server sends an HTTP response containing a status line and the requested fileHTTP status codes -
+100 - Continue - the client should continue with its request by sending the remainder of the request.
+101 - Switching Protocols - the server will switch protocols
+200 - OK - the request is successful.
+201 - Created - the server created a new resource
+300 - Multiple Choices - the user has to select a preference
+301 - Moved Permanently - the requested resource has a new permanent URL.
+302 - Found (Moved Temporarily) - the resource is temporarily moved to a different URL
+304 - Not Modified - contents of the requested web page have not been modified
+305 - Use Proxy - repeat the request via proxy
+306 - Switch Proxy - unused
+307 - Temporary Redirect - requested URL is temporarily under a different URL
+308 - Permanent Redirect - is requested URL is permanently under a different URL
+400 - Bad Request - the request is not understood by the server
+401 - Unauthorized - user authentication is required by the server
+402 - Payment Required - code is reserved for future use
+403 - Forbidden - the server refuses to respond to the request
+404 - File Not Found - the server does not find the requested file
+405 - Method Not Allowed - the method specified in the request is not allowed
+406 - Not Acceptable - the response that can be returned to is not acceptable
+407 - Proxy Authentication Required - client has to log in with a proxy server first
+408 - Request Timeout - the request was not produced within the time the server is configured to wait
+409 - Conflict - there is a conflict with the current state of the server
+410 - Gone - the resource is no longer available at the server
+411 - Length Required - content-length has to be defined
+412 - Precondition Failed - a precondition is evaluated as false
+413 - Request Entity Too Large - the entity is larger than the server can process
+414 - Request-URL Too Long - the Request-URL is longer than the server can interpret
+415 - Unsupported Media Type - the format is not supported
+416 - Requested Range Not Satisfiable - request range is not satisfied
+417 - Expectation Failed - the expectation in an Expect request-header can not be fulfilled by the server
+500 - Internal Server Error - the server cannot fulfill the request
+501 - Not Implemented - server does not support the functionality required to process the request
+502 - Bad Gateway - server received an invalid response from the upstream server
+503 - Service Unavailable - temporary overloading or maintenance of the server
+504 - Gateway Timeout - no timely response from the upstream server
+505 - HTTP Version Not Supported - the HTTP protocol version is not supported by the serverHTTPD / Hyper Text Transfer Protocol Daemon - HTTPD stands for Hyper Text Transfer Protocol Daemon which is another name for a web server.
+It is a computer program which listens for and accepts HTTP requests, and serves back HTTP responses which are usually HTML pages and the resources they refer to like images, style sheets etc.HyperText - Hypertext is text which is not constrained to be linear. It is a text which contains references (hyperlinks) to other texts that the reader can immediately access, or where text can be revealed progressively at multiple levels of detail. "Hypertext" is also sometimes used to describe tables, images, and other content with integrated hyperlinks.IICMP / Internet Control Message Protocol - ICMP stands for The Internet Control Message Protocol. It is a supporting protocol in the Internet protocol suite which is used by network devices to send error messages and operational information indicating a requested service is not available or a host is not reachable.IDS / Intrusion Detection Systems - ID stands for Intrusion Detection, which is the art of detecting inappropriate, incorrect, or anomalous activity. ID systems that operate on a host to detect malicious activity on that host are called host-based ID systems, and ID systems that operate on network data flows are called network-based ID systems.
+Sometimes, a distinction is made between misuse and intrusion detection. The term intrusion is used to describe attacks from the outside; whereas, misuse is used to describe an attack that originates from the internal network. However, most people don't draw such distinctions.
+The most common approaches to ID are statistical anomaly detection and pattern-matching detection. IIS / Internet Information Services - IIS stands for Internet Information Services (formerly Internet Information Server). It is an extensible Microsoft web server that runs on Windows NT platforms. It is tightly integrated with the Windows operating system, but may be absent from some editions. IIS is available only for the Windows platform.
+ISS supports HTTP, HTTPS, FTP, FTPS, SMTP and NNTP.IMAP / Internet Message Access Protocol - IMAP stands for Internet Message Access Protocol and is an Internet standard protocol used by e-mail clients to retrieve e-mail messages from a mail server over a TCP/IP connection.
+IMAP is defined by RFC 3501.Information space - The abstract concept of everything accessible using networks: the Web.Instant Messenger Contact - The Instant Messenger contacts may receive alerts in the form of an instant message at their favorite messaging software. Currently we support
+MSN, ICQ, Jabber, Gtalk, Skype, Telegram and HipChat. These contacts cannot be configured to receive the WebSitePulse.com reports.
+Alerts to the Instant Messenger contacts are free.Internet - A global network of networks through which interconnected computers communicate by sending information in packets. Each network (private and public) consists of computers connected by cables or wireless links. The Internet carries an extensive range of information resources and services.Intranet - The intranet is a part of the Internet or part of the Web used internally within a company or organization. A local network.IP / Internet Protocol - IP stands for Internet Protocol. The principal communications protocol in the Internet protocol suite that governs how computers send network packets (formatted unit of data) across the Internet.IP address / Internet Protocol address - IP address stands Internet Protocol address and it is an alphanumeric identifier assigned to each device connected to a TCP/IP network like a computer, printer, router, mobile device, etc. It is is used to locate and identify the node in communications with other nodes on the network.
+IPv4 (IP version 4) defines an IP address as a 32-bit number and it looks like this: 204.232.239.198. However, because of the growth of the Internet and the depletion of available IPv4 addresses, a new version of IP addresses was introduced. IPv6 (IP version 6) uses 128 bits for the IP address and it looks like this: 2001:4800:7818:104:be76:4eff:fe05:5f2e.IPR / Intellectual Property Rights - IPR stands for Intellectual Property Rights -- the conditions under which the information created by one party may be appreciated by another party.
+IPR include patents, copyright, industrial design rights, trademarks, plant variety rights, trade dress, geographical indications, and in some jurisdictions trade secrets.ISP / Internet Service Provider - ISP stands for Internet Service Provider. A company that provides access to the Internet.
+Internet service providers may be organized in various forms, such as commercial, community-owned, non-profit, or otherwise privately owned.
+In addition to serving individuals, ISPs also serve large companies, providing a direct connection from the company's networks to the Internet.
+Some users have a cable or some sort of wireless link to their ISP. For others, their computer may dial an ISP by phone and send and receive Internet packets over the phone line; the ISP then forwards the packets over the Internet.
+Internet services typically provided by ISPs include Internet access, Internet transit, domain name registration, web hosting, Usenet service, and colocation.
+An ISP is also sometimes referred to as an IAP (Internet Access Provider).JJava - Java is a general-purpose computer programming language developed by Sun Microsystems. I is concurrent, class-based, object-oriented and specifically designed for portability and usability embedded in small devices. Java took off as a language for small applications ("applets") that ran within a Web browser. KKerberos - Kerberos is a computer network network authentication protocol designed to provide strong authentication for client/server applications by using secret-key cryptography. Optionally it may use public-key cryptography during certain phases of authentication.
+Kerberos uses UDP port 88 by default.LLatency - Network latency is a time interval between the stimulation and response. In other words, the time delay of data traffic through a network or switch — how much time it takes for a packet of data to get from one designated point to another.Link - Link is a text or graphic reference from one document to another (external link), or from one location in the same document to another (internal link), that can be followed efficiently using a computer. The unit of connection in hypertext.MMonitoring Agent - In WebSitePulse, Agent refers to the WebSitePulse Remote Monitoring Agent which initiates and performs the tests on your remote e-business components (servers, websites, e-mail systems, etc) from multiple locations on the Internet.MS SQL - Microsoft SQL Server is a relational database management system (RDBMS) produced by Microsoft.MX record / Mail exchanger record - An MX record (Mail exchanger record) is a type of resource record in the Domain Name System (DNS) specifying how Internet e-mail for a specific email address should be routed. MX records point to the servers that should receive the e-mail, and their priority relative to each other for that email address. You can instantly check an MX record using our MX Lookup tool.MySQL - MySQL is a popular open-source relational database management system often used for web development.NNavigation - The process of moving from one node to another through the hypertext web . This is normally done by following links. Various features of a particular browser may make this easier. These include keeping a history of where the user has been, and drawing diagrams of links between nearby nodes.Net / The net - Net or "the net" is short for Internet.New Host - The new host name should be added only by entering the IP address of the server or the domain name (e.g. mydomain.com), without protocol name (http://, https://, etc.).NNTP / Network News Transfer Protocol - NNTP stands for Network News Transfer Protocol -- an application protocol that defines how news articles are passed around between news servers and for reading and posting articles by end user client applications. Each computer passes an article to any of its neighbors that have not yet got it.NS record / Name Servers record - An NS record (Name Servers record) specifies the Name Servers responsible for a specific domain name records.NTLM / NT Lan Manager Authentication - NTLM (stands for NT Lan Manager) Authentication is a Microsoft security protocol used by servers running the Windows operation system that provides authentication, integrity, and confidentiality to users.Numeric Pagers Contacts - The Numeric Pagers receive alerts in numeric codes, each code representing specific error. There are default codes, which you can modify at any time. Every alert to these contacts is charged at the current rate, billed to your monthly invoice. This notification service is currently available for the US, Canada and UK numeric pager numbers.
+The Numeric Pagers cannot receive reports by email.OOpen source - Software whose source code, blueprints, and documentation are freely distributed, available and modifiable by anyone.Outside the Firewall - Outside the Firewall usually refers to a monitoring process outside of an organization’s local area network.PPage Download Time - The Page Download Time usually refers to the time it takes a web browser or the WebSitePulse monitoring agent to download all objects and components of a specific web page.Path - An ordered set of nodes which represent a sequence in which a web can be read. A path may represent the sequence a reader actually used, or may be a sequence recommended to the reader by the author.Ping / Packet Internet Gropper - PING stands for Packet Internet Gropper — a basic computer network administration software utility that uses ICMP to send out echo requests, and then uses the reply packets to calculate latency between the sending and the destination hosts.
+Ping is most commonly used to verify that a particular IP address exists and can accept requests.
+To see how it works, try a Ping Test from our test tools.POP3 / Post Office Protocol 3 - POP3 stands for Post Office Protocol 3, an application-layer Internet standard protocol used by local e-mail clients to retrieve e-mail from a remote server over a TCP/IP connection. POP3 receives and holds email for an individual until they pick it up.Port - In TCP/IP and UDP networks, an endpoint to a logical connection. A port is identified for each address and protocol by a 16-bit number, commonly known as the port number. The port numbers identify what type of ports they are. For example, port 80 is used for HTTP traffic.Protocol - A language and a set of rules that allow computers to interact in a well-defined way. These are the rules or standard that defines the syntax, semantics and synchronization of communication and possible error recovery methods. Protocols may be implemented by hardware, software, or a combination of both. Examples are FTP, HTTP, HTTPS and other.Proxy - Proxy is a node that relays a message between a requester and a Web service, appearing to the Web service to be the requester.Proxy server - A proxy server is a server (a computer system or an application) that sits between a client web application (such as a web browser) and a real server. It intercepts all requests to the real server to see if it can fulfill the requests itself. If not, it forwards the request to the real server.
+Most proxies now days are web proxies, facilitating access to content on the Internet, providing anonymity and may be used to bypass IP address blocking.QQuery String / Search String - A query string (or search string) is an optional part of a URL (Uniform Resource Locator) that goes after the file name and begins with a question mark (?). This part contains additional variables used by the web application - for example the url http://www.domain.com/file.php?myvalue=1 contains one parameter called "myvalue" which is equal to 1.
+This field should also be used to send POST data parameters when a POST method is selected.
+You can enter multiple parameters separated by & or by a new line.RRedirect Time - Redirect Time refers to the time it takes to follow any HTTP redirects in the HTTP servers response. The redirect time will also include the time needed to perform any DNS lookups or connection times that might occur during this process. The redirect time will be calculated only for HTTP protocol level redirects - it is not available for redirects that occur after the HTTP transaction is finished like the ones caused by META refresh tags or JavaScript functions.Rich Internet Applications (RIA) - Rich Internet applications (RIAs) are web applications that have the features and functionality of traditional desktop applications. RIAs typically run in a web browser, do not require software installation and keep the bulk of the data on the application server.RMTP / Real Time Messaging Protocol - Real Time Messaging Protocol (RTMP) is a protocol developed by Adobe Systems and is used by the Flash Player to deliver real time objects, video, and audio to clients using a binary TCP connection or polling HTTP tunnel. Router - In packet-switched networks such as the Internet, a router is a device or, in some cases, software in a computer, that determines the next network point to which a packet should be forwarded toward its destination. The router is connected to at least two networks and decides which way to send each information packet based on its current understanding of the state of the networks it is connected to. A router is located at any gateway (where one network meets another), including each point-of-presence on the Internet. A router is often included as part of a network switch.RTSP / Real-Time Streaming Protocol - The Real Time Streaming Protocol (RTSP) is developed by the IETF in 1998. It is a protocol for use in streaming media systems which allows clients to remotely control a streaming media server, issuing VCR-like commands such as "play" and "pause", recording and possibly device control, time-based access to files on a server and absolute positioning within the media stream. Most RTSP servers use the standards-based RTP as the transport protocol for the actual audio/video data.RTSP Status Codes - This is a list of the supported RTSP / Real Time Streaming Protocol status codes and their meanings
+100 - Continue
+200 - OK
+201 - Created
+250 - Low on Storage Space
+300 - Multiple Choices
+301 - Moved Permanently
+302 - Moved Temporarily
+303 - See Other
+304 - Not Modified
+305 - Use Proxy
+400 - Bad Request
+401 - Unauthorized
+402 - Payment Required
+403 - Forbidden
+404 - Not Found
+405 - Method Not Allowed
+406 - Not Acceptable
+407 - Proxy Authentication Required
+408 - Request Time-out
+410 - Gone
+411 - Length Required
+412 - Precondition Failed
+413 - Request Entity Too Large
+414 - Request-URI Too Large
+415 - Unsupported Media Type
+451 - Parameter Not Understood
+452 - Conference Not Found
+453 - Not Enough Bandwidth
+454 - Session Not Found
+455 - Method Not Valid in This State
+456 - Header Field Not Valid for Resource
+457 - Invalid Range
+458 - Parameter Is Read-Only
+459 - Aggregate operation not allowed
+460 - Only aggregate operation allowed
+461 - Unsupported transport
+462 - Destination unreachable
+463 - Key management Failure
+500 - Internal Server Error
+501 - Not Implemented
+502 - Bad Gateway
+503 - Service Unavailable
+504 - Gateway Time-out
+505 - RTSP Version not supported
+551 - Option not supportedSService agreement - A service agreement is a contract, a voluntary arrangement, between a service provider and a requester regarding the attributes of a Web service and its usage.Service provider - The
+service provider is a legal entity that provides a Web service.SIP / Session Initiation Protocol - The Session Initiation Protocol (SIP) is a signaling and call setup protocol for VOIP (Voice Over IP) communications. It can be used to create two-party, multiparty, or multicast sessions that include Internet telephone calls, multimedia distribution, and multimedia conferences. It can also be used in any application where session initiation is a requirement like presence and events notifications, instant messaging and Internet real-time fax delivery signaling. SIP is designed to be independent of the underlying transport layer and for this reason SIP clients can use TCP or UDP (typically on port 5060) to connect to SIP servers and other SIP endpoints.SMS / Short Message Service - The Short Message Service (SMS) is the ability to send and receive text messages to and from mobile telephones. It uses standardized communication protocols to enable mobile phone devices to exchange short text messages. The text can comprise of words or numbers or an alphanumeric combination. SMS was created when it was incorporated into the Global System for Mobiles (GSM) digital mobile phone standard.
+A single short message can be up to 160 characters of text in length using default GSM alphabet coding, 140 characters when Cyrillic character set is used and 70 characters when UCS2 international character coding is used.SMS contact - SMS (Short Message Service) is a text message that can be sent to almost any cellular phone or other wireless device in the World. This notification service is provided directly through our multiple SMS gateways. Every alert to the SMS contacts is charged an additional fee and is billed to your monthly invoice. The majority of the wireless networks are charged at US$0.10 per SMS, but some may be more or less expensive.
+The SMS notification contacts cannot receive reports by email.
+SMTP / Simple Mail Transfer Protocol - SMTP stands for Simple Mail Transfer Protocol. A protocol used to exchange electronic mail (email) between computers. Although proprietary mail systems and webmail systems use their own non-standard protocols to access mail box accounts on their own mail servers, all use SMTP to sending and receiving email from outside their own systems.SNMP / Simple Network Management Protocol - SNMP stands for Simple Network Management Protocol. It is a set of rules for management of networks and the monitoring of network devices and functions. SNMP is used for collecting information from, and configuring, network devices on an IP network.SNMP contact - A SNMP trap will be sent to the configured server. This type of contacts cannot receive reports by email. The WebSitePulse.com MIB file which defines the traps sent by our monitoring agent can be downloaded from the contact configuration page or from the following URL
+http://www.websitepulse.com/contacts/WEBSITEPULSE-NOTIFY-MIB.txt
+No additional fees are added for receiving SNMP traps.SOAP / Simple Object Access Protocol - SOAP (Simple Object Access Protocol, a.k.a. Service Oriented Architecture Protocol) is a protocol for exchanging XML-based messages between applications over computer networks, normally using HTTP or HTTPS. There are several different types of messaging patterns in SOAP, but by far the most common is the Remote Procedure Call (RPC) pattern, in which one network node (the client) sends a request message to another node (the server), and the server immediately sends a response message to the client.SPF (Sender Policy Framework) - The Sender Policy Framework (SPF) is an open standard specifying a technical method to prevent sender address forgery. It protects the envelope sender address (return-path), which is used for the delivery of messages.SSL / Secure Sockets Layer - SSL stands for Secure Sockets Layer. It is is the standard security technology for establishing an encrypted link between a web server and a browser. This link ensures that all data passed between the web server and browsers remain private and integral.
+Most of the modern browsers support SSL, and many web sites use the SSL protocol to obtain confidential user information, such as credit card numbers and to ensures it will remain private.
+By convention, web pages that require an SSL connection start with "https://" instead of "http://" WebSitePulse supports SSL when specifying URLs for URL monitors.
+Try our SSL Certificate Monitoring
+Check out our free SSL Certificate Validation Checker.TTCP / Transmission Control Protocol - IETF RFC793 (http://www.ietf.org/rfc/rfc0793.txt) defines the Transmission Control Protocol (TCP). TCP is one of the main protocols of the Internet protocol suite and provides a reliable, error-checked, stream delivery and virtual connection service to applications through the use of sequenced acknowledgment with retransmission of packets when necessary. TCP originated in the initial network implementation in which it complemented the Internet Protocol (IP).Time-out / Timeout - Time-out or a timeout is a period of time after which some condition becomes true if some event has not occurred. For example, a session that is terminated because its state has been inactive for a specified period of time is said to "time out".TLS / Transport Layer Security - The TLS (Transport Layer Security)
+is a security protocol that allows client/server applications to communicate securely in a way that is designed to prevent eavesdropping,
+tampering, or message forgery.
+It is based on SSL (Secure Socket Layer) v3.0 and was first defined
+in January 1999. The latest version is TLSv1.2 and currently an IETF working group is working on the draft of TLSv1.3 with the following design golas:
+· Develop a mode that encrypts as much of the handshake as is possible to reduce the amount of observable data to both passive and active attackers.
+· Develop modes to reduce handshake latency, which primarily support HTTP-based applications, aiming for one roundtrip for a full handshake and one or zero roundtrip for repeated handshakes. The aim is also to maintain current security features.
+· Update record payload protection cryptographic mechanisms and algorithms to address known weaknesses in the CBC block cipher modes and to replace RC4.
+· Reevaluate handshake contents, e.g.,: Is time needed in client hello? Should signature in server key exchange cover entire handshake? Are bigger randoms required? Should there be distinct cipher list for each version? Are additional mechanisms needed to prevent version rollback needed?
+· The group will consider the privacy implications of TLS1.3 and where possible (balancing with other requirements) will aim to make TLS1.3 more privacy-friendly, e.g. via more consistent application traffic padding, more considered use of long term identifying values, etc.
+Try our TLS Certificate Monitoring
+Check out our free TLS Certificate Validation Checker.Traceroute - Traceroute is a UNIX communication program that is used to see the route packets take to network host. This program attempts to trace the route an IP packet would follow to some internet host by launching UDP probe packets with a small ttl (time to live) then listening for an ICMP "time exceeded" reply from a gateway. It starts its probes with a ttl of one and increase by one until it gets an ICMP "port unreachable" (which means it has got to "host") or hit a max of 30 hops.
+Traceroute will start its probe using UDP port number 33434. Traceroute hopes that nothing is listening on UDP ports 33434 to 33463 at the destination host (so an ICMP PORT_UNREACHABLE message will be returned to terminate the route tracing).TTFB - TTFB stands for Time to First Byte. See First Byte TimeUUDP / User Datagram Protocol - The User Datagram Protocol (UDP), defined by IETF RFC768 (http://www.ietf.org/rfc/rfc0768.txt), is one of the core members of the Internet protocol suite and provides a simple, but unreliable message service for transaction-oriented services. Each UDP header carries both a source port identifier and destination port identifier, allowing high-level protocols to target specific applications and services among hosts.Uptime - Uptime is the percentage of time that a website, server, web system or web application is working properly and servicing requests.URL Contacts - The URL contacts will open a specific page in case of an alert event. This service can be used to reboot your server or to perform any other action that can be triggered by opening a specific web page. The WebSitePulse monitoring agent supports both HTTP and HTTPS (secure HTTP) protocols and the URL can
+be requested using GET or POST request methods.
+The alert details are sent as a single GET or POST parameter that is appended
+to your URL so you can record them in your database or process them within your web application. It is recommendable to modify the alert contents for this contact so you could process the information sent by our monitoring agent more easily.
+For example if you set the content of the alert that is set in connection errors to
+< label >,< targettype >,< status >,< date >,< resptime >
+you will get a comma-separated list that includes the name and the type of the monitored target, the error message from our monitoring agent, the date/time the problem was detected and the total response time.
+A sample URL with the notification message attached looks like this
+http://www.domain.com/alerts/page.php?text=You+server+is+down.+The+error+received+was+Connection+refused
+To use URL contacts that require basic HTTP authentication you should include the username and the password in the following way
+http://username:password@www.domain.com/alerts/page.php
+Both the username and the password should be URL encoded. For example if your username is myname@domain.com the URL contact should be entered like
+http://myname%40domain.com:password@www.domain.com/alerts/page.php
+Alerts to the URL contacts are free.VVoice call contact - The Voice Call contacts receive alerts by a phone call. A human voice will announce the details of the error based on your customization of the alert
+message for each individual voice contact. Each call to these numbers is charged at the current rate, billed to your monthly invoice. This notification service is currently available for the US, Canada and UK phone numbers.
+The Voice Call contacts cannot receive reports by mail.WWeb / The Web - Web or "the web" is short for World Wide Web.Web application - Web application is an application that is accessed over the Internet or an intranet. It is usually structured as a three-tiered application. In this form, a Web browser as the first tier sends requests to the middle tier - an engine using some dynamic Web content technology (such as ASP, ASP.NET, CGI, ColdFusion, JSP/Java, PHP, etc.), which services them by making queries and updates against a database - the third tier, and generates a user interface.Web site / Website - Web site or a website is a collection of interlinked and usually related Web pages, including multimedia content and a host page, residing at the same network location. A website can be accessed via a public IP network or a private local area network, by referencing the URL of the website.Web Transaction - Web transaction or just a transaction is a sequence of URLs combined into one complete process. Typical web transactions are when a customer logs in a member website, makes a purchase on a shopping site, fills in and submits a web form and performs other interactions with a website and web application. The WebSitePulse Transaction Monitoring allows customers to measure the experience of online users navigating through multiple steps of their websites.Website Defacement - A website defacement is the substitution of the original home page by a system hacker that breaks into a web server and alters the hosted website creating one of his own.WebSitePulse - A mission-critical subscription-based remote website, web server and web transaction monitoring service, providing accessibility, availability and performance monitoring with real time alert and reporting services for Internet-connected Web Systems. WebSitePulse will monitor up to every 1 minute virtually any TCP- or UDP-enabled Internet Web System, including but not limited to:
+# Web Sites
+# Web Servers (HTTP)
+# Secure Web Servers (HTTPS)
+# Domain Name Servers (DNS)
+# E-mail Servers (SMTP, POP, IMAP)
+# Telnet Servers (Telnet, SSH)
+# Custom Servers and Applications
+# Routers and Firewalls
+# Website content and forms
+# CGI, ASP, PHP and other Scripts
+# Secure Web Page Performance
+# E-business Web Transactions
+Be informed! Whenever your website becomes inaccessible, returns incorrect data, displays unauthorized contents, or responds slowly to connection requests,WebSitePulse will alert you within seconds of the event via email, Phone Call, SMS, cell phone, pager or instant messaging.WHOIS - WHOIS is a TCP-based query/response protocol which is widely used for querying a database in order to determine the owner of a domain name, an IP address, or an autonomous system number on the Internet.
+Use our free WHOIS tool to check that information about any domain name or IP address.World Wide Web / WWW - World Wide Web a.k.a. WWW is the set of all information (documents and other web resources) accessible using computers and networking and can be accessed via the Internet.XXML - XML stands for EXtensible Markup Language. It is a markup language that lets designers by defining set of rules to create their own customized tags to provide functionality not available with HTML.
+XML was designed to store and transport data and is both human- and machine-readable.
+XML is in a textual data format with strong support via Unicode for different human languages.A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+Services
+Server Monitoring
+Webpage Monitoring
+Web Transaction Monitoring
+Email Round-trip Monitoring
+Vulnerability Monitoring
+Blacklist Monitoring
+Certificate Monitoring
+Custom Monitoring
+Features
+Monitoring 24/7
+Alerting
+Reporting
+Error detection and verification
+Account Administration
+Monitoring Locations
+Support
+Pricing
+Popular pricing configurations
+Configure your own pricing
+Apps & Extensions
+Current Status
+Test Tools
+Transaction Recorder
+Site Recorder
+Free Tools
+Website Test
+Web Page Test
+Website Test behind the Great Firewall of China
+Hostname Test
+SPF Lookup Test
+Email Validation Test
+Port Scan Test
+PING Test
+Traceroute Test
+WHOIS Test
+About Us
+Management
+Testimonials
+Case Studies
+Press Releases
+In the News
+Billing Policy
+Service Agreement
+Latest News
+Partners
+Affiliates
+Contact Us
+Live chat 24/7
+Company Contacts
+Account
+Login
+Sign Up Now
+Help Center
+Knowledge Base
+FAQ
+Glossary
+How it works
+Performance reports
+Copyright 2000-2020, WebSitePulse. All rights reserved.
+Privacy Policy
+Terms & Conditions

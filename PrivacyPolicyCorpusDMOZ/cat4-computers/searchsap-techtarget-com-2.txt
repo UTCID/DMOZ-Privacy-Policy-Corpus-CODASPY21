@@ -1,0 +1,114 @@
+https://searchsap.techtarget.com/answer/How-can-SAP-Analytics-Cloud-help-boost-business-agility
+Fotolia
+Share this item with your network:
+By
+James Kofalt,
+DX4 Research
+Published: 27 Aug 2020
+2020 has turned out to be a year of massive disruption. SAP Analytics Cloud is meant to uncover insight within that.
+The new mandate is business agility, as we have seen drastic and immediate shifts in demand upward for some items and downward for others. Sales channels have likewise changed, as companies have struggled to shift their focus from brick-and-mortar to online -- or, in the case of the food industry, for example, to reconfigure product packaging to suit a sudden change in demand.
+Throughout all of this, reporting and analytics have played a critical role. Businesses in every industry have recognized the need to forecast early and often, to reassess frequently and to be prepared to adjust course abruptly.
+At the same time, though, much of the historic data that has driven predictive analytics is far less meaningful in the context of a dramatically changed world. In the new normal, analysts will need to ignore or discount much of the historic data that has informed their forecasts in the past and will need a sophisticated analytics tool to help. Companies running SAP's ERP software, whether ERP Central Component or S/4HANA, can look to SAP Analytics Cloud for some insight in this new normal.
+Built natively on SAP HANA Cloud Platform, SAP Analytics Cloud provides a comprehensive set of features. SAP Analytics Cloud combines predictive analytics, business intelligence and planning into a single cloud-based, AI-driven data visualization tool. Analytics Cloud is meant to support the rapid flow of information from back-office systems, Microsoft Office and other sources to the decision-makers relying on that information so they can act with agility. Business decision-makers and data analytics can visualize, plan and create predictions all from a single secure, cloud-based environment. Similar to Tableau, another enterprise analytics tool, Analytics Cloud is meant to deliver positive UX by putting those analytics in the hands of users.
+Let's consider a few of the pros and cons of SAP Analytics Cloud with respect to business agility:
+Integration. SAP provides the usual hooks into its suite of products, making it relatively easy to build storyboards around SAP-based data. Analytics Cloud offers access to on-premises and cloud data, including HANA, as well as non-SAP applications for on-premises and cloud locations.
+Collaboration. SAP's collaboration and discussion tools are meant to make it easy to share information, comment and solicit input from stakeholders throughout the organization.
+Ease of use for users. SAP does a nice job of making its cloud analytics easy to use. Having said that, SAP Analytics Cloud is a comprehensive product, and as such, it will demand significant attention from IT experts if a company is to get maximum value from it.
+The collaboration features of SAP Analytics Cloud are especially important amid all this uncertainty. At a time when companies cannot rely as heavily on historic data, it's beneficial to solicit input from multiple sources, capture that in a workflow process and feed it back to analytics.
+Recognizing that reporting and analytics play a critical role in management decisions, smart business leaders will take this opportunity to assess their capabilities and consider how well their current analytics strategies are working for them. SAP Analytics may help them to better understand the opportunities, costs and potential profitability of strategic and tactical shifts, in turn, fostering an environment of more successful business agility.
+Next Steps
+SAP ECC to S/4HANA migration: 4 essential issues
+15 examples of supply chain disruptions throughout history
+How is SAP Climate 21 meant to reduce CO2 emissions?
+Dig Deeper on SAP analytics software
+Clariba partners with SAP clients for intelligent enterprise
+By: Jim O'Donnell
+SAP ECC to S/4HANA migration: 4 essential issues
+By: Diann Daniel
+Have success with SAP C/4HANA on-premises-to-cloud migration
+By: Albert McKeon
+SAP extends Hana’s reach beyond enterprise applications
+By: Aaron Tan
+Related Q&A from James Kofalt
+Why are some SAP customers resisting S/4HANA?
+SAP has touted S/4HANA as the natural successor to ECC, but many customers are resisting the move. Here are some of the reasons why.
+Continue Reading
+Does SAP AMS offer technical and functional ERP support benefits?
+A number of companies offer SAP Application Management Services, which can help offload some of the administration duties required to manage SAP ERP....
+Continue Reading
+What are some SAP license optimization best practices?
+Optimizing SAP licenses is critical in today's insecure business landscape. Here are some best practices organizations can follow to lower costs and ...
+Continue Reading
+Sponsored News
+2020 Trends in Cloud Infrastructure
+–Dell Technologies
+Real-world use cases for FlashStack
+–Pure Storage
+Merge Old and New IT with Converged Infrastructure
+–Pure Storage
+See More
+Related Expert Q&A
+What are some SAP public cloud benefits for IT teams?
+– SearchSAP
+What are the differences, similarities between SAP ...
+– SearchSAP
+How can SAP tools help during a COVID-19 economic ...
+– SearchSAP
+Latest TechTarget resources
+ERP
+Oracle
+Data Management
+AWS
+Business Analytics
+Content Management
+HR Software
+SearchERP
+RACI matrix for project management success, with example
+A lack of clarity around roles and responsibilities is a common cause of project failure. A RACI matrix can help project managers...
+Unit4 ERP cloud vision is impressive, but can it compete?
+With the upcoming Unit4 ERPx, the Netherlands-based vendor is again demonstrating its ambition to challenge the market leaders in...
+Five keys to using ERP to drive digital transformation
+Digital transformation is critical to many companies' success and ERP underpins that transformation. Here's a look at how to make...
+SearchOracle
+Oracle Autonomous Database shifts IT focus to strategic planning
+This handbook looks at what Oracle Autonomous Database offers to Oracle users and issues that organizations should consider ...
+Oracle Autonomous Database features free DBAs from routine tasks
+Oracle Autonomous Database can automate routine administrative and operational tasks for DBAs and improve productivity, but ...
+Oracle co-CEO Mark Hurd dead at 62, succession plan looms
+Oracle co-CEO Mark Hurd's abrupt death at 62 has put the software giant in the position of naming his replacement, and the ...
+SearchDataManagement
+The top 6 use cases for a data fabric architecture
+Enterprise data fabric adoption has been on the rise as a way to ensure access and data sharing in a distributed environment. ...
+Varada accelerates data virtualization with Presto
+The new Varada Data Platform combines data virtualization with the open source Presto SQL query engine to help enable rapid ...
+SingleStore raises $80M for distributed SQL database
+Raj Verma, CEO of SingleStore, explains why the vendor rebranded from MemSQL and how its platform is more than just an in-memory ...
+SearchAWS
+How Amazon and COVID-19 influence 2020 seasonal hiring trends
+Retail and logistics companies must adapt their hiring strategies to compete with Amazon and respond to the pandemic's effect on ...
+New Amazon grocery stores run on computer vision, apps
+Amazon dives deeper into the grocery business with its first 'new concept' grocery store, driven by automation, computer vision ...
+Amazon's sustainability initiatives: Half empty or half full?
+Amazon's public perception and investment profile are at stake as altruism and self-interest mix in its efforts to become a more ...
+SearchBusinessAnalytics
+New ThoughtSpot tool advances embedded BI capabilities
+ThoughtSpot this week unveiled ThoughtSpot Everywhere, an embedded analytics platform in preview, and a host of features on its ...
+15 common data science techniques to know and use
+Data scientists use a variety of statistical and analytical techniques to analyze data sets. Here are 15 popular classification, ...
+Snowflake's Slootman predicts future of cloud analytics
+Cloud data platforms that effectively eliminate data silos and reduce the need for multiple tools will emerge over the next few ...
+SearchContentManagement
+How a content tagging taxonomy improves enterprise search
+Creating an enterprise taxonomy can help users more easily find the content they need when searching through files in a content ...
+Compare information governance vs. records management
+Information governance focuses on the framework a business must follow for managing information, while records management focuses...
+5 best practices to complete a SharePoint Online migration
+Moving from an on-premises system to SharePoint Online offers businesses new capabilities, such as Power Suite and site analytics...
+SearchHRSoftware
+Ultimate guide to recruitment and talent acquisition
+It's no longer good enough to recruit for tomorrow. You need to take a long view and build a workforce for the next stage of ...
+Employers face daunting COVID-19 vaccination questions
+COVID-19 has all but ensured offices will never fully return to normal. Now that vaccinations are here, HR will have to decide ...
+7 talent acquisition strategies for better hiring in 2021
+The war for talent could resume if the effects of the pandemic recede as expected in 2021. Be prepared with an engaging candidate...
+Close

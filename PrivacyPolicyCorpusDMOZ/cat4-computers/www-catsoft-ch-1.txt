@@ -1,0 +1,158 @@
+http://www.catsoft.ch/j/privacy
+Über uns
+CATTOR
+Plantool
+PowerBuilder
+Download
+Kontakt
+Über uns
+CATTOR
+Plantool
+PowerBuilder
+Download
+Kontakt
+Privacy Policy
+<span></span>
+<p class="n"><p><strong>For privacy reasons, we do not collect and store any personally identifiable information from visitors to our site.</strong></p> <h3><strong>User Statistics with StatCounter</strong></h3> <ul> <li>When a visitor requests pages from this site, our StatCounter servers automatically log the browser's domain name, and IP address. This information is collected solely for statistical purposes and is not used to identify individuals.</li> <li>To enable StatCounter.com to track your we send a cookie to your visitors' computer. This information is collected solely to improve the service we offer to you and statistical purposes and is not used to identify individuals.</li> </ul></p><br/>
+</div>
+</div>
+</div>
+<!-- end gutter -->
+</div>
+</div>
+<!-- end inner -->
+<div class="c">
+</div>
+<div class="footer-top bg-image g-font hidden">
+<div class="inner">
+<div class="gutter">
+<center>
+<!-- ************* style 1 ************* -->
+<a class="hs-button ghost-white round" href="http://www.matrix-themes.com/purchase" target="_top">Custom button</a>
+</center>
+<!-- don't edit the below part -->
+<div class="invisible matrix-msg">
+<center>
+you can edit this section directly in HTML ( templates &gt; custom template &gt; html )
+</center>
+</div>
+</div>
+<!-- end gutter -->
+</div>
+<!-- end inner -->
+</div>
+<!-- end footer-top -->
+<div class="c">
+</div>
+<div class="hs-footer form-dark style-dark color-white g-font color-hr mid-round-btn hidden">
+<div class="inner cc-clearover">
+<div class="gutter">
+<div class="hs-matrix">
+</div>
+<!-- end hs-matrix -->
+</div>
+<!-- end gutter -->
+</div>
+<!-- end inner -->
+</div>
+<!-- end footer -->
+</div>
+<!-- end footer -->
+<div class="footer-btm color-white">
+<div class="inner cc-clearover">
+<div class="gutter">
+<div id="contentfooter" data-container="footer">
+<div class="leftrow">
+<a href="//www.catsoft.ch/j/privacy">Privacy Policy</a> | <a id="cookie-policy" href="javascript:window.CookieControl.showCookieSettings();">Cookie Policy</a><br/>© 2019 CATsoft Development GmbH
+</div>
+<div class="rightrow">
+<span class="loggedin">
+<a rel="nofollow" id="logout" target="_top" href="https://cms.e.jimdo.com/app/cms/logout.php">
+Log out
+</a>
+|
+<a rel="nofollow" id="edit" target="_top" href="https://a.jimdo.com/app/auth/signin/jumpcms/?page=2031249797">Edit</a>
+</span>
+</div>
+</div>
+</div>
+<!-- end gutter -->
+</div>
+<!-- end inner -->
+</div>
+<!-- end footer btm -->
+</div>
+<!-- end global -->
+<!-- end container -->
+<a href="#0" class="cd-btn hs-button">Matrix themes</a>
+<div class="cd-panel from-left">
+<header class="cd-panel-header">
+<h1>
+Matrix themes
+</h1>
+<a href="#0" class="cd-panel-close">Close</a>
+</header>
+<div class="cd-panel-container">
+<div class="cd-panel-content">
+<!-- ************* Vimeo Popup ************* -->
+<div class="invisibleh">
+<a class="popup-vimeo" href="http://www.matrix-themes.com/support/documentation/" title="">Documentation</a><br/>
+<br/>
+<a class="popup-vimeo" href="http://www.matrix-themes.com/support/quick-setup/" title="">Quick setup</a><br/>
+<br/>
+<a class="popup-vimeo" href="https://flatuicolors.com/" title="">Select a color</a><br/>
+<br/>
+<a class="popup-vimeo" href="http://fontcdn.org/" title="">Select a font</a><br/>
+<br/>
+<a class="popup-vimeo" href="http://www.matrix-themes.com/support/shortcodes/" title="">Shortcodes</a><br/>
+<br/>
+<a class="popup-vimeo" href="http://www.matrix-themes.com/support/helper-classes/" title="">Helper classes</a><br/>
+<br/>
+<a class="popup-vimeo" href="http://www.matrix-themes.com/support/updates" title="">Updates</a><br/>
+<br/>
+<a class="popup-vimeo" href="http://www.matrix-themes.com/support/help/" title="">Help</a><br/>
+<br/>
+</div>
+<!-- ************* End Vimeo Popup ************* -->
+</div>
+<!-- cd-panel-content -->
+</div>
+<!-- cd-panel-container -->
+</div>
+<!-- cd-panel -->
+<!--
+<div id="overlay-left">
+<img src="https://u.jimcdn.com/cms/o/s4107b8c8124c6223/userlayout/img/teamcatsoft.png?t=1480914942" alt="Team CATsoft" />
+<p class="g-font size-13 color-white">
+CATsoft&#160;sponsort&#160;ein&#160;Team&#160;an&#160;der Track&#160;Cycling&#160;Challenge&#160;in&#160;Grenchen
+</p>
+</div>
+-->
+<div id="overlay-left">
+<a href="http://www.appeon.com/" target="_blank"><img src="https://u.jimcdn.com/cms/o/s4107b8c8124c6223/userlayout/img/appeon-consulting-badge.png?t=1500716494" alt="Appeon" width="200"/></a>
+</div>
+<div id="overlay-right">
+<a href="http://www.cattor.swiss/" target="_blank"><img src="https://u.jimcdn.com/cms/o/s4107b8c8124c6223/userlayout/img/cattorlogosmall.png?t=1457114332" alt="Enterprise Service Management" width="200"/></a>
+</div></div>
+<script type="text/javascript">
+//<![CDATA[
+var _gaq = [];
+_gaq.push(['_gat._anonymizeIp']);
+if (window.CookieControl.isCookieAllowed("jimdo_analytics")) {
+_gaq.push(['b._setAccount', 'UA-24232327-109'],
+['b._setCustomVar', '1', 'websiteid', 's4107b8c8124c6223'],
+['b._setDomainName', 'none'],
+['b._setAllowLinker', true],
+['b._trackPageview']);
+}
+if (window.CookieControl.isCookieAllowed("jimdo_analytics") || window.CookieControl.isCookieAllowed("ga")) {
+(function() {
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
+ga.async = true;
+ga.src = 'https://www.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+}
+//

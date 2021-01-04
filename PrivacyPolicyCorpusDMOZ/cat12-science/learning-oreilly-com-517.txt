@@ -1,0 +1,28 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch18s02.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Protecting Your DNSAll of the redundancy in the world won’t keep your web site
+accessible on the Internet if potential users type in your domain name
+and it isn’t properly translated to the IP address of your servers.
+Having a Domain Name Server (DNS) that is reliable and accurate
+is a prerequisite for a reliable web site. Nevertheless, DNS issues
+are commonly overlooked by many organizations.There are many reasons DNS does not get the attention it
+deserves:Managers and executives do not understand what DNS does, how
+it works, and why it is important.Because DNS normally functions rapidly and reliably, DNS
+breakdowns are all the more confusing, unfamiliar, and difficult
+to diagnose.As most ISPs do not explicitly charge for providing DNS
+service, many users conclude that it must either be simple to
+provide or not be worth very much.As we discussed in Chapter
+2, DNS is a large distributed database that translates
+hostnames (e.g., www.vineyard.net) into IP
+addresses (e.g., 204.17.195.100.) When DNS is functioning properly,
+incoming queries to your nameserver are rapidly replied to with the IP
+address of your service. Responses contain an assortment of
+information and an expiration time, better known as a time
+to live (TTL). DNS answers are designed to be cached: if a thousand customers of Earthlink in San Jose all try to access your web site one afternoon, chances are good that your DNS server will see only a single query from Earthlink; the remaining 999 users get their answer from ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

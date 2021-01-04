@@ -1,0 +1,284 @@
+http://www.metavr.com/howtobuy/license_agreement_policy.html
+Skip to main content
+MetaVR Policy on End User Software License Agreement
+METAVR POLICY ON SOFTWARE END USER LICENSE AGREEMENT
+All MetaVR software products include our standard software end user license and warranty agreement (EULA). Each unique installation of our software requires acceptance of the current license agreement. MetaVR requires that the end-user acknowledge and confirm their acceptance of our license agreement by clicking the acceptance button during the software installation and during the initial use of the software on a particular computer system.
+MetaVR also requests that the current license and warranty agreement be signed by an authorized representative of the buyer and that a counter-signed copy is in place with both the buyer and MetaVR. If the software license will be transferred to a legitimate third party from a transaction between the buyer and MetaVR, the third party must acknowledge that they have the right to enter into this agreement by clicking the acceptance button of the software license agreement during the software installation.
+For more information please see Software Maintenance and Technical Support.All policies on this page are subject to change without notice.
+Download EULA
+METAVR, INC. LICENSE AGREEMENT
+Version 43892 (April 2, 2020)
+DO NOT INSTALL THIS SOFTWARE UNLESS YOU HAVE READ, UNDERSTOOD AND AGREE TO THESE TERMS
+MetaVR®, Inc. (“MetaVR”), a Massachusetts corporation, is supplying a copy of its VRSG™, Scenario Editor or Terrain Tools software to You (as that term is defined below) on the terms set forth herein and in the Purchase
+Order (as defined below). This License Agreement is entered into as of the date first written above between MetaVR and the undersigned licensee (“you”), with an address indicated below your signature line. Now, therefore, you and MetaVR agree as follows:
+Article 1
+DEFINITIONS:As used herein:
+“Additional Materials” means software, libraries and databases other than VRSG, Scenario Editor or Terrain Tools or Updates to either VRSG, Scenario Editor or Terrain Tools, including, without limitation, MDS Read API, MDX Read API and the MetaVR Viewpoint Protocol.
+“Authentication Files” means the files in .C2V, .V2C or .A2C format that are exchanged in the course of a License Authentication or the reinstallation of the Software onto another computer.
+“Data Files” means data files created or supplied by MetaVR under a Purchase Order or as Additional Materials or created by you or MetaVR as part of the License Authentication process.
+“Demonstration Video” includes any visual display involving VRSG, Scenario Editor or Terrain Tools or the Data Files that can be viewed by a third party, whether hosted on a public server, circulated in a format that permits individual viewing, or demonstrated at your facility or that of a third party.
+“Documentation” means documentation published by MetaVR describing the functions and operation of the Software.
+“Dongle ID” means a unique digital identifier of a physical dongle transmitted as part of the authentication process described in Section 2.02.
+“Initial Maintenance Term” is a one year term beginning on the date on which you first receive a long-term License Authentication or, if different, the maintenance term is specified in the Purchase Order.
+“License Authentication” means the authentication described in section 2.02 below.
+“License ID” means a unique digital identifier of a physical computer installation transmitted as part of the authentication process described in Section 2.02.
+“Maintenance Term” means the Initial Maintenance Term as it may be extended from time to time pursuant to Section 3.04.
+“Materials” means the Software and related Documentation.
+“Proprietary Data Files” means Data Files provided in any proprietary data format of MetaVR, including without limitation data provided in the .VIR, .MDY, .MDX, .MDS, .HPZ, .HPY, .HPX, .TEX, .C2V, .V2C and/or .A2C format.
+“Purchase Order” means the purchase order, quotation or online order form pursuant to which you have agreed to purchase and MetaVR has agreed to sell licenses of Software.
+“Refresh” A License Authentication may be “Refreshed” if your transfer your Software to a new computer or request the right to use additional Software features beyond those in your original Purchase Order. This refreshing may take the form of reprogramming of a dongle or the exchange of new Authentication Files.
+“Scenario Editor” means MetaVR’s VRSG Scenario Editor software product.
+“Software” means the MetaVR software (which may include VRSG) identified in the Purchase Order and any entity libraries, Data Files, upgrades, updates, new releases, versions, corrections or revisions thereto which MetaVR makes or has previously made available to you.
+“Terrain Tools” means MetaVR’s Terrain Tools for Esri ArcGIS software product.
+“Updates” means updates, upgrades and new releases and subreleases of VRSG, Scenario Editor or Terrain Tools software product.
+“VRSG” means MetaVR®’s Virtual Reality Scene Generator™ software product.
+“You” means the legal entity or governmental agency on behalf of which the user of this copy of VRSG, Scenario Editor or Terrain Tools is acting in installing and using this copy of VRSG, Scenario Editor or Terrain Tools. This definition applies even when “you” appears with a lower case ‘y’.
+Article 2
+LICENSE
+Section 2.01
+Grant.
+MetaVR grants you a non-exclusive license (i) to install the Materials onto a computer under your control, whether the computer is accessed directly or over a private network and when installed over a private network, and (ii) for you or your employee (and, if you are an accredited college or university, your students) to use the Data Files and Software so installed for your own internal business, operational or educational purposes, provided, however that the Data Files and Software may only be run or otherwise used on a computer that has been authenticated, as described in Section 2.02.
+Section 2.02
+Authentication.
+Authentication of a computer may occur either as a result of an exchange of Authentication Files or by your use of a dongle obtained from MetaVR. If your Purchase Order refers to authentication by means of Authentication Files, the exchange of Authentication Files will occur when you install the Software on a computer. As part of the installation process, the Software will collect and compile unique identity information of the physical computer either (i) into a .C2V file, or (ii) into a License ID output to the computer’s video display, to be transmitted via email to MetaVR. Upon receipt of the .C2V file or the License ID code, MetaVR will create and send by reply e-mail either a .V2C or .A2C Authentication File which you will be able to use to complete the authentication process. For users whose authentication is to be done by means of dongle(s), MetaVR will provide the number of dongles stated on the Purchase Order. An individual dongle may not be used by more than a single user or on more than a single computer simultaneously. As part of the installation process, you will be prompted to send the applicable Dongle ID(s) via email to MetaVR. Upon receipt of these Dongle ID(s), MetaVR will send by reply email an unlock code for each dongle for which a Dongle ID has been received. You will be able to use these unlock code(s) to complete the authentication process. MetaVR’s transmission to you of the unlock code for a dongle will trigger the commencement of the Initial Maintenance Term for the copy of VRSG, Scenario Editor or Terrain Tools to which it is related. Although MetaVR may provide you with temporary License Authentication (which may involve a temporary unlock code for a dongle or a .A2C or .V2C authentication file with a temporary duration), MetaVR shall have no obligation to extend any such temporary License Authentication or provide you with a permanent License Authentication unless and until you have paid in full for the Software and any other services or materials identified in the Purchase Order. Accordingly, your use of the Software may be interrupted until such payment has actually been received by MetaVR.
+Section 2.03
+Restrictions.
+You may not do or permit any other party to do any of the following:
+a) Use the Materials other than as specifically permitted in this Agreement;
+b) Operate the Software for use by, or make the Data Files available to, persons other than those described in clause (ii) of Section 2.01 or more concurrent users than the number of licenses that you have purchased;
+c) Permit simultaneous use of the Materials by more users than are authorized by the License Authentication, whether over a computer network, or on a virtual or emulated computer or otherwise;
+d) Attempt to (a) alter, merge, modify, adapt, or translate the Software (including without limitation any Proprietary Data Files but excluding Data Files that are not Proprietary Data Files), (b) decompile, reverse engineer, disassemble, derive, or otherwise reduce the Software to a human perceivable form, or (c) develop any software that would permit an end user to read or access the Proprietary Data Files. The parties understand that, as used herein, the term “reverse engineer” shall include, without limitation, any use of benchmarking information or incremental output from the Software to determine MetaVR source code, algorithms or data format, or for the purpose of recreating the Software (including without limitation any MetaVR Files) or creating software or files substantially similar thereto;
+e) Bypass the copy protection code or any other technological measure that controls access to the Software or Materials;
+f) Make copies of the Materials other than one copy for back-up or archival purposes or use a back-up copy other than as a replacement for the original copy. You must include on any back-up copy all copyright and other notices included on the Materials;
+g) Export, re-export or use the Materials or any copy thereof in violation of the export control laws of the United States of America or any other country;
+h) Use any dongle or Authentication File supplied to you by MetaVR in connection with the license of the Software in any manner other than in connection with the use of the Materials as permitted hereunder;
+i) Use the Software to test or analyze the performance or user interface of the Software in order to develop or improve a product which competes with the Software;
+j) Publish or provide to third parties performance characteristics relating to the Materials without the express written consent of MetaVR;
+k) Demonstrate the Materials in public or private forums without using (i) a platform that provides the Software sufficient performance capacity to operate at peak capacity, and (ii) the most recent versions of any Software and Data Files;
+l) Use or circulate any Demonstration Video without first obtaining the approval of MetaVR, which approval MetaVR may withhold if it reasonably determines that the Demonstration Video will not correctly reflect the peak performance of the Software and Data Files;
+m) Publish or provide this document to third parties in electronic or printed form;
+n) Create or distribute derivative works based upon the Software or Materials (including without limitation databases derived from files provided to you by MetaVR).
+Section 2.04
+Updates to License Agreement.
+If you renew, revive or extend the Maintenance Term, Refresh your License Authentication, or request and receive any Updates or Additional Material, you may be prompted to accept the then-current version of this Agreement, which if accepted shall apply to all Materials licensed hereunder. You will not be able to use Updates or Additional Material or extend or revive the Maintenance Term without accepting the then-current version of this Agreement unless MetaVR then expressly permits it (which it may refuse in its absolute discretion), but any extension of the Maintenance Term previously paid for will continue in effect under the existing Agreement until it expires.
+Section 2.05
+Ownership and Copyright.
+Title and copyright to the Materials (including, without limitation, any databases, libraries, images, “applets”, photographs, animations, video, audio or music and text incorporated therein and any hardware keys provided in connection therewith) and all copies thereof remain with MetaVR and/or its licensors. The Materials are copyrighted and are protected by United States copyright laws and
+international treaty provisions. You may not remove the copyright and other proprietary rights notices from the Materials. You agree to prevent any unauthorized copying of the Materials. Except as expressly provided herein, MetaVR does not grant any express or implied right to you in the Materials or under the patents, copyrights, trademarks, or trade secret information of MetaVR or its licensors.
+Article 3
+MAINTENANCE AND SUPPORT
+Section 3.01
+Initial Support.
+Except as you and MetaVR may otherwise have mutually agreed in writing, MetaVR will provide technical support and maintenance in connection with your use of the Materials during the Initial Maintenance Term. If MetaVR later provides you with any subsequent License Authentication (as may arise if the Software is transferred to a replacement computer, or MetaVR provides you with a replacement dongle or any new unlock code for a dongle), your subsequent License Authentication shall not restart or extend the Maintenance Term. If you have purchased multiple seats of the Software and have therefore received multiple License Authentications, the Materials accessed with each License Authentication will have a separate Maintenance Term, based on the date on which MetaVR first provides you with a long-term License Authentication for the applicable copy of the Software. Upon the expiration or termination of the Maintenance Term, MetaVR will have no obligation to provide maintenance or support for the Materials. MetaVR may temporarily suspended its support in the event of interruptions beyond its reasonable control, such as may arise in the event of flood, earthquake, terrorist attack, failure of third party communications systems and the like.
+Section 3.02
+Nature of Support.
+All maintenance and support will be provided remotely during MetaVR’s normal business hours. The maintenance and support provided by MetaVR hereunder will consist of:
+(a) responding promptly via e-mail during the Maintenance Term to any questions regarding reports of errors or defects in the Software;
+(b) providing assistance via e-mail and telephonically during the Maintenance Term relating to the installation and use of the software;
+(c) if you first received the Materials electronically, permitting you to re-install the Materials electronically on the same or a different computer until the end of the Maintenance Term or, if longer, until the fifth anniversary of the end of the Initial Maintenance Term. However, if you extend the Maintenance Term beyond six years, MetaVR reserves the right to provide you with a later version of the Materials than the version that was specified in your Purchase Order; and
+(d) providing access during the Maintenance Term to (1) any “Additional Materials” generally released to MetaVR’s customers, (2) error corrections (i.e. patches) and updates intended to fix reported errors, and (3) all product updates, upgrades and enhancements to the Software that MetaVR generally releases to its customers during the Maintenance Term. If you request that MetaVR perform maintenance or support on site at your premises or outside normal business hours, you will be responsible for all reasonable expenses incurred by MetaVR in connection with performance thereof and MetaVR reserves the right to charge its then prevailing rates per hour of service provided, or to refuse to provide such service.
+Section 3.03
+Exclusions and Limitations.
+MetaVR’s maintenance and support obligations do not include: custom programming, training, implementation, database changes or support, product upgrades for which MetaVR generally imposes a separate price or fee, any requests for content revisions or changes of any kind, or any other matters not specifically covered hereunder. In addition, the provision of maintenance or support hereunder is subject to commercial availability and technological compatibility and the absence of any actual or threatened litigation between you and MetaVR. MetaVR provides no guarantee that the Software or any upgrades or updates to the Software provided pursuant to this Maintenance Agreement will function or perform when used on equipment that does not conform to the specifications indicated in the documentation relating thereto. MetaVR shall have no obligation to provide maintenance or support if you use or attempt to use the Software with hardware that fails to meet the minimum requirements indicated in the Documentation or otherwise modify, revise or transfer the software other than as permitted herein or without MetaVR’s prior written permission.
+Section 3.04
+Extension of Maintenance Term.
+At any time before the expiration of the Maintenance Term associated with a particular copy of the Software, you may extend such Maintenance Term for successive one (1) year terms, provided, however, that such extensions shall no longer be available or applicable if MetaVR has generally discontinued maintenance of the licensed version of the Software (in which case MetaVR shall refund any amounts that you have already paid for extensions that have not yet commenced). For each annual extension of the Maintenance Term associated with a copy of the Software, you shall pay MetaVR the applicable maintenance fee set forth in the Purchase Order for extension of the Maintenance Term or, if an applicable maintenance fee is not specified, the price then generally charged by MetaVR for the maintenance and support services described herein. All payments for extensions purchased hereunder must be received by MetaVR before the expiration of the then current Maintenance Term.
+Section 3.05
+Termination of Maintenance Term.
+The Maintenance Term will terminate automatically in the event that you (a) breach any term of this Agreement (including without limitation any payment obligation contained herein), or (b) violate or infringe any of MetaVR’s intellectual property in any manner unless such proposed termination is governed by the Contract Disputes Act of 1978, in which case MetaVR may pursue its rights in the manner prescribed in that Act and the regulations promulgated thereunder.
+Section 3.06
+Effect of Termination or Expiration.
+The Software and any updates, upgrades and enhancements thereto that are installed during the Maintenance Term will continue to be accessible after the expiration or termination of the Maintenance Term. However, even though you may be able to download and install product updates, upgrades and enhancements to the Software after the expiration or termination of the Maintenance Term, these updates, upgrades and enhancements will not function on your computer unless and until you have revived and reinstated the Maintenance Term as described below.
+Section 3.07
+Revival.
+In the event that you wish to receive maintenance and support after the expiration or termination of the Maintenance Term, you may request that the Maintenance Term be revived and reinstated for a new one (1) year term. MetaVR may, accept or refuse such a request in its sole and absolute discretion. Upon notice that MetaVR has agreed to revive the Maintenance Term, you shall pay to MetaVR a maintenance fee at its then-applicable rates for (a) the one (1) year term commencing as of the date when MetaVR receives the payment and (b) any gap period (measured in months) between the end of the expired or terminated Maintenance Term and the commencement of the newly revived one-year term described in clause (a).
+Article 4
+SAFEKEEPING OF DONGLES AND AUTHENTICATION FILES
+If you have been provided a dongle or an Authentication File format in connection with your license of Software, the safekeeping of the dongle or Authentication Files is your responsibility. MetaVR has no responsibility to replace a dongle or Authentication Files that has been lost. For that reason, MetaVR strongly recommends that you back up your .A2C or .V2C files to a separate storage device and retain that backup file for archival purposes. MetaVR will however replace a damaged dongle if you physically return it (including the casing with identifiable labeling and all mechanical and electrical parts) to MetaVR in a manner sufficient to allow MetaVR to troubleshoot any damage thereto and confirm to MetaVR’s satisfaction that there has been no attempt to use the dongle in a manner not permitted under this Agreement.
+Article 5
+Section 5.01
+LIMITED WARRANTIES; DISCLAIMERS; REMEDIES; INDEMNITY
+Limited Warranties. MetaVR warrants that:
+(a) The Software will perform substantially in accordance with the technical functionality set forth in the Documentation during the Maintenance Term; and
+(b) Any physical media on which the Materials are delivered will be free from defects in material and workmanship that will prevent you from loading the Software on your computer for a period of sixty (60) days from the date of shipment to you.
+These warranties shall be null and void in the case of any defect caused by any of the following: (i) modification of the Materials by any party other than MetaVR; (ii) use of the Materials with hardware or software other than that supplied or recommended by MetaVR; (iii) other improper or unauthorized use of the Materials by you; (iv)
+failures or defects in third party software or hardware; or (v) external factors such as, but not limited to, power failures or electrical surges.
+Section 5.02
+Remedies.
+If the Software fails to perform substantially in accordance with the Documentation, your sole remedy is to initiate a technical support ticket by contacting MetaVR at support@metavr.com; and MetaVR’s sole obligation will be to provide reasonable commercial efforts to resolve the issue to your satisfaction in accordance with Section 3.02. Your sole and exclusive remedy with respect to any defective media shall be the right to return such media to MetaVR, and MetaVR’s sole liability to you shall be the replacement of any defective media.
+Section 5.03
+DISCLAIMERS.
+EXCEPT AS SET FORTH ABOVE, THE MATERIALS ARE PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF SATISFACTORY QUALITY, MERCHANTABILITY, NONINFRINGEMENT OF THIRD-PARTY INTELLECTUAL PROPERTY, OR FITNESS FOR ANY PARTICULAR PURPOSE. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, NO WARRANTY IS MADE THAT THE ENCLOSED SOFTWARE WILL GENERATE COMPUTER PROGRAMS WITH THE CHARACTERISTICS OR SPECIFICATIONS DESIRED BY YOU OR THAT THE MATERIALS WILL BE ERROR-FREE. THE WARRANTY PROVIDED HEREIN DOES NOT EXTEND TO ANY HARDWARE PURCHASED FROM METAVR. ANY SUCH WARRANTY MUST BE PROVIDED IN A SEPARATE WRITING. THESE DISCLAIMERS OF WARRANTY CONSTITUTE AN ESSENTIAL PART OF THIS AGREEMENT.
+Without limiting the foregoing, MetaVR provides no guarantees that the Software or any upgrades or updates to the Software provided as part of the maintenance and support described below will function or perform when used on equipment that does not conform to the specifications indicated in the Documentation relating thereto. Because certain jurisdictions prohibit the waiver of certain warranties, the above disclaimer may not apply to you and you may have additional legal rights that vary by jurisdiction.
+Section 5.04
+LIMITATION ON LIABILITY.TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL METAVR OR ANYONE ELSE WHO HAS BEEN INVOLVED IN THE CREATION OF THE MATERIALS BE LIABLE FOR ANY DAMAGES OR LOSSES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DIRECT OR INDIRECT DAMAGES, INCIDENTAL OR CONSEQUENTIAL DAMAGES, DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION AND/OR LOSS OF DATA), WHETHER ARISING IN TORT, CONTRACT OR OTHERWISE, ARISING OUT OF THE USE OF OR INABILITY TO USE THE MATERIALS, EVEN IF METAVR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN ANY CASE, METAVR’S ENTIRE LIABILITY HEREUNDER SHALL BE LIMITED TO THE AMOUNT ACTUALLY PAID FOR THE MATERIALS. Because some jurisdictions prohibit the exclusion or limitation of liability for damages, the above limitation may not apply to you and you may have other legal rights that vary by jurisdiction.
+Section 5.05
+Indemnity of MetaVR.
+(a) Commercial Customers. If you are not an agency of the United States Government, you agree to indemnify MetaVR and its affiliates against any loss, liability or expense (including reasonable legal fees) it incurs arising out of or in connection with any breach or violation of the terms of this Agreement by you or your use of the Materials.
+(b) Purchases By U.S. Government. If you are the United States government or an agency thereof, then you authorize and consent to all use and manufacture, in performing this license, of any invention described in and covered by a United States patent,
+(1) Embodied in the structure or composition of any article the delivery of which is accepted by the Government under this contract; or,
+(2) Used in machinery, tools, or methods whose use necessarily results from compliance by MetaVR with (i) specifications or written provisions forming a part of this contract or (ii) specific written instructions given by the Contracting Officer directing the manner of performance. The entire liability
+to the Government for infringement of a United States patent shall be determined solely by the provisions of the indemnity clause, if any, included in this license, and you assume liability for all other infringement to the extent of the authorization and consent hereinabove granted.
+Article 6
+CONFIDENTIALITY
+You agree that the Materials, the object and source code of the Software, the algorithms used by the Software, the performance characteristics of the Software, and the algorithms and functioning of any dongles or Authentication Files provided to you in connection therewith (collectively, the “Confidential Information”) are or contain the confidential and proprietary information and trade secrets of MetaVR and that MetaVR is providing the Materials to you in confidence. You shall not and you shall not permit others to reverse engineer the Software (including by analysis of benchmarking or output information) or to access the source code, algorithms or performance characteristics of the Software, the dongles or the Authentication Files. In addition, you agree (i) to preserve in strictest confidence all Confidential Information, (ii) not to disclose the Confidential Information to any third party except as expressly permitted herein, (iii) only to disclose the Confidential Information within your business organization to those employees (and, if you are an accredited college or university, your students) who have first agreed to be bound by the terms and conditions substantially similar to those contained herein, (iv) not to disclose any Confidential Information to any agents, contractors or consultants except if such disclosure is related to the authorized use of the Materials hereunder and after having received a commitment from such agents, contractors or consultants to be bound by substantially similar obligations with respect to such information as you are hereunder, and (v) not to use the Confidential Information for any reason except in connection with the authorized use of the Materials. You shall be responsible and liable for any unauthorized disclosure, publication or dissemination by any of your employees, students, agents or contractors of any Confidential Information. Confidential Information shall not include any information which: (a) you possess prior to the receipt hereof without obligation of confidentiality; (b) you rightfully receive from a third party without any obligation of confidentiality to such third party, and which such third party received without any obligation of confidentiality, direct or indirect, to MetaVR; or (c) is or becomes publicly available lawfully and without breach of any obligation to MetaVR by you. You may disclose Confidential Information if such disclosure is required under the terms of any statute, regulation, order, subpoena or document discovery request, provided that prior written notice of such disclosure is furnished to MetaVR as soon as practicable in order to afford MetaVR an opportunity to seek a protective order or otherwise contest or restrict such required disclosure. The parties agree to cooperate fully to limit disclosure in the event of any apparent legal requirement that Confidential Information be disclosed.
+Article 7
+TRANSFER AND ASSIGNMENT
+Section 7.01
+Transfer or Assignment by Licensee.Except as otherwise permitted by law or expressly permitted herein, you may not transfer or assign this Agreement or the Materials to another person without the prior written permission of MetaVR, except:
+(i) if the Purchase Order identifies a U.S. Department of Defense (“DOD”) contract in furtherance of which you have ordered the Materials, this license may be transferred to any other DOD contractor who needs the Materials in furtherance of a DOD contract or to the United States government agency for which the contract is being performed,
+(ii) in connection with the sale of all or substantially all of your assets, this license may be transferred to the purchaser, and
+(iii) if you are acting as a systems integrator for an end user identified in the Purchase Order, this license may be transferred to the end user;
+provided, however, that (x) you are then in compliance with your payment obligations under any related Maintenance Agreement then in effect with respect to the Materials, and (y) the transferee provides MetaVR with:
+(A) an unqualified, written acceptance of the terms of this License and any related maintenance agreement fifteen (15) days after the transfer (and, for transfers pursuant to clause (i), identifying the DOD contract for which the Materials are required), and
+(B) the name, address, telephone number and e-mail address of an employee of the transferee authorized to communicate with MetaVR in connection with this License and any related maintenance agreement.In no case shall the Software and Materials or any related dongle or Authentication File be knowingly or intentionally licensed, transferred or assigned to terrorist sponsored organizations or to organizations which primarily reside within terrorist countries as defined by the United States of America Department of State.Any transfer made pursuant to this Section must include all of the Software and Materials and any related dongle and Authentication Files. You shall be solely responsible for any transfer being in compliance with United States export laws and regulations. Upon a transfer in compliance with this Section, the transferee shall thereafter be solely responsible for compliance with the terms of this license agreement (except for any breach or violation which predates the transfer, for which you shall remain responsible) and you will have no further obligation to indemnify MetaVR hereunder except with respect to your use of the Materials prior to the transfer. If you are acting as a systems integrator for an end user, you may only use the Materials to develop, install and support the systems for the end user and not for any other purpose.
+Section 7.02
+Transfer to Another Computer.If you wish to transfer the Software from one of your computers to another, the process involved will depend upon your method of authentication. If you have a hardware dongle, you may install that dongle in the new computer and install the Software on it. If you authenticated by means of Authentication Files, you may (i) transfer the hard drive containing the Software from your old computer to your new one, or (ii) reinstall the Software on a new hard drive by requesting permission to effectuate such a transfer in an e-mail to MetaVR, which may impose a fee for permitting such a transfer. If MetaVR permits such a transfer, it will instruct you as to how to generate a License ID or .C2V file that will deinstall the Software from the original computer. You must then send a License ID or .C2V cancellation receipt that will be generated as part of the de-installation process to MetaVR by e-mail, and MetaVR shall (upon your payment of any fee required as part of the transfer process) generate a new .A2C or .V2C Authentication File for your use in installing the Software on the replacement computer. If you are unable to generate a new License ID or .C2V file (which may happen if, for example, your original computer has become lost, stolen or inoperable) then you may be unable to reinstall the software on a new computer other than by using the old hard drive on the new computer.
+Section 7.03
+Transfer by MetaVR.MetaVR may not assign its rights and delegate its duties hereunder without your prior consent, which you may not unreasonably withhold, condition or delay, except that MetaVR may freely assign its rights and delegate its duties hereunder to a purchase of substantially all of its assets or to a merger partner in a merger in which MetaVR is not the surviving entity. After such an event, MetaVR shall have no further obligation to you hereunder except to provide you, or to cause its successor to provide you, with notice of the transaction within 30 days of its occurrence.
+Article 8
+SUPPLEMENTAL LICENSE TERMS
+Section 8.01
+Additional Materials.In certain cases MetaVR, in its sole and absolute discretion, may provide Additional Materials to customers with whom MetaVR has an active maintenance relationship, as part of the maintenance and support provided to such customers in connection with their use of the Materials. Such Additional Materials that are provided to you are provided under a license that is revocable by MetaVR at will, with or without cause, in its sole and absolute discretion. Upon request by MetaVR, you agree, within five (5) days of receiving such request, to return to MetaVR all of your copies of the Additional Materials, destroy all electronic copies of the Additional Materials in your possession or control, and take such additional actions as MetaVR may reasonably request to ensure that no copies of the Additional Materials remain in your possession and control. Except that the license to such Additional Materials is terminable by MetaVR at will, and except as may be otherwise agreed in writing by MetaVR, the Additional Materials and the use thereof are (i) subject to all of the provisions and restrictions contained in this license as “Software” and (ii) provided solely for the
+purpose of integration with systems that use VRSG, Scenario Editor or Terrain Tools. Notwithstanding clause (i) in the prior sentence, Additional Materials that are designed to be operated on a network server to which computers running VRSG, Scenario Editor or Terrain Tools are connected are not subject to the license restrictions set forth herein pertaining to use on networks unless MetaVR provides a separate License Authentication for use with such Additional Materials.
+Section 8.02
+Third Party Materials.MetaVR may include among the Materials or Additional Materials software, libraries or databases provided by third parties (“Third Party Materials”). Although MetaVR makes these Third Party Materials available for your convenience, in certain cases you will not be able to use or access specific Third Party Materials with, or as part of, the Software until you have first accepted specific terms and conditions provided by the owner of such Third Party Materials (e.g., by executing a clickwrap or license agreement). Your use of any Third Party Materials provided by MetaVR will be subject to both the terms of this Agreement and any terms and conditions provided by the owner of such Third Party Materials.
+Section 8.03
+U.S. Government Restricted And Limited Rights.The Materials have been developed entirely at private expense and have been sold and offered for sale to non-governmental customers. The Software is "commercial computer software" as defined in DFARS 252.227-7014 (Feb. 2012) and in FAR 2.101(a), and "restricted computer software" as defined in FAR 27-401 (Oct. 2014) (or any equivalent agency regulation or contract clause). The Materials comprising computer software are provided with the rights set forth in FAR 52.227-19 (November 2007). The Materials comprising technical data are pre-existing technical data developed entirely at private expense and, are provided with the rights described in DFARS 252.227-7015(b) (Feb. 2014). The foregoing grants of Restricted and Limited Rights are only for the benefit of the United States government and its contractors and, in their hands, override any inconsistent restrictions set forth elsewhere in this License Agreement. The Materials may only be sold or transferred to an agency or instrumentality of the United States Government under prime contracts that effectively incorporate restrictions on government use, reproduction, or disclosure no less protective of MetaVR than the foregoing and any other attempted sale is null and void. Use, reproduction, or disclosure of the Materials by the government or its agents or contractors is subject to the restrictions set forth herein and/or therein, as applicable. Contractor and manufacturer are MetaVR, Inc., 80 Somerset Road Brookline, MA 02445-4514. Use of the Materials by the United States government constitutes acknowledgment of MetaVR's proprietary rights in them.
+Article 9
+TERMINATION
+Upon any material violation of any of the provisions of this Agreement, your right to use the Materials shall automatically terminate without reimbursement and you shall be obligated, within thirty (30) days of receiving a notice of termination of this license from MetaVR, to return to MetaVR all of your copies of the Materials and any hardware keys provided to you in connection therewith, destroy all electronic copies of the Materials and Authentication Files in your possession or control, and take such additional actions as MetaVR may reasonably request to ensure that no copies of the Materials or Authentication Files remain in your possession and control. However, the foregoing shall not apply if the matter constitutes a dispute governed by the Contract Disputes Act of 1978, in which case MetaVR may pursue its rights in the manner prescribed in that Act and the regulations promulgated thereunder.
+Article 10
+GENERAL
+Section 10.01 Complete Agreement.This Agreement, the manually signed license agreement between you and MetaVR (if any) and the Purchase Order constitute the entire agreement between you and MetaVR and supercedes all representations, understandings and other agreements between the parties with respect to the subject matter described herein or therein. In the event of an express inconsistency between this Agreement or the manually signed license agreement and the Purchase Order, the inconsistency shall be resolved by giving precedence to the inconsistent terms as follows:
+(a) first, to any negotiated rider or addendum to a manually signed version of this Agreement (or any proper termination thereof), regardless of whether it is signed before or after the electronic acceptance of this
+Agreement (with such documents taking precedence with respect to each other in reverse chronological order of their effective dates);
+(b) second, to terms specifically added to the Purchase Order as a result of negotiations between the parties;
+(c) third, to the terms of this Agreement; and
+(d) fourth to preprinted or standard terms of the Purchase Order that were not modified or included as a result of negotiations between the parties.
+To establish that Purchase Order terms were negotiated, a party must produce e-mail or other written correspondence pre-dating the execution of the Purchase Order constituting or acknowledging such negotiations. If this agreement is presented in connection with your installation of an Update of VRSG, Scenario Editor or Terrain Tools, it shall supercede any prior electronic version of the license agreement that You accepted upon an earlier installation of this copy of VRSG, Scenario Editor or Terrain Tools or an Update to it but shall remain subject to the documents identified in clauses (a) and (b) above.
+Section 10.02
+Amendment and Waiver.Failure of a party to enforce any provision of this Agreement does not constitute and should not be construed as a waiver of such provision or the right to enforce such provision. This Agreement may be amended only by a writing executed by both parties or by your electronic acceptance of a more recent version of this license agreement provided to you by MetaVR.
+Section 10.03
+Trademarks.Nothing contained herein shall give you the right to use any of MetaVR’s trademarks or trade names and you agree not remove or alter any trademark, trade name, copyright or other proprietary notices, legends, symbols or labels appearing on or in any copies of the Materials.
+Section 10.04
+Governing Law; Venue.This Agreement is governed by the laws of the United States of America and the Commonwealth of Massachusetts, without giving effect to conflict of laws provisions thereof. Any action or proceeding brought by either party against the other arising out of or related to this Agreement shall be brought only (i) in a Massachusetts state court or federal district court for the District of Massachusetts, or, (ii) in the case of a proceeding brought by or against the United States government, the Federal Court of Claims or any successor thereto, and each of MetaVR and you hereby consent to the personal jurisdiction of such courts. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. If any provision of this Agreement is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
+Section 10.05
+No Corrupt Practices.You warrant that, in the course of obtaining this license of the Materials, or of selling any products (the “Purchaser Products”) into which the Materials are to be integrated, (a) neither you nor your employees or agents have made, offered or promised to make or offer, any payment or any proffer of anything of value, including bribes, either directly or indirectly to any public official, regulatory authority or anyone else for the purpose of influencing, inducing or rewarding any act, omission or decision involving sales of the Materials or the Purchaser Products in order to gain an improper advantage, nor have you authorized or encouraged any other party to do so, and (b) you shall comply, and shall cause your employees and agents to comply, with all applicable anti-corruption and anti-bribery laws and regulations in the course of obtaining purchase orders, requisitions or other authorizations to purchase the Materials and the Purchaser Products. You shall notify MetaVR immediately upon becoming aware of any breach of your obligations under this Section.To initiate a support ticket, please contact MetaVR at support@metavr.com.MetaVR and the MetaVR logo are registered trademarks and Virtual Reality Scene Generator, VRSG, Metadesic, VRSG Radar, IRserver, First Person Simulator, WorldPerfect, ChannelSurfer, Digital Moving Map Toolkit, MetaVRC, and the phrase "geospecific simulation with game quality graphics" are trademarks of MetaVR, Inc. All other brands and names are property of their respective owners. Metadesic is protected by U.S. Patent 7,425,952.
+© 1996 - 2020 MetaVR, Inc. All rights reserved.
+MetaVR Navigation
+Home
+Products
+VRSG
+Overview
+What's New
+Features
+User Interface
+Using a 6DOF Controller with VRSG
+Using a Gamepad or Joystick with VRSG
+Scenario Editor
+System Requirements
+Terrain Tools
+Overview
+What's New
+System Requirements
+3D Models
+3D Models Overview
+3D Model Libraries
+Featured Models
+Model Search
+New & Updated Models
+3D Terrain
+Regions
+Airfields
+Ranges
+Urban Environments
+Ordering New Terrain Area of Interest
+Technology
+Building Virtual Worlds
+Metadesic Round-Earth Terrain Architecture
+Terrain Threshold Requirements
+Modeling Urban Structures
+Using City Engine To Create Urban Environments
+UAV Imagery Collection For Building 3D Terrain
+Creating Runways
+FBX Utility
+Open Flight Utility
+3D Terrain Workflow
+Rendering Technologies
+3D Oceans
+Damage States
+Characters
+Environment and Weather
+VR and Tracker Support
+Effects
+Sound Support
+Interoperability With SAF
+Aerial Refueling
+Lights and Lighting
+Multichannel
+Stereoscopic 3D Vision
+Physics-Based IR Simulation
+Radar Simulation
+UAS / RPA Simulation
+First Person Simulator
+ROVER Simulated Views
+Deformation of Terrain for Craters
+Digitally Aided Close Air Support
+Night Visual Effects
+Resources
+CASE STUDIES
+UAV/RPA
+JTAC
+Fixed Wing
+Rotary Wing
+Ground
+Commercial
+Simulator Hardware
+Complete Solutions
+Deployable Joint Fires Trainer
+Fixed-Wing Part Task Mission Trainer
+Graphics Cards
+JTAC Desktop Simulator
+Navigational Controllers
+Storage Devices
+VR Solutions
+About MetaVR
+Careers
+Company Profile
+Contact MetaVR
+Fight Like a Girl
+Honor Flight New England
+Legal Counsel
+Audited Financial Statements
+Privacy Policy
+Trademarks
+Other Resources
+Documentation and
+Brochures
+Event Summary
+Media Ads
+MetaVR In The News
+Newsletter Archive
+Press Releases
+Video Playlist
+Where To See MetaVR
+How To Buy
+Buying Overview
+Price List
+Product Pricing, Best Price, & Additional Materials
+Shipping Policy
+Return Policy & Procedures
+Information
+Software Maintenance & Technical Support
+Software Upgrades
+Software License Transfer
+Software Dongles and Licensing
+Customer Requested Features Policy
+On-Site Support
+Previous Versions
+Evaluation Policy
+Distribution Media Kit
+Software End User License Agreement
+Footer menu
+Copyright © 2020, MetaVR. All Rights Reserved.  |  Sitemap  |  Privacy Policy

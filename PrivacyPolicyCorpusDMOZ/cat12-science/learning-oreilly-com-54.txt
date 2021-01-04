@@ -1,0 +1,26 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch03.html#websec2-CHP-3-SECT-1
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 3. Cryptography BasicsThis chapter explains the basics of cryptography, on which many
+secure Internet protocols are based. Cryptography is a complex topic and
+in this chapter we’re obviously presenting only a summary. Chapter 4 describes how cryptography is
+used today on the Web. For more complete information on cryptography
+concepts and algorithms, see the references in Appendix E.Understanding CryptographyCryptography is a collection of mathematical techniques
+for protecting information. Using cryptography, you can transform
+written words and other kinds of messages so that they are
+unintelligible to anyone who does not possess a specific mathematical
+key
+necessary to unlock the message. The process of using
+cryptography to scramble a message is called
+encryption . The process of unscrambling the message by use of the
+appropriate key is called decryption . Figure 3-1
+illustrates how these two processes fit together.Figure 3-1. Encryption is a process that uses a key to transform a block
+of plaintext into an encrypted ciphertext. Decryption is the process
+that takes an encrypted ciphertext and a decryption key and produces
+the original plaintext.Cryptography is used to prevent information from being accessed by an unauthorized recipient. In theory, once a piece of information is encrypted, that information can be accidentally disclosed or intercepted by a third party without ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

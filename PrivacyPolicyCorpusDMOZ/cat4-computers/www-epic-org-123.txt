@@ -1,0 +1,100 @@
+http://www.epic.org/privacy/biometrics/oasis_comments.html
+Statement
+for the Record of
+Marc
+Rotenberg, Executive Director
+And
+Ruchika Agrawal,
+IPIOP Science Policy Fellow
+Electronic Privacy
+Information Center (EPIC)
+Comments
+on the OASIS XML Common Biometric
+Format (XCBF) 1.0 Committee Specification
+Before
+the OASIS
+XML Common Biometric Format (XCBF) Technical Committee
+February
+28, 2003
+XCBF 1.0 Has Confused Security With Privacy      The Electronic
+Information Privacy Center (EPIC)*, a public interest research center that has
+extensive expertise in privacy, submits the following comments on the OASIS XML
+Common Biometric Format (XCBF) 1.0 Committee Specification.
+In submitting
+our comments, EPIC understands that biometrics entail automated methods of
+recognizing persons based on physiological or behavioral characteristics; that
+biometrics are used to recognize the identity of an individual or to verify a
+claimed identity; that XCBF offers a standard XML schema for biometrics, which
+describes information that verifies identity based on human characteristics
+including fingerprints, iris scans, hand geometry, and DNA; and that these XML
+encodings are based on the ASN.1 schema defined in ANSI X9.84:2003 Biometric
+Information Management and Security (and
+therefore respect the X9.96 XML Cryptographic Message Syntax security requirements).      The XCBF 1.0 specification – while it may respect security standards – cannot be fairly or accurately
+described as respecting or achieving privacy.  Technologies or protocols that respect privacy assist in minimizing
+or eliminating the collection of personally identifiable information.  For example, anonymous remailers allow
+users to anonymously send emails and post to newsgroups, by not log incoming
+and outgoing traffic information and stripping email headers of personally
+identifiable information.  As
+another example, digital tickets authorize the ticket-holder to perform some
+action without collecting or transferring personally identifiable information
+of the ticket-holder. By contrast, techniques that enable the collection of
+personally identifiable information in the absence of enforceable legal rights
+or technical safeguards necessarily create a new risk that personal information
+will be misused.      Security is not
+tantamount to privacy.
+Technologies that respect security may prevent unauthorized parties from
+gaining access to protected data – and XCBF 1.0 seems to achieve this goal – but such standards say nothing about the how the information will be used or
+whether authorized parties will use information in a way that is detrimental to
+the interests of the data subject.
+Because
+standardization of biometric data in machine-readable format makes massive and
+efficient automated data aggregation techniques much simpler, more careful
+consideration and actual deliberation of privacy safeguards is crucial. None of
+this is reflected in the current proposal.      We recommend that the
+specification be changed to acknowledge that XCBF 1.0 does not respect privacy,
+and recommend further research into implementing privacy safeguards within the
+protocol. Sincerely,
+Marc Rotenberg, Executive Director
+Ruchika Agrawal, IPIOP Science Policy Fellow
+EPIC   *EPIC is a public interest research center in Washington,
+D.C. that has extensive expertise in privacy.  It was established in 1994 to focus public attention on
+emerging civil liberties issues and to protect privacy, the First Amendment,
+and constitutional values.  Since
+its founding, EPIC has participated in extensive agency comment, litigation,
+and public education to promote privacy and civil liberties.
+For more in depth discussions on technologies or protocols that respect
+privacy, see: Anonymizer.com; http://www.anonymizer.com/ (visited on
+October 22, 2002).
+Stefan Brands; "A Technical Overview of Digital
+Credentials"; February 20, 2002; http://citeseer.nj.nec.com/brands02technical.html. Stefan A.Brands; "Untraceable Off-line Cash in Wallets with
+Observers"; Advances in Cryptography-CRYPTO '93; Springer-Verlag; 1994; p.302-318. Herbert Burkert; "Privacy-Enhancing Technologies:  Typology, Critique, Vision"; Technology
+and Privacy:  The New Landscape
+edited by Philip Agre and Marc Rotenberg; The MIT Press (Cambridge, 1997).
+David Chaum; "Achieving Electronic Privacy";  Scientific American, August 1992; p. 96-101; http://ntrg.cs.tcd.ie/mepeirce/Project/Chaum/sciam.html. David Chaum; "Prepaid Smart Card Techniques: A Brief
+Introduction and Comparison"; Digicash; 1994; http://ntrg.cs.tcd.ie/mepeirce/Project/Chaum/cardcom.html. Roger Clarke; "Roger Clarke's PITs
+and PETs Resources Site"; http://www.anu.edu.au/people/Roger.Clarke/DV/PITsPETsRes.html#Orig
+(visited on October 21, 2002).
+Whitfield Diffie and Martin E. Hellman; "New Directions in
+Cryptography"; IEEE Transactioins on Information Theory;
+IT-22(6); November  1976. Roger Dingledine, Michael J. Freedman, David Molnar;
+"The Free Haven Project: Distributed Anonymous Storage Service";
+December 17, 2000; http://citeseer.nj.nec.com/543510.html.
+Simson Garfinkel; PGP:  Pretty Good Privacy; O'Reilly & Associates, Inc.
+(Sebastopol, 1995). Simson Garfinkel with Gene Spafford; Web Security,
+Privacy & Commerce; O'Reilly & Associates, Inc. (Beijing, 2002);
+Second Edition; p. 262-283. Simson L. Garfinkel and Abhi Shelat; "Remembrance of Data
+Passed:  A Study of Disk
+Sanitization Practices"; IEEE Security & Privacy; January/February 2003. "Privacy-Enhancing Technologies: The Path to
+Anonymity"; Volume 1; Joint report by the Dutch Data Protection Authority
+(RGK) and the Information and Privacy Commissioner for the Province of Ontario,
+Canada (IPC); August 1995. Marc Rotenberg, Director of Electronic Privacy Information Center;
+Hearing on S. 809, The Online Privacy Protection Act of 1999, Before the
+Subcommittee on Communications Committee on Commerce, Science and
+Transportation, U.S. Senate; July 27, 1999; www.epic.org/privacy/internet/EPIC_testimony_799.pdf. Marc Rotenberg, Director of Electronic Privacy Information
+Center; "Privacy in the Commercial World"; Before the Committee on Energy and
+Commerce, U.S. House of Representatives, March 1, 2001; http://energycommerce.house.gov/107/hearings/03012001Hearing43/Rotenberg68.htm. Marc Rotenberg; "A Way Forward for Data Protection:  Privacy Enhancing Technology"; the PARLIAMENT Magazine; September 30, 2002. Marc Rotenberg, Privacy Law Sourcebook: United States
+Law, International Law, and Recent Developments (EPIC 2002). Bruce Schneier; Applied Cryptography; John Wiley
+& Sons, Inc. (New York, 1996); p. 126-127, p. 220-222, and generally. Daniel J. Solove and Marc Rotenber; Information Privacy
+Law; Aspen Publishers (New York, 2003; p. 27-33 and generally. Peter Wayner; Translucent Databases; Flyzone Press
+(Baltimore, 2002); p.13, p.
+129-131, and generally.

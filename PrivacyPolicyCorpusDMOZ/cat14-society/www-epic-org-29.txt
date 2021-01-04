@@ -1,0 +1,256 @@
+http://www.epic.org/privacy/consumer/microsoft/palladium.html
+Defend Privacy. Donate Now.
+Policy Issues
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Program
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+All Policy Issues
+Our Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+Privacy Campaigns
+Congressional Testimony
+EPIC Publications
+Spotlight on Surveillance
+Press
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+Events
+EPIC Blog
+EPIC Bookstore
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+Public Voice Fund
+Contact EPIC
+Support EPIC
+Microsoft Palladium: Next Generation Secure Computing Base
+Introduction |
+News Items
+Top News
+Doc's Cover Palladium Privacy, Unique Identifier Issues. EPIC has documents from the National Institute of Standards and Technology under the Freedom of Information Act describing Microsoft Palladium. The documents (pdf 980k) describe Palladium's applications for Digital Rights Management and note that the technology embeds "unique machine identifiers," thus raising risks that user behavior may be subject to traffic analysis. Issues raised by Palladium, which is now known as the Next Generation Secure Computing Base, are similar to privacy problems with the controversial Intel Pentium Serial Number.
+Introduction
+In June 2002, Microsoft released information regarding its new "Palladium" initiative. Palladium is a system that combines software and hardware controls to create a "trusted" computing platform. In doing so, it would establish an unprecedented level of control over users and their computers.
+Palladium could place Microsoft as the gatekeeper of identification and authentication. Additionally, systems embedded in both software and hardware would control access to content, thereby creating ubiquitous Digital Rights Management schemes that can track users and control use of media. Microsoft expects to have elements of the system in place by 2004.
+Professor Ross Anderson has written an extensive FAQ on the Palladium system. Seth Schoen of EFF has published a detailed summary of a meeting about Palladium.
+Known Elements of the Palladium System
+The system purports to stop viruses by preventing the running of malicious programs.
+The system will store personal data within an encrypted folder.
+The system will depend on hardware that has either a digital signature or a tracking number.
+The system will filter spam.
+The system has a personal information sharing agent called "My Man."
+The system will incorporate Digital Rights Management technologies for media files of all types (music, documents, e-mail communications). Additionally, the system purports to transmit data within the computer via encrypted paths.
+Many questions remain regarding the Palladium system. For instance, is the system even necessary? Many of the known elements are already offered by third parties or could be accomplished through simple means that do not require identification and authentication. For instance, simply avoiding the use of Microsoft's Outlook e-mail software, which in some cases automatically executes attachments, can prevent the running of malicious code and the spread of viruses. Products already exist that can store personal information on encrypted partitions of the user's hard drive. Spam avoidance is served by a number of tools, such as whitelists, blacklists, and filtering, without any requirement of identification or authentication.
+"Trusted" Computing Means Controlled Computing
+The known elements of the Microsoft DRM system will control users and limit the abilities of computers. Microsoft has obtained approval for two patents (Digital Rights Management Operating System, No. 6,330,670 and Loading and Identifying a Digital Rights Management Operating System, No. 6,327,652) in December 2001 that contained many of the basic elements of a trusted operating system. These patents may provide the blueprints for the Palladium system--a system that establishes trust through control.
+"A digital rights management operating system protects rights-managed data, such as downloaded content, from access by untrusted programs while the data is loaded into memory or on a page file as a result of the execution of a trusted application that accesses the memory. To protect the rights-managed data resident in memory, the digital rights management operating system refuses to load an untrusted program into memory while the trusted application is executing or removes the data from memory before loading the untrusted program. In the latter instance, the digital rights management system can terminate the trusted application as well. If the untrusted program executes at the operating system level, such as a debugger, the digital rights management operating system renounces a trusted identity created for it by the computer processor when the computer was booted. To protect the rights-managed data on the page file, the digital rights management operating system prohibits raw access to the page file, or erases the data from the page file before allowing such access. Alternatively, the digital rights management operating system can encrypt the rights-managed data prior to writing it to the page file."
+--Digital Rights Management Operating System, No. 6,330,670
+"The guaranteed loading of a digital lights management operating system on a general-purpose personal computer ensures that downloaded content can be protected from unauthorized access. Furthermore, the generation of an identity for an operating system based on its loaded components allows a content provider to knowledgeably determine whether to trust content to the subscriber computer."
+--Loading and Identifying a Digital Rights Management Operating System, No. 6,327,652
+"A DRMOS must also protect the content once it is loaded into the client computer's memory by a trusted application. In particular, the DRMOS must prohibit the use of certain types of programs and refrain from performing certain common operating system procedures when content is in memory. "
+--Loading and Identifying a Digital Rights Management Operating System, No. 6,327,652
+In a June 2002 submission to BSDVault, one user noted that the user agreement in Microsoft's Windows Media Player allows the company to: "provide security related updates to the OS Components that will be automatically downloaded onto your computer. These security related updates may disable your ability to copy and/or play Secure Content and use other software on your computer." This allows Microsoft to control components of the users' operating systems without notice or consent.
+Security technologies could backfire against consumers, CNET, November 7, 2002.
+Can you trust your computer?, Newsforge, October 21, 2002.
+Palladium: Safe or Security Flaw, Wired, July 12, 2002.
+Can We Trust MS Palladium?, Salon, July 11, 2002.
+TCPA and Palladium: Sony Inside, Kuro5hin, July 9, 2002.
+Palladium summary?, Seth Schoen, July 5, 2002.
+Microsoft Makes An Offer You Can't Refuse, Infowarrior, June 30, 2002.
+Microsoft's Digital Rights Management--A Little Deeper, BSDVault, June 28, 2002.
+Microsoft Media Player "Security Patch" Changes EULA Big Time, Slashdot, June 29, 2002.
+I Told You So: Alas, a Couple of Bob's Dire Predictions Have Come True, The Pulpit (PBS), June 27, 2002.
+Trusted Computer Platform Alliance.
+Digital Rights Management Operating System, Patent Number 6,330,670, December 11, 2001.
+Loading and Identifying a Digital Rights Management operating system, Patent Number 6,327,652, December 4, 2001.
+System and Method for Authenticating an Operating System to a Central Processing Unit, Providing the CPU/OS with Secure Storage, and Authenticating the CPU/OS to a Third Party, Ser. No. 09/266,207, filed on Mar. 10, 1999.
+Key-based Secure Storage, Ser. No. 09/227,568, filed Jan. 8, 1999.
+Digital Rights Management Using One Or More Access Prediates, Rights Manager Certificates, And Licenses" Ser. No. 09/227,559. filed Jan. 8, 1999.
+Digital Rights Manager Certificates, And Licenses (Ser. No. 09/227,559, filed Jan. 8, 1999).
+News and Resources on Palladium
+StopPalladium.org.
+FTC and EU Passport Complaint Docket Page.
+Sign Out of Passport Page.
+Digital Rights Management and Privacy Page.
+The TCPA/Palladium Education Site.
+TCPA and Palladium Technical Analysis.
+Anti-trusting Microsoft, Red Herring, September 10, 2002.
+Intel to Build DRM into Next-Generation CPUs, Slashdot, September 10, 2002.
+Intel Chip to Include Antipiracy Features, Boston Globe, September 10, 2002.
+Palladium and the TCPA, Cryptogram, August 15, 2002.
+The TCPA; Whatís wrong; Whatís right and what to do about, William A. Arbaugh, July 20, 2002.
+MS white paper says Palladium open, clean, not DRM, The Register, July 17, 2002.
+Palladium White Paper, Neowin.net, July 16, 2002.
+Potentially Palladium Related Patents and Trusted Client Whitepaper, Cryptome, July 15, 2002.
+MS: Why we can't trust your 'trustworthy' OS, ZDNET, July 2, 2002.
+Microsoft's Palladium Plan Criticised, Junkbusters.com, June 27, 2002.
+Analyzing Palladium, Slashdot, June 27, 2002.
+Microsoft Wants Security Hard-Wired in Your Computer, Washington Post, June 27, 2002.
+Interview with Palladium's Mario Juarez, Digital Identity World, June 26, 2002.
+TCPA / Palladium Frequently Asked Questions, Professor Ross Anderson, June 26, 2002.
+Microsoft discloses ambitious new security effort, CNN, June 25, 2002.
+Why Intel loves Palladium, The Register, June 25, 2002.
+MS to eradicate GPL, hence Linux, The Register, June 25, 2002.
+The Big Secret: An exclusive first look at Microsoft's ambitious-and risky-plan to remake the personal computer to ensure security, privacy and intellectual property rights. Will you buy it?, Newsweek, July 1, 2002.
+Share this page:
+Subscribe to the EPIC Alert
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+EPIC Alert archive »
+Electronic Privacy Information Center
+1519 New Hampshire Avenue NW
+Washington, DC 20036
+202.483.1140
+info[at]epic[dot]org
+© 1994 - 2020 EPIC, all rights reserved.
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+EPIC Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+Electronic Privacy Information Center1519 New Hampshire Avenue NW Washington, DC 20036More info
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+FOIA Documents
+EPIC FOIA Notes
+EPIC Former Secrets
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+EPIC Bookstore
+Support EPIC

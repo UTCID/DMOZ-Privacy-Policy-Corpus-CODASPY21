@@ -1,0 +1,137 @@
+https://www.etracker.com/en/data-privacy/
+Privacy - etracker
+Skip to content
+Pricing
+Know-how
+Documentation
+Agencies
+Contact
+Login
+Menu
+Pricing
+Know-how
+Documentation
+Agencies
+Contact
+Login
+Privacy
+etracker Analytics is 100% GDPR-compliant and completely consent free in its standard cookieless mode
+Compliance with the regulations of the General Data Protection Regulation (GDPR) and the Federal Data Protection Act new (BDSG new) has been independently audited, certified and awarded with the data protection quality seal ePrivacyseal. The audit result confirms the freedom of consent in the cookieless mode:
+“[…] On the basis of our detailed examination, we consider it acceptable to justify data processing by etracker Analytics and etracker Optimiser, also with regard to the DSK paper from March 2019 and the ECJ ruling of 01.10.2019, by the legal basis of Art. 6 Para.1 lit.f) GDPR (legitimate interest). In cookieless mode (standard mode), the use of etracker Analytics is legal without any obligation to give consent.”
+More on the advantages of etracker data protection compliance
+To the complete privacy policy for www.etracker.com
+Data protection is our highest priority
+The etracker DNA includes very high standards for the correct and confidential handling of visitor and customer data. As the first provider of solutions for the analysis and optimisation of websites and online marketing campaigns ever, we were certified as compliant with data protection laws by the Hamburg Commissioner for Data Protection and Freedom of Information in 2006 after an extensive audit procedure.
+We have always been in continuous dialogue with the supervisory authorities in order to provide privacy-by-design solutions that comply with data protection regulations. To enable our customers to meet their obligation to provide evidence of the lawful processing of personal data in accordance with Art. 5 Para. 2 GDPR, we have had ourselves examined in an independent audit by the experts of ePrivacy GmbH.
+GDPR compliance and maximum data gain even after the BGH ruling on cookie consent
+On 28 May 2020, the Federal Court of Justice (German BGH) confirmed in the highest court that consent must be informed and actively given and may not be forced or obtained by fraud, e.g. by ticking a box or making refusal unnecessarily difficult. The Guidelines of the European Data Protection Board (edpb) of 5 May 2020 also illustrate the complexity of the design of consent dialogues. The requirements for legally compliant consent collection are very high, while the number of consent obtained in this way is very low, because website operators can consider themselves lucky if only 20% of their users effectively agree to the setting of cookies for analytical or statistical purposes. As a result, the data basis for web analysis collapses and meaningful conclusions about campaign success and user behaviour are hardly possible.
+Fortunately, a meaningful web analysis is possible without any consent requirement, which means without opt-in. There are essentially two prerequisites for this:
+Firstly, no solutions may be used which also use the collected data for their own purposes and merge it with data from other websites, as is the case with Google Analytics. The Federal Commissioner for Data Protection and Freedom of Information has made this very clear: “Anyone who integrates offers which, like Google Analytics for example, legally require consent must ensure that he obtains data protection-compliant consent from his website users.”
+Secondly, no cookies and similar tracking technologies may be used to store information on the user’s terminal device or to access information already stored there.
+Therefore, as long as the collected data cannot be used to create user profiles, i.e. to recognise a user or device after 24 hours, and cannot be shared, made accessible or linked to other data with third parties, an objection option, an opt-out, via the website’s privacy notice is sufficient.
+All of this is implemented by etracker Analytics in cookieless mode through privacy-by-design, without any extra configuration or adjustments. Optionally, cookies can be activated upon consent and corresponding function calls can be implemented in content management solutions. This makes it easy for companies to prepare themselves for the end of the cookie era and avoid not only data-related sales losses, but also warnings and penalties.
+Legally compliant Google Ads tracking without data loss
+Conversion measurement via Google Analytics or via the Google Ads Tag is only possible with consent. As a result, only a small percentage of conversions are recorded and assigned and a reliable and efficient control of Google Ads based on a small number of consent is no longer guaranteed. Therefore, the use of a consent free solution is recommended here as well. With etracker, visits and conversions can be easily assigned to the appropriate Google Ads. Conversion data can be automatically uploaded to Google Ads, and allows you to manage your data according to orders or turnover – 100% in line with data protection regulations.
+What does etracker do to ensure GDPR compliance?
+Effective anonymisation and pseudonymisation
+When storing visitor data, the IP addresses, device and domain data of the visitors in particular are only stored or encrypted in a shortened form, so that it is not possible to identify the individual visitor. We commit ourselves never to merge collected data with other data sets, e.g. to establish a personal reference.
+The shortening of the IP address is done at the earliest possible point in time and is automated by default, without our customers having to make any special adjustments or configurations. In this way we offer the required data protection-friendly presettings (Privacy by Design and Privacy by Default). Identifiers for the recognition of an app user, execution of session and optional cross-device tracking as well as behavioral data for remarketing are securely pseudonymised or encrypted.
+Data is made available exclusively for the respective customer
+We process the data exclusively on behalf of the customer in accordance with the concluded agreement on order processing. The data belong to the respective customer and are not merged with other data or even passed on to third parties. We do not engage in any data trading, nor do we use our customers’ data for higher-level analyses or profiling.
+Processing and storage of the data in Germany
+Our data center as well as the development and system administration are located in Hamburg, Germany. We use the high-quality, highly secure and highly available data center infrastructure of the ISO/IEC 27001:2013 certified IPHH Internet Port Hamburg GmbH for pure server housing. Thus, no third party has access to servers, applications or data.
+GDPR-compliant Data Processing Agreement (DPA)
+In order to implement the processing of data by order in conformity with data protection, a contract for order processing (Data Processing Agreement) must be concluded in accordance with Art. 28 GDPR. At etracker, the contract is concluded as soon as a (test) account is created or a written order is placed, so that the principal (customer) and the order processor (etracker) comply. Our DPA is based on the templates of the German state data protection authorities and has been adapted to the needs of etracker web analysis and conversion optimisation by a law firm specialised in IT law and data protection.
+Technical and organisational data protection
+The operation of complex technological infrastructures is our core competence and an elementary component of our service. It is therefore our top priority to ensure that our data center is always operated in accordance with the latest security standards. These include the latest firewall and intrusion detection technologies as well as extensive physical controls and access restrictions. At the application level, modern authentication methods for user and administrator authorisations are just as standard as daily backups.
+In addition, we subject our entire security infrastructure to regular penetration tests. Secure Socket Layer (SSL) transmission is always used for data collection and access to our application. All information transmitted using this method is encrypted before it is sent.
+Just as much a matter of course as the use of the latest security technologies is the obligation of our employees to comply with the data protection requirements of the GDPR and to maintain confidentiality. These obligations continue to apply even after termination of the employment relationship.
+etracker Privacy Signet
+In order to demonstrate website users and customers that their data is handled with great care and responsibility, the etracker privacy signet can be integrated into the website, for example in the data protection information. This creates trust and contributes to customer loyalty.
+“We provide you securely with all data independent of content and cookies in order to better understand your users and create successful marketing campaigns.”
+Olaf Brandt, General Manager
+Data Privacy Statement
+(1) In the following, we provide information on the collection of personal data during the use of our website, which can be reached under the address “www.etracker.com” and other URLs, as well as the services we offer through our Internet sites. Personal data are data that can be related to you personally, such as your name, address, e-mail addresses and user behaviour.
+(2) The responsible party as per Art. 4 Para. 7 of the General Data Protection Regulation (GDPR) is etracker GmbH, Erste Brunnenstraße 1, 20459 Hamburg, Germany. You can reach the data protection officer we named in the supplier identification under https://www.etracker.com/en/imprint/ at privacy@etracker.com or at our postal address with the additional line “Data Protection Officer”.
+(3) When you contact us by e-mail or using a contact form, the data you provide us with (your e-mail address and, if applicable, your name and phone number) will be stored by us in order to answer your questions. We delete the data collected in this manner after its storage is no longer necessary, or we restrict its processing in the event of legal storage obligations.
+(4) If we re(4) If we resort to contracted service providers for individual functions of our offer, or if we want to use your data for advertising purposes, we will inform you in detail about the respective procedures below.
+Your Rights
+(1) Where we are concerned, you have the following rights regarding your personal data:
+Right to information,Right to correction or deletion,Right to restriction of processing,Right to objection to processing,Right to data portability.
+If you have granted us consent, you also have the right to revoke your consent at all times. All data processing measures which we shall have performed until your revocation shall remain legal in this case. We shall inform you about the possibility of revoking consent and the specific steps for exercising your right of revocation when we collect your consent.
+(2) You also have the right to file a complaint with a data protection authority regarding the processing of your personal data on our part.
+Collection of Personal Data When Visiting our Website
+(1) If you use our website for purely informational purposes, which is to say if you do not register or provide us with information in another manner, we shall collect only the personal data which your browser transfers to our server. If you want to view our website, we collect the following data, which we require for technical purposes so we can display our website to you and ensure its stability and security (legal basis is Art. 6 Para. 1 Page 1 (f) GDPR):
+IP addressDate and time of the queryTime zone difference compared to Greenwich Mean Time (GMT)Content of the request (specific page)Access status/HTTP status codeRespective data quantity transferredWebsite from which the request comesBrowserOperating system and its interfaceLanguage and version of the browser software
+(2) In addition to the aforementioned data, only technically necessary cookies are used on your computer when you use our website. Cookies are small text files that are stored on your hard drive and assigned to the browser you use and through which certain information flows to the site that sets the cookie (us in this case). Cookies cannot execute any programmes or transfer any viruses to your computer. Their purpose is to make the website user friendlier and more effective on the whole.
+(3) Use of cookies:
+a) This website uses the following types of cookies, whose scope and function are explained in the following:
+Transient cookies (see b)Persistent cookies (see c).
+b) Transient cookies are automatically deleted if you close the browser. They include in particular session cookies. These store a so-called session ID, which can be used to assign various requests from your browser to the joint session. This allows your computer to be recognized if you return to our website. The sessions cookies are deleted if you log out or close the browser.
+c) Persistent cookies are automatically deleted after a specified amount of time that can differ depending on the cookie. You can delete the cookies at any time in the security settings of your browser.
+d) You can configure your browser settings according to your preferences and, for instance, refuse to accept third-party cookies or all cookies. Please note that you may not be able to use all the functions of this website.
+Web Analytics
+The provider of this website uses the services of etracker GmbH, Hamburg, Germany (www.etracker.com) to analyse usage data.  We do not use cookies for web analysis by default. If we use analysis and optimisation cookies, we will obtain your explicit consent separately in advance. If this is the case and you agree, cookies are used to enable a statistical range analysis of this website, a measurement of the success of our online marketing measures and test procedures, e.g. to test and optimise different versions of our online offer or its components. Cookies are small text files that are stored by the Internet browser on the user’s device. etracker cookies do not contain any information that would allow a user to be identified.
+The data generated by etracker on behalf of the provider of this website is processed and stored by etracker solely in Germany by commission of the provider of this website and is thus subject to the strict German and European data protection laws and standards. In this regard, etracker was independently checked, certified and awarded with the ePrivacyseal data protection seal of approval.
+The data processing is based on Art. 6 Section 1 lit f (legitimate interest) of the General Data Protection Regulation (GDPR). Our legitimate interest is the optimisation of our online offer and our website. As the privacy of our visitors is very important to us, the data that may possibly allow a reference to an individual person, such as the IP address, registration or device IDs, will be anonymised or pseudonymised as soon as possible. etracker does not use the data for any other purpose, combine it with other data or pass it on to third parties.
+You can object to the outlined data processing at any time. The objection has no disadvantageous consequences.
+I object to the processing of my personal data with etracker on this website.
+Further information on data protection with etracker can be found here.
+Integration of YouTube videos
+We use the provider YouTube, a service of Google, to integrate videos. These videos are stored on www.youtube.com and can be played directly from our site. YouTube uses cookies for data collection and statistical data analysis. We use embedded YouTube videos in advanced privacy mode. This means that YouTube does not store cookies for a user who views a website with an embedded YouTube video player, but does not click on the video to start playing it. When the YouTube video player is clicked, YouTube may store cookies on the user’s device. If you’re logged in to Google, your information is associated directly with your account. If you don’t want to be associated with your YouTube profile, you’ll need to log out before playing.  YouTube stores your data as user profiles and uses them for the purpose of advertising, market research and/or customizing its services.
+For more information on the purpose and scope of data collection and processing by YouTube, please refer to their privacy policy. You can also obtain further information on your rights and setting options for protecting your privacy at: www.google.de/intl/en/policies/privacy. Google also processes your personal data in the USA and has submitted to the EU-US Privacy Shield, www.privacyshield.gov/EU-US-Framework.
+Newsletter
+If you register an account with us, are registered as a user of an account and/or send us an enquiry and you have not objected to this, we will use the data required for this purpose or data provided separately by you to send you our email newsletter on a regular basis based on your consent in accordance with Art. 6 Para. 1 S. 1 lit. a GDPR. The entry of this data and its transmission to etracker is left to your free decision.
+We reserve the right to send you offers for similar products from etracker by e-mail in accordance with § 7 para. 3 UWG. This serves to protect our legitimate interests in the context of weighing up the interests of our customers in accordance with Art. 6 Para. 1 S. 1 lit. f GDPR.
+The e-mail dispatch is carried out by a service provider within the scope of processing on our behalf, to whom we pass on your data for this purpose. In accordance with article 28 GDPR, etracker has concluded a full contract processing agreement with this service provider. The data will not be stored or processed outside the European Union.
+Within the framework of statistical surveys, indications of active opening and click behaviour of the newsletter are collected. Such information can be assigned to individual recipients. The evaluations help us to recognise the reading habits of the recipients and to adapt the contents accordingly in a user-defined manner.
+You can object to this tracking at any time by sending a message to the contact details given in the imprint. Also, such tracking is not possible if you’ve deactivated the display of images in your email client by default. In this case the newsletter will not be displayed completely and you may not be able to use all the features. If you display the images manually, the above tracking will take place. The information will be stored as long as you have subscribed to the newsletter. After you unsubscribe, we store the data purely statistically and anonymously.
+The consent to receive the newsletter can be revoked at any time. A link to unsubscribe is placed at the end of each newsletter.
+Push Notifications
+If you activate push notifications for this website using the “Signalize” service, a function of your Internet browser or mobile operating system will be used to provide the notifications for you. Only anonymous or pseudonymous data is transmitted for the purpose of sending messages. Depending on the configuration of the website,this may be:
+Pseudonymous User ID: a randomly generated value (example: 108bf9a85547edb1108bf9a85547edb1) stored in a tracking cookie IDPseudonymous digital fingerprints, pseudonymous mobile device codes and where required pseudonymous cross-device identifiers
+This data is only processed to deliver the notifications you have subscribed to and to configure notification-related settings. We ask for your consent to store this data. In this case, the legal basis for data processing is Art. 6 Para. 1 lit. a GDPR. You can object to receiving notifications at any time via the settings of your browser or mobile device. Information about unsubscribing for push notifications can be found here.
+In order to make the push notifications meaningful for you in terms of content, we use the preferences collected on the basis of a pseudonymous user profile by means of tracking pixels and, only with your consent, also by means of cookies, and we merge your notification ID with the user profile of the website solely for the purpose of personalised message dispatch. The Tracking technology is also used for statistical evaluation of the notifications on our behalf. This allows us to determine whether a notification was delivered and whether it was clicked. The data generated in this way is processed and stored on our behalf by etracker GmbH from Hamburg, which provides the Signalize service, solely in Germany and is thus subject to strict German and European data protection laws and standards. etracker has been independently audited and certified in this regard and is entitled to bear the data privacy seal ePrivacyseal.
+The data processing for the statistical analysis of the notifications and in order to better adapt future notifications to the interests of the recipients is based on our legitimate interest in personalised direct advertising in accordance with Art. 6 Para. 1 letter f GDPR. As the privacy of our visitors is very important to us, the data that may possibly allow a reference to an individual person, such as the IP address, login or device IDs, are anonymised or pseudonymised as soon as possible. A direct personal reference is thereby excluded. No other use, combination with other data or transfer to third parties takes place.
+You can object to the data processiYou can object to the data processing described above at any time.
+I object to the processing of my personal data with Signalize on this website.
+Job Applications
+We process personal data about you for the purpose of your application for employment, to the extent necessary for the decision to establish an employment relationship with us. The legal basis is § 26 para. 1 in conjunction with para. 8 sent. 2 BDSG.
+Furthermore, we may process personal data about you, as far as this is required to defend against asserted legal claims from the application process against us. The legal basis is Article 6 (1) (f) GDPR, for example, the legitimate interest is a burden of proof in proceedings under the General Equal Treatment Act (AGG).
+Insofar as employment arises between you and us, pursuant to § 26 (1) BDSG we may further process the personal data you have already given to us for employment purposes if this is necessary for the performance or termination of the employment relationship or for performance or fulfillment of required by a law or collective agreement, an operating or service agreement (collective agreement) and duties of employee representation.
+We process data related to your application. This may include general personal information (such as name, address and contact details), details of your qualifications and education, or CVET information, or other information that you provide to us in connection with your application. In addition, we may process publicly accessible, job-related information you provide, such as a profile on professional social media networks. We may transfer your personal data to companies affiliated with us, as far as this is permissible within the scope of the purposes and legal basis described above.
+A transfer to a third country is not intended.
+We store your personal data as long as this is necessary to decide on your application. Insofar as an employment relationship between you and us does not come about, we may also continue to store data as far as necessary to defend against possible legal claims. The application documents will be deleted three months after notification of the rejection decision, unless a longer storage due to litigation is required. With your separate consent, we will store your data for up to 12 months from your consent in order to be able to take your application into consideration again, if necessary, for any later eligible positions.
+The provision of personal data is not required by law or contract, nor are you required to provide the personal data. However, the provision of personal information is required to enter into a contract of employment with us. This means that unless you provide us with personal data when applying, we will not enter into any employment relationship with you.
+There is no automated decision in individual cases within the meaning of Art. 22 GDPR, that is, the decision on your application is not based solely on automated processing.
+Version: 01/07/2020
+Any questions?
+Our Customer Service is happy to help!
+Mon – Fri 10 – 16 o’clock by phone +49 40 55 56 59 77
+Hamburg-based etracker GmbH is the German tracking specialist for web analysis and push notification marketing. The software-as-a-service solutions enable website operators to get the most out of their data in compliance with data protection regulations. With our tools, it is fun to understand your own users better and thus design successful marketing.
+etracker GmbHErste Brunnenstraße 120459 Hamburg+49 (0)40 55 56 59 77info@etracker.com
+Products
+etracker Analytics
+Signalize
+Ressourcen
+Know-how
+Documentation
+Menu
+Know-how
+Documentation
+Unternehmen
+GTC
+GCT
+Imprint
+Privacy
+Menu
+GTC
+GCT
+Imprint
+Privacy
+© 2020 All rights reserved | etracker GmbH
+Twitter
+Youtube
+Xing
+Linkedin
+Scroll to Top

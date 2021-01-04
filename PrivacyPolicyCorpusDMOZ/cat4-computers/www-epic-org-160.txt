@@ -1,0 +1,364 @@
+http://www.epic.org/privacy/tools.html
+Defend Privacy. Donate Now.
+Policy Issues
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Program
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+All Policy Issues
+Our Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+Privacy Campaigns
+Congressional Testimony
+EPIC Publications
+Spotlight on Surveillance
+Press
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+Events
+EPIC Blog
+EPIC Bookstore
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+Public Voice Fund
+Contact EPIC
+Support EPIC
+EPIC Online Guide to Practical Privacy Tools
+Desktop |
+Mobile |
+Web |
+General Networking |
+E-Mail and Messaging |
+Miscellaneous |
+Additional Resources
+Disclaimer: EPIC does not lobby for, consult, or advise companies, nor do we endorse specific products or services. This list merely serves as a sampling of available privacy-enhancing tools. If you have a suggestion for a tool that you believe should be included, or if you have comments to share regarding one or more of the tools that are already listed, send e-mail to epic-info@epic.org. If you have questions about a tool on this page, visit the affiliated company or individual's Web site for more information.
+Desktop
+Operating Systems
+Tails: live operating system that can run from removable media without leaving tracks. Routes Internet traffic through the Tor network.
+Disk/File Encryption
+Symantec Drive Encryption (Windows): Uses strong PGP encryption.
+Diskcryptor (Windows): Free, open-source, encryption solution
+FileVault 2 (Mac): Built-in encryption software used by NSA to lock down their systems
+Linux Unified Key System (Linux): Open-source option for full disk encryption
+cryptonite (Android): implementation of TrueCrypt for android
+GNU/Linux disk encryption through Ubuntu: a how-to guide from EFF.
+Disk/File Erasing Programs
+Darik's Boot and Nuke: self-contained bootable software that deletes all contents of attached drives.
+Eraser: file-erasing software.
+Ative @ Killdisk: bootable whole disk eraser.
+CCleaner: Internet history and file shredder.
+Firewalls
+ZoneAlarm
+Comodo (Windows, Android)
+Kaspersky: (Windows, OSX)
+TinyWall (Windows)
+Norton Internet Security (Windows)
+Little Snitch (OS X): Allows users to control outbound connection attempts by applications
+Antivirus Software
+AVG (Windows, Android, iOS, Windows Mobile)
+ClamXav (OSX)
+Norton Antivirus (Windows)
+Bitdefender (Windows, Android)
+Comodo (Windows, OSX, Linux, Android)
+Ad-Aware (Windows)
+Avast (Windows, OSX, iOS)
+F-Secure (Windows, OSX, Android)
+Panda Cloud Antivirus (Windows)
+Avira (Windows, OSX)
+Heartbleed
+The Heartbleed Bug: Heartbleed FAQ.
+Heartbleed Test: Enter a URL or a hostname to test the server for CVE-2014-0160.
+The Heartbleed Hit List: The Passwords You Need to Change Right Now: Mashable's comprehensive guide to the sites affected by Heartbleed and recommended next steps.
+Mobile
+Messaging
+ChatSecure is an encrypted chat client for Android and iPhone.
+iPGMail (iOS): app to send and decrypt PGP-encoded messages.
+K-9 Mail (Android): open source mail app for android that supports PGP.
+Signal (Android): open source application for encrypted voice and text communications.
+SilentCircle (iOS, Android): encrypted voice, video, text, and file communications
+Telegram (iOS, Android, Windows Phone, PC, Mac, Linux): encrypted messaging
+Wickr (iOS, Android): encrypted, self-destructing text, picture, audio and video messages.
+Mobile Web
+DuckDuckGo Search and Stories (Android): Secure, anonymous searches with Tor/Orbot integration.
+Orbweb is an exceptionally privacy-focused web browser for Android, based on Tor.
+Other Mobile Resources
+Encrypt your Android phone.
+CyanogenMod open-source alternative: to avoid leaving your phone vulnerable to your carrier's customization of the Android OS, consider replacing the firmware (on select phone models) with CyanogenMod.
+APG is an OpenPGP implementation for Android phones.
+Web
+Web Browsers
+Tor Browser
+Web Browser Add-ons
+Adblock Plus (Firefox, Chome, Opera, Android): Customizable ad-blocking plugin
+Beef Taco (Targeted Advertising Cookie Opt-Out) (Firefox): Sets permanent targeted-advertising opt-out cookies
+BetterPrivacy (Firefox): Removes and deletes long-term “super-cookies”
+Blur (Firefox): Tracker blocking, password management, and e-mail masking
+Decentraleyes (Firefox): Limits tracking by third-party content delivery networks by storing copies of the content locally
+Disconnect (Firefox, Chrome, Safari, Opera): Stops 3rd party tracking sites around the web.
+Facebook Disconnect (Firefox, Chrome, Opera): Blocks third-party website requests to Facebook to limit Facebook's tracking of users' web activity
+Flashblock (Firefox): Allows selective blocking and execution of Flash content.
+Flash Control (Chrome): Allows selective blocking and execution of Flash content.
+Ghostery (Firefox, Chrome, Safari, Opera): Script and tracker blocking.
+HTTPS Everywhere (Firefox, Chrome): Forces HTTPS versions of websites were they are available
+Lightbeam (Firefox): Visualization plugin that shows web sites visited, including the third-party web sites that users may not be aware of
+NoScript (Firefox, derivatives of Mozilla): highly customizable plugin to selectively allow Javascript, Java, and Flash to run.
+Privacy Badger (Firefox, Chrome, Opera): Blocks third-party scripts and images
+Protect My Choices (Chrome): Sets cookies to opt out of targeted advertising
+ScriptSafe (Chrome): Script blocking
+Self-Destructing Cookies (Firefox): Automatically removes a site's cookies on closing its browser tab
+uBlock Origin (Firefox, Chrome, Safari, Opera): Lightweight blocking plug-in for multiple browsers
+Search Engines
+DuckDuckGo: anonymous, encrypted web searches.
+ixquick: anonymous, encrypted web searches. Hosted in the Netherlands.
+Cookie/Cache/Internet History Cleaners
+CCleaner (Windows, OSX)
+Bleachbit (Windows, Linux)
+General Networking
+Internet Anonymizers, Virtual Private Networks (VPNs) and Proxy Servers
+Tails: live operating system that can run from removable media without leaving tracks. Routes Internet traffic through the Tor network.
+Tor (Windows, OSX, GNU/Linux, BSD, Unix): Internet anonymizing software that securely routes traffic through multiple nodes around the world. Open source, free.
+Orbot (Android): Tor client for Android.
+Anonymizer(Windows, OSX, Linux, iPhone, iPad, Android): Encrypts and anonymizes Internet traffic.
+CyberGhost VPN
+IPreadator
+Private Internet Access
+proXPN
+StrongVPN
+torVPN
+TorGuard
+VyprVPN
+WiTopia
+Proxy.org: lists thousands of proxy sites.
+Proxify
+TunnelBear (Windows, OSX, Android, iOS)
+Privacy-Enhanced Networks and Mesh Networking (decentralized networks)
+Hyperboria: encrypted, decentralized Internet alternative .
+GNUnet: encrypted, anonymous, decentralized P2P networking.
+Commotion: open-source tool that uses phones and computers to create mesh networks.
+I2P Anonymous Network: "I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs."
+Freenet: "Freenet is a peer-to-peer platform for censorship-resistant communication and publishing."
+DNS
+OpenNIC
+Dot-Bit: Decentralized DNS using Bitcoin technology
+File Storage/Cloud
+ownCloud: Self-hosted file and sync server
+Tahoe-LAFS: Encrypted cloud storage system
+E-Mail and Messaging
+Email/Communication Encryption
+GPG(Windows, OSX, Linux): free implementation of OpenPGP.
+Mailvelope(Chrome, Firefox): OpenPGP encryption for webmail.
+Enigmail is and OpenPGP add-on for the Thunderbird and SeaMonkey email clients.
+GPGMail is a plug in for Apple Mail, an open source implementation of OpenPGP for encrypting, decrypting, signing and verifying email.
+Email Self Defense: a guide for using encrypted email (GNU/Linux, Mac OS, Windows).
+Alternative Email Accounts
+Guerrillamail: web-based disposable email accounts.
+CounterMail
+MyKolab: Privacy-focused email, based in Switzerland
+Neomailbox: email provider focused on privacy and anonymity, based in Switzerland
+Unseen: Privacy-focused e-mail provider based in Iceland
+Anonymous Remailers
+QuickSilver (Windows)
+paranoia remailer
+Mixmaster
+noreply: additional information on remailers.
+Secure Instant Messaging
+Adium is a third-party instant messaging program that allows for encrypted chats across multiple networks, but for Macs.
+Cryptocat
+(Chrome, Firefox, Safari, Mac): encrypted instant messaging platform.
+Off-the-Record (Windows, Pidgin): encrypted communications with authentication and deniability features.
+Pidgin is a third-party instant messaging/chat program that allows users to log in to multiple chat programs simultaneously (e.g., AIM, MSN, Google Talk) and to install a variety of privacy and security plugins.
+Telegram (iOS, Android, Windows Phone, PC, Mac, Linux): encrypted messaging for mobile and desktop operating systems
+TorChat (Windows, Linux): P2P instant messaging routed through the Tor network.
+VoIP/Video Messaging
+Jitsi (Windows, OSX, Linux): open source software for encrypted video, audio calls.
+Silent Circle (Windows)
+Miscellaneous
+Password Vaults
+1Password (Windows, OSX, Android, iOS)
+Blur (Firefox): Tracker blocking, password management, and e-mail masking
+Dashlane (Windows, OS X, Android, iOS)
+Lastpass (Windows, OS X, Linux, Chrome, Firefox, Safari, Opera, iOS, Android, Blackberry, Windows Mobile)
+MasterPassword (iPhone/iPad, OS X, Destop (Java), Terminal (Java), Terminal (C)).
+Password Safe (Windows)
+Social Networking
+Diaspora: alternative social media; open source and allows users to own and control personal data.
+buddycloud: decentralized social networking with strong privacy controls.
+Facebook Disconnect (Firefox, Chrome, Opera): Browser plugin that blocks third-party website requests to Facebook to limit Facebook's tracking of users' web activity
+Alternative Currencies
+Cash: the original anonymous currency.
+Bitcoin: open source, P2P digital currency.
+Litecoin: open source, P2P digital currency.
+Publishing
+Pastebin: multi-purpose text publishing.
+Strongbox: for submitting files to The New Yorker.
+Wikileaks: for submitting classified/sensitive information.
+Additional Resources
+Prism Break: comprehensive list of privacy software and services.
+The Ultimate Privacy Guide
+Encrypt All the Things: seven security-enhancing steps that every internet platform should take
+The Surveillance Self Defense Project: a guide from the Electronic Frontier Foundation.
+Two-factor authentication adds additional security to your accounts, it available. Simply put, if an outsider has one of your forms of authentication (e.g., your password) it won’t be enough to open your account.
+Disclaimer: EPIC does not lobby for, consult, or advise companies, nor do we endorse specific products or services. This list merely serves as a sampling of available privacy-enhancing tools. If you have a suggestion for a tool that you believe should be included, or if you have comments to share regarding one or more of the tools that are already listed, send e-mail to epic-info@epic.org. If you have questions about a tool on this page, visit the affiliated company or individual's Web site for more information.
+Share this page:
+Subscribe to the EPIC Alert
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+EPIC Alert archive »
+Electronic Privacy Information Center
+1519 New Hampshire Avenue NW
+Washington, DC 20036
+202.483.1140
+info[at]epic[dot]org
+© 1994 - 2020 EPIC, all rights reserved.
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+EPIC Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+Electronic Privacy Information Center1519 New Hampshire Avenue NW Washington, DC 20036More info
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+FOIA Documents
+EPIC FOIA Notes
+EPIC Former Secrets
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+EPIC Bookstore
+Support EPIC

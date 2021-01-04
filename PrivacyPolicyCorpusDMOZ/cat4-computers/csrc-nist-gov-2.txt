@@ -1,0 +1,107 @@
+http://csrc.nist.gov/groups/ST/hash/policy.html
+You are viewing this page in an unauthorized frame window.
+This is a potential security issue, you are being redirected to https://csrc.nist.gov
+Search
+Search
+CSRC MENU
+Search
+Search
+Projects
+Publications
+Expand or Collapse
+Drafts for Public Comment
+All Public Drafts
+Final Pubs
+FIPS
+Special Publications (SPs)
+NISTIRs
+ITL Bulletins
+White Papers
+Journal Articles
+Conference Papers
+Books
+Topics
+Expand or Collapse
+Security & Privacy
+Applications
+Technologies
+Sectors
+Laws & Regulations
+Activities & Products
+News & Updates
+Events
+Glossary
+About CSRC
+Expand or Collapse
+Computer Security Division
+Cryptographic Technology
+Secure Systems and Applications
+Security Components and Mechanisms
+Security Engineering and Risk Management
+Security Testing, Validation, and Measurement
+Applied Cybersecurity Division
+Cybersecurity and Privacy Applications
+National Cybersecurity Center of Excellence (NCCoE)
+National Initiative for Cybersecurity Education (NICE)
+Trusted Identities Group
+Contact Us
+Information Technology Laboratory
+Computer Security Resource Center
+Computer Security Resource Center
+Projects
+Hash Functions
+Hash Functions
+Project Links
+Overview
+News & Updates
+Events
+Publications
+NIST Policy on Hash Functions
+August 5, 2015
+SHA-1: Federal agencies should stop using SHA-1 for generating digital signatures, generating time stamps and for other applications that require collision resistance. Federal agencies may use SHA-1 for the following applications: verifying old digital signatures and time stamps, generating and verifying hash-based message authentication codes (HMACs), key derivation functions (KDFs), and random bit/number generation. Further guidance on the use of SHA-1 is provided in SP 800-131A.
+SHA-2 (i.e., SHA-224, SHA-256, SHA-384, SHA-512, SHA-512/224 and SHA-512/256): Federal agencies may use these hash functions for all applications that employ secure hash algorithms. NIST encourages application and protocol designers to implement SHA-256 at a minimum for any applications of hash functions requiring interoperability. Further guidance on the use of SHA-2 is provided in SP 800-57 Part 1, section 5.6.2 and SP 800-131A.
+SHA-3 (i.e., SHA3-224, SHA3-256, SHA3-384, SHA3-512, SHAKE128 and SHAKE256): Federal agencies may use the four fixed-length SHA-3 algorithms—SHA3-224, SHA3-256, SHA3-384, and SHA3-512 for all applications that employ secure hash algorithms. The SHA-3 Extendable-Output Functions (XOFs), SHAKE128 and SHAKE256, can be specialized to hash functions, subject to additional security considerations. Guideline for using the XOFs will be provided in the future.Currently there is no need to transition applications from SHA-2 to SHA-3.
+NIST's Policy on Hash Functions - September 2012
+September 28, 2012
+SHA-1: Federal agencies should stop using SHA-1 for generating digital signatures, generating time stamps and for other applications that require collision resistance. Federal agencies may use SHA-1 for the following applications: verifying old digital signatures and time stamps, generating and verifying hash-based message authentication codes (HMACs), key derivation functions (KDFs), and random bit/number generation. Further guidance on the use of SHA-1 is provided in SP 800-131A.
+SHA-2 (i.e., SHA-224, SHA-256, SHA-384, SHA-512, SHA-512/224 and SHA-512/256): Federal agencies may use these hash functions for all applications that employ secure hash algorithms. NIST encourages application and protocol designers to implement SHA-256 at a minimum for any applications of hash functions requiring interoperability. Further guidance on the use of SHA-2 is provided in SP 800-57 Part 1, section 5.6.2 and SP 800-131A.
+SHA-3: When the SHA-3 hash algorithm becomes available, it may also be used for all applications that employ secure hash algorithms. At this time, there is no need or plan to transition applications from SHA-2 to SHA-3.
+NIST's Policy on Hash Functions - March 2006
+March 15, 2006
+The SHA-2 family of hash functions (i.e., SHA-224, SHA-256, SHA-384 and SHA-512) may be used by Federal agencies for all applications using secure hash algorithms. Federal agencies should stop using SHA-1 for digital signatures, digital time stamping and other applications that require collision resistance as soon as practical, and must use the SHA-2 family of hash functions for these applications after 2010. After 2010, Federal agencies may use SHA-1 only for the following applications: hash-based message authentication codes (HMACs); key derivation functions (KDFs); and random number generators (RNGs). Regardless of use, NIST encourages application and protocol designers to use the SHA-2 family of hash functions for all new applications and protocols.
+Project Links
+Overview
+News & Updates
+Events
+Publications
+Additional Pages
+NIST Policy on Hash Functions
+SHA-3 Project
+SHA-3 Standardization
+Contacts
+Morris Dworkin
+- NISTmorris.dworkin@nist.gov
+Group
+Cryptographic Technology
+Topics
+Security and Privacy:
+secure hashing
+Related Projects
+Cryptographic Standards and Guidelines
+Digital Signatures
+Additional Pages
+NIST Policy on Hash Functions
+SHA-3 Project
+SHA-3 Standardization
+Contacts
+Morris Dworkin
+- NISTmorris.dworkin@nist.gov
+Group
+Cryptographic Technology
+Topics
+Security and Privacy:
+secure hashing
+Related Projects
+Cryptographic Standards and Guidelines
+Digital Signatures
+Created January 04, 2017, Updated June 22, 2020

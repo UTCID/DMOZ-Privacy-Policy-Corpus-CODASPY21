@@ -1,0 +1,28 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/apas06.html#websec2-APP-A-SECT-6.3
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Redundancy and WirelessAround Vineyard.NET’s third anniversary, I started worrying
+about the possibility of a fire—and what it would do to our company.
+At that time, Vineyard.NET was located completely within my house, a
+150-year-old wood frame building. One careless night with wine and
+some candles, and the whole ISP could be history.I had heard of something called business continuity insurance,
+so I called my insurance agent and asked what it was all about. He
+said that I would need to prepare a description of Vineyard.NET for
+the underwriters, the sort of problems that we could encounter, how
+much lost revenue each month we would have, and how we would recover
+after a loss. I chuckled; he was asking me for the very sort of
+disaster recovery plan that we advocate in earlier chapters of this
+book.Vineyard.NET’s first disaster recovery plan was pretty pathetic.
+“Well, basically we would set up shop in a new building, buy all new
+equipment, and have the phone company pull in new circuits,” I
+explained to my insurance agent.“So you would be down for a month? How much money would you
+lose?” he asked.“Well, we would probably be down for 45 days, because these
+high-speed circuits can take a long time to get installed,” I said.
+“But by that time, all of our customers would have left and gone
+elsewhere. So it would basically wipe out the business.”I realized that we didn’t have an insurable risk. Before I could expect an insurance company to stand behind my company, we needed to improve ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

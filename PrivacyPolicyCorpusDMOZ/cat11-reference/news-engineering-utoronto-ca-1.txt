@@ -1,0 +1,52 @@
+https://news.engineering.utoronto.ca/can-covid-19-contact-tracing-apps-protect-both-your-health-and-your-privacy/
+Skip to Main Content
+Search
+Submit
+Engineering News home
+Research News
+Advanced Manufacturing
+Data Analytics & AI
+Human Health
+Robotics
+Sustainability
+Water
+Student Experience News
+Awards & Honours News
+Alumni News
+Faculty Home
+University of Toronto Home
+Click to read the photo caption
+Can COVID-19 contact tracing and exposure notification apps protect both your health and your privacy?
+ByJessica MacInnis
+July 23, 2020
+Professors Lisa Austin (Faculty of Law) and David Lie (ECE) — photographed before COVID-19 struck — are among a team of researchers and legal experts studying the privacy implications and the technology behind exposure notification apps. (Photo: Jessica MacInnis)
+Exposure notification apps, such as COVID Alert — to be launched by the Canadian federal government this month — could be key tools for countries as they work to reduce the spread of COVID-19.
+But as public health officials are evaluating COVID Alert’s efficacy in the fight to stop the spread of the virus, Professor David Lie (ECE) is closely watching the app to see just how closely the app is watching you.
+Lie is part of a team of researchers who recently published a paper exploring the constitutional implications and technological underpinning of apps, such as COVID Alert in Canada. The study is a collaboration between Lie and a team of legal scholars.
+“With apps like this, there’s a spectrum that ranges from very useful as a method of contact tracing, to extremely invasive in terms of your privacy,” says Lie. “There’s always a trade-off, and what we found was that the COVID Alert app leans heavily on the side of privacy protection, which is great and should allay many of the fears people have about app-based exposure-risk tracking, but at the same time, it means that its potential as a health tool is not fully realized.”
+Contact tracing has long been used to track and notify people possibly infected with a virus or disease. The process is a labour-intensive public health endeavour that involves identifying people who have been exposed to a virus and mapping out their contact with others after that individual was infected, then contacting those people and doing the same.
+Exposure notification apps are complementary to traditional contact tracing in that they can reduce the time and alleviate the human power required to identify and notify contact between people by having your smartphone do the tracing. In the case of the COVID Alert app, proximity data, via Bluetooth, is used. As people carry around their smartphones, a randomized signal is sent from one smartphone to another in close range.
+This proximity data — the randomized “messages” sent from phone to phone — are uploaded to a server. The app then pulls these messages from the server to compute a risk score based on if, and how long, it has come into the contact with the phones of individuals who have tested positive for COVID-19. The app would then alert people who had high scores to get tested.
+“Although the app tells you that your phone has come close to another phone carried by someone who has tested positive, it can’t tell you at what time, or where that contact occurred,” explains Lie. “Bluetooth doesn’t know whether you were standing in an elevator with that person or if you were sitting in separate cars at a red light next to each other.”
+The paper, which reviews the potential benefits of contact tracing and exposure notification apps and the limitations of the technology, was co-authored by Lie and several legal experts, including Professor Lisa Austin of the Faculty of Law and cross-appointed to ECE.
+“Exposure notification apps could have an important role to play in responding to the COVID-19 pandemic here in Canada,” says Austin. “The Canadian Charter provides an important framework for how to balance rights — like privacy rights — in a free and democratic society, but it’s incredibly important that as we understand the legal framework and implications of these apps, we also understand the technology so that we can properly evaluate and review the benefits and consequences.”
+The technology behind the COVID Alert app is anonymous and decentralized, meaning that no company or authority can get to all the data and the data is held by the individual who can choose when that information is released.
+“Making the app a more effective contact tracing tool would involve using readily available technologies such as GPS-location data tracking or a centralized registration system — but this comes at a cost of privacy,” says Lie.
+“But there are other things to keep in mind too, like how many people download and use the app, it’s not clear what the threshold will have to be to make any app as effective as possible — unless a government mandates its use, which would be another question for legal experts,” adds Lie, who also raises the question of fairness, as many Canadians do not have access to a smartphone or reliable cell phone reception.
+An individual’s comfort with using an app, the privacy trade-offs of tracking a person’s movement, combined with the technological limitations and possibilities of a smartphone are all considerations that Lie and this transdisciplinary team are looking at.
+“This collaboration between researchers in the Faculty of Law and ECE is just one example of the importance of transdisciplinary work to solve these really complex issues we are facing,” says Professor Deepa Kundur, Chair of ECE. “We can no longer look at the implications of technical advances separately from other issues — by working with other disciplines instead of beside them, electrical and computer engineers are able to make greater contributions towards solving big challenges.”
+“I think this is a very real and urgent example of how we have to look at transparency and privacy in the 21st century,” says Lie. “We can’t truly understand the legal ramifications in our digital world unless we understand the technology and vice versa, and in this case, we are looking through these lenses during a global pandemic with very serious health and economic ramifications.”
+Share
+Tweet
+Share
+Tweet
+Category: Uncategorized|Tags: contact tracting, coronavirus, COVID-19, COVID19, cybersecurity, data privacy, David Lie, E4TW, ECE, Lisa Austin
+Media Contact
+Fahad Pinto
+Communications & Media Relations Strategist
+416.978.4498
+fahad.pinto@utoronto.ca
+Related Stories
+Making the most of an unusual semester: How U of T Engineering students are adapting to remote learning
+Professor Vaughn Betz elected to the National Academy of Inventors
+Three U of T Engineering students recognized for advancing women in transportation

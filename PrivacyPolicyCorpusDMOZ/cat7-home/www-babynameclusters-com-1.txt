@@ -1,0 +1,8 @@
+http://www.babynameclusters.com/info/privacy
+Fatal error:
+Uncaught Error: Call to undefined function mysql_escape_string() in /home/public/names_inc.php:49
+Stack trace:
+#0 /home/public/name_classes.php(26): get_params()
+#1 /home/public/index.php(32): name_controller->__construct()
+#2 {main}
+thrown in /home/public/names_inc.php on line 49

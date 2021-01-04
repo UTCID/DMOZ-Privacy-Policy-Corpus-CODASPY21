@@ -1,0 +1,26 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/pt05.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Part V. AppendixesThis part of the book, is filled with lists and nitty-gritty
+technical information that is too detailed for the main body of this
+book.Appendix A is a first-person
+account of the ISP that offers service exclusively on Martha’s
+Vineyard.Appendix B contains more
+detailed information about the SSL and TLS protocols. This chapter won’t
+give you enough information to write your own SSL or TLS implementation,
+but it will give you an understanding of what is happening on the
+wire.Appendix C is a detailed
+introduction to the P3P specification. This chapter, written by Lorrie
+Faith Cranor and included with permission, includes information on how
+to write your own P3P policy.Appendix D provides detailed
+information on the PICS specification. Although PICS appears largely
+dead today, a PICS implementation is included in Microsoft’s Internet
+Explorer, so PICS is still there for anybody who wants to use it.Appendix E is a listing of
+books, articles, and web sites containing further helpful information
+about web security, privacy, and commerce.
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

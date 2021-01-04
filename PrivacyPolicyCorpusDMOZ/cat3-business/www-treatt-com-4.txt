@@ -1,0 +1,67 @@
+https://www.treatt.com/legal/cookies-statement
+Home
+Legal
+Cookies Statement
+Cookies Statement
+What is a cookie?
+A cookie is a file that is stored on your computer when you visit a website. Most websites use them and they are generally harmless. When you revisit the website later or visit a different webpage a copy of the cookie file is sent to the website.
+They can be used to store information and have many uses, with the most common including tracking, remembering your details or settings, and to keep you logged in to an account.
+You can find out more information about cookies from the following websites:
+Wikipedia
+Mozilla
+When are cookies created?
+Writing data to a cookie is usually done when a new webpage is loaded - for example after a 'submit' button is pressed the data handling page would be responsible for storing the values in a cookie. If the user has elected to disable cookies then the right operation will fail, and subsequent sites which rely on the cookie will either have to take a default action, or prompt the user to re-enter the information that would have been stored in the cookie.
+Why are cookies used?
+Cookies are a convenient way to carry information from one session on a website to another, or between sessions on related websites, without having to burden a server machine with massive amounts of data storage. Storing the data on the server without using cookies would also be problematic because it would be difficult to retrieve a particular user's information without requiring a login on each visit to the website.
+If there is a large amount of information to store, then a cookie can simply be used as a means to identify a given user so that further related information can be looked up on a server-side database. For example the first time a user visits a site they may choose a username which is stored in the cookie, and then provide data such as password, name, address, preferred font size, page layout, etc. This information would all be stored on the database using the username as a key. Subsequently when the site is revisited the server will read the cookie to find the username, and then retrieve all the user's information from the database without it having to be re-entered.
+What cookies do you have and why?
+Here are the cookies we use on our site.
+Performance Cookies
+Cookie Name
+Expiration Time
+Description
+_ga
+2 years
+Google Analytics - Used to distinguish users.
+_gid
+24 hours
+Google Analytics - Used to distinguish users.
+_gat
+1 minute
+Google Analytics - Used to throttle request rate.
+Strictly Necessary Cookies
+Cookie Name
+Expiration Time
+Description
+kirby_session
+When the browsing session ends
+Used to handle secure form submissions and user login.
+MCPopupClosed
+1 year
+MailChimp - Used to control visibility of the Newsletter signup pop-up
+MCPopupSubscribed
+1 year
+MailChimp - Used to control visibility of the Newsletter signup pop-up
+Strictly Necessary Cookies
+These cookies are essential to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies, our website won’t work properly.
+Performance Cookies
+These cookies collect information about how you use our websites, for instance, which pages you go to most often and if you get error messages from those pages. We only use these cookies to improve how our websites work.
+How can I disable or block cookies?
+We recommend visiting your browser help section to find out how:
+Firefox
+Internet Explorer
+Chrome
+Safari
+Do not track me!
+Do not track is an up-and-coming feature in web browsers which allows you to tell websites that you do not want to be tracked. While not all websites currently use this you can find out more about how to set it up on your browser from the following website:
+Wikipedia
+Terms of Use
+Privacy Policy
+Cookies Statement
+T & C (Sales)
+T & C (Purchase)
+Slavery & Human Trafficking Statement
+Supplier Code of Conduct
+GRI Standards Index
+Statement of Investment Principles
+This site uses cookies as described in our Cookies Statement. If you agree to our use of cookies, please continue to use our site.Continue

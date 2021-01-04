@@ -1,0 +1,246 @@
+https://www.customerparadigm.com/magento-development/help/magento-site-hacked/
+303.473.4400
+/
+Toll Free: 888.772.0777
+MAGENTO SITE HACKED?
+Welcome,
+would you like to talk to a real person about
+?
+Click here or call us: 888.772.0777 or 303.473.4400
+Has Your Magento Site Been Hacked? We Can Help.
+Has your website been hacked? For an eCommerce business owner this can mean both a loss in profit and credibility. Customer Paradigm can help secure your site and make sure this type of attack does not happen again.
+Certified Magento Developers: From 1 hour to 1,000+
+If your Magento site was hacked or attacked, we can help. (And help make sure it doesn’t happen again)
+If your Magento site was hacked or attacked, give us a call. We might be able to help get your site fixed.
+Our developers know Magento’s 150,000 lines of code inside and out, and have been tested directly by Magento and certified to work on Magento Websites.
+Hacking – A Growing Concern
+Magento is a very stable, very secure platform with some of the best security features available. Over 250,000 businesses choose the Magento platform to run their eCommerce sites.
+It is still possible that a Magento site can get hacked or compromised if other parts of the server or system are left unattended. Unfortunately, in the last month alone, we have received calls from a dozen different Magento sites owners that have been attacked or hacked.
+Robert Mueller, Director of the FBI, spoke about hacking:
+“I am convinced that there are only two types of companies: those that have been hacked and those that will be. And even they are converging into one category: companies that have been hacked and will be hacked again.”
+In our world of ever-growing technology dependency, hacking is the newest form of criminality and we can only expect to see attacks increase.
+Free, No Obligation Consultation About Magento Programming:
+Call Today!
+303.473.4400
+Toll Free 888.772.0777
+Or Click Here To Have A
+Real Person Contact You Now >>
+Four Reasons Why Magento Sites are Hacked:
+1. Showing Off / Defacing
+The hacker is trying to deface the Magento site to show off to their buddies that they are talented enough to take over a site. The bigger and more successful a site, the more bragging rights a hacker gets.
+Defacing a website is similar to vandalizing a building
+Usually this type of attack includes having a homepage defaced, files deleted, and often does not go much deeper.
+These exploits are usually done by:
+Taking advantage of weak passwords in an Admin area
+Taking advantage of weak passwords in the FTP
+Through an open server vulnerability in an image upload directory
+Often there are messages left on the website by the hackers that are ugly and hateful. Typically this type of attack is not personal or directed toward you and your organization. These attacks happen because your site had a vulnerability that a hacker was able to reveal through a scan of the site.
+It can be tough to track down this sort of hacker. If the hacker is outside the US, law enforcement or the FBI has limited power, unless there is a specific threat and a solid path of evidence. Customer Paradigm Founder Jeff Finkelstein has worked with the FBI in the past on sites like this and knows just how tricky it can be!
+This type of hack is often easy to fix by restoring the files of the site from a backup. The core database is usually not affected. This is why it is extremely important to do frequent backups of your site files and store copies in multiple locations. You do have your site backed up in at least two places, right?
+You might also consider restricting your site from a few countries that are notorious for cyber attacks and that would be unlikely to provide you customers such as: North Korea, Pakistan and the Ukraine. If you don’t want to limit access to your website home page, at least consider this option for your admin areas.
+2. Infecting the Server / Phishing
+With Phishing, a hacker typically doesn’t do anything visible to your Magento site. Instead with this Magento site hack they secretly create a folder somewhere on your site server.
+One tactic they may use is to have an email that is sent out to people asking them to log into their Facebook, PayPal or Banking Website – and when they do, it steals their username and passwords, and then sends this information out to a different server. Or, they are trying to use some of the processing power of your site to send out mass spam email messages.
+Although spelled differently, “phishing” is essentially a hacker fishing for data!
+Having folders on your site set to 777 permissions – meaning that anyone can publicly write files to your server, is the most common culprit of phishing hacks. If you’re a victim of this Magento site hack you’ll likely find out quickly. Google scans through sites and if they see any type of malware, they will block access to your site from users search results. Google will also block the site through the Chrome browser. PayPal is also really proactive in protecting users from sites infected with these sort of exploits. We have seen cases where a site is infected and within minutes they are calling or emailing us to help secure their site.
+This is where having a good server hosting company for your Magento site will also come into play. We can help guide you into choosing a recommended Magento hosting provider that will know how to prevent issues like this from happening on your Magento site (although no guarantees).
+In order to fix this type of an exploit:
+The infected files must be removed
+A response to submitted Google
+Again, this is where having a backup of your site can be crucial, if there are infected files throughout your server, it can often be easier to restore from a clean backup than to comb through all of the infected files. A good hacker can modify a file without leaving a trace, it can often be very difficult if not impossible to simply identify an infected file by something like a timestamp.
+3. Stealing Valuable Information (Credit Card Information etc.)
+What do nearly all Magento eCommerce sites have in common? They take online payments and store customer information. Any online store is a target for data thieves.
+Magento is very secure, and is a PCI compliant payment gateway (such as PayPal Pro or Authorize.net) and never usually stores credit card information on a site.
+Hackers however, are always innovating, and recently we’ve seen a number of different Magento sites hacked where files have been modified to save customer information and credit card details. These details include CVV2 codes, expiration dates and more. These files can then they allow someone to download the file for later use.
+We’ve seen this happen through:
+Directories that have open access (i.e. CHMOD 777), such as an image upload directory.
+Other third party systems that are on a site, but not part of a Magento site. For example: a WordPress blog on the site that wasn’t fully secure
+Fake extensions that are placed into the Magento Module installation / downloads directory. If the right type of a file is placed in the downloads directory on a site, Magento will attempt to install the module. We’ve even seen fake company names associated with the extensions.
+This malware will typically attack a few files on the site and turn off certain features that alert if an attack is occurring. Next it will write the credit card details to a file. Then this file will be sent out through a hidden gateway, or made available to be downloaded publicly.
+We’ve even seen recent examples of hackers writing Base 64 encoded data, including credit card information, and saving it into the binary portion of a jpg image.
+If you downloaded the image and looked at it on your computer, you’d just see a normal looking image. If you looked at the size of the jpg you might think it is a little bit bigger than a normal image. 500 credit card numbers in a text file will only add 26 KB to a file, this is hardly big enough to notice.
+With this exploit set up someone can then just visit your site from a remote computer, download and save the specific image, and then decode this information automatically. You’ll likely not notice this, because it’s just one image that doesn’t raise any flags in your analytics package.
+Credit cards that are stolen aren’t always used immediately. They are often sold in bulk, and might not be used for many months. This is so that a hacker can scrape a lot of credit cards from a site, but not raise any flags from credit card companies.
+You’ll know if your Magento site is hacked it:
+You get customer complaints that their credit cards were hacked
+Your merchant provider or bank informs you of an issue
+There are strange text files on your server that don’t belong there in some of the common export folders
+Someone runs a site scan and sees credit card information saved on the site
+If your Magento site is hacked you will want to:
+Scan your site to see what files might have been affected
+Run our Magento Code Audit Tool to see if there are any core file modifications/overrides and if there are any active modules that you haven’t installed
+4. Holding a Site for Ransom (Ransomware)
+Ransomware uses malicious software or code to encrypt a websites files. This blocks the site owner from their own website until a sum of money is paid to the hacker. After the hacker get’s the ransom, the site files are unlocked or the hacker gives the site owner a “key”. This exploit started in Russia but has grown internationally.
+Virtual payment to the hacker from the site owner the goal of this exploit. The hacker will typically request payment in a hard to trace currency, such as bitcoin.
+Recently we have begun to see hackers using ransomware to target Magento sites. In a statement issued from Magento, they do not believe there is a vulnerability in the Mangeto platform itself. It is thought to be an issue with general web server vulnerabilities. There is also speculation that the exploit could be planted in third-party Magento Modules available for download.
+The ransomware is extremely easy to spot. You will know almost instantly if your site is infected. In this case the hacker wants to be found, so the site owner will pay the ransom. The ransomware will encrypt all the data on the server with an extension and then insert an index.html file with the ransom note containing the hacker’s demands.
+If paying internet bandits ransom money for your own website isn’t your idea of fun – we suggest keeping a backup in 2-3 different places!
+In many cases the only option – other than paying the hackers ransom – is to restore the site from a clean backup. After your site has been restored we can address any areas where your website may be vulnerable to future attack.
+Has your Magento site been hacked? Are you looking for a company who can help you restore your Magento eCommerce system and secure it from future attacks? If you need reliable programmers with experience dealing with Magento site hacks, Customer Paradigm’s team of expert Magento programmers may be a great fit. Try us out! Or Call 303.473.4400
+today!
+Free, No Obligation Consultation About Magento Programming:
+Call Today!
+303.473.4400
+Toll Free 888.772.0777
+Or Click Here To Have A
+Real Person Contact You Now >>
+What makes our Magento Developers different?
+U.S. Based
+No overseas outsourcing. We speak English, work during normal US business hours and respond quickly.
+Bug Free Code
+Our programmers write bug-free code that works! We have a dedicated team of testers to ensure that the delivered Magento Programming works as requested.
+Certified Magento Developers
+We have worked on hundreds of eCommerce systems that process tens of thousands of transactions per day. We know the best practices for working on high-volume, live production systems (as well as low-volume basic Magento systems).
+Direct Access to a Magento Developer
+You’ll get the name, email address and direct phone number of your Project Manager and Developer that is in charge of your Magento eCommerce project. Our Project Managers keep you apprised of your project’s budget and progress, and also ensure that your needs as a client are met exactly.
+Low Prices for Magento Developers
+Our prices are low, but our quality and customer service is high. Unlike other web development agencies we also offer firm quotes for your project, so you know what to expect when you receive your bill.
+We Answer the Phone & Emails
+We know that this shouldn’t be something we have to mention, but we do pride ourselves on our ability to have a real person answer the phone during our business hours, and we make sure to respond to all email requests promptly.
+Small Projects Are Okay
+We work with small 1-2 person companies, as well as some of the largest corporations in the world. We know you might want to test out our team first, before you commit to a larger project. And we’re okay with that. We have no minimums for working with us.
+Open Office Format
+We work together in an open-desk office in Boulder, Colorado. What this means is that if someone has a specific question about a Magento eCommerce programming task, they can ask anyone else very easily.
+Some of Customer Paradigm’s Work:
+3M Sustainability Site
+Website for 3M’s Sustainability Department, aligned with 3M’s corporate Web standards.
+View Larger Image >>
+Energy Classroom by Xcel Energy
+Microsite for Xcel Energy, the 4th largest power company in the United States, teaching energy conservation for teachers, students and other constituencies.
+View Larger Image >>
+Travelocity Accessories Shop by Mizco
+Travelocity is a leader in online travel and for the last sixteen years has guided travelers to affordable and convenient flights, hotels, vacation packages cruises and car rentals.. Their partner, Mizco International, Inc. (“we”, “us”) came to Customer Paradigm wanting to create a eCommerce travel accessory shop with full functionality from search features to payment methods. The site, which is owned and operated by Mizco under license from Travelocity, LLC (“Travelocity”) continues to provide thousands of savings to travelers all over the world.
+View Larger Image >>
+AAMCO Colorado
+Search Engine Optimization, Cost Per Click Marketing, Website Development for all Colorado-based AAMCO dealers to drive targeted leads for auto repair.
+View Larger Image >>
+Up With People
+Website development for Up With People, a global education organization that aims to bring the world together through service and music.
+View Larger Image >>
+Citrix
+Mobile Website development, Trade Show Marketing for leading company in GoToMeeting – Web Conferencing space.
+View Larger Image >>
+San Francisco Soup Company
+Website Development, Mobile Application System, Daily Soup Email Marketing System for San Francisco-based fast casual restaurant.
+View Larger Image >>
+Fresh Produce Clothing
+Magento Enterprise eCommerce Development, Custom Application Development for clothing retailer, using the Magento Commerce platform.
+View Larger Image >>
+San Francisco Main Freight
+Custom Application Development for world-wide logistics company. Customer Paradigm has built a system that tracks more than $100 million of products, including where items are located in each warehouse and when items are shipped, returned or damaged.
+Warner Music Group
+Magento Enterprise Commerce development for custom extension for Warner Music Group Websites.
+View Larger Image >>
+Adventure Rabbi
+Website Development, Photography, Online Marketing for outdoor religious organization. SEO efforts led to coverage by CNN, NY Times, Wall Street Journal, CBS News and more.
+View Larger Image >>
+Red Apple Lipstick
+Magento Website development and programming for leading retailer of gluten-free lipstick and cosmetic products, using Magento Community edition.
+View Larger Image >>
+Free, No Obligation Consultation
+About Magento Programming:
+Call Today!
+303.473.4400
+Toll Free 888.772.0777
+Or Click Here To Have A
+Real Person Contact You Now >>
+How we work:
+Our Magento Development Process
+Our refined process is designed to produce results, and make working with us as painless as possible.
+1. Kickoff Meeting
+After an agreement is signed, we will initiate a kickoff meeting to clarify the expectations for the project, and to make sure that we have all of the resources, website access and knowledge we need to make your project a success. For small projects, this may be a short phone call; for larger projects, the kickoff meeting may span several hours to ensure we don’t miss anything.
+2. Scope Review
+We will follow up from the kickoff meeting with any scope changes from the contract
+3. Access Information & Content
+We need to make sure that we have access to your site, including FTP, SSH, control panel, database access and other access, in order for us to begin the project. At this stage, we will also work with you to determine what content you need to send to us (web page content, products, pricing, shipping information, payment processor information) so that we can complete the site on a timely basis.
+4. Wireframe Layout
+We will create a wireframe (skeletal framework) for your main pages, including the home page, category page, product page, and one content page. The wireframe allows us to block out areas for how the website will be laid out and function.
+5. Design
+Our designer will create a flat, non-working design layout for you to review. At this point, it is easy to change color schemes, images and font usage. Our goal is to create a design that is fresh, clean and easy for end users to navigate.
+6. Development
+Once the scope of the project has been reviewed, and design has been approved, we begin the development of your project with our technical programmers. The process begins by breaking up all of the various parts of the project into discrete tasks, and assigning each task to programmers. These tasks include cutting up the approved design into working HTML, moving over content, images, video and products. We also will install any 3rd party extensions or plugins at this time. All hours and tasks are tracked through our real-time, Web-based Project Management System, that helps us stay on-time and on-budget.
+7. Site Review & Testing
+We put your website through a 30-step quality assurance process, to make sure that your site will function properly for a typical Web user. We test items including SSL security, page load time, contact form submission, checkout cart functionality and other items.
+8. SEO Review
+Our Search Engine Optimization (SEO) team will review your site for items including page titles, meta description, duplicate content, canonicalization, no-index/no-follow errors, .htaccess errors, 301 redirects and more. The goal is to identify errors that search engines, such as Google, may encounter, after we launch the site. Ongoing search engine optimization is not included unless specifically outlined in project deliverables
+9. Training for Magento
+We will train you – either on the phone or at our location in Boulder, Colorado – to learn how to use your website. We can show you how to best create coupons and discounts, how to manage orders properly, update products and content pages, and walk you through the advanced reporting systems that are built into the site. Training hours are included in many fixed-price projects; additional training can be provided on an hourly basis.
+10. Pushing Live
+Once you approve the site, we will move it from the testing server to the live server, and run through our testing procedures again to ensure it works properly.
+11. Site Statistics & Analysis
+After the site has launched, we will review your site to determine how your end users are interacting with the site. Through in-depth analytical analysis, we can determine what pages “bounce” your site visitors off of the site, or what keywords drive the most amount of sales. We can then make recommendations for increasing targeted traffic to your site, creating new marketing campaigns, and improving other areas of the site.
+12. Ongoing / Immediate Magento Support
+We offer ongoing programming support or immediate break / fix support for your Magento store, often on an hourly rate.
+Free, No Obligation Consultation
+About Magento Programming:
+Call Today!
+303.473.4400
+Toll Free 888.772.0777
+Or Click Here To Have A
+Real Person Contact You Now >>
+Problems We Solve:
+Making it easy for customers to find you via Google and other search engines.
+Helping you keep in touch with your past customers and prospects via cost-effective personalized email.
+Designing websites that creates a positive, trusted impression for an organization.
+Guiding prospects effortlessly through a sales funnel, using a six-step process to build trust and develop a relationship.
+Keeping a website up-to-date with fresh content, professional images, video, podcasts and blogs.
+Allowing an organization to easily update their website without any special training or software.
+Making it as easy as possible for customers to make purchases on an eCommerce site.
+Speeding up slowwwww sites.
+About Customer Paradigm
+Customer Paradigm is an award-winning, Colorado-based interactive agency with clients throughout the United States, Canada, Europe and Asia.  Our customer-centric approach allows us to internalize our client’s vision for their organization and design websites and print marketing that gets results.
+In order to best serve our clients, we developed our own project management system that makes sure all projects are done on time, on budget and to your satisfaction.  With more than seven thousand successfully completed projects since 2002, we strive to make working with us easy, fun and affordable.  Our team is always available via phone or email, and you’ll have direct access to a dedicated project manager.
+Our work focuses on three areas:
+1. Acquire (Get new customers)
+Search Engine Optimization
+Search Advertising
+Conversion Rate Optimization
+Trade Show Marketing
+Social Media
+Microsites
+2. Retain (Keep existing customers)
+Permission-based Email Marketing
+Direct Mail Marketing
+Social Media
+3. Interact (Create a compelling customer experience)
+Website Design & Development
+Magento eCommerce
+WordPress Content Management
+Custom Application Development
+Professional Photography & Video
+Our work includes Website development for 3M, microsites for Xcel Energy and marketing campaigns for the Four Seasons, BP, Shell Global Solutions and Genetech.
+From continuing medical education courses and e-newsletters for Johns’ Hopkins University, to trade show marketing / mini-CRM systems for Genetech, to secure remote imaging software and website development for the Greeley Medical center, we understand the specific challenges and opportunities faced by a wide variety of industries.
+We’ve done privacy consulting work for Merck, McGraw Hill, Lillian Vernon, and Starwood Hotels. We understand the challenges a regulated industry faces when it comes to the collection, use, storage and access to sensitive, personally-identifiable information on their websites across the U.S. and abroad.
+We’ve built eCommerce systems for Travelocity, helped AAMCO Colorado achieve top search engine optimization results, and created microsites for Go To Meeting’s Citrix. Clothing retailer Fresh Produce relies on Customer Paradigm for custom Magento eCommerce programming. The San Francisco Soup Company leverages Customer Paradigm’s cross platform expertise in an integrated mobile optimized system and daily email marketing campaigns.
+Our Search Engine Optimization (SEO) efforts helped news organizations find local religious leader, Rabbi Jamie Korngold and cover her program in The Wall Street Journal, USA Today, AP, Ski Magazine, CBS News and more. This intense media interest sparked a book offer from Doubleday Religion, who published Rabbi Korngold’s first best-selling book, God in the Wilderness (www.GodintheWilderness.com).
+In the sustainability realm, Pfizer, 3M and Intel are the first users of a manufacturer-based sustainable development software planning tool we’ve developed for the Global Environmental Management Initiative (GEMI) organization. We’ve also recently redesigned the sustainability section of the 3M Website site for 3M.
+Free, No Obligation Consultation
+About Magento Programming:
+Call Today!
+303.473.4400
+Toll Free 888.772.0777
+Or Click Here To Have A
+Real Person Contact You Now >>
+Customer Paradigm
+4.87 out of 5
+based on 55 ratings. 34 user reviews
+Please Have A Real Person Contact Me Now:
+First:*Last:*Phone:*Email:*
+Comments:Please have a real person contact me now.CommentsThis field is for validation purposes and should be left unchanged.
+Home
+About Us
+Submit Support Request
+Contact Us
+Magento
+SEO
+Software
+Services
+Portfolio
+Articles
+Blog
+SiteMap
+Login
+Whitepaper
+Privacy Policy
+Copyright © 2020 Customer Paradigm
+Pin It on Pinterest

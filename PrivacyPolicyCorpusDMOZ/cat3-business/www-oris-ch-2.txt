@@ -1,0 +1,7 @@
+https://www.oris.ch/en/legal-terms
+This website uses cookies to track performance, statistics, advertising purposes and to ensure you get a personalized experience. By continuing to browse this site you are agreeing to our use of cookies. To find out more please see our Privacy Policy and Terms of Use.
+{{::staticDatas.title}}
+{{::staticDatas.description}}
+{{::staticDatas.blocks[0].title}}
+Home
+Terms of Use

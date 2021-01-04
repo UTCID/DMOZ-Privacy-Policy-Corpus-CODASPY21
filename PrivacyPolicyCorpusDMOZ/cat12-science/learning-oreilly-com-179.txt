@@ -1,0 +1,30 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch07s04.html#websec2-CHP-7-SECT-4.3
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Open Policy IssuesWhen the first edition of this book was published in
+1996, many people believed that a working public key infrastructure
+was a prerequisite for commerce on the World Wide Web. We disagreed.
+At that time, there was already substantial commerce occurring on the
+Internet based on old-style, easily forged credit cards, rather than
+high-tech digital signatures. We argued that the additional security
+offered by digital signatures might not be necessary if there was
+money to be made.Today, the need for a widespread PKI is even more compelling,
+yet it seems more remote than ever. There are growing incidents of
+fraud on the Internet, and there is an increasing need to use digital
+signatures to do business. Yet despite the passage of digital
+signature legislation in the United States that makes a digital
+signature as legally binding as a written signature, widespread PKI
+seems further away today than it was in 1996.It is not clear that the current vision of a public key
+infrastructure can even be built. Today’s vision calls for a system
+with multiple CAs and with thousands or millions of different users,
+each obtaining, invalidating, and discarding certificates and public
+keys as needed. For the past 30 years, this type of technology has
+really not been tested outside the lab except in very controlled
+environments.[94]In the following sections, we’ll look at a few of the problems
+that must be faced in building a true PKI.Private Keys Are Not PeopleDigital signatures facilitate ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

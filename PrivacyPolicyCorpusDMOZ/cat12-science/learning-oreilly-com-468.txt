@@ -1,0 +1,31 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch16s04.html#websec2-CHP-16-SECT-4.1
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Rules for Programming LanguagesThis section provides rules for making programs written in
+specific programming languages more secure.Rules for PerlHere are some rules to follow to make your Perl
+scripts more secure:Use Perl’s
+tainting features for all CGI programs. These
+features are invoked by placing the “-T” option at the beginning
+of your Perl script. Perl’s tainting features make it more
+suited than C to CGI programming. When enabled, tainting marks
+all variables that are supplied by users as “tainted.” Variables
+whose values are dependent on tainted variables are themselves
+tainted as well. Tainted values cannot be used to open files or
+for system calls. Untainted information can only be extracted
+from a tainted variable by the use of Perl’s string match
+operations.The tainting feature also requires that you set the PATH
+environment variable to a known “safe value” before allowing
+your program to invoke the system( )
+call.Remember that Perl ignores tainting for filenames that are
+opened read-only. Nevertheless, be sure that you untaint all
+filenames, and not simply filenames that are used for
+writing.Consider using Perl’s emulation mode for handling SUID
+scripts safely if you are running an older version of
+Unix.Always set your program’s PATH environment variable, even
+if you are not running SUID or under Unix.Be sure that the Perl interpreter and all of its libraries are installed so that they cannot be modified by anyone other than the administrator. Otherwise, a person ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

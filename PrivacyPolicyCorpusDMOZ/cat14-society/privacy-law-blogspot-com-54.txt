@@ -1,0 +1,287 @@
+http://privacy-law.blogspot.com/2013/06/
+The Privacy Law Site
+* Devoted to Privacy Laws and Regulations since 2005 *
+Saturday, June 29, 2013
+26 Senators Seek Details on Information Collection from NSA
+26 Senators have sent a letter to DNI James Clapper seeking examples of how bulk collection of phone records information from provided unique intelligence.
+The AP reports the story here.
+posted by - at 9:57 AM
+51 comments
+COPPA Limits on Collection of Children's Information Applies to Apps as of July 1, 2013
+Congress amended COPPA in 2012 to cover online services such as apps. As was previously the case, the law only applies to apps "directed at" children under the age of 13, or have actual knowledge of collection of personal information from children under 13.
+COPPA also applies to services that allow users to play network-connected games, social networking activities,
+purchase goods or services online, receive online advertisements, or
+interact with other online content or services.
+Mobile applications
+that connect to the Internet, Internet-enabled gaming platforms,
+voice-over-Internet protocol services, and Internet-enabled
+location-based services also are online services covered by COPPA.
+This also applies to geolocation information, and photo, video, or audio recordings of children under 13.
+Websites and online services covered by COPPA must, among other things,
+Provide direct notice to parents and obtain verifiable parental
+consent, with limited exceptions, before collecting personal information
+online from children;
+Give parents the choice of consenting to the operator’s collection
+and internal use of a child’s information, but prohibiting the operator
+from disclosing that information to third parties (unless disclosure is
+integral to the site or service, in which case, this must be made clear
+to parents);
+Provide parents access to their child's personal information to review and/or have the information deleted;
+Give parents the opportunity to prevent further use or online collection of a child's personal information
+posted by - at 9:47 AM
+18 comments
+Privacy Using WiFi
+Via PC World, warnings and advice about information privacy when using public wifi.
+it’s relatively easy to
+capture sensitive communication at the vast majority of public
+hotspots—locations like cafes, restaurants, airports, hotels, and other
+public places. You can snag emails, passwords, and unencrypted instant
+messages, and you can hijack unsecured logins to popular websites.Fortunately, ways exist to
+protect your online activity while you’re out-and-about with your
+laptop, tablet, and other Wi-Fi gadgets.
+posted by - at 9:25 AM
+2 comments
+Tuesday, June 18, 2013
+NSA, FBI Officials Clarify Surveillance Techniques
+At a House hearing today, several intelligence officials testified in defense of recently reported surveillance techniques, most of which operated under Section 215 (tangible records) and FAA 702 (including the so-called 'PRISM' program). Some of the assertions made:
+The NSA keeps a database of phone records, but not e-mails or text messages. This metadata is only a record calls made, calls received, time, data and duration of a call.
+Metadata can only be accessed with reasonable, articulable suspicion.
+The NSA does not do pattern analysis of metadata, because that is not permitted
+Metadata is only accessed for terrorist investigations, not for domestic crimes.
+The NSA has only ever accessed records of 300 phone numbers under Section 215.
+Metadata is the only information the NSA collects or accesses under Section 215.
+Only 22 people at the NSA can access metadata, and only 7 can disclose such information to the FBI.
+A finding of reasonable suspicion is reviewed by superiors, documented, and audited.
+Unlike the NSA the FBI accesses information other than metadata under Section 215.
+FISA court orders are in some ways more difficult to get than grand jury subpoenas.
+The FISC issues a certificate to read content of non-U.S. persons outside the country. The certificate lasts a year.
+If a person surveilled under Section 702 enters the U.S., surveillance must cease.
+Americans can only be surveilled in the U.S. with probable cause of relation to foreign intelligence activities or terrorism, under another provision of FISA.
+Surveillance under Section 702 requires that the target be (1) a non-U.S. person (2) outside the U.S. at the time of surveillance and (3) have a link to terrorism.
+The Foreign Intelligence Surveillance Court is not a rubber stamp, but provides vigorous oversight and pushes back against certain claims. The reason they hardly ever reject applications for surveillance is because the FISC works with the NSA to clear up questions with the FISC.
+Surveillance programs helped prevent at least 50 terrorist attacks since 2001. In about half of those, Section 702 information was "critical." In only 10 of the 50 prevented attacks, Section 215 information was useful. Section 215 was used less frequently because that only applies within the U.S. and the other disrupted attacks were on foreign soil.
+Section 215 information was used to prevent a planned bombing of the New York subway system.
+Information gathered under 702 helped prevent an attack on the New York Stock Exchange.
+The NSA has approximately 1,000 system administrators with access similar to Edward Snowden.
+Edward Snowden could not have access to all the information he claimed, and would need certificates to access certain surveillance information.
+posted by - at 10:16 PM
+2 comments
+Tuesday, June 11, 2013
+Google Asks Government to Allow it Disclose its Compliance With Requests for User Information
+Google, citing hard work to over users' trust, has written to Eric Holder and FBI Director Mueller asking them to "help make it possible for Google to publish in information about its cooperation with requests or demands for user information relating national security requests, including FISA disclosures."
+Google states "Google’s numbers would clearly show that our compliance with these requests falls far short of the claims being made. Google has nothing to hide."Few organizations have the potential to gather and aggregate as much user information as does Google, and as it does so to a greater extent, (through search, Gmail, Google Plus, Blogger, Youtube) its credibility that it safeguards users' personal information will become a valuable corporate asset. This is true for other companies as well, of course, so it will not be surprising to see other organizations take similar steps to the letter Google's Chief Legal Officer sent today, especially now that Google has taken the lead.
+Dear Attorney General Holder and Director Mueller
+Google has worked tremendously hard over the past fifteen years to earn
+our users’ trust.
+For example, we offer encryption across our services;
+we have hired some of the best security engineers in the world; and we
+have consistently pushed back on overly broad government requests for
+our users’ data.
+We have always made clear that we comply with valid legal requests.
+And
+last week, the Director of National Intelligence acknowledged that
+service providers have received Foreign Intelligence Surveillance Act
+(FISA) requests.
+Assertions in the press that our compliance with these requests gives
+the U.S. government unfettered access to our users’ data are simply
+untrue.
+However, government nondisclosure obligations regarding the
+number of FISA national security requests that Google receives, as well
+as the number of accounts covered by those requests, fuel that
+speculation.
+We therefore ask you to help make it possible for Google to publish in our Transparency Report
+aggregate numbers of national security requests, including FISA
+disclosures—in terms of both the number we receive and their scope.
+Google’s numbers would clearly show that our compliance with these
+requests falls far short of the claims being made.
+Google has nothing
+to hide.
+posted by - at 2:11 PM
+6 comments
+Section 215 of the Patriot Act and the Verizon Court Order
+The
+order issued by the FISA Court for Verizon phone record metadata was
+made under 50 U.S.C. § 1861, enacted into law as Section 215 of the
+Patriot Act. We do not have the application submitted to the court, but we do have the court order. The law permits the court to order production of any tangible
+things relevant to an investigation to protect against international
+terrorism.
+50
+U.S.C. § 1861
+the
+Director of the Federal Bureau of Investigation or a designee of the
+Director (whose rank shall be no lower than Assistant Special Agent
+in Charge) may make an application for an order requiring the
+production of any tangible things (including books, records, papers,
+documents, and other items) for an investigation to obtain foreign
+intelligence information not concerning a United States person or to
+protect against international terrorism or clandestine intelligence
+activities, provided that such investigation of a United States
+person is not conducted solely upon the basis of activities protected
+by the first amendment to the Constitution.
+Each
+application under this section
+(1)
+shall be made to:
+(A)
+a judge of the court
+established by section
+1803
+(a)
+of this title
+or
+(B)
+a United States Magistrate Judge
+under chapter 43
+of title 28, who
+is publicly designated by the Chief
+Justice of the United States
+to
+have the power to hear
+applications and grant orders for
+the production of tangible things
+under this section on behalf of a
+judge of that court;
+and
+(2)
+shall include—
+(A)
+a statement of facts showing that
+there are reasonable grounds to
+believe that the tangible things
+sought are relevant to an
+authorized investigation
+(other than a threat assessment)
+conducted in
+accordance with
+subsection (a)(2) to obtain foreign
+intelligence
+information not
+concerning a United States person
+or to protect
+against
+international terrorism or
+clandestine intelligence activities,
+such things being presumptively
+relevant to an authorized
+investigation if the applicant
+shows in the statement of the
+facts
+that they pertain to—
+(i)
+a foreign power or an agent
+of a foreign power;
+(ii)
+the activities of a suspected
+agent of a foreign power
+who is the subject of such
+authorized investigation;
+or
+(iii)
+an individual in contact
+with, or known to, a
+suspected agent of a
+foreign power who is
+the subject of such
+authorized investigation.
+posted by - at 6:32 AM
+2 comments
+Monday, June 10, 2013
+Booz Allen Employee Claims Access to Vast NSA Surveillance Capabilities
+In interviews with The Washington Post and The Guardian, a 29 year-old man claims that as an employee of Booz Allen Hamilton in Hawaii, he had access to information about NSA surveillance programs, including domestic wiretaps.
+He is quoted as saying:
+"I, sitting at my desk, certainly have the authorities to wiretap anyone —
+from you or your accountant, to a federal judge, to even the
+President."
+He allegedly provided The Guardian with a top secret FISA court order for phone records collected by Verizon.
+The man, named Edward Snowdon, said he did not have a high school diploma, much less a college degree, but was employed by the CIA, the NSA, Dell and Booz Allen in sensitive positions with access to top secret information. As proof of his claims, he provided reporters with his CIA identification and diplomatic passport.
+Snowdon is Hong Kong, and Peter King, chairman of the House homeland security subcommittee, has already called for Snowden's extradition, "if Edward Snowden did in fact leak the NSA data as he claims."
+There is reason to be skeptical of Snowdon's claims, but if his claims are accurate, it not only raises questions about the nature and legality of surveillance programs, but employment practices of defense contractors and access given to employees to private companies.
+posted by - at 7:05 AM
+1 comments
+Friday, June 07, 2013
+NSA Monitoring
+E-Mail, Audio, Video, Search Terms via Google, Facebook, Apple, Microsoft
+The Washington Post and The Guardian are reporting that the NSA has been collecting user information directly from major online services, including "audio and video chats, photographs, e-mails, documents, and
+connection log."
+Companies allegedly involved are Microsoft, Yahoo, Google, Facebook, PalTalk, AOL, Skype, YouTube and Apple. The Guardian reports British intelligence is gathering the same information. The program, designated "PRISM," operates under judicial oversight and has operated since 2007.
+PRISM is apparently a very important intelligence program, cited in 1 out of every 7 intelligence reports.
+It works with another program called BLARNEY, described as "an ongoing collection program that leverages IC [intelligence
+community] and commercial partnerships to gain access and exploit
+foreign intelligence obtained from global networks."
+PRISM collects selected information and attempts, half-heartedly, to avoid collecting U.S. content. "Analysts ... key in 'selectors,' or search terms, that are designed to produce at least 51
+percent confidence in a target’s 'foreignness'."
+Reportedly Apple did not participate for several years, and Twitter does not. Other companies denied providing the government "direct access" to customer information.   The source providing the materials described real-time monitoring of search terms, e-mails, chat, video and audio communications.
+posted by - at 12:56 PM
+2 comments
+Links
+Federal Trade Commission
+HHS Office of Civil Rights
+Previous Posts
+White House to Propose End to Bulk Collection
+26 Senators Seek Details on Information Collection...
+COPPA Limits on Collection of Children's Informati...
+Privacy Using WiFi
+NSA, FBI Officials Clarify Surveillance Techniques
+Google Asks Government to Allow it Disclose its Co...
+Section 215 of the Patriot Act and the Verizon Cou...
+Booz Allen Employee Claims Access to Vast NSA Surv...
+NSA Monitoring
+E-Mail, Audio, Video, Search Terms...
+New York Judge Expresses Skepticism on Stop-and-Frisk
+Archives
+March 2005
+April 2005
+May 2005
+June 2005
+July 2005
+August 2005
+September 2005
+October 2005
+November 2005
+December 2005
+January 2006
+February 2006
+March 2006
+April 2006
+May 2006
+June 2006
+July 2006
+August 2006
+September 2006
+October 2006
+November 2006
+December 2006
+January 2007
+March 2007
+April 2007
+May 2007
+June 2007
+July 2007
+October 2007
+November 2007
+February 2008
+October 2008
+November 2008
+February 2009
+April 2009
+May 2009
+July 2009
+October 2009
+February 2010
+March 2010
+April 2010
+June 2010
+October 2010
+November 2010
+February 2011
+March 2011
+April 2011
+July 2011
+January 2012
+March 2012
+September 2012
+December 2012
+January 2013
+May 2013
+June 2013
+March 2014

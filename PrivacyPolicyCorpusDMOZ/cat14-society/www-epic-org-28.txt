@@ -1,0 +1,635 @@
+http://www.epic.org/privacy/drm/
+Digital Rights Management and Privacy
+Major DRM Developments | News | Resources | DRM
+Defeating Technology | DRM Developers | Microsoft
+Palladium
+Top News
+Berkeley Holds DRM Conference. The Berkeley
+Center for Law and Technology held a conference to discuss the impact
+of Digital Rights Management on technology, competition, consumers, and
+on flows of information. The papers from the conference are online.
+Day by day coverage is available at the Berkeley IP
+Log. Update: The Conference audio,
+video,
+transcriptions,
+slides,
+and resources
+are online. (Feb 28, 2003)
+EPIC Opposes FCC Broadcast Flag Mandate. In comments
+to the Federal Communications Commission, EPIC has recommended against the
+adoption of a Digital
+Television Broadcast Flag mandate unless it incorporates privacy protections
+for viewer data. The Broadcast Flag could erode anonymity in consumption
+of media and circumvent well-established public policy that protects viewer
+data. For more information, see the EFF
+BPDG Blog and the EPIC Digital
+Rights Management Page. (Dec. 6, 2002)
+EPIC Joins DRM Submission to OASIS. In comments
+to the Organization for the Advancement of Structured Information Standards
+(OASIS), EPIC joined the Samuelson
+Law, Technology & Public Policy Clinic in arguing that rights expression
+languages (REL) should incorporate fair use and privacy principles. (Aug.
+13)
+EPIC: DRM Anti-Consumer, Threatens Privacy, Free Speech, Fair Use.
+In comments
+to the Department of Commerce Technology Administration workshop
+on Digital Rights Management (DRM), EPIC argued that DRM technologies threaten
+privacy, free speech, and fair use. For more information, see the EPIC DRM
+Page. (July 18, 2002)
+EPIC, EFF Urge House Subcommittee to Consider Risks of DRM. In
+a letter
+to the House Judiciary Subcommittee on the Courts, the Internet, and Intellectual
+Property, EPIC and the Electronic
+Frontier Foundation (EFF) urged Members to consider the harms to consumer
+and societal rights posed by digital rights management (DRM) technologies.
+The Subcommittee will hold a hearing today focusing on the consumer benefits
+of DRM, with a panel consisting only of content protection representatives,
+and no witnesses to discuss the risks to privacy, fair use, free expression,
+or innovation. For more information, see the EPIC Digital
+Rights Management and Privacy Page and the EFF Campaign
+for Audiovisual Free Expression Page. (June 5, 2002)
+Introduction Digital Rights Management (DRM) systems restrict the use of digital files
+in order to protect the interests of copyright holders. DRM technologies can
+control file access (number of views, length of views), altering, sharing,
+copying, printing, and saving. These technologies may be contained within
+the operating system, program software, or in the actual hardware of a device.
+DRM systems take two approaches to securing content. The first is "containment,"
+an approach where the content is encrypted in a shell so that it can only
+be accessed by authorized users. The second is "marking," the practice
+of placing a watermark, flag, or a XrML tag on content as a signal to a device
+that the media is copy protected. According to Professor Ed Felten, both approaches
+are vulnerable to cracking by individuals with "moderate" programming
+skills.
+DRM technology and legislation requiring the inclusion of copy control systems
+pose serious threats to privacy, open source software development, and the
+fair use of copyrighted content.
+Some DRM technologies have been developed with little regard for privacy
+protection. The systems usually require the user to reveal his or her identity
+and rights to access protected content. Upon authentication of identity and
+rights to the content, the user can access the content. DRM systems can prevent the anonymous consumption of content. DRM systems
+could lead to a standard practice where content owners require all purchasers
+of media to identify themselves. In other areas where individuals can borrow
+or purchase media, such as video rental stores or libraries, statutory and
+ethical protections prevent the transfer of personal information linked to
+the content acquired. Such protections do not exist in the music and growing
+electronic book markets. In these unregulated areas, artists and authors may
+have more difficulty in finding an audience for their work because of the
+privacy risks associated with linking identity to content consumption. In addition to preventing anonymity in access to digital information, DRM
+can be used to facilitate profiling of users' preferences or to limit access
+to certain content. This is done by assigning an identifier to content or
+to the content player, and attaching personal information to the identifier.
+For instance, Microsoft's Windows Media Player has an embedded globally-unique
+identifier (GUID) to track users. Similarly, Microsoft's eBook Reader requires
+the user to "activate" the software and link it to a Passport account.
+From there, Microsoft captures a unique hardware identifier of the user's
+computer. There is also an activation limit that can stop a user from transferring
+an eBook to other computers. This enables Microsoft to prevent users from
+sharing books or from reading a book on a different machine. Also, Windows Media Player creates a log file of the content a user views,
+and "phones home" to a central server to obtain content titles.
+These technologies mark an important development in the use of copyright law:
+copyright can regulate duplication of works to protect content owners. Now,
+copyright is being used as a justification to both protect content and to
+profile the consumers of content. Linking personally-identifiable information to content may result in "price
+discrimination." Price discrimination is the practice of selling an item
+at different costs to different consumers. It can be facilitated where the
+seller knows the consumer's identity, and can associate the identity with
+a profile that includes financial information on the consumer. DRM systems
+may enable content owners to control access to content, but also to adjust
+the price of content based on the consumer's identity. Alternatives exist that would provide copy protection and at the same time
+protect privacy. For instance, token and password systems could be used to
+authorize a download of digital content. Alternative, non-privacy invasive
+solutions have not been explored adequately. DRM systems that have been designed impinge on users' control and use of
+content. Many DRM systems will not allow a user to transfer content to portable
+devices, such as MP3 players. In addition, many DRM systems work only with
+Windows operating systems to the exclusion of Linux and Macintosh users. DRM systems may also be designed to actually harm a user's system. One product
+in particular, InTether Point-to-Point, can impose "penalties" for
+"illegal" uses of files. The program can force a reboot of the user's
+computer or destroy the file that the user was attempting to access. A Celine
+Dion album released in 2002 by EPIC and Sony records can crash a user's computer
+if the disc is inserted in a CD-ROM drive. DRM may also be referred to as "Content Management Systems" (CMS),
+"Content/Copy Protection for Removable Media" (CPRM) or sometimes
+as "technological measures." The Digital Millennium Copyright Act (DMCA) can interfere with a user's ability
+to access content. The DMCA is a 1998 law designed to increase copyright holders'
+rights. The DMCA created civil and criminal penalties for the creation or
+distribution of DRM circumvention tools. As a result, a user attempting to
+circumvent copyright protection, even for legitimate reasons, may violate
+federal law. The DMCA was the American version of implementing legislation
+for a World Intellectual Property Organization treaty.
+Douglas Barnes, How
+to Fight the Super DMCA...and Win, 2003. EFF "Intellectual
+Property - Digital Millennium Copyright Act (DMCA)" Archive. Unintended
+Consequences - Three Years under the DMCA, EFF. RIAA v. Verizon
+Case, EPIC.
+DRM is a Threat to Open Source Software DRM schemes and laws that require embedding copy protection into devices
+endanger the development of open-source software. Open-source software developers
+rely on reverse engineering to write programs that can interact with hardware.
+This practice is illegal under the DMCA. Additionally, some industry standards
+must be "tamper-resistant." "Tamper-resistant" is defined
+in such a way that it makes open source implementations noncompliant.
+A
+Bad, Sad Hollywood Ending?, BusinessWeek, May 16, 2002.
+DRM Systems Cannot Recognize Fair Use Rights Statutory and Common Law interpretations of copyright law afford individuals
+"Fair Use" rights. Fair Use provides a defense to individuals who engage in
+an unauthorized use of protected content. It is impossible for DRM systems
+to incorporate Fair Use principles because they are difficult to define, and
+evolve over time. Fred von Lohmann of the Electronic Frontier Foundation has
+argued that for DRM to recognize Fair Use, engineers must be able to program
+a federal judge onto a computer chip.
+Fair Use allows individuals to interact with content to promote cultural
+production, learning, innovation, and equity between content owners and consumers.
+Fair Use includes libraries' and educators' rights to provide content to users,
+the right to sell physical copies of certain content that one acquires lawfully
+(the "First Sale" doctrine), and the ability to make a backup copy of software
+and music. No DRM scheme developed affords users these rights.
+EFF Campaign for Audiovisual Free Expression.
+EFF Broadcast Protection
+Discussion Group Blog.
+Fair Use By Design Workshop,
+Conference on Computers, Freedom, and Privacy 2002.
+Electrifying Copyright
+Norms and Making Cyberspace More Like a Book, Conference on Computers,
+Freedom, and Privacy 2002.
+Reconciling DRM and
+Fair Use: Preserving Future Fair Uses?, Conference on Computers, Freedom,
+and Privacy 2002.
+Hollywood,
+Silicon Valley near deal on digital TV, Mercury News (Reuters), June
+3, 2002.
+"Fair
+Use" Is Getting Unfair Treatment Two recent federal court rulings in
+Hollywood's favor could undermine consumers' historical rights to use the
+content they buy, BusinessWeek, May 14, 2002.
+A Media Consumption Culture Shift: Pay-Per-Use and the Marginalization
+of Content Sharing DRM systems have been presented as a solution to unauthorized copying of
+digital content. However, the content industry may have other objectives with
+DRM technology. The technology can limit users' interaction with media. Through
+limiting interaction, over time, DRM technologies can change users' expectations
+about control and use of digital content.
+Professor Peter Jaszi has argued that DRM developers may be attempting to
+acclimate consumers to a pay-per-use business model. Under such a system,
+a fee would be assessed each time digital media is accessed. This business
+model could be more lucrative for content controllers. DRM could also acclimate users to a system where sharing of content is not
+permitted. In 1996, Richard Stallman,
+President of the Free Software Foundation, painted a picture of a society
+with stringent copy controls and a societal rejection of content sharing.
+In The
+Right to Read, Stallman envisioned a world where copy protection prevented
+the anonymous reading of books, lending books to others, or the mere possession
+of software tools that could be used to bypass copyright law:
+This put Dan in a dilemma. He had to help her--but if he lent her
+his computer, she might read his books. Aside from the fact that you could
+go to prison for many years for letting someone else read your books,
+the very idea shocked him at first. Like everyone, he had been taught
+since elementary school that sharing books was nasty and wrong--something
+that only pirates would do.
+--The Right to Read, Richard Stallman, 1996.
+Major DRM Developments
+The FCC Broadcast Flag In August 2002, the FCC issued a notice of proposed rulemaking (NPRM) to
+consider whether digital television signals should incorporate a digital broadcast
+flag. Such a flag would mark digital content as "protected" and
+direct devices to limit individuals' use of the content. Comments were due December 6, 2002. The Electronic Frontier Foundation runs
+a "blog" to share detailed
+information about the flag. You can view comments by visiting the FCC
+E-Filing Page and entering proceeding 02-230 in the first box.
+EPIC
+Comments on the FCC Broadcast Flag, Proceeding MB 02-230. FCC
+Explores Digital Broadcast Copy Protection, FCC Press Release, August
+9, 2002. FCC
+NPRM on Digital Broadcast Copy Protection (PDF), FCC, August 9, 2002. EFF BPDG Blog, EFF. FCC
+demands pirate-proof, digital TV, ZDNet, August 8, 2002. F.C.C.
+Reportedly Poised to Act on Digital Tuners in TV's, New York Times (Reuters),
+August 6, 2002.
+H.R. 5211, Rep. Berman's P2P Anti-Piracy Bill Representative Howard Berman (D-CA) introduced H.R. 5211 in July 2002. The
+bill would allow cybervigilantism in order to stem P2P piracy. The measure
+would actually permit copyright owners or their agents to engage in behavior
+currently illegal under a computer fraud act in order to interdict filetrading.
+The bill authorizes copyright agents to block or otherwise disable file transfers
+where there is a reasonable basis to believe that the file traders are engaging
+in piracy. Copyright agents' techniques would be shielded from public view--they
+will have to notify the Department of Justice of their file blocking plans,
+but the techniques would be exempt from open government laws. Individuals
+whose file transfers are wrongly blocked would have almost no recourse. A
+wronged individual would first have to complain to the Department of Justice
+before bringing suit, and in order to prevail in court, the individual would
+have to show over $250 in monetary damages and that the copyright agent knowingly
+and intentionally blocked a legal file transfer.
+The bill is extremely broad, and although it is written to target Napster
+or Kazaa-like systems, it could be read as authorization to interfere with
+e-mail and instant messaging systems.
+H.R.
+5211, THOMAS Database. The
+Berman P2P Bill: Vigilantism Unbound, EFF Comments on H.R. 5211. Oppose Section 514. The Berman
+Bill, Digital Speech Project. 'Rewiring'
+file-sharing networks may stop attacks, New Scientist, November 11,
+2002. Movie
+Studios Press Congress in Digital Copyright Dispute, New York Times,
+July 29, 2002. Could
+Hollywood hack your PC?, Wired, July 23, 2002.
+Microsoft Palladium In June 2002, Microsoft announced its Palladium project, a project that would
+embed DRM into software and hardware. For more information, see the EPIC Palladium
+Page.
+The SSSCA and the CBDTPA In September 2001, Senator Fritz Hollings (D-SC) announced plans to introduce
+the Security Systems Standards and Certification Act (SSSCA). The SSSCA would
+require equipment manufacturers to embed government-approved copy protection
+systems into all computer equipment.
+In February 2002, Sen. Hollings scheduled hearings to examine the need for
+government imposition of standards for digital content protection. During
+the hearing, legislators declared that they would introduce legislation to
+mandate control requirements if the industry did not develop them. All of
+the hearing panelists represented large corporations and there was no testimony
+taken from consumer advocates. In March 2002, Sen. Hollings introduced the Consumer Broadband and Digital
+Television Promotion Act (CBDTPA). This copyright control would force manufacturers
+to embed copy protection in all devices that can receive digital media. The
+Senate Judiciary Committee also held hearings, and is now accepting comments
+from the public on the implications of the CBDTPA. Opposition to the CBDTPA
+has been vigorous both from individual users and from business interests.
+Consumer Broadband
+and Digital Television Promotion Act, Cryptome. Politechbot.com
+Consumer Broadband and Digital Television Promotion Act Archive.
+Protecting
+Creative Works in a Digital Age: What is at stake for Content Creators,
+Providers, and Users?, Senate Judiciary Committee.
+SSSCA Working Draft,
+Cryptome. Politechbot.com
+Security Systems Standards and Certification Act Archive.
+SSSCA,
+Crypto-Gram Newsletter. Professor
+Ed Felten's Testimony on the SSSCA, Felten.com. Big
+Brother! Take My Little Sister, New York Times, December 8, 2002. Execs
+Look to Lead Anti-Piracy Charge, CNET, June 5, 2002. EPIC
+and EFF Letter to the House Judiciary Subcommittee on DRM, June 5, 2002.
+The
+LawMeme Guide to Spider-Man and Star Wars Bootlegs, LawMeme, May 13,
+2002.
+Alternatives
+to the CBDTPA, Slashdot, May 1, 2002. White
+House Cool to Hollings' Act, Wired, April 27, 2002. Copyright
+Bill (CBDTPA) Universally Rejected, Slashdot, April 10, 2002. Copyright
+Bill Universally Rejected, Global Technology (Reuters), April 10, 2002. Digital-Copyright
+Bill Inspires Flurry of Criticism, Yahoo News (AP), April 9, 2002.
+A
+Mickey Mouse Bill, Security Focus, April 1, 2002. As
+Copyright Gets a Starring Role, We're Cast as the Villains, Washington
+Post, March 31, 2002. Operation
+Enduring Valenti, The Register, March 27, 2002. Dan
+Gillmor: Bleak future looms if you don't take a stand, Mercury News,
+March 23, 2002.
+Anti-Copy
+Bill Slams Coders, Wired, March 22, 2002. What
+Hollings' Bill Would Do, Wired, March 22, 2002. Senate
+Won't Act On Digital Content Bill - Lawmaker, Newsbytes, March 14, 2002. House
+Cool to Copy Protection, Wired, March 4, 2002. Peter Trei:
+"The Original SSSCA," a short story, Declan McCullagh's Politechbot,
+March 2, 2002.
+Hearings
+on Digital Movies and Piracy, New York Times, March 1, 2002. Content
+Spat Split on Party Lines, Wired, March 1, 2002. More
+on intel backs consumers in copyright war, David Farber's Interesting
+People List, February 28, 2002.
+Digital
+Security Fomenting a Feud, Wired, February 27, 2002.
+Chairman
+Announces Hearing on Digital Content Copyright Protection, Broadband, and
+Digital TV Transition, Senate Commerce Press Release (via Politechbot.com),
+February 26, 2002. USACM
+Letter to Sen. Hollings on SSSCA, EFF, September 26, 2001. Defeat
+the "Security Systems Standards and Certification Act" (SSSCA), EFF
+Action Alert, September 21, 2001. New
+Copyright Bill Heading to DC, Wired, September 7, 2001.
+Dmitry Sklyarov and Adobe eBook Copy "Protection" In June 2001, a Russian programmer named Dmitry Sklyarov published a program
+that can defeat a DRM technology used to secure Adobe eBooks. In July, at
+the behest of Adobe, the Department of Justice arrested Sklyarov for violating
+the Digital Millennium Copyright Act (DMCA) shortly after he presented a paper
+on cracking Adobe ROT-13 copy protection. Sklyarov remained in jail for several
+weeks and has been released on $50,000 bail. The Electronic Frontier Foundation
+(EFF) assisted in his defense and in December 2001, federal authorities dropped
+charges against him.
+Federal authorities have now pursued ElcomSoft, Dmitry Sklyarov's employer.
+The case is being litigated in Federal District Court in California.
+Index
+of ElcomSoft, Dmitry Sklyarov, Adobe, US Government and DMCA-related articles
+from around the Web, Planet eBook. US
+v. Sklyarov FAQ, EFF. EFF "Intellectual
+Property: Digital Millennium Copyright Act (DMCA): U.S. v. Sklyarov" Archive,
+EFF. ElcomSoft
+Verdict: Not Guilty, CNET, December 17, 2002. Russian
+Firm Battles Copyright Law, News.com, April 1, 2002. Civil
+Liberties Group: Copyright Law Unconstitutional, Newsbytes, February
+4, 2002. Feds
+Drop Copyright Case Against Russian Programmer Feds Drop Copyright Case
+Against Russian Programmer, Law.Com, December 14, 2001. Free
+Dmitry! Protest Call Brings Adobe to the Negotiating Table, EFF Action Alert,
+July 20, 2001. Free
+Dmitry! What You Can Do To Help Set Dmitry Sklyarov Free, EFF Action
+Alert, July 17, 2001. Press Release
+and Complaint in US. v. Sklyarov, Cryptome, July 17, 2001. FBI
+Reportedly Detains ElcomSoft Employee in U.S. Author of Advanced eBook Processor
+Software not on flight home, Planet eBook, July 16, 2001. eBook Security:
+Theory and Practice (PowerPoint), by Dmitry Sklyarov.
+Ed Felten and Suppression of Academic Inquiry into DRM Systems In April 2001, a team of researchers headed by Princeton Professor Ed Felten
+announced that they could defeat a DRM system developed by the Secure Digital
+Media Initiative (SDMI). Before presenting their paper, SDMI and the Recording
+Industry Artists of America (RIAA) threatened Felten and his team with a lawsuit
+under the Digital Millennium Copyright Act (DMCA). Felten's team decided not
+to publish the paper. Ultimately, SDMI and RIAA retreated from the treat of
+lawsuit, fearing that the DMCA may have been stricken as constitutionally
+overbroad when applied against a group of professors presenting an academic
+paper. In June 2001, the Electronic Frontier Foundation (EFF) bought suit
+against RIAA to obtain a declaratory judgment that Felten could present the
+SDMI research. Additionally, EFF sought the invalidation of the DMCA as an
+unconstitutional restriction on free expression. In August 2001, Felten presented
+the SDMI paper at the USENIX conference. In November 2001, a Federal District
+Court dismissed EFF's case. In February 2002, Felton decided not to appeal
+the dismissal.
+The
+Making of a Policy Gadfly: Seeing crucial computer-science work threatened,
+a Princeton professor takes on Congress, Chronicle of Higher Education,
+November 29, 2002. Security
+Researchers Drop Scientific Censorship Case, Electronic Frontier Foundation,
+February 6, 2002. Federal
+judge throws out EFF-Felten lawsuit challenging DMCA, Politechbot, November
+29, 2001. Status of the
+paper "Reading Between the Lines: Lessons from the SDMI Challenge,"
+Ed Felten Web Page. Felten v. RIAA,
+Electronic Frontier Foundation. ACM
+Declaration in Felten v. RIAA, Association for Computing Machinery. Professor
+decides against presentation on foiling music security, Siliconvalley.com
+(AP), April 26, 2001. Reading Between
+the Lines: Lessons from the SDMI Challenge, by Ed Felten, Cryptome,
+April 26, 2001. This link contains the SDMI letter threatening lawsuit under
+the DMCA against Felten for presenting his research. An Open
+Letter to the Digital Community, SDMI, September 6, 2000. This page
+is an invitation to break the SDMI code. Felten's team was responding to
+this invitation. Professor Ed
+Felten Web Page, Princeton University.
+4C Attempt to Embed DRM in Computer Hardware In Fall 2000, the 4C Entity, which is comprised of IBM, Intel, Matsushita,
+and Toshiba, attempted to include Content Protection for Removable Media (CPRM)
+in the standard for all ATA devices. The ATA standard encompasses hard drives,
+cd-rom and cd-rw drives, flash memory, and other media storage devices. With
+CPRM embedded in users' hardware, content producers would have the option
+of enabling copy protection and hindering "unauthorized" use of files. In
+February 2001, IBM decided to withdraw its call for CPRM in hard drives and
+to limit the application of CPRM to only removable media, which includes flash
+memory and other storage devices associated with digital cameras and MP3 players.
+IBM
+Backs Away from CPRM on Hard Drives, Focuses on Portable Media, The
+Internet Law Journal, April 16, 2001. Hardware
+safe from copy protection--for now, ZDNet, April 2, 2001. Smoke-screen CPRM
+"Generic Functionality" proposal, by John Gilmore, Cryptome, February
+26, 2001. Andre
+Hedrick On Hard Drive Copy Protection, Slashdot, January 10, 2001. 4C
+May Back Down On Hard-Disk Copy Protection, Slashdot, January 7, 2001. CPRM:
+The End of Digital Media Piracy?, Windows 2000 Magazine, December 28,
+2001. EFF's
+Gilmore calls for CPRM hardware boycott, The Register, December 26,
+2001. CPRM
+on hard drives - IBM takes a spin, The Register, December 24, 2001.
+News
+Software
+Bullet Is Sought to Kill Musical Piracy, New York Times, May 4, 2003.
+Beware
+of TurboTax, which modifies hard drive's boot sectors, Politechbot.com,
+February 16, 2003. Will
+Your CD Player Tell on You?, Slashdot, December 15, 2002. Online
+casting calls snub Apple, CNET, November 18, 2002. Protected
+CDs 'should be labelled', BBC News, October 29, 2002. Why fathers
+of PC revolution are wary of digital rights management, Politechbot.com,
+October 10, 2002. Microsoft
+Easing Up On DVD Restrictions, Washington Post, October 9, 2002. Tech
+firm loses Bon Jovi battle, CNET, October 7, 2002. Your
+Rights Online: Lofgren's Anti-DRM Bill, Slashdot, October 3, 2002.
+New
+consumer-protection bill introduced, News.com, October 2, 2002.
+Dan
+Gillmor: Apple stands firm against entertainment cartel, Mercury News,
+October 1, 2002. 'Free'
+Costello CD seeds DRM, MS Media Player 9, The Register, September 22,
+2002. Bon
+Jovi Uses 'Bounce' To Battle Music Pirates, Wall Street Journal, September
+17, 2002. Microsoft/HP
+to Market Crippled Entertainment PCs, Slashdot, September 3, 2002. The
+Day The Music Died: Windows Media and DRM, Slashdot, August 15, 2002. Downloads
+Did Not Cause The Music Slump, But They Can Cure It, Forrester Research,
+August 13, 2002. Forrester
+sees $2 billion digital music market by 2007, Siliconvalley.com, August
+13, 2002. Catch
+WMP, The Guardian, August 8, 2002. Tech
+activists protest anti-copying, CNET News.com, July 17, 2002. Digital
+Copyright Protection Goes Mobile, New Scientist, July 10, 2002. New
+Chips Can Keep a Tight Rein on Consumers, New York Times, July 4, 2002.
+Fears
+of Misuse of Encryption System Are Voiced, New York Times, June 20,
+2002. 'Ranger'
+Vs. the Movie Pirates, Washington Post, June 19, 2002. Mysteries
+Of The CDRW and Back Ups Revealed, Tom's Hardware, June 17, 2002.
+Lawsuit
+challenges copy-protected CDs, Reuters, June 16, 2002. Milberg
+Weiss Files Suit Over CDs With No-Copy Technology, Law.com, June 16,
+2002. DRM
+Helmet, Slashdot, June 9, 2002. DRM
+Helmets: An Idea Whose Time Has Come, Gordon Mohr, June 7, 2002. Fans:
+Music Should Rock, Not Lock, Wired, June 6, 2002. SonicBlue
+Freed From Monitoring, Wired, June 3, 2002. Media
+companies demand ID numbers for CDs and DVDs, Yahoo News, May 24, 2002.
+Media
+firms lobby piracy controls to EU, CNET News.com, May 24, 2002. Hollywood
+Wants to Plug the "Analog Hole", Broadcast Protection Discussion
+Group Blog, EFF, May 23, 2002. Copy-Proof
+CDs Cracked with 99-Cent Marker Pen, Reuters, May 20, 2002. Apple:
+Play Music at Your Own Risk, CNET, May 13, 2002. The
+Legal Theorist, Wall Street Journal, May 13, 2002. Lawrence
+Lessig: The "Dinosaurs" Are Taking Over, BusinessWeek, May
+13, 2002. New
+Enimem CD May Be Copy-Proof, USA Today, May 1, 2002. Copyright
+Holders Praise Proposed Bill, CNET News.com, May 1, 2002. Hollywood
+vs. the Internet, Reason Magazine, May 2002. Mac
+OS: Cannot Eject Copy Protected Audio Disc, Computer Starts Up to Gray Screen,
+Apple Support, April 29, 2002. Interview
+with a Congressman (Rep. Boucher), MP3 Insider, April 26, 2002. Electronic
+Frontier Foundation and Broadcasters Comment, Copyright Office Threatens
+Internet Radio Privacy, EFF, April 10, 2002. Andreessen:
+Copy protection efforts are doomed, Mercury News, April 9, 2002.
+EFF,
+EPIC, KPFA & KFCF Joint Comments to US Copyright Office on Internet
+Radio Privacy and Competition, April 5, 2002. Dion's
+new CD crashing party for some users, Hollywood Reporter, April 3, 2002.
+Privacy
+Concerns Raised Over Digital Music Proposal, Newsbytes, April 2, 2002. The "hidden"
+privacy issue in Internet radio fees, Declan McCullagh's Politechbot.com,
+April 2, 2002. Don't
+Confuse Fans with Pirates, Yahoo International Life, April 2002. Limit
+copying and we may end up copying the USSR, Guardian Unlimited, March
+24, 2002. Does
+it Take Hardware to Repel Pirates?, ZDNet News, March 22, 2002. Piracy,
+or Innovation? It's Hollywood vs. High Tech, New York Times, March 14,
+2002. DigitalConsumer
+Takes Up the Fight Against Copyright Plans in Congress, Wall Street
+Journal, March 14, 2002.
+Your
+Rights Online: Consumer Technology Bill of Rights?, Slashdot, March
+14, 2002. Lawmaker
+renews anti-copying criticism, CNET, March 13, 2002. Morpheus
+seeks new role in music biz, CNET, March 13, 2002. Avex
+won't buy back unplayable CDs, Japan Today, March 13, 2002. AOL Wants to Lock
+Up its CDs, ZDNET, March 12, 2002. Vivendi
+Group Sues Murdoch Unit, Wired, March 12, 2002. Vivendi’s
+Canal Plus alleges NDS helped steal digital-TV broadcasts, MSNBC, March
+12, 2002. Taming
+the Consumer's Computer, New York Times, March 11, 2002. House
+Rep's Rap: Unshackle the CD, Wired, March 7, 2002. CD
+Technology Stops Copies, but it Starts A Controversy, New York Times,
+March 1, 2002. The
+Death of Digital Rights Management?, Techreview, March 2002. Digital
+Rights: Background, Systems, Assessment, EU Working Paper, February
+27, 2002. CD
+Protection Complaint is Settled, New York Times, February 25, 2002. Serious
+Privacy Problems in Windows Media Player for Windows XP, Computerbytesman,
+February 20, 2002. Microsoft
+Player Logs User Info, Washington Post (AP), February 20, 2002. Senate
+Panel To Consider Web Copyright Protections, Newsbytes, January 24,
+2002. A
+Cop in Every Computer, Law.com (IP Worldwide), January 16, 2002. IE
+privacy flaw still causing leaks, ZDNet, January 15, 2002. Philips
+Says Compact Discs Can't be Copyprotected, Slashdot, January 11, 2002. More on
+Rep. Boucher's nastygram and copy-protected CDs, Declan McCullagh's
+Politechbot.com, January 8, 2002. Lawmaker
+promises changes to Online Copyright law, SiliconValley.com (Reuters),
+January 7, 2002. Rep. Boucher
+sends nastygram to music firms re: copy-protected CDs, Declan McCullagh's
+Politechbot.com, January 7, 2002. Digital
+Music Conference Follows Turbulent Year, CNN, January 6, 2002. CDs
+That Block Copying May Herald a Revolution, Los Angeles Times, January
+6, 2002. Coming Soon:
+Hollywood Versus the Internet, Cyberia-L via Cryptome, December 18,
+2001. A
+Call to End Copyright Confusion, Wired, December 18, 2001. Universal
+to release copy-protected CD in U.S., Mercury News, December 16, 2001. Digital
+Rights Management Operating System, Slashdot, December 12, 2001. Digital
+Rights Management Operating System, Patent Number 6,330,670, December
+11, 2001. Loading
+and Identifying a Digital Rights Management operating system, Patent
+Number 6,327,652, December 4, 2001.
+Where
+are the non-SDMI MP3 Players?, Slashdot, November 27, 2001. Why
+Copyright Laws Hurt Culture, Wired, November 27, 2001. A
+Lock and Load Battle Over Music, Los Angeles Times, November 22, 2001. Copy
+Protection Technology is Doomed, Computer, October 2001 (subscription
+required).
+Digital
+Rights Management II Conference, to be held January 29-30, Berlin, Germany. BMG
+Backs Down Over Copy-Protected CD, Slashdot, November 18, 2001. Sites
+spotlight reports of copy-protected CDs, CNET News, November 13, 2001. Conference on the Public
+Domain, to be held November 9-11, 2001, Duke University School of Law. Workshop on
+Security and Privacy in Digital Rights Management 2001, to be held November
+5, 2001, Philadelphia, PA, as part of the Eighth
+ACM Conference on Computer and Communications Security (CCS-8). Microsoft DRM System
+Technical Details, Cryptome. MS
+digital rights management scheme cracked, The Register, October 19,
+2001. DRM Summit,
+October 18, 2001, New York City, NY, sponsored by Siliconalleyreporter.com Old
+Code Defeats New CD Anti-Ripping Technologies, The Register, October
+8, 2001. U.K.
+Digital Activist Group Takes On CD Copy Protection, Newsbytes, October
+1, 2001. Sounding
+off on behalf of copy protection, CNET News, September 28, 2001. First lawsuit
+filed against new CD copy protection scheme (PDF), Plaintiff Complaint,
+Rothken Law Firm, September 6, 2001. Digital
+Content Sales Hinge on Standardized Protection, Gartner Group, August
+29, 2001. Protecting
+Copyright in a Digital World, Crypto-Gram Newsletter, August 15, 2001. Trouble
+Brewing Over Copy Protected CDs, Computertracker, August 7, 2001. Big Audio Dynamite, If you play pirate CDs, you could end up trashing
+your hi-fi, New Scientist, August 4, 2001.
+PC Music Listening
+Data May Be Tracked, Sold, Newsbytes, June 6, 2001. Loopy
+Ideas Secure Music Rights, Wired, May 18, 2001. The
+Futility of Digital Copy Protection, Crypto-Gram Newsletter, May 15,
+2001. MS
+May Have File-Trading Answer, Wired, May 1, 2001. Why
+Can't I Make Copies From Copies of My CDs?, Gigalaw.com, April 2001. Latest
+Windows XP Beta Adds Strict Copy Protection, PC World, March 25, 2001. Copy
+This! Can 'Military' Technology Beat Digital Piracy?, Inside.com, March
+12, 2001. Document-Destroying
+Copy Protection, Slashdot, March 12, 2001. CD
+anti-piracy system can nuke hi-fi kit, The Register, March 8, 2001. Everything
+you ever wanted to know about CPRM, but ZDNet wouldn't tell you...,
+The Register, December 29, 2000. Copy
+Protection: Just Say No, Computerworld, September 4, 2000.
+Resources
+The
+Right to Read, from The Road to Tycho, by Richard Stallman, February
+1997. What's Wrong
+With Copy Protection, John Gilmore. Marjorie Heins, The
+Progress of Science and Useful Arts: Why Copyright Today Threatens Intellectual
+Freedom, Free Expression Policy Project, December 2002. John Halderman, Evaluating
+New Copy-Prevention Techniques for Audio CDs, Princeton University,
+October 2002. Anticircumvention
+Rules: Threat to Science, Science Magazine, September 19, 2001. The
+Law & Economics of Reverse Engineering (PDF), Professors Pamela
+Samuelson and Suzanne Scotchmer (2001). Information
+Rights and Intellectual Freedom (PDF), Professor Julie Cohen, Ethics
+and the Internet 11-32 (Anton Vedder, ed., Antwerp: Intersentia, 2001). DRM
+Will Beget DCRM, Professor Roger Clarke, January 2, 2001. DRM
+and Privacy, Professor Julie Cohen, 18 Berkeley Tech. L.J. xx (forthcoming
+2003). Some
+Reflections on Copyright Management Systems and Laws Designed to Protect
+Them (PDF), Professor Julie Cohen, 12 Berkeley Tech. L.J. 161 (1997). A
+Right to Read Anonymously: A Closer Look at 'Copyright Management' in Cyberspace
+(PDF), Professor Julie Cohen, 28 Conn. L. Rev. 981 (1996). EPIC
+Comments to the Technology Administration of the Department of Commerce
+on DRM, July 17, 2002. Privacy
+and Digital Rights Management (DRM): An Oxymoron?, Information and Privacy
+Commissioner/Ontario, October 2002.
+Digital
+Choice and Freedom Act of 2002, Lofgren website.
+Factsheet:
+Digital Choice and Freedom Act of 2002, Lofgren website. Dan Bricklin, Copy
+Protection Robs The Future: Copy protection will break the chain of
+formal and informal archivists who are necessary to the long-term preservation
+of creative works.
+The
+Copyright Grab, Wired, January 1996. Payment
+Demands for Spurious Copyrights: Four Causes of Action, Professor Paul
+Heald, 1 J. Intell. Prop. L. 259 (1994). Unintended
+Consequences: Bad Results from the DMCA, EFF, May 2002. The
+DMCA's Chilling Effect on Encryption Research, Michael Landau, Gigalaw.com,
+September 2001. Publicknowledge.org. Creative
+Commons at Harvard's Berkman Center. DRM
+Workshop, European Union, February 28, 2002. DigitalConsumer.org. EUCD-Status,
+Association Electronique Libre. CD
+Audio Copy Protection, Distronics. U.K. Campaign for Digital Rights. Anti-DMCA Web Site. DRM Watch. Center
+for the Public Domain. Stoppoliceware.org. Subcode
+on a Compact Disk. Fat Chuck's.
+A list of copy-protected CDs. Rothken Law Firm.
+Ira Rothken litigated DeLise v. Fahrenheit Entertainment, Sunncomm et
+al., a challenge to the use of Digital Content Cloaking Technology that
+requires the consumer to reveal her identity before gaining access to content.
+The lawsuit was settled in February 2002. In the settlement, the defendants
+agreed to provide better notice and the ability to download content without
+requiring personal information. Adjuncts
+and Alternatives to Copyright, ALAI 2001 Congress, Columbia University
+Law School. Project
+on Anti-Circumvention of Technological Protection, Columbia University
+Law School. International
+Intellectual Property Resources, Columbia University Law School. 4C Entity CPRM Documents. Secure Digital Music Initiative. 10th ACM
+Conference on Computers and Communications Security, October 2003.
+DRM Defeating Technology
+The "Beale Screamer's" Crack
+of Microsoft DRM 2, Cryptome. ElcomSoft's AEBPR
+(Advanced eBook Processor), Cryptome. CloneCD
+will produce an exact copy of an original CD, thereby defeating copy protection
+systems that include corrupt sectors on the CD.
+DRM Developers The following is a partial list of DRM systems that are available or under
+development:
+Internet Digital Rights Management
+(IDRM). IDRM is an IRTF (Internet Research Task Force) Research Group formed
+to research issue and technologies relating to Digital Rights Management
+(DRM) on the Internet. The IRTF is a sister organization of the Internet
+Engineering Task Force (IETF). Perimele. Microsoft
+DRM Web Page. Contentguard. InTether Desktop. Macrovision. Cactus Data
+Shield, a system developed by Midbar Tech, adds noise to music data
+that is being copied.
+EPIC Privacy Page | EPIC
+Home Page
+Last Updated:
+March 29, 2004
+Page URL: http://www.epic.org/privacy/drm/index.html

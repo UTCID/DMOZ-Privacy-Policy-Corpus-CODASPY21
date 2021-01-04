@@ -1,0 +1,281 @@
+http://www.theyworkforyou.com/help/
+UK Parliament
+UK Parliament
+Scottish Parliament
+Northern Ireland Assembly
+Welsh Assembly
+London Assembly
+Search TheyWorkForYou
+Search
+Sign in
+Join
+Contact
+Frequently Asked Questions
+First things first
+What is TheyWorkForYou?
+TheyWorkForYou is a website with a simple aim: to make it much easier for anyone to understand exactly what is going on in Parliament.
+Is it run by the government?
+No: it’s a completely independent project, which has been run by the UK charity mySociety since 2006.
+Why is it called TheyWorkForYou?
+Because that’s the fundamental concept of a democracy: we vote our representatives in, and they work on our behalf.
+Perhaps you feel that your representative isn’t, in fact, working very hard or very effectively? Well,
+that’s one thing that TheyWorkForYou can help with: it can show you what your representative is doing
+– and if you find that unsatisfactory, it also shows you how to contact them and tell them about it.
+Content
+Where does the content come from?
+Most of the content you’ll see on this site – the debates, the facts and figures about MPs –
+is imported from elsewhere.
+Debates, for example, come from the official parliamentary Hansard feed. MPs’ positions, interests and job
+titles also come from parliamentary data sources.
+The difference between TheyWorkForYou and the Parliament website? We give the data a bit of a polish: we make it
+easier to follow debates by highlighting who’s speaking, for example, and allow you to search and link to them too.
+Additionally, we publish records of how MPs have voted.
+Voting content is imported from Public Whip, a separate project
+(run by Bairwell Ltd PHP and Node.JS development) which also works with scraped parliamentary data.
+Do you keep archives of debates?
+Yes! And that means that TheyWorkForYou can act as a rich, accessible historic resource for all.
+Here’s everything you’ll find on the site currently:
+House of Commons debates back to the General Election of December 1918;
+Data on MPs back to 1806 or thereabouts;
+House of Commons written answers and written ministerial statements
+back to the General Election of June 2001;
+House of Commons Public Bill Committees (previously called Standing Committees) back to the
+start of the 2000–01 session.
+House of Lords Hansard (except Grand Committees) back to around November 1999;
+Data on Lords back to the House of Lords Act 1999;
+Everything in the various Northern Ireland (Transitional) Assembly debates, and all MLAs;
+Everything in the Scottish Parliament official report, and all MSPs.
+It’s all searchable, and when you find part of a debate that interests you, you can share it, because each
+statement in every debate has its own URL (web address). For more information have a look at our blog post on
+using TheyWorkForYou as
+a history resource.
+Do you cover the European Parliament?
+No, but votewatch.eu do, and they might have what you're looking for.
+What happened to the numerology statistics?
+In 2020, we removed some statistics from MPs' individual pages.
+You can read an explanation in this blog post.
+Why are the PPS positions out of date?
+TheyWorkForYou used to get its ministerial information, as with much else,
+by scraping various pages on the official parliament.uk site. The official site
+stopped maintaining a list of PPSs in January 2009, which means our scraper could
+no longer find and work out the information. Without a central list of
+Parliamentary Private Secretaries, sadly there isn’t a lot we can do.
+Can I search TheyWorkForYou?
+You certainly can
+— you'll see the Search box at the top of every page. If you just want to
+search within a specific MP's speeches, there's a search box on each MP's page, too.
+But that might not be detailed enough for your needs, so there's more.
+Click ‘Advanced search’ under the box on the search results page,
+and you’ll see a number of options for refining your results.
+That makes it easy to find what you want. Want to level up? If you’re using TheyWorkForYou on a regular basis,
+it’s worth knowing that you can do everything Advanced Search does,
+and even refine your search further, right from the search box.
+To search for an exact phrase, use quotes (""). For
+example, to find only documents which contain the exact phrase "Hutton Report". Quotes can also
+be used to prevent stemming, so searching for “fish” will omit results for
+fishing or fisher.
+To exclude a word from your search, put a minus ("-")
+sign in front; for example to find documents containing the word
+"representation" but not the word "taxation":
+representation -taxation.
+“NOT” (in capitals) also works here:
+representation NOT taxation
+If you want to search for words only when they're used near
+each other in the text, use "NEAR". For example, to find documents
+containing the word "elephant" near the word "room":
+elephant NEAR room
+Find results including at least one of your search
+terms by using “OR”:
+education OR schools
+(we also have XOR if that’s useful; this returns a speech if it only matches one of the two results).
+Finally, you can restrict your results to specific content types by
+using shortcuts to our filters, which you can add to your
+search term. Here’s a selection – they can be used alone or in
+combination with one another:
+Column: If you know the Hansard column number (perhaps you’re
+looking up a paper reference): column:123
+Party: To restrict results to speakers from a specific party:
+party:Lab
+Department: To bring up only results from speakers in a specific
+department: department:Defence
+Section: To restrict results to a particular parliament or assembly
+(e.g. the Scottish Parliament), or a particular type of data within an
+institution, such as UK Written Ministerial Statements:
+section:scotland section:wms
+Date: To search only for results from a specific date:
+date:20080716 (16th July 2008)
+Or to return results between two specified dates (also requires a
+search term):
+hospitals 20080101..20080131
+(mentions of hospitals in January 2008)
+Does TheyWorkForYou provide an RSS feed?
+Yes it does. RSS is a means of fetching frequently-changing content from the
+web. The resulting feed can be read via a 'feed reader', or used
+to provide content for other websites and applications.
+TheyWorkForYou provides a number of feeds. For example, there are
+feeds for all Commons, Lords and Westminster Hall debates. There
+are also feeds for each representative's speeches: some MPs use
+these to display their latest activity on their own websites.
+How do you decide which Wikipedia pages to link to?
+TheyWorkForYou automatically scans the text of debates to find phrases of more than two consecutive words which are also the title of a Wikipedia page, and then links them to those pages. Where the topic could refer to one of multiple Wikipedia entries (e.g. 'Michael Jackson' could refer to the pop star or to the once U.S. Deputy Secretary of Homeland Security), we link to the top page in Wikipedia's disambiguation list.
+This system generally provides a useful service whereby you can look up any unknown name or phrase easily. However, the automation of this process does sometimes mean that we link to an inappropriate Wikipedia page. If you find an example of this, please do let us know and we will remove the link.
+Voting records
+TheyWorkForYou contains a wealth of data on how MPs have voted in Parliament.
+It's important to us that we represent MPs” activity fairly and without political bias. Our “What you should know about voting information on TheyWorkForYou” page describes:
+How to find the voting data you’re after
+What data we do and don’t publish
+How you should interpret our data
+And how to avoid some common misunderstandings about voting in Parliament.
+What does it mean when you say that a representative has “consistently” or “generally”
+voted for or against something?
+MPs’ stances are made up from a number of different votes which Public Whip have deemed to be relevant
+to the topic. For example, an MP’s position on Trident is judged from the way he or she voted on each
+occasion listed here.
+If an MP’s votes all, or almost all, align strongly with those listed on that page, we’d say
+they “consistently” voted in favour of Trident. MPs who have voted in a different way are marked
+as having “almost always voted for”, “generally voted against”, or “consistently
+voted against” the issue, depending on how many of their votes align with this list.
+You can see a link at the end of every such statement on TheyWorkForYou, titled “details” –
+clicking on that will show you exactly which votes went towards any particular stance.
+The votes that go to make up each position are carefully compiled by hand: we’ve written a couple of
+blog posts on how we do that: read the first one here
+and the second here.
+How is the voting record decided?
+The voting record is not affected by what MPs and Peers have said, only how they
+voted in relation to that topic in the house – i.e. "aye" or
+"no".
+Votes on each topic were examined, and strength of support determined
+based on these votes.
+Follow the "votes" link next to each topic for details.
+Additionally, in many votes, MPs and Peers are told how to vote (“whipped”) by their
+parties. Since the Whip is secret, we have no reliable means to represent where this has happened.
+Thus we can only commit to publishing the facts of how each Member voted, not the reasons why they might have done so.
+Details of the votes on which each policy position is based are available on
+the Public Whip website and linked to from these pages. You can
+read
+more about the process we follow when researching the policy positions on our
+blog. Please contact us if you’ve spotted something
+which needs to be updated or corrected.
+Reusing our data and code
+What can I do with the TheyWorkForYou API?
+The API queries the TheyWorkForYou database
+to return data on MPs or debates. It’s free for projects that are both low-volume AND charitable,
+and there’s a small fee attached for any usage outside that.
+Here’s some of the data you can fetch with the API:
+Details of all MPs, either currently or at any date in the past
+The boundaries of parliamentary constituencies
+The content of debates between any two dates that you specify, or containing any keyword that you specify
+A mixture of the above, for example, MPs’ names along with their speeches or the constituencies they represent.
+And lots more – see the whole list on the API page.
+How do people use TheyWorkForYou?
+Here are some quotes from our users.
+Jo Brodie, Science Information Officer & Islet Project Coordinator,
+Diabetes UK:
+"TheyWorkForYou.com contributes to my 'current awareness' of what is being said
+about diabetes and insulin (access to treatment, statistics etc) and other
+related health topics (for example organ transplantation and stem cell research
+as that's very relevant for diabetes and its complications too). The email
+alerts and RSS feeds mean the information lands rather helpfully in my intray.
+"The Science Information Team at Diabetes UK occasionally gets asked stats
+questions on the numbers of people with diabetes, or a particular complication
+of diabetes, in a specific location. We don't have access to this sort of data
+but the top statisticians in the Department of Health do, so it's often worth
+our while having a quick search to see if something's been asked and answered.
+"Even if a question results in "information of that nature is not held
+centrally", that's useful because we can demonstrate that there isn't a good
+answer and this will save the original enquirer spending time on a fruitless
+search.
+"If information is forthcoming there is often a reference or info about the way
+in which the evidence was collected - if this is publicly available then we can
+use that resource to find other things. (I think this is how I found out about
+the Prescription Pricing Authority which deals with costs of medications - a
+useful resource when someone wants to know the impossible 'how many people use
+insulin?'). So basically it 'begets' further info!
+Robert Goodwill, MP for Scarborough & Whitby:
+"Use the site all the time and print off bits to send to
+constituents.
+My local newspapers are registered so they often
+cover my comments in Parliament that I wouldn't even send out as a
+press release."
+Contributing to TheyWorkForYou
+What should I do if I find an error on the site?
+By all means let us know, but be aware that because,
+as explained above, much of our data replicates the official parliamentary source, the error may well
+originate from there.
+Parliament undertakes a rolling process of corrections and updates. When their content is amended, the
+next time our site picks it up, our content should be amended too.
+So — if the error is in the data, it's likely to resolve itself. But if there's something up with our
+code or the way the page is displaying, etc, we would be glad to know.
+I have an idea for a new feature – do you want to hear it?
+We’d love to – but please be aware that TheyWorkForYou is currently running without dedicated funding or resources,
+so at the moment we're unlikely to introduce new features. However, when we do have funding, we adopt new ideas on a merit
+basis, so if enough people request a feature, it’s much more likely to get made.
+The code behind TheyWorkForYou is open source,
+meaning that anyone can pick it up and work with it. If we can’t build the feature you want,
+you’re welcome to either build it yourself or find a developer who can (a good place to find developers
+is the TheyWorkForYou community mailing list
+– see if you can excite people enough, and you never know, someone might take your idea and run with it.)
+Do talk to us first though, to make sure no-one else is already working
+on a similar idea!
+How do I submit photos of representatives?
+We welcome contributions of images, especially for those representatives who don’t yet have one.
+But please note that any image we use must have been released by its owner under a
+Creative Commons Attribution-ShareAlike
+license – which means that anyone is free to copy and use the image themselves, with attribution.
+Unfortunately, that means we can’t just use any old photo that you may have found on the web:
+it needs to be from a verified public domain source, or owned by you, or you need to have permission
+from the owner for it to be used on the site.
+If that is the case then please do forward it to us and
+we will be happy to use it.
+Privacy
+What is your privacy policy?
+See our privacy policy page for details.
+Problems
+I’m trying to sign up for an email alert but the confirmation mail has not arrived
+Please check your spam or junk folder. If you still can’t find the email,
+let us know and we’ll confirm you at our end.
+How can I stop email alerts?
+At the foot of every alert email, you will see a link. Click on this – no password
+required – and to the right of the page, you will see a list of every alert you are
+subscribed to. For each one, you can pause the alert, or delete it altogether. For more
+information see our blog post on
+managing your email alerts.
+How can I change or manage my email alerts?
+Check this blog post
+where we have explained the best way to manage your email alerts.
+My postcode isn’t recognised by your site
+If your postcode is brand new, it’s possible that we don’t yet have the data to recognise it.
+The site will update in due course when we upload new data from Ordnance Survey. We’d suggest using
+a nearby postcode that you know to be in the same constituency.
+Otherwise, please drop us a line and tell us the postcode
+you’re trying to input.
+My postcode returns the wrong MP
+Our postcode-to-constituency mapping is handled by MapIt,
+a piece of software which takes the centre point of a postcode and returns the constituency that point
+is in. In rare cases where postcodes straddle boundaries, this method delivers the wrong results for
+a handful of people.
+At the moment, we can only suggest that you use a neighbouring postcode in order to bring up the right
+representatives.
+TheyWorkForYou
+Making it easy to keep an eye on the UK’s parliaments. Discover who represents you, how they’ve voted and what they’ve said in debates – simply and clearly.
+Get insights on TheyWorkForYou and other mySociety sites, in our popular newsletter
+Leave this box empty:
+Your data
+Help - Frequently Asked Questions
+About us
+Link to us
+News
+Privacy Policy
+Source code
+API
+Raw Data
+Developer mailing list
+Contact
+Your donations keep this site and others like it running
+Donate now
+Built by
+mySociety
+mySociety is a registered charity in England and Wales (1076346) and a limited company (03277032). We provide commercial services through our wholly owned subsidiary SocietyWorks Ltd (05798215).
+Github
+Twitter
+Facebook

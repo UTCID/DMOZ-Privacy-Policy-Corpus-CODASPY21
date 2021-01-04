@@ -1,0 +1,139 @@
+http://grc.com/faq-privacy.htm
+Purchasing
+Sales Support
+Technical Support
+Contact Us
+Blogs, Twitter & RSS
+Privacy Policy
+Steve's Projects Page
+Steve's Old Resume
+General information
+What SpinRite Does
+User testimonials
+S.M.A.R.T. Monitor
+Purchase SpinRite
+FAQ
+Demo Videos
+Knowledgebase: SATA
+Knowledgebase: BIOS
+SpinRite v5.0 pages
+ShieldsUP!
+Certificate Revocation
+Password Haystacks
+HTTPS Fingerprints
+Security Now!
+DNS Spoofability Test
+Perfect Passwords
+PPP Passwords
+Tech TV video clips
+Newsgroup Discussions
+SQRL
+Security»
+InSpectre
+Securable
+Leaktest
+Shoot the messenger
+Unplug n' Pray
+DCOMbobulator
+MouseTrap
+MouseTrapCmd
+Utilities»
+Never 10  (no upgrade)
+DNS Benchmark
+InitDisk
+Wizmo
+ID Serve
+ClicKey
+Free & Clear
+IDentity (ASPI)
+Obsolete»
+FIX-CIH
+TIP (trouble in paradise)
+OptOut
+XPdite
+NoShare
+LetShare
+Patchwork
+General»
+Malware Repository
+SQRL Login Technology
+EV SSL/TLS Certificates
+Ultra-high entropy PRNG
+Pure CSS web menus
+NAT router security
+PDA max battery life
+Pending»
+GRC NetFilter
+TrustPuppy
+Historical»
+Worm wars of 2001
+File downloader spying
+Sub-pixel font rendering
+Earthlink browser tag
+ZIP & JAZ click of death
+Dormant»
+OpenVPN
+The Assimilator
+ASPI ME
+Health»
+Health Homepage
+The Low Carb Choice
+Vitamin D
+Healthy Sleep Formula
+Zeo Sleep Manager Pro
+SQRL
+PDP-8 Computers
+TrueCrypt Repository
+Big Number Calculator
+The Quiet Canine
+Being Informed is the Best Spyware Defense!by Steve Gibson, Gibson Research Corporation
+The GRC Privacy FAQThis site contains TWO completely different FAQ pages:
+This "GRC Privacy FAQ" page provides answers to common questions relating to general Internet privacy, spyware, and malicious web sites.
+The other OptOut User's FAQ page contains answers to questions specific to the operation and capabilities of our OptOut program. If that's what you're looking for, you can find it on the Optout User's FAQ page.
+You may click any of the red button targets to jump directly to a Q&A of your choosing, or scroll down and read through the entire page . . .
+How do advertisers track people on the web?
+How can I remain completely anonymous on the web?
+If I disable and refuse all cookies am I "tracking proof" ?
+What's a "Web bug" ?
+How do advertisers track people on the web?
+Web tracking technology is extremely advanced and is becoming more so all the time. The desire for "them" to know as much about you as they can seems to make advertisers go bonkers. So, new and ever-more-clever and sneaky approaches are always being developed.Fellow privacy advocate, Richard Smith, has a collection of terrific pages that explain many of these technologies in satisfying detail. I highly recommend that you check them out!
+How can I remain completely anonymous on the web?
+True Internet anonymity is surprisingly difficult to achieve. Several things are required if you really want to pull this off:
+First, you must route all of your Internet access through a "third-party" anonymizing server. This will disguise your actual IP address and should also offer some "content filtering" to suppress unnecessary eMail and http headers from mail and web activities. The most popular anonymizing service is http://www.anonymizer.com/. I have no direct experience with them, so I can't vouch for their services in any way, other than to say that they have a good reputation in the industry and have been around "forever" (which is, in itself, a good sign).
+Second, you must cleanse your applications themselves. For example, your web browser should NOT know anything about you. Some browsers have your eMail address filled-in for accessing FTP servers — that's clearly not very anonymous. Also, your browser must be run in the highest security mode possible, with all active content and scripting completely disabled. You must NEVER agree to run any script or active content on any web site you visit. And, all of the browser's many "caches", "cookies" and "histories" should be flushed and cleaned out.
+As you can see, true anonymity is frustratingly difficult to achieve and requires that we sacrifice many conveniences.
+If I disable and refuse all cookies am I "tracking proof" ?
+Unfortunately, no. There's another more recent tracking technology that's VERY potent and doesn't reply upon cookies. Please see the following question which describes the new technique known as "web bugs."
+What's a "web bug" ?
+"Web Bug" is the term for a new and nasty (potent) tracking technology. It's extra nasty since even eMail messages can be "bugged" and mass mailers (spammers) can, and do, use these bugs to confirm your receipt and viewing of their spam, even if you then delete the note!
+A web bug is usually a minimum size, one pixel high by one pixel wide (1x1) transparent .gif image. Being transparent you can't see anything, yet any HTML-enabled viewer, including your browser, eMail, news, or other "client" will fetch the tiny .gif image from a foreign server whenever the image is displayed. If cookies are enabled then a full "cookie exchange" will transpire as well — and you already know what THAT means about loss of privacy!
+But, more importantly, even if cookies are NOT enabled, a new technology, which I call "fake dates", can still be used to track you individually. By uniquely and individually "faking" the last modified date of a web bug image (or of a traditional web advertisement for that matter) it is possible for you to be tracked just as deliberately and uniquely as if all cookies were being accepted! Whenever your browser already contains a web bug image in it cache, it asks the foreign server if the image has been modified since the "fake date", which instantly and uniquely identifies you to the server since every person being tracked is given a different fake date!
+If nothing else, this goes to show you how desperate these sneaky creeps are to track your movement across the Internet. Richard Smith has done some wonderful work on this issue.
+If the coloration of all the links below indicate thatyou have visited every page, there's nowhere youhaven't travelled! I hope you've enjoyed your stay!
+You are invited to browse these pages for additional information:
+1
+OptOut Homepage
+5
+Suspected Spyware
+9
+Privacy On The Net
+2
+Code Of Conduct
+6
+The OptOut Program
+10
+GRC Privacy Forums
+3
+Spyware Analyzer
+7
+OptOut User's Guide
+11
+Keeping Informed
+4
+Known Spyware
+8
+OptOut User's FAQ
+12
+GRC Privacy FAQ
+Gibson Research Corporation is owned and operated by Steve Gibson.  The contentsof this page are Copyright (c) 2020 Gibson Research Corporation. SpinRite, ShieldsUP,NanoProbe, and any other indicated trademarks are registered trademarks of GibsonResearch Corporation, Laguna Hills, CA, USA. GRC's web and customer privacy policy.
+Last Edit: Aug 17, 2004 at 12:34 (5,959.58 days ago)Viewed 5 times per day

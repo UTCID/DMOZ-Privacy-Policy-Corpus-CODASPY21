@@ -1,0 +1,214 @@
+https://privacybox.de/cgi-bin/tram_msg.pl?sus=bkaemper&lang=de
+EN
+DE
+FR
+RU
+Protects
+emails, files, hard drives, server certificates and online accounts
+Nitrokey enables
+Secure Login
+Login to websites (e.g. Google, Facebook) using secure One Time Passwords (OTP), U2F or ordinary static passwords. Login to computers and network services (e.g. SSH) using certificates.
+read more
+The Password is Dead
+Passwords can be either difficult to remember or too short to securely protect important accounts. Traditional password systems have not been able to keep up with the increasing number of accounts needed for various websites nowadays. Passwords should be unique and the same one should never be used for multiple accounts. This renders passwords insecure and impractical to use.
+Nitrokey aims to replace passwords by utilising the following strong authentication procedures:
+One Time Passwords (OTP)
+One Time Passwords (OTP) are similar to TANs and are used as a secondary security measure in addition to ordinary passwords. OTPs protect against identity theft, which means that if your password is compromised your account is still secured by the Nitrokey. Using a small tray icon application, your Nitrokey generates OTPs which are required in order to log in to configured websites and applications. There is a growing list of websites which can be used with Nitrokey's OTPs. The supported protocol are HMAC-based One-time Password Algorithm (HOTP, RFC 4226) and Time-based One-time Password Algorithm (TOTP, RFC 6238), which are compatible with Google Authenticator.
+FIDO Universal 2nd Factor (U2F)
+FIDO Universal 2nd Factor (U2F) is very secure, super easy to use, and may become the successor to OTPs. FIDO U2F uses cryptographic challenges which are signed by the Nitrokey U2F device. Account-specific keys are used to prevent user tracking and to protect your privacy. U2F doesn't require an additional tray application because some web browsers already support Nitrokey U2F (Firefox, Google Chrome, Internet Explorer with plugin). U2F is a new standard and is so far only supported by a few websites, but its acceptance is increasing.
+Client Certificate Authentication
+You can use your Nitrokey to administrate your servers securely via SSH, to access your Virtual Private Network via OpenVPN or IPSec and to log in to some websites via HTTPS or OpenID.
+Password Safe
+In cases where an ordinary password is required, Nitrokey provides a password safe to store passwords securely. It allows you to have individual passwords for each account and store them encrypted in the Nitrokey. Maximum 16 passwords.
+Email Encryption
+Encrypt your emails with GnuPG, OpenPGP, S/MIME or your favourite email client. Keep your secret keys secure on your Nitrokey.
+read more
+Emails are readable like postcards
+If you do not take additional precautions, random system administrators can easily access your emails. It is also possible that your emails have already been accessed and stored by intelligence services. Cybercriminals are increasingly targeting email servers in order to launch phishing attacks on businesses and individuals. Email encryption prevents attackers or unauthorised users from reading your private emails.
+Nitrokey aims to make email encryption as easy as possible
+Nitrokey stores your secret keys securely on the device and protects them from malware and physical attackers. Nitrokey can be used with various types of email encryption software both easily and with minimal modifications. Windows, MacOS and Linux are supported, and device drivers are either preinstalled or installed automatically. GnuPG works out of the box in conjunction with Nitrokey and supports OpenPGP and S/MIME formats. PKCS#11 drivers are provided for integration with S/MIME-supporting software. Among the supported applications are Mozilla Thunderbird, MS Outlook, Evolution and GnuPG.
+Supported email encryption standards: OpenPGP and S/MIME
+Two different formats exist for email encryption: OpenPGP and S/MIME. OpenPGP is more popular for individual use, while S/MIME is predominantly used by businesses. Unlike most other USB dongles, Nitrokey supports both formats.
+Encrypted Mobile Storage
+Carry important data with you, hardware-encrypted on your Nitrokey Storage device (16-64 GB). Compatible with Windows, Linux and Mac OS.
+read more
+Data Loss on USB drives
+To avoid damage to data, and even subsequent lawsuits, it is necessary to encrypt all sensitive data that you carry with you. You don't want find yourself dealing with the horrible potential consequences of data loss ([1], [2], [3]).
+Insecure proprietary USB vendors
+Hard disks and other equipment are routinely intercepted by the NSA en route from vendors to clients, and in the process are implanted with backdoors. With Nitrokey you can export the installed firmware and verify its integrity (or flash your own firmware).
+In 2011 RSA Inc was hacked and the secret keys from all of their SecurID tokens were stolen, allowing to circumvent the access control.
+FIPS 140-2 Level 2 certified USB storage devices from Kingston, SanDisk, Verbatim, MXI and PICO could easily be accessed using a default password (revealed in 2010).
+Serious security flaws were also found in the following products:
+Yubico's YubiKey (2019)
+Safenet Protect Server PSI-E2/PSE2 (2019)
+eyeDisk (2019)
+Western Digital (2015)
+Xystec (2012)
+Corsair's Padlock (2010)
+Raidon‘s Staray-S-Serie (2009)
+All USB storage devices from 9Pay, A-Data and Transcend which use fingerprint readers based on the USBest UT176 and UT169 from Afa Technology (2008)
+Digittrade (2008)
+Excelstor’s GStor Plus (2005)
+Lexar JumpDrive (2004)
+Encrypted Storage
+The Nitrokey Storage contains an encrypted mass storage space with a capacity of up to 64 GB. To unlock the drive, simply enter your PIN and all of the encryption and decryption will be performed within the hardware device. This is theoretically more secure than a software solution and means that you no longer need to be dependent on an operating system. The device can be used with Windows, Linux and Mac OS X.
+Hidden Volumes
+Nitrokey Storage contains a feature which allows you to set up hidden volumes in addition to the primary encrypted storage. These hidden volumes are protected by an additional password and their existence cannot technically be proven. This allows you to deny the existence of any additional encrypted data, for example during border controls.
+Hard Disk & File Encryption
+Encrypt your hard disks and files using TrueCrypt/VeraCrypt, GnuPG Tools and more. Keep your secret keys secure on your Nitrokey.
+read more
+If you have any private data stored on your computer or laptop, disk encryption is a must. With the Nitrokey you can use various disk encryption solutions. Your secret keys are stored securely on the Nitrokey device, which can be used similarly to a physical door key to unlock your computer. Among the supported solutions are TrueCrypt/VeraCrypt, Gnu Privacy Assistant and GnuPG. Microsoft Bitlocker and Linux disk encryption solutions should also work but have yet to be tested.
+Key and Certificate Management
+Protect your server certificates by using up to 300 cryptographic keys with the Nitrokey HSM. Ideal for security servers, Public Key Infrastructures (PKI) and Certificate Authorities (CA).
+read more
+Servers are vulnerable to a large range of attacks, are online 24 hours a day, and are sometimes poorly maintained. Most servers will at some point contain a remotely exploitable security flaw (for example, OpenSSL's Heartbleed bug). Even though you may not be able to secure your server 100%, you can keep your private keys out of reach of attackers and store them on the Nitrokey.
+Server Administration with SSH
+Manage your servers, critical infrastructure, and Internet of Things (IoT) not just securely but also more easily. Administrators no longer require to synchronize key files between their desktops or remember complex passwords. Nitrokey acts as a mobile latch key to your servers by using Secure Shell (SSH), providing 2FA always at hand.
+Nitrokey is better
+High Security
+Your secret keys are stored in the tamper-resistant and PIN-protected device and are secured against computer viruses, other malware, phishing, loss, theft and brute-force attacks.
+read more
+The Nitrokey contains an integrated smart card (based on Common Criteria 5-high certification) that stores and protects cryptographic keys (RSA-4096, ECC-256, AES-256). All sensitive cryptographic operations (e.g. generation of secret keys) are securely computed in the Nitrokey. The tamper-resistant design prevents sophisticated physical attacks with laboratory equipment.
+An additional administrator PIN enables hierarchical use cases and the import of existing keys and backup of keys are possible.
+Made in Germany
+Nitrokey is developed and produced in Germany, primarily in Berlin. For the sake of higher quality and security, we do not use cheap overseas manufacturing.
+Independent Security Assessment
+The auditing company Cure53 performed an intensive security review of the Nitrokey Storage. The security experts summarize their results with "Nitrokey is capable of functioning properly and securely" (see final report available here Firmware, Hardware).
+read more
+A growing acceptance and user base supports continuous improvement and ensures high security due to peer reviews.
+Open Source
+Both hardware and software are open-source, free software and allow independent security reviews. Customisable, no vendor lock-in, no security via obfuscation, no hidden security issues!
+read more
+Secret keys can be generated securely by yourself rather than to trust a vendor doing so. The lack of vendor lock-in increases security of investment. Your Security does not depend on secrets stored centrally at the vendor (remember RSA's SecurID hack). We are committed to a transparent and open development process as an open source project.
+Complete USB plug
+Unlike some competitors, Nitrokey contains a complete and standard compliant USB plug. This ensures thousands of insertions without connectivity issues.
+No Backdoors - No NSA
+Installed firmware can be exported and verified, preventing attackers from inserting backdoors into products during shipping. Nitrokey is open-source and free of backdoors. Secret keys are generated only by you and we have no access to your private information.
+Plausible Deniability
+The only hardware solution with hidden encrypted storage. This allows you to plausibly deny the existence of encrypted data, for example during border controls.
+Easy Integration
+Nitrokey uses open interfaces and open drivers to enable its easy integration with your personal requirements. Custom solution can be provided on request.
+Better Than Software
+The Nitrokey hardware functions independently of any operating systems and protects your secret keys against theft, loss, user mistakes, phishing, brute-force attacks, computer viruses and other malware.
+Sustainability
+The sustainable development and production of Nitrokeys contributes to a sustainable environment and society.
+read more
+All Nitrokeys contain as few toxic substances as possible (in accordance with RoHS directives), are designed for longevity (long service life and storage period in accordance with MTBF, MTTF) and contain no artificial predetermined breaking points. The compact design of our Nitrokeys minimizes the consumption of natural resources. As a result of a cooperation with the Technical University of Munich, we were able to analyze the worldwide supply chain of our electronics and improve our production processes.
+For short distances and regional economic cycles, we produce as far as possible locally in Germany and increasingly enter into regional cooperations.
+Goods are shipped in plastic-less envelopes without disproportionate product packaging. We try to avoid unnecessary paper consumption, for example by sending invoices by e-mail.
+Our servers run with electricity produced from renewable energy sources.
+With our bank account at GLS Gemeinschaftsbank eG, the largest ethical-ecological bank in Germany, we invest in renewable energy.
+How Nitrokey works
+Protect emails, files, hard drives, server certificates and online accounts using cryptography. Your private keys are always stored securely in the Nitrokey hardware and can't be stolen. The device is PIN-protected and is secured against brute force and hardware attacks. Backups protect against loss.
+The Nitrokey Family
+Nitrokey Storage 2
+Nitrokey Pro 2
+Nitrokey Start
+Nitrokey HSM 2
+Nitrokey FIDO2
+Nitrokey FIDO U2F
+Open source
+Tamper-resistant smart card
+S/MIME email and hard disk encryption (X.509, PKCS#11)
+OpenPGP/ GnuPG email encryption
+Secure login (One Time Passwords)
+Password Manager
+Encrypted mass storage
+Hidden volumes
+Firmware updates
+RSA key length [bit]
+2048 - 4096
+2048 - 4096
+2048**
+1024 - 4096
+Number of RSA key pairs
+3*
+3*
+3x3*
+38
+ECC key length [bit]
+256 - 521
+256 - 521
+256
+192 - 521
+Elliptic curves
+NIST P, Brainpool
+NIST P, Brainpool
+NIST P, Curve25519, SECG/Koblitz
+NIST P, Brainpool, SECG/Koblitz
+Number of ECC key pairs
+3*
+3*
+3x3*
+300
+PKI/CA management features
+FIDO2
+FIDO U2F
+Factsheet
+Nitrokey Storage 2
+Nitrokey Pro 2
+Nitrokey Start
+Nitrokey HSM 2
+Nitrokey FIDO2
+Nitrokey FIDO U2F
+Price
+Starting from € 109.00
+€ 49.00
+€ 29.00
+€ 69.00
+€ 29.00
+€ 22.00
+Buy
+Buy
+Buy
+Buy
+Buy
+Buy
+* Stores the key pair (RSA or ECC, if available) for one person/identity only. Technically these are 3 key pairs because GnuPG uses subkeys.
+** 4096 bit are supported but each operation takes ca. 8 seconds.
+Selection of our customers
+PreviousNext
+News
+NitroPad Firmware 1.2 Update
+For NitroPad X230 secure laptop we released a firmware update. It provides the following improvements:
+05 October 2020
+New Firmware: Multiple Identities and PGP Keys With a Single Nitrokey Start
+From now on you can use a long awaited feature with your Nitrokey Start use: With the new multi-ID support of the firmware RTM.10 for Nitrokey Start you have for the first time the possibility to securely store and use multiple identities with different PGP keys. This is convenient if you use keys from different contexts regularly, e.g. private, professional, project-related.
+24 July 2020
+NitroShred - Data Destruction On-Demand
+Easy and professional data destruction for self-employed persons, startups, small businesses and private individuals
+Do you occasionally want to securely destroy individual data media without subscribing to a "ton" or paying an expensive pick up service? You send us your data carriers and we take over the secure destruction!
+16 July 2020
+visit news
+Be The first to know
+Stay informed about the Nitrokey project, new models
+and firmware updates.
+Enter your E-mail address:
+Confirm e-mail address
+Please re-enter your email address
+CompanyAbout Us
+Contact
+Career
+Press
+Community Program
+Affiliate Program
+News
+ProductsNitrokeys
+NitroPad
+NetHSM
+NextBox
+NitroChat
+Nitrokey Business Subscription
+Nitrokey Business Fulfillment
+NitroShred
+SolutionsSuccess Stories
+Passwordless Login and Two-Factor Authentication
+Secure Administration of Servers and IoT With SSH
+Phishing Protection
+SupportInstallation
+Applications
+FAQ
+Forum
+Download
+Shop
+Nitrokey - Made in Germany

@@ -1,0 +1,30 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch07.html#websec2-CHP-7-SECT-1.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 7. Digital Identification II: Digital Certificates, CAs, and
+PKIIn the previous chapter, we explored three techniques for
+establishing and authenticating a person’s identity: the use of paper
+documents, biometrics, and digital signatures. We saw in that chapter
+that digital signatures had a significant security advantage
+over the first two systems for e-commerce: because the private key used
+to “sign” a digital signature is not used by the recipient to verify the
+signature, digital signatures are not easily subverted by replay
+attacks. Identity-proving signatures cannot be reused (if the nonces are
+created with care), but must be created new each time that a person’s
+identity needs to be proven. But as we also saw, digital signatures had
+a problem as well; for you to prove your identity to someone using a
+digital signature, that person needs to have your public key already on
+file. That is, being able to create a digital signature doesn’t actually
+authenticate your identity, it simply proves that you have possession of
+a private key.The use of digital certificates and a public key infrastructure
+(PKI) are attempts to tie absolute identity to digital signatures. A
+digital certificate is a special kind of digital
+signature—it is a digital signature that comes with an identity, which
+is designed to be interpreted by computers in an automated way. A
+public key infrastructure is a collection of technologies and policies for creating and using digital certificates. The effectiveness ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

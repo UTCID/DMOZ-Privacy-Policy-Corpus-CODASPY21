@@ -1,0 +1,346 @@
+https://www.comparitech.com/blog/vpn-privacy/how-to-protect-your-privacy-on-smartphones-and-tablets/
+Menu
+Close
+VPN
+By Use
+Netflix
+Kodi
+Torrenting
+Hulu
+Sky Go
+Gaming
+BBC iPlayer
+Tor
+Best overall
+By OS/Device
+Mac
+Windows
+Linux
+Windows 10
+Firestick
+iPhone and iPad
+Android
+Windows Phone
+DD-WRT Routers
+By Country
+China
+Japan
+US
+UK
+Canada
+Australia
+Germany
+France
+UAE & Dubai
+Guides
+Fastest VPNs
+Cheapest VPNs
+Free VPNs
+How to access the deep web
+Is torrenting safe and legal?
+Build your own VPN
+Facebook privacy and security
+How to encrypt email
+How to stay anonymous online
+See all
+Reviews
+ExpressVPN
+NordVPN
+IPVanish
+PrivateVPN
+StrongVPN
+Cyberghost
+PureVPN
+Surfshark
+See all
+Antivirus
+Online backup
+Streaming
+Kodi
+Plex
+Sports Streaming
+TV Streaming
+IPTV
+Blog
+VPN & Privacy
+Cloud and Online Backup
+Information Security
+More Comparisons
+Password Managers
+Identity Theft Protection
+Usenet
+Privacy & Security Tools
+Internet Providers
+Parental Control Software
+Net Admin Tools
+Data Recovery Software
+Crypto
+Utilities
+BlogVPN & PrivacyHow to protect your privacy on smartphones and tablets
+We are reader supported and may earn a commission when you buy through links on our site
+How to protect your privacy on smartphones and tablets
+You might be giving away more private information than you realize over your smartphone. Here's how to to better protect your privacy on your mobile or tablet.
+Paul Bischoff
+TECH WRITER, PRIVACY ADVOCATE AND VPN EXPERT
+@pabischoff UPDATED: April 21, 2020
+While compiling our list of over 75+ free tools to protect your privacy, we noticed the market was strongly skewed toward PCs and Macs, while iPhones and Android devices were left with far fewer options for keeping snoops and hackers at bay. Unfortunately, the reality is that more and more people are using smartphones and tablets as their primary devices for connecting to the internet. In some countries, especially developing ones, the internet-connected populace has already leapfrogged the desktop era and gone straight to mobile.
+In light of the mobile revolution, we wanted to highlight a few key ways you can stay private and secure on mobile.
+Smartphone settings
+The first step is to skim through your phone settings to make sure the manufacturer, Google, Apple, and your apps aren’t granted unnecessary access to any private data. Switch off location tracking services, access to your camera and microphone, and data sharing features that you don’t need. On iPhones and newer Android devices, you can enable and disable these services on an app-by-app basis. Keep in mind that disabling a permission can potentially cripple an app, so make sure it isn’t necessary for the app to function properly.
+VPN
+Just like desktops, VPNs are becoming increasingly important on mobile as a means to encrypt internet traffic traveling to and from your device. A handful of free mobile VPNs are available like Tunnelbear and Hotspot Shield, while paid services often include support for both desktops and mobile devices. Look for logless VPNs with strong encryption standards to keep your web browsing and app usage private. As an added benefit a VPN can let you access Netflix abroad along with other geo-blocked streaming services.
+Encrypted calls and chat
+Not all chat apps are encrypted and, even if they are, the company that makes them may well have the key to decrypting them. WhatsApp, Viber, iMessage, Snapchat, and Facebook Messenger all have some level of encryption. WeChat and Line are not encrypted by default. Even on those encrypted channels, whether your messages remain private depends on how difficult it is for a hacker to reverse engineer the app or how easily the company gives into government coercion. A few encrypted chat apps exist specifically for those who don’t want their privacy in the hands of a multinational corporation, such as CryptoCat.
+If you want to encrypt live phone calls, Signal is probably your best bet. The free app offers encrypted voice calling and instant messaging.
+Password manager
+Strong, varied passwords are a key component in guarding your privacy online, but memorizing different passwords for every account is a hassle. For this, there’s password managers. A password manager let’s you encrypt and store all of your passwords into a single app so you only need to memorize a single master password. MasterPassword and LastPass both make password managers for mobile devices.
+Set a pin or swipe code
+It can be annoying to have to swipe or type in a passcode every time you want to access your phone, but it’s a precaution worthy of your two seconds of added effort. Passwords are the most secure, followed by PIN numbers, and finally swipe codes. That’s because thieves can look at the oil residue on your phone to see where you’ve been swiping. Nevertheless, it’s the fastest option and something is better than nothing.
+Android Device Manager and iCloud
+Both iOS and Android have remote phone tracking and limited control features that require limited setup to use. Enable Find My Phone and set up an iCloud account on iPhones, and allow Google to track your location on an Android phone. These features will not only assist you in locating a lost or stolen device, they will let allow you to remotely wipe it and return the phone to factory settings. The caveat here is that you must sacrifice some privacy to Apple or Google in order to use these services.
+While we’re talking about lost or stolen phones, write down your device’s IMEI number somewhere. This is a unique number to your phone that will help law enforcement get your phone back faster.
+Always check permissions on new apps and updates
+Every time you install a new app, don’t just scroll past the permissions page and hit accept. In particular if the app is from a less well-known publisher, ask yourself whether it really needs all those permissions. If you want to install the app but want to exclude a particular permission, you can usually disable specific permissions in your device’s app settings. Look out for permission changes in new updates as well.
+Back up
+Should your phone be lost, stolen, or broken, be sure to have a backup ready either on the cloud or a local device. If you’re backing up to the cloud, make sure any sensitive information is encrypted before it’s uploaded. Some backup apps do this by default, such as IBackup. Others, like Google Drive, do not. Boxcryptor, Viivo, Cloudfogger, Cryptonite and nCrypted Cloud all make free apps that you can use to encrypt files locally before uploading to your cloud storage.
+Re-selling precautions
+Before you sell a phone or hand it over to a repairman, be sure to remove the SIM card. Your SIM contains a wealth of personal information and can even be used in some cases to make purchases or sign up for accounts.
+Selling your phone is generally not advisable, as it’s notoriously difficult to remove all your data from flash memory. If you insist on doing so, be sure to remove the SIM, sign out of all your accounts, perform a factory reset, and use Android Device Manager or iCloud to wipe the device remotely.  Be sure to sign out of iCloud again afterwards.
+Update the OS
+Keeping your device software up to date will nullify vulnerabilities in deprecated or obsolete older versions. We recommend you stick to the latest stable release, but there’s generally no need to use beta or nightly versions that are still being tested.
+Security apps
+A wealth of privacy and security apps are available on reputable app stores for your perusal. We won’t go through them all here, but some of our favorites include Disconnect (anti-tracking), HTTPS Everywhere, VeraCrypt (disk encryption), Orbot (Tor for Android), and several antivirus and anti-malware apps. Android tends to have more of these because Apple prefers to take security into its own hands on iOS.
+“Phone security” by Ervins Strauhmanis licensed under CC BY 2.0
+Contents [hide]Smartphone settingsVPNEncrypted calls and chatPassword managerSet a pin or swipe codeAndroid Device Manager and iCloudAlways check permissions on new apps and updatesBack upRe-selling precautionsUpdate the OSSecurity apps
+Black Friday VPN Deals EXTENDED
+68% off + 3 mths FREEGet Deal >
+Save 83%Get Deal >
+3 Months FREEGet Deal >
+What’s in this article?Smartphone settingsVPNEncrypted calls and chatPassword managerSet a pin or swipe codeAndroid Device Manager and iCloudAlways check permissions on new apps and updatesBack upRe-selling precautionsUpdate the OSSecurity apps
+Latest Guides
+Surveillance camera statistics: which cities have the most CCTV cameras?
+August 15, 2019 / by Paul Bischoff
+Guide to using public wifi safely and securely
+October 9, 2018 / by Osman Husain
+Popular Posts
+10 Best SFTP and FTPS Servers Reviewed for 2020
+February 27, 2019 / by Jon Watson
+Best VPNs for Netflix: Get any version of Netflix anywhere
+January 5, 2019 / by Paul Bischoff
+10 Best VPNs for Torrenting Safely and Privately in 2020
+January 1, 2019 / by Paul Bischoff
+How to make your own free VPN with Amazon Web Services
+May 15, 2018 / by Paul Bischoff
+A beginner’s guide to online censorship
+August 26, 2017 / by Paul Bischoff
+Latest Cloud and Online Backup
+10 Best Secure File Sharing Tools & Software for Business in 2020
+October 21, 2019 / by Tim Keary
+Rapidshare is discontinued, try these alternatives
+February 4, 2019 / by Aimee O'Driscoll
+The 5 Best Edge Services Providers
+October 15, 2018 / by Stephen Cooper
+The best apps to encrypt your files before uploading to the cloud
+October 11, 2018 / by Paul Bischoff
+Is Dropbox Secure? 9 Ways To Make The File Sharing Service Safer To Use
+December 28, 2017 / by David Gilbert
+Latest Information Security
+Top online degrees in cyber security (Bachelor’s)
+December 8, 2020 / by Aimee O'Driscoll
+Computer forensics analyst career guide
+December 4, 2020 / by Aimee O'Driscoll
+What is Trojan Horse malware and how can you avoid it?
+November 26, 2020 / by Marc Dahan
+Graylog Review and Alternatives
+November 26, 2020 / by John Cirelly
+Cybersecurity jobs overview: Earn a high-paying job in cybersecurity
+November 23, 2020 / by Sam Cook
+Latest VPN & Privacy
+How to watch DStv online from anywhere with a VPN
+December 10, 2020 / by Ian Garland
+NordVPN vs PrivateVPN
+December 10, 2020 / by Ian Garland
+10 Best free and paid secure email services in 2020 – ranked
+December 10, 2020 / by Marc Dahan
+Is AT&T throttling your bandwidth? How to stop throttling with a VPN
+December 10, 2020 / by Paul Bischoff
+What is a VPN kill switch and do you need one?
+December 10, 2020 / by Paul Bischoff
+Latest Crypto
+How Do People Feel About Cryptocurrencies?
+July 31, 2019 / by Paul Bischoff
+The Biggest Cryptocurrency Heists of All Time
+June 28, 2019 / by Theo Tsihitas
+Understanding cryptography’s role in blockchains
+April 10, 2019 / by Josh Lake
+How to buy and pay with bitcoin anonymously
+April 18, 2018 / by Aimee O'Driscoll
+What bitcoin is and how to buy it and use it
+April 6, 2018 / by Aimee O'Driscoll
+Latest Crypto Popular Posts
+How to buy and pay with bitcoin anonymously
+April 18, 2018 / by Aimee O'Driscoll
+What is Bitcoin mining and how can you do it?
+March 7, 2018 / by Aimee O'Driscoll
+15 best bitcoin wallets for 2020 (that are safe and easy to use)
+February 25, 2018 / by Aimee O'Driscoll
+Latest Data Recovery Software
+11 Best Data Loss Prevention Software Tools
+April 18, 2019 / by Stephen Cooper
+Latest IPTV
+Is Facebook profiting from illegal streaming?
+June 11, 2019 / by Sam Cook
+How to set up IPTV on Perfect Player
+January 31, 2019 / by Tom Blackstone
+Kodi Solutions IPTV: What is Kodi Solutions? Is it your next IPTV?
+September 24, 2018 / by Tom Blackstone
+Area 51 IPTV: What is Area 51 IPTV and should you use it?
+September 23, 2018 / by Tom Blackstone
+Terrarium TV shut down: Use these top 10 Terrarium TV alternatives
+September 18, 2018 / by Sam Cook
+Latest Identity Theft Protection
+How to delete online accounts and reduce your security risks
+February 3, 2020 / by Sam Cook
+Identity fraud on Upwork and other freelance sites threatens gig economy integrity
+July 30, 2019 / by Sam Cook
+Consumer interest in checking credit scores jumped 230 percent in a decade. Here’s why that’s a dangerous trend
+February 20, 2019 / by Sam Cook
+Latest Kodi
+Can You Watch Tyson vs Jones on Kodi?
+August 13, 2020 / by Sam Cook
+How to install the PBS Kids Kodi addon
+September 25, 2019 / by Ian Garland
+How to watch AEW – All Out Free on Kodi with a VPN
+August 30, 2019 / by William Elcock
+How to watch the US Open Tennis 2019 on Kodi – free livestream
+August 16, 2019 / by William Elcock
+How to download and install Kodi Leia 18.3 on Firestick
+August 13, 2019 / by Ian Garland
+Latest Kodi Popular Posts
+Can you watch Bellator 223: Mousasi vs. Lovato on Kodi?
+June 21, 2019 / by Sam Cook
+How to watch the French Open on Kodi
+May 21, 2019 / by Sam Cook
+How to watch the NCAA Frozen Four and Championship on Kodi
+April 10, 2019 / by Sam Cook
+How to watch the 2019 NCAA Final Four and Championship game on Kodi
+April 5, 2019 / by Sam Cook
+30+ Best Kodi Addons in December 2020 (of 130+ tested)
+March 15, 2019 / by Ian Garland
+Latest Net Admin
+9 Best Network Security Tools
+December 4, 2020 / by Stephen Cooper
+5 Best Real User Monitoring Tools & Services
+December 4, 2020 / by Stephen Cooper
+9 Best NGINX Monitoring Tools
+December 1, 2020 / by Tim Keary
+Graylog vs Splunk Analysis and Breakdown
+November 27, 2020 / by John Cirelly
+Sumo Logic vs Splunk
+November 27, 2020 / by John Cirelly
+Latest Net Admin Popular Posts
+11 Best Free TFTP Servers for Windows, Linux and Mac
+February 28, 2019 / by Jon Watson
+10 Best SFTP and FTPS Servers Reviewed for 2020
+February 27, 2019 / by Jon Watson
+12 Best NetFlow Analyzers & Collector Tools for 2020
+January 23, 2019 / by John Kimball
+Best Bandwidth Monitoring Tools – Free Tools to Analyze Network Traffic Usage
+December 21, 2018 / by John Kimball
+Latest Online backup
+10 Best Secure File Sharing Tools & Software for Business in 2020
+October 21, 2019 / by Tim Keary
+Latest Plex
+Watch your Plex library in Kodi with the Plex Kodi addon
+December 24, 2017 / by Aaron Phillips
+How to set up Plex on Chromecast and get the most out of it
+December 7, 2017 / by Aaron Phillips
+Plex vs Kodi: Which streaming software is right for you?
+November 1, 2017 / by Aaron Phillips
+Installing and using the Fire TV Plex app
+October 31, 2017 / by Aaron Phillips
+The best Plex plugins: 25 of our favorites (Updated)
+September 20, 2017 / by Aaron Phillips
+Latest Plex Popular Posts
+The best Plex plugins: 25 of our favorites (Updated)
+September 20, 2017 / by Aaron Phillips
+How to get started streaming with Plex media server
+September 20, 2017 / by Aaron Phillips
+Selectively routing Plex through your VPN
+September 20, 2017 / by Aaron Phillips
+Latest Sports Streaming
+How to watch Errol Spence vs Danny Garcia live online
+December 4, 2020 / by Mark Gill
+How to live stream Tyson v Jones online from anywhere
+November 27, 2020 / by Sam Cook
+How to watch NCAA College Basketball 2020-2021 season online
+November 24, 2020 / by Ian Garland
+How to watch Terence Crawford vs Kell Brook live online
+November 13, 2020 / by Mark Gill
+How to watch AEW Full Gear 2020 live online from anywhere
+November 6, 2020 / by Ian Garland
+Latest Sports Streaming Popular Posts
+How to watch Gervonta Davis vs Leo Santa Cruz live online
+October 20, 2020 / by Sam Cook
+How to watch Vasiliy Lomachenko vs Teofimo Lopez live online
+October 16, 2020 / by Sam Cook
+How to watch Deontay Wilder vs Tyson Fury 2 heavyweight world title fight
+February 21, 2020 / by Sam Cook
+How to watch the Stanley Cup Final 2020 live online from anywhere
+May 26, 2019 / by Sam Cook
+How to watch Super Bowl LIV (54) free online anywhere in the world
+February 2, 2019 / by Sam Cook
+Latest TV Streaming
+How to watch Tin Star season 3 online
+December 9, 2020 / by Ian Garland
+How to watch The Challenge: Double Agents (Season 36) online
+December 8, 2020 / by Mark Gill
+How to watch Attack on Titan season 4 online from anywhere
+December 6, 2020 / by Ian Garland
+How to watch Blue Bloods season 11 online
+December 3, 2020 / by Ian Garland
+How to watch the Saved by the Bell 2020 series online (outside the US)
+November 24, 2020 / by Mark Gill
+Latest TV Streaming Popular Posts
+How to watch Winter Love Island 2020 online from abroad (stream it free)
+May 30, 2019 / by Ian Garland
+How to watch Game of Thrones Season 8 free online
+April 14, 2019 / by Sam Cook
+How to watch Super Bowl LIV (54) free online anywhere in the world
+February 2, 2019 / by Sam Cook
+How to watch Super Bowl LIV (54) on Kodi: Live stream anywhere
+January 29, 2019 / by William Elcock
+Latest Utilities
+6 Best screen recorders for Windows 10 in 2020
+June 23, 2020 / by Aimee O'Driscoll
+Best video downloaders for Windows 10 in 2020
+June 16, 2020 / by Aimee O'Driscoll
+12 best video editing software for beginners in 2020
+June 11, 2020 / by Aimee O'Driscoll
+Best video conferencing software for small businesses
+March 20, 2020 / by Aimee O'Driscoll
+Best video converters for Mac in 2020 (free and paid)
+August 12, 2019 / by Aimee O'Driscoll
+1 Comment
+Leave a Comment
+In addition to the phone’s basic protection, we should also install some security and anti-virus apps. I like LEO Privacy: goo.gl/BCKwGq
+Locking apps with ease and the modes switching is like cherry on top. Hide and unhide pics and videos was never better,app backup,shortcuts etc. All that I needed in single app! Must have app in every Android phone. No wonder it has 10 million downloads. Great job guys!
+Reply
+Leave a Reply Cancel replyCommentName
+Email
+reCaptcha challenge is not working! Check browser requirement
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+BLACK FRIDAY EXTENDED
+3 MONTHS FREE
++ SAVE 68%
+Get 3 months FREE >>
+No thanks
+PRIVACY ALERT: Websites you visit can find out who you are
+The following information is available to any site you visit:
+Your IP Address:
+Your Location:
+Your Internet Provider:
+This information can be used to target ads and monitor your internet usage.
+Using a VPN will hide these details and protect your privacy.
+We recommend using NordVPN - #1 of 42 VPNs in our tests. It offers outstanding privacy features and is currently available with three months extra free.
+Visit NordVPN

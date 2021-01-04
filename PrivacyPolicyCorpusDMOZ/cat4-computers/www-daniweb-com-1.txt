@@ -1,0 +1,59 @@
+http://www.daniweb.com/connect/welcome/privacy
+Privacy Policy
+Overview
+Our promise to you is that security is our top priority. DaniWeb stores up to three cookies in your web browser: one to manage the user session for logged in users,
+and two to prevent against cross-site request forgery (CSRF) attacks.
+All cookies are accessible only over an SSL connection to www.daniweb.com and are not accessible via javascript.
+None of the cookies store any user-identifying information.
+DaniWeb does not directly collect or store information from visitors who have not created user accounts within our platform.
+However, we do use Google Analytics to collect non-personally-identifying information, as well as Google Ad Manager to mange our banner advertising.
+Both Google Analytics and Google Ad Manager may store and use cookies to track user behavior and display more relevant ads.
+A DaniWeb Premium subscription restricts you from seeing any advertising, and therefore Google Ad Manger is not implemented when logged into a Premium account.
+User Information
+The minimum amount of data we require for a user registration record is a username and email address.
+Users who don't opt to build their accounts by connecting via Facebook or Google will additionally be prompted for a password.
+When signing up or logging in via Facebook or Google, we request access to a user's basic profile data for the purposes of creating or updating their registration record.
+With the exception of a user's email address (which we request a separate permission for), only data that the user has specified as visible on their public Facebook or Google profile is accessible to us.
+At some point after registration, we may prompt for the completion of the user's profile.
+Profile Access
+User profiles may be accessible programatically through DaniWeb Connect, our API used to power third-party apps ("Daniapps").
+Users connect to Daniapps through a single sign-on with their DaniWeb profile.
+The OAuth 2.0 authorization framework is used to authenciate these API requests.
+As part of the login flow, they must grant permission to the Daniapp to gain access to their account.
+Daniapps are granted API access tokens for a specific user which must be sent with every API request they make. The tokens allow the Daniapp to authenticate itself as the end-user,
+and retrieve information and perform operations from the perspective of the end-user. Access tokens have a shelf life of 24 hours. Every 24 hours, the Daniapp must programatically request a new access token from the API by authenticating themselves
+along with the token they received from the API during the first time the user granted them access.
+A user may deauthorize a Daniapp at any time. Doing so will immediately invalidate all tokens associated with the Daniapp for that user.
+Public profile information currently available via DaniWeb Connect includes a user's full name, generalized location, profile picture, headline, industry, pitch, website, last activity timestamp, and online status.
+Depending on the permissions the Daniapp requests, and the user explicitely grants, the Daniapp may gain the ability to access additional private components of the user's DaniWeb profile
+(which may include their last used IP address, geographic coordinates, matching preferences, birthday, gender, email address, and user settings),
+make changes to their user profile, read their conversations, write messages on their behalf,
+access their groups, write group messages on their behalf, and/or set and retrieve their CV.
+A Daniapp may additionally access the CV of any user that the end-user is in a conversation with.
+Throughout normal interaction with DaniWeb, or with Daniapps that utilize the DaniWeb Connect API endpoints,
+we record behavior that may be used to help us further improve our algorithms, such as our user matching algorithm.
+For example, we take into consideration data points such as degrees of separation between two users,
+and we look for patterns to help us further gauge and deliver on a user's needs.
+Message Privacy
+Conversations follow a user across the multiple Daniapps that they associate with. There is one single conversation for each pair of users.
+Therefore, if User A and User B are both using Daniapp 1 and Daniapp 2, both Daniapps will be able to gain access to the entire conversation.
+Additionally, User A and User B may simultaneously engage in the conversation across multiple Daniapps.
+The Daniapp is required to only have the user it is currently authenticated against to grant permission to view their conversations.
+The conversation will be accessible even if the other user has not granted access to the Daniapp to access their conversations.
+Group conversations have a privacy setting which must be specified when they are created.
+By making a group private via the API, the group may only be joined via a passphrase.
+All messages are permanently stored in the DaniWeb Connect servers as plain text.
+Account Deletion
+A user may choose to permanently delete their account from the User Settings page.
+Deleting an account will immediately log the user out,
+prevent them from being able to log back into DaniWeb,
+prevent all access to the user's profile,
+and invalidate any DaniWeb Connect API tokens currently existing in the wild.
+However, deleting an account will not affect any user data that has been sent to a third-party Daniapp in the past, which the Daniapp chose to store in their own database.
+Additionally, deleting an account may not erase all data pertaining to the user from the DaniWeb servers.
+Previously contributed forum posts and chat messages may remain in place so as to not break the logical flow of discussions.
+Rights & Ownership
+DaniWeb.com is owned by DaniWeb® LLC, headquartered in Bayside, Queens, New York.
+We take security very seriously.
+All data submitted to DaniWeb may reside on our servers indefinitely.
+Any questions or concerns may be directed to bizdev@daniwebmail.com

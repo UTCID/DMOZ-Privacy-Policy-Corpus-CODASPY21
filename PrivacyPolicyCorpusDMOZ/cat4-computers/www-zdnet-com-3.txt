@@ -1,0 +1,197 @@
+https://www.zdnet.com/article/how-bitcoin-helped-fuel-an-explosion-in-ransomware-attacks/
+By
+Danny Palmer
+|
+August 22, 2016 -- 11:07 GMT (04:07 PDT)
+| Topic: Security
+Bitcoin emboldening ransomware gangs
+Watch Now
+Ransomware is booming. Be it Locky, CryptXXX
+or one of the countless other variants of the data-encrypting malware, cybercriminals are making hundreds of thousands of dollars every month off the back of swathes of infected victims each paying a few hundred dollars each to get access to their files back.
+Security
+The best gifts for hackers
+The best VPNs in 2020
+Best security keys: Hardware two-factor authentication for online protection
+Best security cameras for business: Google Nest, Ring, Scout, and more
+Cyber security 101: Protect your privacy from hackers, spies, and the government
+Lessons cybersecurity teams need to learn from hackers to beat them at their own game (ZDNet YouTube)
+Top 6 cheap home security devices in 2020 (CNET)
+Cybersecurity best practices: An open letter to end users (TechRepublic)
+Cybersecurity researchers
+have warned that ransomware represents the most problematic cyber-threat. The most infamous ransomware attack this year took place at the Hollywood Presbyterian Medical Center, with the Los Angeles hospital forced to declare an "internal emergency" after its IT systems were locked down and held to ransom by hackers.
+Ransom demands are typically made in
+Bitcoin, the cryptographic digital currency based on Blockchain distributed ledger technology, which offers a secure, often untraceable, method of making and receiving payments -- a perfect currency for those who want their financial activities to remain hidden.
+The popularity of Bitcoin has grown significantly in recent years and ransomware has spiked in 2016: could the growth of the two therefore be tied together?
+"It's helping. I think that's definitely true. The existence of effectively anonymised payment mechanisms definitely plays into the hands of cybercriminals," says David Emm, principal security researcher at Kaspersky Lab.
+However, online extortion still took place regularly before the rise of Bitcoin. Emm recalls how some extortionists even attempted to use traditional postal services to receive payments for scams based on viruses.
+Some of these viruses did the same sort of thing as ransomware, but were nowhere near as successful because authorities could watch the location where the payment was delivered to see who picked it up.
+"It wasn't successful because police could monitor the PO boxes, so as soon as someone went to pick up the goods, you could arrest them," says Emm. More often than not, hackers will demand a ransom payment be made in Bitcoin
+Image: Proofpoint
+This lack of success led cybercriminals to switch to online payment systems, using Western Union or PayPal to receive payments from victims of malicious software. However, all of these systems are still tied to a bank account, giving the authorities an opportunity to trace the perpetrators.
+That's why the secretive nature of Bitcoin has proven so appealing for cybercriminals and why so many ransomware campaigns now want payment in that form -- because it's completely anonymous. The Cerber ransomware campaign is one of many which not only demand payment in Bitcoin, but also passes the currency through multiple Bitcoin wallets, effectively a form of money laundering, in order to further cover the tracks of the cybercriminals.
+"We saw tens of thousands of victims' Bitcoin wallets transferred into one huge wallet. From there it's transferred to tens of thousands of other wallets. It's called a mixing service and it's pretty standard for Bitcoin," says Maya Horowitz, group manager of intelligence operations at Check Point.
+"If you want your money in one wallet but you don't want anyone to be able to trace it back and know how you got it, then you take it though a mixing service -- like money laundering -- and then it all eventually gets back to you after being mixed with other money," she adds.
+That ability to remain undetected is very much the reason cybercriminals trade in Bitcoin. "It makes it much easier to avoid law enforcement," Horowitz said, noting how in the rare instances that cybercriminals convert Bitcoin into another currency law enforcement is able to link criminal wallets to real bank accounts and occasionally determine who the perpetrators are.
+"From time to time it happens, especially if they don't use mixing services, the authorities are able to trace a specific account back to a person and make an arrest," she said.
+Bitcoin not only makes it easier to remain anonymous, but also enables the extorted funds to be immediately transferred into criminal hands. Even other forms of financial cybercrime, such as
+data-stealing banking Trojans, don't offer this sort of advantage. In the case of a Trojan, there will be a transaction using the stolen details, which may provide enough details to trace the perpetrator.
+"That's part of why threat actors move to ransomware, because it's easier to operate in using just Bitcoin," says Horowitz.
+Operating in Bitcoin also brings other advantages to those dealing in ransomware. It's much more flexible than traditional payment methods, which require specific financial or login details to use. If the criminal feels they've extorted enough using one campaign -- or that the authorities are closing in -- they can easily take their business and move on.
+The ransomware guide: protection and eradication
+It's nasty, but you don't have to be held to ransom by it.
+Read More
+"In the modern age of online transactions, particularly when payments are easy to setup, then anyone can potentially become the online equivalent of Del Boy; you go along with a suitcase, you set up, when you see the police on the horizon, you pick it up and go somewhere else," says Kaspersky Lab's Emm.
+"You have a mechanism for a particular attack, once you get enough money you're off and using a different email address or account. That fluidity and the speed of business operation allows them to hide between the cracks a lot easier," he adds.
+But while Bitcoin has aided the rise of ransomware, it can't be singled out as the specific cause for the boom. However, the nature of Bitcoin means cybercriminals have jumped at the opportunity to use it, as they have with other identity-hiding technologies,
+such as Tor or the wider dark web in general.
+"The reality is cybercriminals will always use what is available to them. In many ways they're inherently lazy, so if Bitcoin wasn't there they'd find a different process to channel funds through. But because it exists, it's certainly something which has provided them with an existing process to perform that money flow," says Greg Day, VP and CSO, EMEA at Palo Alto Networks.
+Ultimately, it could be said that the internet itself has been a huge gift for criminals, who are now using it not only for ransomware, but also malware, Trojans, hacking, and all manner of illegal activities on the dark web. In that case, Bitcoin is just the latest in a long line of technologies that have brought benefits to the wider world while unfortunately boosting the criminal underground. 	READ MORE ON CYBERCRIMEEncryption ransomware now 'tried and trusted' attacker business modelThis initiative wants to help ransomware victims decrypt their files for freePay up or else: Ransomware is the hot hacking trend of 2016 (CNET)How to mitigate ransomware, DDoS attacks, and other cyber extortion threats (TechRepublic)
+Related Topics:
+Security TV
+Data Management
+CXO
+Data Centers
+By
+Danny Palmer
+|
+August 22, 2016 -- 11:07 GMT (04:07 PDT)
+| Topic: Security
+Show Comments
+LOG IN TO COMMENT
+My Profile
+Log Out
+| Community Guidelines
+Join Discussion
+Add Your Comment
+Add Your Comment
+More from Danny Palmer
+Security
+What's the key to tackling cyberattacks? Building a diverse team to think smarter
+Security
+Ransomware gangs are getting faster at encrypting networks. That will make them harder to stop
+Security
+Lightning does strike twice: If you get hacked once, you'll probably be attacked again within a year
+Security
+Scammers stole millions last Christmas. These six tips could keep you safe online this time around
+Please review our terms of service to complete your newsletter subscription.
+By registering, you agree to the Terms of Use and acknowledge the data practices outlined in the Privacy Policy.
+You will also receive a complimentary subscription to the ZDNet's Tech Update Today and ZDNet Announcement newsletters. You may unsubscribe from these newsletters at any time.
+You agree to receive updates, alerts, and promotions from the CBS family of companies - including ZDNet’s Tech Update Today and ZDNet Announcement newsletters. You may unsubscribe at any time.
+By signing up, you agree to receive the selected newsletter(s) which you may unsubscribe from at any time. You also agree to the Terms of Use and acknowledge the data collection and usage practices outlined in our Privacy Policy.
+Continue
+Newsletters
+See
+All
+See
+All
+Related Stories
+1
+of
+3
+CISA and FBI warn of rise in ransomware attacks targeting K-12 schools
+The percentage of ransomware attacks against K-12 schools increased at the beginning of the 2020 school year
+Bill giving government the nod to share data enters Parliament
+Australian Parliament has risen for 2020, introducing a bunch of Bills, including the Data Availability and Transparency Bill 2020.
+Communications department flags idea of tying telco licences to cyber capability
+Australian government could clamp down on telcos that fail to secure their networks properly.
+Australian intelligence community seeking to build a top-secret cloud
+The
+Office
+of
+National
+Intelligence
+has
+called
+for
+expressions
+of
+interest
+from
+vendors
+to
+build
+a
+highly-secure
+private
+community
+cloud
+service
+for
+the
+national
+intelligence
+...
+Facebook doxes APT32, links Vietnam's primary hacking group to local IT firm
+Facebook suspends accounts linked to APT32, says the group used its platform to spread malware.
+Home Affairs review of TikTok was merely for staff use on its network
+It
+wasn't
+a
+sweeping
+review
+on
+whether
+the
+social
+media
+app
+was
+handling
+data
+on
+its
+users
+in
+a
+manner
+consistent
+with
+Australian
+law,
+nor
+did
+it
+provide
+the
+Prime
+Minister
+with
+assurances
+...
+Tech unicorn UiPath discloses data breach
+EXCLUSIVE: UiPath admits to accidentally exposing a file containing the personal details of some of its registered users.
+Chinese APT suspected of supply chain attack on Mongolian government agencies
+Chinese hackers have compromised the update mechanism of a chat app used by hundreds of Mongolian government agencies.
+Safer networks at home: Working remotely in 2021
+Working
+from
+home
+full-time
+has
+a
+unique
+set
+of
+challenges,
+such
+as
+finding
+the
+right
+spot
+for
+a
+workspace
+and
+getting
+all
+the
+right
+equipment.
+However,
+there's
+one
+aspect
+that's
+easy
+...

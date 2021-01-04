@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch15s03.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Minimizing Risk by Minimizing ServicesAn important way to minimize the threats to your web
+server is by minimizing the other services that are offered by the
+computer on which the web server is running. This technique works
+because each network service carries its own risks. By eliminating all
+nonessential services, you eliminate potential avenues through which
+an attacker could break into your system.Making a Pre-Mac OS X Your Web ServerIf security is your primary concern in running a web server,
+then you may wish to consider running your web server on a
+Macintosh computer running the OS 7, OS 8, or OS 9
+operating systems. Because these versions of the Macintosh operating
+system were not delivered with a command-line interpreter, it is
+extremely difficult for attackers to break into the system and run
+programs of their own choosing. The Mac OS also doesn’t come with
+dozens of network services enabled that can be compromised. And
+Apple has a very good history of providing carefully written,
+apparently bug-free code.At least four web servers are available for the
+Macintosh:MacHTTP is a freely available web server that is easy to
+administer.WebStar, a commercial version of MacHTTP, is sold by
+StarNine Technologies, a subsidiary of Quarterdeck.WebStar Pro is an SSL-enabled version of WebStar, also
+sold by StarNine Technologies.Apple’s personal web server is shipped with Mac OS 9 and
+possibly some releases of Mac OS 8.Apple’s Mac OS X operating system is based on FreeBSD. As such, ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

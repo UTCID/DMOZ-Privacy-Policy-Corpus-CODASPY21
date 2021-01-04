@@ -1,0 +1,61 @@
+https://www.iab.org/documents/correspondence-reports-documents/docs2004/2004-11-12-icann-new-tld-policy/
+Home»Documents»IAB Correspondence, Reports, and Selected Documents»2004»IAB to ICANN:Response to ICANN Request for assistance with new TLD Policy , 12 November, 2004
+Date: 12 November, 2004 To: ICANN From: IAB Subject: Response to your Sept 22 note about the .NET rebid process
+Thank you for sharing the information on the upcoming .NET redelegation procedures, and apologies for being slow in responding. We have considered the material presented, and find that there aren’t very many points that the IAB can comment on.
+However, we do note that the IETF, through its DNSOP working group, has worked on technical best practices for TLD zones of all types – not necessarily limited to gTLDs, and definitely not specific to .net. It would certainly be reasonable to ask .net bidders to commit to conforming to such technical best practices.
+We will check with the community through the DNSOP working group whether there is a desire to work on further best practices in this area at this time. While this is not likely to conclude in time to inform the process of deciding about the .net rebid procedure, it’s possible that the debate may inform the .net evaluation.
+We note also that the rebid procedures have reference to WHOIS – a protocol and function that the IETF has worked on in the past, and the usage of which provided the basis for the IETF’s just completed work in the CRISP working group. We believe that the CRISP work goas a long way towards solving many of the problems the IETF has identified with the functions often referred to as “WHOIS”, but we do not know if ICANN means the same thing by the term.
+We would be happy to gain a greater understanding of what the technical issues with the functions that ICANN works on under the “WHOIS” label are, since we have not had a dialogue with ICANN about these concerns. Such dialogue could lead to us giving advice to ICANN on whether or not to make the CRISP work output part of this procedure.
+Again, happy to be of assistance.
+Harald Alvestrand, speaking for the IAB
+Date: 22 September, 2004 To: Leslie Daigle, Chair, IETF CC: Geoff Huston, Executive Director, IAB, John Klensin, IAB Liaison to the ICANN Board of Directors From: Paul Twomey, CEO, ICANN Subject: Request for Assistance with Development of New TLD Policy
+Dear Leslie,
+Since its inception, ICANN has appreciated the Internet Architecture Board’s active contributions to discussions about the Domain Name System and its architecture.
+As you are aware, the development of an appropriate process and policy for the creation of new gTLDs has been a topic of Board and community debate since the creation of ICANN.
+ICANN has committed to develop and implement this year a comprehensive process to move from the proof of concept test of new TLD introductions commenced with the 2000 round to a liberalised and predictable strategy for selecting new gTLDs using straightforward, transparent, and objective procedures that preserve the stability of the Internet.
+This process will include consideration and evaluation of:
+The potential impact of new gTLDs on the Internet root server system and Internet stability;
+The creation and implementation of selection criteria for new and existing TLD registries, including public explanation of the process, selection criteria, and the rationale for selection decisions;
+Potential consumer benefits/costs associated with establishing a competitive environment for TLD registries; and
+Recommendations from expert advisory panels, bodies, agencies, or organisations regarding economic, competition, trademark, and intellectual property issues.
+To accomplish these objectives, ICANN requests the IAB’s expert advice on any potential protocol-related limitations or issues arising from the introduction of new TLDs, and any need for additional technical standards to support multilingual TLDs.
+Thank you very much for your anticipated cooperation.
+Your advice will provide a valuable service to ICANN and to the Internet community.
+Best Regards,
+Paul Twomey
+Recent Posts
+IAB Reappoints Warren Kumari to the ICANN Technical Liaison Group
+Reappointment of Colin Perkins as IRTF Chair
+IAB Report to the Community for IETF 109
+Call for nominations: IETF appointment to the ISOC Board of Trustees
+Call for Feedback on the ICANN Technical Liaison Group Appointment
+Search for:
+IAB Work
+IAB Agenda
+IAB Minutes
+IAB Documents
+IAB Open Meetings
+IAB Wiki
+Technical Plenaries
+IAB Programs
+Evolvability, Deployability, and Maintainability Program
+IANA Program
+Internet Threat Model Program
+Liaison Oversight
+Plenary Planning Program
+RFC Editor Future Development Program
+RFC Editor Series Oversight Committee (RSOC)
+Related Organizations
+IETF Administration LLC
+RFC Editor
+IANA
+IRTF
+IETF Trust
+ISOC
+Privacy Statement
+IETF/IRTF/IAB Privacy Statement
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org

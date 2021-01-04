@@ -1,0 +1,242 @@
+http://epic.org/privacy/ask/default.html
+Defend Privacy. Donate Now.
+Policy Issues
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Program
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+All Policy Issues
+Our Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+Privacy Campaigns
+Congressional Testimony
+EPIC Publications
+Spotlight on Surveillance
+Press
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+Events
+EPIC Blog
+EPIC Bookstore
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+Public Voice Fund
+Contact EPIC
+Support EPIC
+Does AskEraser Really Erase?
+Background |
+News |
+Legal Documents
+Top News
+EPIC, Privacy Groups Renew Call for Investigation of Ask Eraser. EPIC filed a supplemental complaint (pdf) with the Federal Trade Commission today highlighting the ongoing consumer privacy threats posed by Ask.com's AskEraser product. The new complaint restates that Ask.com is engaging in an unfair and deceptive trade practice. Ask.com corrected one substantial problem with AskEraser following an earlier letter from EPIC, but EPIC makes clear in the new filing that Ask.com has failed to resolve the substantial threats to consumer privacy, and urges the FTC to move forward with an investigation. For more information, see the EPIC "Does Ask Eraser Really Erase?" page. (Feb. 8)
+Consumer Privacy Coalition Files FTC Complaint Against Ask.com.EPIC and five other privacy groups filed a complaint (pdf) with the Federal Trade Commission alleging that Ask.com is engaging in unfair and deceptive trade practices concerning AskEraser, a product that purports to protect Internet search privacy. Among the critical points highlighted by the consumer privacy coalition: (1) users must accept and maintain an AskEraser cookie and disable genuine privacy features that block cookies; (2) the AskEraser cookie is a unique persistent identifier that makes it easy for Ask.com, its business partners, and the government to track the activities of AskEraser users; (3) Ask.com will disable the search delete feature -- the central purpose of the AskEraser service -- without notice to the user; and (4) Ask.com continues to provide third party access to search data, even when AskEraser is enabled. The complaint follows a December letter (pdf) to Ask.com describing these security and privacy problems. (Jan. 19)
+EPIC, Privacy Groups Urge Ask.com to Fix AskEraser. In a letter to Ask.com, EPIC and several other privacy organizations asked CEO Jim Lazone to fix AskEraser, a new search tool that the company claims "will offer its searchers unmatched control over their privacy." After a study of the search product, EPIC found that AskEraser: (1) requires an opt-out cookie; (2) creates a quasi-unique identifier; and (3) will be disabled without notice. All three attributes create substantial privacy risks for Internet users. (Dec. 20)
+Background
+In July 2007, Ask.com announced the launch of a new privacy tool, AskEraser, which became available to consumers in December 2007. Ask.com claimed that, once enabled, AskEraser would give users more control of their search activities, and that all search activities would be deleted from Ask.com servers "within hours." Ask.com also asserted that the new search tool "will offer its searchers unmatched control over their privacy."
+EPIC conducted an in-depth study of the product and identified several significant but corrigible flaws. EPIC found that AskEraser: (1) required a confusing and misleading opt-out cookie, which, once deleted, resulted in the privacy setting being lost and Ask.com no longer honoring the user's privacy setting; (2) created a quasi-unique identifier, where Ask.com inserted the exact time that the user enabled AskEraser; and (3) may be disabled without notice, despite indicating to the user that the AskEraser function remains enabled.
+EPIC and other privacy organizations wrote to Ask.com's CEO, Jim Lazone, on December 20, 2007 and asked the company to modify some of AskEraser's functions.
+One month after the consumer privacy coalition sent the letter to Ask.com, having received no meaningful response, EPIC and the other privacy groups filed a complaint to the FTC alleging that Ask.com is engaging in unfair and deceptive trade practices relating to its representations concerning AskEraser.
+Pending an adequate resolution of the issues identified in the complaint, EPIC and the other privacy groups called on the Commission to promote the development of genuine Privacy Enhancing Techniques that would protect the privacy interests of American consumers. Specifically, the complaint urged the Commission to use its authority to review AskEraser's privacy flaws and order Ask.com to remove AskEraser from the marketplace.
+The complaint asked the FTC to rule that, as a condition of offering AskEraser in the future, Ask.com should meaningfully address the various privacy flaws associated with AskEraser by: (1) ceasing to use the opt-out cookie; (2) providing meaningful notice if the service is disabled; and (3) establishing enforceable privacy safeguards for the transfer of user information to third parties, consistent with Ask.com's own policies.
+At the time of the complaint filing, Ask.com had implemented one of the changes EPIC recommended to the AskEraser product : the persistent identifier associated with the AskEraser enabling cookie was replaced with a non-identifying marker. The other significant privacy risks identified in the FTC complaint remain to be addressed. These risks include the problems inherent in AskEraser's opt-out cookie design, the collection and retention of data by third parties, and Ask.com's affirmative misrepresentations that AskEraser is "on" in circumstances when it has, in fact, been disabled in response to legal process. On February 7, 2008, EPIC filed a supplemental FTC complaint urging the Commission to protect consumers from Ask.com's ongoing deceptive trade practices.
+EPIC's FTC Complaint
+EPIC's FTC Complaint highlights several aspects of AskEraser that threaten consumer privacy.Among the critical points raised by EPIC in the Complaint: (1) users must accept and maintain an AskEraser cookie and disable genuine privacy features that block cookies; (2) the AskEraser cookie is a unique persistent identifier that makes it easy for Ask.com, its business partners, and the government to track the activities of AskEraser users; (3) Ask.com will disable the search delete feature - the central purpose of the AskEraser service - without notice to the user; and (4) Ask.com continues to provide third party access to search data, even when AskEraser is enabled.
+First, EPIC's Complaint states that AskEraser's use of an opt-out cookie is a flawed technique for privacy protection.Cookies are routinely used for tracking Internet users when they click on different pages on the same Web site, when they return to a Web site, and as they move between distinct Web sites. A person who wants to enable the AskEraser service on her computer must accept an Ask.com cookie. If a person chooses not to accept and store the AskEraser cookie, AskEraser will not be enabled. Internet users who are concerned about privacy routinely delete cookies or refuse to accept cookies from Web sites that require them. A typical privacy feature in a software browser is the option not to accept a cookie. There are techniques available that would enable a company to provide anonymous browsing without requiring users to accept cookies. However, Ask.com requires users to disable this privacy feature so that the AskEraser cookie will be stored on the user's computer. Also, requiring consumers to accept opt-out cookies as a means to protect privacy does not "scale," i.e. the practical impact of this approach to privacy protection is to require a user to retain a cookie for every company for which he or she does not wish to be tracked.
+Second, the AskEraser cookie is a persistent identifier, which enables permanent tracking of Internet users. Upon examination of the AskEraser cookie, EPIC determined that Ask.com inserts the exact time that the user enables the AskEraser service. This information is permanently stored on the user's computer in the "content" field of the cookie. With this particular implementation, the text string in the "content" field is in fact, similar to a unique identifier, such as a person's cell phone number or a Social Security Number. So, for example, a user will have an ID of "Sat 15 Dec 2007 19:35:58 UTC."
+While it is conceivable that two Internet users could have the same Ask.com identifier, it is highly unlikely. It is more probable that more than one person might share the same phone number contemporaneously or over time. The use of the AskEraser opt-out cookie provides a Persistent Identifier that allows Ask.com to track and monitor users for as long as they continue to use the AskEraser service. The Persistent Identifier also allows any companies or government agencies to whom Ask.com conveys search queries and associated cookies to track and monitor users for as long as they continue to use the AskEraser service. Because the AskEraser Persistent Identifier is maintained by the user on his or her computer in the cookie file, it is trivially easy to identify the user and associated search terms, even after the search history is purportedly deleted from the Ask.com servers.
+Third, Ask.com admits that it may disable the AskEraser service without notice to users. Upon accessing the Ask.com homepage, a user has the option of clicking on the "AskEraser" icon at the top right corner of the page to enable its function. After clicking on the icon, the user is prompted with a message describing the enhanced privacy protection of using AskEraser and also how to determine whether AskEraser is enabled on the computer. The user then has the option of turning on AskEraser to enable its function.
+Once AskEraser is enabled on the computer, an "on/off" icon appears next to the AskEraser icon, where the "on" icon is lit up. In this manner, the user is given notice that the service is operational. However, Ask.com elsewhere indicates that there are circumstances under which it will disable the service. Ask.com states: "In such case, we will retain your search data even if AskEraser appears to be turned on."Ask.com does not provide users of the AskEraser service notice when their search histories will be retained. Instead, Ask.com affirmatively misrepresents to users that AskEraser is operational, while secretly retaining search histories for government agents, private litigants, and others.
+Finally, AskEraser permits third parties to store Ask.com search data, even when AskEraser is enabled. Third party advertising companies may use third party cookies to gather information about Ask.com users, thus gathering information on one site for use in targeted advertising on another site. Ask.com also shares information with third party service providers. Certain services on Ask.com are supplied by third parties under contract, such as news, Smart Answers or sponsored links advertising. Even if AskEraser is enabled, users' search queries are kept on the servers of third party companies. One third party company with whom Ask.com shares date is Google. As a third-party advertisement provider, Google has access to Ask.com search results, and query information on Ask.com is passed on to Google, even when AskEraser is turned "on."
+FTC Authority to Act
+The FTC's primary enforcement authority with regards to privacy is derived from 15 U.S.C. § 45, commonly known as section 5 of the Federal Trade Commission Act (FTCA). Section 5 of the FTCA allows the FTC to investigate "unfair methods of competition in or affecting commerce, and unfair or deceptive acts or practices in or affecting commerce." Although this law does not grant the FTC specific authority to protect privacy, over the last number of years it has been used to bring public attention to significant privacy issues and to provide a legal basis so as to reform business activities that threaten consumer privacy.
+Expert Criticism of AskEraser
+Various experts have criticized AskEraser. The expert criticisms have focused on the flaws in AskEraser that EPIC identified. Experts have been especially critical of the privacy threats posed by Ask.com's transmittal of data to third parties and AskEraser's cookie-based architecture.
+Search engine technology expert Danny Sullivan characterized the way that AskEraser permits information transmittal to third parties as "a serious concern, a serious flaw in what searchers may think they're getting - but don't get - in terms of privacy protection [from AskEraser]." Mr. Sullivan further warned that AskEraser deceives consumers, because "[s]omeone engaging AskEraser probably does not understand or expect that their query and IP address, along with perhaps a unique cookie ID, is flowing over to Google so that Ask can retrieve ads. And they are not reasonably expecting they have to go to Google or another partner to try and delete information there (if they can - they probably can't)."
+AskEraser's technical implementation was also criticized by Declan McCullagh, a journalist and computer programmer, who said, "[i]f I were coding it, I'd have created a special "ask.com/eraser" site … or a private.ask.com subdomain. No cookies would be needed."
+Legal Documents
+EPIC's Complaint to the FTC (pdf) (January 19, 2008)
+EPIC's Supplemental Complaint to the FTC (pdf) (February 8, 2008)
+Correspondence
+EPIC's letter to Ask.com (pdf) (December 20, 2007)
+Ask.com Policies and Practices
+Revised Ask.com AskEraser FAQ Page (February 7, 2008)
+Original Ask.com AskEraser FAQ Page (December 11, 2007)
+Revised Ask.com Privacy Policy (February 7, 2008)
+Original Ask.com AskEraser FAQ Page (December 11, 2007)
+News Stories and Blog Items
+The Privacy Paradox, Forbes.com, February 15, 2008
+EPIC, Privacy Groups Renew Call for Investigation of Ask Eraser, Forum for Incident Response and Security Teams, February 12, 2008
+FTC Asked Again To Investigate Ask.com's AskEraser, Online Media Daily, Feb 11, 2008
+Ask Eraser Prompts Privacy Squabble, Second FTC Petition, Open Networks Today, January 29, 2008
+Ask.com hits back against AskEraser critics, finds ally, ComputerWorld January 27, 2008
+Privacy backers push FTC to end AskEraser service, ComputerWorld, January 24, 2008
+Taking Ask to Task: Privacy Groups vs. AskEraser, SearchViews, January 24, 2008
+FTC Complaint Filed Over AskEraser: "Unfair & Deceptive", Search Engine Land, January 23, 2008
+EPIC Slams Ask, Google On Privacy, WebProNews, January 23, 2008
+Complaint Against Ask.com Alleges Deception Regarding AskEraser, (free subscription required) Online Media Daily, January 23, 2008
+Whoops! Ask.com complaint to FTC is an EPIC mistake, CNET News.com, January 22, 2008
+Ask.com's Privacy Tool Tracks Users, Groups Tell Feds - Updated, Wired Blog Network, January 22, 2008
+Privacy Mirage: Ask.com Joins Google in Duping Consumers, Inside Chatter, July 23, 2007
+Share this page:
+Subscribe to the EPIC Alert
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+EPIC Alert archive »
+Electronic Privacy Information Center
+1519 New Hampshire Avenue NW
+Washington, DC 20036
+202.483.1140
+info[at]epic[dot]org
+© 1994 - 2020 EPIC, all rights reserved.
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+EPIC Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+Electronic Privacy Information Center1519 New Hampshire Avenue NW Washington, DC 20036More info
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+FOIA Documents
+EPIC FOIA Notes
+EPIC Former Secrets
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+EPIC Bookstore
+Support EPIC

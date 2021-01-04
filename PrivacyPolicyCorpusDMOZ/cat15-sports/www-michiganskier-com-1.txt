@@ -1,0 +1,32 @@
+http://www.michiganskier.com/j/privacy
+HomeSki NewsFeature ArticlesSki Resorts & LinksSki Resort GuideSki Conditions & WeatherSkier KitchenGear & TuningAbout UsContact
+Privacy Policy
+<span></span>
+<h2 class="n">reCAPTCHA</h2><p class="n">We use the reCAPTCHA service provided by Google LLC (Google) to protect your submissions via internet submission forms on this site. This plugin checks if you are a person in order to prevent certain website functions from being (ab)used by spam bots (particularly comments). This plugin query includes the sending of the IP address and possibly other data required by Google for the Google reCAPTCHA service. For this purpose your input will be communicated to and used by Google. However, your IP address is previously truncated by Google within member states of the European Union or in other states which are party to the agreement on the European Economic Area and is, as such, anonymized. Only in exceptional cases is a full IP address transmitted to a Google server in the United States and truncated there. On behalf of the operator of this website, Google will use this information to evaluate your use of this service. The IP address provided by reCaptcha from your browser shall not be merged with any other data from Google.<br />
+This data collection is subject to the data protection regulations of Google (Google Inc.). For more information about Google's privacy policy, please visit:
+<a href="https://policies.google.com/privacy?hl=en" target="_blank">https://policies.google.com/privacy?hl=en</a><br />
+By using the reCAPTCHA service, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</p><br/>
+</div>
+</div>
+</div>
+<aside class="jtpl-sidebar sidebar-options"><div data-container="sidebar"><div id="cc-matrix-2716378197"><div id="cc-m-10188022497" class="j-module n j-htmlCode "><script type="text/javascript">
+//<![CDATA[
+tday=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+tmonth=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+function GetClock(){
+var d=new Date();
+var nday=d.getDay(),nmonth=d.getMonth(),ndate=d.getDate(),nyear=d.getYear();
+if(nyear<1000) nyear+=1900;
+document.getElementById('clockbox').innerHTML=""+tday[nday]+", "+tmonth[nmonth]+" "+ndate+", "+nyear+"";
+}
+window.onload=function(){
+GetClock();
+setInterval(GetClock,1000);
+}
+//
+Michigan Skier Mobile is available for your phone or tablet. Go to michiganskier.com on your device for the mobile version.
+SKI CONDITIONS & WEATHER
+Coyote Crossing offers top-notch dining, lodging, and recreation just five minutes from Caberfae Peaks. Check out the Ski
+Conditions and Weather page, all brought to you compliments of Coyote Crossing Resort.
+Scroll to top
+Close

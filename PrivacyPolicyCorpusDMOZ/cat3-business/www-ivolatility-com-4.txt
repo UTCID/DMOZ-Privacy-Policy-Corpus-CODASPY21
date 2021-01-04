@@ -1,0 +1,161 @@
+http://www.ivolatility.com/help/5.html
+IVolatility
+search
+Historical Options/Futures Data
+Historical Options
+Historical Options Data
+US Intraday Equity Options
+US Intraday Futures Options
+Futures Options EOD
+US&Canada EOD
+Europe EOD
+Asian EOD
+Data Request Form
+Data Download
+Analytical Tools
+IVolLive Options
+IVolFutures
+Futures Analyzer and Tracker
+Futures Options Chain
+Futures Calculator
+Future Volatility Ranker(IV)
+Future Volatility Ranker(HV)
+Subscribe
+Get Data Now
+IV Data Cloud
+IV Data Cloud Overview
+IVolatility SDK
+News
+Contact Us
+More
+About Us
+Security
+Privacy Policy
+Services Disclaimer
+Awards
+Partners
+Knowledge Base
+Historical Options/Futures Data
+Historical Options
+Historical Options Data
+US Intraday Equity Options
+US Intraday Futures Options
+Futures Options EOD
+US&Canada EOD
+Europe EOD
+Asian EOD
+Data Request Form
+Data Download
+Analytical Tools
+IVolLive Options
+IVolFutures
+Futures Analyzer and Tracker
+Futures Options Chain
+Futures Calculator
+Future Volatility Ranker(IV)
+Future Volatility Ranker(HV)
+Subscribe
+Get Data Now
+IV Data Cloud
+IV Data Cloud Overview
+IVolatility SDK
+News
+More
+About Us
+Security
+Privacy Policy
+Services Disclaimer
+Awards
+Partners
+Contact Us
+Knowledge Base
+Searchsearch
+search
+IVolLive Getting Started Guide
+Thu, Dec 10, 2020 close
+Join free
+IVolatility
+search
+Searchsearch
+Join free
+Historical Options/Futures Data
+Historical Options Data
+US Intraday Equity Options
+US Intraday Futures Options
+Futures Options EOD
+US&Canada EOD
+Europe EOD
+Asian EOD
+Data Request Form
+Data Download
+Analytical Tools
+IVolLive Options
+IVolFutures
+Futures Analyzer and Tracker
+Futures Options Chain
+Futures Calculator
+Future Volatility Ranker(IV)
+Future Volatility Ranker(HV)
+Subscribe
+Get Data Now
+IV Data Cloud
+IV Data Cloud Overview
+IVolatility SDK
+News
+Contact Us
+More
+About Us
+Security
+Privacy Policy
+Services Disclaimer
+Awards
+Partners
+Knowledge Base
+Our response to COVID-19 outbreak
+March 30, 2020
+Dear IVolatility subscriber, we would like to give you an update on IVolatility's response to the COVID-19 outbreak.
+We implemented measures to safeguard our team and fully transitioned our workforce to work from home status as of two weeks ago.
+We can assure you that we will continue to operate our tools and services providing you and users around the world with crucial market volatility updates. Due to abnormal activity in the market, there is a strong technical overload on all data transmission channels, and we constantly monitor data services and adjust and split the data stream to process data without delays or interruptions. Further, our support and sales team are available as usual, and we are looking forward to hearing how we can help you!
+We want you to feel informed and confident when working with us. We have several initiatives we're deploying to help our clients in this complicated time, including free subscriptions to our live market tracker, discounts on data, and more that will be announced very soon. We understand these are volatile times, but together we'll get through it stronger than before.
+Take care of yourself and your family, safeguard your safety and wellbeing, and remember to wash your hands frequently.
+We appreciate your loyalty, and we look forward to serving you with the most accurate, consistent, and up-to-date volatility data available, since for options, we are Big Data!
+Thanks,
+IVolatility team
+Sales:
+sales@ivolatility.com
+Support: support@ivolatility.com
+Education
+IVolatility Jargon
+Calculators Help
+Questions About Options?
+Ways to estimate volatility
+Historical Volatility (HV)
+Parkinson's Historical Volatility (HL_ HV)
+Implied Volatility (IV)
+Implied Volatility Index (IV Index)
+Some Advanced Methods for Volatility estimation
+Simple Moving Average (SMA)
+Exponentially Weighted Moving Average (EWMA)
+Logarithmic Garman Klass (LGK)
+IVolatility Education
+Ways to estimate volatility
+Implied Volatility Index (IV Index)
+The Implied Volatility of a stock or index is Volatility implied by an option price observed in the market.
+Because there are many options on a stock with different strike prices and expiration dates, each option can yield a different volatility implicit in an option's premium. Even options with the same number of days remaining until expiration, but with different strike prices, will have different values of implied volatility. Thus to use implied volatility in volatility analysis, it is necessary to calculate a representative implied volatility for a stock.
+There are many ways to calculate such a type of representative value. It can be calculated as average implied volatility of the at-the-money options only or at-the-money and out-the-money options etc.
+We calculate such a composite Volatility for a stock by taking suitable weighted individual option volatilities. This composite volatility will be referred to as the Implied Volatility Index.
+The Implied Volatility Index is calculated by using a proprietary weighting technique factoring the delta and vega of each option participating in IV Index calculations. In total, we use 4 ATM options within each expiration to solve for the Implied Volatility Index of each stock. This IV Index is normalized to fixed tenors (30, 60, 90, 120, 150, 180 days) using a linear interpolation by the squared root of time.
+IVIndexCall and IVIndexPut are the implied volatility indexes calculated for only calls or puts. IVIndexMean is calculated as an average between IVIndexCall and IVIndexPut.
+IVIndexMean is nothing other than the Implied Volatility Index.
+The IVIndex forecasts a stock's Volatility for 1, 2, 3, 4, 5, or 6 months. At the same time, its value represents how expensive or cheap options are in each fixed maturity. Compared with implied volatilities of an individual out-the-money or in-the-money option, the IV Index indicates how expensive the option is in relation to the at-the-money options. The IV Index of major market indices is one of the many tools of sentiment analysis, i.e. studying the prevailing market psychology.
+The annualized IVIndex 30 d of 25% implies that
+the average of daily Volatilities for the nearest 30 calendar days is expected
+to be
+or 1.57 %.
+For more information about annualized volatility, see Introduction to Volatility.
+All else being equal, the more violent and rapidly moving the market (i.e. the higher implied volatility), the more expensive the option contracts. If one stock has IV Index of 25% and another 50%, it can be definitively be said that options of the second stock are more expensive than those of the first stock.
+Example
+The following chart shows the 30d implied volatility index and historical volatility for DJX. The 30 day implied volatility index shows what volatility is expected to be in the ensuing 30 days. As you can see on the chart it provides a sufficiently accurate forecast, and all drops and jumps in IV Index correspond to drops and jumps of actual volatility that occurred in the next 30 days. For example, the jump of IV index in July corresponds to a jump of historical volatility in August. As mentioned above implied volatility, and, therefore, the implied volatility index, tells whether the options on a stock are relatively cheap or expensive.
+Thus jumps in the IV Index of DJX in July and October suggest expansive options on the DJX.
+Chart: 30-day Historical Volatility and IV Index for DJX
+Note: those charts are available to Advanced Historical Data service subscribers.

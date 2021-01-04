@@ -1,0 +1,125 @@
+https://www.internetsociety.org/resources/deploy360/2014/privacy-extensions-for-ipv6-slaac/
+Privacy Extensions for IPv6 SLAAC | Internet Society
+Member Login
+The Internet
+About the Internet
+History of the Internet Facts & Figures Who Makes the Internet Work Glossary of Internet Terms
+What we’re doing
+Growing the Internet
+Community Networks Infrastructure and Community Development Measuring the Internet
+Strengthening the Internet
+Encryption Internet Way of Networking MANRS Open Standards Everywhere Time Security
+What you can do
+Take Action
+Attend an event Become an individual member Fellowships Grants and awards Find a chapter Become an organization member Donate
+Online learning
+Watch a tutorial
+Resources
+Resource library
+All Resources Policy Briefs
+Publications
+Impact Report Global Internet Report
+Programs
+IXP Toolkit MANRS
+About Us
+About Internet Society
+Mission Board of Trustees Chapters Organization Members Partners Team Action Plan: 2020 Organization Reports & Policies About the Internet Society Foundation
+Regions
+Africa Asia-Pacific Europe Latin America & Caribbean Middle East North America
+Events
+All Events African Peering and Interconnection Forum (AfPIF) Community Network Summits IETF Meetings InterCommunity NDSS Symposium
+News
+News
+Press Releases Internet Society In the News Blog Statements Speeches
+For Journalists:
+Media Center
+2020 Action Plan
+2020 Action Plan
+A Bigger and Stronger Internet
+Read the Internet Society’s roadmap for our work ahead – and let’s join together to support our vision that the Internet is for everyone.
+2019 Impact Report
+2019 Impact Report
+In the first-ever Internet Society Impact Report, we present some of our important work in 2019.
+2019 Impact Report: Community Networks
+2019 Impact Report: Community Networks
+Community networks — networks built, managed, and used by local communities — are cornerstones of the Internet Society’s work.
+Learn More
+Learn More
+Did you know that the open standards that power the Internet are created by the Internet Engineering Task Force (IETF)?
+Join the team
+Join the team
+Do you want to join us in building a bigger, stronger Internet? Read our open job descriptions.
+2019 Impact Report: Encryption
+2019 Impact Report: Encryption
+At the Internet Society, we believe that encryption is an essential part of the trusted Internet.
+Member Login
+en
+enfresMore languages
+Donate
+Donate
+‹ Back
+Improving Technical Security
+8 August 2014
+Privacy Extensions for IPv6 SLAAC
+Whereas IPv4 had two basic methods for obtaining an IP address, IPv6 has three. Static configuration is basically the same in both protocols, although less relevant for IPv6 given the length of the address. DHCP is also there for both protocols, and IPv6 DHCPv6 is described in RFC 3315.
+Introducing SLAAC
+The new method that IPv6 introduces is called Stateless Address Autoconfiguration(SLAAC), and described in RFC 4862. SLAAC works by combining part of the address from an interface’s gateway, learned via Router Advertisements(RAs), and an interface’s layer 2 address with “ff:fe” shoved in the middle of it.
+In practice, this generally means that using SLAAC an interface’s address will be composed of; the first 64 bits of its gateway’s address, plus the higher 24 bits of its Ethernet MAC, plus 16 hardcoded bits of “ff:fe”, plus the lower 24 bits of its MAC address. IPv6 addresses are 128 bits, and 64 + 24 + 16 + 24 = 128.
+As an example, let’s say an interface’s gateway had the address 2001:db8::1, and the interface’s MAC address was 01:23:45:67:89:ab. This would result in an IPv6 address of 2001:db8::123:45ff:fe67:89ab.
+It’s easier to understand if you write it out in long form.
+2001:db80:0000:0000:0000:0000:0000:0001 Gateway
+0123:4567:89ab
+MAC
+0123:45ff:fe67:89ab
+MAC after padding
+2001:db80:0000:0000:0123:45ff:fe67:89ab Final IP address
+You’re being followed
+MAC addresses are unique, as in globally unique, as in the Ethernet interface in your computer has a MAC address that doesn’t exist anywhere else in the world. If you have a wired and a wireless connection in your computer, your computer has two unique MAC addresses. This is partly why SLAAC works. By using an interface’s MAC address as part of its IPv6 address we ensure a unique IPv6 address is generated every time.
+However, the problem with uniqueness is that it can also work as an identifier. When IPv6 was conceived in the mid-90s the Internet wasn’t composed of so many mobile devices like it is today. Also, the combination of the words ‘privacy’ and ‘computer’ weren’t as salient nor contentious as they are today.
+Your mobile phone most likely has a MAC address, and will need an IPv6 address if it doesn’t already have one. If your operator is using SLAAC then you can be tracked using the last 48 bits of your IPv6 address because it’s unique. Websites that you visit can see that you have a new IP address, because you have roamed to a new operator, they can also see that the last 48 bits of the address stay the same every time. Hence, every website you visit will know your device regardless of what network you’re on. You can be easily tracked across providers.
+This problem was resolved by issuing an update to the SLAAC protocol called “Privacy Extensions for Stateless Address Autoconfiguration in IPv6”, which is codified in RFC 4941. Basically, your computer’s Ethernet interface no longer uses its MAC to fill in the last 48 of its IPv6 address. Instead it picks a series of bits randomly, and fills in the last 48 bits with the random bits.
+DAD will Know
+The astute reader will see an immediate problem with this. How can we ensure uniqueness when we use any random bits? What happens if two interfaces on the same network segment choose the exact same random bits as each other? The answer is IPv6 Duplicate Address Detection(DAD), specified in RFC 4429. DAD is a subset of IPv6 Neighbor Discovery Protocol(NDP), specified in RFC 4861. DAD listens to network traffic to see if anyone is using an address, so in the relatively unlikely event that two interfaces on the same segment choose the same IPv6 address, DAD will know.
+Another great thing about Privacy Extensions for SLAAC(RFC 4941) is that addresses time out. After a configurable time period, interface addresses will become deprecated, and no longer be used by the interface. Typically this period is a day. Meaning the interface will receive a new IP address every day. This makes it even harder to correlate a single user to a given MAC, or even IP address.
+Support for IPv6 SLAAC Privacy Extensions
+As of this writing the following operating systems support Privacy Extensions for SLAAC(RFC 4941):
+All versions of Windows after Windows XP
+All versions of Mac OS X from 10.7 onward
+All versions of iOS since iOS 4.3
+All versions of Android since 4.0 (ICS)
+Some versions of Linux*
+*I have setup RFC 4941 addresses on Debian Linux, so I can testify to it working. Assuming IPv6 networking is already enabled and working, adding “privext 2” to your interface specification in “/etc/network/interfaces” should do the trick.
+If you would like to get started with IPv6, please visit our IPv6 resources or begin with our “Start Here” page to help find resources most appropriate for your type of organization. If you have an IPv6 case study you think we should consider for inclusion on our site, please contact us – we are always looking for more!
+Improving Technical Security, IPv6
+‹ Back
+Related articles
+DNS Considerations for IPv6 Domain Name System (DNS)18 June 2014DNS Considerations for IPv6With so much information on IPv6 focusing on connectivity, it's sometimes important to remember that deploying IPv6 for actual use...IPv6 Security Frequently Asked Questions (FAQ) Improving Technical Security27 February 2019IPv6 Security Frequently Asked Questions (FAQ)Executive Summary The Internet Society recognises that global deployment of the IPv6 protocol is paramount to accommodate the present and...IPv6 Address Planning: Guidelines for IPv6 address allocation IPv624 September 2013IPv6 Address Planning: Guidelines for IPv6 address allocation1       Introduction IP address planning is certainly among the critical functions required within the overall process of planning and executing...
+Join the conversation with Internet Society members around the world
+Become a member
+About the Internet Society
+About the IETF
+Careers
+Contact Us
+Follow Us
+Sharing Our Content
+Affiliated Sites
+Privacy Policy
+USA
+11710 Plaza America Drive, Suite 400
+Reston, VA 20190
++1-703-439-2120
+Switzerland
+Rue Vallin 2
+CH-1201 Geneva
++41-22-807-1444
+Other offices
+Follow us:
+Follow Internet Society on Twitter
+Follow Internet Society on LinkedIn
+Follow Internet Society on Facebook
+Follow Internet Society on Instagram
+Follow Internet Society on YouTube
+Internet Society RSS Feed
+We care about your privacy and strive to limit our use of cookies to those that help improve our site and keep it relevant. By continuing to use this site, you agree to the use of cookies. To learn more about how you can control use of cookies
+see our Cookie Policy
+Copyright © 2020 Internet Society

@@ -1,0 +1,23 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch13s04.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+ConclusionJava, JavaScript, Flash, and Shockwave are here to stay.
+Although Java will probably never live up to its initial hype,
+Java-based stock tickers, mortgage calculators, and graphing agents
+provide web developers with convenient and reasonably secure systems
+for moving computation from the web server to the end user’s computer.
+Likewise JavaScript, despite some initial bumps, has shaped up to be a
+reasonably secure system for implementing shopping carts and providing
+client-side form validation.Because of the risks that arise from buggy implementation and
+the poor track records of Java and JavaScript to date, we recommend
+that none of the mobile code systems described in the chapter be used
+in high security environments. However, most Internet users can
+probably use these technologies without much fear—provided that they
+are careful to download browser updates when security problems are
+discovered.
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

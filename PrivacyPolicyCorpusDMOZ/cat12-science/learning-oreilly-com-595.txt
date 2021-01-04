@@ -1,0 +1,30 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch23s03.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+RSACiThe
+Recreational Software Advisory Council (RSAC) was formed
+in the mid-1990s in response to several moves within the U.S. Congress
+to regulate the content of children’s video games. Congress was moved
+to action after a number of video games were produced in which the
+goal of the game was to brutally murder live-action figures, some of
+whom were wearing only the scantiest of outfits.[201] The entertainment industry successfully argued that it
+could police itself and offered to adopt a voluntary rating system
+that would let people purchasing a video game determine the levels of
+gore, violence, and sex that the program contained.In conjunction with the development of the PICS standard, the
+World Wide Web Consortium worked with RSAC to develop a modified
+version of the RSAC rating system—RSACi. Despite the fact that this rating system was
+designed for rating web sites and was created by the W3C, it still
+read like a rating system for video games and not for web sites. For
+example, a web site could be said to “reward injuring nonthreatening
+creatures.”Table 23-1 shows
+the RSAC ratings that are implemented in Microsoft Internet Explorer 3
+and above. Microsoft’s Internet Preferences panel is designed to allow
+parents to create “content advisors” that will prohibit the display of
+certain kinds of content. Figure
+23-2 shows a window from the content advisor. In this case, the content advisor is loaded with the RSACi content rating system. The browser has been configured so that ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

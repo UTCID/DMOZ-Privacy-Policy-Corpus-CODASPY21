@@ -1,0 +1,90 @@
+https://web.archive.org/web/20170830125712/https://www.aclu.org/blog/privacy-technology/location-tracking/bostons-license-plate-reader-database-was-online-plain
+success
+fail
+Jul
+AUG
+Oct
+30
+2016
+2017
+2020
+13 captures
+30 Aug 2017 - 26 Jul 2020
+About this capture
+COLLECTED BY
+Organization: American Civil Liberties Union (ACLU)
+Archive-It Partner 369: American Civil Liberties Union (ACLU)
+Collection: ACLU.org
+Crawl of the aclu.org site, Jan. 2011
+TIMESTAMPS
+Jump to navigation
+Skip navigation
+Know your rights
+Know Your Rights
+Demonstrations and Protests
+ICE Visits
+What To Do If You're Stopped By Police
+See all Know Your Rights
+Do you know your rights? These easy-to-use resources were created by the ACLU so you can have your rights at your fingertips.
+Defending our rights
+Defending Our Rights Court Battles Supreme Court Cases Federal Advocacy Find Your Local Affiliate
+Go to Defending Our Rights
+The ACLU works tirelessly in courts, legislatures, and communities to defend and preserve the Constitution’s promise of liberty for everyone in our country.
+Blogs
+Blogs
+Speak Freely
+Free Future
+Washington Markup
+Feeds
+Editor's Picks
+Out for Freedom
+Breaking News
+See all blogs and feeds
+About
+About Leadership History Media Local Affiliates Careers Ambassadors Officers and Board Financial Info and Reports How You Can Help FAQ Centers Contact Us
+Go to About the ACLU
+For almost 100 years, the ACLU has worked to defend and preserve the individual rights and liberties guaranteed by the Constitution and laws of the United States.
+Shop
+Speak Freely
+Boston’s License Plate Reader Database Was Online in Plain Text With No Password Protection
+By Kade Crockford, Director, ACLU of Massachusetts Technology for Liberty ProjectSeptember 10, 2015 | 11:00 AM
+TagsAutomatic License Plate Readers Location Tracking Privacy & Technology Surveillance Technologies
+FacebookTwitterRedditEmailPrint
+Car trails.jpg
+The Boston Transportation Department has been operating a license plate tracking program seeking to identify parking scofflaws, people with expired insurance, stolen cars, and even people suspected of gang and terrorist ties, according to recently discovered documents. Up until a few weeks ago, this sensitive information about thousands of people, including every person with a Boston resident parking permit, was stored online in plain text for the world to see. In mid-August 2015, officials in Boston were surprised to receive a phone call from journalist Kenneth Lipp, who informed them that the Boston Transportation Department’s entire license plate reader database was online and available to download for anyone with an Internet connection. There was no password guarding the database, which contained a million or so license plate reader records, the home addresses of every single person with a Boston parking permit, and lists of 2,500 people the police or FBI (it remains unclear which) have designated suspected gang members or terrorists, among other data. Through some Googling, Lipp discovered that BTD’s license plate reader system, run by the Canadian technology giant Genetec, was dumping all of its records into an online server maintained by a Xerox subsidiary for the world to see — if it knew where to look. The FBI may be interested to know that information about who is a suspected terrorist is posted on the Internet for anyone in the world to download and peruse. Included in the files available on this public facing, password-free server were records suggesting that the Boston Police Department has been piggybacking off BTD license plate reader data for years. One of the files shows what appear to be records of automated emails from the BTD server to the Boston Police department’s stolen vehicle office, alerting the police each time a car on the stolen car hotlist encountered a BTD license plate reader. I was surprised to discover these records because in 2013, in the wake of local reporter Shawn Musgrave's expose on privacy and civil liberties problems with the department’s license plate reader program, the Boston Police told the public that it was scrapping the program altogether. The Xerox records suggest scrapping isn’t at all what occurred. Indeed, the automated emails from BTD’s license plate reader program to the Boston Police, left on the Xerox server for anyone to download at will, appear to have started at around the same time the cops told the public they’d stopped using license plate readers. That's to say, instead of scrapping the program as the police told the public they would, BPD appears to have bootstrapped their license plate reader program from BTD data. While the BTD’s license plate reader program is primarily used for parking enforcement, the records obtained freely online reveal that the information was processed for other purposes that go well beyond hunting for stolen cars. Lipp reports for the Dig:
+In collecting data, the BTD patrols city blocks—in some cases, both literally and figuratively sweeping the street with ALPR-equipped sanitation trucks—and not exclusively in search of plates belonging to scofflaws. Files obtained in our investigation reveal that as theBTD’s software searches databases, it alerts department operators if a plate is connected to a “convicted person on supervised release,” or to someone pegged to a “protection order.” Commonly called hotlists, these compendiums are created by fusing criminal intelligence from sources like the FBI’s National Crime Information Center and the AMBER Alert program, as well as from data furnished by banks, collection agencies, and the civil court system. It’s not clear whether or how the public is any safer when authorities use massive watchlists. In Boston, a city of approximately 600,000 people, parking enforcement has one hotlist with 720,000 hits, each of which notes a plate number, location info, and available make and model data. Among the targets listed in August: 19 license numbers classified as “immediate threats,” nearly 4,000 affiliated with “wanted persons,” 25 plates linked to bad checks, 75 tied to payment defaults, and 468,617 flagged for cancelled insurance. Also exposed were 2,500 hits on a “Gang/Terrorist Watch..."
+We don't know for certain from which list the 2,500 people identified as gang members or terrorists were so designated, or who designated them, but a likely suspect is the FBI's Violent Gang and Terrorist Organization File (VGTOF) database. According to a 2007 Inspector General report, the FBI at that time included nearly half a million people in this database, assigning them one of three codes meant to inform law enforcement “whether there is an active arrest warrant, a basis to detain the individual, or an interest in obtaining additional intelligence information regarding the individual,” respectively. It’s not certain that the 2,500 people identified as “Gang/Terrorist Watch” in the Xerox/BTD license plate reader database were identified as such because of their inclusion in the FBI’s VGTOF, but it seems probable. The FBI may be interested to know that information about who is a suspected terrorist was posted on the Internet for anyone in the world to download and peruse. Government agencies routinely implore the public to trust them with our sensitive information, whether it's license plate reader records detailing our movements and life patterns or information collected about political activists for so-called "public safety" purposes. But incidents like this one demonstrate that we should be very circumspect about allowing governments and corporations to collect, share, and manipulate information about us in secret. Journalist Kenneth Lipp found this database and exposed it to the company and transportation department, triggering an added layer of security that shielded the information from the public. We will likely never know how many other people stumbled across it, or what they might have done with the information before then.
+Add a comment (4)
+Read the Terms of Use
+Your name *
+Comment *
+Text formats optionsMore information about text formats Text format
+Basic HTMLPlain text
+Basic HTMLAllowed HTML tags: <a> <em> <strong> <blockquote> <cite> <p> <br> <ol> <ul> <li>Lines and paragraphs break automatically.Web page addresses and e-mail addresses turn into links automatically.Plain textNo HTML tags allowed.Web page addresses and e-mail addresses turn into links automatically.Lines and paragraphs break automatically.
+Leave this field blank
+http://martinsh...
+What's the problem? If you can't stand the heat then stay at home. The cops are being taped also, correct? These are "public places." Let the public see what's going on there.
+reply September 10, 2015 4:38 PM
+Martin Pitts <...
+What's the problem? If you can't stand the heat then stay at home. The cops are being taped also, correct? These are "public places." Let the public see what's going on there.
+reply September 10, 2015 4:39 PM
+Anonymous
+As a sysadmin for local government who has spent time with alpr systems, this is a very disturbing article to read. It's very hard in my profession to screw up like this and it is very likely that hundreds of thousands of taxpayer dollars were wasted paying some contractors salary to install and configure this system. I would place the blame on ACS, the xerox subsidiary and I would hope someone was fired and the city sued the company for the violation of citizen privacy
+reply September 10, 2015 5:42 PM
+Augustinevalenc...
+Membre Sincère: 2011 #74423674 heure are some off case's Dl#941330608
+reply September 11, 2015 12:33 PM
+Fight for everyone's rights - support the ACLU.
+Donate Now
+Sign Up For Breaking News Alerts
+Email Address *
+ZIP Code *
+Related Stories
+Baltimore Police Caught By Their Own Body Cameras Planting Evidence: LessonsAugust 7, 2017
+Documents Uncover NYPD’s Vast License Plate Reader DatabaseJanuary 25, 2016
+Artificial Intelligence at Any Cost Is a Recipe for TyrannyAugust 23, 2017
+U.S. Department of Transportation Funding License Plate Readers, Documents...July 20, 2015
+Internal Documents Show FBI Was 'Wrestling' With License Plate Scanner...May 15, 2015
+Sign Up for Breaking News
+Email Address *
+ZIP Code *

@@ -1,0 +1,21 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/apa.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Appendix A. Lessons from Vineyard.NETThe following appendix provides an account of a
+real-life experience with operating an Internet service provider. It
+details Simson’s experiences starting and operating a small ISP named
+Vineyard.NET and keeping that ISP secure.In the BeginningIn May 1995, my wife and I bought a run-down
+150-year-old house on Martha’s Vineyard, a small island off the coast
+of Massachusetts with a winter population of roughly 12,000 and a
+summer population of over 100,000.Our plan was to live year-round in this somewhat isolated but
+romantic location. We weren’t worried: we would have a 56 kbps
+connection to the Internet as our main link to the outside world. But
+when we found out that the cost of our Internet hookup would be
+roughly $400 a month, we decided to start an Internet cooperative to
+help pay for it.We figured we could get together eight people and have them each pay $50/month for a full-time connection. Of course, eight full-time connections meant that we also needed to have some number of dialup lines, increasing our monthly charges by roughly $30 per line. (How many dialup lines did we need? Two? Eight? We didn’t know.) Perhaps a better alternative, we realized, would be to get a few dozen people together and charge them each $30/month. As it was unlikely that all of those people would want to go online at the same time, we could probably get away with having only 1 modem for every 5 customers, or perhaps 1 modem for every 10. Our back-of-the-envelope ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

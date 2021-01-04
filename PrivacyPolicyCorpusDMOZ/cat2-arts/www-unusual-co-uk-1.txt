@@ -1,0 +1,31 @@
+http://www.unusual.co.uk/privacy-policy/
+Cookie policy
+Our website, along with many other websites, uses cookies. A cookie is a small file of letters and numbers that is placed on your computer or mobile device if you agree. The cookies we use help make our website work as you would expect.
+We do not use cookies to collect any personal or sensitive information (without your express permission).
+No information is passed to advertising networks or third parties.
+If the settings on your web browser are set to accept cookies, we understand this and continued use of the website to mean that you accept our cookies. You can change your browser settings so that you do not accept our cookies or any other website cookies.
+However, this may result in the website not working as you would expect.
+You can usually switch cookies off by adjusting your browser settings to stop it from accepting cookies. Doing so however, may limit the functionality of our website and a large proportion of the many other websites as cookies are a standard part of most websites.
+Cookies used on this site
+PHP Session Variables
+Cookie name: PHPSESSID
+Our site uses session cookies to allow websites to link the actions of a user during a browser session. These session cookies expire after a browser session so would not be stored longer term. For this reason session cookies may sometimes be considered less privacy intrusive.
+PHPSESSID is a cookie for PHP sessions. When you are working with an application, you open it, do some changes and then you close it. This is much like a Session. The computer knows who you are. It knows when you start the application and when you end. But on the internet the web server does not know who you are and what you do because the HTTP address doesn't maintain state. A PHP session solves this by allowing you to store user information on the server for later use (i.e. username, shopping items, etc). However, session information is temporary and will be deleted after the user has left the website. Sessions work by creating a unique id (UID) for each visitor and store variables based on this UID. The UID is either stored in a cookie or is propagated in the URL.
+Google Analytics
+We use some Google analytics cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the site when they’re using it. This helps us to improve the way our website works, for example by making sure users are finding what they need easily.
+These analytics programs also tell us if, on an anonymous basis, how people reached this site (e.g. from a search engine) and whether they have been here before.
+Google analytics policy can be found here http://www.google.com/analytics/learn/privacy.html
+Social Media and video sites
+We may include links to websites such as Facebook, Twitter and YouTube.
+All of these sites do use cookies.
+However, they are third party cookies and the relevant cookie policies can be found at the following links.
+Facebook www.facebook.com/help/cookies
+Twitter twitter.com/privacy
+YouTube www.google.com/intl/en/policies/privacy/
+The Wharf,
+Bugbrooke,
+Northamptonshire,
+NN7 3QB, UK
+Tel: +44 (0)1604 830083
+Fax: +44 (0)1604 831144
+Email: info@unusual.co.uk

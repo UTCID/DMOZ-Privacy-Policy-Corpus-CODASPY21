@@ -1,0 +1,80 @@
+http://eric_goldman.tripod.com/resources/privacyrecipe.htm
+\Grandma Goldstein’s 16 Step Recipe for Deploying Online Privacy
+Policies
+By Eric Goldman
+Marquette University
+Law School
+eric.goldman@marquette.edu
+Step 1: Determine why you are doing a policy and what
+audience(s) you are trying to address
+Step 2: Determine what statutory regulations you are
+required to comply with:
+If you
+are marketing to kids (12 or under) or knowingly collecting info from
+kids, COPPA applies and you should probably exit that business
+If you
+operate private messaging services, the ECPA applies
+If you
+are an Internet access provider with customers in Minnesota, the Minnesota
+Internet privacy law (Ch. 325M) applies
+If you
+are a financial institution or are significantly engaged in financial
+activities, Graham-Leach-Bliley applies
+If you
+are a healthcare provider or insurance company, HIPAA applies
+If you
+collect or use social security numbers, CA Civil Code 1798.85 may apply
+If you
+use or access credit reports, the FCRA may apply
+If you
+have European operations, the EU Directive applies and you should call
+European counsel
+Step 3: Determine if you are going to use one or more
+third party validators such as TRUSTe, BBBOnline or PWC’s BetterWeb
+Step 4: Do a site audit
+Look
+for existing data collection points, and consider future ones
+Look
+for existing privacy policy-like language
+Step 5: Review your company’s existing business
+practices and obligations
+Look
+for mandatory obligations to turn data over to third parties
+Look
+for other places where data is turned over anyway (such as to consultants
+or vendors)
+Determine
+if you are complying with the EU Safe Harbor, or if you desire to do so
+Look
+at IAP and hosting agreements
+Look
+at ad network agreements
+Look for
+situations where you have voluntarily agreed to limit your use or
+disclosure of information (such as traffic acquisition agreements or
+agreements with European companies)
+Step 6: Determine if
+the policy will be a marketing representation or a contract
+If it
+is intended to be a contract, determine how the policy will be made into a
+mandatory clickthrough with users or at data-collection points from
+non-users
+Step 7: Consider how the policy will be amended in
+the future if the policy is a contract, or how data will be segregated between
+user classes if the policy is a marketing representation
+Step 8: Draft the policy and get internal and
+external blessing
+Step 9: Train employees about the policy
+Step 10: Scrub the site to remove all privacy-related
+language that isn’t in the policy
+Step 11: Publicly post the policy
+Step 12: If you want to P3P-enable your site,
+implement your policy in a P3P-compliant XML file and upload to your website
+Step 13: If you are doing an amendment, notify users
+of the amended terms using the protocol described in the previous policy
+Step 14: Keep archives of prior policies if you have
+any data from users who are not legally upgraded to the new policy
+Step 15: Establish a procedure for examining if new
+site features require changes to the policy
+Step 16: Put into place a contingency plan in case
+things go wrong

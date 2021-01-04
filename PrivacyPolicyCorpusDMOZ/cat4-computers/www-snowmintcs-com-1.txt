@@ -1,0 +1,175 @@
+http://www.snowmintcs.com/get-help/budget-icon-packs/
+Products
+Budget
+Documentation
+Reviews
+Budget (Windows)
+Documentation
+Reviews
+Budget Planner
+Documentation
+Reviews
+Budget Planner (Windows)
+Documentation
+Budget Touch
+Documentation
+Reviews
+Budget Workbook
+Documentation
+Reviews
+Budget Workbook (Windows)
+Documentation
+Reviews
+Pay It Down
+Documentation
+Trade Strategist
+Features
+Video Demos
+Backtesting
+Charting
+Generating Signals
+Stock Lists
+Strategies
+Using Documentation
+Documentation
+Ultimate Pen
+Documentation
+Reviews
+Get Help
+Budget Icon Packs
+Budget Touch Sync Issues
+Contact Us
+Info
+Guarantee
+Free Upgrades
+Privacy Policy
+Envelope Budgeting
+Video Tutorials
+Budget Set Up Tour
+Budget Usage Tour
+Switching From Quicken
+Budget Icon Packs
+FAQs
+Budget Icon Packs
+Budget Touch Sync Issues
+Contact Us
+Product Forums
+Product support
+Sign up for our newsletter
+Report a Bug / Ask a Question
+RSS feeds
+Subscribe to our product release RSS feed
+Subscribe to our latest forum topics RSS feed
+Additional Resources
+How to manage your money using a budget and how our software application, Budget, can help you.
+Switching From Quicken - some helpful pointers if you're making the switch from another finance program like Quicken or Microsoft Money.
+Localization Help
+Want to help localize one of our products to another language? Found a problem with an existing localization? We're always looking for talented multi-lingual people to help us translate our products. Use the
+contact form to get in touch with us.
+Budget can display small images (known as icons) on each envelope and bank account; these icons can be used to help you visually identify your envelopes and accounts.
+Budget loads the icons from plugin icon packs. Budget ships with two sets of icons built in (one color and one black & white), and you can install additional icon packs that you either create yourself or download from the internet.
+If you have an icon pack that you want to post but don’t have a web site, we can host them here; just send them to us at support@snowmintcs.com. We can also link to your own web site if you prefer.
+Installing Icon Packs
+Additional icon packs can be installed by placing them at the correct location on your hard drive.
+Budget’s icon pack preferences pane shows you the full path to that folder.
+In Budget on Windows, from the Edit menu choose the Preferences command; in Budget on Mac, from the Budget menu choose the Preferences command. Then switch to the Icon Packs pane to see that path.
+Icon Pack Locations on Mac OS X
+Budget searches for icon packs in the following four folders:
+~/Library/Application Support/Snowmint Creative Solutions/Budget/PlugIns/
+/Library/Application Support/Snowmint Creative Solutions/Budget/PlugIns/
+/System/Library/Application Support/Snowmint Creative Solutions/Budget/PlugIns/
+/Network/Library/Application Support/Snowmint Creative Solutions/Budget/PlugIns/
+Icon Pack Location on Windows
+Budget searches for icon packs in a special folder created when the application is installed.
+For the default installation, that path is:
+C:Program FilesWinBudgetPlugins
+Icon Pack Format
+Icon Packs are simply a set of images in a folder structure, along with a text file named “contents.xml” that describes the icon pack. The icons can be any size but will be drawn at most as 24×24 images in Budget. Budget will scale the images down if they are larger than 24×24. The images can be in any format that Mac OS X understands natively. That means you can use PNG, GIF, TIFF, JPG, or a few others. We recommend PNG or GIF because those formats compress icons quite well.
+Note: The same icon packs can be used with both the Mac OS X and Windows versions of Budget.
+Folder Structure
+The main icon pack folder must have a “.budgeticons” filename extension. You can name the icon pack whatever you want as long as it ends with “.budgeticons”. Inside of this folder, there should be one folder named “Contents”. Within the “Contents” folder, there should be one folder named “Resources”. Within the “Resources” folder is where the image files and “contents.xml” text file reside. You can see an outline of this folder structure below.
+IconPackName.budgeticons
+Contents
+Resources
+contents.xml
+Image01.png
+Image02.png
+Image03.png
+…
+contents.xml
+The “contents.xml” file must be a plain text file containing information describing the icon pack. There are fields for the author name and email address, an author URL, and a version number. Also, all of the images must be given titles that will be displayed to the user within Budget. A sample contents.xml file is given below.
+To make your own “contents.xml” file, you can fill in your own information between the Author, Version, Website, and Email tags. Each icon in the icon pack will need it’s own “icon” tag line with it’s title and the name of it’s image file.
+Note: Do NOT change anything above the line ‘]>’ in the file. Your changes should only be made BELOW that line.
+Sample contents.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE BudgetIcons [
+<!ELEMENT BudgetIcons (Author|Version|Website|Email|icon)*>
+<!ATTLIST BudgetIcons version CDATA #FIXED "1.0">
+<!ELEMENT Author (#PCDATA)>
+<!ELEMENT Version (#PCDATA)>
+<!ELEMENT Website (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>
+<!ELEMENT icon (#PCDATA)>
+<!ATTLIST icon title CDATA "untitled">
+]>
+<BudgetIcons version="1.0">
+<Author>Snowmint Creative Solutions LLC</Author>
+<Version>1.0</Version>
+<Website>http://www.snowmintcs.com/products/budgetmac/</Website>
+<Email>support@snowmintcs.com</Email>
+<icon title="House">Image01.png</icon>
+<icon title="Movies">Image02.png</icon>
+<icon title="Travel">Image03.png</icon>
+</BudgetIcons>
+Copryight © 2020 Snowmint Creative Solutions LLCDesign by: TriLion Studios | Code by: Amber Weinberg and Kyle Hammond
+Products
+Budget
+Documentation
+Reviews
+Budget (Windows)
+Documentation
+Reviews
+Budget Planner
+Documentation
+Reviews
+Budget Planner (Windows)
+Documentation
+Budget Touch
+Documentation
+Reviews
+Budget Workbook
+Documentation
+Reviews
+Budget Workbook (Windows)
+Documentation
+Reviews
+Pay It Down
+Documentation
+Trade Strategist
+Features
+Video Demos
+Backtesting
+Charting
+Generating Signals
+Stock Lists
+Strategies
+Using Documentation
+Documentation
+Ultimate Pen
+Documentation
+Reviews
+Get Help
+Budget Icon Packs
+Budget Touch Sync Issues
+Contact Us
+Info
+Guarantee
+Free Upgrades
+Privacy Policy
+Envelope Budgeting
+Video Tutorials
+Budget Set Up Tour
+Budget Usage Tour
+Switching From Quicken
+Contact Us
+Privacy Policy

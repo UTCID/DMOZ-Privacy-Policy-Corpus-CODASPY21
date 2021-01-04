@@ -1,0 +1,924 @@
+http://www.arin.net/participate/policy/nrpm/
+Dashboard
+Settings
+Profile and security information
+Log Out
+Search
+all requests subject to terms of use
+Search
+Open menu
+IP Addresses & ASNs
+Get Started
+ARIN Account Management
+Requesting IP Addresses or ASNs
+IPv6 Information
+IPv4 Addressing Options
+Autonomous System Numbers
+Legacy Resource Holders
+Fee & Billing Information
+Fee Schedule
+Make a Payment
+How Billing Works
+Resource Revocation, Returns, and Reinstatement
+IP & ASN Registry Services
+Managing Resource Records
+Transferring IP Addresses & ASNs
+Reporting Reassignments
+Autonomous System Originations (Origin AS)
+Using Whois
+Resource Management Services
+Automating Record Management with Reg-RWS
+Securing DNS (DNSSEC)
+Resource Certification (RPKI)
+Internet Routing Registry (IRR)
+Reverse DNS
+Policy & Participation
+Policy
+Number Resource Policy Manual
+Policy Development Process (PDP)
+Draft Policies and Proposals
+Meetings & Events
+Upcoming Meetings
+Outreach Events
+ARIN Fellowship Program
+Sponsorship
+Past Meetings & Events
+Membership & Elections
+Membership
+Elections
+Community Interaction
+Mailing Lists
+Consultations & Suggestions
+Reference & Tools
+Tools
+Operational Test and Evaluation Environment (OT&E)
+CIDR Calculator
+Community Software Repository
+Internet Number Resource Fraud Reporting
+Reference
+Spam & Network Abuse Reporting
+TeamARIN (Blog)
+Data Accuracy
+Security at ARIN
+ARIN Software Releases
+Research
+Statistics & Reporting
+Historical Whois Data (WhoWas)
+Bulk Whois Data
+Training & Education
+ARIN Leadership Development Program
+Instructional Webinars
+Resource Materials
+ARIN Online Help Videos
+About
+Welcome to ARIN
+Organization Structure & Staff
+Our Region
+ARIN Board of Trustees
+Advisory Council
+NRO Number Council
+Careers
+Corporate Documentation
+Corporate Documents
+Annual Reports
+Strategic Planning & Budgeting
+Agreements
+History of ARIN
+Community Grants
+ARIN Community Grant Program
+Community Grant Program History and Recipients
+External Relations
+ARIN’s Role in Internet Governance
+Law Enforcement Agencies
+Technical Community
+Pay Now
+Feedback
+Home
+Policy & Participation
+Policy
+Number Resource Policy Manual
+Policy
+Number Resource Policy Manual
+Version 2020.3 - 8 December 2020
+This is ARIN’s Number Resource Policy Manual (NRPM). It is available at: https://www.arin.net/policy/. This version supersedes all previous versions.
+Number resource policies in the ARIN region are created in accordance with the “Policy Development Process” (https://www.arin.net/policy/pdp.html). The status of current and historical policy proposals can be found on the “Draft Policies and Proposals” page (https://www.arin.net/policy/proposals/).
+Each policy consists of a number of component parts separated by dots. The first figure to the far left and preceding the first dot (.), refers to the chapter number. The figure following the first dot indicates a policy section. Any subsequent figures are for the purpose of identifying specific parts of a given policy.
+Contents
+Skip to main text
+1. Principles and Goals of the American Registry for Internet Numbers (ARIN)
+1.1. Registration
+1.2. Conservation
+1.3. Routability
+1.4. Stewardship
+2. Definitions
+2.1. Internet Registry (IR)
+2.2. Regional Internet Registry (RIR)
+2.3. [Retired]
+2.4. Local Internet Registry (LIR)
+2.5. Allocation, Assignment, Reallocation, Reassignment
+2.6. End-user
+2.7. Multihomed
+2.8., 2.9. [Retired]
+2.10. End Site
+2.11. Community Network
+2.12. Organizational Information
+2.13. Residential Customer
+2.14. Serving Site (IPv6)
+2.15. Provider Assignment Unit (IPv6)
+2.16. Utilized (IPv6)
+3. Directory Services
+3.1. Bulk Copies of ARIN’s Whois
+3.2. Distributed Information Service Use Requirements
+3.3. Privatizing POC Information
+3.4. Routing Registry
+3.4.1. Acceptable Use Policy
+3.5. Autonomous System Originations
+3.5.1. Collection
+3.5.2. Publication
+3.5.2.1. Description of Data
+3.5.2.2. Bulk Publication of Data
+3.5.2.3. Other Formats
+3.6. Annual Validation of ARIN’s Public Whois Point of Contact Data
+3.6.1. Annual POC Verification
+3.6.2. Specified Public Whois Points of Contact for Verification
+3.6.3. Organizations Covered by this Policy
+3.6.4. Procedure for Verification
+3.6.5. Non-Responsive Point of Contact Records
+3.7 POC Notification and Validation Upon Reassignment or Reallocation
+3.8. Directory Service Records
+3.8.1 Organization Record Creation
+4. IPv4
+4.1. General Principles
+4.1.1., 4.1.2., 4.1.3., 4.1.4. [Retired]
+4.1.5. Resource Request Size
+4.1.6. Aggregation
+4.1.7. Reserved Pool Replenishment
+4.1.7.1. Disposition of Resources
+4.1.7.2. Precedence for Replenishment
+4.1.8. ARIN Waitlist
+4.1.8.1. Sequencing
+4.1.8.2. Fulfillment
+4.1.9. [Retired]
+4.2. Allocations to ISPs (Requirements for Requesting Initial Address Space)
+4.2.1. Principles
+4.2.1.1. Purpose
+4.2.1.2. Annual Renewal
+4.2.1.3. Utilization Rate
+4.2.1.4. Slow Start
+4.2.1.5. Minimum Allocation
+4.2.1.6. [Retired]
+4.2.2. Initial Allocation to ISPs
+4.2.3. Reassigning and Reallocating Address Space to Customers
+4.2.3.1. Efficient Utilization
+4.2.3.2. VLSM
+4.2.3.3. Contiguous Blocks
+4.2.3.4. Downstream Customer Adherence
+4.2.3.4.1. Utilization
+4.2.3.4.2. Downstream ISPs
+4.2.3.5. [Retired]
+4.2.3.6. Reassignments to Multihomed Downstream Customers
+4.2.3.7. Registration
+4.2.3.7.1. Reassignment and Reallocation Information
+4.2.3.7.2. Reassignments and Reallocations Visible Within Seven Days
+4.2.3.7.3. Residential Subscribers
+4.2.3.7.3.1. [Retired]
+4.2.3.7.3.2. Residential Customer Privacy
+4.2.3.8. Reassignments for Third Party Internet Access (TPIA) over Cable
+4.2.4. ISP Additional Requests
+4.2.4.1. Utilization Percentage (80%)
+4.2.4.2. Return Address Space as Agreed
+4.2.4.3. Request Size
+4.2.4.4. [Retired]
+4.2.5., 4.2.6. [Retired]
+4.3. End-users - Assignments to End-users
+4.3.1. End-users
+4.3.2. Minimum Assignment
+4.3.3. Utilization Rate
+4.3.4. Additional Considerations
+4.3.5. Non-connected Networks
+4.3.6. Additional Assignments
+4.3.6.1. Utilization Requirements for Additional Assignment
+4.4. Micro-allocation
+4.5. Multiple Discrete Networks
+4.6., 4.7., 4.8., 4.9. [Retired]
+4.10. Dedicated IPv4 Block to Facilitate IPv6 Deployment
+5. AS Numbers
+5.1. [Retired]
+6. IPv6
+6.1. Introduction
+6.1.1. Overview
+6.2. [Retired]
+6.3. Goals of IPv6 Address Space Management
+6.3.1. Goals
+6.3.2. Uniqueness
+6.3.3. Registration
+6.3.4. Aggregation
+6.3.5. Conservation
+6.3.6. Fairness
+6.3.7. Minimized Overhead
+6.3.8. Conflict of Goals
+6.4. IPv6 Policy Principles
+6.4.1. Address Space Not to be Considered Property
+6.4.2. Routability Not Guaranteed
+6.4.3. [Retired]
+6.4.4. Consideration of IPv4 Infrastructure
+6.5. Policies for Allocations and Assignments
+6.5.1. Terminology
+6.5.2. Initial Allocation to LIRs
+6.5.2.1. Size
+6.5.2.2. Qualifications
+6.5.3. Subsequent Allocations to LIRs
+6.5.3.1. Subsequent Allocations for Transition
+6.5.4. Reassignments from LIRs/ISPs
+6.5.4.1. Reassignment to Operator’s Infrastructure
+6.5.5. Registration
+6.5.5.1. Reassignment Information
+6.5.5.2. Reassignments and Reallocations Visible Within Seven Days
+6.5.5.3. Residential Subscribers
+6.5.5.3.1. Residential Customer Privacy
+6.5.5.4. Registration Requested by Recipient
+6.5.6. [Retired]
+6.5.7. Existing IPv6 Address Space Holders
+6.5.8. Direct Assignments from ARIN to End-user Organizations
+6.5.8.1. Initial Assignment Criteria
+6.5.8.2. Initial Assignment Size
+6.5.8.2.1. Standard Sites
+6.5.8.2.2. Extra-large Sites
+6.5.8.3. Subsequent Assignments
+6.5.8.4. Consolidation and Return of Separate Assignments
+6.5.9. Community Network Allocations
+6.5.9.1. Qualification Criteria
+6.5.9.2. Allocation Size
+6.5.9.3. Reassignments by Community Networks
+6.6., 6.7., 6.8., 6.9. [Retired]
+6.10. Micro-allocations
+6.10.1. Micro-allocations for Critical Infrastructure
+6.10.2. Micro-allocations for Internal Infrastructure
+6.11. IPv6 Multiple Discrete Networks
+7. [Retired]
+8. Transfers
+8.1. Principles
+8.2. Mergers, Acquisitions, and Reorganizations
+8.3. Transfers Between Specified Recipients Within the ARIN Region
+8.4. Inter-RIR Transfers to Specified Recipients
+8.5. Specified Transfer Recipient Requirements
+8.5.1. Registration Services Agreement
+8.5.2 Operational Use
+8.5.3. Minimum Transfer Size
+8.5.4. Initial Block
+8.5.5. Block Size
+8.5.6. Efficient Utilization of Previous Blocks
+8.5.7. Alternative Additional IPv4 Address Block Criteria
+8.6. Wait List Restrictions
+9. Out of Region Use
+10. Global Number Resource Policy
+10.1. IANA to RIR Allocation of IPv4 Address Space
+10.2. Allocation of IPv6 Address Space by the Internet Assigned Numbers Authority (IANA) Policy to Regional Internet Registries
+10.3. IANA Policy for Allocation of ASN Blocks to RIRs
+10.4. Global Policy for the Allocation of the Remaining IPv4 Address Space
+10.4.1. Existing Policy Phase
+10.4.2. Exhaustion Phase
+10.4.2.1. Size of the Final IPv4 Allocations
+10.4.2.2. Allocation of the Remaining IPv4 Address Space
+10.5. Global Policy for Post Exhaustion IPv4 Allocation Mechanisms by the IANA
+11. Experimental Internet Resource Allocations
+11.1. Documentation of Recognized Experimental Activity
+11.2. Technical Coordination
+11.3. Coordination over Resource Use
+11.4. Resource Allocation Term and Renewal
+11.5. Single Resource Allocation per Experiment
+11.6. Resource Allocation Fees
+11.7. Resource Allocation Guidelines
+11.8. Commercial Use Prohibited
+11.9. Resource Request Appeal or Arbitration
+12. Resource Review
+Appendix A - Change Log
+1. Principles and Goals of the American Registry for Internet Numbers (ARIN)
+1.1. Registration
+The principle of registration guarantees the uniqueness of Internet number resources. Provision of this public registry documenting Internet number resource allocation, reallocation, assignment, and reassignment is necessary:
+to ensure uniqueness,
+to provide a contact in case of operational/security problems,
+to provide the transparency required to ensure that Internet number resources are efficiently utilized, and
+to assist in IP allocation studies.
+1.2. Conservation
+The principle of conservation guarantees sustainability of the Internet through efficient utilization of unique number resources.
+Due to the requirement for uniqueness, Internet number resources of each type are drawn from a common number space. Conservation of these common number spaces requires that Internet number resources be efficiently distributed to those organizations who have a technical need for them in support of operational networks.
+1.3. Routability
+The principle of routability guarantees that Internet number resources are managed in such a manner that they may be routed on the Internet in a scalable manner.
+While routing scalability is necessary to ensure proper operation of Internet routing, allocation or assignment of Internet number resources by ARIN in no way guarantees that those addresses will be routed by any particular network operator.
+1.4. Stewardship
+The principle of stewardship guarantees the application of these principles when managing Internet number resources.
+The fundamental purpose of Internet number stewardship is to distribute unique number resources to entities building and operating networks thereby facilitating the growth and sustainability of the Internet for the benefit of all.
+It should be noted that the above goals may sometimes be in conflict with each other and with the interests of individual end-users or network operators. Care must be taken to ensure balance with these conflicting goals given the resource availability, relative size of the resource, and number resource specific technical dynamics, for each type of number resource.
+2. Definitions
+Responsibility for management of address spaces is distributed globally in accordance with the hierarchical structure shown below.
+2.1. Internet Registry (IR)
+An Internet Registry (IR) is an organization that is responsible for distributing IP address space to its members or customers and for registering those distributions.
+2.2. Regional Internet Registry (RIR)
+Regional Internet Registries (RIRs) are established and authorized by respective regional communities, and recognized by the IANA to serve and represent large geographical regions. The primary role of RIRs is to manage and distribute public Internet address space within their respective regions.
+2.3. [Retired]
+2.4. Local Internet Registry (LIR)
+A Local Internet Registry (LIR) is an IR that primarily assigns address space to the users of the network services that it provides. LIRs are generally Internet Service Providers (ISPs), whose customers are primarily end users and possibly other ISPs.
+2.5. Allocation, Assignment, Reallocation, Reassignment
+Allocation - Address space delegated to an organization directly by ARIN for the purpose of subsequent distribution by the recipient organization to other parties.
+Assignment - Address space delegated to an organization directly by ARIN for the exclusive use of the recipient organization.
+Reallocation - Address space sub-delegated to an organization by an upstream provider for the purpose of subsequent distribution by the recipient organization to other parties.
+Reassignment - Address space sub-delegated to an organization by an upstream provider for the exclusive use of the recipient organization.
+Note that the authorized incidental or transient use by third parties of address space delegated to an organization shall not be considered a reassignment or a violation of the exclusive use provision.
+2.6. End-user
+An end-user is an organization receiving assignments of IP addresses exclusively for use in its operational networks.
+2.7. Multihomed
+An organization is multihomed if it receives full-time connectivity from more than one ISP and has one or more routing prefixes announced by at least two of its upstream ISPs.
+2.8., 2.9. [Retired]
+2.10. End Site
+The term End Site shall mean a single structure or service delivery address, or, in the case of a multi-tenant structure, a single tenant within said structure (a single customer location).
+2.11. Community Network
+A community network is deployed, operated, and governed by its users, for the purpose of providing free or low-cost connectivity to the community it services. Users of the network or other volunteers must play a primary role in the governance of the organization, whereas other functions may be handled by either paid staff or volunteers.
+2.12. Organizational Information
+When required, organization Information must include at a minimum: Legal name, street address, city, state, zip code equivalent and at least one valid technical and one valid abuse POC. Each POC shall be designated by the organization and must include at least a verifiable email address and phone number.
+2.13. Residential Customer
+End-users who are individual persons and not organizations and who receive service at a place of residence for personal use only are considered residential customers.
+2.14. Serving Site (IPv6)
+When applied to IPv6 policies, the term serving site shall mean a location where an ISP terminates or aggregates customer connections, including, but, not limited to Points of Presence (POPs), Datacenters, Central or Local switching office or regional or local combinations thereof.
+2.15. Provider Assignment Unit (IPv6)
+When applied to IPv6 policies, the term “provider assignment unit” shall mean the prefix of the smallest block a given ISP assigns to end sites (recommended /48).
+2.16. Utilized (IPv6)
+The term utilized shall have the following definitions when applied to IPv6 policies:
+A provider assignment unit shall be considered fully utilized when it is assigned to an end-site.
+Larger blocks shall have their utilization defined by dividing the number of provider assignment units assigned from the containing block by the total number of provider assignment units. This ratio will often be expressed as a percentage (e.g. a/t*100, for a /36 3072/4096 * 100 = 75% utilization)
+3. Directory Services
+3.1. Bulk Copies of ARIN’s Whois
+ARIN will provide a bulk copy of Whois output, including point of contact information, on the ARIN site for download by any organization that wishes to obtain the data providing they agree to ARIN’s acceptable use policy. This point of contact information will not include data marked as private.
+[The Request Form for ARIN Bulk Whois Data, which contains the Acceptable Use Policy (AUP) for Bulk Copies of ARIN Whois Data, can be found at:
+https://www.arin.net/resources/agreements/bulkwhois.pdf]
+3.2. Distributed Information Service Use Requirements
+The minimal requirements for an organization to setup a distributed information service to advertise reassignment and reallocation information are:
+The distributed information service must be operational 24 hours a day, 7 days a week to both the general public and ARIN staff. The service is allowed reasonable downtime for server maintenance according to generally accepted community standards.
+The distributed information service must allow public access to reassignment and reallocation information. The service may restrict the number of queries allowed per time interval from a host or subnet to defend against DDOS attacks, remote mirroring attempts, and other nefarious acts.
+The distributed information service must return reassignment and reallocation information for the IP address queried. The service may allow for privacy protections for customers. For residential users, the service may follow ARIN’s residential privacy policy that includes displaying only the city, state, zip code, and country. For all other reassignments and reallocations, the service shall follow ARIN’s privacy policy for publishing data in a public forum.
+The distributed information service may return results for non-IP queries.
+The distributed information service must respond to a query with the minimal set of attributes per object as defined by ARIN staff.
+The distributed information service may include optional attributes per object that are defined locally. The distributed information service must return results that are up-to-date on reassignment and reallocation information.
+3.3. Privatizing POC Information
+Organizations may designate certain points of contact as private from ARIN Whois, with the exception that, at the minimum, one point of contact must be viewable.
+3.4. Routing Registry
+3.4.1. Acceptable Use Policy
+The ARIN Routing Registry data is for Internet operational purposes only. Mirroring is only allowed by other routing registries.
+The user may only distribute this data using a Whois service unless prior, written permission from ARIN has been obtained.
+To protect those registered in the ARIN routing registry, ARIN may need to specify additional conditions on access permissions for this data in the future. The permission to access the data is based on agreement to the conditions stipulated in this document in addition to any others that may be added in the future.
+Please see the http://www.irr.net/docs/list.html URL for information about the replicated Routing Registry data.
+3.5. Autonomous System Originations
+3.5.1. Collection
+ARIN will collect an optional field in all IPv4 and IPv6 address block transactions (allocation and assignment requests, reallocation and reassignment actions, transfer and experimental requests). This additional field will be used to record a list of the ASes that the user permits to originate address prefixes within the address block.
+3.5.2. Publication
+3.5.2.1. Description of Data
+ARIN will produce a collection of the mappings from address blocks to ASes permitted to originate that address block. The collection will consist of a list where each entry will consist, at a minimum, of an address block, a list of AS numbers, and a tag indicating the type of delegation of the address block. This collection will be produced at least daily.
+3.5.2.2. Bulk Publication of Data
+ARIN will make the collected mappings from address blocks to AS numbers available for bulk transfer in one or more formats chosen at its own discretion, informed by the community’s current needs. This data will not be subject to any redistribution restrictions – it may be republished or repackaged it any form. Should ARIN choose to use Whois bulk transfer as the bulk form of data access required by this paragraph, the address block to AS mappings will not be subject to any redistribution restrictions, but the remainder of the Whois data will remain subject to the terms of the then-current AUP regarding bulk access to Whois data.
+3.5.2.3. Other Formats
+ARIN may also make the collected or individual mappings from address blocks to AS numbers available in other forms, possibly query services, chosen at its own discretion, informed by the community’s current needs. ARIN may require agreement to an acceptable use policy for access to the data in these forms.
+3.6. Annual Validation of ARIN’s Public Whois Point of Contact Data
+3.6.1. Annual POC Verification
+ARIN will perform an annual verification of specific Points of Contact registered in the public Whois using the criteria and procedures outlined in sections 3.6.2, 3.6.3, and 3.6.4.
+3.6.2. Specified Public Whois Points of Contact for Verification
+Each of the following Points of Contact are to be verified annually, and will be referred to as Point of Contact or POC throughout this policy, and should be understood to be both organization and resource POCs:
+Admin
+Tech
+NOC
+Abuse
+3.6.3. Organizations Covered by this Policy
+This policy applies to every Organization that has a direct assignment, direct allocation, or AS number from ARIN (or one of its predecessor registries) or a reallocation from an upstream ISP. This includes but is not limited to upstream ISPs and their downstream ISP customers (as defined by NRPM 2.5 and 2.6), but not reassignments made to their downstream end user customers.
+3.6.4. Procedure for Verification
+An annual email notification will be sent to each of the Points of Contact outlined in section 3.6.2 on an annual basis. Each Point of Contact will have up to sixty (60) days from the date of the notification in which to respond with an affirmative that their Whois contact information is correct and complete or to submit new data to correct and complete it. If after careful analysis, ARIN staff deems a POC to be completely and permanently abandoned or otherwise illegitimate, the POC record shall be marked invalid in Whois.
+3.6.5. Non-Responsive Point of Contact Records
+An invalid POC is restricted to payment and contact update functionality within ARIN Online. As a result, an organization without any valid POCs will be unable to access further functionalities within ARIN Online until at least one Admin or Tech POC validates that their information is accurate or modifies a POC to contain accurate information.
+3.7 POC Notification and Validation Upon Reassignment or Reallocation
+When a request for reallocation or detailed reassignment is made to ARIN, the receiving organization must already be in the ARIN database and associated with at least one validated POC object. If there are no validated POC objects associated with the receiving organization, ARIN shall reject the request.
+In addition to notifying the requester, ARIN will also notify, via email, all POCs associated with the receiving organization, whether the request was successful or not, and will request validation of any invalid POC objects associated with the receiving organization.
+Note: Simple reassignments are made without any linkage to an organization or POC objects in the ARIN database.
+3.8. Directory Service Records
+3.8.1 Organization Record Creation
+New organization records shall be created upon ARIN receiving a request directly from an authorized contact representing an entity that ARIN is able to validate. Organization records shall not be created upon the request of third-parties.
+4. IPv4
+4.1. General Principles
+4.1.1., 4.1.2., 4.1.3., 4.1.4. [Retired]
+4.1.5. Resource Request Size
+Determining the validity of the amount of requested IP address resources is the responsibility of ARIN.
+4.1.6. Aggregation
+In order to preserve aggregation, ARIN attempts to issue blocks of addresses on appropriate “CIDR-supported” bit boundaries. ARIN may reserve space to maximize aggregation possibilities until the implementation of section 10.4.2.2, at which time ARIN will make each allocation and assignment as a single continuous range of addresses.
+4.1.7. Reserved Pool Replenishment
+4.1.7.1. Disposition of Resources
+Any resources allocated from a reserved pool created in Sections 4.4 or 4.10, or any other reserved pools created in the future, that become available for re-issuance will be returned to the reserved pool they were originally allocated from, regardless of the current level of each pool. Further, any other resources which become available for re-issuance will be prioritized for the replenishment of any reserved pool that falls below a running three-year supply, which is based on the previous three years of allocations from each pool.
+4.1.7.2. Precedence for Replenishment
+Staff shall return groups of blocks to the pools in scheduled batches (staff shall set a reasonable schedule). Each available block in a batch shall be returned in order from largest to smallest to the pool which at that point has the lowest percentage of a 3-year supply for that particular pool.
+4.1.8. ARIN Waitlist
+ARIN will only issue future IPv4 assignments/allocations (excluding 4.4 and 4.10 space) from the ARIN Waitlist. The maximum size aggregate that an organization may qualify for at any one time is a /22. Organizations will be able to elect a smaller block size than they qualify for down to a /24. Organizations which hold more than a /20 equivalent of IPv4 space in aggregate are not eligible to apply. Address space distributed from the waitlist will not be eligible for transfer for a period of 60 months. This policy will be applied to all future distributions from the waitlist to include those currently listed.
+Multiple requests are not allowed: an organization currently on the waitlist must wait 90 days after receiving a distribution from the waitlist or IPv4 number resources as a recipient of any transfer before applying for additional space. ARIN, at its sole discretion, may waive this requirement if the requester can document a change in circumstances since their last request that could not have been reasonably foreseen at the time of the original request, and which now justifies additional space. Qualified requesters will also be advised of the availability of the transfer mechanism in section 8.3 as an alternative mechanism to obtain IPv4 addresses.
+Restrictions apply for entities who have conducted recent resource transfers. These restrictions are specified in Section 8 for each relevant transfer category.
+4.1.8.1. Sequencing
+The position of each qualified request on the waiting list will be determined by the date it was approved. Each organization may have one approved request on the waiting list at a time.
+4.1.8.2. Fulfillment
+ARIN will fulfill requests on a first-approved basis, subject to the size of each available address block as address blocks become available for distribution. A timely review of the original request may be conducted by ARIN staff. Requests will not be partially filled. Any requests met through a transfer will be considered fulfilled and removed from the waiting list.
+4.1.9. [Retired]
+4.2. Allocations to ISPs (Requirements for Requesting Initial Address Space)
+4.2.1. Principles
+4.2.1.1. Purpose
+ARIN allocates blocks of IP addresses to ISPs for the purpose of reassigning and reallocating that space to their customers.
+4.2.1.2. Annual Renewal
+An annual fee for registered space is due by the anniversary date of the ISP’s first allocation from ARIN. ISPs should take care to ensure that their annual renewal payment is made by their anniversary due date in accordance with the Registration Services Agreement. If not paid by the anniversary date, the address space may be revoked. Please review the Annual Renewal/Maintenance Fees Page for more details.
+4.2.1.3. Utilization Rate
+Utilization rate of address space is a key factor, among others, in determining address allocation.
+4.2.1.4. Slow Start
+Because the number of available IP addresses on the Internet is limited, many factors must be considered in the determination of address space allocations. Therefore, IP address space is allocated to ISPs using a slow-start model. Allocations are based on justified need, not solely on a predicted customer base.
+4.2.1.5. Minimum Allocation
+In general, ARIN allocates /24 and larger IP address prefixes to ISPs. If allocations smaller than /24 are needed, ISPs should request address space from their upstream provider.
+4.2.1.6. [Retired]
+4.2.2. Initial Allocation to ISPs
+All ISP organizations without direct assignments or allocations from ARIN qualify for an initial allocation of up to a /22, subject to ARIN’s minimum allocation size.
+All ISP organizations without direct allocations, direct assignments, re-allocations or reassignments automatically qualify for a /24. These organizations are exempt from requirements of showing the efficient utilization of previously held IPv4 space. These organizations may qualify for a larger than a /24 by documenting how the requested allocation will be utilized within the request size specified in 4.2.4.3.
+ISPs holding re-allocations and/or reassignments must show the efficient utilization of their resources consistent with the requirements in sections 4.2.3 and 4.2.4.
+4.2.3. Reassigning and Reallocating Address Space to Customers
+4.2.3.1. Efficient Utilization
+ISPs are required to apply a utilization efficiency criterion in providing address space to their customers. To this end, ISPs should have documented justification available for each reassignment and reallocation. ARIN may request this justification at any time. If justification is not provided, future receipt of allocations may be impacted.
+4.2.3.2. VLSM
+To increase utilization efficiency of IPv4 address space, ISPs reassigning IP address space to their customers should require their customers to use variable length subnet mask (VLSM) and classless technologies (CIDR) within their networks. ISPs should issue blocks smaller than /24 wherever feasible.
+4.2.3.3. Contiguous Blocks
+IP addresses are allocated to ISPs in contiguous blocks, which should remain intact. Fragmentation of blocks is discouraged. To avoid fragmentation, ISPs are encouraged to require their customers to return address space if they change ISPs. Therefore, if a customer moves to another service provider or otherwise terminates a contract with an ISP, it is recommended that the customer return the network addresses to the ISP and renumber into the new provider’s address space. The original ISP should allow sufficient time for the renumbering process to be completed before requiring the address space to be returned.
+4.2.3.4. Downstream Customer Adherence
+ISPs must require their downstream customers to adhere to the following criteria:
+4.2.3.4.1. Utilization
+Reassignment and reallocation information for prior allocations must show that each customer meets the 80% utilization criteria and must be available via SWIP / a distributed service which meets the standards set forth in section 3.2 prior to your issuing them additional space.
+4.2.3.4.2. Downstream ISPs
+Customers must follow ARIN policy for ISPs.
+4.2.3.5. [Retired]
+4.2.3.6. Reassignments to Multihomed Downstream Customers
+Under normal circumstances an ISP is required to determine the prefix size of their reassignment to a downstream customer according to the guidelines set forth in RFC 2050. Specifically, a downstream customer justifies their reassignment by demonstrating they have an immediate requirement for 25% of the IP addresses being assigned, and that they have a plan to utilize 50% of their assignment within one year of its receipt. This policy allows a downstream customer’s multihoming requirement to serve as justification for a /24 reassignment from their upstream ISP, regardless of host requirements. Downstream customers must provide contact information for all of their upstream providers to the ISP from whom they are requesting a /24. The ISP will then verify the customer’s multihoming requirement and may assign the customer a /24, based on this policy. Customers may receive a /24 from only one of their upstream providers under this policy without providing additional justification. ISPs may demonstrate they have made an assignment to a downstream customer under this policy by supplying ARIN with the information they collected from the customer, as described above, or by identifying the AS number of the customer. This information may be requested by ARIN staff when reviewing an ISP’s utilization during their request for additional IP addresses space.
+4.2.3.7. Registration
+ISPs are required to demonstrate efficient use of IP address space allocations by providing appropriate documentation, including but not limited to assignment histories, showing their efficient use.
+4.2.3.7.1. Reassignment and Reallocation Information
+Each IPv4 reassignment or reallocation containing a /29 or more addresses shall be registered via SWIP or a directory services system which meets the standards set forth in section 3.2.
+Reassignment registrations must include each customer name, except where specifically exempted by this policy. Reassignment registrations shall only include point of contact (POC) information if either: (1) requested by the customer; or (2) the reassigned block is intended to be routed and announced outside of the provider’s network.
+Reallocation registrations must contain the customer’s organization name and appropriate point of contact (POC) information.
+4.2.3.7.2. Reassignments and Reallocations Visible Within Seven Days
+All reassignments and reallocations shall be made visible as required in section 4.2.3.7.1 within seven calendar days of reassignment or reallocation.
+4.2.3.7.3. Residential Subscribers
+4.2.3.7.3.1. [Retired]
+4.2.3.7.3.2. Residential Customer Privacy
+To maintain the privacy of their residential customers, an organization with downstream residential customers holding /29 and larger blocks may substitute that organization’s name for the customer’s name, e.g. ‘Private Customer - XYZ Network’, and the customer’s street address may read ‘Private Residence’. Each private downstream residential reassignment must have accurate upstream Abuse and Technical POCs visible on the WHOIS or Distributed Information Service record for that block.
+4.2.3.8. Reassignments for Third Party Internet Access (TPIA) over Cable
+IP addresses reassigned by an ISP to an incumbent cable operator for use with Third Party Internet Access (TPIA) will be counted as fully used once they are assigned to equipment by the underlying cable carrier provided they meet the following requirements:
+initial assignments to each piece of hardware represent the smallest subnet reasonably required to deploy service to the customer base served by the hardware
+additional assignments to each piece of hardware are made only when all previous assignments to that specific piece of hardware are at least 80% used and represent a 24-month supply
+IP allocations issued through 4.2.3.8 are non-transferable via section
+8.3 and section 8.4 for a period of 36 months. In the case of a section 8.2 transfer the IP assignment must be utilized for the same purpose or needs based justification at a rate consistent with intended use.
+4.2.4. ISP Additional Requests
+4.2.4.1. Utilization Percentage (80%)
+ISPs must have efficiently utilized all allocations, in aggregate, to at least 80% and at least 50% of every allocation in order to receive additional space. This includes all space reassigned or reallocated to their customers.
+4.2.4.2. Return Address Space as Agreed
+Return prior address space designated for return as agreed.
+4.2.4.3. Request Size
+ISPs may request up to a 24-month supply of IPv4 addresses.
+4.2.4.4. [Retired]
+4.2.5., 4.2.6. [Retired]
+4.3. End-users - Assignments to End-users
+4.3.1. End-users
+ARIN assigns blocks of IP addresses to end-users who request address space for their internal use in running their own networks, but not for sub-delegation of those addresses outside their organization. End-users must meet the requirements described in these guidelines for justifying the assignment of an address block.
+4.3.2. Minimum Assignment
+ARIN’s minimum assignment for end-user organizations is a /24.
+End-user organizations without direct assignments or allocations from ARIN qualify for an initial assignment of ARIN’s minimum assignment size.
+4.3.3. Utilization Rate
+Organizations may qualify for a larger initial allocation by providing appropriate details to verify their 24-month growth projection.
+The basic criterion that must be met is a 50% utilization rate within 24 months.
+A greater utilization rate may be required based on individual network requirements.
+4.3.4. Additional Considerations
+End-users may qualify for address space under other policies such as Micro-allocation [4.4].
+4.3.5. Non-connected Networks
+End-users not currently connected to an ISP and/or not planning to be connected to the Internet are encouraged to use private IP address numbers reserved for non-connected networks (see RFC 1918). When private, non-connected networks require interconnectivity and the private IP address numbers are ineffective, globally unique addresses may be requested and used to provide this interconnectivity.
+4.3.6. Additional Assignments
+4.3.6.1. Utilization Requirements for Additional Assignment
+End-users must have efficiently utilized all assignments, in aggregate, to at least 80% and at least 50% of every assignment in order to receive additional space, and must provide ARIN with utilization details.
+4.4. Micro-allocation
+ARIN will make IPv4 micro-allocations to critical infrastructure providers of the Internet, including public exchange points, core DNS service providers (e.g. ICANN-sanctioned root and ccTLD operators) as well as the RIRs and IANA. These allocations will be no smaller than a /24. Multiple allocations may be granted in certain situations.
+Exchange point allocations MUST be allocated from specific blocks reserved only for this purpose. All other micro-allocations WILL be allocated out of other blocks reserved for micro-allocation purposes. ARIN will make a list of these blocks publicly available.
+Exchange point operators must provide justification for the allocation, including: connection policy, location, other participants (minimum of three total), ASN, and contact information. ISPs and other organizations receiving these micro-allocations will be charged under the ISP fee schedule, while end-users will be charged under the fee schedule for end-users. This policy does not preclude exchange point operators from requesting address space under other policies.
+ARIN will place an equivalent of a /15 of IPv4 address space in a reserve for Critical Infrastructure, as defined in section 4.4.
+ICANN-sanctioned gTLD operators may justify up to the equivalent of an IPv4 /23 block for each authorized new gTLD, allocated from the free pool or received via transfer, but not from the above reservation. This limit of a /23 equivalent per gTLD does not apply to gTLD allocations made under previous policy.
+4.5. Multiple Discrete Networks
+Organizations with multiple discrete networks desiring to request new or additional address space under a single Organization ID must meet the following criteria:
+The organization shall be a single entity and not a consortium of smaller independent entities.
+The organization must have compelling criteria for creating discrete networks. Examples of a discrete network might include:
+Regulatory restrictions for data transmission,
+Geographic distance and diversity between networks,
+Autonomous multihomed discrete networks.
+The organization must keep detailed records on how it has allocated space to each location, including the date of each allocation.
+When applying for additional internet address registrations from ARIN, the organization must demonstrate utilization greater than 50% of both the last block allocated and the aggregate sum of all blocks allocated from ARIN to that organization. If an organization is unable to satisfy this 50% minimum utilization criteria, the organization may alternatively qualify for additional internet address registrations by having all unallocated blocks of addresses smaller than ARIN’s current minimum allocation size.
+The organization may not allocate additional address space to a location until each of that location’s address blocks are 80% utilized.
+The organization should notify ARIN at the time of the request their desire to apply this policy to their account.
+Upon verification that the organization has shown evidence of deployment of the new discrete network site, the new network(s) shall be allocated the minimum allocation size under section 4.2.1.5.
+4.6., 4.7., 4.8., 4.9. [Retired]
+4.10. Dedicated IPv4 Block to Facilitate IPv6 Deployment
+ARIN shall allocate a contiguous /10 from its last /8 IPv4 allocation from IANA. This IPv4 block will be set aside and dedicated to facilitate IPv6 deployment. Allocations and assignments from this block must be justified by immediate IPv6 deployment requirements. Examples of such needs include: IPv4 addresses for key dual stack DNS servers, and NAT-PT or NAT464 translators. ARIN staff will use their discretion when evaluating justifications.
+This block will be subject to a minimum and maximum size allocation of /24. ARIN should use sparse allocation when possible within that /10 block.
+In order to receive an allocation or assignment under this policy:
+the applicant may not have received resources under this policy in the preceding six months, except to the extent that the applicant is requesting resources for a discrete network in respect of which it has not received any resources under this policy in the preceding six months;
+previous allocations/assignments under this policy must continue to meet the justification requirements of this policy;
+previous allocations/assignments under this policy must be utilized to at least 80% to obtain an additional allocation or assignment;
+the applicant must demonstrate that no other allocations or assignments will meet this need.
+An applicant requesting multiple allocations under this policy to support Multiple Discrete Networks, as defined under Section 4.5, may not receive more than the equivalent of a /21 of IPv4 address space in any one six-month period hereunder.
+5. AS Numbers
+There are a limited number of available Autonomous System Numbers (AS Numbers), therefore, it is important to determine which sites require unique AS Numbers and which do not. Sites that do not require a unique AS Number should use one or more of the AS Numbers reserved for private use. Those numbers are: 64512 through 65534 and 4200000000 through 4294967294 inclusive.
+In order to be assigned an AS Number, each requesting organization must provide ARIN with verification that it has one of the following:
+A unique routing policy (its policy differs from its border gateway peers)
+A multihomed site.
+AS Numbers are issued based on current need. An organization should request an AS Number only when it is already multihomed or will immediately become multihomed.
+5.1. [Retired]
+6. IPv6
+6.1. Introduction
+6.1.1. Overview
+This document describes policies for the allocation and assignment of globally-unique Internet Protocol Version 6 (IPv6) address space. It updates and obsoletes the existing Provisional IPv6 Policies in effect since 1999. Policies described in this document are intended to be adopted by each registry. However, adoption of this document does not preclude local variations in each region or area.
+RFC 2373, RFC 2373bis designate 2000::/3 to be global unicast address space that IANA may allocate to the RIRs. In accordance with RFC 2928, RFC 2373bis, IAB-Request, IANA has allocated initial ranges of global unicast IPv6 address space from the 2001::/16 address block to the existing RIRs. This document concerns the initial and subsequent allocations of the 2000::/3 unicast address space, for which RIRs formulate allocation and assignment policies.
+6.2. [Retired]
+6.3. Goals of IPv6 Address Space Management
+6.3.1. Goals
+IPv6 address space is a public resource that must be managed in a prudent manner with regards to the long-term interests of the internet. Responsible address space management involves balancing a set of sometimes competing goals. The following are the goals relevant to IPv6 address policy.
+6.3.2. Uniqueness
+Every assignment and/or allocation of address space must guarantee uniqueness worldwide. This is an absolute requirement for ensuring that every public host on the Internet can be uniquely identified.
+6.3.3. Registration
+Internet address space must be registered in a registry database accessible to appropriate members of the Internet community. This is necessary to ensure the uniqueness of each Internet address and to provide reference information for Internet troubleshooting at all levels, ranging from all RIRs and IRs to end users.
+The goal of registration should be applied within the context of reasonable privacy considerations and applicable laws.
+6.3.4. Aggregation
+Wherever possible, address space should be distributed in a hierarchical manner, according to the topology of network infrastructure. This is necessary to permit the aggregation of routing information by ISPs, and to limit the expansion of Internet routing tables.
+This goal is particularly important in IPv6 addressing, where the size of the total address pool creates significant implications for both internal and external routing.
+IPv6 address policies should seek to avoid fragmentation of address ranges.
+Further, RIRs should apply practices that maximize the potential for subsequent allocations to be made contiguous with past allocations currently held. However, there can be no guarantee of contiguous allocation.
+6.3.5. Conservation
+Although IPv6 provides an extremely large pool of address space, address policies should avoid unnecessarily wasteful practices. Requests for address space should be supported by appropriate documentation and stockpiling of unused addresses should be avoided.
+6.3.6. Fairness
+All policies and practices relating to the use of public address space should apply fairly and equitably to all existing and potential members of the Internet community, regardless of their location, nationality, size or any other factor.
+6.3.7. Minimized Overhead
+It is desirable to minimize the overhead associated with obtaining address space. Overhead includes the need to go back to RIRs for additional space too frequently, the overhead associated with managing address space that grows through a number of small successive incremental expansions rather than through fewer, but larger, expansions.
+6.3.8. Conflict of Goals
+The goals described above will often conflict with each other, or with the needs of individual IRs or end users. All IRs evaluating requests for allocations and assignments must make judgments, seeking to balance the needs of the applicant with the needs of the Internet community as a whole.
+In IPv6 address policy, the goal of aggregation is considered to be the most important.
+6.4. IPv6 Policy Principles
+To address the goals described in the previous section, the policies in this document discuss and follow the basic principles described below.
+6.4.1. Address Space Not to be Considered Property
+It is contrary to the goals of this document and is not in the interests of the Internet community as a whole for address space to be considered freehold property.
+The policies in this document are based upon the understanding that globally-unique IPv6 unicast address space is allocated/assigned for use rather than owned.
+6.4.2. Routability Not Guaranteed
+There is no guarantee that any address allocation or assignment will be globally routable.
+However, RIRs must apply procedures that reduce the possibility of fragmented address space which may lead to a loss of routability.
+6.4.3. [Retired]
+6.4.4. Consideration of IPv4 Infrastructure
+Where an existing IPv4 service provider requests IPv6 space for eventual transition of existing services to IPv6, the number of present IPv4 customers may be used to justify a larger request than would be justified if based solely on the IPv6 infrastructure.
+6.5. Policies for Allocations and Assignments
+6.5.1. Terminology
+The terms ISP and LIR are used interchangeably in this document and any use of either term shall be construed to include both meanings.
+The term nibble boundary shall mean a network mask which aligns on a 4-bit boundary (in slash notation, /n, where n is evenly divisible by 4, allowing unit quantities of X such that 2^n=X where n is evenly divisible by 4, such as 16, 256, 4096, etc.)
+6.5.2. Initial Allocation to LIRs
+6.5.2.1. Size
+All allocations shall be made on nibble boundaries.
+In no case shall an LIR receive smaller than a /32 unless they specifically request a /36. In no case shall an ISP receive more than a /16 initial allocation.
+The maximum allowable allocation shall be the smallest nibble-boundary aligned block that can provide an equally sized nibble-boundary aligned block to each of the requesters serving sites large enough to satisfy the needs of the requesters largest single serving site using no more than 75% of the available addresses.
+This calculation can be summarized as /N where N = P-(X+Y) and P is the organization’s Provider Allocation Unit X is a multiple of 4 greater than 4/3*serving sites and Y is a multiple of 4 greater than 4/3*end sites served by largest serving site.
+For purposes of the calculation in (c), an end site which can justify more than a /48 under the end-user assignment criteria in
+6.5.8 shall count as the appropriate number of /48s that would be assigned under that policy.
+For purposes of the calculation in (c), an LIR which has subordinate LIRs shall make such reallocations according to the same policies and criteria as ARIN. In such a case, the prefixes necessary for such a reallocation should be treated as fully utilized in determining the block sizing for the parent LIR. LIRs which do not receive resources directly from ARIN will not be able to make such reallocations to subordinate LIRs and subordinate LIRs which need more than a /32 shall apply directly to ARIN.
+An LIR is not required to design or deploy their network according to this structure. It is strictly a mechanism to determine the largest IP address block to which the LIR is entitled.
+6.5.2.2. Qualifications
+An organization qualifies for an allocation under this policy if they meet any of the following criteria:
+Have a previously justified IPv4 ISP allocation from ARIN or one of its predecessor registries or can qualify for an IPv4 ISP allocation under current criteria.
+Are currently multihomed for IPv6 or will immediately become multihomed for IPv6 using a valid assigned global AS number. In either case, they will be making reassignments or reallocations from allocation(s) under this policy to other organizations.
+Provide ARIN a reasonable technical justification indicating why an allocation is necessary. Justification must include the intended purposes for the allocation and describe the network infrastructure the allocation will be used to support. Justification must also include a plan detailing anticipated reassignments and reallocations to other organizations or customers for one, two and five year periods, with a minimum of 50 assignments within 5 years.
+6.5.3. Subsequent Allocations to LIRs
+Where possible ARIN will make subsequent allocations by expanding the existing allocation.
+An LIR qualifies for a subsequent allocation if they meet any of the following criteria:
+Shows utilization of 75% or more of their total address space
+Shows utilization of more than 90% of any serving site
+Has allocated more than 90% of their total address space to serving sites, with the block size allocated to each serving site being justified based on the criteria specified in section 6.5.2
+If ARIN can not expand one or more existing allocations, ARIN shall make a new allocation based on the initial allocation criteria above. The LIR is encouraged, but not required to renumber into the new allocation over time and return any allocations no longer in use.
+If an LIR has already reached a /12 or more, ARIN will allocate a single additional /12 rather than continue expanding nibble boundaries.
+6.5.3.1. Subsequent Allocations for Transition
+Subsequent allocations will also be considered for deployments that cannot be accommodated by, nor were accounted for, under the initial allocation. Justification for the subsequent subnet size will be based on the plan and technology provided with a /24 being the maximum allowed for a transition technology. Justification for transitional allocations will be reviewed every 3 years and reclaimed if they are no longer in use for transitional purposes. All such allocations for transitional technology will be made from a block designated for this purpose.
+6.5.4. Reassignments from LIRs/ISPs
+Reassignments to end users shall be governed by the same practices adopted by the community in section 6.5.8 except that the requirements in 6.5.8.1 do not apply.
+6.5.4.1. Reassignment to Operator’s Infrastructure
+An LIR may reassign up to a /48 per PoP as well as up to an additional /48 globally for its own infrastructure.
+6.5.5. Registration
+ISPs are required to demonstrate efficient use of IP address space allocations by providing appropriate documentation, including but not limited to reassignment and reallocation histories, showing their efficient use.
+6.5.5.1. Reassignment Information
+Each static IPv6 reassignment or reallocation containing a /47 or more addresses, or subdelegation of any size that will be individually announced, shall be registered in the WHOIS directory via SWIP or a distributed service which meets the standards set forth in section 3.2. Reassignment and reallocation registrations shall include each client’s organizational information, except where specifically exempted by this policy.
+6.5.5.2. Reassignments and Reallocations Visible Within Seven Days
+All reassignments and reallocations shall be made visible as required in section 6.5.5.1 within seven calendar days of reassignment or reallocation.
+6.5.5.3. Residential Subscribers
+6.5.5.3.1. Residential Customer Privacy
+To maintain the privacy of their residential customers, an organization with downstream residential customers may substitute that organization’s name for the customer’s name, e.g. ‘Private Customer - XYZ Network’, and the customer’s street address may read ‘Private Residence’. Each private downstream residential reassignment must have accurate upstream Abuse and Technical POCs visible on the WHOIS or Distributed Information Service record for that block.
+6.5.5.4. Registration Requested by Recipient
+If the downstream recipient of a static assignment of /64 or more addresses requests publishing of that assignment in ARIN’s registration database, the ISP shall register that assignment as described in section 6.5.5.1.
+6.5.6. [Retired]
+6.5.7. Existing IPv6 Address Space Holders
+LIRs which received an allocation under previous policies which is smaller than what they are entitled to under this policy may receive a new initial allocation under this policy. If possible, ARIN will expand their existing allocation.
+6.5.8. Direct Assignments from ARIN to End-user Organizations
+6.5.8.1. Initial Assignment Criteria
+Organizations may justify an initial assignment for addressing devices directly attached to their own network infrastructure, with an intent for the addresses to begin operational use within 12 months, by meeting one of the following criteria:
+Having a previously justified IPv4 end-user assignment from ARIN or one of its predecessor registries, or;
+Currently being IPv6 Multihomed or immediately becoming IPv6 Multihomed and using an assigned valid global AS number, or;
+By having a network that makes active use of a minimum of 2000 IPv6 addresses within 12 months, or;
+By having a network that makes active use of a minimum of 200 /64 subnets within 12 months, or;
+By having a contiguous network that has a minimum of 13 active sites within 12 months, or;
+By providing a reasonable technical justification indicating why IPv6 addresses from an ISP or other LIR are unsuitable.
+Examples of justifications for why addresses from an ISP or other LIR may be unsuitable include, but are not limited to:
+An organization that operates infrastructure critical to life safety or the functioning of society can justify the need for an assignment based on the fact that renumbering would have a broader than expected impact than simply the number of hosts directly involved. These would include: hospitals, fire fighting, police, emergency response, power or energy distribution, water or waste treatment, traffic management and control, etc.
+Regardless of the number of hosts directly involved, an organization can justify the need for an assignment if renumbering would affect 2000 or more individuals either internal or external to the organization.
+An organization with a network not connected to the Internet can justify the need for an assignment by documenting a need for guaranteed uniqueness, beyond the statistical uniqueness provided by ULA (see RFC 4193).
+An organization with a network not connected to the Internet, such as a VPN overlay network, can justify the need for an assignment if they require authoritative delegation of reverse DNS.
+6.5.8.2. Initial Assignment Size
+Organizations that meet at least one of the initial assignment criteria above are eligible to receive an initial assignment of /48. Requests for larger initial assignments, reasonably justified with supporting documentation, will be evaluated based on the number of sites in an organization’s network and the number of subnets needed to support any extra-large sites defined below.
+The initial assignment size will be determined by the number of sites justified below. An organization qualifies for an assignment on the next larger nibble boundary when their sites exceed 75% of the /48s available in a prefix. For example:
+More than 1 but less than or equal to 12 sites justified, receives a /44 assignment;
+More than 12 but less than or equal to 192 sites justified, receives a /40 assignment;
+More than 192 but less than or equal to 3,072 sites justified, receives a /36 assignment;
+More than 3,072 but less than or equal to 49,152 sites justified, receives a /32 assignment; etc…
+6.5.8.2.1. Standard Sites
+A site is a discrete location that is part of an organization’s network. A campus with multiple buildings may be considered as one or multiple sites, based on the implementation of its network infrastructure. For a campus to be considered as multiple sites, reasonable technical documentation must be submitted describing how the network infrastructure is implemented in a manner equivalent to multiple sites.
+An organization may request up to a /48 for each site in its network, and any sites that will be operational within 12 months.
+6.5.8.2.2. Extra-large Sites
+In rare cases, an organization may request more than a /48 for an extra-large site which requires more than 16,384 /64 subnets. In such a case, a detailed subnet plan must be submitted for each extra-large site in an organization’s network. An extra-large site qualifies for the next larger prefix when the total subnet utilization exceeds 25%. Each extra-large site will be counted as an equivalent number of /48 standard sites.
+6.5.8.3. Subsequent Assignments
+Requests for subsequent assignments with supporting documentation will be evaluated based on the same criteria as an initial assignment under 6.5.8.2 with the following modifications:
+A subsequent assignment is justified when the total utilization based on the number of sites justified exceeds 75% across all of an organization’s assignments. If the organization received an assignment per section 6.11 IPv6 Multiple Discrete Networks, such assignments will be evaluated as if they were to a separate organization.
+When possible subsequent assignments will result it the expansion of an existing assignment by one or more nibble boundaries as justified.
+If it is not possible to expand an existing assignment, or to expand it adequately to meet the justified need, then a separate new assignment will be made of the size justified.
+6.5.8.4. Consolidation and Return of Separate Assignments
+Organizations with multiple separate assignments should consolidate into a single aggregate, if feasible. If an organization stops using one or more of its separate assignments, any unused assignments must be returned to ARIN.
+6.5.9. Community Network Allocations
+While community networks would normally be considered to be ISP type organizations under existing ARIN criteria, they tend to operate on much tighter budgets and often depend on volunteer labor. As a result, they tend to be much smaller and more communal in their organization rather than provider/customer relationships of commercial ISPs. This section seeks to provide a policy that is more friendly to those environments by allowing community network to receive a smaller allocation than other LIRs or commercial ISPs.
+Community networks may also qualify under section 6.5.2 as a regular LIR.
+6.5.9.1. Qualification Criteria
+To qualify under this section, a community network must demonstrate to ARIN’s satisfaction that it meets the definition of a community network under section 2.11 of the NRPM.
+6.5.9.2. Allocation Size
+Community networks are eligible only to receive an allocation of /40 of IPv6 resources under this section. Community networks that wish to receive a larger initial allocation or any subsequent allocations must qualify as a regular LIR, see sections 6.5.2 or 6.5.3 respectively.
+6.5.9.3. Reassignments by Community Networks
+Similar to other LIRs, Community networks shall make reassignments to end-users in accordance with applicable policies, in particular, but not limited to sections 6.5.4 and 6.5.5. However, they shall not reallocate resources under this section.
+6.6., 6.7., 6.8., 6.9. [Retired]
+6.10. Micro-allocations
+6.10.1. Micro-allocations for Critical Infrastructure
+ARIN will make micro-allocations to critical infrastructure providers of the Internet, including public exchange points, core DNS service providers (e.g. ICANN-sanctioned root, gTLD, and ccTLD operators) as well as the RIRs and IANA. These allocations will be no longer than a /48. Multiple allocations may be granted in certain situations. - Exchange point allocations MUST be allocated from specific blocks reserved only for this purpose. All other micro-allocations WILL be allocated out of other blocks reserved for micro-allocation purposes. ARIN will make a list of these blocks publicly available. - Exchange point operators must provide justification for the allocation, including: connection policy, location, other participants (minimum of two total), ASN, and contact information. ISPs and other organizations receiving these micro-allocations will be charged under the ISP fee schedule, while end-users will be charged under the fee schedule for end-users. This policy does not preclude exchange point operators from requesting address space under other policies.
+6.10.2. Micro-allocations for Internal Infrastructure
+Organizations that currently hold IPv6 allocations may apply for a micro-allocation for internal infrastructure. Applicant must provide technical justification indicating why a separate non-routed block is required. Justification must include why a sub-allocation of currently held IP space cannot be utilized. Internal infrastructure allocations must be allocated from specific blocks reserved only for this purpose.
+6.11. IPv6 Multiple Discrete Networks
+Organizations with multiple discrete IPv6 networks desiring to request new or additional address space under a single Organization ID must meet the following criteria:
+The organization shall be a single entity and not a consortium of smaller independent entities.
+The organization must have compelling criteria for creating discrete networks. Examples of a discrete network might include:
+Regulatory restrictions for data transmission,
+Geographic distance and diversity between networks,
+Autonomous multihomed discrete networks.
+The organization must keep detailed records on how it has allocated space to each location, including the date of each allocation.
+The organization should notify ARIN at the time of the request their desire to apply this policy to their account.
+Requests for additional space:
+Organization must specify on the application which discrete network(s) the request applies to
+Each network will be judged against the existing utilization criteria specified in 6.5.2 and 6.5.3 as if it were a separate organization, rather than collectively as would be done for requests outside of this policy.
+7. [Retired]
+8. Transfers
+8.1. Principles
+Number resources are nontransferable and are not assignable to any other organization unless ARIN has expressly and in writing approved a request for transfer. ARIN is tasked with making prudent decisions on whether to approve the transfer of number resources.
+It should be understood that number resources are not ‘sold’ under ARIN administration. Rather, number resources are assigned to an organization for its exclusive use for the purpose stated in the request, provided the terms of the Registration Services Agreement continue to be met and the stated purpose for the number resources remains the same. Number resources are administered and assigned according to ARIN’s published policies.
+Number resources are issued, based on justified need, to organizations, not to individuals representing those organizations. Thus, if a company goes out of business, regardless of the reason, the point of contact (POC) listed for the number resource does not have the authority to sell, transfer, assign, or give the number resource to any other person or organization. The POC must notify ARIN if a business fails so the assigned number resources can be returned to the available pool of number resources if a transfer is not requested and justified.
+8.2. Mergers, Acquisitions, and Reorganizations
+ARIN will consider requests for the transfer of number resources in the
+case of mergers, acquisitions, and reorganizations under the following
+conditions:
+The current registrant must not be involved in any dispute as to the status of the resources to be transferred.
+The new entity must sign an RSA covering all resources to be transferred.
+The resources to be transferred will be subject to ARIN policies.
+The minimum transfer size is the smaller of the original allocation size or the applicable minimum allocation size in current policy.
+The Internet number resources being transferred as part of an 8.2 transfer will not be subject to a needs-based assessment during the process of the 8.2 transfer.
+AND one or more of the following:
+The recipient must provide evidence that they have acquired the assets that use the resources to be transferred from the current registrant.
+OR
+The recipient must show that they have acquired the entire entity which is the current registrant.
+An organization which serves as the source of an 8.2 IPv4 transfer will not be allowed to apply for IPv4 address space under section 4.1.8 ARIN Waitlist for a period of 36 months following said transfer unless the recipient organization remains a subsidiary, parent company, or under common ownership with the source organization.
+Mergers, acquisitions, and reorganization activity resulting in the surviving entity ceasing to have a real and substantial connection with the ARIN region shall be permitted to continue holding any numbering resources issued (directly or indirectly) by ARIN prior to the merger, acquisition or reorganization activity, but shall not qualify for any additional numbering resources (directly or indirectly) from ARIN, unless and until it once again has a real and substantial connection with the ARIN region as required by the Numbering Resource Policy Manual.
+8.3. Transfers Between Specified Recipients Within the ARIN Region
+In addition to transfers under section 8.2, IPv4 numbers resources and ASNs may be transferred according to the following conditions.
+Conditions on source of the transfer:
+The source entity must be the current registered holder of the IPv4 address resources, and not be involved in any dispute as to the status of those resources.
+The source entity must not have received a transfer, allocation, or assignment of IPv4 number resources from ARIN for the 12 months prior to the approval of a transfer request. Number resources received as the result of an 8.2 transfer are out of scope for the purposes of this restriction.
+Address resources from a reserved pool (including those designated in Section
+4.4 and 4.10) are not eligible for transfer.
+The source entity will not be allowed to apply for IPv4 address space under Section 4.1.8. ARIN Waitlist for a period of 36 months following the transfer of IPv4 address resources to another party.
+Conditions on recipient of the transfer:
+The recipients must meet the transfer requirements as defined in section 8.5.
+The resources transferred will be subject to current ARIN policies.
+If applicable the recipient will be removed from the ARIN Waitlist and will not be allowed to reapply under section 4.1.8. ARIN Waitlist for a period of 90 days.
+8.4. Inter-RIR Transfers to Specified Recipients
+Inter-regional transfers of IPv4 number resources and ASNs may take place only via RIRs who agree to the transfer and share reciprocal, compatible needs-based policies.
+Conditions on source of the transfer:
+The source entity must be the current rights holder of the IPv4 address resources recognized by the RIR responsible for the resources, and not be involved in any dispute as to the status of those resources.
+Source entities outside of the ARIN region must meet any requirements defined by the RIR where the source entity holds the registration.
+Source entities within the ARIN region must not have received a transfer, allocation, or assignment of IPv4 number resources from ARIN for the 12 months prior to the approval of a transfer request, unless either the source or recipient entity owns or controls the other, or both are under common ownership or control. Number resources received as the result of an 8.2 transfer are out of scope for the purposes of this restriction.
+Address resources from a reserved pool (including those designated in Section4.4 and 4.10) are not eligible for transfer.
+The source entity will not be allowed to apply for IPv4 address space under Section 4.1.8. ARIN Waitlist for a period of 36 months following the transfer of IPv4 address resources to another party.
+Conditions on recipient of the transfer:
+The conditions on a recipient outside of the ARIN region will be defined by the policies of the receiving RIR.
+Specified recipients within the ARIN region must meet the transfer requirements as defined in section 8.5.
+Recipients within the ARIN region will be subject to current ARIN policies.
+If applicable the recipient will be removed from the ARIN Waitlist and will not be allowed to reapply under section 4.1.8. ARIN Waitlist for a period of 90 days.
+8.5. Specified Transfer Recipient Requirements
+8.5.1. Registration Services Agreement
+The receiving entity must sign an RSA covering all resources to be transferred unless that entity has a current (within the last two versions) RSA on file.
+8.5.2 Operational Use
+ARIN allocates or assigns number resources to organizations via transfer solely for the purpose of use on an operational network.
+8.5.3. Minimum Transfer Size
+ARIN’s minimum IPv4 transfer size is a /24.
+8.5.4. Initial Block
+Organizations without direct assignments or allocations from ARIN qualify for transfer of an initial IPv4 block of ARIN’s minimum transfer size.
+8.5.5. Block Size
+Organizations may qualify for the transfer of a larger initial block, or an additional block, by providing documentation to ARIN which details the use of at least 50% of the requested IPv4 block size within 24 months. An officer of the organization shall attest to the documentation provided to ARIN.
+8.5.6. Efficient Utilization of Previous Blocks
+Organizations with direct assignments or allocations from ARIN must have efficiently utilized at least 50% of their cumulative IPv4 address blocks in order to receive additional space. This includes all space reassigned to their customers.
+8.5.7. Alternative Additional IPv4 Address Block Criteria
+In lieu of 8.5.5 and 8.5.6, organizations may qualify for additional IPv4 address blocks by demonstrating 80% utilization of their currently allocated space. If they do so, they qualify to receive one or more transfers up to the total size of their current ARIN IPv4 address holdings, with a maximum size of /16.
+An organization may qualify via 8.5.7 for a total of a /16 equivalent in any 6 month period.
+8.6. Wait List Restrictions
+Any organization which is on the wait list and submits a request to be the source of a transfer under any provision in section 8 will be removed from the wait list.
+9. Out of Region Use
+ARIN registered resources may be used outside the ARIN service region. Out of region use of ARIN registered resources are valid justification for additional number resources, provided that the applicant has a real and substantial connection with the ARIN region which applicant must prove (as described below) and is using the same type of resources (with a delegation lineage back to an ARIN allocation or assignment) within the ARIN service region as follows:
+IPv4: At least a /22 used in region
+IPv6: At least a /44 used in region
+ASN: At least one ASN present on one or more peering sessions and/or routers within the region.
+A real and substantial connection shall be defined as carrying on business in the ARIN region in a meaningful manner. The determination as to whether an entity is carrying on business in the ARIN region in a meaningful manner shall be made by ARIN. Simply being incorporated in the ARIN region shall not be sufficient, on its own, to prove that an entity is carrying on business in the ARIN region in a meaningful manner. Methods that entities may consider using, including cumulatively, to prove that they are carrying on business in the ARIN region in a meaningful manner include:
+Demonstrating a physical presence in the ARIN region through a bricks and mortar location that is actually used for the purposes of conducting business in the ARIN region in a meaningful manner. That is to say, the location is not merely a registered office that serves no other business purpose.
+Demonstrating that the entity has staff in the ARIN region. The greater the number of staff, the stronger this connecting factor is.
+Demonstrating that the entity holds assets in the ARIN region. The greater the asset value, the stronger this connecting factor is.
+Demonstrating that the entity provides services to and solicits sales from residents of the ARIN region.
+Demonstrating that the entity holds periodic meetings in the ARIN region.
+Demonstrating that the entity raises investment capital from investors in the ARIN region.
+Demonstrating that the entity has a registered corporation in the ARIN region, although this factor on its own shall not be sufficient.
+Other fact based criterion that the entity considers appropriate and submits for ARIN’s review.
+The weight accorded to any of the above-noted factors, if any, shall be determined solely by ARIN.
+The services and facilities used to justify the need for ARIN resources that will be used out of region cannot also be used to justify resource requests from another RIR. When a request for resources from ARIN is justified by need located within another RIR’s service region, an officer of the application must attest that the same services and facilities have not been used as the basis for a resource request in the other region(s). ARIN reserves the right to obtain from the applicant a listing of all the applicant’s number holdings in the region(s) of proposed use, when there are factual reasons to support the request.
+10. Global Number Resource Policy
+10.1. IANA to RIR Allocation of IPv4 Address Space
+This document describes the policies governing the allocation of IPv4 address space from the IANA to the Regional Internet Registries (RIRs). This document does not stipulate performance requirements in the provision of services by IANA to an RIR in accordance with these policies. Such requirements should be specified by appropriate agreements among the RIRs and ICANN.
+1. Allocation Principles
+The IANA will allocate IPv4 address space to the RIRs in /8 units.
+The IANA will allocate sufficient IPv4 address space to the RIRs to support their registration needs for at least an 18 month period.
+The IANA will allow for the RIRs to apply their own respective chosen allocation and reservation strategies in order to ensure the efficiency and efficacy of their work.
+2. Initial Allocations
+Each new RIR shall, at the moment of recognition, be allocated a new /8 by the IANA. This allocation will be made regardless of the newly formed RIR’s projected utilization figures and shall be independent of the IPv4 address space that may have been transferred to the new RIR by the already existing RIRs as part of the formal transition process.
+3. Additional Allocations
+A RIR is eligible to receive additional IPv4 address space from the IANA when either of the following conditions are met.
+The RIR’s AVAILABLE SPACE of IPv4 addresses is less than 50% of a /8 block.
+The RIR’s AVAILABLE SPACE of IPv4 addresses is less than its established NECESSARY SPACE for the following 9 months.
+In either case, IANA shall make a single allocation of a whole number of /8 blocks, sufficient to satisfy the established NECESSARY SPACE of the RIR for an 18 month period.
+3.1 Calculation of AVAILABLE SPACE
+The AVAILABLE SPACE of IPv4 addresses of a RIR shall be determined as follows:
+AVAILABLE SPACE = CURRENTLY FREE ADDRESSES + RESERVATIONS EXPIRING DURING THE FOLLOWING 3 MONTHS - FRAGMENTED SPACE
+FRAGMENTED SPACE is determined as the total amount of available blocks smaller than the RIR’s minimum allocation size within the RIR’s currently available stock.
+3.2 Calculation of NECESSARY SPACE
+If the applying Regional Internet Registry does not establish any special needs for the period concerned, NECESSARY SPACE shall be determined as follows:
+NECESSARY SPACE = AVERAGE NUMBER OF ADDRESSES ALLOCATED MONTHLY DURING THE PAST 6 MONTHS * LENGTH OF PERIOD IN MONTHS
+If the applying RIR anticipates that due to certain special needs the rate of allocation for the period concerned will be greater than the previous 6 months, it may determine its NECESSARY SPACE as follows:
+A) Calculate NECESSARY SPACE as its total needs for that period according to its projection and based on the special facts that justify these needs.
+B) Submit a clear and detailed justification of the above mentioned projection (Item A).
+If the justification is based on the allocation tendency prepared by the Regional Internet Registry, data explaining said tendency must be enclosed.
+If the justification is based on the application of one or more of the Regional Internet Registry’s new allocation policies, an impact analysis of the new policy/policies must be enclosed.
+If the justification is based on external factors such as new infrastructure, new services within the region, technological advances or legal issues, the corresponding analysis must be enclosed together with references to information sources that will allow verification of the data.
+If IANA does not have elements that clearly question the Regional Internet Registry’s projection, the special needs projected for the following 18 months, indicated in Item A above, shall be considered valid.
+4. Announcement of IANA Allocations
+When address space is allocated to a RIR, the IANA will send a detailed announcement to the receiving RIR. The IANA will also make announcements to all other RIRs, informing them of the recent allocation. The RIRs will coordinate announcements to their respective membership lists and any other lists they deem necessary.
+The IANA will make appropriate modifications to the “Internet Protocol V4 Address Space” page of the IANA website and may make announcements to its own appropriate announcement lists. The IANA announcements will be limited to which address ranges, the time of allocation and to which Registry they have been allocated.
+10.2. Allocation of IPv6 Address Space by the Internet Assigned Numbers Authority (IANA) Policy to Regional Internet Registries
+This document describes the policy governing the allocation of IPv6 address space from the IANA to the Regional Internet Registries (RIRs). This document does not stipulate performance requirements in the provision of services by IANA to an RIR in accordance with this policy. Such requirements will be specified by appropriate agreements between ICANN and the NRO.
+1. Allocation Principles
+The unit of IPv6 allocation (and therefore the minimum IPv6 allocation) from IANA to an RIR is a /12
+The IANA will allocate sufficient IPv6 address space to the RIRs to support their registration needs for at least an 18 month period.
+The IANA will allow for the RIRs to apply their own respective chosen allocation and reservation strategies in order to ensure the efficiency and efficacy of their work.
+2. Initial Allocations
+On inception of this policy, each current RIR with less than a /12 unallocated address space, shall receive an IPv6 allocation from IANA
+Any new RIR shall, on recognition by ICANN receive an IPv6 allocation from the IANA
+3. Additional Allocations
+A RIR is eligible to receive additional IPv6 address space from the IANA when either of the following conditions are met.
+The RIR’s AVAILABLE SPACE of IPv6 addresses is less than 50% of a /12.
+The RIR’s AVAILABLE SPACE of IPv6 addresses is less than its established NECESSARY SPACE for the following 9 months.
+In either case, IANA shall make a single IPv6 allocation, sufficient to satisfy the established NECESSARY SPACE of the RIR for an 18 month period.
+3.1 Calculation of AVAILABLE SPACE
+The AVAILABLE SPACE of IPv6 addresses of a RIR shall be determined as follows:
+AVAILABLE SPACE = CURRENTLY FREE ADDRESSES + RESERVATIONS EXPIRING DURING THE FOLLOWING 3 MONTHS - FRAGMENTED SPACE
+FRAGMENTED SPACE is determined as the total amount of available blocks smaller than the RIR’s minimum allocation size within the RIR’s currently available stock.
+3.2 Calculation of NECESSARY SPACE
+If the applying Regional Internet Registry does not establish any special needs for the period concerned, NECESSARY SPACE shall be determined as follows:
+NECESSARY SPACE = AVERAGE NUMBER OF ADDRESSES ALLOCATED MONTHLY DURING THE PAST 6 MONTHS * LENGTH OF PERIOD IN MONTHS
+If the applying RIR anticipates that due to certain special needs the rate of allocation for the period concerned will be different from the previous 6 months, it may determine its NECESSARY SPACE as follows:
+Calculate NECESSARY SPACE as its total needs for that period according to its projection and based on the special facts that justify these needs.
+Submit a clear and detailed justification of the above mentioned projection (Item A).
+If the justification is based on the allocation tendency prepared by the Regional Internet Registry, data explaining said tendency must be enclosed.
+If the justification is based on the application of one or more of the Regional Internet Registry’s new allocation policies, an impact analysis of the new policy/policies must be enclosed.
+If the justification is based on external factors such as new infrastructure, new services within the region, technological advances or legal issues, the corresponding analysis must be enclosed together with references to information sources that will allow verification of the data.
+If IANA does not have elements that clearly question the Regional Internet Registry’s projection, the special needs projected for the following 18 months, indicated in Item A above, shall be considered valid.
+4. Announcement of IANA Allocations
+The IANA, the NRO, and the RIRs will make announcements and update their respective web sites regarding an allocation made by the IANA to an RIR. ICANN and the NRO will establish administrative procedures to manage this process.
+10.3. IANA Policy for Allocation of ASN Blocks to RIRs
+Abstract
+This document describes the policy governing the allocation of Autonomous System Numbers (ASNs) from the IANA to the Regional Internet Registries (RIRs).
+This policy document does not stipulate performance requirements in the provision of services by the IANA to an RIR. Such requirements will be specified by appropriate agreements between ICANN and the Number Resource Organization (NRO).
+1. Allocation Principles
+IANA allocates ASNs to RIRs in blocks of 1024 ASNs. In this document the term “ASN block” refers to a set of 1024 ASNs. Until 31 December 2010, allocations of 2-byte only and 4-byte only ASN blocks will be made separately and independent of each other.
+This means until 31 December 2010, RIRs can receive two separate ASN blocks, one for 2-byte only ASNs and one for 4-byte only ASNs from the IANA under this policy. After this date, IANA and the RIRs will cease to make any distinction between 2-byte only and 4-byte only ASNs, and will operate ASN allocations from an undifferentiated 4-byte ASN allocation pool.
+2. Initial Allocations
+Each new RIR will be allocated a new ASN block.
+3. Additional Allocations
+An RIR is eligible to receive (an) additional ASN block(s) from the IANA if one of the following conditions is met:
+The RIR has assigned/allocated 80% of the previously received ASN block, or
+The number of free ASNs currently held by the RIR is less than two months need. This projection is based on the monthly average number of ASNs assigned/allocated by the RIR over the previous six months.
+An RIR will be allocated as many ASN blocks as are needed to support their registration needs for the next 12 months, based on their average assignment/allocation rate over the previous six months, unless the RIR specifically requests fewer blocks than it qualifies for.
+4. Announcement of IANA Allocations
+The IANA, the NRO and the RIRs will make announcements and update their respective websites/databases when an allocation is made by the IANA to an RIR. ICANN and the NRO will establish administrative procedures to manage this process.
+10.4. Global Policy for the Allocation of the Remaining IPv4 Address Space
+This policy describes the process for the allocation of the remaining IPv4 space from IANA to the RIRs. When a minimum amount of available space is reached, one /8 will be allocated from IANA to each RIR, replacing the current IPv4 allocation policy.
+In order to fulfill the requirements of this policy, at the time it is adopted, one /8 will be reserved by IANA for each RIR. The reserved allocation units will no longer be part of the available space at the IANA pool. IANA will also reserve one /8 to any new RIR at the time it is recognized.
+The process for the allocation of the remaining IPv4 space is divided in two consecutive phases:
+10.4.1. Existing Policy Phase
+During this phase IANA will continue allocating IPv4 addresses to the RIRs using the existing allocation policy. This phase will continue until a request for IPv4 address space from any RIR to IANA either cannot be fulfilled with the remaining IPv4 space available at the IANA pool or can be fulfilled but leaving the IANA remaining IPv4 pool empty.
+This will be the last IPv4 address space request that IANA will accept from any RIR. At this point the next phase of the process (Exhaustion Phase) will be initiated.
+10.4.2. Exhaustion Phase
+During this phase IANA will automatically allocate the reserved IPv4 allocation units to each RIR (one /8 to each one) and respond to the last request with the remaining available allocation units at the IANA pool (M units).
+10.4.2.1. Size of the Final IPv4 Allocations
+In this phase IANA will automatically allocate one /8 to each RIR from the reserved space as defined in this policy. IANA will also allocate M allocation units to the RIR that submitted the last request for IPv4 addresses.
+10.4.2.2. Allocation of the Remaining IPv4 Address Space
+After the completion of the evaluation of the final request for IPv4 addresses, IANA MUST:
+Immediately notify the NRO about the activation of the second phase (Exhaustion Phase) of this policy.
+Proceed to allocate M allocation units to the RIR that submitted the last request for IPv4 address space.
+Proceed to allocate one /8 to each RIR from the reserved space.
+10.5. Global Policy for Post Exhaustion IPv4 Allocation Mechanisms by the IANA
+The IANA shall establish a Recovered IPv4 Pool to be utilized post RIR IPv4 exhaustion. The Recovered IPv4 Pool will initially contain any fragments that may be left over in the IANA. It will also hold
+any space returned to the IANA by any other means.
+The Recovered IPv4 Pool will be administered by the IANA. It will contain:
+a. Any fragments left over in the IANA inventory after the last /8s of IPv4 space are delegated to the RIRs
+The IANA inventory excludes “Special use IPv4 addresses” as defined in BCP 153 and any addresses allocated by the IANA for experimental use.
+b. Any IPv4 space returned to the IANA by any means.
+The Recovered IPv4 Pool will stay inactive until the first RIR has less than a total of a /9 in its inventory of IPv4 address space. When one of the RIRs declares it has less than a total of a /9 in its inventory, the Recovered IPv4 pool will be declared active, and IP addresses from the Recovered IPv4 Pool will be allocated as follows:
+a. Allocations from the IANA may begin once the pool is declared active.
+b. In each “IPv4 allocation period”, each RIR will receive a single “IPv4 allocation unit” from the IANA.
+c. An “IPv4 allocation period” is defined as a 6-month period following 1 March or 1 September in each year.
+d. The IANA will calculate the size of the “IPv4 allocation unit” at the following times:
+When the Recovered IPv4 Pool is first activated
+At the beginning of each IPv4 allocation period
+To calculate the “IPv4 allocation unit” at these times, the IANA will use the following formula:
+IPv4 allocation unit = 1/5 of Recovered IPv4 pool, rounded down to the next CIDR (power-of-2) boundary.
+No RIR may get more than this calculation used to determine the IPv4 allocation unit even when they can justify a need for it.
+The minimum “IPv4 allocation unit” size will be a /24. If the calculation used to determine the IPv4 allocation unit results in a block smaller than a /24, the IANA will not distribute any addresses in that IPv4 allocation period.
+The IANA may make public announcements of IPv4 address transactions that occur under this policy. The IANA will make appropriate modifications to the “Internet Protocol V4 Address Space” page of the IANA website and may make announcements to its own appropriate announcement lists. The IANA announcements will be limited to which address ranges, the time of allocation, and to which Registry they have been allocated.
+11. Experimental Internet Resource Allocations
+ARIN will allocate Numbering Resources to entities requiring temporary Numbering Resources for a fixed period of time under the terms of recognized experimental activity.
+“Numbering Resources” refers to unicast IPv4 or IPv6 address space and Autonomous System numbers.
+The following are the criteria for this policy:
+11.1. Documentation of Recognized Experimental Activity
+A Recognized Experimental Activity is one where the experiment’s objectives and practices are described in a publicly accessible document. It is a normal requirement that a Recognized Experimental Activity also includes the undertaking that the experiment’s outcomes be published in a publicly accessible document at the end of the experiment. The conditions for determining the end of the experiment are to be included in the document. Applicants for an experimental allocation are expected to demonstrate an understanding that when the experiment ends, the allocation will be returned; a successful experiment may need a new allocation under normal policies in order to continue in production or commercial use, but will not retain the experimental allocation.
+A “publicly accessible document” is a document that is publicly and openly available free of charges and free of any constraints of disclosure.
+ARIN will not recognize an experimental activity under this policy if the entire research experiment cannot be publicly disclosed.
+ARIN has a strong preference for the recognition of experimental activity documentation in the form of a document which has been approved for publication by the IESG or by a similar mechanism as implemented by the IETF.
+11.2. Technical Coordination
+ARIN requires that a recognized experimental activity is able to demonstrate that the activity is technically coordinated.
+Technical coordination specifically includes consideration of any potential negative impact of the proposed experiment on the operation of the Internet and its deployed services, and consideration of any related experimental activity.
+ARIN will review planned experimental activities to ensure that they are technically coordinated. This review will be conducted with ARIN and/or third-party expertise and will include liaison with the IETF.
+11.3. Coordination over Resource Use
+When the IETF’s standards development process proposes a change in the use of Numbering Resources on an experimental basis the IETF should use a liaison mechanism with the Regional Internet Registries (RIRs) of this proposal. The RIRs will jointly or severally respond to the IETF using the same liaison mechanism.
+11.4. Resource Allocation Term and Renewal
+The Numbering Resources are allocated for a period of one year. The allocation can be renewed on application to ARIN providing information as per Detail One. The identity and details of the applicant and the allocated Numbering Resources will be published under the conditions of ARIN’s normal publication policy. At the end of the experiment, resources allocated under this policy will be returned to the available pool.
+11.5. Single Resource Allocation per Experiment
+ARIN will make one-off allocations only, on an annual basis to any applicant. Additional allocations to an organization already holding experimental activity resources relating to the specified activity outside the annual cycle will not be made unless justified by a subsequent complete application.
+It’s important for the requesting organization to ensure they have sufficient resources requested as part of their initial application for the proposed experimental use.
+11.6. Resource Allocation Fees
+ARIN may charge an administration fee to cover each allocation made of these experimental resources. This fee simply covers registration and maintenance, rather than the full allocation process for standard ARIN members. This administration fee should be as low as possible as these requests do not have to undergo the same evaluation process as those requested in the normal policy environment.
+11.7. Resource Allocation Guidelines
+The Numbering Resources requested come from the global Internet Resource space, do not overlap currently assigned space, and are not from private or other non-routable Internet Resource space. The allocation size shall be consistent with the existing ARIN minimum allocation sizes, unless smaller allocations are intended to be explicitly part of the experiment. If an organization requires more resources than stipulated by the minimum allocation size in force at the time of its request, the request must clearly describe and justify why a larger allocation is required. All research allocations must be registered publicly in whois. Each research allocation will be designated as a research allocation with a comment indicating when the allocation will end.
+11.8. Commercial Use Prohibited
+If there is any evidence that the temporary resource is being used for commercial purposes, or is being used for any activities not documented in the original experiment description provided to ARIN, ARIN reserves the right to immediately withdraw the resource and reassign it to the free pool.
+11.9. Resource Request Appeal or Arbitration
+ARIN reserves the ability to assess and comment on the objectives of the experiment with regard to the requested amount of Numbering Resources and its technical coordination. ARIN reserves the ability to modify the requested allocation as appropriate, and in agreement with the proposer. In the event that the proposed modifications are not acceptable, the requesting organization may request an appeal or arbitration using the normal ARIN procedures. In this case, the original proposer of the experimental activity may be requested to provide additional information regarding the experiment, its objectives and the manner of technical coordination, to assist in the resolution of the appeal.
+12. Resource Review
+ARIN may review the current usage of any resources maintained in the ARIN database. The organization shall cooperate with any request from ARIN for reasonable related documentation.
+ARIN may conduct such reviews:
+when any new resource is requested,
+whenever ARIN has reason to believe that the resources were originally obtained fraudulently or in contravention of existing policy, or
+whenever ARIN has reason to believe that an organization is not complying with reassignment or reallocation policies, or
+at any other time without having to establish cause unless a full review has been completed in the preceding 24 months.
+At the conclusion of a review in which ARIN has solicited information from the resource holder, ARIN shall communicate to the resource holder that the review has been concluded and what, if any, further actions are required.
+Organizations found by ARIN to be materially out of compliance with current ARIN policy shall be requested or required to return resources as needed to bring them into (or reasonably close to) compliance.
+The degree to which an organization may remain out of compliance shall be based on the reasonable judgment of the ARIN staff and shall balance all facts known, including the organization’s utilization rate, available address pool, and other factors as appropriate so as to avoid forcing returns which will result in near-term additional requests or unnecessary route de-aggregation.
+To the extent possible, entire blocks should be returned. Partial address blocks shall be returned in such a way that the portion retained will comprise a single aggregate block.
+If the organization does not voluntarily return resources as requested, ARIN may revoke any resources issued by ARIN as required to bring the organization into overall compliance. ARIN shall follow the same guidelines for revocation that are required for voluntary return in the previous paragraph.
+Except in cases of fraud, or violations of policy, an organization shall be given a minimum of six months to effect a return. ARIN shall negotiate a longer term with the organization if ARIN believes the organization is working in good faith to substantially restore compliance and has a valid need for additional time to renumber out of the affected blocks.
+In case of a return under paragraphs 12.4 through 12.6, ARIN shall continue to provide services for the resource(s) while their return or revocation is pending, except any maintenance fees assessed during that period shall be calculated as if the return or revocation was complete.
+This policy does not create any additional authority for ARIN to revoke legacy address space. However, the utilization of legacy resources shall be considered during a review to assess overall compliance.
+In considering compliance with policies which allow a timeframe (such as a requirement to assign some number of prefixes within 5 years), failure to comply cannot be measured until after the timeframe specified in the applicable policy has elapsed. Blocks subject to such a policy shall be assumed in compliance with that policy until such time as the specified time since issuance has elapsed.
+Appendix A - Change Log
+The Change Log can be found at:
+https://www.arin.net/participate/policy/nrpm/changelog/
+Number Resource Policy Manual
+Number Resource Policy Manual Appendix A: Change Log
+Related
+PDF Format
+Text Version

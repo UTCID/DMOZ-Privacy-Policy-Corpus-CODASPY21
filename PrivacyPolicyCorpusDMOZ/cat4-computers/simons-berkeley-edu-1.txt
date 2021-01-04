@@ -1,0 +1,325 @@
+https://simons.berkeley.edu/programs/privacy2019
+Skip to content
+HomeAboutOverviewContactCalvin LabPeopleOverviewScientific LeadershipStaffCurrent Long-Term VisitorsResearch FellowsScientific Advisory BoardGovernance BoardAffiliated FacultyScience Communicator in ResidenceLaw & Society FellowPrograms & EventsOverviewProgramsWorkshops & SymposiaInternal Program ActivitiesPublic LecturesParticipateVisitingOverviewDirectionsBerkeley & the Bay AreaAccommodationVisasFamiliesIT GuideBicycle LoansCode of ConductSupportOverviewSimons FoundationIndustrial PartnershipAcademic PartnersDonateRichard M. Karp FundWatch / ReadSimonsTVProgram ReportsNews StoriesCalvin Café (blog)Calendar
+You are here ‹
+Home ‹
+Programs & Events ‹
+Programs ‹
+Past Programs
+This program aimed to advance core research on privacy and foster new collaborations between researchers who work on theoretical aspects of data privacy and those working in areas of potential applications.
+A rigorous foundational approach to private data analysis has emerged in theoretical computer science in the last decade, with differential privacy and its close variants playing a central role. This approach was motivated by the vast amounts of personal information that are collected and analyzed by a wide range of institutions, as well as by numerous demonstrated failures of traditional statistical disclosure limitation paradigms, most notably de-identification. The resulting body of theoretical work draws from many scientific fields: statistics, machine learning, cryptography, algorithms, databases, information theory, economics, and game theory.
+This research has begun to influence how privacy scholars think and argue about privacy and how sensitive data are treated in real-life applications. This process reinforces the need for further technical research on foundations of privacy and for an understanding of the technical, legal, social, and ethical issues that arise. This program brought together experts from across disciplines related to privacy — theoretical computer science, statistics, game theory, machine learning, databases, social science, and law — to share their knowledge, strengthen the connections between privacy-related research in these disciplines, and work on a wide-reaching interdisciplinary agenda involving technology and policy. The participants investigated basic privacy-related algorithmic, statistical, and complexity- and game-theoretic questions; studied barriers to implementing and using the products of theoretical research in privacy; and explored methodologies for bridging the gaps between mathematical approaches to privacy and approaches rooted in the law, social norms, and ethics.
+This program was supported in part by the Alfred P. Sloan Foundation, the Center for Long-Term Cybersecurity, and the Patrick J. McGovern Foundation.
+sympa [at] lists.simons.berkeley.edu (body: subscribe%20privacy2019announcements%40lists.simons.berkeley.edu)
+(Click here to subscribe to our announcements email list for this program).
+Organizers:
+Adam Smith
+(Boston University; chair),
+Vitaly Feldman
+(Google),
+Katrina Ligett
+(Hebrew University),
+Kobbi Nissim
+(Georgetown University),
+Aleksandra Slavkovic
+(Pennsylvania State University)
+Long-Term Participants (including Organizers):
+Raef Bassily
+(Ohio State University),
+Amos Beimel
+(Ben Gurion University),
+Abhishek Bhowmick
+(Apple),
+Johannes Buchmann
+(TU Darmstadt),
+Elisa Celis
+(Yale University),
+John Duchi
+(Stanford University),
+Cynthia Dwork
+(Harvard University & Microsoft Research),
+Vitaly Feldman
+(Google),
+Will Fithian
+(UC Berkeley),
+Marco Gaboardi
+(SUNY Buffalo),
+Abhradeep Guha Thakurta
+(UC Santa Cruz),
+Cristóbal Guzmán
+(Pontificia Universidad Católica de Chile),
+Moritz Hardt
+(UC Berkeley),
+Chris Jay Hoofnagle
+(UC Berkeley),
+Richard Karp
+(UC Berkeley),
+Frauke Kreuter
+(University of Maryland),
+Janardhan Kulkarni
+(Microsoft Research),
+Paul Laskowski
+(UC Berkeley),
+Katrina Ligett
+(Hebrew University),
+Mike Luby
+(Qualcomm Technologies, Inc.),
+Ilya Mironov
+(Google),
+Deirdre Mulligan
+(UC Berkeley),
+Moni Naor
+(Weizmann Institute of Science),
+Sasho Nikolov
+(University of Toronto),
+Helen Nissenbaum
+(Cornell Tech),
+Kobbi Nissim
+(Georgetown University),
+Sofya Raskhodnikova
+(Boston University),
+Omer Reingold
+(Stanford University),
+Ryan Rogers
+(Apple),
+Lalitha Sankar
+(Arizona State University),
+Anand Sarwate
+(Rutgers University),
+Or Sheffet
+(University of Alberta),
+Natalie Shlomo
+(University of Manchester),
+Aleksandra Slavkovic
+(Pennsylvania State University),
+Adam Smith
+(Boston University; chair),
+Kunal Talwar
+(Google),
+Jonathan Ullman
+(Northeastern University),
+Alexandra Wood
+(Harvard University),
+Steven Wu
+(University of Minnesota Twin Cities)
+Research Fellows:
+Mark Bun
+(Princeton University; Google Research Fellow),
+Rachel Cummings
+(Georgia Institute of Technology; Google Research Fellow),
+Gautam Kamath
+(Massachusetts Institute of Technology; Microsoft Research Fellow),
+Vishesh Karwa
+(Ohio State University; Patrick J. McGovern Research Fellow),
+Aleksandra Korolova
+(University of Southern California; VMware Research Fellow),
+Audra McMillan
+(Boston University; Patrick J. McGovern Research Fellow),
+Matthew Reimherr
+(Pennsylvania State University),
+Thomas Steinke
+(IBM Almaden; Patrick J. McGovern Research Fellow)
+Visiting Graduate Students and Postdocs:
+Brendan Avent
+(University of Southern California),
+Yahav Bechavod
+(Hebrew University),
+Albert Cheu
+(Northeastern University),
+Samantha Chiu
+(University of Maryland),
+Aloni Cohen
+(Massachusetts Institute of Technology),
+Alexander Edmonds
+(University of Toronto),
+Rebecca C. Fan
+(UC Berkeley),
+Gian Pietro Farina
+(University at Buffalo, SUNY),
+Jake Goldenfein
+(Cornell Tech),
+Nitin Kohli
+(UC Berkeley),
+Aaron Koolyk
+(Hebrew University),
+Rachel Lawrence
+(UC Berkeley),
+Yuliia Lut
+(Georgia Institute of Technology),
+Carlo Molinari
+(Pennsylvania State University),
+Anupama Nandi
+(Ohio State University),
+Marcel Neunhoeffer
+(University of Mannheim),
+Elizabeth O’Neill
+(Cornell Tech),
+Srinivasan Raghuraman
+(Massachusetts Institute of Technology),
+Adam Sealfon
+(Massachusetts Institute of Technology),
+Moshe Shenfeld
+(Hebrew University),
+Vikrant Singhal
+(Northeastern University),
+Jacob Steinhardt
+(Stanford University),
+Ramesh Krishnan Pallavoor Suresh
+(Boston University),
+Om Thakkar
+(Boston University),
+Neil Vexler
+(Weizmann Institute of Science),
+Di Wang
+(University at Buffalo, SUNY),
+Yvonne Wang
+(Cornell Tech),
+Wanrong Zhang
+(Georgia Institute of Technology),
+Juba Ziani
+(Caltech)
+Workshops
+Data Privacy: Foundations and Applications Reunion
+Organizers:
+Adam Smith
+(Boston University; chair),
+Vitaly Feldman
+(Google),
+Katrina Ligett
+(Hebrew University),
+Kobbi Nissim
+(Georgetown University),
+Aleksandra Slavkovic
+(Pennsylvania State University)
+Data Privacy: Foundations and Applications Boot Camp
+Jan. 28 – Feb. 1, 2019
+Organizers:
+Adam Smith
+(Boston University; chair),
+Vitaly Feldman
+(Google),
+Katrina Ligett
+(Hebrew University),
+Kobbi Nissim
+(Georgetown University),
+Jonathan Ullman
+(Northeastern University)
+Data Privacy: From Foundations to Applications
+Mar. 4 – Mar. 8, 2019
+Organizers:
+Marco Gaboardi
+(SUNY Buffalo; chair),
+Ashwin Machanavajjhala
+(Duke University),
+Kobbi Nissim
+(Georgetown University),
+Natalie Shlomo
+(University of Manchester)
+Symposium on Information-Theoretic Methods for Privacy
+Mar. 14 – Mar. 15, 2019
+Organizers:
+Lalitha Sankar
+(Arizona State University; chair)
+Privacy and the Science of Data Analysis
+Apr. 8 – Apr. 12, 2019
+Organizers:
+Anand Sarwate
+(Rutgers University; chair),
+Kamalika Chaudhuri
+(UC San Diego),
+Vitaly Feldman
+(Google),
+Aleksandra Slavkovic
+(Pennsylvania State University),
+Adam Smith
+(Boston University)
+Beyond Differential Privacy
+May 6 – May 10, 2019
+Organizers:
+Katrina Ligett
+(Hebrew University; chair),
+Kobbi Nissim
+(Georgetown University),
+Omer Reingold
+(Stanford University),
+Aaron Roth
+(University of Pennsylvania)
+Those interested in participating in this program should send email to the organizers privacy2019 [at] lists.simons.berkeley.edu (at this address).
+Internal Program Activities
+Data Co-ops (Data Privacy Reading Group)
+Thursday, February 14 11:00 am – 1:00 pm
+Privacy and Statistical Inference for Social Science Data (Data Privacy Reading Group)
+Tuesday, February 12 1:00 pm – 3:00 pm
+Data Co-ops (Data Privacy Reading Group)
+Thursday, February 14 11:00 am – 1:00 pm
+Privacy and Statistical Inference for Social Science Data (Data Privacy Reading Group)
+Tuesday, February 12 1:00 pm – 3:00 pm
+Data Co-ops (Data Privacy Reading Group)
+Thursday, February 14 11:00 am – 1:00 pm
+Differential Privacy for Functional Summaries via the Exponential Mechanism with Applications to Functional PCA
+Wednesday, April 24 1:00 pm – 3:00 pm
+Privacy and Statistical Inference for Social Science Data (Data Privacy Reading Group)
+Tuesday, February 12 1:00 pm – 3:00 pm
+Data Co-ops (Data Privacy Reading Group)
+Thursday, February 14 11:00 am – 1:00 pm
+Optimality and large-scale learning under local privacy
+Wednesday, April 17 1:00 pm – 3:00 pm
+Privacy and Statistical Inference for Social Science Data (Data Privacy Reading Group)
+Tuesday, February 12 1:00 pm – 3:00 pm
+Google Talks Field Trip
+Friday, April 5 10:00 am – 4:30 pm
+Data Co-ops (Data Privacy Reading Group)
+Thursday, February 14 11:00 am – 1:00 pm
+Differentially Private Learning of Geometric Concepts
+Wednesday, April 3 1:00 pm – 3:00 pm
+Privacy and Statistical Inference for Social Science Data (Data Privacy Reading Group)
+Tuesday, February 12 1:00 pm – 3:00 pm
+Data Co-ops (Data Privacy Reading Group)
+Thursday, February 14 11:00 am – 1:00 pm
+Privacy and Statistical Inference for Social Science Data (Data Privacy Reading Group)
+Tuesday, February 12 1:00 pm – 3:00 pm
+Data Co-ops (Data Privacy Reading Group)
+Thursday, February 14 11:00 am – 1:00 pm
+Differential privacy in practice
+Wednesday, March 20 2:00 pm – 3:00 pm
+Privacy and Statistical Inference for Social Science Data (Data Privacy Reading Group)
+Tuesday, February 12 1:00 pm – 3:00 pm
+Data Co-ops (Data Privacy Reading Group)
+Thursday, February 14 11:00 am – 1:00 pm
+Safeguarding privacy in dynamic decision-making problems
+Wednesday, March 13 1:00 pm – 3:00 pm
+Privacy and Statistical Inference for Social Science Data (Data Privacy Reading Group)
+Tuesday, February 12 1:00 pm – 3:00 pm
+Data Co-ops (Data Privacy Reading Group)
+Thursday, February 14 11:00 am – 1:00 pm
+Privacy and Statistical Inference for Social Science Data (Data Privacy Reading Group)
+Tuesday, February 12 1:00 pm – 3:00 pm
+Data Co-ops (Data Privacy Reading Group)
+Thursday, February 14 11:00 am – 1:00 pm
+Bridging Privacy Definitions: Differential Privacy and Privacy Concepts from Law and Policy
+Wednesday, February 27 1:00 pm – 3:00 pm
+Privacy and Statistical Inference for Social Science Data (Data Privacy Reading Group)
+Tuesday, February 12 1:00 pm – 3:00 pm
+Data Co-ops (Data Privacy Reading Group)
+Thursday, February 14 11:00 am – 1:00 pm
+How to Use Heuristics for Differential Privacy
+Wednesday, February 20 1:00 pm – 3:00 pm
+Privacy and Statistical Inference for Social Science Data (Data Privacy Reading Group)
+Tuesday, February 12 1:00 pm – 3:00 pm
+Data Co-ops (Data Privacy Reading Group)
+Thursday, February 14 11:00 am – 1:00 pm
+Privacy amplification by shuffling
+Wednesday, February 13 1:00 pm – 3:00 pm
+Privacy and Statistical Inference for Social Science Data (Data Privacy Reading Group)
+Tuesday, February 12 1:00 pm – 3:00 pm
+1. Data Co-ops (Data Privacy Reading Group)
+Thursday, February 7 11:00 am – 1:00 pm
+Privacy and Statistical Inference for Social Science Data (Data Privacy Reading Group)
+Tuesday, February 5 1:00 pm – 3:00 pm
+Overview
+ProgramsCurrent & Future Programs
+Past Programs
+Workshops & Symposia
+Internal Program Activities
+Public Lectures
+Participate

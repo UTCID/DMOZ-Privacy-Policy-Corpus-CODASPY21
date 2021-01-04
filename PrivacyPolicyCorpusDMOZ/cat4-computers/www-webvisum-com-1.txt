@@ -1,0 +1,64 @@
+http://www.webvisum.com/en/main/privacy
+Jump to:
+skip to navigation,skip to content
+web visum (vision, in latin) is your eyes for the web
+Navigation
+Home
+Login / Register
+Invitations
+Download
+Community
+Testimonials
+Contact Us
+Donate
+Privacy Policy - last updated: July 15th, 2008.
+If you only read the WebVisum website, there is no more information collected about you than is normally collected by web sites in general in their server logs.
+If you contribute to the WebVisum project, you are publishing every word or piece of code you post publicly. If you write something, assume that it will be kept forever. This includes page element tags through the extension, articles, code, user pages and talk pages. Some limited exceptions are described below.
+Publishing on WebVisum and public data
+Simply visiting the web site does not expose your identity publicly (but see private logging below).
+When you edit any page on the WebVisum site or enter tag a page element using our extension, you are publishing a document. This is a public act, and you are identified publicly with that edit as its author.
+Identification of an author
+When you publish a page on WebVisum, you may be logged in or not.
+If you are logged in, you will be identified by your user name. This may be your real name if you so choose, or you may choose to publish under a pseudonym, whatever user name you selected when you created your account.
+If you have not logged in, you will be identified by your network IP address. This is a series of four numbers which identifies the internet address from which you are contacting WebVisum. Depending on your connection, this number may be traceable only to a large internet service provider, or specifically to your school, place of business, or home. It may be possible that the origin of this IP address could be used in conjunction with any interests you express implicitly or explicitly by editing articles to identify you even by private individuals.
+It may be either difficult or easy for a motivated individual to connect your network IP address with your real-life identity. Therefore if you are very concerned about privacy, you may wish to log in and publish under a pseudonym. When using a pseudonym, your IP address will not be available to the public, but it will be stored on the WebVisum servers for a relatively short amount of time. Thus it will be available to developers and may be released under certain circumstances (see below).
+If you use a company mail server from home or telecommute and use a DSL or cable internet connection, it is likely to be very easy for your employer to identify your IP address and find all of your IP based WebVisum project contributions. Using a user name is a better way of preserving your privacy in this situation. However, remember to disconnect yourself after using a pseudonym to avoid allowing others to use your identity.
+Cookies
+The site will set a temporary session cookie whenever you visit the site. If you do not intend to ever log in, you may deny this cookie, but you cannot log in without it. It will be deleted when you close your browser session.
+More cookies may be set when you log in, to avoid typing in your user name (or optionally password) on your next visit. These last up to 30 days. You may clear these cookies after use if you are using a public machine and don't wish to expose your username to future users of the machine. (If so, clear the browser cache as well.)
+Passwords
+Many aspects of the WebVisum site and service including community interactions depend on the reputation and respect that is built up through a history of valued contributions. User passwords are the only guarantee of the integrity of a user's activity history. All users are encouraged to select strong passwords and to never share them. No one shall knowingly expose the password of another user to public release either directly or indirectly.
+Private logging
+Every time you visit a web page, you send a lot of information to the web server. Most web servers routinely maintain access logs with a portion of this information, which can be used to get an overall picture of what pages are popular, what other sites link to this one, and what web browsers people are using. It is not the intention of WebVisum to use this information to keep track of legitimate users.
+Log data may be examined by developers in the course of solving technical problems, in tracking down badly-behaved web spiders that overwhelm the site, or very rarely to correlate usernames and network addresses of edits in investigating abuse of the site or service.
+Policy on release of data derived from page logs
+It is the policy of WebVisum that personally identifiable data collected in the server logs will not be released by the developers who have access to it, except as follows:
+In response to a valid subpoena or other compulsory request from law enforcement
+With permission of the affected user
+To WebVisum site operators, their legal counsel, or their designee, when necessary for investigation of abuse complaints.
+Where the information pertains to page views generated by a spider or bot and its dissemination is necessary to illustrate or resolve technical issues.
+Where the user has been vandalising content, tags, articles or persistently behaving in a disruptive way, data may be released to assist in the targeting of IP blocks, or to assist in the formulation of a complaint to relevant Internet Service Providers
+Where it is reasonably necessary to protect the rights, property or safety of WebVisum, its users or the public.
+WebVisum policy does not permit public distribution of such information under any circumstances, except as described above.
+Sharing information with third parties
+All text added to WebVisum web site is available for reuse under the terms of the GFDL, except for tagging data stored in our database and submitted by our users through the WebVisum extension and API.
+WebVisum will not sell or share private information, such as email addresses, with third parties, unless you agree to release this information, or it is required by law to release the information.
+Security of information
+WebVisum or its operators make no guarantee against unauthorized access to any information you provide. This information will be available to all of the site's developers with access to the servers.
+E-mail, mailing lists
+E-mail
+You will need to provide your e-mail address when registering for an account. This allows other logged-in users to send email to you through the web site (unless you disable this in your preferences). Your address will not be revealed to them unless you respond, or possibly if the email bounces. The email address may be used by WebVisum to communicate with users on a wider scale.
+You will be able to change your email address that we keep on file at any time.
+Mailing lists
+If you subscribe to one of the WebVisum mailing lists, your address will be exposed to any other subscriber. The list archives of most of WebVisum's mailing lists are public, and your address may find itself quoted in messages. The list archives may also be archived by third party services. Mails are usually not deleted or modified, but it may be done in extreme cases.
+Information email addresses
+Some email addresses (see below) may forward mail to a team of volunteers trusted by the community to use a ticket system to view them and answer them. Mail sent to the system is not publicly visible, but is visible to this group of WebVisum editors or helpers. By sending a mail to one of these addresses, your address may become public within this group. The team may discuss the contents of your mail with other contributors in order to best answer your query.
+User data
+Data on users, such as the times at which they edited a page or tag on the WebVisum site or using the WebVisum extension and the number of edits they have made are publicly available via "user contributions" lists, and occasionally in aggregated forms published by other users.
+Removal of user accounts
+User accounts can be removed upon request. It may be possible for a developer to change the username on an account, but you will need to request this yourself. WebVisum does not guarantee that a name will be changed on request.
+Deletion of content
+Deleting text from WebVisum site does not really delete them. In normal articles, anyone can look at a previous version and see what was there. If an article is "deleted", any sysop/administrator, meaning almost anyone trusted not to abuse the deletion capability, can see what was deleted. Only a developer can permanently delete information from WebVisum and there is no guarantee this will happen except in response to legal action.
+WebVisum would like to thank Wikipedia and its users who have created a simple and easy to understand policy that we have used as a basis to ours.
+You can view the original one Here.
+© 2008-2020 WebVisum. All rights reserved. See our Privacy Policy.

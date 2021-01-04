@@ -1,0 +1,46 @@
+http://stv.sourceforge.net/privacy
+Privacy Policy
+In providing online election services, OpaVote receives information
+about the election including but not limited to the manager's name and email
+address, the names of candidates, and the email addresses of voters. During
+the voting process, OpaVote may record, for each voter, whether the voter has
+voted, whether the voter has opted out of receiving election emails or
+reported the election email as spam, the IP address used by the voter, and
+other information provded in the HTTP headers (to deter fraudulent votes).
+For elections and polls conducted on Facebook, OpaVote may store a voter's
+Facebook id number to prevent duplicate voting. Collectively, this
+information is "Election Information."
+OpaVote will not share the Election Information with any third party,
+except that OpaVote may:
+provide Election Information to an election manager;
+provide Election Information as required by a judicial order or other legal
+obligation;
+provide Election Information to a third party to investigate or remedy
+potential violations of the Terms and Conditions or other applicable law; and
+publicize the fact that your organization used OpaVote along with
+information about your election (e.g., date, election title, contest titles).
+After an election manager deletes an election from OpaVote, all email
+addresses, votes, and election results are permanently removed (except email
+addresses of those who have opted out of receiving OpaVote emails or marked
+an OpaVote email as spam, soley to prevent OpaVote from sending any further
+messages to those email addresses).
+OpaVote uses Google App Engine, Amazon Web Services, and Sendgrid. These companies may record information concerning your use of OpaVote.
+Please see
+the Google Privacy
+Policy, the AWS Privacy Policy, and the
+Sendgrid Privacy Policy
+for more information.
+For customer's subject to the GPDR, please see OpaVote's Data Processing Agreement.
+For questions about OpaVote's Privacy Policy, please send an email to team@whateveropavote.com.
+Last modified March 3, 2019.
+Opt Out Policy
+Voters in an election will receive an email informing them of their ability
+to vote in an election.
+OpaVote will not use the voters' email addresses for
+any other purpose.
+All emails to voters will include an opt out link to
+allow a voter to opt out of receiving emails for the election or to opt out of
+emails from all OpaVote elections.
+OpaVote may retain a voter's email
+address for the purpose of preventing further emails to the voter.
+Last modified November 11, 2013.

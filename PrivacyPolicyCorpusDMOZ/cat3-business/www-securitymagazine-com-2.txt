@@ -1,0 +1,122 @@
+http://www.securitymagazine.com/blogs/14-security-blog/post/93389-switzerlands-dpa-concludes-that-swiss-us-privacy-shield-does-not-provide-adequate-level-of-protection
+This website requires certain cookies to work and uses other cookies to help you have the best experience.
+By visiting this website, certain cookies have already been set, which you may delete and block. By closing this message or continuing to use our site, you agree to the use of cookies. Visit our updated privacy and cookie policy to learn more.
+This Website Uses CookiesBy closing this message or continuing to use our site, you agree to our cookie policy. Learn More
+This website requires certain cookies to work and uses other cookies to help you have the best experience.
+By visiting this website, certain cookies have already been set, which you may delete and block.
+By closing this message or continuing to use our site, you agree to the use of cookies. Visit our updated privacy and cookie policy to learn more.
+Security Magazine logo
+MagazineDigital Edition
+This Month's Issue
+ArchivesNewsSecurity Newswire
+COVID-19TechnologiesSecurity Blog
+NewsletterWeb Exclusives
+ColumnsCareer Intelligence
+Security TalkThe Corner Office
+Leadership & ManagementCyber Tactics
+Overseas and SecureThe Risk MatrixManagementLeadership Management
+Enterprise Services
+Security Education & Training
+MorePhysicalAccess Management
+Video Surveillance
+Identity Management
+MoreCyberSectorsEducation: University
+Hospitals & Medical Centers
+Critical Infrastructure
+MoreExclusivesSecurity 500 ReportMost Influential People in Security
+Top Guard and Security Officer CompaniesThe Security Leadership Issue
+Annual Innovations, Technology, & Services Report
+EventsIndustry Events
+Webinars
+Solutions by SectorSecurity 500 ConferenceResourcesVideos
+ISC West 2019Photo GalleriesPolls
+Classifieds & Job Listings
+White Papers
+Mobile App
+StoreSponsor Insights Continuing EducationCall for Entries InfoCentersESRMContactEditorial GuidelinesAdvertise
+Home » Blogs » Security Blog » Switzerland’s DPA concludes that Swiss-US Privacy Shield does not provide adequate level of protection
+David Stauss is a partner at Husch Blackwell LLP and co-leader of the firm’s privacy and data security practice group. David regularly assists clients in preparing for and responding to data security incidents, including managing multi-state breach notifications. He also regularly counsels clients on complying with existing and emerging privacy and information security laws, including the European Union’s General Data Protection Regulation (GDPR), the California Consumer Privacy Act of 2018 (CCPA) and state information security statutes. To stay up to date on these issues, subscribe to Husch Blackwell’s privacy blog. Stauss can be reached at david.stauss@huschblackwell.com.
+Technologies / Management / Cyber / Security Enterprise Services / Security Leadership and Management / Logical Security / Cyber Security News / Enterprise Services
+Switzerland’s DPA concludes that Swiss-US Privacy Shield does not provide adequate level of protection
+September 18, 2020
+David M. Stauss
+KEYWORDS cyber security
+/
+data protection
+/
+privacy concerns
+/
+risk management
+Order Reprints
+The fallout from the Schrems II judgment continued with an announcement from Switzerland’s Federal Data Protection and Information Commissioner (FDPIC) that the Swiss-US Privacy Shield regime “does not provide an adequate level of protection for data transfer from Switzerland to the US pursuant to [Switzerland’s] Federal Act on Data Protection (FADP).”In a seven-page policy paper, the FDPIC observed that although Switzerland is not bound by the CJEU’s Schrems II decision and there is no comparable Swiss legal decision, it nonetheless felt “compelled not only to reassess the current position of the US on” Switzerland’s list of countries with adequate data protections, “but also to provide more detailed legal justification for” its decision to amend that list with respect to the US.
+Tracking the Schrems II decision, the FDPIC concluded that the potential impact of US surveillance laws on Swiss residents’ personal data without adequate redress is “irreconcilable with” the privacy rights guaranteed by FADP. The FDPIC reasoned: “Because there is no guarantee of rights that would afford persons concerned in Switzerland protection comparable to that afforded by [Swiss law], the FDPIC considers that data protection within the meaning of Art. 6 Para. 1 FADP is insufficient in the US, even for the processing of personal data by US companies that are certified under the [Swiss-US Privacy Shield] regime.”The FDPIC noted that it does not have the authority to invalidate the Swiss-US Privacy Shield regime and its assessment is “subject to any deviating rulings by Swiss courts.” Consequently, the regime “can be invoked by persons concerned in Switzerland as long as it is not revoked by the USA.” However, the FDPIC amended its list to indicate that the rights provided by the regime “do not meet the requirements of adequate data protection as defined in the FADP.”The FDPIC also tracked the Schrems II decision with respect to the use of Standard Contractual Clauses (SCCs) and binding corporate rules. The FDPIC concluded that those contractual safeguards “cannot prevent foreign authorities from accessing personal data if the public law of the importing country takes precedence and allows official access to the transferred personal data without sufficient transparency and legal protections of the persons concerned.” The FDPIC was quick to point out that this was true not only for transfers to the US, but to other non-adequate countries as well.
+The FDPIC concluded by providing three practical tips for Swiss companies transferring data to countries where there is not an adequacy determination.First, companies relying on contractual provisions, such as SCCs, must conduct a risk assessment and expand contractual clauses (if possible) to address the law of the receiving country.Second, companies need to consider whether the law in the receiving country permits the transferred data to be “subject to special access by local authorities” and whether the receiving company is in the position to enforce Swiss data protection principles.
+Finally, in such situations, the Swiss data exporter “must consider technical measures that effectively prevent the authorities in the destination country from accessing the transferred personal data.” According to the FDPIC:If data is stored solely in the cloud by service providers in a non-listed country, for example, encryption would be conceivable, along the principles of BYOK (bring your own key) and BYOE (bring your own encryption), so that no individual personal data would be available in the destination country and if the service provider would have no possibility of decoding the data themselves. For services in the target country that go beyond mere data storage, however, the use of such technical measures is demanding. If such measures are not possible, the FDPIC recommends refraining from transferring personal data to the non-listed country on the basis of contractual guarantees.The EDPB and European Commission are on track to provide further guidance on cross-border data transfers in light of Schrems II in the coming months.
+Blog Topics
+Security Blog
+On the Track of OSAC
+Recent Comments
+Insufficient information
+Thankyou so much for sharing such an informative...
+I just wish my mechanical lock had a...
+security
+Security
+Blog Roll
+Security Industry Association
+Security Magazine's Daily News
+SIA FREE Email News
+SDM Blog
+David Stauss is a partner at Husch Blackwell LLP and co-leader of the firm’s privacy and data security practice group. David regularly assists clients in preparing for and responding to data security incidents, including managing multi-state breach notifications. He also regularly counsels clients on complying with existing and emerging privacy and information security laws, including the European Union’s General Data Protection Regulation (GDPR), the California Consumer Privacy Act of 2018 (CCPA) and state information security statutes. To stay up to date on these issues, subscribe to Husch Blackwell’s privacy blog. Stauss can be reached at david.stauss@huschblackwell.com.
+Subscribe For Free!
+Digital Edition SubscriptionsSecurity eNewsletter & Other eNews AlertsOnline RegistrationMobile AppSubscription Customer Service
+More Videos
+Sponsored Content
+Sponsored Content is a special paid section where industry companies provide high quality, objective, non-commercial content around topics of interest to the Security audience. All Sponsored Content is supplied by the advertising company. Interested in participating in our Sponsored Content section? Contact your local rep.
+Close
+Sponsored By
+SureView Operations
+How command centers are responding to COVID-19
+In recent months, I’ve had many different conversations with our customers about how the COVID pandemic has impacted their security operations—from global companies with hundreds of thousands of employees to much smaller organizations with control rooms responsible for local operations and campuses. The overwhelming feedback is that everyone has needed, in one way or another, to change their processes, and expect to continue having to do so for the foreseeable future.
+Popular Stories
+FEMA announces Grants Outcomes (FEMA GO) System Trainings
+The top 10 data breaches of 2020
+Preparing for riots and looting
+The cult of the search in open-source intelligence
+Plaza Hotel & Casino in Downtown Las Vegas uses threat detection platform
+Events
+June 23, 2020
+AppSec Managers Are Becoming Extinct. Get Ready to Embrace DevSecOps.
+ON DEMAND: DevSecOps creates an environment of shared responsibility for security, where AppSec and development teams become more collaborative. With the right training and tools, developers can become more hands-on with security and, with that upskilling, stand out among their peers... however, they need the security specialists on-side, factoring them into securing code from the start and championing this mindset across the company.
+September 24, 2020
+Pandemics, Recessions and Disasters: Insider Threats During Troubling Times
+ON DEMAND: The insider threat—consisting of scores of different types of crimes and incidents—is a scourge even during the best of times. But the chaos, instability and desperation that characterize crises also catalyze both intentional and unwitting insider attacks. Learn how your workers, contractors, volunteers and partners are exploiting the dislocation caused by today's climate of Coronavirus, unemployment, disinformation and social unrest.
+View All
+Submit An Event
+Poll
+Workplace Safety and COVID-19
+Which new safety and security protocols are now in use at your enterprise to protect employees from COVID-19 exposure?
+A. Masks provided/required
+B. Monitoring employees’ temperatures
+C. Plexi-glass dividers between workstations
+D. 6-foot social distancing markers on floors
+E. Increased building disinfecting
+F. Continued remote work for employees
+G. Staggered shifts
+H. Health screenings
+I. Some of the above
+J. All of the above
+View Results
+Poll Archive
+Products
+Effective Security Management, 7th Edition
+Effective Security Management, 5e, teaches practicing security professionals how to build their careers by mastering the fundamentals of good management. Charles Sennewald brings a time-tested blend of common sense, wisdom, and humor to this bestselling introduction to workplace dynamics.
+See More Products
+Security Magazine
+2020 December
+This month, Security magazine brings you the 2020 Guarding Report - a look at the ebbs and flows security officers and guarding companies have weathered in 2020, including protests, riots, the election, a pandemic and much more. Industry experts discuss access management and security challenges during COVID-19, GSOC complacency, the cybersecurity gap, end-of-year security career reflections and more!
+View More
+Create Account
+MoreMarket ResearchCustom Content & Marketing ServicesSecurity Group
+Editorial GuidelinesPrivacy PolicySurvey And SampleWant MoreSubscribeConnectPartnersPrivacyPRIVACY POLICYTERMS & CONDITIONSDO NOT SELL MY PERSONAL INFORMATIONPRIVACY REQUESTACCESSIBILITY
+Copyright ©2020. All Rights Reserved BNP Media.
+Design, CMS, Hosting & Web Development :: ePublishing

@@ -1,0 +1,211 @@
+http://extensions.joomla.org/community/terms-of-service
+Terms of Service
+Joomla!®
+About us
+Joomla Home
+What is Joomla?
+Benefits & Features
+Project & Leadership
+Trademark & Licensing
+The Joomla Foundation
+Support us
+Contribute
+Sponsor
+Partner
+Shop
+Download & Extend
+Downloads
+Extensions
+Languages
+Get a free site
+Get a domain
+Discover & Learn
+Documentation
+Training
+Certification
+Site Showcase
+Announcements
+Blogs
+Magazine
+Community & Support
+Community Portal
+Events
+User Groups
+Forum
+Resources Directory
+Volunteers Portal
+Vulnerable Extensions List
+Developer Resources
+Developer Network
+Security Centre
+Issue Tracker
+GitHub
+API Documentation
+Joomla! Framework
+JoomlaCode
+Joomla! Extensions Directory™
+Download
+Launch
+Home
+Browse Extensions Top RatedMost ReviewedNewRecently UpdatedCompatible with J4 BetaSearch
+Community Meet the JED TeamBlogJED NewsletterTerms of ServiceHelp Joomla!
+Support KnowledgebaseSponsor Joomla!
+Vulnerable Extensions AboutVulnerable ExtensionsResolved ExtensionsAbandoned ExtensionsSubmit a ReportSubmit an UpdateJSON Feed
+Log in Register
+Home
+Community
+Terms of Service
+JED Terms of Service
+Note this is our new Terms of Service, which took effect February 1, 2014.
+Terms of Service
+The Joomla! Extensions Directory (JED) is a service provided to the Joomla community. By using the JED, you are agreeing to the following terms of service. Open Source Matters (OSM) has the right, in its sole discretion, to revise, change and update the terms of service at any time without notice.
+Table of Contents
+1. Ownership of Copyrights and Intellectual Property 2. Submissions 3. General Site Usage 4. Listings      4.1 General Rules      4.2 Developer Sites      4.3 Other Information Concerning Entry Submissions      4.4 Changing Distribution Models      4.5 Joomla! Trademarks 5. Extensions and Forks 6. Reviews and Voting 7. Suspensions 8. Support and Dispute Resolution 9. Additional License Terms 10. Privacy/Advertising 11. Disclaimers and Limitation of Liability 12. Governing Law 13. Future JED ToS Updates 14. Questions and Contact
+1. Ownership of Copyrights and Intellectual Property
+Content providers own the copyright and all other intellectual property rights to the products listed in the JED and the content submitted to the JED to promote the products (e.g., content promoting an extension, product descriptions and logos) (collectively “Extension Content”).
+By submitting a listing to the JED, content providers are granting OSM and the JED Team express permission to use the Extension Content for anything related to the JED. Extension Content does not include Reviews, ratings, comments and any other text (collectively “Reviews”).
+By submitting Reviews to the JED, you hereby assign all copyright and all other intellectual property rights to OSM. All rights to the JED website, its trade dress, “look and feel” and code remain property of OSM (collectively “JED Property”).
+You agree not to copy, reproduce, download, disseminate, publish or transfer Extension Content, Reviews or JED Property in any form or by any means without prior written permission from OSM. The only exception to this is that developers can use the JED API (coming soon) to copy and reuse their own listing pages, reviews, votes and content.
+All trademarks referenced in the JED are the property of their respective owners.
+2. Submissions
+By contributing any type of Extension Content to the JED, the submitter is granting OSM a worldwide, irrevocable, royalty-free, non-exclusive and limited license to reproduce, edit, publish, translate, and distribute that Extension Content in any medium whatsoever.
+Also, as the owner of the Reviews, OSM has the right to reproduce, edit, publish, translate, and distribute the Reviews in any medium whatsoever. You represent and warrant that: (a) you are the author of the Extension Content or Review and have the right to grant this license or the assignment provided in Section 1; and (b) the Extension Content or Review does not infringe any patent, copyright, trademark, trade secret or other proprietary right of any other party.
+3. General Site Usage
+All extensions, listings and developer sites must comply with the latest version of the Joomla license.
+You must not violate or attempt to violate the security of the JED or interfere or attempt to interfere with the proper functioning of the JED, servers or networks.
+You must not post, upload, email, link to, or otherwise transmit any content that contains any viruses, harmful code, or other computer software or program that may damage or adversely affect the functionality of the JED or impair others’ ability to use the JED.
+You must not use the JED to send unsolicited emails.
+You must not impersonate any person or entity or misrepresent an affiliation with another person or entity.
+Only one account is allowed per person. Users found having multiple accounts will have all extra accounts deactivated.
+4. Listings
+Any person or company is welcome to submit extensions for inclusion in the JED. There are some basic rules that all extensions must comply with to qualify for inclusion. Failure to comply may result in the removal of content. By submitting any form of content, you acknowledge these basic rules.
+4.1 General Rules
+Entries must be licensed as GPL in order to be listed. Additional restrictions may not be placed on top of the GPL. Please note that the GPL does allow developers to charge for their products. Please also note that images, CSS and Javascript files do not need to be licensed under the GPL, but usage cannot be limited.
+The listing name for the extension must be the same name as the XML install file.
+Promotional text should not be part of the listing name.
+Extension-specific listings should contain the parent extension name.
+Links:
+Links must not be shortened or redirected URL's.
+The file download link has to point straight to the download page, even if registration is required. Download links cannot point to a list of extensions.
+Extension demo site links should point to a page that clearly features the extension in a prominent position.
+Developers for non-commercial entries are welcome to host their project at JoomlaCode. Downloads cannot be hosted from torrent websites, warez websites or commercial file hosting websites.
+The following will not be listed:
+Extension-specific listings for extensions not listed in the JED
+Translations
+Templates
+Anything that doesn’t use the Joomla installer (excluding extension specific extensions)
+All extensions must comply with the JED Submission Checklists. A listing that does not comply with the JED Submission checklist is subject to being unpublished immediately.
+The following activities are not permitted on the JED or sites the JED links to:
+Promoting or engaging in illegal activities
+Derogatory and/or malicious content
+Offensive content about race, religion, age, gender or sexual orientation
+4.2 Developer Sites
+Sites must state that the extension is licensed as GPL.
+Sites may not imply in any way that inclusion in the JED constitutes endorsement by Joomla, the JED or OSM.
+4.3 Other Information Concerning Entry Submissions
+You are solely responsible for all content submitted to the JED. Each developer is responsible for ensuring the accuracy of their listing and for keeping their listing up-to-date. The JED team and OSM reserve the right to remove any content that is out-of-date.
+Extension listings that infringe upon one or more of the criteria listed above will not be considered for inclusion in the JED. In such cases, the JED team may choose, but is not obligated, to inform the developer about why their submission was rejected.
+Listings that have been unpublished have a 14 day period to be corrected before being permanently removed.
+Inclusion in the JED is a privilege, not a right, and inclusion is at the sole discretion of the JED team and OSM. Any listing can be removed at any time without notice.
+4.4 Changing Distribution Models
+If a developer changes the listing from free to paid or paid to free, all votes and reviews made before the change will be removed.
+If an extensions requires any form of payment or trade to download it must be listed as "Paid". Any extension that bridges to a commercial service and requires a payment to function must be listed as "Paid".
+4.5 Joomla! Trademarks
+Entries and Developer Sites must comply with the current Joomla! Trademark Policy and not use the Joomla! mark or logo in an unauthorized manner.
+5. Extensions and Forks
+See the Forked Extensions document for more information.
+6. Reviews and Voting
+A review may not contain:
+offensive language or dishonesty
+support questions or bug reports
+commercial disputes
+self-promotional content
+A review must reflect your honest opinion or experience with the listing owner and may not be made in exchange for any type of compensation or benefit, including without limitation free products or services.
+Extension developers may not review extensions that are considered direct competition.
+Employees that work for a company or individual extension developer may not review that extension.
+Acceptance and/or removal of reviews and votes is at the sole discretion of the JED team and OSM.
+7. Suspensions
+The JED and/or OSM will take the following action for any violation of these Terms, as determined in its sole discretion:
+1st violation: the developer’s entire account and listings will be suspended (unpublished) for a minimum of one month.
+2nd violation: the developer’s entire account and listings will be suspended (unpublished) for a minimum of three months.
+3rd violation: the developer’s entire account and listings will be suspended (unpublished) indefinitely. After 12 months the developer may appeal the suspension. Appeals will be reviewed by the JED team with no guarantee that the suspension will be lifted.
+8. Support and Dispute Resolution
+See the support and dispute resolution document for more information. (Currently in-work)
+9. Additional License Terms
+The use of any Joomla! extension is subject the terms and conditions of the relevant developer. Some extensions may contain files (e.g., non-GPL CSS, images or Javascript) that have different license terms. A user is responsible for reviewing and complying with all applicable license terms.
+10. Privacy/Advertising
+Unless required by law, no personal information from JED members will be shared with third parties. OSM will divulge any information collected from developers when required to do so by law. In the event that OSM, or its assets, are acquired by or merged with another entity, your information will be one of the transferred assets. OSM participates in third party advertising programs and allows advertisements (OSM’s and third parties) to be displayed on the JED site. OSM is not responsible for the content of any third party advertisements. For more information concerning these advertisements and our privacy practices, please see our privacy policy.
+11. Disclaimers and Limitation of Liability
+The listings and reviews listed in the JED have been submitted by the community and are for general informational purposes only. Listings do not constitute or imply endorsement, recommendation, or favoring by Joomla or OSM.
+Because the listings and reviews are provided by others, Joomla, OSM, and the JED team cannot be held liable for accuracy of the information. Visitors wishing to verify that the information is correct should contact the parties responsible for creating the content of the resource.
+The information on this website is presented "as is" without warranty of any kind. OSM disclaims all warranties, whether express or implied, including the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall OSM be liable for any damages whatsoever, including, without limitation, direct, special, indirect, consequential, or incidental damages, or damages for lost profits, loss of revenue or loss of use, arising out of your use of this site, even if OSM has been advised of the possibility of such damages.
+Some jurisdictions do not allow the exclusion of certain warranties or limitations on liability. Accordingly, the above limitations may not apply to you. OSM and the JED team reserves the right at any time to modify, suspend or discontinue the JED (or any part thereof) with or without notice, and we are not liable to you or any third party for any modification, suspension or interruption in services.
+12. Governing Law
+Any dispute with respect to the JED shall be governed by the laws of the State of Maryland, excluding its conflicts of the laws and rules. All visitors to the JED submit to the exclusive jurisdiction of the state and/or federal courts of the State of Maryland.
+13. Future JED ToS Updates
+These terms of service may be changed with 30 days notice. Continuing to use the JED after such a notice indicates that you have accepted the new rules. Any new policy changes will be posted on the Joomla! Forum and/or The Joomla! Community Portal before being implemented, and the JED Team will notify all those who have current listings on the JED of any rule change via email. It is your responsibility to keep your contact email up-to-date.
+14. Questions and Contact
+You can find additional information and help by visiting the JED Joomla Documentation. Any questions about these terms of service should be made in the Extensions Directory Forum or through a Support Ticket.
+Knowledgebase
+About the JED
+JED Terms of Service
+Welcome to the New JED
+Contributing Code to the JED
+JED Release Cycle
+Error Codes
+Submission Error Codes
+Unpublished Extensions Error Codes
+For JED Developers
+Submitting an Extension
+Extension Names
+Free vs. Paid Extensions
+Forked Extensions
+Extension Distribution
+Extension Installation Packages
+Backlinks in Extensions
+The Update XML File
+Best Practices: Deter spammers from targeting your extension
+Editing & Deleting Listings
+For JED Users
+Getting Started with the JED
+Extension Types
+Locating Extensions
+Installing Extensions
+Uninstalling Extensions
+Choosing Secure Extensions
+Reviews
+Submitting a Review
+Review Scoring Overview
+Edited, Removed or Unpublished Reviews
+Submission Requirements
+JED Entries Checklists
+Joomla License Guidelines
+The GPL & the JED
+Submission Requirements Made Easy
+Joomla! Update System Requirement
+Joomla! on Twitter
+Joomla! on Facebook
+Joomla! on YouTube
+Joomla! on LinkedIn
+Joomla! on Pinterest
+Joomla! on Instagram
+Joomla! on GitHub
+Home
+About
+Community
+Forum
+Extensions
+Resources
+Docs
+Developer
+Shop
+Accessibility Statement
+Privacy Policy
+Sponsor Joomla! with $5
+Help Translate
+Report an Issue
+Log in
+© 2005 - 2020 Open Source Matters, Inc. All Rights Reserved.
+Joomla! Hosting by Rochen
+×
+We have detected that you are using an ad blocker. The Joomla! Project relies on revenue from these advertisements so please consider disabling the ad blocker for this domain.

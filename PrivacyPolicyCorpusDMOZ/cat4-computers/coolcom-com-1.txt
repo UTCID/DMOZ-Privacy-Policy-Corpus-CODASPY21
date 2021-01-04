@@ -1,0 +1,71 @@
+https://coolcom.com/index.php/policies
+COOLCOM PremiumHelping clients succeed on the internet since 1999At your ServiceThere's no need to know how the internet works when you have the team at COOLCOM working with you. From simple domain help to advice on complex applications, you'll find every base covered under one friendly roof.
+Policies, Processes and Administrative Procedures
+Last Updated: 30 January 2020
+the COOLCOM Group PoliciesBilling, Hosting, Domains, Fees and Contact
+Contact Information and Keeping it Accurate
+All domain renewal notices, hosting renewal notices, order confirmations, invoice copies and failed billing notices will go to your Client Centre contact email.
+It is strongly advised that this be an “outside” email address not associated with Email or Hosting provided in your account.
+Email Whitelisting
+Please “whitelist” any email coming from “coolcom.com” to your registered email account. Today's filters can make mistakes; to hep prevent important information being routed to a spam folder whitelisting is required. (see your email provider and/or consult your email software to learn how to whitelist an email address)
+Please note: Changing your Client Centre contact info does NOT change any contact info for your domain records. That must be done in the WHOIS tab under Manage Domains OR you can request assistance in the Help Desk.
+Admin Fees
+In an increasingly intensive and complex domain and webhosting market, competition has unavoidably moved marketers toward indirect, incomplete and somewhat shrouded pricing offers. It’s always difficult to nail down what is included, what’s not and what you’ll be paying next year… what is considered included service or assistance… what is outside those parameters.
+COOLCOM’s position is that far too much of the IT work involved in this industry is increasingly being shuffled onto the client under the guise of “helpful” How To’s, FAQ sheets and endless instructional videos. Pricing competition and “corporate efficiencies” employed to maximize returns are turning the industry into a self serve business.
+It is only fair then, that COOLCOM’s unique brand of “Do IT for You” services are valued independently when domain and hosting components are being compared at face value. To this end, we will continue to save you the client, time and frustration by simply “Doing it for you.” You’ll agree that this is time better spent on your business or personal tasks rather than teaching yourself yet another set of specialized tasks we have mastered over 15 years.
+The following tiny yet important admin fees will be applied to all accounts in November each year (where appropriate) to allow us to continue to compete price wise on base products and services, yet go above and beyond in making things as easy as possible for you when it comes to making things work. Fees are billed appx 6 month after an account is open and reviewed for accuracy annually:
+Domain Account Admin: $2/yr - name server set-up and application, zone file setup (pointing), custom zone files (Gmail, Microsoft Exchange), canonicals (custom CNAMEs), WHOIS updates, custom MX records
+Hosting Account Admin: $5/yr - set-up all hosting records, ftp assistance and additional accounts (webmaster ftp), email set-up, split accounts (email elsewhere or hosting elsewhere), development site location set-up (Wordpress, Joomla)
+External Domain Addon: $5/yr - domains do not need to be registered through COOLCOM to be used with or added to your hosting account. We will gladly add externally held domains and ensure they operate correctly. While you will be responsible to apply the COOLCOM name servers to the domain record at the domain’s registrar, we will still setup your pointing and zone files for you. The Domain Addon fee both compensates for the lack of license income normally woven into the hosting fee as well as the manual admin tasks.
+Standard DNS Services (All domains Registered via COOLCOM Group)
+COOLCOM provides three nameserver DNS service for no extra charge with all domain registrations. This includes A, CNAME, MX, TXT and SRV records. Domains can also be Re-directed (pointed to another domain) or Aliased (pointed to another domain but show the original). Aliased domains must point to another domain on the COOLpanel.
+Zone files are automatically set for COOLCOM hosting when added to your COOLpanel. They can be edited/changed using the Domains > Zone Editor icon in the COOLpanel, or you can ask for assistance in the Help Desk.
+This system uses:  ns7.coolcom.com, ns77.coolcom.com, ns777.coolcom.com
+Hosting Protection
+COOLCOM employs a regimen of unique access protocols that protect your account from password hammering designed to “break” your account security. We also enforce a high level of password strength to prevent weak passwords being utilized. If you are ever locked out of your account due to repeated incorrect entries, please come to the Help Desk and request assistance.
+Recurring Billing
+All hosting accounts are auto-renewed on their renewal date. Please ensure your credit card is kept up to date. Failed renewals will be re-tried for three days while the account is kept active, and notices of the failed attempts will be sent to the account contact email.
+If the account can not be successfully renewed after three days, the account will then be Suspended and the services taken off line. Re-attempting the renewal will be randomly made, but it is up to the account holder to notify us if they have updated their card info and want their account renewed.
+Accounts not successfully renewed after 10 days are deleted.
+Cancellation of Hosting
+For your convenience and to prevent a disruption of service, hosting accounts are automatically renewed on the expiry date with the card on file in your COOLCOM account. If you wish to cancel a current hosting account and do not want it renewed, please use the facility provided in the Manage Hosting section of your COOLCOM Client Centre.
+Hosting cancellations MUST be filed and received before renewal has been processed. Contact the Help Desk at least five days prior to renewal.
+Hosting cancellations received before the renewal date are processed and account cancelled without further billing
+Hosting cancellations received after the billing date are cancelled without refund.
+Hosting cPanel Access and Authority
+Anyone given access to your cPanel Hosting management is assumed to have been granted authority to act on your behalf. Webmasters and administrators who move domains or point them to alternative services outside of COOLCOM are still responsible for cancelling any recurring hosting or service agreements. Non-cancelled services will be billed normally and the above cancellation rules will apply.
+Client Centre Account Access and Authority
+Anyone given access to your COOLCOM Client Centre account is assumed to have been granted authority to act on your behalf. Webmasters and administrators who move domains or point them to alternative services outside of COOLCOM are still responsible for cancelling any recurring hosting or service agreements. Non-cancelled services will be billed normally and the above cancellation rules will apply.
+Hosting Account Back-Ups
+COOLCOM maintains backups of all servers for emergency purposes, should a server or hard drive fail. These backups do not facilitate replacement of individual hosting accounts.
+Hosting and the .site 99cent Offer
+As a member of our Facebook Group .99cent .site domain and hosting offer the following apply to you.
+The account comes with no obligation to renew
+The account automatically renews if not cancelled 30 days prior to rebilling
+Hosting account renewals are at regular annual hosting rates
+.site domain renewals are at regular .site renewal rates ($4.99)
+Other TLDs can not be swapped out for the .site for a period of one year
+Swapping domains after one year includes a service charge of 25.00
+Free DIY Backups Free backups of your individual hosting account can be made through the Backup or Backup Wizard icons on the COOL cPanel in the Files section. These should be downloaded to a safe location away from your hosting server, such as your local PC or Mac. Backups left in your account folders take up space allocated to hosting, older copies should be removed.
+Advanced Pro BackupsCOOLCOM offers an automated back up system to remote servers that takes a weekly backup of your site, email and database(s)… and stores multiple weekly versions. This is especially useful if replacing a corrupted site with a “sleeping” virus that has activated. Site Replacement/Restoration is INCLUDED. This is superior to an incremental backup. Please check our site or request in the Help Desk for pricing.
+Email
+COOLCOM mail servers provide users with enviable “clean” email rarely found in larger scale hosting companies and megamail suppliers. Rather than using fallible and robotic mail filtering that never quite “gets it right” and often removes legitimate email from your Inbox, this high level of performance is partly accomplished using Sender Verification, which requires email to come from a legitimate email address. That feature alone negates a clear majority of spam which originates from made up and non-existent email addresses. In rare cases where a Senders email server is improperly set-up to not allow verification, a simple note to us in the Help Desk and the sender can be put on a bypass list.
+Email acceptance and rejection is easily checked using the Track Delivery feature of the COOLpanel.
+COOLCOM email servers are also protected from “password hammering” by overseas sources. We limit normal availability of SMTP access to North America. World wide email is still accessible with through webmail or your mail client using specially cleared IP addresses. (see help Desk)
+Mailing Lists
+To preserve mail server integrity for all clients and reduce blacklisting and spamming issues with other providers, COOLCOM does not actively provide “mail list” services or software on our own system. We do have recommended preferred partner services we can offer you and will support. Please ask for assistance on the Help Desk.
+As a preventive measure, COOLCOM mail servers will temporarily suspend an account experiencing an inordinate amount of “bounce back” emails within a fixed period. Therefore, it is essential that you maintain your lists. Regularly clean them of invalid addresses to prevent bounce back or undeliverable email issues which trigger the aforementioned suspensions.
+Domains
+Registration – Domain registration will be attempted after verification of the order and successful charging of the supplied credit card. Once you have received your Invoice copy notifying you of your order being processed, please check the Manage Domains section of your Client Centre to ensure the domain is registered and listed. If it is not showing, let us know immediately in the Help Desk.
+Verification – New ICANN rules require verification of NEW accounts (identified by the Registrant name and contact email address). Upon creation of a new account, please expect an email asking you to verify your contact info. Not completing this action will result in a temporary suspension of the registration until the verification is completed. Domains registered under the same account do not require verification. If you need your confirmation email resent, please ask in the Help Desk.
+Renewal – Renewal notices for domain licenses are sent to your Client Centre contact email address 30 and 7 days before renewal, and a further notice is sent 1-3 days after expiry if not renewed. Unrenewed domains are Suspended for up to 30 days after expiry, during which time they may still be available for renewal. CIRA provides for a 30 day “Grace” renewal period after expiry. ICANN does not guarantee renewability after expiry.
+Auto-Renewal – Domains can be set to “Auto-Renew” in your Client Centre in the Manage Domains section. They must be set to auto-renew at least 31 days before the expiry date.
+In order to cancel auto renewal they must be set to cancel 31 days before renwal.
+Any domain set to auto-renew less than 31 days before expiry will be renewed immediately.
+Any domains cancelling auto-renwal less than 31 days before expirty will be renewed.
+All others will be renewed approximately 7 days before expiry. Please ensure your credit card on file is valid. Please also ensure your domain has been renewed before the expiry date. No system is infallible, and it is your responsibility to verify your license has been successfully renewed.
+If you wish to cancel auto-renewal less than 31 days before expriry, contact the Help Desk at least 7 days before expiry to do so.
+Because auto-renewal is designed to avoid downtime, the process begins 7 days before the domain expired and can then be too late to cancel. All registrations made for .ca domains agree to the full set of CIRA policies. Registrant Presence RequirementsMunicipal Registrant RequirementsMunicipal Certificate of ConsentCIRA Dispute Resolution RequirementsAll registrations made for all ICANN Governed TLDs agree to all ICANN policiesComplete ICANN Policies and Practices
+HideMyWHOIS Privacy – COOLCOM offers a unique in-house WHOIS privacy system to keep your personal info off your domain record in the public WHOIS system. For a one-time fee of CAD$9.95, we will replace your personal info with our contact info and replace the contact email with a unique identifier tied to your account. Email to this account is still received by COOLCOM and checked. All renewal notices for your domain license will still go to your Client Centre contact email. If your domain is ever transferred out of the COOLCOM registry, we will remove the WHOIS info.
+Change of Domain Registrant or Email address ICANN requires confirmation from both the OLD and NEW email addresses when there is a change of Registrant name or contact email. An email will be sent requesting a “click to confirm.” If you have any question or doubt after receiving such a notice, please first let us know in the Help Desk before taking action.
+Hit the Help Desk

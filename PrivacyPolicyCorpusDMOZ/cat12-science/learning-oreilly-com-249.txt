@@ -1,0 +1,25 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch09s03.html#websec2-CHP-9-SECT-3.4
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Cleaning Up After YourselfWhen you use the Internet, you leave traces of the web sites
+that you visit and the information that you see on your computer.
+Another person can learn a lot about the web sites that you have
+visited by examining your computer for these electronic footprints.
+This process of computer examination is called computer
+forensics , and it has become a hot area of research in recent
+years. Special-purpose programs can also examine your computer and
+either prepare a report, or transmit the report over the Internet to
+someone else.Although it can be very hard to remove all traces of a web site
+that you have seen or an email message that you have downloaded, you
+can do a good job of cleaning up your computer with only a small
+amount of work. There are also a growing number of programs that can
+automatically clean up your computer at regular intervals, as we’ll
+see in the next chapter.Browser Cache Each time your web browser attempts to fetch a URL
+from the Internet, it first checks a special directory called the
+browser cache to see if it has a copy of the information that it is about to download. The browser cache can dramatically speed up the process of web browsing. For example, if you are clicking through a web site that has lots of little buttons, each of the buttons only needs to be downloaded once, even though the same buttons might appear on every page. But if another person can gain access to your computer, the browser cache will provide that person with ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

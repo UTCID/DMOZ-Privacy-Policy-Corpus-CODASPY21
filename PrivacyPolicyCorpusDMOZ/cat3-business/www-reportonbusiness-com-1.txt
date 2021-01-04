@@ -1,0 +1,459 @@
+http://www.reportonbusiness.com/privacy-terms/privacy-policy/
+Report on Business - The Globe and Mail
+Skip to main content
+Support Quality Journalism
+Just$1.99
+per week for first 24 weeks
+Give thanks for independent journalismSupport The Globe and Mail. Start Today
+Give thanks for independent journalism
+Just $1.99 per week
+for the first 24 weeks
+Just $1.99 per week for the first 24 weeks
+var select={root:".js-sub-pencil",control:".js-sub-pencil-control",open:"o-sub-pencil--open",closed:"o-sub-pencil--closed"},dom={},allowExpand=!0;function pencilInit(o){var e=arguments.length>1&&void 0!==arguments[1]&&arguments[1];select.root=o,dom.root=document.querySelector(select.root),dom.root&&(dom.control=document.querySelector(select.control),dom.control.addEventListener("click",onToggleClicked),setPanelState(e),window.addEventListener("scroll",onWindowScroll),dom.root.removeAttribute("hidden"))}function isPanelOpen(){return dom.root.classList.contains(select.open)}function setPanelState(o){dom.root.classList[o?"add":"remove"](select.open),dom.root.classList[o?"remove":"add"](select.closed),dom.control.setAttribute("aria-expanded",o)}function onToggleClicked(){var l=!isPanelOpen();setPanelState(l)}function onWindowScroll(){window.requestAnimationFrame(function() {var l=isPanelOpen(),n=0===(document.body.scrollTop||document.documentElement.scrollTop);n||l||!allowExpand?n&&l&&(allowExpand=!0,setPanelState(!1)):(allowExpand=!1,setPanelState(!0))});}pencilInit(".js-sub-pencil",!1);
+The Globe and Mail
+Report on Business
+Member Benefits
+Subscribe
+Register
+Log in
+My account
+Following
+Bookmarks
+Reading history
+Newsletters
+Subscriptions
+Settings
+Help
+My account
+Following
+Bookmarks
+Reading history
+Newsletters
+Subscriptions
+Settings
+Help
+AdChoices
+Canada
+World
+Business
+Investing
+Opinion
+Politics
+Sports
+Life
+Arts
+Drive
+Real Estate
+Watchlist
+Search
+Search
+Quick links
+Horoscopes
+Puzzles
+Member Benefits
+Newsletters
+Globe Shop
+Investigations
+Death Notices (Legacy.com)
+Reader services
+Subscribe
+Following
+Subscriptions
+Settings
+Customer Help
+Contact us
+Log in
+Log out
+Privacy Policy
+Terms & Conditions
+Report on Business
+Streetwise
+Economy
+Technology
+Industry News
+Business Commentary
+International Business
+Small Business
+Careers
+ROB Magazine
+Stars and Dogs
+The Globe’s stars and dogs for the week
+Subscriber content
+TSX
+16,562.81
+28.27 (0.17%)
+16:48 PM, Oct 09
+S&P 500
+3,477.13
+30.30 (0.88%)
+17:59 PM, Oct 09
+DOW
+28,586.90
+161.39 (0.57%)
+17:04 PM, Oct 09
+NASDAQ
+11,579.94
+158.96 (1.39%)
+17:16 PM, Oct 09
+GLOBAL
+3,071.15
+12.02 (0.39%)
+19:30 PM, Oct 09
+Oil
+40.60
+-0.59 (-1.43%)
+17:41 PM, Oct 09
+Gold
+1,926.20
+31.10 (1.64%)
+17:41 PM, Oct 09
+Dollar
+0.76225
+0.00455 (0.6%)
+17:00 PM, Oct 09
+VIX
+25.00
+-1.36 (-5.16%)
+16:44 PM, Oct 09
+TSX 60
+990.95
+-0.33 (-0.03%)
+16:48 PM, Oct 09
+Venture
+732.25
+16.91 (2.36%)
+16:48 PM, Oct 09
+Bitcoin
+11,110.00
+155.00 (1.41%)
+17:41 PM, Oct 09
+corporate diversity
+Why mentorship matters: It may be the key to achieving true diversity in the corporate realm
+We talked to five Black and Indigenous leaders about their struggles to break into business, the mentors who helped them succeed and how they’re extending a hand to the next generation. We also talked to some of those up-and-comers (and one former prime minister) about what they learned from those relationships
+Stepping Up: How one woman’s vision to mentor Black youth has taken flight
+Candies Kotchapaw recruits professionals to serve as role models for Black youth with her project Developing Young Leaders of Tomorrow, Today
+opinion
+We need more than empty talk: Why it’s time for Canada’s CEOs to take real action on discrimination
+Subscriber content
+Fostering diversity is good for business - but it will take concrete policies and consequences
+Rita Trichur
+books
+Karen Gosbee’s tell-all book exposes domestic abuse amid extreme wealth
+Subscriber content
+Addiction, adultery, and physical abuse mired decades of a seemingly perfect life for the young family of Calgary banking titan George Gosbee
+rob magazine
+From the archives: The spectacular rise and tragic fall of George Gosbee
+Subscriber content
+The wealthy oil patch financier seemed to have it all. Beneath the surface, friends and family say he fought alcoholism and mental illness to the end
+From the archives: George Gosbee moved money from company to personal accounts, trustee alleges
+Subscriber content
+Gosbee, who died by suicide in November, 2017, borrowed US$5-million from a firm with ties to Alberta billionaire Fred Mannix to finance his stake in the Arizona Coyotes seven years ago
+Economy
+Canadian job growth accelerates in September, but ‘considerable slowdown’ is coming
+About 378,000 jobs were created last month, more than double market forecasts. The second wave of COVID-19 clouds the outlook
+Small businesses can apply directly for federal rent-relief, bypass landlords, in revamped rules
+Subscriber content
+Changes include widened access to federal wage subsidy program
+opinion
+Basic income: If Big Business supports it, be skeptical
+Subscriber content
+A basic income is a lot less moral – and practical – than meets the eye
+Eric Reguly
+More stories below advertisement
+Strong performance prompts two of Canada’s largest law firms to reverse pandemic pay cuts for staff
+October 9
+Updated
+Air Canada agrees to acquire Transat AT at a reduced price
+October 10
+Updated
+Major family-controlled companies outperform widely-held corporations and are led by more women
+Subscriber content
+October 9
+Updated
+U.S. judge rules Apple can bar ‘Fortnite’ from App Store
+October 9
+Updated
+Huawei ousted from heart of EU as Nokia wins Belgian 5G contracts
+October 9
+Updated
+Walmart going on hiring spree, adding 10,000 people across the country
+October 9
+Updated
+Trailing commissions class action against TD Asset Management certified
+October 9
+Updated
+Ottawa hasn’t hit a debt wall just yet, but things are tight
+Subscriber content
+October 9
+Updated
+British Columbia
+Vancouver restaurants thankful as takeout turkeys fly off the shelves
+ROB opinion
+You have to choose: Do you value time or money?
+Subscriber content
+Harvey Schachter
+Climate-related disclosure should start with governance
+Laura Zizzo
+Ottawa’s ‘superclusters’ can offer much more than just job creation
+Catherine Beaudry and Laurence Solar-Pelletier
+The pandemic has shown that immigrants are an indispensable part of our work force – but they have more to offer
+Adwoa K. Buahene
+For the Bank of Canada, what does the link between monetary policy and inequality mean?
+Jeremy Kronick
+View more
+Featured
+If the worst is over for Canadian bank stocks, here’s a strategy
+Subscriber content
+October 9
+Updated
+Financial Facelift
+Can Katarina, 64, afford to quit work? If she keeps working, will it affect her OAS?
+October 9
+Updated
+Managing
+The danger of over-relying on experts or experience
+Subscriber content
+October 10
+Updated
+Pitching in: Victoria Grandmothers for Africa group holds virtual bike ride to raise money for Stephen Lewis Foundation
+October 9
+Updated
+More stories below advertisement
+Streetwise
+Canada’s second-wave priority: Protect small business, RBC CEO says
+Subscriber content
+Options Dave McKay favours include an HST holiday for shopping at Canadian businesses, rebates on certain categories of spending, greater forgiveness of government-backed loans to business and a carbon tax on imported goods
+Cineworld shutdown heightens movie-theatre industry fears
+Britain’s Cineworld, one of the biggest exhibitors in the industry, said it was temporarily closing theatres, warning that in the industry is becoming ‘unviable’
+Well Health CEO sees Canada’s health clinic market as ripe for technological disruption
+Subscriber content
+Well’s share price has risen nearly 350 per cent this year to $6.98
+Power Corp.'s Sagard Holdings buys majority stake in wealth manager Grayhawk
+Subscriber content
+Portfolio management firm Grayhawk Investment Strategies has about $800-million in assets under management that serves high- and ultrahigh-net-worth households
+Vancouver’s BroadbandTV moves toward IPO as founder seeks to buy out Bertelsmann unit’s controlling stake
+Subscriber content
+Ms. Rafati founded BroadbandTV in 2005, early in the internet video boom, nine years after moving to Canada from her native Iran to study computer science engineering
+Financial Services
+London Stock Exchange selling Borsa Italiana to Euronext for $5-billion
+Citigroup pays $400-million U.S. fine, agrees to fix long-term lapses
+Morgan Stanley acquiring asset manager Eaton Vance for $7-billion
+View more
+Energy & Resources
+Norway oil strike ends as union, companies agree wage deal
+Subscriber content
+Hurricane Delta shuts most U.S. offshore oil output in 15 years
+Subscriber content
+Oil prices slip more than 1% after Norway oil worker strike ends
+Subscriber content
+View more
+Search stocks, ETFs and Commodities
+My watchlist
+My portfolio
+Market data
+Investment ideas
+ROB Magazine
+Economy
+Canadian job growth accelerates in September, but second wave should lead to ‘considerable slowdown’
+Canadian dollar climbs to three-week high after strong jobs data
+Canadian job growth accelerates in September, but ‘considerable slowdown’ is coming
+View more
+Tech, Telecom & Media
+French call-centre company Webhelp to open Montreal office
+AMD reportedly in advanced talks to acquire rival Xilinx in deal worth more than $30-billion
+U.K. parliamentary committee says it has evidence Huawei colludes with Beijing
+View more
+ROB magazine
+How Canada’s Top Growing Companies turned ideas into products
+Subscriber content
+Lessons from successful businesses across Canada
+Download the October 2020 edition of Report on Business magazine
+Subscriber content
+Read the full issue, exclusively for subscribers
+How McCain Foods CEO steered the French fry giant through the COVID-19 challenge
+Subscriber content
+In his first major interview since joining McCain Foods, CEO Max Koeune talks about the company’s pandemic preparations, how it made sure its farmers had a place to sell their spuds and the future of agriculture
+For Smash + Tess, feel-good clothes with a community-minded message drive success
+Subscriber content
+They make the pandemic uniform of choice for many women. But success sprung from using social media as a listening device, not a megaphone
+Why RBC’s Chris Beer is betting on gold
+Subscriber content
+RBC Global Asset Management’s Chris Beer is betting on Barrick Gold, and on gold itself. Is gold a metal only a boomer could love?
+Latest Business news
+Air Canada agrees to acquire Transat AT at a reduced price
+October 10
+Updated
+Managing
+The danger of over-relying on experts or experience
+Subscriber content
+October 10
+Updated
+Major family-controlled companies outperform widely-held corporations and are led by more women
+Subscriber content
+October 9
+Updated
+Karen Gosbee’s tell-all book exposes domestic abuse amid extreme wealth
+Subscriber content
+October 9
+Updated
+U.S. judge rules Apple can bar ‘Fortnite’ from App Store
+October 9
+Updated
+Streetwise Newsletter
+Streetwise newsletter: Best reads of the week
+Subscriber content
+October 9
+Updated
+National Post’s Toronto newsroom staff votes to unionize
+October 9
+Updated
+White House ups coronavirus aid offer, resumes talks with Nancy Pelosi
+October 9
+Updated
+Video
+Amazon unveils home drone security camera
+Amazon announced a drone for recording security video inside homes as it rolled out new products from Ring, the smart doorbell and camera company it bought in 2018.
+Play video
+Federal government to ban six disposable plastic products
+Environment Minister Jonathan Wilkinson says the federal government plans to ban six types of single-use plastic products, including shopping bags, straws and cutlery, each of which has readily available alternatives.
+Play video
+Searching for microplastics within the human body
+Rick Smith decided to conduct an experiment on himself to see if he could measure an increase of microplastics in his body. The author and Executive Director of the Broadbent Institute says the lab-based tests on his stool samples are the first of their kind in North America to search for traces of the tiny plastic particles in people. Microplastics have been discovered circulating in the environment and are linked to health concerns.
+Play video
+How long will your kids cost you money?
+Rob Carrick and Roma Luciw, co-hosts of the The Globe’s new personal finance podcast Stress Test, answer questions during an Instagram live on the financial pressure of raising children. Together they discuss RESPs, surging grocery bills and parents supporting their kids into their 20s.
+Play video
+Video: Drawing Conclusions: How much does it cost to break a mortgage?
+Personal finance expert Preet Banerjee explains the two formulas you need to know: Three Months' Interest and Interest Rate Differential (IRD)
+Play video
+Home buying and mortgage rates in the wake of COVID-19
+Rob Carrick and Roma Luciw answer questions during an Instagram live on how the coronavirus pandemic has impacted housing and your financial health. Here are some highlights from their Q&A.
+Play video
+Light work: How a roll of film is processed
+In the lab at Toronto's Downtown Camera, the staff is busy fulfilling developing and scanning jobs for photographers who are shooting on film. Here's a peek at how they processed a roll of Portra 800 120mm for The Globe's story on the expansion of the store to meet the growth of film usage.
+Play video
+In case you missed it
+Investor Clinic
+Which utilities ETF is best for powering your portfolio?
+Subscriber content
+TD subsidiary launches Tesla battery project to support power grid
+Subscriber content
+Wineries set to expand facilities left high and dry
+Opinion
+With banks taking a hard look at corporate clients, oil patch credit fears loom large
+Subscriber content
+More stories below advertisement
+More business news
+Marketing
+Resume Review
+Can a fresh grad land her first marketing job during a pandemic?
+Subscriber content
+Kraft Heinz aims to realize $2-billion of supply-chain savings by 2024
+Subscriber content
+The power of direct mail in the digital age
+View more
+International Business
+Two former eBay employees plead guilty in harassment scheme
+Dutch legal adviser criticizes plan for Unilever ‘exit tax’
+Allied Universal joining the hunt for G4S private security firm
+View more
+Small Business
+How a Montreal chatbot provider is using CRM to drive revenue
+Throw your marketing plan out the window in times of crisis
+COVID-19 crisis forces small businesses to get creative
+View more
+Careers
+The Ladder
+Restaurateur Joelle Parenteau: ‘We want to be known by one thing and doing one thing well’
+Power Points
+You have to choose: Do you value time or money?
+Subscriber content
+Resume
+Résumé review: Can this customer support specialist find work after a year of unemployment?
+Subscriber content
+View more
+ROB Features
+Executive Compensation
+Board Games
+Government Funding
+Non-profit Organizations
+Top 1000
+Big Deals
+Globe DataStore
+Reporters and Columnists
+2019 Robo-advisory Guide
+Research Reports
+Online Broker Rankings
+Sign Up for Business and Investing newsletters
+Energy
+Careers
+Top Business: Morning Edition
+Top Business: Evening Edition
+Streetwise
+Report on Small Business
+Tech, Telecom and Media
+Carrick on Money
+Globe Investor
+Market Update
+All market data (will open in new tab) is provided by Barchart Solutions. Copyright © 2020. Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice. For exchange delays and terms of use, please read disclaimer (will open in new tab).
+Terms & Conditions
+Community Guidelines
+Privacy Policy
+Disclaimer
+Skip footer navigation
+Subscribe
+Digital + Home Delivery
+Digital Access
+Globe2Go
+The New York Times
+Globe Email Newsletters
+Gift Subscription
+Business Services
+Advertise with Us
+Group Subscriptions
+Content Licensing
+DataStore
+Report On Business Top 1000
+Globe Event Centre
+Contact Us
+Address and Phone Number
+Public Editor
+Staff
+Staff PGP Directory
+SecureDrop
+Submit an article
+Reader Services
+My Globeandmail.com Account
+Technical Support & FAQs
+Manage my home delivery
+Manage my privacy preferences
+Manage my advertising preferences
+Member Benefits
+Reader Services
+My Globeandmail.com Account
+Technical Support & FAQs
+Manage my home delivery
+Manage my privacy preferences
+Manage my advertising preferences
+Member Benefits
+Reader Services
+My Globeandmail.com Account
+Technical Support & FAQs
+Manage my home delivery
+Manage my privacy preferences
+Manage my advertising preferences
+Member Benefits
+About Us
+Company Information
+Work at The Globe
+Accessibility Policy
+Editorial Code of Conduct
+Sustainability
+Licensing & Permissions
+Election Advertising Registry
+Return to start of footer navigation
+© Copyright 2020 The Globe and Mail Inc. All rights reserved.
+351 King Street East, Suite 1600, Toronto, ON Canada, M5A 0N1
+Phillip Crawley, Publisher
+To view this site properly, enable cookies in your browser. Read our privacy policy to learn more.
+How to enable cookies

@@ -1,0 +1,28 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/apbs03.html#websec2-APP-B-SECT-3.3
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+SSL/TLS ProtocolsSSL and TLS protocols are specific types of messages
+that are sent using the record layer. The SSL v3.0/TLS standard
+defines three protocols:The Handshake protocol, which performs the initial key
+negotiation.The Alert protocol, which sends important messages about the
+state of the SSL/TLS connection from one side to the other.The ChangeCipherSpec protocol, which changes the encryption
+system currently in use.The application data protocol, which sends user data.Handshake ProtocolThe SSL Handshake protocol is used to authenticate the SSL
+server to the client (and optionally the client to the server) and
+to agree upon an initial encryption algorithm and keys. The
+Handshake protocol is described in the next major section.Alert Protocol Alerts are a specific type of message that can be
+transmitted by the SSL/TLS record layer. Alerts consist of two
+parts: an AlertLevel and an AlertDescription. Both are coded as
+single 8-bit numbers.The SSL v3.0 and TLS 1.0 specifications define two alert
+levels.Alert levelLevel nameMeaning1WarningSSL warnings indicate a problem that is not
+fatal.2FatalSSL fatal alerts immediately terminate the
+current SSL session.SSL v3.0 and TLS 1.0 define the following alerts.SSL alert numberTLS alert numberAlert nameMeaning00 close_notify
+Indicates that the sender will not send any
+more information. If a close_notify is
+sent with a warning alert level, the session may be resumed.
+If a close_notify is sent with a fatal alert level, the session may ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

@@ -1,0 +1,51 @@
+http://ipinfo.info/html/privacy-check.php
+162.158.186.192
+Home
+IP Location API
+IP Checker
+Privacy Check
+IP Tools
+Anonymous Surfing
+Anonymous Email
+Geolocation
+Remote Control
+Net Management
+Testvirus
+TCP/IP Ports
+FAQ
+Links
+Privacy Statement
+This tool checks what security related information is exposed by your web browser to any website that you visit. By accessing this page via an anonymizing proxy or any other internet privacy solution you can judge how effectively your identity is hidden. Items marked with an asterisk *) will most likely be recorded by web servers. In addition to these values, the exact access time, login-name (if you have authenticated) and cookies are also routinely logged.
+REMOTE_ADDR *)
+162.158.186.192
+IP Address of the host from which we received the http request for this page.
+DNS (REMOTE_ADDR)
+162.158.186.192
+Result of our reverse DNS lookup...
+REMOTE_HOST
+...and the name given to us directly.
+HTTP_VIA
+Proxy servers may identify themselves with these addresses or names.
+HTTP_CLIENT_IP
+Proxy claims he is acting on behalf of this IP Address (e.g. your PC)
+DNS (HTTP_CLIENT_IP)
+Reverse DNS lookup of this address
+HTTP_X_FORWARDED_FOR
+72.182.10.230
+Proxy claims he is acting on behalf of these hosts, other proxies, or your PC
+HTTP_USER_AGENT *)
+Python-urllib/3.8
+Web browser type and operating system. This alone might be sufficient to identify your PC within a LAN!
+HTTP_ACCEPT
+Preferred MIME types
+HTTP_ACCEPT_LANGUAGE
+Preferred language
+HTTP_ACCEPT_ENCODING
+gzip
+Preferred encoding
+HTTP_ACCEPT_CHARSET
+Preferred character set
+HTTP_REFERER *)
+Website, from which you were linked (referred) to this page.
+IP Address info ressources - The ultimate place  to find out your public and private IP address - © 201 GEOTEK IT-Outsourcing
+[Home] [Privacy Check] [IP Checker] [Anonymous Surfing] [Anonymous Email] [Testvirus] [Geolocation 2] [VNC remote control] [IP Buttons] [TCP/IP Ports]

@@ -1,0 +1,39 @@
+http://word2cleanhtml.com/about#privacy
+Convert Word documents
+to Clean HTML
+Word2cleanhtml cleans up HTML pasted from Word documents. It
+applies filters to fix various things that Microsoft Office puts in
+its HTML and gives you a well formatted result that you can paste
+directly into a web page or content editing system.
+Your Privacy
+All documents converted to HTML are secured in transit via TLS.
+The HTML conversion process is completely automated and nothing is stored on the server.
+We never see your document and no copy is kept of your data.
+We use Google analytics to help us monitor usage. Personally
+identifiable information, for example your IP address, is
+excluded.
+If you file a bug report then the details you choose to include
+(your email, and optionally a copy of your document) is emailed
+to us. We only use this information for the purpose of diagnosing
+and fixing bugs on this site.
+Help! Where have my fonts/colours/effects gone?
+Most formatting information is stripped out, leaving just the
+content and the structure (headings, paragraphs, lists etc).
+This is intentional. The way Microsoft Word adds font and colour
+information is generally not appropriate for web or ebook
+publishing. If you are going to use the HTML in a website you
+should create separate stylesheets that add the styles you want.
+Is there a desktop/offline/app version?
+I don't have the resources to produce and support a desktop version
+at the moment.
+Who can I contact about the site?
+My name is Olly Cope and I maintain this site.
+You can contact me if you have any questions or comments about this site.
+I'm also a web developer specializing in Python.
+You can find out about hiring me as a freelance Python developer here.
+How can I donate?
+Word2cleanhtml is a free service and I'd like to keep it so. If you would like to say thanks, you can make a small contribution to the author of this site.
+Contribute whatever you feel this is worth to you. Most people give around $15
+$10$15$20$50$70
+other
+homeaboutapicontact© 2007–2020 Olly CopePython Web Development by Olly CopeDesign and illustration by Aurore LefevrePrivacy

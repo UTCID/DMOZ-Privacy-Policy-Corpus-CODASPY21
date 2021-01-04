@@ -1,0 +1,432 @@
+https://www.comparitech.com/blog/vpn-privacy/how-to-encrypt-email/
+Menu
+Close
+VPN
+By Use
+Netflix
+Kodi
+Torrenting
+Hulu
+Sky Go
+Gaming
+BBC iPlayer
+Tor
+Best overall
+By OS/Device
+Mac
+Windows
+Linux
+Windows 10
+Firestick
+iPhone and iPad
+Android
+Windows Phone
+DD-WRT Routers
+By Country
+China
+Japan
+US
+UK
+Canada
+Australia
+Germany
+France
+UAE & Dubai
+Guides
+Fastest VPNs
+Cheapest VPNs
+Free VPNs
+How to access the deep web
+Is torrenting safe and legal?
+Build your own VPN
+Facebook privacy and security
+How to encrypt email
+How to stay anonymous online
+See all
+Reviews
+ExpressVPN
+NordVPN
+IPVanish
+PrivateVPN
+StrongVPN
+Cyberghost
+PureVPN
+Surfshark
+See all
+Antivirus
+Online backup
+Streaming
+Kodi
+Plex
+Sports Streaming
+TV Streaming
+IPTV
+Blog
+VPN & Privacy
+Cloud and Online Backup
+Information Security
+More Comparisons
+Password Managers
+Identity Theft Protection
+Usenet
+Privacy & Security Tools
+Internet Providers
+Parental Control Software
+Net Admin Tools
+Data Recovery Software
+Crypto
+Utilities
+BlogVPN & PrivacyHow to encrypt email (Gmail, Outlook iOS, OSX, Android, Webmail)
+We are reader supported and may earn a commission when you buy through links on our site
+How to encrypt email (Gmail, Outlook iOS, OSX, Android, Webmail)
+If you are not encrypting your email it is vulnerable to hackers, identity thieves and snooping government agencies. This tutorial will walk you through how to encrypt your email in step-by-step process.
+Paul Bischoff
+TECH WRITER, PRIVACY ADVOCATE AND VPN EXPERT
+@pabischoff UPDATED: June 19, 2020
+Email was one of the earliest forms of communication on the internet, and if you’re reading this you almost undoubtedly have at least one email address. Critics today decry the eventual fall of email, but for now it’s still one of the most universal means of communicating with other people that we have.
+One of the biggest problems with this cornerstone of electronic communication is that it isn’t very private. By default, most email providers do not provide the means to encrypt messages or attachments. This leaves email users susceptible to hackers, snoops, and thieves.
+So you want to start encrypting your email? Well, let’s start by saying that setting up email encryption yourself is not the most convenient process. Not only must the sender have the means to encrypt an email, but the recipient of your encrypted email must have the means to decrypt it. You don’t need a degree in cryptography or anything, but it will take a dash of tech savvy. We’ll walk you through the process in this article.
+Contents [hide]How email encryption worksTypes of email encryptionEncrypting email with OutlookEncrypting email on iOSOSX email encryptionAndroid email encryptionWebmail encryption (Gmail)Burner email addressesBest practices for protecting your emailAlternative email encryption appsBe wary of encrypted email apps that don’t use S/MIME or PGP/MIME
+How email encryption works
+Encryption, put simply, is no more than scrambling up the contents of a message so that only those with a key can decrypt it. Sort of like those puzzles you did in school where every letter of the alphabet had to be converted to some other letter of the alphabet so as to decode the final message. Computers make the scrambling far more complex and impossible for a human to crack by hand. When you encrypt an email, its contents are scrambled, and only the recipient has the key to unscramble it.
+To make sure only the intended recipient can decrypt the message, email encryption uses something called public key cryptography. Each person has a pair of keys–the digital codes that allow you to encrypt and decrypt messages. Your public key is stored on a key server where anyone can find it, along with your name and email address. Conversely, you can find other people’s public keys on keyservers to send them encrypted email.
+When you encrypt an email, you use the recipient’s public key to scramble the message. Due to the technology behind this type of cryptography, the public key cannot be used to decrypt it. The email can then only be decrypted by the recipient’s private key, which is stored somewhere safe and private on his or her computer.
+Note that you cannot send encrypted email to someone without access to their public key. We’ll talk about a couple different types of email encryption and explain how key sharing works in each.
+Types of email encryption
+There are two main types of email encryption methods you need to know exist: S/MIME and PGP/MIME. In order for the recipient to decrypt an email encrypted by the sender, both parties must use the same type of encryption.
+S/MIME is built into most OSX and iOS devices. When you receive an email sent from a Macbook or iPhone, you’ll sometimes see a 5-kilobyte attachment called “smime.p7s”. This attachment verifies the identity of the receiver so only he or she can read the email.
+Recipients must be in sender’s organization or have received at least one signed email from the sender in the past
+S/MIME relies on a centralized authority to choose the encryption algorithm and key size
+Easy to maintain
+Harder to set up with web-based email clients like Gmail
+More widely distributed thanks to Apple and Outlook built-in support
+The other heavyweight in email encryption is PGP/MIME, which is what we’re going to focus on in the latter part of this tutorial.
+Recipient must have both public and private encryption keys, and the public key must be available to sender
+Relies on a decentralized, distributed trust model
+Fairly easy to use with web-based email clients
+Free to get a certificate, which S/MIME is usually not (you buy an S/MIME certificate when you buy an iPhone or Macbook)
+Choose how you encrypt and how well-encrypted the messages you receive must be
+Not widely supported by email clients, so requires third-party tools
+This makes PGP/MIME cheaper and more flexible, but before we get into that, we’ll look at the S/MIME encryption features built into Outlook and Apple products.
+Encrypting email with Outlook
+Before you start sending secret admirer notes on Outlook, a couple requirements stand in your way. The first is that you must have a digital certificate. If you don’t already have a digital certificate, either one you created or from your organization, then you’ll need to create one:
+Go to File > Options > Trust Center > Trust Center Settings > Email Security, Get a Digital ID.
+Choose which certification authority you want to receive a digital ID from (we recommend Comodo).
+You will receive your digital ID in an email.
+Now that you have a digital certificate/ID, follow these instructions to get it into Outlook:
+Select Tools > Options and click the Security tab
+Input a name of your choice into the Security Settings Name field
+Make sure S/MIME is selected on the Secure Message Format box
+The Default Security Setting should be checked
+Under Certificates and Algorithms, go to the Signing Certificate section and click Choose
+In the Select Certificate box, choose your Secure Email Certificate if it hasn’t been selected by default
+Check Send these Certificates with Signed Messages
+Click OK to save your settings and return to Outlook
+Okay, so now you’ve got a digital signature to put on your emails, but they won’t appear by default. To attach your digital signature:
+Click New Message
+Go to Tools > Customize and click the Commands tab
+In the Categories list, choose Standard
+In the Commands list, click Digitally Sign Message
+You can click and drag the listing onto your toolbar, so from now on just click that to add your digital signature
+While we’re at it, click and drag Encrypt Message Contents and Attachments onto the toolbar as well
+At this point we want to remind you that digitally signing an email is not the same as encrypting it. However, if you want to send someone an encrypted message on Outlook, that person needs to have sent you at least one email with their digital signature attached. This is how Outlook knows it can trust the sender.
+Conversely, if you want to receive an encrypted email from someone else, you’ll need to send them one unencrypted email first with your digital signature on it. This is a tedious downside to S/MIME. You can digitally sign your email just by clicking the new Sign button before sending.
+Now that you have each other’s digital signatures and certificates saved into your respective key chains (address books), you can start exchanging encrypted emails. Just click the Encrypt button that we added before hitting send, and that’s all there is to it!
+Encrypting email on iOS
+S/MIME support is built into the default email app on iOS devices. Go into the advanced settings, switch S/MIME on, and change Encrypt by Default to Yes. Now when you compose a new message, lock icons will appear next to recipients’ names. Simply click the lock icon closed to encrypt the email.
+iOS consults the global address list (GAL), a sort of keyserver for S/MIME certificates, to find contacts in your exchange environment. If found, the lock icon will be blue.
+You’ll probably notice a red lock icon next to some recipients’ email addresses. This means they are either not in your exchange environment (e.g. you don’t work at the same company) or you haven’t installed that person’s certificate, and you cannot send them encrypted messages. In this case, the process is similar to Outlook above. That person needs to send you at least one email with a digital signature attached. The option to attach signatures to your emails by default is found in the same advanced settings menu as the encryption options.
+When you receive that email, do the following:
+Click the sender’s address
+A red question mark icon will appear indicating the signature is untrusted. Tap View Certificate
+Tap install. When done, the install button will change colors to red and say “Remove.” Click Done on the top right corner.
+Now when you compose a message to that person, the lock icon will be blue. Tap it to close the lock and encrypt your message.
+OSX email encryption
+To send encrypted messages in the default mail program in Mac OSX requires the same condition as iOS and Outlook: you must first have the recipient’s digital signature stored on your device. When you compose a message and type in the recipient’s email, a checkmark icon will appear to show the message will be signed.
+Next to the signature icon, a lock icon also appears. Unlike iOS where you can select which recipients will receive encrypted email and which don’t, OSX is an all-or-nothing affair. If you don’t have the certificate for all of the recipients, the email cannot be encrypted.
+Remember to sign emails only after you’ve finished writing them. If it’s been altered, the certificate will show up as untrusted.
+Android email encryption
+On Android, you’ve got a couple options for how to encrypt your email. The CipherMail app allows you to send and receive S/MIME encrypted mail using the default Gmail app and some 3rd-party apps like K-9. It follows the same certificate rules as what we already discussed above.
+The other option is to use PGP/MIME, which requires both an email app and a keychain to store certificates. PGP requires a bit more setup, but you don’t need to receive someone’s digital signature in advance to send them encrypted email.
+OpenKeychain is a simple and free keychain tool for storing other people’s certificates and PGP public keys. It works well with K-9 Mail, but some other email apps might also be compatible.
+In OpenKeychain, you can create your own public and private keys. Input your email address, name, and password, and it will generate these keys for you. If you have an existing key, you can import it. To use a generated key with other devices and apps, you may export it.
+OpenKeychain also helps you search for other people’s public keys online so you can send them encrypted email. After you’ve added someone’s public key to your keychain, they will be saved for more convenient use later.
+To use OpenKeyChain with an email app, go into the email app’s settings and make OpenKeyChain your default OpenPGP provider. This process varies from app to app, but it should just take a bit of digging through settings menus to find it. Not all email apps (including Gmail) will support encryption, however.
+Webmail encryption (Gmail)
+For web-based email clients like Gmail, we recommend a PGP/MIME encryption solution, as they are far easier to incorporate than S/MIME. For the purposes of this tutorial, we’re going to use a Chrome extension called Mailvelope with Gmail. Most browser extensions work in a similar manner, however, and follow the same basic principles. You can also consider EnigMail, GPGTools, and GNU Privacy Guard.
+To get started, install the extension and open the options menu. Start by generating your own key: enter a name, email, and password and click Generate. Most email encryption extensions come with a built-in key generator and key ring. If you already have a key, just select the option to import it via copy and paste.
+Now you’ve got an encryption key, but it doesn’t do much good if no one can find your public key to send you encrypted mail. You can upload your public key to a keyserver. We suggest MIT’s keyserver because it’s popular, free, and easy to use.
+In the Mailvelope settings, navigate to Display Keys and click on the one you just made.
+Go to Export to see the plain text of your public key. Copy it to your clipboard.
+Head to the MIT PGP Keyserver and paste your key into the “Submit a Key” field and hit submit. Now go back to the MIT keyserver homepage and search the name you entered. You should see your key listed.
+Take note of the key ID, which is displayed both in the Mailvelope settings and on the MIT listing. This is useful if you have the same name as someone else on the keyserver because it serves as a unique identifier. Journalists, for instance, often publish their key ID onto their online profiles and social media so sources know for certain that they are emailing the right person.
+While we’re on the MIT keyserver site, you can use it to search for the public keys of others. Click on the key ID of the person you are searching for to display the plain text of their key. Copy it and paste it into the “import” section of Mailvelope to add it to your keyring.
+Now that you’ve added recipients to your key ring and made your own public key available to others, you can start sending and receiving encrypted mail. Mailvelope adds a button to the Gmail composer that opens another window where you can type out the message you want to encrypt. When you’re done, hit the encrypt button, choose the recipient, and transfer the encrypted text into the email. You can add unencrypted text in the email as well, but don’t tamper with the encrypted text.
+When you receive an encrypted email, the browser extension you chose should automatically recognize it and offer to decrypt it. The recipient will need an extension or some sort of PGP decryptor app on their end. In Mailvelope’s case, I just click the icon that appears hovering over the encrypted text, enter my password, and voila!
+The downside to Mailvelope, and indeed most web-based encryption extensions, is that they don’t encrypt attachments. You can use Gnu Privacy Guard to encrypt attachments with PGP before uploading them, which allows you to encrypt using the same key pair. Or you can opt for any one of these file encryption apps.
+Burner email addresses
+Encryption only hides the content of the message, not the sender’s email address. For any number of reasons, a time may come when you need to send an email anonymously to hide your identity. To do this, a few burner email services will give you a temporary “fake” email address.
+Guerrilla Mail is our top choice. You can set up a disposable email address from which you can send and receive messages. It includes a password manager so you don’t have to memorize passwords for multiple burner accounts. Best of all, it’s completely web-based with no registration required, which makes hiding your identity that much more effective.
+Zmail is another solid option for sending fake email if you prefer a desktop client rather than a web app.
+Best practices for protecting your email
+Nine out of 10 viruses that infect computers come from email attachments. No level of encryption will protect you from being careless. It’s therefore very important to scan all email attachments before opening them, especially from senders you don’t recognize. Viruses disguised as Microsoft Office documents are especially common. Many email clients, including Gmail, will automatically scan attachments for you, but others will require you do so manually.
+Don’t click on links in emails from unreliable sources. In fact, just don’t open emails altogether if they don’t look trustworthy. A spam blocker will go a long way toward avoiding these.
+If you email a large group of people, use BCC so spammers can’t get a hold of the list. Conversely, if someone includes you in a long list of CC’ed email addresses, don’t hit “reply all” without carefully considering the alternatives.
+Finally, set a strong password on your email account. Read through our guidelines if you’re not sure what constitutes a strong password  or use a password strength checker if you’re still unsure how strong yours is.
+Related: Cyber security statistics
+Alternative email encryption apps
+If fiddling with certificates and key pairs sounds like too much trouble, you can use an off-the-shelf encrypted email client.
+Tutanota is one such secure email service, with apps for mobile and a web mail client. It even encrypts your attachments and contact lists. Tutanota is open-source, so it can be audited by third parties to ensure it’s safe. All encryption takes place in the background.
+Hushmail is a paid web-based email client that allows you to send encrypted email to anyone even if recipients don’t have any email decryption tools. Recipients will receive an email notification to let them know they need to visit the Hushmail site, enter the code provided in the notification, and then correctly answer your challenge question. Check out our full tutorial on how to use Hushmail.
+While we can vouch for Tutanota and Hushmail, it’s worth mentioning that there are a lot of email apps out there that claim to offer end-to-end encryption, but many contain security vulnerabilities and other shortcomings. Do your research before choosing an off-the-shelf secure email app.
+Be wary of encrypted email apps that don’t use S/MIME or PGP/MIME
+Many apps and email services out there promise email encryption but don’t use S/MIME or PGP/MIME. These are indeed much easier and faster to set up, but be aware that they roll their own encryption and may not strive for the same privacy standards. SafeGmail and Virtru are examples of these, and we don’t recommend them.
+We encourage you to upload your public PGP key to a keyserver, but it’s not required. Instead, you can just send the plain text of your public key to the person(s) that you want to receive encrypted emails from.
+Email encryption provides a secure means of sending messages containing sensitive material as well as a means for others to send you sensitive material. Journalists use it to correspond confidentially with sources. Businesses use it to relay trade secrets and classified documents. Lawyers use it to keep sensitive client and case information safe. You get the idea.
+In our opinion, email encryption is something you should have readily available when the need arises, but it’s not necessary for everyday communication.
+See also: Can your employer read your personal emails?
+Related: Looking for a VPN to protect your privacy? See our list of the best VPN services.
+Black Friday VPN Deals EXTENDED
+68% off + 3 mths FREEGet Deal >
+Save 83%Get Deal >
+3 Months FREEGet Deal >
+What’s in this article?How email encryption worksTypes of email encryptionEncrypting email with OutlookEncrypting email on iOSOSX email encryptionAndroid email encryptionWebmail encryption (Gmail)Burner email addressesBest practices for protecting your emailAlternative email encryption appsBe wary of encrypted email apps that don’t use S/MIME or PGP/MIME
+Latest Guides
+Surveillance camera statistics: which cities have the most CCTV cameras?
+August 15, 2019 / by Paul Bischoff
+Guide to using public wifi safely and securely
+October 9, 2018 / by Osman Husain
+Popular Posts
+10 Best SFTP and FTPS Servers Reviewed for 2020
+February 27, 2019 / by Jon Watson
+Best VPNs for Netflix: Get any version of Netflix anywhere
+January 5, 2019 / by Paul Bischoff
+10 Best VPNs for Torrenting Safely and Privately in 2020
+January 1, 2019 / by Paul Bischoff
+How to make your own free VPN with Amazon Web Services
+May 15, 2018 / by Paul Bischoff
+A beginner’s guide to online censorship
+August 26, 2017 / by Paul Bischoff
+Latest Cloud and Online Backup
+10 Best Secure File Sharing Tools & Software for Business in 2020
+October 21, 2019 / by Tim Keary
+Rapidshare is discontinued, try these alternatives
+February 4, 2019 / by Aimee O'Driscoll
+The 5 Best Edge Services Providers
+October 15, 2018 / by Stephen Cooper
+The best apps to encrypt your files before uploading to the cloud
+October 11, 2018 / by Paul Bischoff
+Is Dropbox Secure? 9 Ways To Make The File Sharing Service Safer To Use
+December 28, 2017 / by David Gilbert
+Latest Information Security
+Top online degrees in cyber security (Bachelor’s)
+December 8, 2020 / by Aimee O'Driscoll
+Computer forensics analyst career guide
+December 4, 2020 / by Aimee O'Driscoll
+What is Trojan Horse malware and how can you avoid it?
+November 26, 2020 / by Marc Dahan
+Graylog Review and Alternatives
+November 26, 2020 / by John Cirelly
+Cybersecurity jobs overview: Earn a high-paying job in cybersecurity
+November 23, 2020 / by Sam Cook
+Latest VPN & Privacy
+How to watch DStv online from anywhere with a VPN
+December 10, 2020 / by Ian Garland
+NordVPN vs PrivateVPN
+December 10, 2020 / by Ian Garland
+10 Best free and paid secure email services in 2020 – ranked
+December 10, 2020 / by Marc Dahan
+Is AT&T throttling your bandwidth? How to stop throttling with a VPN
+December 10, 2020 / by Paul Bischoff
+What is a VPN kill switch and do you need one?
+December 10, 2020 / by Paul Bischoff
+Latest Crypto
+How Do People Feel About Cryptocurrencies?
+July 31, 2019 / by Paul Bischoff
+The Biggest Cryptocurrency Heists of All Time
+June 28, 2019 / by Theo Tsihitas
+Understanding cryptography’s role in blockchains
+April 10, 2019 / by Josh Lake
+How to buy and pay with bitcoin anonymously
+April 18, 2018 / by Aimee O'Driscoll
+What bitcoin is and how to buy it and use it
+April 6, 2018 / by Aimee O'Driscoll
+Latest Crypto Popular Posts
+How to buy and pay with bitcoin anonymously
+April 18, 2018 / by Aimee O'Driscoll
+What is Bitcoin mining and how can you do it?
+March 7, 2018 / by Aimee O'Driscoll
+15 best bitcoin wallets for 2020 (that are safe and easy to use)
+February 25, 2018 / by Aimee O'Driscoll
+Latest Data Recovery Software
+11 Best Data Loss Prevention Software Tools
+April 18, 2019 / by Stephen Cooper
+Latest IPTV
+Is Facebook profiting from illegal streaming?
+June 11, 2019 / by Sam Cook
+How to set up IPTV on Perfect Player
+January 31, 2019 / by Tom Blackstone
+Kodi Solutions IPTV: What is Kodi Solutions? Is it your next IPTV?
+September 24, 2018 / by Tom Blackstone
+Area 51 IPTV: What is Area 51 IPTV and should you use it?
+September 23, 2018 / by Tom Blackstone
+Terrarium TV shut down: Use these top 10 Terrarium TV alternatives
+September 18, 2018 / by Sam Cook
+Latest Identity Theft Protection
+How to delete online accounts and reduce your security risks
+February 3, 2020 / by Sam Cook
+Identity fraud on Upwork and other freelance sites threatens gig economy integrity
+July 30, 2019 / by Sam Cook
+Consumer interest in checking credit scores jumped 230 percent in a decade. Here’s why that’s a dangerous trend
+February 20, 2019 / by Sam Cook
+Latest Kodi
+Can You Watch Tyson vs Jones on Kodi?
+August 13, 2020 / by Sam Cook
+How to install the PBS Kids Kodi addon
+September 25, 2019 / by Ian Garland
+How to watch AEW – All Out Free on Kodi with a VPN
+August 30, 2019 / by William Elcock
+How to watch the US Open Tennis 2019 on Kodi – free livestream
+August 16, 2019 / by William Elcock
+How to download and install Kodi Leia 18.3 on Firestick
+August 13, 2019 / by Ian Garland
+Latest Kodi Popular Posts
+Can you watch Bellator 223: Mousasi vs. Lovato on Kodi?
+June 21, 2019 / by Sam Cook
+How to watch the French Open on Kodi
+May 21, 2019 / by Sam Cook
+How to watch the NCAA Frozen Four and Championship on Kodi
+April 10, 2019 / by Sam Cook
+How to watch the 2019 NCAA Final Four and Championship game on Kodi
+April 5, 2019 / by Sam Cook
+30+ Best Kodi Addons in December 2020 (of 130+ tested)
+March 15, 2019 / by Ian Garland
+Latest Net Admin
+9 Best Network Security Tools
+December 4, 2020 / by Stephen Cooper
+5 Best Real User Monitoring Tools & Services
+December 4, 2020 / by Stephen Cooper
+9 Best NGINX Monitoring Tools
+December 1, 2020 / by Tim Keary
+Graylog vs Splunk Analysis and Breakdown
+November 27, 2020 / by John Cirelly
+Sumo Logic vs Splunk
+November 27, 2020 / by John Cirelly
+Latest Net Admin Popular Posts
+11 Best Free TFTP Servers for Windows, Linux and Mac
+February 28, 2019 / by Jon Watson
+10 Best SFTP and FTPS Servers Reviewed for 2020
+February 27, 2019 / by Jon Watson
+12 Best NetFlow Analyzers & Collector Tools for 2020
+January 23, 2019 / by John Kimball
+Best Bandwidth Monitoring Tools – Free Tools to Analyze Network Traffic Usage
+December 21, 2018 / by John Kimball
+Latest Online backup
+10 Best Secure File Sharing Tools & Software for Business in 2020
+October 21, 2019 / by Tim Keary
+Latest Plex
+Watch your Plex library in Kodi with the Plex Kodi addon
+December 24, 2017 / by Aaron Phillips
+How to set up Plex on Chromecast and get the most out of it
+December 7, 2017 / by Aaron Phillips
+Plex vs Kodi: Which streaming software is right for you?
+November 1, 2017 / by Aaron Phillips
+Installing and using the Fire TV Plex app
+October 31, 2017 / by Aaron Phillips
+The best Plex plugins: 25 of our favorites (Updated)
+September 20, 2017 / by Aaron Phillips
+Latest Plex Popular Posts
+The best Plex plugins: 25 of our favorites (Updated)
+September 20, 2017 / by Aaron Phillips
+How to get started streaming with Plex media server
+September 20, 2017 / by Aaron Phillips
+Selectively routing Plex through your VPN
+September 20, 2017 / by Aaron Phillips
+Latest Sports Streaming
+How to watch Errol Spence vs Danny Garcia live online
+December 4, 2020 / by Mark Gill
+How to live stream Tyson v Jones online from anywhere
+November 27, 2020 / by Sam Cook
+How to watch NCAA College Basketball 2020-2021 season online
+November 24, 2020 / by Ian Garland
+How to watch Terence Crawford vs Kell Brook live online
+November 13, 2020 / by Mark Gill
+How to watch AEW Full Gear 2020 live online from anywhere
+November 6, 2020 / by Ian Garland
+Latest Sports Streaming Popular Posts
+How to watch Gervonta Davis vs Leo Santa Cruz live online
+October 20, 2020 / by Sam Cook
+How to watch Vasiliy Lomachenko vs Teofimo Lopez live online
+October 16, 2020 / by Sam Cook
+How to watch Deontay Wilder vs Tyson Fury 2 heavyweight world title fight
+February 21, 2020 / by Sam Cook
+How to watch the Stanley Cup Final 2020 live online from anywhere
+May 26, 2019 / by Sam Cook
+How to watch Super Bowl LIV (54) free online anywhere in the world
+February 2, 2019 / by Sam Cook
+Latest TV Streaming
+How to watch Tin Star season 3 online
+December 9, 2020 / by Ian Garland
+How to watch The Challenge: Double Agents (Season 36) online
+December 8, 2020 / by Mark Gill
+How to watch Attack on Titan season 4 online from anywhere
+December 6, 2020 / by Ian Garland
+How to watch Blue Bloods season 11 online
+December 3, 2020 / by Ian Garland
+How to watch the Saved by the Bell 2020 series online (outside the US)
+November 24, 2020 / by Mark Gill
+Latest TV Streaming Popular Posts
+How to watch Winter Love Island 2020 online from abroad (stream it free)
+May 30, 2019 / by Ian Garland
+How to watch Game of Thrones Season 8 free online
+April 14, 2019 / by Sam Cook
+How to watch Super Bowl LIV (54) free online anywhere in the world
+February 2, 2019 / by Sam Cook
+How to watch Super Bowl LIV (54) on Kodi: Live stream anywhere
+January 29, 2019 / by William Elcock
+Latest Utilities
+6 Best screen recorders for Windows 10 in 2020
+June 23, 2020 / by Aimee O'Driscoll
+Best video downloaders for Windows 10 in 2020
+June 16, 2020 / by Aimee O'Driscoll
+12 best video editing software for beginners in 2020
+June 11, 2020 / by Aimee O'Driscoll
+Best video conferencing software for small businesses
+March 20, 2020 / by Aimee O'Driscoll
+Best video converters for Mac in 2020 (free and paid)
+August 12, 2019 / by Aimee O'Driscoll
+5 Comments
+Leave a Comment
+or use tutanota.com
+Reply
+How many ways that we can encrypt email in outlook?
+What is the best way beside to two above?
+If use Digital certificate we need to request and install all the certificate on each clients. If we have 10K users we need to request 10K certificate right?
+Reply
+thanks fully explained and understood
+Reply
+Thank you Hope you work for a post published a list of encrypted emails and safest
+Reply
+Indeed an informational post for those folks who would like to hit the OpenPGP based services to protect their online privacy.
+However, aside from mailvelope and other mentioned services in this post – I would like to highlight one of the most simplest and yet a pure OpenPGP based independent service http://www.mailfence.com – that offers Integrated Key Management, Interoperability and Digital Signatures (all of those in a single package) without compromising on the user-friendliness.
+Other good services include scryptmail.com, riseup.org…
+Nevertheless, it always drops down to one’s preferences and requirements (I personally use mailfence which is free, interoperable, without ads, completely locally hosted and provides an entire collaboration suite i.e. messages, contacts, calendar, documents, polls, tags ….)
+Reply
+Leave a Reply Cancel replyCommentName
+Email
+reCaptcha challenge is not working! Check browser requirement
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+BLACK FRIDAY EXTENDED
+3 MONTHS FREE
++ SAVE 68%
+Get 3 months FREE >>
+No thanks
+PRIVACY ALERT: Websites you visit can find out who you are
+The following information is available to any site you visit:
+Your IP Address:
+Your Location:
+Your Internet Provider:
+This information can be used to target ads and monitor your internet usage.
+Using a VPN will hide these details and protect your privacy.
+We recommend using NordVPN - #1 of 42 VPNs in our tests. It offers outstanding privacy features and is currently available with three months extra free.
+Visit NordVPN

@@ -1,0 +1,31 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch18s03.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Protecting Your Domain RegistrationIt’s possible for a corporation to spend hundreds of
+millions of dollars purchasing hardware and software, build multiple
+redundant data centers, and have multiple upstream connections and
+backup power systems—yet have its entire network servicing several
+million customers go offline because it forgot to pay a single $35
+annual fee.It is important to remember that almost every transaction over
+the Web begins with a DNS query in which some computer somewhere on
+the Internet asks a top-level domain name server for the IP address of
+your organization’s name servers. If your organization’s entry in the
+.COM or .CO.UK database has
+been removed, no amount of redundancy or technical wizardry on your
+part will allow most users to access your services. For this reason,
+it is vital to ensure the safety of your domain name registration.
+Here are some suggestions:Know the name of the Internet registrar that maintains your
+domain name. Although many domain names are registered with
+Network Solutions, there are now more than a dozen registrars open
+for business, as well as many national organizations operating in
+countries other than the United States. Maintain a paper file with
+the name of the registrar and a printout of your organization’s
+registration.Periodically review the registration information for your
+domain name, making sure that the contact information is up to
+date and that your bills have been paid.Take advantage of any advanced security features ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

@@ -1,0 +1,388 @@
+http://www.vortex.com/privacy/priv.09.03
+PRIVACY Forum Archive Document
+PRIVACY Forum Home Page
+PFIR - "People For Internet Responsibility" Home Page
+Vortex Technology Home Page
+PRIVACY Forum Digest
+Thursday, 6 January 2000
+Volume 09 : Issue 03
+(http://www.vortex.com/privacy/priv.09.03)
+Moderated by Lauren Weinstein (lauren@vortex.com)
+Vortex Technology, Woodland Hills, CA, U.S.A.
+http://www.vortex.com
+===== PRIVACY FORUM =====
+-------------------------------------------------------------------
+The PRIVACY Forum is supported in part by
+the ACM (Association for Computing Machinery)
+Committee on Computers and Public Policy,
+Cable & Wireless USA, Cisco Systems, Inc.,
+and Telos Systems.
+- - -
+These organizations do not operate or control the
+PRIVACY Forum in any manner, and their support does not
+imply agreement on their part with nor responsibility
+for any materials posted on or related to the PRIVACY Forum.
+-------------------------------------------------------------------
+CONTENTS
+Free Access Web Site Reveals Your Date of Birth, City,
+Gender to the World (Lauren Weinstein; PRIVACY Forum Moderator)
+Firm Builds Massive Database of Unlisted Phone Numbers
+(Lauren Weinstein; PRIVACY Forum Moderator)
+"Google" Search Engine Cache Overrides Web Site Content Decisions
+(Lauren Weinstein; PRIVACY Forum Moderator)
+*** Please include a RELEVANT "Subject:" line on all submissions! ***
+*** Submissions without them may be ignored! ***
+-----------------------------------------------------------------------------
+The Internet PRIVACY Forum is a moderated digest for the discussion and
+analysis of issues relating to the general topic of privacy (both personal
+and collective) in the "information age" of the 1990's and beyond.
+The
+moderator will choose submissions for inclusion based on their relevance and
+content.
+Submissions will not be routinely acknowledged.
+All submissions should be addressed to "privacy@vortex.com" and must have
+RELEVANT "Subject:" lines; submissions without appropriate and relevant
+"Subject:" lines may be ignored.
+Excessive "signatures" on submissions are
+subject to editing.
+Subscriptions are via an automatic list server system;
+for subscription information, please send a message consisting of the word
+"help" (quotes not included) in the BODY of a message to:
+"privacy-request@vortex.com".
+Mailing list problems should be reported to
+"list-maint@vortex.com".
+All messages included in this digest represent the views of their
+individual authors and all messages submitted must be appropriate to be
+distributable without limitations.
+The PRIVACY Forum archive, including all issues of the digest and all
+related materials, is available via anonymous FTP from site "ftp ftp.vortex.com",
+in the "/privacy" directory.
+Use the FTP login "ftp" or "anonymous", and
+enter your e-mail address as the password.
+The typical "README" and "INDEX"
+files are available to guide you through the files available for FTP
+access.
+PRIVACY Forum materials may also be obtained automatically via
+e-mail through the list server system.
+Please follow the instructions above
+for getting the list server
+"help" information, which includes details
+regarding the "index" and "get" list server commands, which are used to access
+the PRIVACY Forum archive.
+All PRIVACY Forum materials are available through the Internet Gopher system
+via a gopher server on site "gopher.vortex.com/".
+Access to PRIVACY Forum
+materials is also available through the Internet World Wide Web (WWW) via
+the Vortex Technology WWW server at the URL: "http://www.vortex.com";
+full keyword searching of all PRIVACY Forum files is available via
+WWW access.
+-----------------------------------------------------------------------------
+VOLUME 09, ISSUE 03
+Quote for the day:
+"I'm impatient with stupidity."
+-- Klaatu (Michael Rennie)
+"The Day the Earth Stood Still" (Fox; 1951)
+----------------------------------------------------------------------
+Date:
+Thu, 6 Jan 2000 10:59 PST
+From:
+lauren@vortex.com (Lauren Weinstein; PRIVACY Forum Moderator)
+Subject: Free Access Web Site Reveals Your Date of Birth, City,
+Gender to the World
+Greetings.
+If it seems that every time you turn around I'm ruining
+your day with another example of privacy abuses... well, imagine
+how I feel after digging into these abominations.
+It's time for another one.
+You know how you're frequently asked for your
+date of birth as one element of identification when you call credit card
+companies or the like?
+Well, you can forget about the usefulness of that
+information now.
+Do you feel that your birthday and age are not the
+business of the world at large?
+If you're elderly, perhaps living alone,
+would you be concerned if anyone, anywhere, could pick you out of a database,
+learn your age, and get enough information to help pinpoint your address?
+Well, as if you needed more examples of the rampant and egregious
+exploitation of "public record" data, check out http://www.anybirthday.com.
+This newly announced free Web site provides date of birth, city/state/zip,
+and a form of gender information for what it claims are over 135 million
+U.S. residents, with more constantly being added.
+Anybirthday.com is from
+the folks at American Automated Systems Inc. of Louisville, Ohio, an
+established accumulator and marketer of your "public record" data.
+In addition to the above personal information, Anybirthday also promotes
+their links to Amazon.com (themselves not a stranger to privacy problems)
+for suggested "birthday gifts" for your search targets.
+Do not assume that if you have an unlisted phone number you will not be in
+this massive database--they appear to have gathered their data from other
+sources (they apologize for the fact that some states "don't make all public
+records available all the time"--be thankful for small favors).
+But they
+claim that the majority of U.S. adults not under the age of 21 are
+listed--and they appear to be right.
+The system allows the optional use of
+zip codes to narrow down the searches among multiple similar names.
+They
+also have a "reminder" service which allows you to enter new birthdays that
+aren't listed (such reminders, once entered, cannot be altered, according to
+their current FAQ).
+Their data is naturally not perfect.
+Gender information (which can be
+gleaned in many cases from the "suggested gifts") seems to have a
+significant error rate.
+Address information appears to not be completely
+current, with people listed under addresses from a few years back in some
+cases.
+But it's accurate enough to cause a lot of people a great deal of
+grief.
+This also suggests the possibility of persons having multiple
+records in the database under multiple addresses, making attempts to remove
+entries (see below) potentially more difficult.
+Various pages at the site seem to be a moving target.
+Just over the
+course of a few hours, it appeared that some explanatory text had changed,
+and the main search form that I could have sworn originally stated that
+entry of partial zip codes was OK now reads "Full Zip Please"...
+Anybirthday's "excuse" for having this data is that "anybody" can get such
+information if they know how.
+There is a method offered to remove records from the database, if you enter
+the exact name, date of birth, and zip for a record.
+In fact, you can
+do this for any record in the database, there is absolutely no
+authentication!
+They claim that this will also prevent that record from
+being restored to the database based on newer data.
+Note however, that this
+implies that if a record appears later with newer address information
+that was not previously in the database, you'd have to specifically delete
+it at that time (if you knew about it!) since it does not appear that you
+can proactively block new data with changed address info.
+Anybirthday is supported by advertising, some of which promotes other
+"public record" (fee-based) lookups, including name/address matching
+and a range of other "services" exploiting your data from motor
+vehicle licenses, voter registration information, and other sources.
+I would urge anyone concerned about the release of the sort of information
+provided by Anybirthday to take immediate steps to try remove themselves
+from the database.
+If you have family or other loved ones who might be at
+risk from the public viewing of such data, you should consider informing
+them as well and helping them through the process if necessary.
+Several points to remember:
+1) Individuals may potentially have multiple records under different
+addresses or even minor name variations.
+You need to find and remove
+them all.
+After you've found the exact records in question, go to
+http://anybirthday.com/optout.htm to try delete them.
+2) New records based on changed data could likely reappear in the database
+at any time.
+You'll probably need to check back at intervals to
+search for them.
+3) The site is currently very sluggish.
+At least at the moment, you could
+experience long delays.
+You may find it necessary to enable Javascript
+to access some of the pages properly.
+You may also wish to consider whether or not you wish to patronize
+the advertisers who are affiliated with the Anybirthday service.
+Perhaps it's time to call an end to public record data exploitation?
+So much for "self-regulation" in the database industry!
+--Lauren--
+lauren@vortex.com
+Lauren Weinstein
+Moderator, PRIVACY Forum - http://www.vortex.com
+Co-Founder, PFIR: People For Internet Responsibility - http://www.pfir.org
+Member, ACM Committee on Computers and Public Policy
+------------------------------
+Date:
+Tue, 4 Jan 2000 17:16 PST
+From:
+lauren@vortex.com (Lauren Weinstein; PRIVACY Forum Moderator)
+Subject: Firm Builds Massive Database of Unlisted Phone Numbers
+Greetings.
+When you designate your phone number as unlisted and/or
+non-published (the exact meanings vary from place to place) you probably
+expect that it will give you reasonable protection from commercial abuse of
+that number.
+In particular, you'd likely assume that a marketing firm
+unrelated to providing phone service, or to any of your business
+transactions, wouldn't be in the business of collecting and providing such
+numbers to other firms.
+Well, it's time for another nasty surprise!
+Say hello to Acxiom Corp. of Conway, Arkansas.
+Their database has amassed
+almost 140 consumer telephone numbers, including about 20 million unlisted
+numbers (that's reportedly around half of the total unlisted numbers in the
+United States).
+Acxiom's massive systems then combine these numbers with all manner of data
+obtained from other sources, to create a "profile" of the type of person
+associated with the number--where they live (a wealthy part of town?), what
+they drive, perhaps even what sorts of records they buy or which pets are in
+the household.
+This data is marketed to other firms that then use it to specially route or
+target callers to toll-free area codes (e.g. 800, 888, etc.), even before
+the calls are answered.
+As I've discussed here in the PRIVACY Forum in the
+past, callers cannot block their number from being revealed on calls to such
+toll-free numbers, on the basis that they are like "collect" callers and the
+party called needs to know who is calling to detect abuse.
+Buyers of such highly detailed data linked to phone numbers routinely use it
+to "pre-screen" (some would say "discriminate") between callers based on the
+telephone numbers from which they are calling.
+Callers whose number/data
+suggest that they're good prospects are routed to the front of waiting
+queues for kid-glove treatment and special offers.
+Callers with phone
+numbers and data (however accurate or inaccurate that data might be) who are
+considered less desirable can be relegated to "voicemail hell" and the
+dreaded long waiting queue of doom.
+While Acxiom reportedly is unwilling to reveal in detail how they have
+collected so many unlisted numbers, it seems likely that they have been
+gathered from commercial sources who have obtained your number in the past
+(perhaps from your calling of other toll-free area code numbers!) and now
+feel free to treat it as a commodity to do with as they will.
+Much of
+Acxiom's other data likely comes from the same sources, combined with now
+routinely abused "public record" data.
+I've been attempting for several days to arrange an interview with Acxiom
+officials, and I'll report back if this is accomplished and any new details
+are forthcoming.
+Aside from the more general issues of individual control over their personal
+information, I would submit that the time has come to revisit the topic of
+toll-free number delivery unblockability.
+It is indeed the case that the
+parties paying for the calls need a way to detect abusive calling patterns.
+But this can be done without forcing all callers to reveal their numbers
+without any controls whatsoever.
+What I'd propose is that calls to toll-free numbers be treated much like
+ordinary calls, with a couple of important differences.
+If the caller does
+not have caller-ID blocking enabled on their line (or alternatively, for that
+call), the number would be delivered as always, either in realtime "ANI"
+systems or on phone bills.
+If the caller has blocking enabled, the number
+would be delivered with the last four digits replaced by "XXXX" or some
+similar mask.
+The other digits provided should be enough for the detection
+of abuse, and in such cases the toll-free number owner could contact their
+toll-free service provider (who would have the entire number on file) to
+deal with the situation.
+Positive uses of ANI systems, such as helping to verify credit card
+mailings ("call this number from your home phone") could still be enabled
+even when blocking was present by default, simply by instructing callers to
+dial the appropriate unblocking code for that call.
+Such procedures could at least add a bit of balance back into the equation,
+which right now is totally loaded in favor of your personal information not
+really being yours at all!
+--Lauren--
+lauren@vortex.com
+Lauren Weinstein
+Moderator, PRIVACY Forum - http://www.vortex.com
+Co-Founder, PFIR: People For Internet Responsibility - http://www.pfir.org
+Member, ACM Committee on Computers and Public Policy
+------------------------------
+Date:
+Tue, 4 Jan 2000 17:35 PST
+From:
+lauren@vortex.com (Lauren Weinstein; PRIVACY Forum Moderator)
+Subject: "Google" Search Engine Cache Overrides Web Site Content Decisions
+Greetings.
+The popular and generally excellent "Google" search engine
+(http://www.google.com) includes a feature with a significant scope of
+potentially negative ramifications for Web site operators.
+In an attempt to "solve" the problem of people receiving search results that
+point at pages which cannot be immediately reached or that no longer exist
+(the dreaded "404" error) Google caches (saves) many pages locally, allowing
+the user to view the cached pages instead of the current site pages at their
+option.
+On the surface, this may not sound like a bad idea.
+Upon reflection though,
+it is ripe with risks, especially as currently implemented.
+Google only
+indexes any given site relatively infrequently.
+This means that cached
+pages may typically be considerably out of date (often by months), and may no
+longer necessarily represent the current state of the site in question.
+A
+recent "Washington Post" article suggested that this was a good thing--you
+could still view material that Webmasters had chosen to remove.
+But this is
+not a trivial matter, in fact it can be a very serious negative situation
+indeed.
+Web sites frequently change pages to correct errors, remove information that
+represents security or privacy violations and problems, and even to abide by
+court orders.
+By maintaining what amounts to an out of date "shadow" of Web
+sites, such changes are rendered effectively moot by Google, as far as anyone
+accessing those older cached pages through Google are concerned.
+And
+obviously, the relationship between the cached pages and current pages could
+be disrupted in other ways--links might no longer exist or point at
+completely unrelated pages, for example.
+This caching feature might not be so bad if all Web sites knew about it, and
+if they had some automated way to control it--or at least easily opt-out (or
+more ideally opt-in for it to be enabled).
+But Google does not provide
+any routine automated mechanism for opting-out of site caching, other than
+to exclude indexing access to a site via the standard "robot exclusion
+protocol" file or other indexing control files.
+You can not indicate in
+those files that you are willing to be indexed but do not wish to be
+cached.
+Google's cache does not adhere to the standard Web page directives
+that would ordinarily allow for the control of both page expirations and
+more routine ISP caching.
+Their FAQ's only comment on this issue is that
+they'll consider (e-mailed) requests from sites to remove cached files on a
+"case-by-case" basis.
+In a phone conversation I had with Sergey Brin, one of Google's two
+founders, he agreed that there were complex issues involved with this sort
+of caching, though he pointed out that there are other sites archiving
+massive collections of Web pages without the explicit permission of those
+sites as well.
+This is certainly true, and I'll be reporting more about
+these in the future.
+But I do feel that when a major search engine like
+Google makes outdated pages easily available as part of routine search
+results, it adds a major dimension to the problem's scope.
+Mr. Brin said that Google ignores expiration and caching control lines on
+Web pages since they feel that those directives are not really appropriate
+for the sort of archiving in question.
+He suggests that a new archive
+control standard under development may be appropriate, though this has not
+yet been implemented by Google.
+In the meantime, if you are involved in a Web site and you consider it
+important to have control over your own content, you may want to consider
+immediately contacting Google and asking to have any current caching of your
+materials removed, and any future caching of your content disabled.
+Mr. Brin stated that the best way to do this is to send a note to
+googlebot@google.com (a live person) with the specific requests, being clear
+about whether you wish to remove cached material and future caching, all
+indexing by Google, or both.
+He also suggests sending that e-mail from an
+address that would clearly indicate your authority to request those changes
+for particular sites (authentication of such requests is a serious problem,
+since e-mail addresses can be easily forged).
+While I'd agree with Mr. Brin's assessment that in many cases such caching
+probably does not represent a major problem, it's precisely those situations
+where it really does matter, where out of date content can cause serious
+concerns, which must represent the lowest common denominator for establishing
+standards and controls.
+In the final analysis, Web site operators, who are
+ultimately responsible for the content from their sites, need to be able to
+fully control that content!
+--Lauren--
+lauren@vortex.com
+Lauren Weinstein
+Moderator, PRIVACY Forum - http://www.vortex.com
+Co-Founder, PFIR: People For Internet Responsibility - http://www.pfir.org
+Member, ACM Committee on Computers and Public Policy
+------------------------------
+End of PRIVACY Forum Digest 09.03
+************************
+PRIVACY Forum Home Page
+Vortex Technology Home Page
+Copyright © 2005 Vortex Technology.
+All Rights Reserved.

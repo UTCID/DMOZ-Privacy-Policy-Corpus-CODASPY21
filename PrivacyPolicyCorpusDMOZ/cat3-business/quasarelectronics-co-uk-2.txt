@@ -1,0 +1,142 @@
+https://quasarelectronics.co.uk/component-identification-help
+Electronic Component Identification | Quasar Electronic Kits UK
+Electronic component identification and general information to assist in the assembly of Quasar Electronics kit ranges.
+Electronic Component Identification
+If you are new to electronics and building electronic kits here is a brief introduction to some of the most common electronic components that you will find. Being able to identify the components supplied and matching them up to the parts list is one of the first and most important steps to making your project work first time.If you are unsure about any component STOP! Do not hope for the best and carry on. That way lies smoke, fried components, disappointment or worse! Just Contact Us and ask for help. Jump toResistorsCapacitorsDiodesTransistorsIntegrated CircuitsInductors ResistorsStandard resistors are NOT polarised and can be placed in the printed circuit board (PCB) either way round.The most common have four bands. Bands 1 and 2 identify the first two digits, band 3 is the Multiplier and band 4 is the tolerance (normally Gold 5%)The Multipliers are:R = x 0K = x 1,000M = x 1,000,000The kit parts list might contain for example, a 4K7 resistor. The K refers to the number multiplier (K = x 1,000). The position of the K between the 4 and 7 identifies the position of the decimal point so we have4.7 x 1,000 = 4,700 Ohms (with a colour code of Yellow, Violet, Red)Another example is say 56R. This gives us 56 x 0 = 56 Ohm resistor with colour code Green, Blue, Black.You will find some five band resistors in our kits and this colour code is likely to be associated with the more precision 1% and 2% types. The work in a similar way to the four band but the first three bands are used to determine the numbers, band 4 is the multiplier and band 5 is the tolerance - see table below for details. Your "garden variety" 5% general purpose types will be four band resistance codes.  Resistor NetworksMany resistor networks have an orientation marked with a dot at the end of one side. This dot must be marks pin 1. This pin is marked on the PCB by a square box at one end of the main box. CapacitorsCapacitor conversion tableCapacitors values may be designated in micro-farad (uF), nano-farad (nF) or pico-farad (pF) and there is a certain amount of overlap. There are many instances where two components of the same value may be quoted in different ways: one may be quoted in terms of pico-Farads and another in terms of nano-Farads. For example 100 nF is the same as 0.1 micro Farads. The chart below quickly helps show what which values are the same and how many nano-Farads makes a micro-Farad and so forth. It can be used as a quick reference guide for capacitors, or any other electronic component when looking at different items from different manufacturers. Capacitor conversion table for pico-Farads, nano-Farads, and micro-Faradsmicro-Farads (µF)Nano-Farads (nF)Pico-Farads (pF)0.0000010.001 1 0.000010.01100.00010.11000.00111,0000.011010,0000.1100 100,000 11,0001,000,000 1010,00010,000,000 100100,000 100,000,000  Using the capacitor conversion table it is possible to quickly check the relationship between two capacitors with different markings. In this way it is possible to see whether they capacitor values are the same or not. Electrolytic & Tantalum CapacitorsElectrolytic and tantalum capacitors are POLARISED devices which means they must be inserted with the correct polarity. Electrolytics have one lead longer than the other and this denotes the POSITIVE lead and on the opposite side of body is a black band with a minus sign.Tantaulm beads have a + sign next to the positive lead. Ceramic Capacitor CodesHow to read a Ceramic capacitor with Numeric coding.Multiplier Table (Ceramic)Multiply the "Number" in the left column by the "Multiplier" in the right column to get the value. The number in brackets is the number of zeros added to the base number to arrive at the same value.NumberMultiplier (Additional # of Zeros)0None (0)110 (1)2100 (2)31,000 (3)410,000 (4)5100,000 (5)61,000,000 (6) Common Temperature Coefficient Codes (Ceramic)CodeToleranceC±0.25pFJ±5%K±10%M±20%D±0.5pFZ+80% / -20%  DiodesAll diodes are polarised and must be inserted with the correct orientation to avoid damage to the circuit.Signal & Power DiodesDiodes are polarised and need to be inserted with the band marked at one end of the body (the cathode) to the band marked on the PCB.Diodes come all all shapes and sizes but the ones used most often in our kits are 1N4148 signal diodes (orange body with blank band) and 1N4004 rectifier diodes (black with silver band). Both are marked on the body with their part number.Zener DiodesYou may also find Zener diodes. These can look similar to the 1N4148 / 1N4004 and are easily muddled up! The voltage is normally marked on the body e.g. a 5.6V Zener will have 5V6 on the body. If not, then check the parts list for other numbers.Light Emitting Diodes (LEDs)Light Emitting Diodes (LEDs) are found in many kits. Red is very commonly used but but green, yellow, orange, blue and white are also available. LEDs are polarised and must be inserted the correct way.The negative (cathode) lead is indicated in most cases by a "flat" on that side of the body. This flat is also indicated on the PCB legend for orientation purposes. You may also find that the positive (anode) lead is indicated on the board, corresponding to the long leg of the LED. TransistorsTransistors come in a wide variety of shapes and sizes. The flat side on small diodes (like BC547, BC548 and BC557 in TO-92 packages) denotes the orientation. Just match up the flat on the transistor to the flat on the circuit board legend taking care not to cross any of the legs over. Integrated CircuitsMost Integrated Circuits (ICs) are STATIC SENSITIVE and correct anti-static handling procedures must be observed to avoid damaging them. You might wish to invest in one of the HTS131 Anti-static Wrist Bands that we sell.Most ICs supplied in our kits are standard DIP Dual Inline Packages. Unless otherwise instructed ICs should only be inserted once assembly has finished and the board tested (check the voltages present in the IC socket are correct before proceeding). It is important to remove all packing materials including silver foil before inserting the ICs into the IC socket or board. NEVER insert or remove an IC when the board is powered up.To ensure correct orientation, identify the notch or dot at one end of the body. Pin 1 of the IC is to the left of this marking. Match this to the notch on the board legend and insert the IC, taking care not to bend the legs.If you need to remove an IC you can use a flat bladed screwdriver. Slide it between the IC socket and the body of the IC and slowly prise it out. Take you time and certainly DO NOT try to pull it out will pliers otherwise you will break legs off. InductorsInductors are also called coils, chokes and reactors. They come in a wide variety of shapes and sizes and generally have 2 leads (but sometimes 3, like those used in our Xenon flasher kits). Their inductive value is measured in Henry's. The ones supplied in our kits are normally measured in micro Henry (uH). Sometimes the value is printed directly on the component but not always. Often, there is only one inductor in a kit or they are all the same value making it easy to indentify.Axial inductorsThese often look like "fat" resistors and they use the same colour code system. The value represented is µH. A wide silver or gold band generally appears before the normal coloured bands along with a thin tolerance band at the other end.
+Cookie Info
+The cookie settings on this website are set to 'allow all cookies' to give you the very best experience.
+If you continue without changing these settings, you consent to this. If you want, you can change your settings
+at any time by visiting our cookies page.
+More About Cookies
+Main Menu
+Home Page
+Store Policies
+Terms and Conditions of Sale
+Privacy Info / Terms Of Use
+Privacy Information
+Terms Of Use
+Ordering Information
+Terms and Conditions of Sale
+Store Policies
+Ordering Help
+Credit Acount Facilities
+Company Information
+Conflict Minerals Statement
+RoHS / REACH Information
+WEEE Directive
+Ordering Information
+Terms and Conditions of Sale
+Store Policies
+Ordering Help
+Credit Acount Facilities
+Ordering Information
+Terms and Conditions of Sale
+Store Policies
+Terms and Conditions of Sale
+Privacy Info / Terms Of Use
+Ordering Information
+Ordering Help
+Company Information
+Credit Acount Facilities
+Credit Acount Facilities
+Company Information
+Ordering Help
+Technical Support
+Electronic Kits Information
+Electronic Modules General Information
+Electronic Component Identification
+Electronic Kit Basic Fault Finding Guide
+Camera Software Downloads
+MicroBurn/Pro PIC Programmer Software
+Electronic Kits and Modules Software Downloads
+ATMEL Recommended Reading List
+Component Datasheets for Quasar Electronic Kits Range
+Electronic Kit Documentation Downloads
+PIC Projects Recommended Reading List
+Website Information
+Privacy Info / Terms Of Use
+Privacy Information
+Terms Of Use
+Cookie Information
+Banner Adverts
+Your Cart
+Your Cart: Empty
+Search
+Advanced Store Search
+Store
+Store Home
+Shopping Basket
+Wish List
+Checkout
+Advanced Search
+Categories
+Electronic Kits & Modules
+Audio Amplifier Kits
+Audio, Music, TV & Video Kits
+Automotive Project Kits
+Computer Project Kits
+Controller & Automation Kits
+Delay Timer Circuit Boards
+Digital Display & Meter Kits
+Educational & Fun Projects
+Electronic Message Displays
+Electronic Security Kits
+Event Counter Up/Down Kits
+Light Effects & Controller Kits
+Microcontroller Tools & Projects
+Miscellaneous Project Kits
+Motor Controller & Driver Kits
+Power Supply Kits & Boards
+Relay Board Kits
+Remote Control Kits
+Sensing Device Kits
+Sound & Message Recorders
+Surveillance Equipment
+Telephone Equipment Kits
+Test Equipment Kits
+Timer Switch & Clock Kits
+All Product Categories
+Audio, Video & Cameras
+Cables, Leads & Connectors
+Components & Hardware
+Electrical & Power
+Electronic Kits & Modules
+Test & Measurement
+Tools & Equipment
+Brands
+Brands
+CEBEK Electronic Modules
+QUASAR Kits & Modules
+SMART Kits & Modules
+VELLEMAN Kits & Modules
+Special Offers
+Support
+About Us
+Account Login
+Contact Us
+View Cart
+Account
+Account Login
+Create New Account
+Delivery Address Book
+Marketing Email List
+Online Order Lookup
+Contact Us
+Company Info
+Quasar Electronics Limited
+PO Box 6935BISHOPS STORTFORD, Hertfordshire CM23 4WPUK - England & Wales
+Telephone: 01279 467799 (Int'l: +44 1279 467799)
+Registered in England & Wales.
+Company Number: 04056125
+VAT Registration Number: GB665675980
+EEE Registration Number: WEE/GB2611VR
+Quasar Electronics Limited
+PO Box 6935
+CM23 4WP
+BISHOPS STORTFORD, Hertfordshire
+441279467799
+Follow Us
+© 2020 Quasar Electronics Limited, all rights reserved worldwide. E & OE.
+Exec Time:
+0.024646 Seconds
+Memory Usage: 3.551422 Megabytes

@@ -1,0 +1,262 @@
+http://www.epic.org/privacy/ftc/hirevue/
+Defend Privacy. Donate Now.
+Policy Issues
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Program
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+All Policy Issues
+Our Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+Privacy Campaigns
+Congressional Testimony
+EPIC Publications
+Spotlight on Surveillance
+Press
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+Events
+EPIC Blog
+EPIC Bookstore
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+Public Voice Fund
+Contact EPIC
+Support EPIC
+In re HireVue
+On November 6, 2019, EPIC filed a complaint with the Federal Trade Commission alleging that recruiting company HireVue has committed unfair and deceptive practices in violation of the FTC Act. EPIC charged that HireVue falsely denies it uses facial recognition. EPIC also said the company failed to comply with baseline standards for AI decision-making, such as the OECD AI Principles and the Universal Guidelines for AI. The company purports to evaluate a job applicant's qualifications based upon their appearance by means of an opaque, proprietary algorithm.
+Background
+HireVue's Use of Secret Algorithms and Facial Recognition to Screen Job Applicants
+HireVue represents that it conducts video-based and game-based "pre-employment" assessments of job candidates on behalf of employers. These assessments employ facial recognition technology and proprietary algorithms. The company states that its algorithmic assessments will reveal the "cognitive ability," "psychological traits," "emotional intelligence," and "social aptitudes" of job candidates HireVue states that it collects "tens of thousands of data points" from each video interview of a job candidate, including but not limited to a candidate's "intonation," "inflection," and "emotions." HireVue purportedly inputs these thousands of personal data points into "predictive algorithms" that allegedly determine each job candidate's "employability."
+According to HireVue, 10% to 30% of a candidate's score is based on facial expressions and the remainder of the score is based on the language used. HireVue does not give candidates access to their assessment scores or the training data, factors, logic, or techniques used to generate each algorithmic assessment.
+HireVue markets its recruiting tools as a way to eliminate biases in the hiring process, but hiring algorithms are more likely to be biased by default. HireVue represents that it builds algorithmic models for employers based on data from top performers, a method which can perpetuate past hiring biases.
+The FTC's Authority to Pursue Unfair and Deceptive Trade Practices
+Section 5 of the FTC Act (15 U.S.C. § 45) prohibits unfair and deceptive acts and practices and empowers the Commission to enforce the Act's prohibitions. A company engages in a deceptive trade practice if it makes a representation to consumers yet "lacks a 'reasonable basis' to support the claims made[.]" A trade practice is unfair if it "causes or is likely to cause substantial injury to consumers which is not reasonably avoidable by consumers themselves and not outweighed by countervailing benefits to consumers or to competition." In determining whether a trade practice is unfair, the Commission is expected to consider "established public policies."
+HireVue Has Engaged in Deceptive Trade Practices
+HireVue has engaged in deceptive trade practices in violation of the FTC Act by falsely representing that it does not use facial recognition technology in its video interviews of candidates. As the FTC has established, the term "facial recognition technology" includes "technologies that merely detect basic human facial geometry; technologies that analyze facial geometry to predict demographic characteristics, expression, or emotions; and technologies that measure unique facial biometrics."
+HireVue represents that it collects and analyzes "[f]acial expressions" and "facial movements" to measure job candidates' "cognitive ability," "emotional intelligence," and "social aptitudes." Yet HireVue also represents that it "does not use facial recognition technology[.]" Because HireVue lacks a reasonable basis for this claim, HireVue is engaged in a deceptive trade practice in violation of the FTC Act.
+HireVue Has Engaged in Unfair Trade Practices
+HireVue has engaged in unfair trade practices in violation of the FTC Act by using biometric data and secret algorithms in a manner that causes substantial and widespread harm.
+HireVue, which performs job candidate assessments on behalf of 700-plus employers, claims to collect "tens of thousands" of biometric data points from job candidate interviews. These data points include (but are not limited to) a job candidate's "intonation," "inflection," and "emotions." HireVue inputs these personal data points into secret "predictive algorithms" that allegedly determine each job candidate's "employability." Companies then rely on HireVue's assessments to determine whether to contract for the services of each job candidate.
+Because these algorithms are secret—even to HireVue itself, in some cases—it is impossible for job candidates to know how their personal data is being used or to consent to such uses. HireVue's intrusive collection and secret analysis of biometric data thus causes substantial privacy harms to job candidates. HireVue's assessment system also causes substantial financial harms to job candidates. Many job candidates are denied opportunities to contract with companies based on HireVue's algorithmic assessments, and many of those same candidates are forced to expend significant resources to identify alternate contracting opportunities.
+Moreover, the injuries caused by HireVue's use of biometric data and secret algorithms cannot be reasonably avoided. HireVue's assessments are used by hundreds of major employers, and job candidates are not given an opportunity to opt out of or meaningfully challenge HireVue's assessments.
+Nor are the harms caused by HireVue outweighed by countervailing benefits to consumers or to competition. HireVue has failed to demonstrate any legitimate purpose for the collection of job candidates' biometric data or for the use of secret, unproven algorithms to assess the "cognitive ability," "psychological traits," "emotional intelligence," and "social aptitudes" of job candidates. Other methods that accomplish the goal of evaluating job candidates are readily available and have long been in use. HireVue is therefore engaged in an unfair trade practice in violation of the FTC Act.
+HireVue Has Violated Public Policies for the Use of Artificial Intelligence
+EPIC's complaint also alleges that HireVue has engaged in unfair trade practices by failing to meet minimal standards for AI-based decision-making set out in the OECD AI Principles or the recommended standards set out in the Universal Guidelines for Artificial Intelligence. The OECD Principles on Artificial Intelligence are "established public policies" within the meaning of the FTC Act (15 U.S.C. § 45(n)).
+In 2019, the member nations of the OECD, working also with many non-OECD members countries, promulgated the OECD Principles on Artificial Intelligence. The United States has endorsed the OECD AI Principles. EPIC's complaint alleges that HireVue has violated the following principles:
+Human-Centered Values and Fairness. This principle states: "(a) AI actors should respect the rule of law, human rights and democratic values, throughout the AI system lifecycle. These include freedom, dignity and autonomy, privacy and data protection, non-discrimination and equality, diversity, fairness, social justice, and internationally recognised labour rights. (b) To this end, AI actors should implement mechanisms and safeguards, such as capacity for human determination, that are appropriate to the context and consistent with the state of art."
+Transparency and Explainability: This principle states: "AI Actors should commit to transparency and responsible disclosure regarding AI systems. To this end, they should provide meaningful information, appropriate to the context, and consistent with the state of art: (i) to foster a general understanding of AI systems, (ii) to make stakeholders aware of their interactions with AI systems, including in the workplace, (iii) to enable those affected by an AI system to understand the outcome, and, (iv) to enable those adversely affected by an AI system to challenge its outcome based on plain and easy-to-understand information on the factors, and the logic that served as the basis for the prediction, recommendation or decision."
+Robustness, Security, and Safety. This principle states: "(a) AI systems should be robust, secure and safe throughout their entire lifecycle so that, in conditions of normal use, foreseeable use or misuse, or other adverse conditions, they function appropriately and do not pose unreasonable safety risk. (b) To this end, AI actors should ensure traceability, including in relation to datasets, processes and decisions made during the AI system lifecycle, to enable analysis of the AI system's outcomes and responses to inquiry, appropriate to the context and consistent with the state of art. (c) AI actors should, based on their roles, the context, and their ability to act, apply a systematic risk management approach to each phase of the AI system lifecycle on a continuous basis to address risks related to AI systems, including privacy, digital security, safety and bias."
+Accountability. This principle states: "AI actors should be accountable for the proper functioning of AI systems and for the respect of the above principles, based on their roles, the context, and consistent with the state of art."
+The Universal Guidelines for Artificial Intelligence (UGAI), a framework for AI governance based on the protection of human rights, were set out at the 2018 meeting of the International Conference on Data Protection and Privacy Commissioners in Brussels, Belgium. The UGAI have been endorsed by more than 250 experts and 60 organizations in 40 countries. EPIC's complaint alleges that HireVue has violated the following principles:
+Transparency. This guideline states: "All individuals have the right to know the basis of an AI decision that concerns them. This includes access to the factors, the logic, and techniques that produced the outcome."
+Fairness. This guideline states: "Institutions must ensure that AI systems do not reflect unfair bias or make impermissible discriminatory decisions."
+Assessment and Accountability. This guideline states: "An AI system should be deployed only after an adequate evaluation of its purpose and objectives, its benefits, as well as its risks. Institutions must be responsible for decisions made by an AI system."
+Accuracy, Reliability, and Validity. This guideline states: "Institutions must ensure the accuracy, reliability, and validity of decisions."
+Legal Documents
+EPIC's FTC Complaint In re HireVue (filed Nov. 6, 2019)
+OECD AI Principles
+Universal Guidelines for Artificial Intelligence
+EPIC's Complaint in the News
+New York City wants to restrict artificial intelligence in hiring, CBS News, November 24, 2020
+Will recruitment ‘gamification’ drive diversity or replicate biases?, Financial Times, June 3, 2020
+How a Utah tech bro came to lead Utah, Iowa and Nebraska's COVID-19 testing, The Gazette, May 20, 2020
+How far has gender equality come? Tech insiders share their insights, SiliconAngle, March 10, 2020
+Emotion analytics used in AI recruitment tools are not only unethical but incorrect, The Sociable , February 27, 2020
+More news
+Businesses turning to AI for job interviews, CBS News , February 20, 2020
+EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings, Forbes, February 3, 2020
+There's a new obstacle to landing a job after college: Getting approved by AI, CBS News Atlanta, January 23, 2020
+There's a new obstacle to landing a job after college: Getting approved by AI, CNN, January 15, 2020
+Artificial Intelligence and the changing face of job interviews – The Wall Street Journal, BizNews, January 10, 2020
+EPIC Files Complaint with FTC Regarding AI-Based Facial Scanning Software, LexBlog, January 9, 2020
+New Illinois Law Could Serve as Benchmark for AI Use in Hiring, Future of Work News, January 9, 2020
+How job interviews will transform the next decade, Wall Street Journal, January 7, 2020
+How Job Interviews Will Transform in the Next Decade , Wall Street Journal, January 7, 2020
+Emotion Recognition Tech Linked To Our Face Is Wrong And Must Be Banned, Says AI Research Group, India Times, December 26, 2019
+Beware of AI Bias in the Recruitment Process, IT Pro, December 17, 2019
+Artificial intelligence will help determine if you get your next job, Vox, December 12, 2019
+What if AI Was Made Incharge Of Recruitment?, AI Daily, December 12, 2019
+Considering AI In Hiring? As Its Use Grows, So Do The Legal Implications For Employers., Forbes, December 5, 2019
+FTC Investigation into HireVue Candidate Scoring Requested, National Law Review, November 15, 2019
+AI-Powered Hiring Practices Face Regulator Scrutiny, Associations Now, November 14, 2019
+Privacy Tip #216 – Another Caution about Biometric Data, JD Supra, November 14, 2019
+Artificial Intelligence Poses New Threat to Equal Employment Opportunity, Forbes, November 12, 2019
+A.I. Is Everywhere—But Where Is Human Judgment?, Fortune, November 12, 2019
+FTC Should Probe AI Screening Co. HireVue, Advocates Say, Law360, November 8, 2019
+The AI hiring industry is under scrutiny—but it’ll be hard to fix, MIT Technology Review, November 7, 2019
+A face-scanning algorithm increasingly decides whether you deserve the job, Washington Post, November 6, 2019
+HireVue in the News
+A face-scanning algorithm increasingly decides whether you deserve the job, Washington Post, Nov. 6, 2019
+Your Interview With AI, Inside Higher Ed, Nov. 4, 2019
+‘Disease’ of recruitment bias: is technology a cure or a cause?, Financial Times, Oct. 24, 2019
+Unilever saves on recruiters by using AI to assess job interviews, The Guardian, Oct. 25, 2019
+Applying for jobs in the digital age: Why companies are now using AI to judge candidates, The National, Oct. 31, 2019
+For some employment algorithms, disability discrimination by default, Brookings, Oct. 31, 2019
+Delta and Dozens of Other Companies Are Using A.I. and Face Scanning to Decide Whom to Hire. Critics Call It 'Digital Snake Oil', Inc., Oct. 30, 2019
+When the HR department is a robotic phrenologist: "face-scanning algorithm" gains popularity as a job-applicant screener, BoingBoing, Oct. 23, 2019
+Related EPIC FTC Work
+EPIC has previously pursued complaints with the FTC concerning proprietary algorithms and facial recognition. EPIC filed a complaint against Universal Tennis Rating, a secret, proprietary algorithm, used to assign personally identifiable numeric scores to tennis players under 13 years old. EPIC also filed a complaint against Facebook concerning the company's facial recognition practices.
+Share this page:
+Subscribe to the EPIC Alert
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+EPIC Alert archive »
+Electronic Privacy Information Center
+1519 New Hampshire Avenue NW
+Washington, DC 20036
+202.483.1140
+info[at]epic[dot]org
+© 1994 - 2020 EPIC, all rights reserved.
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+EPIC Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+Electronic Privacy Information Center1519 New Hampshire Avenue NW Washington, DC 20036More info
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+FOIA Documents
+EPIC FOIA Notes
+EPIC Former Secrets
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+EPIC Bookstore
+Support EPIC

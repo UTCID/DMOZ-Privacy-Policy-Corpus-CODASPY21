@@ -1,0 +1,76 @@
+https://searchenterprisedesktop.techtarget.com/tip/How-to-use-the-Office-cloud-policy-service-with-Microsoft-365
+Fotolia
+Share this item with your network:
+By
+Peter van der Woude,
+KPN ICT Consulting
+Published: 24 Aug 2020
+The Microsoft 365 for enterprise license -- previously known as Office 365 ProPlus -- provides cross-platform access to Microsoft's set of productivity applications and IT can manage them through the Office cloud policy service.
+This license provides users with the flexibility to use the Office apps on their device and platform of choice. This leaves IT administrators with the challenge of presetting specific configurations for end users across these device types and platforms.
+To address that challenge, IT administrators can use Microsoft's Office cloud policy service, a cloud service that can configure user settings during the startup and deployment of the Office app. This cloud service is now integrated in the Microsoft Endpoint Manager admin center, which includes many of the common policies available with Intune.
+Configuration options for Office applications
+When IT admins look at the configuration options for the Microsoft 365 Office apps, they can now choose between using the Office cloud policy service and Administrative Templates when they use Microsoft Endpoint Manager. The Administrative Templates provide the IT admins with essentially all user and device policies that are available for Office apps. This configuration option requires the device to be enrolled in Microsoft Intune and only works for Windows devices.
+The Office cloud policy service takes an opposite approach. This cloud service provides most of the user policies that are available for Office apps, and it applies them to managed and unmanaged devices across various common platforms. The Office applications check for these policies after the initial user login and apply them every time the user starts up a Microsoft 365 Office app.
+Prerequisites and things to know about the Office cloud policy service
+When IT admins work with Office cloud policy service, there are a few things that are important to know. IT professionals should keep the following factors in mind when deploying Office apps using the Office cloud policy service.
+Azure assigns the policy configuration to an Azure AD security group.
+Azure AD security group only works with a single policy configuration.
+The users need a valid license for Microsoft 365 applications for enterprise.
+The Office applications check the policy configuration when the user signs into an Office app and every 90 minutes while the applications are open, and the applications apply the policy configuration each time a user opens the app.
+The Office applications automatically add new user-based policy settings to the Office cloud policy service.
+Policy settings that IT applies via the Office cloud policy service take precedence over policy settings implemented via Administrative Templates or implemented via local registry keys.
+Configuring applications with the Office cloud policy service
+The Office cloud policy service can be useful when configuring a unified experience for users that doesn't depend on the management state of the device. Some settings don't even rely on the device platform.
+The following steps walk IT administrators through creating and setting a policy configuration with the Office cloud policy service. This method uses the Microsoft Endpoint Manager admin center.
+Open the Microsoft Endpoint Manager admin center portal and navigate to Apps > Policies for Office apps. Then open the Apps | Policies for Office apps pane.
+On the Apps | Policies for Office apps pane, click Create to open the Create policy configuration page, which will provide the same experience as configuring the Office cloud policy service directly.
+On the Create policy configuration page, configure the following settings and click Create.
+Name. This field provides a name for the policy configuration.
+Description. This field provides a description for the policy configuration. It is optional.
+Assignments. This selection creates the assignment for the policy configuration. To create policy configurations that apply to the different platforms and don't rely on the management state of the device, IT should choose the option that states "This policy configuration applies to users."
+Select group. This applies the policy configuration to a specific Azure Active Directory (AD) security group. The IT administrator can choose the required Azure AD security group by selecting the group from the provided list. Every available group can only be used once for a policy configuration.
+Configure policies. This settings overview configures the specific user settings that IT should configure by using this policy configuration (Figure 1). IT admins can choose among over 2000 user-specific settings that apply to the different Office apps. The settings overview panel provides five important properties of the different settings: the policy name, the applicable platform, the applicable application, the recommendation of the security baseline and the configuration status. IT can configure a policy by clicking on the specific policy name -- which will also provide additional information about the policy setting -- and selecting the required configuration.
+Several configured policies for the Office applications in the Microsoft Endpoint Manager platform
+After IT creates the policy configuration, it will be available through the main Office 365 configuration portal. When IT admins create multiple policy configurations, they can reorder the priority of the policy configuration to denote the most important ones.
+Dig Deeper on Microsoft Office and Office 365
+How to set up MFA for Office 365 on end-user devices
+By: Peter van der Woude
+How to deploy Office 365 Applications with Microsoft Intune
+By: Peter van der Woude
+How to evaluate on-premises vs. cloud-based MDM, UEM
+By: Colm Warner
+Compare capabilities of Office 365 MDM vs. Intune
+By: Peter van der Woude
+Sponsored News
+End-User Service Delivery: Why IT Must Move Up the Stack to Deliver Real Value
+–Citrix
+Wanted: Simplified Device Management in the Cloud
+–HPI
+What’s Next in Digital Workspaces: 3 Improvements to Look for in 2019
+–Citrix
+See More
+Related Content
+Cloud App Discovery spotlights shadow IT users
+– SearchWindowsServer
+Office 365 administrators must brush up on cloud ...
+– SearchWindowsServer
+Configure Azure MFA to access Office 365 from anywhere
+– SearchWindowsServer
+Latest TechTarget resources
+Virtual Desktop
+Windows Server
+SearchVirtualDesktop
+How to select the best Windows Virtual Desktop thin client
+While thin clients aren't the most feature-rich devices, they offer a secure endpoint for virtual desktop users. Learn how to ...
+Amazon brings Mac mini to AWS
+Amazon's new EC2 Mac service offers the macOS on Mac mini hardware to developers who want to build Xcode applications for the Mac...
+How to troubleshoot a VMware Horizon black screen
+One of the most common issues with VMware Horizon virtual desktops is a black screen displaying and crashing the desktop, so IT ...
+SearchWindowsServer
+Microsoft closes out year with light December Patch Tuesday
+In addition to the monthly security updates, Microsoft shares a fix to address a DNS cache poisoning vulnerability that affects ...
+Learn how to start using Docker on Windows Server 2019
+Getting started with Windows containers requires an understanding of basic concepts and how to work with Docker Engine. Orin ...
+Boost Windows Server performance with these 10 tips
+A small investment in time to execute these Windows Server performance tuning tips and techniques can optimize server workloads ...
+Close

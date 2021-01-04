@@ -1,0 +1,1099 @@
+http://www.avrfreaks.net/forum/glcd-library-undefined-reference-functions-linker-error-please-help
+Skip to main content
+You are hereHome » Communities » AVR Freaks » Forums » Tools » Compilers and General Programming » GLCD library undefined reference to functions - linker error? please help
+Main menu mobile
+Home
+Communities
+Forums
+Projects
+Vendors
+Wiki
+Search
+My summary
+Privacy
+Contact
+Site Use Terms
+Cookies
+Communities
+Forums
+Vendors
+WIKI
+Projects
+GLCD library undefined reference to functions - linker error? please help
+Log in or register to post comments
+Go To Last Post
+36 posts / 0 new
+Author
+Message
+tellSlater
+Level: Hangaround
+Joined: Sun. Mar 18, 2018
+Posts: 158 View posts
+Location: Athens - Greece
+#1
+Posted
+by tellSlater:
+Tue. Sep 22, 2020 - 11:01 PM
+Fivestar widget
+12345Total votes: 0
+So, I am trying for the first time to operate a Nokia 5110 LCD using an ATMega328p. I managed to include the GLCD library in my solution by adding the directory path to the C++ compiler directories (see next picture)
+and then defining any parameters before including the library's main C file on the top of my code. After I did that I realized that the text editor auto filled all the functions I wanted to use such as glcd_init() ... (see next picture)
+The problem is as soon as I tried to compile I get "undefined reference" for each and every GLCD function I used.
+It is the first time I try to import an external library and use it so I am pretty sure I have made an obvious mistake that I can't see or am not aware about. Could anyone more experienced help?
+This topic has a solution. Jump to the solution.
+TO THE FINDER... THE ISLE OF KOHOLINT, IS BUT AN ILLUSION... HUMAN, MONSTER, SEA, SKY... A SCENE ON THE LID OF A SLEEPER'S EYE... AWAKE THE DREAMER, AND KOHOLINT WILL VANISH MUCH LIKE A BUBBLE ON A
+NEEDLE... CAST-AWAY, YOU SHOULD KNOW THE TRUTH!
+Tags:Tools, Compilers and General Programming, # Atmel studio #atmega328p, solved
+Last Edited: Wed. Sep 23, 2020 - 05:16 PM
+Log in / register to post comments
+Top
+skeeve
+Level: Raving Lunatic
+Joined: Sun. Oct 29, 2006
+Posts: 5358 View posts
+#2
+Posted
+by skeeve:
+Wed. Sep 23, 2020 - 02:33 AM
+12345Total votes: 1
+The references appear to be for C++ functions.
+My guess is that the library is written for C.
+extern "C" should solve your problem.
+Iluvatar is the better part of Valar.
+Log in or register to post comments
+Top
+tellSlater
+Level: Hangaround
+Joined: Sun. Mar 18, 2018
+Posts: 158 View posts
+Location: Athens - Greece
+#3
+Posted
+by tellSlater:
+Wed. Sep 23, 2020 - 03:56 AM (Reply to #2)
+12345Total votes: 0
+It didn't work... I will give it another try tomorrow. Here's the result of using extern "C" :
+I also tried putting all definitions and includes in extern C but I got the same result
+TO THE FINDER... THE ISLE OF KOHOLINT, IS BUT AN ILLUSION... HUMAN, MONSTER, SEA, SKY... A SCENE ON THE LID OF A SLEEPER'S EYE... AWAKE THE DREAMER, AND KOHOLINT WILL VANISH MUCH LIKE A BUBBLE ON A
+NEEDLE... CAST-AWAY, YOU SHOULD KNOW THE TRUTH!
+Log in or register to post comments
+Top
+awneil
+Level: 10k+ Postman
+Joined: Fri. Jul 1, 2005
+Posts: 21010 View posts
+Location: Basingstoke, Hampshire, UK
+#4
+Posted
+by awneil:
+Wed. Sep 23, 2020 - 07:43 AM (Reply to #3)
+12345Total votes: 0
+It's always important to read the diagnostic messages literally:
+The fact that it says "conflicting declaration" must mean that you have another declaration somewhere that doesn't have the extern "C"
+If you were to look at the 'Output' window - rather than the stupid 'Error List' - it would undoubtedly also tell you exactly where that other declaration is.
+This is one of the key reasons why the 'Error List' gets so frequently panned here.
+How to find the 'Output' window:
+https://www.avrfreaks.net/commen...
+Top Tips:
+How to properly post source code - see: https://www.avrfreaks.net/comment... - also how to properly include images/pictures
+"Garbage" characters on a serial terminal are (almost?) invariably due to wrong baud rate - see: https://learn.sparkfun.com/tutorials/serial-communication
+Wrong baud rate is usually due to not running at the speed you thought; check by blinking a LED to see if you get the speed you expected
+Difference between a crystal, and a crystal oscillator: https://www.avrfreaks.net/comment...
+When your question is resolved, mark the solution: https://www.avrfreaks.net/comment...
+Beginner's "Getting Started" tips: https://www.avrfreaks.net/comment...
+Log in or register to post comments
+Top
+awneil
+Level: 10k+ Postman
+Joined: Fri. Jul 1, 2005
+Posts: 21010 View posts
+Location: Basingstoke, Hampshire, UK
+#5
+Posted
+by awneil:
+Wed. Sep 23, 2020 - 07:47 AM
+12345Total votes: 0
+tellSlater wrote:
+Why are you #including a .c file ?
+Please see Tip #1 in my signature, below, for how to properly post source code - not as an image!
+EDIT
+This is probably what's causing your "conflicting declaration" message ...
+Top Tips:
+How to properly post source code - see: https://www.avrfreaks.net/comment... - also how to properly include images/pictures
+"Garbage" characters on a serial terminal are (almost?) invariably due to wrong baud rate - see: https://learn.sparkfun.com/tutorials/serial-communication
+Wrong baud rate is usually due to not running at the speed you thought; check by blinking a LED to see if you get the speed you expected
+Difference between a crystal, and a crystal oscillator: https://www.avrfreaks.net/comment...
+When your question is resolved, mark the solution: https://www.avrfreaks.net/comment...
+Beginner's "Getting Started" tips: https://www.avrfreaks.net/comment...
+Last Edited: Wed. Sep 23, 2020 - 07:48 AM
+Log in or register to post comments
+Top
+clawson
+Level: Moderator
+Joined: Mon. Jul 18, 2005
+Posts: 100814 View posts
+Location: (using avr-gcc in) Finchingfield, Essex, England
+#6
+Posted
+by clawson:
+Wed. Sep 23, 2020 - 08:13 AM
+12345Total votes: 0
+What GLCD "library" is this anyway? Presumably it comes as at least two files - a glcd.c and also a glcd.h? The idea would be that you add glcd.c as one of the files to be built (so the implementations it defines will be available in the link) then you would simply #include the "glcd.h" to get access to the functions from your main driving code. If, as Michael suspected, the main driving code is C++ not C then rather than just:
+#include "glcd.h"you would use:
+extern "C" {
+#include "glcd.h"
+}Which would allow the calling code to make "non mangled" references to the functions declared in the .h file and defined in the .c file.
+As it's a 328 I wonder if life might not be a whole lot easier and you simply write everything in Arduino which has a plethora of GLCD libraries to choose from (not least of which is Adafruit_GFX).
+Log in or register to post comments
+Top
+awneil
+Level: 10k+ Postman
+Joined: Fri. Jul 1, 2005
+Posts: 21010 View posts
+Location: Basingstoke, Hampshire, UK
+#7
+Posted
+by awneil:
+Wed. Sep 23, 2020 - 08:21 AM (Reply to #6)
+12345Total votes: 0
+clawson wrote:Presumably it comes as at least two files - a glcd.c and also a glcd.h?
+OP does seem to be trying to #include a glcd.c file
+One would hope that a decent library would provide the C++ compatibility in its header file; eg,
+#ifdef __cplusplus
+extern "C" {
+#include "glcd.h"
+}
+#endif
+As it's a 328 I wonder if life might not be a whole lot easier and you simply write everything in Arduino which has a plethora of GLCD libraries to choose from
++1
+Top Tips:
+How to properly post source code - see: https://www.avrfreaks.net/comment... - also how to properly include images/pictures
+"Garbage" characters on a serial terminal are (almost?) invariably due to wrong baud rate - see: https://learn.sparkfun.com/tutorials/serial-communication
+Wrong baud rate is usually due to not running at the speed you thought; check by blinking a LED to see if you get the speed you expected
+Difference between a crystal, and a crystal oscillator: https://www.avrfreaks.net/comment...
+When your question is resolved, mark the solution: https://www.avrfreaks.net/comment...
+Beginner's "Getting Started" tips: https://www.avrfreaks.net/comment...
+Log in or register to post comments
+Top
+clawson
+Level: Moderator
+Joined: Mon. Jul 18, 2005
+Posts: 100814 View posts
+Location: (using avr-gcc in) Finchingfield, Essex, England
+#8
+Posted
+by clawson:
+Wed. Sep 23, 2020 - 10:00 AM
+12345Total votes: 0
+awneil wrote:OP does seem to be trying to #include a glcd.c file Yes? I was telling him how to "properly" use library code assuming he's been given a .c / .h pair. If he includes the .c file then it's true the extern "C" requirement may go away (as it will be built as C++ code with mangled names) but not all C works immediately as C++ if it is doing anything "suspicious".
+Of course we don't actually know that it is C++ he's using yet! So that bit could all be a red herring.
+Log in or register to post comments
+Top
+awneil
+Level: 10k+ Postman
+Joined: Fri. Jul 1, 2005
+Posts: 21010 View posts
+Location: Basingstoke, Hampshire, UK
+#9
+Posted
+by awneil:
+Wed. Sep 23, 2020 - 10:08 AM (Reply to #8)
+12345Total votes: 0
+clawson wrote: assuming he's been given a .c
+I was just backing-up that assumption.
+not all C works immediately as C++
+Indeed - we had an example only the other day: https://www.avrfreaks.net/commen...
+clawson wrote:we don't actually know that it is C++
+Indeed.
+#1 spoke of settings for the C++ compiler - but that could be a mistake ...
+Top Tips:
+How to properly post source code - see: https://www.avrfreaks.net/comment... - also how to properly include images/pictures
+"Garbage" characters on a serial terminal are (almost?) invariably due to wrong baud rate - see: https://learn.sparkfun.com/tutorials/serial-communication
+Wrong baud rate is usually due to not running at the speed you thought; check by blinking a LED to see if you get the speed you expected
+Difference between a crystal, and a crystal oscillator: https://www.avrfreaks.net/comment...
+When your question is resolved, mark the solution: https://www.avrfreaks.net/comment...
+Beginner's "Getting Started" tips: https://www.avrfreaks.net/comment...
+Log in or register to post comments
+Top
+tellSlater
+Level: Hangaround
+Joined: Sun. Mar 18, 2018
+Posts: 158 View posts
+Location: Athens - Greece
+#10
+Posted
+by tellSlater:
+Wed. Sep 23, 2020 - 01:08 PM
+12345Total votes: 0
+Here is the library's Github page: https://github.com/andygock/glcd ... It seems to be consisted of many .h and .c files. I observed that the main glcd.c file included the glcd.h file which seemed to be including every other so I only included that one (the glcd.c).
+Here are my includes and defines:
+#define F_CPU
+20000000
+#define BUAD
+9600
+#define BRC
+((F_CPU/16/BUAD) - 1)
+#define INPsize
+32
+#define RAND_MAX 255
+#include <util/delay.h>
+#include <avr/io.h>
+#include <avr/interrupt.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <avr/pgmspace.h>
+#include <math.h>
+#define GLCD_USE_AVR_DELAY
+#define __DELAY_BACKWARD_COMPATIBLE__
+#define GLCD_DEVICE_AVR8
+#define GLCD_CONTROLLER_PCD8544
+#define GLCD_USE_SPI
+extern "C"
+{
+#include "glcd.c"
+#include "fonts/font5x7.h"
+};
+Here is what the commands I use in main look like:
+glcd_init();
+glcd_set_contrast(65);
+glcd_tiny_set_font(Font5x7,5,7,32,127);
+glcd_clear_buffer();
+glcd_tiny_draw_string(15,2,"IT WORKS!");
+glcd_write();
+glcd_clear_buffer();
+Here are the errors I get for various combinations of declaring the library:
+A.no extern C - declaring glcd.c
+#define GLCD_USE_AVR_DELAY
+#define __DELAY_BACKWARD_COMPATIBLE__
+#define GLCD_DEVICE_AVR8
+#define GLCD_CONTROLLER_PCD8544
+#define GLCD_USE_SPI
+#include "glcd.c"
+#include "fonts/font5x7.h"
+extern "C"
+{
+};
+B. declaring both .c and .h without extern C
+#define GLCD_USE_AVR_DELAY
+#define __DELAY_BACKWARD_COMPATIBLE__
+#define GLCD_DEVICE_AVR8
+#define GLCD_CONTROLLER_PCD8544
+#define GLCD_USE_SPI
+#include "glcd.c"
+#include "glcd.h"
+#include "fonts/font5x7.h"
+extern "C"
+{
+};(ERRORS SAME AS A)
+C. Declaring only .h without extern
+#define GLCD_USE_AVR_DELAY
+#define __DELAY_BACKWARD_COMPATIBLE__
+#define GLCD_DEVICE_AVR8
+#define GLCD_CONTROLLER_PCD8544
+#define GLCD_USE_SPI
+// #include "glcd.c"
+#include "glcd.h"
+#include "fonts/font5x7.h"
+extern "C"
+{
+};(SAME ERRORS AS A AND TWO MORE -->)
+D. For the same declarations of glcd.h and glcd.c using extern "C" I get the same ERRORS as above (A, B and C cases). Seems like extern "C" is doing nothing
+Here are my variable declarations as well for good measure:
+PROGMEM const unsigned char waveTable[5][256]
+={
+//Random numbers wave
+{156,164, 53, 27,167,174,146, 99,157, 61, 85, 46, 80, 79, 58,159,
+56,115,234,119,182,127,150,170,133,173,219, 66,227,249,
+6, 57,
+203,255, 45,229, 29, 30, 19, 91,202,158,201, 98,172, 63, 69,235,
+106, 95,220, 35,131, 59,248, 81,154, 86, 31,243, 62,238,242,171,
+90,147,109, 60, 94,130, 43,103,122,132, 84,143, 22,247,105, 15,
+169,187,
+3, 51,254,251,110,114,108, 49, 36, 13,181,225,188,104,
+230, 41,144,168,183,
+9,252, 93,124,107,141,177,140,
+1,175, 28,
+26,233,138,231,185,
+8,221,214,
+4, 89,208, 47,
+0,237, 34,176,
+40,120,212,
+2,236, 64,153,134,224,209, 44, 97, 16,218,200,165,
+178,180,102,137,118,125,161,245,226, 48, 12, 65, 83,101,190,116,
+217,198,142,192,199,155, 38,126,184, 25,189, 17,151,232,207,240,
+96,186, 74,128,196,211,129,163, 21, 73,117,135,197, 14, 24,179,
+20,113, 10,152, 77,160, 70,149,121, 33, 75,112, 88,195,194, 42,
+136,100, 78, 32,191,193, 68, 55,223,204,
+7,215,162, 11, 52, 92,
+250,239, 23, 87,
+5,205, 54,139, 71,228,222, 37,241,206,210,213,
+148,244, 67,253, 50, 76, 82, 18,246,166, 72, 39,111,216,145,123,},
+//square wave
+{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,
+255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,
+255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,
+255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255},
+//left saw (negative slope)
+{255,254,253,252,251,250,249,248,247,246,245,244,243,242,241,240,239,238,237,236,235,234,233,232,231,230,229,228,227,226,225,224,223,222,221,220,219,218,217,216,215,214,213,
+212,211,210,209,208,207,206,205,204,203,202,201,200,199,198,197,196,195,194,193,192,191,190,189,188,187,186,185,184,183,182,181,180,179,178,177,
+176,175,174,173,172,171,170,169,168,167,166,165,164,163,162,161,160,159,158,157,156,155,154,153,152,151,150,149,148,147,146,145,144,143,142,141,
+140,139,138,137,136,135,134,133,132,131,130,129,128,127,126,125,124,123,122,121,120,119,118,117,116,115,114,113,112,111,110,109,108,107,106,105,104,103,102,101,100,99,98,97,96,95,94,93,92,91,90,
+89,88,87,86,85,84,83,82,81,80,79,78,77,76,75,74,73,72,71,70,69,68,67,66,65,64,63,62,61,60,59,58,57,56,55,54,53,52,51,50,49,48,47,46,45,44,43,42,
+41,40,39,38,37,36,35,34,33,32,31,30,29,28,27,26,25,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0},
+//triangle wave
+{1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59,61,63,65,67,69,71,73,75,77,79,81,83,85,
+87,89,91,93,95,97,99,101,103,105,107,109,111,113,115,117,119,121,123,125,127,129,131,133,135,137,139,141,143,145,147,149,151,153,155,157,159,161,163,165,167,169,171,173,175,177,179,181,183,185,187,189,191,193,195,
+197,199,201,203,205,207,209,211,213,215,217,219,221,223,225,227,229,231,233,235,237,239,241,243,245,247,249,251,253,255,255,253,251,249,247,
+245,243,241,239,237,235,233,231,229,227,225,223,221,219,217,215,213,211,209,207,205,203,201,199,197,195,193,191,189,187,185,183,181,179,177,
+175,173,171,169,167,165,163,161,159,157,155,153,151,149,147,145,143,141,139,137,135,133,131,129,127,125,123,121,119,117,115,113,111,109,107,
+105,103,101,99,97,95,93,91,89,87,85,83,81,79,77,75,73,71,69,67,65,63,61,59,57,55,53,51,49,47,45,43,41,39,37,35,33,31,29,27,25,23,21,19,17,15,
+13,11,9,7,5,3,1},
+//sine wave
+{0,0,0,0,1,1,1,2,2,3,4,5,5,6,7,9,10,11,12,14,15,16,18,20,21,23,25,27,29,31,33,35,37,39,42,44,46,49,51,54,56,59,62,64,67,
+70,73,76,78,81,84,87,90,93,96,99,102,105,108,111,115,118,121,124,127,130,133,136,139,143,146,149,152,155,158,161,164,167,170,173,176,178,181,184,187,190,192,195,198,200,203,205,208,210,212,215,217,219,
+221,223,225,227,229,231,233,234,236,238,239,240,242,243,244,245,247,248,249,249,250,251,252,252,253,253,253,254,254,254,254,254,254,254,
+253,253,253,252,252,251,250,249,249,248,247,245,244,243,242,240,239,238,236,234,233,231,229,227,225,223,221,219,217,215,212,210,208,205,
+203,200,198,195,192,190,187,184,181,178,176,173,170,167,164,161,158,155,152,149,146,143,139,136,133,130,127,124,121,118,115,111,108,105,
+102,99,96,93,90,87,84,81,78,76,73,70,67,64,62,59,56,54,51,49,46,44,42,39,37,35,33,31,29,27,25,23,21,20,18,16,15,14,12,11,10,9,7,6,5,5,4,
+3,2,2,1,1,1,0,0,0} };
+/*
+*/
+//Note frequencies
+PROGMEM float const keyFreq[88] = {
+27.5, 29.1352, 30.8677,
+//Octave 0
+32.7032, 34.6478, 36.7081, 38.8909, 41.2034, 43.6535, 46.2493, 48.9994, 51.9131, 55, 58.2075, 61.7354,
+//Octave 1
+65.4064, 69.2957, 73.4162, 77.7817, 82.4069, 87.3071, 92.4986, 97.9989, 103.826, 110, 116.541, 123.471,
+//Octave 2
+130.813, 138.591, 146.832, 155.563, 164.814, 174.614, 184.997, 195.998, 207.652, 220, 233.082, 246.942,
+//Octave 3
+261.626, 277.183, 293.665, 311.127, 329.628, 349.228, 369.994, 394.995, 415.305, 440, 466.164, 493.883,
+//Octave 4
+523.251, 554.365, 587.330, 622.254, 659.255, 698.456, 739.989, 783.991, 830.609, 880, 932.328, 987.767,
+//Octave 5
+1046.50, 1108.73, 1174.66, 1244.51, 1318.51, 1396.91, 1479.98, 1567.98, 1661.22, 1760, 1864.66, 1975.53,
+//Octave 6
+2093.00, 2217.46, 2349.32, 2489.02, 2637.02, 2793.83, 2959.96, 3135.96, 3322.44, 3520, 3729.31, 3951.07,
+//Octave 7
+4186.01
+//Octave 8
+};
+/*
+//Note frequencies x100
+PROGMEM unsigned const int keyFreq[88] = {
+2750, 2914, 3087,																				//Octave 0
+3270, 3465, 3671, 3889, 4120, 4365, 4625, 4900,5191, 5500, 5821, 6174,							//Octave 1
+6541, 6930, 7342, 7778, 8241, 8731, 9250, 9800, 10383, 11000, 11654, 12347,						//Octave 2
+13081, 13859, 14683, 15556, 16481,17461, 18500, 19600, 20765, 22000, 23308, 24694,				//Octave 3
+26163, 27718, 29367, 31113, 32963, 34923, 36999, 39500, 41530, 44000, 46616, 49388,				//Octave 4
+52325, 55436, 58733, 62225, 65926, 69846, 73999, 78399, 83061, 88000, 93233, 98777,				//Octave 5
+104650, 110873, 117466, 124451, 131851, 139691, 147998,	156798, 166122, 176000, 186466, 197553,	//Octave 6
+209300, 221746, 234932,	248902, 263702, 279383, 295996, 313596, 332244, 352000, 372931,	395107,	//Octave 7
+418601																							//Octave 8
+};
+*/
+// const double refclk=39063;
+// =20MHz / 510 ... increase to compensate for higher pitch
+volatile unsigned int refclk=39063;
+// measured 20MHz
+volatile
+uint16_t	phaccu[2] = {0, 0};
+volatile
+uint16_t	tword[2] = {0, 0};
+volatile
+uint8_t
+key[2] = {48, 48};
+volatile
+uint8_t
+osc[2] = {0, 0};
+volatile uint8_t waveKind[2] = {4, 4};
+volatile uint16_t dutyCycle;
+volatile uint16_t ADCinputs[INPsize];
+volatile uint8_t
+inputsi;
+volatile uint32_t rollingMeanADC;
+volatile uint8_t
+smallTimer = 0;			//Counts 1/40ms - every timer0 overflow interrupt
+volatile uint16_t millisecs = 0;			//Counts 1 ms every 40 smallTimer clicks
+volatile uint16_t millisecsLast = 0;		//Counts ms - used to mark last time note calculations were made
+volatile uint16_t millisecsAutoButton = 0;	//Counts ms - used for AutoButton function
+volatile uint16_t millisecsSerial = 0;		//Counts ms - used for timing some serial debugging commands
+volatile
+uint8_t
+notePlaying[2] = {0, 0};	//Boolean
+- enables oscillators if a note is playing
+volatile
+uint8_t
+notePlayingSum = 0;			//Boolean
+- enables oscillators if a note is playing
+volatile uint8_t volume[2] = {255, 255};
+volatile uint8_t volumeRelease[2] = {0, 0};
+volatile
+uint16_t
+mainNoteADC[2] = {550, 550};	//INPUT - main note
+volatile
+uint16_t
+finalNoteADC[2] = {550, 550};	//Note after sweep and vibrato are applied
+volatile
+uint8_t
+attack[2] = {70, 70};		//INPUT - Envelope attack
+volatile
+uint8_t
+decay[2] = {50, 50};		//INPUT - Envelope decay
+volatile
+uint8_t
+sustain[2] = {255, 255};	//INPUT - Envelope sustain
+volatile
+uint8_t
+release[2] = {150, 150};	//INPUT - Envelope release
+volatile
+uint8_t
+releaseMode[2] = {0, 0};	//INPUT - Release mode (0->linear or 1->nonlinear)
+volatile
+uint8_t
+envelopeStage[2] = {4, 4};		//Tracks the current stage of the envelope
+volatile
+uint16_t	millisecsEnvelope[2] = {0, 0};	//Timer for the envelope incremented in ms
+volatile
+uint8_t
+sweepSpeed[2] = {70, 70};		//INPUT - Sweep speed (0->one semi a second, 255->fast!)
+volatile
+uint8_t
+sweepDirection[2] = {1, 1};		//INPUT - Sweep direction (0->down, 1->up, 2->from down, 3->from up)
+volatile
+uint16_t	millisecsSweep[2] = {0, 0};		//Timer for the sweep incremented in ms
+volatile
+uint16_t
+vibratoSpeed[2] = {400, 400};	//INPUT - Vibration speed
+volatile
+uint8_t
+vibratoDepth[2] = {20, 20};		//INPUT - Vibration intensity
+volatile
+uint8_t
+vibratoWaveKind[2] = {4, 4};	//INPUT - Vibration
+volatile
+uint16_t
+vibratoPhacc[2] = {0, 0};		//Vibrato phase accumulator
+volatile
+uint8_t
+button1Pin=0b10000000;
+volatile
+uint8_t
+button1=0;
+volatile
+uint8_t
+timerb1=0;
+volatile
+uint8_t
+button2Pin=0b10000000;
+volatile
+uint8_t
+button2=0;
+volatile
+uint8_t
+timerb2=0;Whatever I do it is the same error messages - undefined references. I have so many times wondered if I should be using Arduino but I am much more familiar with using direct AVR programming
+TO THE FINDER... THE ISLE OF KOHOLINT, IS BUT AN ILLUSION... HUMAN, MONSTER, SEA, SKY... A SCENE ON THE LID OF A SLEEPER'S EYE... AWAKE THE DREAMER, AND KOHOLINT WILL VANISH MUCH LIKE A BUBBLE ON A
+NEEDLE... CAST-AWAY, YOU SHOULD KNOW THE TRUTH!
+Log in or register to post comments
+Top
+ki0bk
+Level: Raving Lunatic
+Joined: Mon. Sep 8, 2014
+Posts: 8213 View posts
+Location: Olathe KS
+#11
+Posted
+by ki0bk:
+Wed. Sep 23, 2020 - 01:26 PM
+12345Total votes: 1
+Normally, one "includes" only the .h files, and adds the .c files to the solution in the IDE, in other words, don't "include" the other .c files in .c files.
+Jim
+(Possum Lodge oath) Quando omni flunkus, moritati.
+"I thought growing old would take longer"
+Log in or register to post comments
+Top
+tellSlater
+Level: Hangaround
+Joined: Sun. Mar 18, 2018
+Posts: 158 View posts
+Location: Athens - Greece
+#12
+Posted
+by tellSlater:
+Wed. Sep 23, 2020 - 02:03 PM (Reply to #11)
+12345Total votes: 0
+As I stated above, I have added the path to the library in the C++ toolchain directories, have set the appropriate symbols there and have already tried including the .h file alone. The errors persisted (Undefined reference).
+The library is this: https://github.com/andygock/glcd . I am suspecting I am not importing it correctly in my code or in the IDE - I have never used or imported an external library.
+I have copied the library in my project folder and then I added the path to the toolchain C++ directories and set the appropriate symbols. I then have tried including it in many ways as I state above.
+I have not added existing items to my solution. Here is a screenshot of my solution:
+TO THE FINDER... THE ISLE OF KOHOLINT, IS BUT AN ILLUSION... HUMAN, MONSTER, SEA, SKY... A SCENE ON THE LID OF A SLEEPER'S EYE... AWAKE THE DREAMER, AND KOHOLINT WILL VANISH MUCH LIKE A BUBBLE ON A
+NEEDLE... CAST-AWAY, YOU SHOULD KNOW THE TRUTH!
+Log in or register to post comments
+Top
+awneil
+Level: 10k+ Postman
+Joined: Fri. Jul 1, 2005
+Posts: 21010 View posts
+Location: Basingstoke, Hampshire, UK
+#13
+Posted
+by awneil:
+Wed. Sep 23, 2020 - 02:14 PM (Reply to #12)
+12345Total votes: 0
+tellSlater wrote:I have added the path to the library in the C++ toolchain directories
+I think you've misunderstood the purpose of that setting.
+All that setting does is tell the compiler (or, more precisely, the preprocessor) a place to look when it's searching for header file (ie, .h files)
+have set the appropriate symbols there and have already tried including the .h file alone.
+As both clawson and ki0bk have explained, #including the .h file is necessary - but not sufficient.
+The header file just contains declarations of the library's functions & variables - you also need the definitions of those things.
+http://c-faq.com/decl/decldef.html
+As well as #including the .h file in your source file(s) - to get the declarations - you also need to add the .c files to your project - to get the definitions
+This is standard 'C' stuff - not specific to Atmel Studio.
+This tutorial may help:
+https://www.avrfreaks.net/forum/...
+Top Tips:
+How to properly post source code - see: https://www.avrfreaks.net/comment... - also how to properly include images/pictures
+"Garbage" characters on a serial terminal are (almost?) invariably due to wrong baud rate - see: https://learn.sparkfun.com/tutorials/serial-communication
+Wrong baud rate is usually due to not running at the speed you thought; check by blinking a LED to see if you get the speed you expected
+Difference between a crystal, and a crystal oscillator: https://www.avrfreaks.net/comment...
+When your question is resolved, mark the solution: https://www.avrfreaks.net/comment...
+Beginner's "Getting Started" tips: https://www.avrfreaks.net/comment...
+Last Edited: Wed. Sep 23, 2020 - 02:15 PM
+Log in or register to post comments
+Top
+tellSlater
+Level: Hangaround
+Joined: Sun. Mar 18, 2018
+Posts: 158 View posts
+Location: Athens - Greece
+#14
+Posted
+by tellSlater:
+Wed. Sep 23, 2020 - 02:22 PM (Reply to #4)
+12345Total votes: 0
+Here is the output window - I son't see something useful in it:
+------ Build started: Project: ATMega328P_ZNEAR, Configuration: Debug AVR ------
+Build started.
+Project "ATMega328P_ZNEAR.cppproj" (default targets):
+Target "PreBuildEvent" skipped, due to false condition; ('$(PreBuildEvent)'!='') was evaluated as (''!='').
+Target "CoreBuild" in file "G:\program files\AtmelStudio\7.0\Vs\Compiler.targets" from project "c:\users\tellslater\Documents\Atmel Studio\7.0\ATMega328P_SNEAR\ATMega328P_SNEAR\ATMega328P_ZNEAR.cppproj" (target "Build" depends on it):
+Task "RunCompilerTask"
+Shell Utils Path G:\program files\AtmelStudio\7.0\shellUtils
+G:\program files\AtmelStudio\7.0\shellUtils\make.exe all --jobs 8 --output-sync
+Building target: ATMega328P_ZNEAR.elf
+Invoking: AVR8/GNU Linker : 5.4.0
+"G:\program files\AtmelStudio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-g++.exe" -o ATMega328P_ZNEAR.elf  main.o   -Wl,-Map="ATMega328P_ZNEAR.map" -Wl,--start-group  -Wl,--end-group -Wl,-L"C:\Users\tellSlater\Documents\Atmel Studio\7.0\ATMega328P_SNEAR\ATMega328P_SNEAR\glcd-master"  -Wl,--gc-sections -mmcu=atmega328p -B "G:\program files\AtmelStudio\7.0\Packs\atmel\ATmega_DFP\1.3.300\gcc\dev\atmega328p"
+c:\users\tellslater\Documents\Atmel Studio\7.0\ATMega328P_SNEAR\ATMega328P_SNEAR\Debug\Makefile(106,1): error: recipe for target 'ATMega328P_ZNEAR.elf' failed
+main.o: In function `main':
+c:\users\tellslater\Documents\Atmel Studio\7.0\ATMega328P_SNEAR\ATMega328P_SNEAR\main.cpp(510,1): error: undefined reference to `glcd_init()'
+c:\users\tellslater\Documents\Atmel Studio\7.0\ATMega328P_SNEAR\ATMega328P_SNEAR\main.cpp(511,1): error: undefined reference to `glcd_set_contrast(unsigned char)'
+c:\users\tellslater\Documents\Atmel Studio\7.0\ATMega328P_SNEAR\ATMega328P_SNEAR\main.cpp(512,1): error: undefined reference to `glcd_tiny_set_font(char const*, unsigned char, unsigned char, char, char)'
+c:\users\tellslater\Documents\Atmel Studio\7.0\ATMega328P_SNEAR\ATMega328P_SNEAR\main.cpp(513,1): error: undefined reference to `glcd_clear_buffer()'
+c:\users\tellslater\Documents\Atmel Studio\7.0\ATMega328P_SNEAR\ATMega328P_SNEAR\main.cpp(514,1): error: undefined reference to `glcd_tiny_draw_string(unsigned char, unsigned char, char*)'
+c:\users\tellslater\Documents\Atmel Studio\7.0\ATMega328P_SNEAR\ATMega328P_SNEAR\main.cpp(515,1): error: undefined reference to `glcd_write()'
+c:\users\tellslater\Documents\Atmel Studio\7.0\ATMega328P_SNEAR\ATMega328P_SNEAR\main.cpp(516,1): error: undefined reference to `glcd_clear_buffer()'
+collect2.exe(0,0): error: ld returned 1 exit status
+make: *** [ATMega328P_ZNEAR.elf] Error 1
+The command exited with code 2.
+Done executing task "RunCompilerTask" -- FAILED.
+Done building target "CoreBuild" in project "ATMega328P_ZNEAR.cppproj" -- FAILED.
+Done building project "ATMega328P_ZNEAR.cppproj" -- FAILED.
+Build FAILED.
+========== Build: 0 succeeded or up-to-date, 1 failed, 0 skipped ==========
+TO THE FINDER... THE ISLE OF KOHOLINT, IS BUT AN ILLUSION... HUMAN, MONSTER, SEA, SKY... A SCENE ON THE LID OF A SLEEPER'S EYE... AWAKE THE DREAMER, AND KOHOLINT WILL VANISH MUCH LIKE A BUBBLE ON A
+NEEDLE... CAST-AWAY, YOU SHOULD KNOW THE TRUTH!
+Log in or register to post comments
+Top
+awneil
+Level: 10k+ Postman
+Joined: Fri. Jul 1, 2005
+Posts: 21010 View posts
+Location: Basingstoke, Hampshire, UK
+#15
+Posted
+by awneil:
+Wed. Sep 23, 2020 - 02:32 PM (Reply to #14)
+12345Total votes: 0
+But that output doesn't correspond to the 'Error List' in the screenshot that you posted in #3 - does it?
+The 'Error List' is OK in simple cases, where it's just a list of errors. Where it falls over is when there is additional information in the output - which was the case back in #3, but isn't after your latest changes.
+Top Tips:
+How to properly post source code - see: https://www.avrfreaks.net/comment... - also how to properly include images/pictures
+"Garbage" characters on a serial terminal are (almost?) invariably due to wrong baud rate - see: https://learn.sparkfun.com/tutorials/serial-communication
+Wrong baud rate is usually due to not running at the speed you thought; check by blinking a LED to see if you get the speed you expected
+Difference between a crystal, and a crystal oscillator: https://www.avrfreaks.net/comment...
+When your question is resolved, mark the solution: https://www.avrfreaks.net/comment...
+Beginner's "Getting Started" tips: https://www.avrfreaks.net/comment...
+Log in or register to post comments
+Top
+tellSlater
+Level: Hangaround
+Joined: Sun. Mar 18, 2018
+Posts: 158 View posts
+Location: Athens - Greece
+#16
+Posted
+by tellSlater:
+Wed. Sep 23, 2020 - 03:05 PM (Reply to #13)
+12345Total votes: 0
+I am aware of the difference between a declaration and a definition. I assumed that the compiler would search for the .c files there as well.
+So I went ahead and added every .c file of the library in my project
+I am using declarations:
+#define F_CPU
+20000000
+#define BUAD
+9600
+#define BRC
+((F_CPU/16/BUAD) - 1)
+#define INPsize
+32
+#define RAND_MAX 255
+#include <util/delay.h>
+#include <avr/io.h>
+#include <avr/interrupt.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <avr/pgmspace.h>
+#include <math.h>
+#include "fonts/font5x7.h"
+#include "glcd.h"
+Now I get 33 errors such as:
+TO THE FINDER... THE ISLE OF KOHOLINT, IS BUT AN ILLUSION... HUMAN, MONSTER, SEA, SKY... A SCENE ON THE LID OF A SLEEPER'S EYE... AWAKE THE DREAMER, AND KOHOLINT WILL VANISH MUCH LIKE A BUBBLE ON A
+NEEDLE... CAST-AWAY, YOU SHOULD KNOW THE TRUTH!
+Log in or register to post comments
+Top
+tellSlater
+Level: Hangaround
+Joined: Sun. Mar 18, 2018
+Posts: 158 View posts
+Location: Athens - Greece
+#17
+Posted
+by tellSlater:
+Wed. Sep 23, 2020 - 03:07 PM (Reply to #15)
+12345Total votes: 0
+Yes, I don't get the "conflicting declarations" error if I am not trying to re-declare the glcd_init() function inside an extern "C".
+TO THE FINDER... THE ISLE OF KOHOLINT, IS BUT AN ILLUSION... HUMAN, MONSTER, SEA, SKY... A SCENE ON THE LID OF A SLEEPER'S EYE... AWAKE THE DREAMER, AND KOHOLINT WILL VANISH MUCH LIKE A BUBBLE ON A
+NEEDLE... CAST-AWAY, YOU SHOULD KNOW THE TRUTH!
+Log in or register to post comments
+Top
+ki0bk
+Level: Raving Lunatic
+Joined: Mon. Sep 8, 2014
+Posts: 8213 View posts
+Location: Olathe KS
+#18
+Posted
+by ki0bk:
+Wed. Sep 23, 2020 - 03:09 PM
+12345Total votes: 0
+Change this:
+#define F_CPU
+20000000
+to
+#define F_CPU
+20000000UL#include <stdint.h>  //add this in main.c to get rid of the unknown type name 'uint8_t' errors!
+(Possum Lodge oath) Quando omni flunkus, moritati.
+"I thought growing old would take longer"
+Last Edited: Wed. Sep 23, 2020 - 03:11 PM
+Log in or register to post comments
+Top
+awneil
+Level: 10k+ Postman
+Joined: Fri. Jul 1, 2005
+Posts: 21010 View posts
+Location: Basingstoke, Hampshire, UK
+#19
+Posted
+by awneil:
+Wed. Sep 23, 2020 - 03:15 PM (Reply to #12)
+12345Total votes: 0
+tellSlater wrote:The library is this: https://github.com/andygock/glcd .
+There aren't any examples for AS7, but AS7 will load the one for AS6:
+The project structure looks like this:
+The source files for the library are under the 'glcd' folder:
+(they have also put the .h files in there, but that's not necessary, and doesn't remove the need to correctly set up the Include Paths).
+You need to get your project looking like that - with all the .c files included in the Project.
+EDIT
+I was called away in the middle of writing that - you seem to have got most of it now.
+Top Tips:
+How to properly post source code - see: https://www.avrfreaks.net/comment... - also how to properly include images/pictures
+"Garbage" characters on a serial terminal are (almost?) invariably due to wrong baud rate - see: https://learn.sparkfun.com/tutorials/serial-communication
+Wrong baud rate is usually due to not running at the speed you thought; check by blinking a LED to see if you get the speed you expected
+Difference between a crystal, and a crystal oscillator: https://www.avrfreaks.net/comment...
+When your question is resolved, mark the solution: https://www.avrfreaks.net/comment...
+Beginner's "Getting Started" tips: https://www.avrfreaks.net/comment...
+Last Edited: Wed. Sep 23, 2020 - 03:17 PM
+Log in or register to post comments
+Top
+clawson
+Level: Moderator
+Joined: Mon. Jul 18, 2005
+Posts: 100814 View posts
+Location: (using avr-gcc in) Finchingfield, Essex, England
+This reply has been marked as the solution.
+#20
+Posted
+by clawson:
+Wed. Sep 23, 2020 - 03:16 PM
+12345Total votes: 0
+I tried to recreate this so I started a whole new C++ project in AS7 then got a .zip from https://github.com/andygock/glcd and unzipped it all in the same directory (so glcd.c and glcd.h sit alongside main.cpp). At first I just had:
+then I pasted in the code lines you are trying to get to work:
+then I tried to build (I knew this wasn't going to work) but this gave me:
+Now I am never a great fan of the "Error List" in AS7 as it does not show you the errors in the order they actually occurred but there are some key points in there. Specifically the #error's that are telling me something I have forgotten to do. So then I  broke with a lifetime of tradition and read the user manual (the readme.md at Github) and it tells me about:
+Further up the page it mentions:
+So clearly a 5110 needs "PCD8544" to be selected. I'm also assuming "SPI" and I know it's AVR8 so I need to define GLCD_DEVICE_AVR8, GLCD_CONTROLLER_PCD8544 and GLCD_USE_SPI so, making sure it is set to "All configurations" I do that here:
+That clears the #error's but I still have the 5x7 error and that's simply because I need to have the font5x7.h file. So when I add:
+then the next error is:
+and that is because the font header has:
+It's using "PROGMEM" but nothing so far has said what PROGMEM is. So there needs to be an inclusion of <avr/pgmspace.h> before the font header:
+Now I arrive roughly were you started this thread:
+but that's because the glcd.c that contains the definitions of those functions is not part of the build. So I use:
+to introduce glcd.c into the project:
+so now the project should build both main.cpp (as C++) and glcd.c (as C). The problem is that AS7 (rather foolishly IMAO!) has two different lots of "Symbols". The one I set earlier was for C++ building but now I'm also building C so I need that set too:
+is set to:
+In passing I just realised that glcd.h includes <avr/pgmspace.h> for the AVR8 build so if I reorder the headers I don't need the specific inclusion of <avr/pgmspace.h>. That is
+But anyway when I build now I still get:
+To find out what's going on I then used a bit of "behind the scenes magic":
+What that tells me is that glcd.c does not contain functions like glcd_init() - I supposed I could have read the source code in fact. So a quick search:
+So it would appear that depending on what micro you are building for you also have to pick the right support file from the devices\ subdirectory. Therefore:
+There is an "AVR8.h" file there and I wonder if it needs to be included somewhere but for not I just add this file and build:
+Still no dice. That's because AVR8.c is in the devices subdirectory and when it refers to "../glcd.h" it means "from here" but that here (that is <projdir>\devices) is not one of the starting points for .h searches. So we need to tell the compiler(s):
+Once again do that for both compilers (though, because the lib is C it's probably sufficient to just do it for "C" and not "C++") but also make sure you do it for "All Configurations".
+Finally I arrive at:
+I can tell you exactly why that is - we're building code for mega328P. The 328 does not have a PORTA. So this code looks like it's been written for some other model of AVR. The offending lines are:
+I'm guessing that it may simply be enough to switch the "SS" pin to be PORTB. In fact when you look at 328 pinout:
+It seem the usual pin for SS is PB2 but now you'll have to revisit lines 59 .. 66 in AVR8.h as that has MOSI on PB2 (which is not right for 328P - MOSI is PB3 in fact). In fact why don't I just correct for 328P:
+To be honest I'm not sure what "DC" and "RST" are in the context of 5110 so I just shoved them on PB6 and PB7 and I wasn't sure if AVR_SS_PIN and CONTROLLER_SS_PIN could be the same so you'll need to investigate that but it has got rid of references to PORTA so...
+and now it's a case of "where DO those live" again...
+Clearly the implementation (for PCD8544) is in pcd8544.c so that needs to be added too:
+The previous error about delay_ms() missing is curious because glcd.h contains:
+but it's only active when GLCD_USE_AVR_DELAY is used so we also need:
+Almost there now - just need to clear some more of the undef refs...
+So we need text_tiny.c in the build too:
+Almost but not quite...
+Adding that file added a new dependency we haven't got so looking for that:
+So we need text.c too:
+and finally....
+Holy flipping Mother of God! That was quite a struggle but the above are what you need to get this to build clean.
+Now just because it BUILDS clean does not mean it actually works. That's where your debugWire debugger will come into play. But at least it gives an idea.
+Having gone through all that I notice in the documentation:
+An AT90USBKEY actually has an ATmega1287 CPU so it's not the same as ATmega328 and it's an AS5 (yuk!) project but it had to be worth a look:
+They appear to have gone for the "grapeshot" approach here and simply thrown everything at it (presumably relying of -ffunction-sections and -gc-sections to prune it back?) but perhaps it was the best approach in the end? No idea why they have unit_testc.c and even more curiously LPC111x.* files in there? But anyway my experiment turned out not entirely dissimilar to what they have!
+Log in or register to post comments
+Top
+awneil
+Level: 10k+ Postman
+Joined: Fri. Jul 1, 2005
+Posts: 21010 View posts
+Location: Basingstoke, Hampshire, UK
+#21
+Posted
+by awneil:
+Wed. Sep 23, 2020 - 03:21 PM
+12345Total votes: 0
+tellSlater wrote:I am aware of the difference between a declaration and a definition
+but then you wrote:I am using declarations (sic):
+#define F_CPU
+20000000
+#define BUAD
+9600
+#define BRC
+((F_CPU/16/BUAD) - 1)
+#define INPsize
+32
+#define RAND_MAX 255
+#include <util/delay.h>
+#include <avr/io.h>
+#include <avr/interrupt.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <avr/pgmspace.h>
+#include <math.h>
+#include "fonts/font5x7.h"
+#include "glcd.h"
+Those are preprocessor directives - not declarations.
+Top Tips:
+How to properly post source code - see: https://www.avrfreaks.net/comment... - also how to properly include images/pictures
+"Garbage" characters on a serial terminal are (almost?) invariably due to wrong baud rate - see: https://learn.sparkfun.com/tutorials/serial-communication
+Wrong baud rate is usually due to not running at the speed you thought; check by blinking a LED to see if you get the speed you expected
+Difference between a crystal, and a crystal oscillator: https://www.avrfreaks.net/comment...
+When your question is resolved, mark the solution: https://www.avrfreaks.net/comment...
+Beginner's "Getting Started" tips: https://www.avrfreaks.net/comment...
+Log in or register to post comments
+Top
+tellSlater
+Level: Hangaround
+Joined: Sun. Mar 18, 2018
+Posts: 158 View posts
+Location: Athens - Greece
+#22
+Posted
+by tellSlater:
+Wed. Sep 23, 2020 - 03:32 PM (Reply to #21)
+12345Total votes: 0
+haha yeah my bad.. Thanks for making sure I get it though! This has been some amazing help from your side. I am having a small food break and will be right on to it trying the last solutions
+TO THE FINDER... THE ISLE OF KOHOLINT, IS BUT AN ILLUSION... HUMAN, MONSTER, SEA, SKY... A SCENE ON THE LID OF A SLEEPER'S EYE... AWAKE THE DREAMER, AND KOHOLINT WILL VANISH MUCH LIKE A BUBBLE ON A
+NEEDLE... CAST-AWAY, YOU SHOULD KNOW THE TRUTH!
+Log in or register to post comments
+Top
+clawson
+Level: Moderator
+Joined: Mon. Jul 18, 2005
+Posts: 100814 View posts
+Location: (using avr-gcc in) Finchingfield, Essex, England
+#23
+Posted
+by clawson:
+Wed. Sep 23, 2020 - 03:37 PM
+12345Total votes: 0
+awneil wrote:Those are preprocessor directives - not declarations. Nor "definitions" (in the C sense) for that matter, even if the word #define is involved !!
+Log in or register to post comments
+Top
+awneil
+Level: 10k+ Postman
+Joined: Fri. Jul 1, 2005
+Posts: 21010 View posts
+Location: Basingstoke, Hampshire, UK
+#24
+Posted
+by awneil:
+Wed. Sep 23, 2020 - 03:39 PM
+12345Total votes: 0
+tellSlater wrote:The library is this: https://github.com/andygock/glcd . I am suspecting I am not importing it correctly in my code or in the IDE - I have never used or imported an external library
+As far as AS7 (or any other IDE, in fact) is concerned, it's just a bunch of source files - no different to source files that you wrote yourself.
+So you really just need to add the source files to the project as for any other source files that you wrote yourself - there is nothing special or magic about them.
+tellSlater wrote:I am much more familiar with using direct AVR programming
+how do you mean ?
+Top Tips:
+How to properly post source code - see: https://www.avrfreaks.net/comment... - also how to properly include images/pictures
+"Garbage" characters on a serial terminal are (almost?) invariably due to wrong baud rate - see: https://learn.sparkfun.com/tutorials/serial-communication
+Wrong baud rate is usually due to not running at the speed you thought; check by blinking a LED to see if you get the speed you expected
+Difference between a crystal, and a crystal oscillator: https://www.avrfreaks.net/comment...
+When your question is resolved, mark the solution: https://www.avrfreaks.net/comment...
+Beginner's "Getting Started" tips: https://www.avrfreaks.net/comment...
+Log in or register to post comments
+Top
+ki0bk
+Level: Raving Lunatic
+Joined: Mon. Sep 8, 2014
+Posts: 8213 View posts
+Location: Olathe KS
+#25
+Posted
+by ki0bk:
+Wed. Sep 23, 2020 - 03:41 PM (Reply to #20)
+12345Total votes: 0
+I think Cliff needs another Freak of the year award for all that!
+(Possum Lodge oath) Quando omni flunkus, moritati.
+"I thought growing old would take longer"
+Log in or register to post comments
+Top
+awneil
+Level: 10k+ Postman
+Joined: Fri. Jul 1, 2005
+Posts: 21010 View posts
+Location: Basingstoke, Hampshire, UK
+#26
+Posted
+by awneil:
+Wed. Sep 23, 2020 - 03:50 PM (Reply to #25)
+12345Total votes: 0
+why do you think I just went straight for the ready-made example?!
+Top Tips:
+How to properly post source code - see: https://www.avrfreaks.net/comment... - also how to properly include images/pictures
+"Garbage" characters on a serial terminal are (almost?) invariably due to wrong baud rate - see: https://learn.sparkfun.com/tutorials/serial-communication
+Wrong baud rate is usually due to not running at the speed you thought; check by blinking a LED to see if you get the speed you expected
+Difference between a crystal, and a crystal oscillator: https://www.avrfreaks.net/comment...
+When your question is resolved, mark the solution: https://www.avrfreaks.net/comment...
+Beginner's "Getting Started" tips: https://www.avrfreaks.net/comment...
+Log in or register to post comments
+Top
+clawson
+Level: Moderator
+Joined: Mon. Jul 18, 2005
+Posts: 100814 View posts
+Location: (using avr-gcc in) Finchingfield, Essex, England
+#27
+Posted
+by clawson:
+Wed. Sep 23, 2020 - 03:56 PM
+12345Total votes: 0
+awneil wrote:I just went straight for the ready-made example?! Which teaches very little and appears to have errors of its own.
+Log in or register to post comments
+Top
+awneil
+Level: 10k+ Postman
+Joined: Fri. Jul 1, 2005
+Posts: 21010 View posts
+Location: Basingstoke, Hampshire, UK
+#28
+Posted
+by awneil:
+Wed. Sep 23, 2020 - 04:09 PM (Reply to #27)
+12345Total votes: 0
+well, it showed how the project should be structured - and it built clean for me.
+Top Tips:
+How to properly post source code - see: https://www.avrfreaks.net/comment... - also how to properly include images/pictures
+"Garbage" characters on a serial terminal are (almost?) invariably due to wrong baud rate - see: https://learn.sparkfun.com/tutorials/serial-communication
+Wrong baud rate is usually due to not running at the speed you thought; check by blinking a LED to see if you get the speed you expected
+Difference between a crystal, and a crystal oscillator: https://www.avrfreaks.net/comment...
+When your question is resolved, mark the solution: https://www.avrfreaks.net/comment...
+Beginner's "Getting Started" tips: https://www.avrfreaks.net/comment...
+Log in or register to post comments
+Top
+tellSlater
+Level: Hangaround
+Joined: Sun. Mar 18, 2018
+Posts: 158 View posts
+Location: Athens - Greece
+#29
+Posted
+by tellSlater:
+Wed. Sep 23, 2020 - 04:46 PM (Reply to #24)
+12345Total votes: 0
+I have no experience working on Arduinos. I am aware it is based on ATMega328p but I dunno how many things are implemented on it
+TO THE FINDER... THE ISLE OF KOHOLINT, IS BUT AN ILLUSION... HUMAN, MONSTER, SEA, SKY... A SCENE ON THE LID OF A SLEEPER'S EYE... AWAKE THE DREAMER, AND KOHOLINT WILL VANISH MUCH LIKE A BUBBLE ON A
+NEEDLE... CAST-AWAY, YOU SHOULD KNOW THE TRUTH!
+Log in or register to post comments
+Top
+tellSlater
+Level: Hangaround
+Joined: Sun. Mar 18, 2018
+Posts: 158 View posts
+Location: Athens - Greece
+#30
+Posted
+by tellSlater:
+Wed. Sep 23, 2020 - 04:50 PM
+12345Total votes: 0
+A friend of mine who works with Java Script told me that he uses a "package manager" and that it helps import libraries - it automates much of the procedure. Is there such a thing for Atmel Studio or C++ IDE in general? Does anyone here use such a tool?
+TO THE FINDER... THE ISLE OF KOHOLINT, IS BUT AN ILLUSION... HUMAN, MONSTER, SEA, SKY... A SCENE ON THE LID OF A SLEEPER'S EYE... AWAKE THE DREAMER, AND KOHOLINT WILL VANISH MUCH LIKE A BUBBLE ON A
+NEEDLE... CAST-AWAY, YOU SHOULD KNOW THE TRUTH!
+Log in or register to post comments
+Top
+awneil
+Level: 10k+ Postman
+Joined: Fri. Jul 1, 2005
+Posts: 21010 View posts
+Location: Basingstoke, Hampshire, UK
+#31
+Posted
+by awneil:
+Wed. Sep 23, 2020 - 04:59 PM (Reply to #30)
+12345Total votes: 0
+again, it's really just a bunch of source files - no different to the source files you write yourself.
+But, yes - there are such things. Arduino would be an example.
+ARM have a such a thing for manufacturers to deliver the support stuff for their ARM-based chips:
+https://developer.arm.com/tools-...
+I guess you could say that ASF is a kind of package manager.
+But then you rely on finding "libraries" (sic) that have been packaged according to the particular "package manager" that you have ...
+Top Tips:
+How to properly post source code - see: https://www.avrfreaks.net/comment... - also how to properly include images/pictures
+"Garbage" characters on a serial terminal are (almost?) invariably due to wrong baud rate - see: https://learn.sparkfun.com/tutorials/serial-communication
+Wrong baud rate is usually due to not running at the speed you thought; check by blinking a LED to see if you get the speed you expected
+Difference between a crystal, and a crystal oscillator: https://www.avrfreaks.net/comment...
+When your question is resolved, mark the solution: https://www.avrfreaks.net/comment...
+Beginner's "Getting Started" tips: https://www.avrfreaks.net/comment...
+Log in or register to post comments
+Top
+tellSlater
+Level: Hangaround
+Joined: Sun. Mar 18, 2018
+Posts: 158 View posts
+Location: Athens - Greece
+#32
+Posted
+by tellSlater:
+Wed. Sep 23, 2020 - 05:21 PM (Reply to #20)
+12345Total votes: 0
+That was INSANE! I learned so much from your post. And yep - compiled just fine! God bless!!
+What is this grep command you are using on the command prompt to find the missing c file? Are you using Linux?
+TO THE FINDER... THE ISLE OF KOHOLINT, IS BUT AN ILLUSION... HUMAN, MONSTER, SEA, SKY... A SCENE ON THE LID OF A SLEEPER'S EYE... AWAKE THE DREAMER, AND KOHOLINT WILL VANISH MUCH LIKE A BUBBLE ON A
+NEEDLE... CAST-AWAY, YOU SHOULD KNOW THE TRUTH!
+Last Edited: Wed. Sep 23, 2020 - 05:28 PM
+Log in or register to post comments
+Top
+awneil
+Level: 10k+ Postman
+Joined: Fri. Jul 1, 2005
+Posts: 21010 View posts
+Location: Basingstoke, Hampshire, UK
+#33
+Posted
+by awneil:
+Wed. Sep 23, 2020 - 06:02 PM (Reply to #32)
+12345Total votes: 0
+tellSlater wrote:What is this grep command
+https://en.wikipedia.org/wiki/Grep
+It originates in Unix, but Windows versions are available.
+Top Tips:
+How to properly post source code - see: https://www.avrfreaks.net/comment... - also how to properly include images/pictures
+"Garbage" characters on a serial terminal are (almost?) invariably due to wrong baud rate - see: https://learn.sparkfun.com/tutorials/serial-communication
+Wrong baud rate is usually due to not running at the speed you thought; check by blinking a LED to see if you get the speed you expected
+Difference between a crystal, and a crystal oscillator: https://www.avrfreaks.net/comment...
+When your question is resolved, mark the solution: https://www.avrfreaks.net/comment...
+Beginner's "Getting Started" tips: https://www.avrfreaks.net/comment...
+Log in or register to post comments
+Top
+clawson
+Level: Moderator
+Joined: Mon. Jul 18, 2005
+Posts: 100814 View posts
+Location: (using avr-gcc in) Finchingfield, Essex, England
+#34
+Posted
+by clawson:
+Wed. Sep 23, 2020 - 07:26 PM
+12345Total votes: 0
+I'm a dyed in the wool Linux user so even when I am using Windows I use some of the Linux tools and "grep" is one of the most useful/powerful ones. But the Window command prompt has a kind of equivalent called "findstr" (which finds strings in files). If you want to use grep on Windows there is a set of tools called gnuwin32 which adds Windows EXE versions of most of the Linux commands. Or you can use Cygwin or MinGW to do the same. In fact Studio 7 comes with some of the tools installed in the "shellutils" directly but rather sadly that does not include a Windows build of grep.
+Log in or register to post comments
+Top
+ki0bk
+Level: Raving Lunatic
+Joined: Mon. Sep 8, 2014
+Posts: 8213 View posts
+Location: Olathe KS
+#35
+Posted
+by ki0bk:
+Wed. Sep 23, 2020 - 07:37 PM
+12345Total votes: 0
+clawson wrote:I'm a dyed in the wool Linux user so even when I am using Windows I use some of the Linux tools
+Powershell has some linux like tools(ls, cp, cat, curl,...), but alas no grep (yet).
+sls (Select-String) is somewhat similar: https://www.pdq.com/powershell/s...
+Jim
+(Possum Lodge oath) Quando omni flunkus, moritati.
+"I thought growing old would take longer"
+Log in or register to post comments
+Top
+awneil
+Level: 10k+ Postman
+Joined: Fri. Jul 1, 2005
+Posts: 21010 View posts
+Location: Basingstoke, Hampshire, UK
+#36
+Posted
+by awneil:
+Wed. Sep 23, 2020 - 11:01 PM
+12345Total votes: 0
+Some of the other GCC-based IDEs include a version of grep.
+Borland used to include one - I used that for ages ...
+Top Tips:
+How to properly post source code - see: https://www.avrfreaks.net/comment... - also how to properly include images/pictures
+"Garbage" characters on a serial terminal are (almost?) invariably due to wrong baud rate - see: https://learn.sparkfun.com/tutorials/serial-communication
+Wrong baud rate is usually due to not running at the speed you thought; check by blinking a LED to see if you get the speed you expected
+Difference between a crystal, and a crystal oscillator: https://www.avrfreaks.net/comment...
+When your question is resolved, mark the solution: https://www.avrfreaks.net/comment...
+Beginner's "Getting Started" tips: https://www.avrfreaks.net/comment...
+Log in or register to post comments
+Top
+Jump To
+-AVR Microcontrollers--megaAVR and tinyAVR--AVR and XMEGA--AVR UC3-Tools--Arduino--Atmel Studio (AVR-related)--Atmel Software Framework (ASF) and Atmel Start (ASFv4) (AVR-related)--Evaluation and Development Kits (AVR-related)--In-System Debuggers and Programmers--Compilers and General Programming-Learning and Information--General Electronics--Tutorials--AVR Freaks Projects-Miscellaneous--MarketplaceAtmel SMART ARM-based MCUs-Atmel SMART ARM-based MCUs and MPUs--Atmel Cortex-A MPUs--Atmel Cortex-M MCUs--Atmel ARM7 MCUs-Tools--Evaluation and Development Kits (ARM-related)--In-System Debuggers and Programmers (ARM-related)--Atmel Studio (ARM-related)--Atmel Software Framework (ASF) and Atmel Start (ASFv4) (ARM-related)--Compilers, Assemblers, Linkers and General Programming (ARM-related)-Operating Systems--Linux--Android--WinCE--µC/OS-II - Real-Time KernelInternet of Things-Wireless--General Wireless Discussions--802.11/Wi-Fi--802.15.4/ZigBee--Bluetooth-Security--General Security DiscussionsCapacitive Touch-Capacitive Touch Solutions--General Capacitive Touch Discussions
+© 2020 Microchip Technology Inc.
+Privacy
+Contact
+Site Use Terms
+Cookies

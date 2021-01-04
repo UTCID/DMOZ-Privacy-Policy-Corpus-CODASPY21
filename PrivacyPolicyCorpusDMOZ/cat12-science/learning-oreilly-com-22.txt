@@ -1,0 +1,337 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch01.html#websec2-CHP-1-SECT-1.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 1. The Web Security LandscapeThis chapter looks at the basics of web security. We’ll discuss the risks of running a web
+server on the Internet and give you a framework for understanding how to
+mitigate those risks. We’ll look at the risks that the Web poses for
+users—people who simply want to use the Web to get information or
+participate in online communities. And we’ll look at the hype
+surrounding web security, analyze what companies (probably) mean when
+they use the phrase “secure web server,” and discuss overall strategies
+for reducing the risks associated with the World Wide Web.The Web Security ProblemWhen we published the first edition of Practical Unix Security in 1991, we gave a simple definition of computer security:A computer is secure if you can depend on it and its software
+to behave as you expect.This definition has stood the test of time. Whether you are
+talking about a complex attack such as cross-site scripting, or you
+are discussing the age-old problem of password sharing, the
+fundamental goal of computer security is to minimize surprise and to
+have computers behave as we expect them to behave. Our definition puts
+forth a holistic approach to protecting computers and the information
+that they contain: a web site is as dead if it is compromised by an
+attacker as it is if the sole web server on which the site resides
+washes away in a flood. Web security, then, is a set of procedures,
+practices, and technologies for assuring the reliable, predictable
+operation of web servers, web browsers, other programs that
+communicate with web servers, and the surrounding Internet
+infrastructure. Unfortunately, the sheer scale and complexity of the
+Web makes the problem of web security dramatically more complex than
+the problem of Internet security in general.Today’s web security problem has three primary facets:Securing the web server and the data that is on itYou need to be sure that the server can continue
+its operation, that the information on the server cannot be
+modified without authorization, and that the information is only
+distributed to those individuals to whom you want it
+distributed.Securing information that travels between the web server and
+the userYou would like to assure that information the user
+supplies to the web server (usernames, passwords, financial
+information, the names of web pages visited, etc.) cannot be
+read, modified, or destroyed by any third parties. You want
+similar protection for the information that flows back from the
+web servers to the users. It is also important to assure that
+the link between the user and the web server cannot be easily
+disrupted.Securing the end user’s computer and other devices that
+people use to access the InternetFinally, web security requires that the end user’s
+computer be reasonably secured. Users need to run their web
+browsers and other software on a secure computing platform that
+is free of viruses and other hostile software. Users also need
+protections for their privacy and personal information, to make
+sure that it is not compromised either on their own computers or
+by their online services.Each of these tasks, in turn, can be broken down into many
+others. For example, in the case of a web publisher, the goal of
+securing the web server used in electronic banking might include the
+following tasks:Devising and implementing a system for verifying the
+identity of users who connect to the web server to view their bank
+statements, a process also known as
+authentication. One approach to
+authentication involves implementing a system of usernames and
+passwords, devising a technique for distributing the initial
+passwords to the users, and creating a mechanism for users to
+securely change their passwords or obtain new passwords when their
+old passwords are forgotten.Analyzing the programs and scripts that operate the web site
+for flaws and vulnerabilities (e.g., making sure that a web page
+that leads to the display of one user’s account can’t be tricked
+into displaying the account of another user).Providing for secure, off-site backup of user
+information.Creating a secure logging and auditing facility that can be
+used for billing, conflict resolution, and so-called
+“nonrepudiation” (see the note in Section 4.1.1 in Chapter 4), and investigation of
+misuse.Balancing the load among multiple servers to protect against
+usage spikes and hardware failures, and to provide responsive
+service.Creating a second data center so that in the event of a
+disaster (e.g., an earthquake, blizzard, explosion, or invasion
+from outer space) affecting the primary data center, services will
+continue.Providing for redundant Internet connections, using multiple
+service providers, to minimize the chances that a service
+disruption on the Internet will prevent users from reaching the
+web site.Securing your Domain Name Service (DNS) service so that an
+attacker can’t change the domain name to point to another
+organization’s server.Protecting your billing records so customers will be charged
+accurately for services rendered.Creating a 24-hour Network Operations Center, or employing
+the services of an outside monitoring organization, so that if
+there is a security incident the bank will be able to respond to
+it in a timely fashion.Providing for the physical security of your site and
+servers.Providing adequate training for your personnel so they know
+what to do in an emergency and can resist a social engineering
+attack.As you can see, the items on this list include technology that
+needs to be created and deployed, procedures that need to be followed,
+and policies that need to be developed. Security is not an additional
+feature that can be purchased after-the-fact and simply bolted on to
+an existing system. Neither is security a set of policies that can be
+implemented within an organization by a single person who has the
+mandate to be Chief Security Officer. Building a secure computing
+environment is an involved undertaking that requires careful planning
+and continued vigilance. The reward is a computing infrastructure that
+continues to function in the face of adversity—whether that adversity
+results from man-made attacks or natural disasters.What Do Attackers Want?Nearly all attackers on the World Wide Web have the same goal:
+they want to make your computers do things that you don’t want them
+to do. For example:They want to scan your system for confidential documents,
+which they will transmit to other systems.They want to corrupt the information on your computer, or
+even reformat your computer’s hard disk drive.They want to use your system to store pirated software,
+MP3 music files, or pornographic images for later access by them
+and their friends.They want to modify your computer’s operating system,
+leaving traps, creating new security holes, or simply causing
+your system to crash.They want to use home-banking applications or credit card
+numbers residing on your computer to transfer money from your
+bank account to theirs.They want to be able to selectively block access to your
+system as they wish, or use it in a coordinated attack to deny
+access to someone else.They want to install some form of server, such as an IRC
+(Internet Relay Chat) server they can access without slowing
+down their own machines.They want to see the press coverage that results from
+their triumphs and your misfortune.Securing the Web Server Securing the web server is a three-part process.
+First, the computer itself must be secured using traditional
+computer security techniques. Second, special programs that provide
+web service must be secured. Finally, you need to examine the
+operating system and the web service to see if there are any
+unexpected interactions between the two that might compromise the
+system’s overall security.Server security is complicated because most web servers run on
+traditional multi-purpose operating systems, such as Unix or Windows
+NT. The web server can be used to exploit bugs in the host security,
+and failings in host security can be used to probe for problems with
+the web server. Consider these two typical attacks:A poorly written script or application may make it
+possible to change a web server’s configuration file, which can then be modified so
+that the web server runs with excess privileges. By exploiting a
+host security flaw, an attacker could then create a privileged
+script that would lead to the attacker’s obtaining full access
+to the entire computer system.A web server may have well-written scripts and be running
+on a secure operating system, but a related database server may contain a default account that
+allows full access to anyone on the Internet. By connecting to
+the database server and typing a few commands, an attacker may
+be able to get access to the names, email addresses, and credit
+card numbers of every customer who has purchased something from
+the web site.The first part of server security, securing the underlying
+computer system, involves a complete examination of the computer’s
+hardware, its operating system, and add-on programs. The goal of
+this process is to make sure that authorized users of the system
+have sufficient capabilities or privileges necessary to perform
+their work, and nothing more. For example, you may wish to allow all
+users to read the contents of the server’s main web page, but you
+probably do not wish to give any unidentified user the ability to
+shut down the computer or alter the system accounting files.
+Traditional computer security techniques are also designed to secure
+the system so that people on the Internet cannot break into it and
+gain control. Chapter 15
+presents an overview of several generic techniques; the references
+in Appendix E contain many
+more.To secure the computer’s web service, you first need to
+understand how the program that serves web pages works and how it is
+configured. Examine the server’s configuration to make sure that the
+correct levels of privilege and authorization are granted for the
+files that are on the server. Next, examine the scripts—be they CGIs written in Perl, ASP pages
+written with VBScript, or stand-alone programs written in C—to make
+sure that each script properly follows your security policy and that
+it cannot be exploited by a malicious Internet user. Information on
+how to do this is in Chapter
+16.Finally, you need to look for possible interactions among all
+of the various components that are running on the computer. This can
+be a difficult and tedious process to perform. Generally speaking,
+the best way to minimize interactions is to minimize dependencies
+between different components that make up your system, and to make
+sure that each component makes few assumptions about the environment
+in which it is operating.Simplification of servicesOne of the best strategies for improving a web server’s
+security is to minimize the number of services provided by the host on which the web
+server is running. If you need to provide both a mail server and a
+web server, the safest strategy is to put them on different
+computers. On the system that runs your web service, design the
+system to run only your web services, choose an underlying
+operating system and web server that don’t come with lots of extra
+defaults and unnecessary options, and remove all the services and
+options you know you don’t need. The more complex the system, the
+more interactions, and the more that can go wrong . . . or be
+abused by an attacker.Another good strategy for securing the information on the
+web server is to restrict access to the web server.
+The server should be located in a secure location, so that
+unauthorized people do not have physical access to the equipment.
+You should limit the number of users who have the ability to log
+into the computer. The server should be used only for your single
+application; otherwise, people who have access to the server might
+obtain access to your information, or accidentally change
+something that allows others to gain access. And you should make
+sure that people who remotely access the server for administrative
+purposes do so using secure means such as SSH, SecureID, or
+S/Key.Policing copyrightMany web developers also want to protect the information that they put on their web sites from
+unauthorized use. Companies putting pay-per-view information on a
+web site would like to prevent users from downloading this
+information and sharing it with others who have not paid for the
+service. Most web sites that provide information freely to the
+public prefer that each Internet user pick up the data for
+themselves, so that the sites can track the number of downloads
+and possibly show an advertisement at the same time. Some web
+sites have threatened legal action—and there have even been a few
+lawsuits—when one web site displays information that is taken from
+another, even if that other web site distributes the same
+information “for free.”It is impossible to impose technical solutions that limit
+the spread of information once it has been provided to the user.
+If the data is viewed on the user’s screen, that information can
+simply be copied off the screen and either printed or saved in a
+file. At the very least, the screen can be photographed and the
+photograph later scanned. “Copy protected” sound can be recorded
+with a tape recorder and redigitized.Although a number of copy protection systems for web data have been
+proposed (and marketed), they can all be subverted by a
+sufficiently-motivated attacker. As an alternative to technical
+measures that prevent copying, some web sites have instead
+invested in a technique called digital
+watermarking . This involves making very small, hidden
+alterations to the data to store a form of identification of the
+material. The alterations can’t be noticed by the user, and are
+done in a special fashion to defeat attempts to remove them.
+Images, sound files, and other watermarked data can be examined
+with programs that find and display the identifying information,
+showing the true owner and possibly the name of the person for
+whom the copy was first produced.Securing Information in TransitMuch of the initial emphasis in the field of web
+security involved the problem of protecting information as it
+traveled over the Internet from a web server to the end user’s
+computer. The concern was that someone eavesdropping on the network
+(at intermediate nodes) might copy sensitive information, or alter
+information in transit.There are many ways to protect information from eavesdropping
+as it travels through a network:Physically secure the network, so that eavesdropping is
+impossible.Hide the information that you wish to secure within
+information that appears innocuous.Encrypt the information so that it cannot be
+decoded by any party who is not in possession of the proper
+key.Of these techniques, encryption is the only technique that is
+practical on a large-scale public network. Physically securing the
+Internet is impossible. Information hiding only works if the people
+you are hiding the information from do not know it is hidden.
+Additionally, encryption can prevent outside alteration, or make it
+obvious when the information has been changed.One of the pivotal events in the launch of the World Wide Web
+was Netscape Communications’ development of an easy-to-use system
+for sending encrypted information over the Internet. Called the
+Secure Sockets Layer (SSL), this system made it
+possible for unsophisticated users to employ cryptographic security
+similar to what had previously been reserved for banks and
+governments. The encryption provided by SSL made it possible for
+people to transmit credit card numbers securely over the Internet
+using the Web, which many people at the time said was a prerequisite
+for electronic commerce. That’s why Netscape is generally credited
+with launching the commercialization of the Internet and the
+Web.In fact, there were no real barriers to Internet commerce
+solved by SSL. Before SSL, consumers routinely purchased items by
+sending credit card numbers by email. Under U.S. regulations,
+consumers are only liable for $50 in fraud on credit cards: they had
+little to fear. But large merchants and the credit card companies
+were worried about the apparent lack of online security and wanted
+to do something that would address this perceived vulnerability.
+What Netscape really did to advance Internet commerce was to create
+a reasonably good browser and then distribute it widely, creating an
+audience for web sites.Indeed, SSL is only one component of web security. SSL makes
+it possible to send usernames, passwords, and credit card numbers
+securely over the Internet, but SSL doesn’t provide protection for
+the information at the two ends of the connection.Another risk to information in transit is a denial-of-service attack resulting from a disruption
+in the network. A denial-of-service can result from a physical
+event, such as a fiber cut, or a logical event, such as a bug in the
+Internet routing tables. In February 2000, a large-scale
+denial-of-service attack against several prominent Internet sites
+made the front pages of newspapers around the world; this event
+resulted from a sustained attack against these servers by computers
+all over the Internet. One of the most common attacks involved in
+this incident simply repeated requests for web pages—thousands every
+second, from hundreds of different servers.Today there is no practical way for an individual to defend
+against denial-of-service attacks, although redundancy,
+high-capacity connections, and backup systems can help to minimize
+their impact. Ultimately, it will take effective use of the legal
+system to pursue and prosecute attackers to make these attacks less
+frequent.Securing the User’s ComputerSecurity threats facing users have become front-page
+news—but these threats have not materialized in the way that was
+widely expected.For the first five years of the Web’s existence, web security
+was largely an academic exercise. Companies including Netscape,
+Microsoft, and Macromedia distributed browser software, while
+computer researchers at universities such as UC Berkeley and
+Princeton found flaws in those programs. Each new vulnerability in a
+web browser generated a front-page story in the New York
+Times with ominous warnings of how the flaw could be
+exploited by a “hostile” web site. A few days later, the embarrassed
+vendor would distribute an update. It all made for good newscopy,
+but in fact only a small percentage of computer users actually
+downloaded the fixes; most users remain vulnerable. Nevertheless,
+few losses to date are attributable to any browser flaw.Over that same period, millions of computer users suffered
+billions of dollars in losses from real attacks experienced over the
+Internet. Most of the damages were caused by fast-moving computer
+viruses and worms that traveled by email, or that involved automated
+exploitation of flaws in network service programs.Computer security professionals had long maintained
+that education was the most effective way to
+secure end users’ computers. The theory was that if you could teach
+users how to make reasonable decisions about their computer’s
+security, and if you could teach them to recognize unusual
+situations, then the users would be far more effective at protecting
+their own security than any program or computer could ever
+be.In recent years, however, some people have revised their
+opinions, and are now putting their hopes for strong end user
+computer security in technology, rather than in a massive education
+effort. The reason is that computer systems are simply too complex
+for most end users to make rational security decisions. A good
+example comes from the history of computer worms and viruses. In the
+late 1990s, users at large organizations were instructed to never
+run a program that was emailed by somebody that they didn’t know.
+Unfortunately, this advice left these users wide open to attack from
+computer worms such as ILOVEYOU (discussed in Chapter 12). These worms propagated
+automatically by sending copies of themselves to everyone in the
+victim’s address book. To the people receiving copies of this worm,
+the email messages appeared to come from somebody they knew, and so
+the individuals who received the worm frequently ran them—which
+resulted in files being deleted and the worm propagating to other
+victims.What Is a “Secure Web Server?”In recent years, the phrase secure web
+server
+has come to mean different things to different
+people:For the software vendors that sell them, a secure web
+server is a program that implements certain cryptographic
+protocols, so that information transferred between a web
+server and a web browser cannot be eavesdropped upon.For users, a secure web server is one that will
+safeguard any personal information that is received or
+collected. It’s one that supports users’ privacy and won’t
+subvert their browsers to download viruses or other rogue
+programs onto their computers.For a company that runs one, a secure web server is one
+that is resistant to a determined attack over the Internet or
+from corporate insiders.A secure web server is all of these things, and more. It’s a
+server that is reliable. It’s a server that is mirrored or backed
+up, so that it can be reconstituted quickly in the event of a
+hardware or software failure. It’s a server that is expandable, so
+that it can adequately service large amounts of traffic.Unfortunately, when vendors use the phrase “secure web
+server,” they almost always are referring to a web server that
+implements the SSL cryptographic protocol. These protocols allow
+web browsers and servers to exchange information without the risk
+of eavesdropping by parties with access to the messages in
+transit. Such encryption is widely regarded as a prerequisite for
+commerce on the Internet.As this book demonstrates, while cryptographic protocols are
+certainly useful for protecting information that is sent over the
+Internet from eavesdropping, they are not strictly necessary for
+web security, nor are they sufficient to ensure it. Many of the
+most dramatic computer security problems of recent years involved
+web servers that implemented cryptographic protocols: the
+attackers simply stole the credit card numbers
+after they had been decrypted by the web
+server and stored in a relational database.To avoid confusion, this book uses the term
+cryptographically enabled web server
+, rather than “secure web server,” to describe a web
+server that implements cryptographic protocols. As we’ll see, web
+security requires far more than mere cryptographic protection
+against simple eavesdropping.
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

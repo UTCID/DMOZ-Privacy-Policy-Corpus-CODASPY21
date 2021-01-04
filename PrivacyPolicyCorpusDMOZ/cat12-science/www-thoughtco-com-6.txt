@@ -1,0 +1,81 @@
+https://www.thoughtco.com/conditions-for-factor-returns-and-scale-returns-1146332
+Share
+Flipboard
+Email
+Print
+Gold coins on scale.
+Getty Images/Jeffrey Coolidge/DigitalVision
+Social Sciences
+Economics
+U.S. Economy
+Employment
+Supply & Demand
+Psychology
+Sociology
+Archaeology
+Ergonomics
+Maritime
+By
+Mike Moffatt
+Professor of Business, Economics, and Public Policy
+Ph.D., Business Administration, Richard Ivey School of Business
+M.A., Economics, University of Rochester
+B.A., Economics and Political Science, University of Western Ontario
+Mike Moffatt, Ph.D., is an economist and professor. He teaches at the Richard Ivey School of Business and serves as a research fellow at the Lawrence National Centre for Policy and Management.
+our editorial process
+Mike Moffatt
+Updated June 29, 2017
+A factor return is the return attributable to a particular common factor, or an element that influences many assets which can include factors like market capitalization, dividend yield, and risk indices, to name a few. Returns to scale, on the other hand, refer to what happens as the scale of production increases over the long term as all inputs are variable. In other words, scale returns represent the change in output from a proportionate increase in all inputs.
+To put these concepts into play, let's take a look at a production function with a factor returns and scale returns practice problem.
+Factor Returns and Returns to Scale Economics Practice Problem
+Consider the production function Q = KaLb.
+As an economics student, you may be asked to find conditions on a and b such that the production function exhibits decreasing returns to each factor, but increasing returns to scale. Let's look at how you might approach this.
+Recall that in the article Increasing, Decreasing, and Constant Returns to Scale that we can easily answer these factor returns and scale returns questions by simply doubling the necessary factors and doing some simple substitutions.
+Increasing Returns to Scale
+Increasing returns to scale would be when we double all factors and production more than doubles. In our example we have two factors K and L, so we'll double K and L and see what happens:
+Q = KaLb
+Now lets double all our factors, and call this new production function Q'
+Q' = (2K)a(2L)b
+Rearranging leads to:
+Q' = 2a+bKaLb
+Now we can substitute back in our original production function, Q:
+Q' = 2a+bQ
+To get Q' > 2Q, we need 2(a+b) > 2. This occurs when a + b > 1.
+As long as a+b >1, we will have increasing returns to scale.
+Decreasing Returns to Each Factor
+But per our practice problem, we also need decreasing returns to scale in each factor. Decreasing returns for each factor occurs when we double only one factor, and the output less than doubles. Let's try it first for K using the original production function: Q = KaLb
+Now lets double K, and call this new production function Q'
+Q' = (2K)aLb
+Rearranging leads to:
+Q' = 2aKaLb
+Now we can substitute back in our original production function, Q:
+Q' = 2aQ
+To get 2Q > Q' (since we want decreasing returns for this factor), we need 2 > 2a. This occurs when 1 > a.
+The math is similar for factor L when considering the original production function: Q = KaLb
+Now lets double L, and call this new production function Q'
+Q' = Ka(2L)b
+Rearranging leads to:
+Q' = 2bKaLb
+Now we can substitute back in our original production function, Q:
+Q' = 2bQ
+To get 2Q > Q' (since we want decreasing returns for this factor), we need 2 > 2a. This occurs when 1 > b.
+Conclusions and Answer
+So there are your conditions. You need a+b > 1, 1 > a, and 1 > b in order to exhibit decreasing returns to each factor of the function, but increasing returns to scale. By doubling factors, we can easily create conditions where we have increasing returns to scale overall, but decreasing returns to scale in each factor.
+More Practice Problems for Econ Students:
+Elasticity of Demand Practice ProblemAggregate Demand & Aggregate Supply Practice Problem
+Returns to Scale and How to Calculate Them
+What Is Returns to Scale Economics?
+Elasticity of Demand Practice Problem
+Introduction to Average and Marginal Product
+The Cobb-Douglas Production Function
+Learn About the Production Function in Economics
+Reaction Rate Definition in Chemistry
+Earthquake Magnitudes
+The Determinants of Supply
+Chemical Equilibrium in Chemical Reactions
+The Shut-Down Condition
+4th Grade Math Lesson on Factor Trees
+How to Calculate the 7 Cost Measures
+10 Supply and Demand Practice Questions
+How to Do a Painless Multivariate Econometrics Project
+Maximum and Inflection Points of the Chi Square Distribution

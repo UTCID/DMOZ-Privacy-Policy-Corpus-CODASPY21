@@ -1,0 +1,116 @@
+https://www.atlantic-associates.com/privacy-policy/
+Privacy PolicyHomePrivacy Policy
+Our Commitment To Privacy
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+The Information We Collect
+This notice applies to all information collected or submitted on the website. On some pages, you can make requests, and register to receive materials. The types of personal information collected at these pages are:
+Name
+Address
+Email address
+Phone number
+The Way We Use Information
+We use the information you provide about yourself when placing an order only to complete that request for information. We do not share this information with outside parties except to the extent necessary to complete that process.
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+You can register with our website if you would like to receive our newsletter as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the applicable registration form.
+We use non-identifying and aggregate information to better design our website but we would not disclose anything that could be used to identify those individuals.
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+Our Commitment To Data Security
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+How You Can Access Or Correct Your Information
+You can inquire about all your personally identifiable information that we collect online and maintain by contacting us. We use this procedure to better safeguard your information.
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+Menu
+Security & User Access
+TimeManager makes use of highly secure Password and User Group features. Individual users can be assigned to Groups which have greater or lesser access to all of the capabilities of TimeManager. For example, the Timekeeper Management Group may be able to look at payments but be restricted from being able to delete payments.
+CLOSE
+Recycle Bin Editor
+Accidents happen when using any database. The worst type of accident is when a record or entire series of records are accidentally deleted resulting in hours/days of time lost rebuilding the deleted records. ClassManager has a Recycle Bin feature that instantly restores the deleted records. Also, the Recycle Bid editor records every change made to the data so that you can restore a single field.
+CLOSE
+Search Editor
+How well a database functions is a combination of many factors. One of those factors is can the database application answer business questions. To do so the database should have a set of tools that allows the user to manipulate the data and find answers to your questions. A simple search form is inadequate for that purpose. It can find only the simplest of data request and can view only one table. Often you are required to run multiple searches. The problem is that most registration database products have no capability of searching simultaneously on multiple tables. ClassManager has a Relational Search Editor capable of multi-table searching that can give you the answers that you need to run your business.
+CLOSE
+Export Import Editor
+Any feature rich database should have the ability for the user to export any data element from any table and field in the system. ClassManager if one of the few Registration database products available that allows for complete importing and exporting functionality.
+CLOSE
+Set Manager
+How well a database functions is a combination of many factors. One of those factors is can the database application answer business questions. To do so the database should have a set of tools that allows the user to manipulate the data and find answers to your questions. A simple search form is inadequate for that purpose. It can find only the simplest of data request. Often you are required to run multiple searches. The problem is that most database products have no means of capturing and holding the results of these multiple searches. ClassManager has a Set Manager tool that allows for the capturing of multiple data search results and then can perform set algebra (Union, Difference & Intersection) to give you the data results that you need to run an efficient business.
+CLOSE
+Fee Rule Editor
+The purpose of a Registration database is to manage clients and students as well as charge fees for the educational services provided. Usually charging fees will involve some kind of discount structure based on multiple registrations, number of students, total value of registration fees, time of day, date, etc. Simple or rudimentary databases applications simply cannot handle or process complex discount business rules. ClassManager has a discount editor that allows the user to put in place a set of discount rules that will match whatever discount policy your school has in place.
+CLOSE
+Data Dedupper
+All databases are subject over time to duplicate data entry. ClassManager has a specific tool called the Data Dedupper that allow you to find all duplicate entries and eliminate them or merge them into earlier entered entries.
+CLOSE
+Payments
+ClassManager makes it easy to accept various forms of payments. Payments can be by check, cash, credit or debit card.
+CLOSE
+Programs
+ClassManager makes use of Programs and Classes. Programs are the educational offerings that your school offers. Classes are the instances or times that the programs will be taught.
+CLOSE
+Classes
+ClassManager makes it easy to organize your classes by Program, Location, Schedule as well as show class statistics such as maximum class size, seats booked, available seats, etc.
+CLOSE
+Student Management
+ClassManager lets you store not just the employees who work for a given client, but also any other individuals associated with that client, such as claims adjustors, opposing counsel, expert witnesses or exhibit suppliers.
+CLOSE
+Account Management
+View, sort and search your clients easily. ClassManager makes it easy to see which clients have outstanding invoices or which ones are the highest grossing for your school. Record notes and share information about a given client to your entire team.
+CLOSE
+Staff Compensation
+Many firms compensate their timekeepers on a percentage basis of % x Collected Invoices=Compensation. Sometimes firms pay different percentages based on whether a case has been assigned to the timekeeper or whether the case has been originated by the timekeeper. The TimeManager Compensation Report can calculate monthly compensation for both originated and non originated cases on the same report.
+CLOSE
+Staff Performance
+Monthly billing goals are much easier to reach when everyone in the firm can see their own performance (and all their colleagues) in a single monthly snapshot. TimeManager’s Slip Summary report tallies each timekeepers hours and displays them daily, weekly and monthly. Quickly see who the top performers are for any given time period.
+CLOSE
+Invoice Editor
+Design your own invoices using TimeManager’s user-friendly Invoice Editor function. Simply check the boxes of features you wish to include on your invoice, and invoices will automatically generate according to your specifications.
+CLOSE
+Invoices
+TimeManager can generate invoices on a one-off basis or by the hundreds at a time. You can create single- or multi-matter invoices for clients with more than one case. TimeManager’s invoicing system can handle write-offs, refunds and other special cases. Print hard copies or email your invoices directly to the client.
+CLOSE
+LEDES Billing
+TimeManager makes it simple for you to convert your invoices into a LEDES (Legal Electronic Data Exchange Standard) file.
+CLOSE
+Structure Editor
+TimeManager gives the database administrator the capability to change the name of a field header using the Structure Editor. For example, if your firm is based in Canada, you may wish to change the header name of the “State” field to “Province” or “Zip” to “Postal Code.”
+CLOSE
+Report Editor
+TimeManager is capable of producing dozens of different reports about your firm, such as a list of all of a timekeeper’s clients or the total number of invoices generated in a quarter. Because TimeManager has a real report editor you can create entirely new reports or customize the look of your reports with different fonts, column headers and page layouts.
+CLOSE
+Interest
+TimeManager allows you to set an interest rate for unpaid invoices and to determine at what point that interest charges will begin accumulating. You can set interest in three ways: for a single invoice only, for a particular client only, or across the entire firm.
+CLOSE
+Taxes
+TimeManager can store multiple types of taxes (Federal, state, provincial, etc.) on any basis (services, expenses, services and expenses). Taxes are calculated automatically on all invoices once you enter a new client in the database and select the appropriate rate.
+CLOSE
+Refunds
+TimeManager makes it easy to Issue whole or partial refunds whether they’re from a one-time payment or a retainer.
+CLOSE
+Retainers
+TimeManager can maintain multiple retainer accounts for a client. Apply retainer funds to an invoice with a few simple mouse clicks, or use TimeManager’s Retainer Auto Pay function to apply the funds just as soon as the invoices are created.
+CLOSE
+Expense Tracking
+Create slips for client expenses. Fixed-rate expenses such as photocopies are automatically calculated. Input variable expenses such as meals, FedEx or airfare with a few simple clicks.
+CLOSE
+Time Tracking
+Enter your hours worked manually (either by entering your start/end times, or simply entering the total hours), or use TimeManager’s built in timer to calculate your billable time. Easily enter any price or rate adjustments you wish to make.
+CLOSE
+Rates
+TimeManager can create slips based on three different types of rates: Timekeeper Rates for firms where different employees bill at various rates; Client Rates for firms that assign each client a particular rate; Activity Rates for firms whose rates are determined by the fuction they are performing. In addition to hourly billing, TimeManager can also produce flat fee invoices on both a client or matter basis.
+CLOSE
+Matters
+TimeManager makes it easy to assign multiple matters, or cases, to a single client.
+CLOSE
+Contact Management
+TimeManager lets you store not just the employees who work for a given client, but also any other individuals associated with that client, such as claims adjustors, opposing counsel, expert witnesses or exhibit suppliers.
+CLOSE
+Client Management
+View, sort and search your clients easily. TimeManager makes it easy to see which clients have outstanding invoices or which ones are the highest grossing for your firm. Record notes and share information about a given client to your entire team.
+CLOSE
+Public or private cloud
+You and your team can access your client billing database from anywhere in the world using either a public or private cloud configuration. For firms concerned about losing custody and control of their most sensitive data, you can run TimeManager behind your own firewall on an affordable desktop server such as a Mac Mini to feed data to your iPhones, iPads and notebooks.
+CLOSE
+Invoice Customization
+Design your own invoices using TimeManager’s user-friendly Invoice Editor function. Simply check the boxes of features you wish to include on your invoice, and invoices will automatically generate according to your specifications.
+CLOSE

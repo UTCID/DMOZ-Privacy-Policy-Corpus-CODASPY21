@@ -1,0 +1,136 @@
+https://help.surveymonkey.com/articles/en_US/kb/508-Compliance
+m
+Log In
+Design & Manage
+Design & Manage
+ÿ
+Get Responses
+Get Responses
+ÿ
+Analyze Results
+Analyze Results
+ÿ
+Account & Billing
+Account & Billing
+ÿ
+Privacy & Legal
+Privacy & Legal
+ÿ
+Taking Surveys
+Other Products
+ÿ
+[ Back
+Privacy & Legal / Legal Compliance
+Accessibility at SurveyMonkey
+SurveyMonkey understands the importance of accessibility on the web and empowers you to make surveys that are Section 508 and WCAG2 compliant. In this article, learn how you can create accessible surveys and how to use a screen reader to navigate SurveyMonkey surveys.
+Jump to...
+508 Compliance & WCAG2Creating Accessible SurveysAccessible Surveys ChecklistTaking a Survey with a Screen ReaderFeedback
+508 Compliance & WCAG2
+If you use an accessible theme and follow the accessible survey checklist, your survey will work for people taking the survey with a screen reader. This means you can use SurveyMonkey to create accessible surveys that are compliant with Section 508 and WCAG2 standards.
+Section 508
+Section 508 is a United States federal law that requires all electronic and information technology used by the federal government to be accessible to people with disabilities.
+WCAG2
+WCAG2 is a set of technical guidelines for making web content more accessible. It includes a set of criteria to test for success.
+VPAT Documentation
+SurveyMonkey WCAG2 Conformance Claim [PDF]»
+Creating Accessible Surveys
+What is an accessible survey?
+An accessible survey is designed so that people with varying hearing, movement, sight, and cognitive abilities can complete it.
+An accessible survey enables survey takers using screen magnifiers to successfully complete the survey.An accessible survey has the necessary text elements to enable a survey taker to successfully navigate and complete a survey using a screen reader with a text-to-speech (TTS) system.An accessible survey can be completed using voice recognition software.An accessible survey doesn't require a mouse or keyboard to complete.
+Standard Themes & Color Contrast
+Accessible standard themes include the right amount of color contrast and brightness to ensure our survey designs are accessible to most people, including people with colorblindness.
+Our default survey theme, Simple, is not compliant with Section 508 standards. When designing an accessible survey, use a theme from the list below and don’t change the colors or style settings.
+The following standard themes are compliant with Section 508 standards:
+Standard ThemesClassic Themes
+ArcticIcebergPastel
+AquaCharcoal
+Classic themes are only available for surveys that already have those themes applied.
+TIP! Look for the accessible survey icon
+when choosing a theme.
+Custom Themes
+To keep surveys accessible, we recommend not making changes to the standard themes that are Section 508 compliant. If you create a custom theme, use a tool like the
+tanaguru contrast finder to ensure that the color combinations pass WCAG standards for contrast ratio.
+Accessible Surveys Checklist
+To ensure your survey is accessible, check all of the following:
+2 Use the classic survey format The classic survey format is best for people using a screen reader to take a survey. The One Question at a Time and Conversation survey formats are not accessible.
+2 Only use accessible question types and settings.
+Avoid these question types and settings:
+Matrix of Dropdown menus question typeClick Map question typeAccepting payments pageMultilingual Surveys— People using a screen reader won't be able to select their preferred language from the dropdown menuForced Ranking setting for a matrix/rating scale question type
+All other question types and settings are accessible.
+2 Add alt text to images and videos. To make your survey accessible to people using screen readers, Section 508 requires that a text equivalent is provided for every non-text element, like images and videos. This alternative text, known as alt text, can be in the alt attribute of the image or in the context surrounding the image, like a caption. Since screen readers can't read an image, they'll announce the alt text instead.
+You can add descriptive alt text to images in your survey. Click the links below to find steps to add alt text to each image type:
+Image choice questionFreestanding survey imagesImage A/B TestsLogo
+If you add a video to your survey, provide closed captions with the video.
+2 Keep asterisks for required questions. By default, when you require a question an asterisk will appear next to the question. Don’t turn this option off. In the survey introduction, let survey takers know that asterisks mean a question is required.
+2 Change star rating icons to black. If you’re using an accessible theme and adding a star rating question change the icon color to black for good contrast. You’ll see a color dropdown when editing the question.
+2 Write clear error messages. When survey takers enter an invalid response to a question with answer validation applied, or skip a required question, an error message appears above the question. Customize the error text so that people know specifically how to answer the question so they can move on.
+2 Don't edit default navigation labels. By default, navigation buttons are labeled “Previous”,”Next”, and “Done,” which work well with screen readers.
+2 Don't include images that blink or flash. If you use animated content in your survey, check that it meets the time refresh requirements.
+2 Place text fields close to row labels. When a row label is positioned far away from the text field, it may cause issues for screen magnifiers used by low vision respondents. For Multiple Textboxes, Contact Information, or Matrix/Rating Scale questions, adjust the question layout to keep the labels and text fields close together.
+2 Use page titles for Heading 2 (H2). If you want to use an H2 in your heading rank, turn on page titles.
+Example Survey
+Our Accessible Survey Test includes all the survey elements that meet WCAG2 conformance level AA.
+Taking Surveys with a Screen Reader
+Screen Readers We Support
+JAWSNVDAVoiceOverTalkBack
+Most question types are compatible with screen readers (exceptions are listed in the accessible surveys checklist. For the best survey taking experience, we recommend using the most updated version of one of our supported browsers.
+Headings
+The following table describes what each heading level represents in a SurveyMonkey survey. Please refer to your preferred screen reader's manual to learn how to navigate online forms and surveys.
+Heading LevelDescriptionHeading 1Survey titleHeading 2Page titleHeading 3Page descriptionHeading 4Navigate between questions in a surveyHeading 5Error messages
+Please note that Heading level 5 (error messages) comes before Heading level 4 (question text).
+When taking a survey, you can use your screen reader to navigate the list of questions by navigating between elements at heading level 4.If you receive error messages when submitting a page, use your screen reader to navigate heading level 5 to move between questions with error messages.
+SurveyMonkey surveys don't use heading level 6.
+Feedback
+SurveyMonkey is dedicated to helping people create surveys that are accessible. If you have feedback on how we can do better, please fill out the SurveyMonkey Accessibility Feedback Form.
+We may not be able to respond to your feedback directly, but we'll make sure your thoughts and suggestions reach the right teams.
+SurveyMonkey understands the importance of accessibility on the web and empowers you to make surveys that are Section 508 and WCAG2 compliant. In this article, learn how you can create accessible surveys and how to use a screen reader to navigate SurveyMonkey surveys.
+Get answers
+Sign up
+Create a free or paid account.
+Log In
+Already have an account? Log in for faster support.
+Learn More
+SurveyMonkey's DMCA Agent
+Accessibility at SurveyMonkey
+Adding a Consent Statement or Privacy Notice
+Contact Us
+Fill out this contact form and we'll get back to you soon.
+Get answers
+Sign up
+Start making better decisions with the world's leading survey platform.
+Log In
+Already have an account? Log in for faster support.
+Start making better decisions with the world's leading survey platform.
+Already have an account? Log in for faster support.
+English
+English
+Español
+Português
+Deutsch
+Nederlands
+Français
+SurveyMonkey
+About Us
+Privacy Policy
+California Privacy Notice
+Cookies Policy
+Site Status
+Contact Us
+Copyright © 1999-2020 SurveyMonkey
+BBOnline
+Log InSign Up
+Contact Us
+Change Languageá
+English
+Español
+Português
+Deutsch
+Nederlands
+Français
+Privacy Policy
+California Privacy Notice
+Cookies Policy
+About Us
+Site Status
+Get the iOS app
+Get the Android app

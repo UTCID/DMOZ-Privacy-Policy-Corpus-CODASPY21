@@ -1,0 +1,111 @@
+http://www.worldlii.org/worldlii/help/search.html
+[WorldLII]
+[Databases]
+[Catalog]
+[Feedback]
+[Help]
+Related Link
+Search Help
+Help Guides
+You are here:
+WorldLII >>
+Worldlii >>
+Help >>
+Search Help
+If you have never used an Internet search engine before you can have
+SINO do most of the work for you. A search engine is a computer program
+that presents you with a list of documents that match the criteria which
+you specify. You specify the criteria in the form of show me all documents
+that have the words X, Y and Z in them. You can narrow the criteria,
+for example: show me documents from Western Australia with the words
+X, Y and Z in them.
+The important thing to note is that the SINO search engine will
+return to you a list of documents that contain the words
+(or phrases) that you specify. Therefore you must choose your search
+words carefully. The best words (or phrases) to choose are those which
+are unique or particularly distinctive and are, of course, relevant
+to the subject matter of your query.
+The SINO search engine will relevance rank the results by default,
+which means that the best matches will appear at the top of the list.
+You will obtain the best results when searching for unique or
+distinctive words or phrases.
+Using Autosearch
+If you are typing in a search from the AustLII home page, the sytem will
+treat this as an AutoSearch type search.
+AustLII will analyse the
+words for which you are searching and attempt to apply the correct search
+approach for you.
+Boolean searchAutosearch will recognise a boolean search by the
+presence of boolean operators in the words for which
+you are searching. So, if you use and, or, near, w/10 etc, then AutoSearch
+will automatically treat the search as a Boolean search. If you do not want these words
+to be treated as boolean operators, you must put the phrase of which they are part in
+double quotation marks (ie "dogs and cats" and not dogs and cats).
+NOTE: As of August 2007, common words
+are also treated as common in phrases. This significantly speeds up searching. If you want
+to search for a common word, precede it with a # or a + sign (eg "sale #of goods").
+Doing this significantly slows down searching.
+Section of an Act searchAutosearch will recognise a search which
+contains any of section 14 of the Privacy Act 1988, Privacy Act 1988, s14
+and s14 Spam Act 2003 as a search for a specific section of an Act of Parliament.
+Note that you must include the year of the Act for this to work.
+Case name title searchAutosearch will recognise a search which contains
+v, v., vs,
+vs. or re as a search for a case
+name. The search results will be restricted to documents (usually cases or casenotes)
+containing the phrases on either side of these identifiers, or immediately after the
+re in the title. So, for example, the following searches all work: Mabo v
+Queensland, Queensland vs Mabo, Lenah v Australian Broadcasting,
+Broadcasting Corporation vs Lenah, Re Smith, and
+In re Smith. For further information on searching for cases, see the
+Case Law Help. Note: If you are not searching for
+a document which contains the case name in its title, but a reference to the case in a
+document, then do a boolean search (eg Mabo w/2 Queensland)
+Single phrase searchAutosearch will recognise words enclosed in double
+quotation marks as a phrase search. So the words "cats and dogs" enclosed in
+double quotation marks will trigger a phrase search. Note that Autosearch can only deal
+with a single phrase in double quotation marks. If you want to search for two or more
+phrases, you will need to use a Boolean search instead. Additionally,
+if you want to search for a common word in
+a phrase, you will need to precede it with a # or + sign (eg "sale #of goods").
+Unless autosearch recognises your search as one of the above searches, it will default
+the search type to an any of these words search. Do not forget that you can
+override autosearch by explicitly choosing another search type.
+Advanced (Boolean) Searches
+If you do a search from the Advanced Search Pages, the system switches
+by default to boolean mode. The Advanced Search form also allows you
+to select several other common search types ("all of these words", "words in a
+document title" etc).
+If you want more than one phrase or word to appear in the retrieved
+documents, put an and between them.
+For example, to
+find documents containing the phrase moral rights as well
+as the word copyright, you would type:
+moral rights and copyright.
+If, on the other hand, you want to find one term and/or
+another one, put an or between them.
+For example, to
+find documents which contain the words treaty, convention
+or international agreement you would type:
+treaty or convention or international agreement.
+If you wanted to, you could even put these two searches together - as
+in: treaty or convention or international agreement and moral
+rights and copyright.
+For more in-depth information see the Search
+Operators Chart and Common Words List
+(words that are not searchable unless preceded with a # or + sign).
+If you want to find two words or phrases which appear close to each
+other (for example, the parties to a case), you can use the
+near proximity operator.
+If you wanted to find cases where
+Smith sued (or was sued by) Brown, you
+would type: smith near brown.
+The near proximity operator finds two words or phrases
+within 50 words of each other. For information on the other proximity
+operators available, see the Search Operators
+Chart
+WorldLII:
+Feedback |
+Privacy Policy |
+Disclaimers
+URL: http://www.worldlii.org/worldlii/help/search.html

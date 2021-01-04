@@ -1,0 +1,100 @@
+http://www.farmerboyag.com/ad-cookie-policy
+<!-- Start Tracking Code for analytics_googleanalytics -->
+<script>
+!function(){var analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.loadPlatform=function(t,e,a,o){window[o||"analytics"]=analytics;window._analytics_js_global_name=o;analytics.platformSettings=e;analytics.platformPlan=a;var r=document.createElement("script");r.type="text/javascript";r.defer=!0;r.src="https://cdn11.bigcommerce.com/shared/js/storefront/analytics-c7af4d4e323cc1137c45f692e81cae05fd2a3986.js";var i=document.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)};analytics.SNIPPET_VERSION="4.0.0_platform";
+analytics.loadPlatform("", { "Google Analytics": {"enhancedLinkAttribution":true,"enhancedEcommerce":true,"includeSearch":true,"sendUserId":true,"trackingId":"UA-1501142-1","dimensions":[],"metrics":[]} }, {}, "analytics");
+analytics.identify();
+analytics.page();
+analytics.ready(function () {
+ga('require', 'ec');
+ga('require', 'linker');
+ga('linker:autoLink', ["farmerboyag.com","ad.buybutton.store","store-44t8fz8vq4.mybigcommerce.com","www.store-44t8fz8vq4.mybigcommerce.com"]);
+});
+}}();
+</script>
+<!-- End Tracking Code for analytics_googleanalytics -->
+<!-- Start Tracking Code for analytics_siteverification -->
+<!-- MINIBC Integration Code -->
+<script type="text/javascript">
+(function(d,w) {
+d.addEventListener("DOMContentLoaded", function() {
+var i = function(u) {
+var h = d.getElementsByTagName("head"), s = d.createElement('script');
+s.setAttribute("type", "text/javascript");
+s.setAttribute("src", u);
+h[0].appendChild(s);
+};
+var p = w.location.pathname;
+if (p === '/checkout') {
+var h = d.getElementsByTagName('head'), c = d.createElement('style');
+c.innerHTML = '.checkout-step[checkout-step="payment"] .checkout-view-content {opacity:0.25;transition:0.5s 0s ease-in-out;}.mbc-payment-ready .checkout-step[checkout-step="payment"] .checkout-view-content{opacity:1;}';
+h[0].appendChild(c);
+}
+if (p.indexOf('/checkout') === 0) {
+i("https://apps.minibc.com/bootstrap/5d447ec43ecc5?v=1.9");
+}
+});
+})(document,window);
+</script>
+<!-- END MINIBC Integration Code -->
+<!-- End Tracking Code for analytics_siteverification -->
+<!-- Start Tracking Code for analytics_visualwebsiteoptimizer -->
+<script>
+wwPage = window.location.href;
+if (wwPage.indexOf("billing_address") >= 0 || wwPage.indexOf("create_account") >= 0 || wwPage.indexOf("shipping_address") >= 0 ) {
+function loadaddrexx() {
+var _cc_url = "xxredda.s3.amazonaws.com/bcinstall/farmerboy.js ";
+var _cc_s = document.createElement('script');
+_cc_s.type = 'text/javascript';
+_cc_s.src = (("http:" === document.location.protocol) ? "http:" : "https:") + "//" + _cc_url;
+document.getElementsByTagName("head")[0].appendChild(_cc_s);
+};
+loadaddrexx();
+}
+</script>
+<!-- End Tracking Code for analytics_visualwebsiteoptimizer -->
+<script type="text/javascript">
+(function () {
+var xmlHttp = new XMLHttpRequest();
+xmlHttp.open('POST', '/events/trigger-visit-event');
+xmlHttp.setRequestHeader('Content-Type', 'application/json');
+xmlHttp.send('{"initiator":{"id":"","session_id":"8335f47ae1371355ec1da7c8a21a3cc38da4b708","type":"ANONYMOUS","visit_id":"314d4cf3-73cd-4e1d-95c2-aa4d2eb31a18","visitor_id":"fb369235-728a-4693-b279-e830b34f1e43"},"referer":{"url":""},"request":{"url":"https:\/\/farmerboyag.com\/ad-cookie-policy\/"}}');
+})();
+</script>
+<script type="text/javascript">
+var BCData = {"csrf_token":"6bfadccd5e2a7eefe8616d913f883da12054cba68e5d4bd1423047739b35af16"};
+</script>
+<script>
+const styleEle = document.createElement('style')
+const fixStyle = ".shopping-list-table .action-lists .button--primary{
+padding: 6px 8px;
+font-size: 12px;
+min-width: auto;}"
+styleEle.innerHTML = fixStyle
+document.querySelector('head').append(styleEle)
+</script><script>!function(){var e=window.location.search;if(e&&e.length>1&&localStorage){var l,o,t=e.slice(1).split("&");for(l=0;l<t.length;l++)o=(e=t[l].split("="))[1],(e=e[0])&&o&&("gclid"===e||"msclkid"===e||0===e.indexOf("utm"))&&localStorage.setItem(e,decodeURIComponent(o))}}();</script><script type="quoteninja-results"></script><script>"use strict";var params=getParams();if(params.redirect&&params._ke&&params.id){setCookie("__kla_id",params._ke,900);var prevId=localStorage.getItem("prevCartId");params.id!==prevId&&(window.location.href=params.redirect)}function setCookie(e,a,r){var t="";if(r){var i=new Date;i.setTime(i.getTime()+24*r*60*60*1e3),t="; expires="+i.toUTCString()}document.cookie=e+"="+(a||"")+t+"; path=/"}function getParams(){var t={};window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,function(e,a,r){t[a]=decodeURIComponent(r)});return t}</script>
+Home
+Ad & Cookie Policy
+PRIVACY POLICY
+Farmer Boy AG and its subsidiaries, divisions, affiliates, and brands (collectively “We”) value our customers and are committed to protecting personal information about them and their companies. This notice (“Privacy Policy”) describes what information we collect about you, how we use it, with whom we may share it, how we collect it, and what choices you have regarding it. This Privacy Policy is incorporated into and forms part of the Terms of Use www.FarmerBoyAG.com of each Farmer Boy AG website, or any replacement site, the “Site” or “Sites”). Please review and become familiar with the terms and conditions of both this Privacy Policy and the Terms of Use. BY ACCESSING OR USING ANY FARMER BOY AG SITE YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND CONSENT TO THE PRIVACY PRACTICES, AND TO THE USES AND DISCLOSURES OF INFORMATION ABOUT YOU AND YOUR COMPANY, THAT ARE DESCRIBED IN THIS PRIVACY POLICY AND YOU AGREE TO BE BOUND BY THEIR TERMS. Please review this Privacy Policy periodically, as we may update it from time to time, as further described below.
+Information We CollectOur web servers collect general data pertaining to each Site visitor, including the IP address, tracking codes, the domain name, the web page, the length of time spent and the pages accessed while visiting this Site. This information is collected to, among other things, aggregate information from online and offline sources, facilitate system administration, improve the content of the Site, customize and improve the user experience for Site visitors and customers, and improve customer service generally. We also collect personally identifiable and transactional information provided by companies and Site visitors that purchase products from that Site. This information includes contact information, shipping information, credit cardholder name, and card number/expiration date. We may also retain the content of the communications that are sent to our customer service representatives. This information helps us to respond to inquiries regarding this Site.Use of Information CollectedWe use the information that is collected from Site visitors and customers to, among other things, better serve customers, improve the content of this Site, and customize the shopping experience for Site visitors and customers. We may also use the information collected to notify Site visitors of changes to this Site, to notify Site visitors of new products, and for any other legitimate and lawful business purpose.We may share your information as follows:Among our various subsidiaries, divisions, parent organizations, and brands; With third parties, such as suppliers, financial institutions, and others who perform services on our behalf; With any successor to Farmer Boy AG’s interest; With third parties whose products or services might be of interest to you or for joint promotional purposes; and, In response to subpoenas, investigative requests (with or without subpoena) and other legal process, to exercise Our legal rights and defend against legal claims.
+Security Policy - Website SecuritySite security is a priority. We periodically review and update the security methods implemented intended to protect information transmitted via this Site, including measures intended to secure and protect all personally identifiable information from loss, misuse, and alteration. Our Site uses industry-standard encryption technology to provide for the security of your credit card numbers. The secure areas of Our Site use certificates provided by Verisign, which gives assurance that the Site is authentic and that all transactions are secured by Secure Socket Layer (SSL) encryption. However, we cannot guarantee that any electronic commerce is totally secure. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of electronically stored sensitive personal data via email or by conspicuous posting on the Site as soon as possible to the extent consistent with (a) the legitimate needs of law enforcement, and (b) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. Account SecurityWe are dedicated to ensuring that your account remains secure.
+We ask for your password when you log-in to Our site. We will never ask for your password in any unsolicited communication. To enhance your online safety, follow these recommendations to keep your personal information private:
+Don’t reveal your password to anyone
+Change your password periodically
+Protect Your Account from Online Fraud
+The Internet is not immune to fraud. Criminals will use spoof e-mails, phony web sites, and other deceptive practices to try to obtain your personal information; this is known as phishing. Spoof emails are phony emails that appear to have originated from a legitimate company. These phony emails ask you to go to a spoof web site and provide your personal account information. To bait you, often these deceptive emails may allude to an urgent matter concerning your account. In many cases, there is no easy way to determine that you are on a phony web site because the URL may contain the name of the company it is spoofing.
+Security Tips:
+Delete suspicious emails without opening them. If you do open a suspicious email, never click on a link or open an attachment contained in the suspicious email.
+Do not provide your sensitive information by email or phone.
+When entering private information, confirm your security by looking for a closed lock at the bottom of the Web page. Click on the lock icon to verify that the security certificate has been issued to Our Site.
+If you believe that there is a problem with your account, please contact customer service. To report a suspicious email that uses our name, immediately forward it to eCommerce@FarmerBoyAG.com or call 1-800-845-3374 - 24 hours a day, 7 days a week.Cookies and Other Technology InformationA cookie is a small file stored on your computer by a web site to give you a unique ID. We use Cookies and other technologies to track new visitors to this Site and recognize past customers so that we may present more personalized content. Cookies used by this Site do not contain any personally identifiable information. We cannot identify a customer unless that information is provided voluntarily. NOTE: If you configure your computer to block cookies, you may not be able to access certain Site functionality. We also contract with third party services (“Third Party Services”) to collect information regarding Site visitors and their use of this Site. The Third Party Services use Cookies and other technologies on our behalf to collect such information. We use this information to provide Site and service enhancements for customers and Site visitors and to optimize your shopping experience. The Third Party Services are contractually prohibited from using information obtained in the course of providing these services to us in any manner other than solely for our business purposes. Nevertheless, we respect your right to choose whether to be included in the services the Third Party Service provides to Us. If you would like to opt-out of these services completely, please contact us at eCommerce@FarmerBoyAG.com or call 1-800-845-3374 - 24 hours a day, 7 days a week.Unsubscribing from E-Mail MarketingEach Site visitor can unsubscribe from receiving e-mail containing promotional offers from Us simply by sending an email request with “unsubscribe” in the subject line to eCommerce@FarmerBoyAG.com or call 1-800-845-3374 - 24 hours a day, 7 days a week. Site visitors can also request that their personal information not be shared with third parties solely for marketing purposes by sending their request with “do not share” in the subject line to eCommerce@FarmerBoyAG.com or call 1-800-845-3374 - 24 hours a day, 7 days a week. Because mailing lists are prepared in advance of each promotion, you may receive a couple of promotions before the change is effective.
+Links This Site contains links to other sites that are not owned, maintained, operated, or endorsed by or for Farmer Boy AG and not subject to the same Privacy and other Policies. We are not responsible for the content of those sites or the use of any information collected from you by those sites. The inclusion of any link to such sites does not imply any recommendation or sponsorship of such sites and We disclaim any liability for links: (i) from another website to this Site, and (ii) to another website from this Site. You should read the other site’s privacy policies to understand how personal information collected about you is used and protected.Policy UpdatesFrom time to time we may change our privacy policies because of changes in the relevant and applicable legal or regulatory requirements, changes in our business or business practices, or in our attempts to better serve our customers. Notice of any material changes in the manner in which we handle personally identifiable information under this policy will be provided on the Site with an updated revision date. Please check the Site periodically for updates. Policy updates shall be effective the date the change is posted on the Site. By continuing to use the Site after we post any changes, you agree to the terms of the updated policy.
+QuestionsIf users have any questions or suggestions regarding our privacy policy, please contact us at eCommerce@FarmerBoyAG.com or call 1-800-845-3374 - 24 hours a day, 7 days a week.
+×
+OK
+Talk to a Product Specialist Today!!
+1-800-845-3374
+info@farmerboyag.com
+Before you go, sign up for our email list
+Stay up to date on all that's happening on the Farm

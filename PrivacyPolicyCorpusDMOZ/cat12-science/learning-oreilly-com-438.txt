@@ -1,0 +1,23 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch15s04.html#websec2-CHP-15-SECT-4.4.1
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Operating SecurelyIn general, the longer a computer is used, the less secure it
+becomes. New software gets installed, increasing the complexity of the
+system and increasing the chance that a vulnerability will be
+introduced. Sometimes a security measure might be disabled by an
+administrator who is looking to get something done quickly. Meanwhile,
+vulnerabilities with the existing system are more likely to be
+discovered. Operating systems that were believed to be absolutely
+secure one day can be fatally vulnerable the next.Thus, if you spend the time and money to deploy a secure system,
+but you do not maintain the system, you are wasting your resources.
+Organizations that hire security consultants are often the most guilty
+offenders: these organizations frequently bring in some high-powered
+consultants for a brief engagement. The consultants write a report and
+leave. Even if the consultants actually succeeded in making the
+systems more secure, the beneficial results are only temporary.Keep Abreast of New VulnerabilitiesIn today’s environment, you must stay abreast of newly discovered vulnerabilities if you wish to maintain a secure computer that is connected to the Internet. The day has long passed when security vulnerabilities were kept quiet. These days vulnerabilities are usually publicized with breathtaking speed once they are discovered. What’s more, once a vulnerability is known, exploits are quickly developed and distributed across the Internet. In many cases, system administrators ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

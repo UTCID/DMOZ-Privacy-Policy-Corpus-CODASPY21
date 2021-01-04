@@ -1,0 +1,99 @@
+http://www.cippic.ca/en/privacy_policy
+Skip to Main Content Area
+About Us
+Student Program
+Donate
+CopyrightPrivacyTelecom PolicyElectronic SurveillanceOpen InformationDigital ExpressionConsumer ProtectionSee also:Cyber Spam & Security,Identity Theft,Accessibility,MultiMedia.
+Privacy Policy
+CIPPIC Privacy Policy
+General
+CIPPIC collects, retains, uses, and discloses personal information (e.g., name and address, or information otherwise linkable to an individual) only as necessary to provide the services requested by individuals contacting us, or as specified below. We do not use this information for any other purpose and do not share it with anyone else.
+CIPPIC Web Site
+CIPPIC operates this web site: https://cippic.ca.
+Logs. We maintain logs of IP addresses that visit our web site. These logs track what URLs are visited on our site, what time they were visited and for how long they stayed, which page was requested and additional information primarily relating to the user agent that made the request (typically, your browser). A typical raw log entry would look like this (IP Address is presented as 'Xs'):
+XXX.X.X.X - - [29/Jun/2013:16:32:55 -0400] "GET /index.php?q=en/netneutrality/wireless HTTP/1.0" 200 23403 "http://www.google.ca/url?sa=t&rct=j&q=net%20neutrality%20canada%20wireless%20carriers&source=web&cd=4&ved=0CEYQFjAD&url=http%3A%2F%2Fwww.cippic.ca%2Fen%2Fnetneutrality%2Fwireless&ei=RjrPUdTbMeeTyQG3hoCABw&usg=AFQjCNEx0qBBGgvM0ziJvfiv9152aQxtwQ" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)"
+This log entry indicates that an IP address requested to see our wireless net neutrality page: https://cippic.ca/netneutrality/wireless/ [GET ... ?q=en/netneutrality/wireless] at 4:32 pm [UTC/GMT -4:00 hours], on June 29, 2013. The request was made through a user agent (browser) that is compatible with MS Internet Explorer 9.0 [MSIE 9.0], operating on a Windows 7 [Windows NT 6.1] 64 bit [WOW64] operating platform. The visitor was referred to that particular page of our site by Google.ca after submitting the following search query: "net neutrality canada wireless carriers" [http://www.google.ca/url? ... q=net20%neutrality20%canada20%wirless20%carriers].
+We use AWStats, an open source log analyzer, to assist us in analyzing the raw, aggregate data provided by these logs (http://awstats.sourceforge.net/). This shows us generic information about our site such as how many individuals visited our website each day, how long visitors to our site stay on average, and which URLs are most visited (but it does not tell us which URL was visited by which IP address). We conduct this analysis in order to assess how the public uses our web site, and to identify which issues our visitors are seeking to better understand.
+We periodically delete logs of users that view our web site. We do not track individual users of our web site. Please note that we are not responsible for the privacy practices of other web sites to which we provide links, nor are we responsible for the security of network traffic beyond our server. Finally, we are in the process of exploring the use of a log anonymizer, that will allow us to discard our raw logs immediately.
+Referers. Most browsers are configured to attach a 'referer' header whenever a hyperlink is used. A referer header is an HTTP header that indicates the website from which a visitor was directed to a destination website. For example, the word 'referer' above includes an embedded hyperlink that, if clicked, will open a page on wikipedia.org. The HTTP request your browser will send to wikipedia.org for the hyperlinked wikipedia page on 'HTTP Referers' will indicate 'cippic.ca' as the source of the reference.
+We note that if you wish to avoid this effect, you can simply copy the destination 'URL' and paste it manually into a new browser window or tab instead of clicking on the hyperlink. Additionally, some browsers will let you turn off all referers. For Mozilla Firefox, enter about:config into your URL bar and modify the setting for the 'network.http.sendRefererHeader' so that the value = '0' instead of '1'. Then, modify 'network.http.sendSecureXSiteReferrer' so that it is set to 'false' instead of 'true'. For Google Chrome, you need to add '--no-referrers' to your Chrome execute command by adding this switch to the end of the the 'target' line in your shortcut for chrome. It should read:
+"C:\%AppData%\Local\Google\Chrome\Application\chrome.exe" --no-referrers
+Cookies. Our website does not set any third party cookies. We set two first party cookies, both set by Drupal, which is our content management system (the software package through which our website layout and content are generated and are displayed). The first of these looks like this:
+Name:
+has_js
+Content:
+1
+Domain:
+cippic.ca
+Path:
+/
+Send For:
+Any kind of connection
+Accessible to Script:
+Yes
+Expires:
+When the browsing session ends
+It is used by Drupal to remember whether your browser has javascript enabled or not. It does not include any unique identification numbers. Only a '1' to signify that javascript is enabled, or a '0' to signify that it is not. Because this cookie is defined as a 'session cookie', your browser should automatically delete this cookie the next time you close it (note: merely navigating away from cippic.ca to another website or closing all cippic.ca 'tabs' will not lead to the deletion of this cookie or any other session cookies. The browser must be fully shut down).
+The second cookie looks like this:
+Name:
+SESS563644f1b299bef8883e5e2aade89bc1
+Content:
+fd6f2aa3885697f4a0f0346e09469e8b
+Domain:
+.cippic.ca
+Path:
+/
+Send For:
+Any kind of connection
+Accessible to Script:
+Yes
+Created:
+Sunday, 23 June 2013 19:12:36
+Expires:
+Tuesday, 16 July 2013 22:45:56
+This is a SESS cookie. It is placed by Drupal, and is set to expire within 2,000,000 seconds (roughly 24 days) of placement. It contains a unique, randomized identifier. It is not necessary for the operation of our site, and we are in the process of figuring out how to limit it to specific sessions. In the meanwhile, if you wish to block this cookie through your browser, or by means of a plug-in, we encourage you to do so. Alternatively, you may wish to adjust your browser settings so that all cookies expire at the end of a session. None of this will have any detrimental impact on your browsing experience on this site.
+Encryption. CIPPIC now diverts all requests for webpages on its site from HTTP to HTTPS. Web pages sent by means of HTTPS are encrypted when transmitted over the web and, therefore, if they are intercepted during transmission, it will be more difficult for anyone to read their content.
+However, CIPPIC can only redirect such requests from HTTP to HTTPS after receiving the request. This means that your initial request for a CIPPIC page will be insecure. To avoid this, try visiting HTTPS pages on the CIPPIC site directly. In addition, browser plugins such as HTTPS Everywhere configure your browser to automatically re-write all your requests for several major websites from 'HTTP' to 'HTTPS'. You can add CIPPIC.ca to this plugin manually, by saving the following Ruleset text into an .XML file saved in your Mozilla the 'HTTPSEverywhereUserRules' subfolder of your Firefox 'Profile Folder':
+<ruleset name="CIPPIC">
+<target host="www.cippic.ca" />
+<target host="cippic.ca" />
+<rule from="^http://(www\.)?cippic\.ca/"
+to="https://cippic.ca/"/>
+</ruleset>
+Newsletter List
+CIPPIC publishes the CIPPIC Bulletin, a newsletter detailing CIPPIC's recent activities and projects. We maintain a mailing list of individuals who have indicated they are interested in hearing more about our activities. This mailing list contains the name and contact information of such individuals. We use the CIPPIC Bulletin mailing list only to mail the CIPPIC Bulletin and to send notices about our activities to individuals on the mailing list. If you are interested in receiving the CIPPIC Bulletin or other CIPPIC notices, we ask for your address (postal, fax, and/or email) so that we can send it to you. You can also read the CIPPIC Bulletin on our web site, at https://cippic.ca/publications.
+Co-operating Lawyers List
+CIPPIC maintains a list of lawyers who have volunteered their services to us and to our clients. This list includes the lawyers' names, contact information and areas of expertise. We do not share this list with anyone. Individuals approach us for legal advice from time to time. In appropriate cases, and with the consent of the co-operating lawyer, we may refer the individual to the co-operating lawyer.
+Alumni List
+CIPPIC maintains a list of "CIPPIC alumni". CIPPIC alumni include individuals who have volunteered or interned at CIPPIC. This list includes alumni names and contact information. We use this information to distribute the CIPPIC Bulletin and other notices, and as a resource in our ongoing advocacy and client advice efforts. We do not share this list with anyone.
+Contact Lists
+CIPPIC maintains a list of contacts that we have developed over time in the context of our work. The list includes the contacts' names, contact information and area of expertise. We use this list as a resource in our advocacy and client advice efforts. We do not share this list with anyone.
+CIPPIC Supporters List
+CIPPIC maintains a list of individuals who have indicated that they are supportive of CIPPIC's activities. This list contains the name and contact information provided by such individuals, and any information provided regarding their interests and activities that pertain to CIPPIC's mandate. CIPPIC may use this list to distribute notices about clinic work, to invite supporters to join a regular email news service or to take action on an issue, or as a base for offering memberships. Any such use will be infrequent. We may also use the list to indicate aggregate numbers of supporters to funders or others who question who we represent. We do not share this list with anyone.
+Activist Networks
+CIPPIC maintains a list of individuals who have indicated their interest in acting with CIPPIC on particular projects. CIPPIC uses these lists to distribute information and urgent action bulletins, and as a resource in our advocacy efforts. We do not share this list with anyone.
+Changes to this Privacy Policy
+If we make material changes to our privacy policy, we will post a notice about such changes on our web site, explaining the change and its implications for you. For all material changes made after July 1, 2013, we will also keep an archive of historical privacy policies and provide links to these below, so you can understand how our privacy practices are changing over time. If we want to use your personal information for a purpose beyond those described above, we will contact you in order to obtain your prior consent.
+Changing or removing your information on CIPPIC lists
+If you have any questions, or wish to update, correct, remove or access the information CIPPIC may have about you, please contact us at:
+Samuelson-Glushko Canadian Internet Policy & Public Interest Clinic
+University of Ottawa, Faculty of Law - Common Law Section
+57 Louis Pasteur Street
+Ottawa, Ontario, K1N 6N5
+Email:
+Telephone: 613-562-5800 x 2553
+Fax: 613-562-5417
+CASL Conspicuous Publication Disclaimer
+The publication email addresses on the CIPPIC website is not to be taken as consent to their collection or use for the purposes of communicating commercial electronic messages, even if such messages may be relevant to the recipient’s business, role, functions or duties.
+Back to top
+This policy was written: July 1, 2013, with minor non-substantive changes on August 18, 2014 and October 28, 2016.
+All FAQs
+All News Items
+About Us
+Contact
+Privacy Policy
+University of Ottawa, Faculty of Law
+57 Louis Pasteur Street
+Ottawa | Ontario | K1N 6N5
+613-562-5800 x 2553
+This work is licensed under a Creative Commons Attribution-NonCommercial 2.5 Canada License

@@ -1,0 +1,177 @@
+https://www.hotjar.com/legal/policies/cookie-information
+Hotjar Documentation
+Compliance, Legal & Security
+Security
+Articles in this section
+Security at Hotjar
+Why do I see an error called "Cookie SameSite=None"?
+Information Security
+Data Safety, Privacy & Security
+Application Security
+Cloud Security
+Hotjar Cookie Information
+Security FAQs
+Hotjar IPs
+How long does Hotjar keep my data?
+See more
+To function properly, Hotjar stores first-party cookies on your visitor's browser. Cookies are either set by the Hotjar script, or by visiting Hotjar's website.
+When you use the Hotjar script on your website, Hotjar cookies are responsible for displaying the correct content to your visitors without personally identifying anyone.
+When you visit Hotjar's website, it is important to note that the Hotjar script is enabled on this website.
+If you, as an internal user, are looking to not be tracked by Hotjar or any site that uses Hotjar, you may do so by following the steps on our  Do Not Track page.
+I use the Hotjar script on my website. Should my users be aware of these cookies?
+Since privacy laws vary from country to country, we recommend that you consult with your legal team or company to determine which cookies need to be listed on your site and whether or not a cookie manager should be utilized.
+Cookies set by the Hotjar script
+Name
+Description
+Duration
+_hjClosedSurveyInvites
+Hotjar cookie that is set once a visitor interacts with an External Link Survey invitation modal. It is used to ensure that the same invite does not reappear if it has already been shown.
+365 days
+_hjDonePolls
+Hotjar cookie that is set once a visitor completes a survey using the On-site Survey widget. It is used to ensure that the same survey does not reappear if it has already been filled in.
+365 days
+_hjMinimizedPolls
+Hotjar cookie that is set once a visitor minimizes an On-site Survey widget. It is used to ensure that the widget stays minimized when the visitor navigates through your site.
+365 days
+_hjShownFeedbackMessage
+Hotjar cookie that is set when a visitor minimizes or completes Incoming Feedback. This is done so that the Incoming Feedback will load as minimized immediately if the visitor navigates to another page where it is set to show.
+365 days
+_hjid
+Hotjar cookie that is set when the customer first lands on a page with the Hotjar script. It is used to persist the Hotjar User ID, unique to that site on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.
+365 days
+_hjRecordingLastActivity
+This should be found in Session storage (as opposed to cookies). This gets updated when a visitor recording starts and when data is sent through the WebSocket (the visitor performs an action that Hotjar records).
+Session
+_hjTLDTest
+When the Hotjar script executes we try to determine the most generic cookie path we should use, instead of the page hostname. This is done so that cookies can be shared across subdomains (where applicable). To determine this, we try to store the _hjTLDTest cookie for different URL substring alternatives until it fails. After this check, the cookie is removed.
+Session
+_hjUserAttributesHash
+User Attributes sent through the Hotjar Identify API are cached for the duration of the session in order to know when an attribute has changed and needs to be updated.
+Session
+_hjCachedUserAttributes
+This cookie stores User Attributes which are sent through the Hotjar Identify API, whenever the user is not in the sample. These attributes will only be saved if the user interacts with a Hotjar Feedback tool.
+Session
+_hjLocalStorageTest
+This cookie is used to check if the Hotjar Tracking Script can use local storage. If it can, a value of 1 is set in this cookie. The data stored in_hjLocalStorageTest has no expiration time, but it is deleted almost immediately after it is created.
+Under 100ms
+_hjIncludedInPageviewSample
+This cookie is set to let Hotjar know whether that visitor is included in the data sampling defined by your site's pageview limit.
+30 minutes
+_hjIncludedInSessionSample
+This cookie is set to let Hotjar know whether that visitor is included in the data sampling defined by your site's daily session limit.
+30 minutes
+_hjAbsoluteSessionInProgress
+This cookie is used to detect the first pageview session of a user. This is a True/False flag set by the cookie.
+30 Minutes
+Visitors with Disabled Cookies
+Hotjar does not track or record visitors who have cookies disabled. In fact, the Hotjar script doesn't properly load its different components if it detects that cookies are disabled. Learn more
+Cookies set by visiting the Hotjar website
+Cookies set when you visit the Hotjar's website can be categorized into essential and non-essential cookies.
+Essential Cookies
+Essential cookies are set when you visit the Hotjar's website. They serve to operate the Hotjar Website and its features in a workable fashion.
+To the extent personal data is processed via these cookies, the respective legal basis is Article 6(1)(f) GDPR as operating the Hotjar website is in our legitimate interest.
+Name
+Description
+Duration
+_hjptid
+This cookie is set for logged in users of Hotjar who have Admin Team Member permissions. It is used during pricing experiments to show the Admin consistent pricing across the site.
+Session
+hjSiteLang
+This cookie is set when a page that supports multiple languages on hotjar.com is visited. This allows us to always load the content in the preferred language when available.
+365 days
+_hjOptOut
+Hotjar Opt-Out setting. More information can be found on our Do Not Track Page
+4 months
+X-Access-Key
+This cookie keeps your website session alive.
+Session
+Non-essential Cookies
+With your consent, non-essential cookies are set when you visit the Hotjar's website. They serve to optimize the user experience, provide us with insights about how users use the Hotjar's website, or are used for marketing purposes.
+To the extent personal data is processed via these cookies, the respective legal basis is your consent in accordance with Article 6(1)(a) GDPR. You may withdraw your consent at any time with future effect by adjusting your cookie settings.
+Name
+Description
+Duration
+JSESSIONID
+New Relic cookie which is used to monitor session counts for an application. Read more
+Session
+NREUM
+New Relic cookie which is only created in browsers that do not support the Navigation Timing API. Read more
+Session
+NRAGENT
+New Relic cookie, created only when a token is handed out to an end-user by the New Relic server. Read more
+Session
+optimizely*
+This cookie is set by Optimizely to run tests on hotjar.com. Read more
+Decided by Optimizley
+mp_*
+This cookie is set by Mixpanel to run track usage on hotjar.com.
+Decided by Mixpanel
+segment_id
+This cookie is created by Hotjar to create a unique ID for users and is used to consistently trigger experiments for example.
+1 year
+MUID (Microsoft User ID)
+This cookie is set by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.
+1 year
+UserMatchHistory
+This cookie is set by LinkedIn Ads for ID syncing. Read more
+30 days
+bcookie
+This cookie is set by LinkedIn to keep track of the browser ID. Read more
+2 years
+bscookie
+A secure browser cookie set by LinkedIn. Read more.
+2 years
+lidc
+This cookie is set by LinkedIn used for routing. Read more.
+1 day
+lissc
+Used by LinkedIn for tracking the use of embedded services. Read more.
+1 year
+lang
+This cookie is set by LinkedIn to set default locale/language. Read more.
+Session
+lang
+This cookie is set by ads.likedin.com. Read more.
+Decided by Linkedin
+test_cookie
+This cookie is set by Google used to check if the user's browser supports cookies.
+1 day
+_fbp
+Used by Facebook to deliver a series of advertisement products such as real-time bidding from third-party advertisers.
+3 months
+_gid
+This cookie is set by Google Analytics used to distinguish users. Read more.
+1 day
+_ga
+This cookie is set by Google Analytics used to distinguish users. Read more.
+2 years
+_gaexp
+This cookie is set by Google Analytics used to determine a user's inclusion in an experiment and the expiry of experiments a user has been included in. Read more.
+90 days (typically, depends on experiment length)
+_gcl_au
+This cookie is set by Google Analytics to take information in advert clicks and store it in a 1st party cookie so that conversions can be attributed outside of the landing page. Read more.
+3 months
+ajs_anonymous_id
+This cookie is set by Segment as a randomly generated ID for anonymous visitors.
+365 days
+ajs_group_id
+This cookie is set by Segment used to group visits by different website users if logged in.
+365 days
+ajs_user_id
+This cookie is set by Segment used for usage analytics if logged in.
+365 days
+ajs_user_traits
+This cookie is set by Segment to identify call is made on hotjar.com.
+365 days
+Related articles
+Data Safety, Privacy & Security
+Delete Your Hotjar Account
+Information Security
+Application Security
+Using Hotjar with Google Optimize
+Still need help?
+Get help with common questions or reach out to our support team.
+Contact us
+Just getting started?
+Watch our comprehensive demo to help get the most out of Hotjar.
+Watch Demo

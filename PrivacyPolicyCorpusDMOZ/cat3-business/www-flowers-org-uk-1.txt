@@ -1,0 +1,39 @@
+http://www.flowers.org.uk/privacy-policy/
+Find a florist
+About us
+FAQ
+Contact
+Flowers
+Plants
+Care tips
+Weddings
+News
+Home
+Privacy Policy
+Cookies
+We may use technology to track the patterns of behaviour of registered and non-registered visitors to our site. This can include using a “cookie” which is a small file stored on your browser. The information collected in this way can be used to identify you unless you modify your browser to prevent this happening – guidance for which is set out below. We also aggregate this data to perform statistical analyses of the characteristics and behaviour of our Website visitors. Cookies are also used as a further means of ensuring private and secure purchase sessions are operated within the Website.
+We may use third-party advertising companies to serve advertisements on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. Your browser can be modified to not accept cookies – guidance for which is provided below.
+You have the ability to accept or decline cookies by modifying the settings in your browser (for example, using Internet Explorer select ‘internet options’ from the ‘tools’ menu, then click ‘security’, followed by ‘custom level’ and select ‘disable cookies’). However, you may not be able to use all the interactive features of our site if cookies are disabled. For more information about cookies, including how to set your internet browser to reject cookies, please go to www.allaboutcookies.org.
+We are currently developing the ability for you to select which cookies you are happy for us to use during your time on our site and hope to have this available soon. If you would like to see more detail about the cookies we currently use please see below:
+The cookies we use on our site are as follows:
+Quantity
+Cookies essential for placing your order
+0
+Cookies for analytics
+4
+Cookies for marketing
+0
+HomeFind a florist
+About us
+FAQ
+Contact
+Latest news
+Making the most of your green plants
+How to attract bees to your garden
+How to care for cut roses
+Floriography
+Create Your Own Valentine's Day Bouquet
+Twelve Red Roses
+Latest from the blog
+Fatal error:
+Call to undefined method WP_Error::get_items() in /homepages/27/d507432002/htdocs/wp-content/themes/flowers/functions.php on line 205

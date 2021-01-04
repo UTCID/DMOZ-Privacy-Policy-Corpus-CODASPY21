@@ -1,0 +1,101 @@
+http://www.kroll-software.ch/help-chapter/bulkmailer-network-installation/
+BulkMailer supports the usage by multiple users in a windows network.
+The program manages concurrent access to the BulkMailer address databases and exclusion lists. This data can be edited by multiple clients at the same time.
+Each client will still have it’s own messages and out-box. Collaboration on the message texts and simultaneous sending from the same out-box is not implemented. This data should be managed locally.
+Installation
+Install BulkMailer on each client computer.
+Copy the common BulkMailer Address Databases (*.bm3) and Exclusion Lists (Exclude.mdb) to a Windows Server or another central Windows computer in your local area network.
+On each client computer, open the BulkMailer Address Database with menu
+File->Open BulkMailer Address Database..
+For the Exclusion Lists use menu
+Exclusion->Open another Exclusion Database..
+To use the software by multiple users from different computers requires a multiple-user license.
+BulkMailer: Logging at Protocol Level
+Products
+BulkMailer 2020 Professional
+FuzzyDupes 2020
+KS-ProjectPlanner Pro 2020
+KS-ProjectPlanner 2014 FreeWare
+KS.CRM
+KS.CRM Core Framework
+KS.CRM Opportunities PlugIn
+KS.CRM Products PlugIn
+KS.CRM Sales PlugIn
+KS.CRM DeDupe PlugIn
+KS.CRM Plug-In Bundle
+MP3db – The MP3-Database
+InterReg 2014
+Developer Products
+Summer GUI X-Platform
+Gantt Control for DotNet Windows Forms
+FuzzyDupes:NET
+Research
+Protein Folding by a Neural Network
+Detecting the Chirality of a Protein by a Neural Network
+The Brain – A Spiking Neural Network (SNN)
+Pages
+Sitemap
+Imprint
+Languagesdeutsch | english
+Search
+Recent Posts
+Detecting the Chirality of a Protein by a Neural Network
+BulkMailer PlugIn for ACT! CRM
+Protein Folding by a Neural Network
+Kroll-Software on GitHub
+SummerGUI
+BulkMailer Network Installation
+My recommendation for WordPress sites with dynamic content and custom types
+Categories
+Business / Office
+Customer-Relationship-Management
+Data Quality
+Home / Entertainment
+Project Management
+Research
+Software Development
+Uncategorised
+TagsBM-Feedback
+BulkMailer
+Bundle
+Contacts
+CRM
+Customers
+data-cleansing
+Database
+dedupe
+Development
+E-Mail
+EULA
+extensible
+free
+FreeWare
+FuzzyDupes
+FuzzyDupes.NET
+Gantt
+Industry
+interpolation
+InterReg
+KS.CRM
+math
+MP3
+MP3db
+Music
+Office
+Opportunities
+Plug-In
+Project Management
+ProjectPlanner
+Project Planning
+regression
+Sales
+WordPress
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept Imprint / Privacy PolicyImprint / Privacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.

@@ -1,0 +1,186 @@
+https://security.berkeley.edu/policy/glossary
+Skip to main content
+You are hereHome
+Policy
+Glossary
+Glossary
+Information Security Policy Glossary
+Below are definitions of key terms used in UC Berkeley's Information Security Policies. For a list of all policies, visit our A-Z Policy Catalog
+A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z
+Term
+Definition
+Administrative Official
+See “Unit Head”
+Application Coordinator
+See “Service Manager”
+Asset
+A term used to collectively refer to IT Resources and Institutional Information (both defined in this glossary).
+Authentication
+The process of verifying that an individual, entity, or application is who, or what, it claims to be. For example, this might involve validating personal identity documents, requiring a username and passphrase, biometric verification, or verifying the authenticity of a website with a digital certificate.
+Availability Level
+The degree to which Institutional Information and IT Resources must be accessible and operational to meet business needs. All UC Institutional Information and IT Resources are classified into one of four Availability Levels based on the level of business impact their loss of availability or service would have on UC, with A4 causing the highest level of impact and A1 causing a minimal level of impact.
+Berkeley Campus Data
+See “Institutional Information”
+Berkeley IT Resources
+See “IT Resources”
+Campus
+UC Berkeley
+CIO
+The Chief Information Officer (CIO) is the senior executive responsible for information technology or information system functions throughout Campus.
+CISO
+The Chief Information Security Officer (CISO) is the role responsible for security functions throughout Campus, including assisting in the interpretation and application of information security policies.
+Cloud Service
+A cloud service is any service that is hosted remotely and provided over the Internet. For the purposes of UC Berkeley’s Minimum Security Standards (MSSND and MSSEI), a cloud service refers to any service hosted at a non-Campus location.
+CRE
+The Cyber-risk Responsible Executive (CRE) is an individual in a senior management or academic position who reports to the chancellor or top Campus executive. The CRE is accountable for all information risk assessments, security strategies, planning and budgeting, incident management, and information security implementation.
+Critical IT Infrastructure
+1. IT Resources that manage unrelated sets of Institutional Information or sets of large or particularly sensitive Institutional Information.2. IT Resources that meet two conditions: a) Several information systems rely on the resource such that a security issue with the resource would affect multiple systems. b) The default or standard method for securing the system is inappropriate due to an elevated level of risk, complexity, or the specialized nature of the IT Resource
+Data Custodian (legacy)
+See “Service Provider”
+FERPA-Protected Student Records
+Student records protected under the Federal Family Educational Rights and Privacy Act of 1974 (FERPA) include, but are not limited to:
+Student ID
+Transcripts (grades)
+Exam papers
+Test scores
+Evaluations
+Financial aid records
+Loan collection records
+Directory information for students who have requested that information about them not be released as public information
+Student records are generally classified as "UC Protection Level 3 (P3) (formerly UCB Protection Level 1 (PL1)). See the Data Classification Policy for details and exceptions. UC Berkeley’s Office of the Registrar is the campus authority for FERPA.
+High Risk Data
+Information classified at UC Protection Level 4 (P4)
+Individual Devices
+End-user workstations that do not meet the definition of "Privileged Access Devices" or "Institutional Devices"
+Individually-Owned Data
+Data which is defined as an individual’s own personal information that is not considered "Institutional Information"
+Institution
+University of California
+Institutional Devices
+Devices that store 500 or more records of protected data -OR-
+Servers that store, process or transmit protected data. This includes database servers, application servers, web front-end servers, back-up and storage systems and any systems that provide authentication, authorization or configuration management for those systems -OR-
+Systems with stored credentials that access protected data in any of the above systems
+Institutional Information
+A term that broadly describes all data and information created, received and/or collected by UC relating to the activities or operations of the university, regardless of where the data is stored. Institutional Information does not include Individually-Owned Data.
+Institutional Information Proprietor
+The individual, group, committee, or board responsible for the Institutional Information and processes supporting a University function. Proprietor responsibilities include, but are not limited to: ensuring compliance with University policy regarding the classification, protection, access to, and release of information according to procedures established by UC, the Location, or the department, as applicable to the situation. Proprietors are also responsible for ensuring compliance with federal or state law or regulation.
+IT Resources
+A term that broadly describes IT infrastructure, software, and/or hardware with computing and networking capability. This includes:
+Any devices (UC-owned or personally owned) that store or access Institutional Information;
+Any devices used for UC business that are connected to UC systems or networks;
+UC-provided IT services, regardless of where they are hosted.
+IT Resource Proprietor
+The individual responsible for the IT Resources and processes supporting a University function. Proprietor responsibilities include, but are not limited to: ensuring compliance with University policy regarding the classification, protection, access to, location, and disposition of IT Resources. Proprietors are also responsible for ensuring compliance with federal or state law or regulation.
+IT Service Provider
+See “Service Provider”
+IT Workforce Member
+A Workforce Member who is assigned specific information technology (IT) duties or responsibilities.
+This applies to individuals working for the university in any capacity, whether paid or unpaid, including student employees, volunteers, and contingent workers.
+Low Risk Data
+Information classified at UC Protection Level 2 (P2)
+Minimal Risk Data
+Information classified at UC Protection Level 1 (P1)
+Moderate Risk Data
+Information classified at UC Protection Level 3 (P3)
+Notice-Triggering Information
+See “Statutory Requirement for Notification” below.
+Personnel Records
+Academic Personnel Records include, but are not limited to: confidential academic review records, non-confidential academic review records and "personal" information (as defined in Section 160 of the Academic Personnel Manual [PDF]).Staff Personnel Records (listed in Section 80 of the Personnel Policies for Staff Members) include, but are not limited to:
+Home telephone number and home address
+Spouse's or other relatives' names
+Birth date
+Citizenship
+Income tax withholdings
+Information relating to evaluation of performance
+Academic and staff personnel records are generally classified as UCB Protection Level 1 (PL1) / UC Protection Level 3 (P3). See the Data Classification Policy for details and exceptions.
+Privileged Access Devices
+Any device where credentials are used to provide privileged access (superuser, root, administrator, database administrator, or equivalent) to an institutional device. Physical, logical, and virtual devices included.
+Proprietor
+See “Institutional Information Proprietor” or “IT Resource Proprietor” as applicable.
+Protected Data
+A general term used to refer to information classified at UCB Protection Level 1 (PL1) / UC Protection Level 2 (P2) or higher.
+Protection Level
+An assigned number representing the level of protection needed for Institutional Information or an IT Resource. The scale goes from the minimum level of protection (UCB Protection Level 0 / UC Protection Level 1) to the highest level of protection (UCB Protection Level 3 / UC Protection Level 4) and is based on the potential harm resulting from unauthorized access, disclosure, loss of privacy, compromised integrity, or violation of external obligations.
+Provider
+See “Service Provider”
+Public Directory Information
+Information which may be disclosed to any party without the prior consent of the individual to whom the information pertains. This includes the following for academic and staff personnel, and students:
+“Non-Personal” Academic Personnel Information as defined by APM-160
+Name
+Date of hire or separation
+Current position title
+Current rate of pay
+Organizational unit assignment including office address and
+telephone number
+Full-time, part-time, or other employment status
+Staff personnel records designated as "public information" in Section 80 of the Personnel Policies for Staff Members
+Name
+Date of hire
+Current position title
+Current salary
+Organizational unit assignment
+Date of separation
+Office address and office telephone number
+Current job description
+Full-time or part-time, and appointment type
+Student Directory Data (unless the student has requested that such information not be disclosed)
+Student's name
+Address (local, permanent, billing, e-mail)
+Telephone number (local, permanent)
+Date and place of birth
+Major field of study
+Dates of attendance
+Class level (e.g., freshman, sophomore)
+Enrollment status (e.g., undergraduate or graduate, full time or part time)
+Number of course units in which enrolled
+Degrees and honors received
+Most recent previous educational institution attended
+Participation in officially recognized activities, including intercollegiate athletics
+Name, weight, and height of participants on intercollegiate athletic teams
+Public Information
+Information intended to be available to the public with no access restrictions
+Researcher
+UC faculty members, students or affiliates, including Principal Investigators, conducting research on behalf of UC. A Researcher is also a Workforce Member.
+Resource Custodian
+See “Service Provider”
+Resource Proprietor
+See “IT Resource Proprietor”
+Security Contact
+A Security Contact is a role at the IT Resource or department level made up of individuals who have been designated to receive and respond to security notices from UC Berkeley’s Information Security Office (ISO).
+Security Lead
+Also known as Unit Information Security Lead. A term for the Workforce Member(s) appointed by the Unit Head and assigned responsibility for ensuring tactical execution of information security activities including, but not limited to: implementing security controls; reviewing and updating risk assessments; devising procedures for the proper handling, storing and disposing of electronic media within the Unit; and reviewing access rights. These activities are performed in consultation with the Unit Head.
+Service Manager
+A Service Manager has overall accountability for defining a service, application, or system, ensuring services are delivered in accordance with agreed business requirements, and managing the service lifecycle.
+Service Provider
+Any UC group or organization providing IT services to one or more campus Units, including their own Unit. Synonyms: Data Custodian, Resource Custodian, Provider
+Shared-Fate
+If a data or system compromise would cause further and extensive compromise from multiple (even unrelated) sensitive systems, the data or system creating this "shared-fate" warrants an elevated UCB PL3 / UC P4.
+Statutory Requirement for Notification
+California State Civil Code 1798.29 and other legal statues, such as the Health Insurance Portability and Accountability Act (HIPAA), require notification to individuals in the event of a security breach of certain personal information. The Berkeley campus also refers to this data as "notice-triggering" information:
+Social security number
+Government issued identification numbers
+Driver's license number. California identification card number, tax identification number, passport number, military identification number, or other unique identification number issued on a government document commonly used for identity verification
+Financial account numbers, credit or debit card numbers, and financial account security codes, access codes, or passwords
+Personal medical information*
+Personal health insurance information*
+Biometric data used for authentication purposes, including photographs used or stored for facial recognition purposes
+A username or email address, in combination with a password or security question and answer that would permit access to an online account
+Information or data collected through the use or operation of an automated license plate recognition system
+Separate but related is personal information under the General Data Protection Regulation (GDPR)
+* California State Civil Code 1798.29 applies to personal medical information and personal health insurance information even under circumstances not covered by HIPAA. See section (h) for definitions under this law.
+Supplier
+An external, third-party entity that provides goods or services to UC. These goods and services can include consulting services, hardware, integration services, software, systems, software-as-a-service (SaaS) and other cloud services. Non-UC entities that operate IT Resources or handle Institutional Information are considered Suppliers. Also see UC BFB IS-3 Electronic Information Security, Section 15 for additional information about Supplier relationships. Synonym: Vendor
+Unit
+In the context of information security, a Unit is a Campus academic or administrative entity led by a Campus appointed Unit Head with budgetary authority and resources of a level sufficient to accept and manage the organization’s information security risk. Units are the point of accountability and responsibility for Institutional Information and IT Resources. At UC Berkeley, the organizational level of a Unit in this context is Dean, VC, or AVC. Delegation is allowed if the delegation is explicit and includes budget and resources necessary to fully accept and manage information security risk at the delegated level, including covering an adverse information security event such as a data breach or system compromise.
+Unit Head
+In the context of information security, "Unit Head" is a generic term for Dean, vice chancellor, associate vice chancellor, or other accountable executive in a senior role who has the authority to allocate budget and is responsible for Unit performance, administration, and risk acceptance. The following senior roles may also be Unit Heads if explicitly delegated by the responsible Dean, VC, or AVC: department chairs, principal investigators, directors, or senior managers.
+Unit Information Security Lead (UISL)
+See “Security Lead”
+Users
+Individuals who access and use campus Institutional Information and IT Resources.
+Vendor
+See “Supplier”
+Workforce Manager
+A person who supervises or manages other personnel or approves work or research on behalf of Campus.
+Workforce Member
+An employee, faculty, staff, volunteer, contractor, researcher, student worker, student supporting/performing research, medical center staff/personnel, clinician, student intern, student volunteer or person working for UC in any capacity or through any other augmentation to UC staffing levels.

@@ -1,0 +1,228 @@
+http://www.epic.org/privacy/councilman/
+Defend Privacy. Donate Now.
+Policy Issues
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Program
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+All Policy Issues
+Our Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+Privacy Campaigns
+Congressional Testimony
+EPIC Publications
+Spotlight on Surveillance
+Press
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+Events
+EPIC Blog
+EPIC Bookstore
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+Public Voice Fund
+Contact EPIC
+Support EPIC
+United States v. Councilman
+Top News |
+Introduction |
+Legal Background |
+Procedural History |
+Resources
+Top News
+Wiretap Case Reversed, Good News for Online Privacy. In a 5-2 decision, a federal appeals court has ruled (pdf) that the interception of e-mail in temporary storage violates the federal wiretap act. The decision reverses an earlier opinion. EPIC joined with other civil liberties groups to support the reversal (pdf). Technical experts submitted a brief (pdf) favoring an interpretation of privacy laws that will protect the confidentiality of electronic communications. See EPIC's Councilman Page. (Aug. 12, 2005)
+EPIC Joins Civil Liberties Brief in Wiretap Case. EPIC joined five civil liberties organizations to file a "friend of the court" brief (pdf) in United States v. Councilman, a federal appeals case involving whether email can be "intercepted" in violation of federal wiretap law while it is temporarily retained on an email server. Senator Patrick Leahy also filed an amicus brief (pdf) supporting electronic privacy in the case, discussing the intent of Congress when it extended legal protections to email. Five technical experts also filed a brief (pdf) in favor of Internet privacy. (Nov. 15, 2004)
+Court to Reconsider Email Interception Case. The First Circuit Court of Appeals has voted to rehear its decision in United States v. Councilman, a case involving whether email can be "intercepted" in violation of federal wiretap law while it is temporarily stored on an email server -- even if only for a fraction of a second. In 2-1 ruling in July, the court found that an online literary clearinghouse did not violate the law when it used an email service it provided to its subscribers to access their incoming email so it could view messages sent to them by a rival company. For more information see EPIC's Wiretap Page. (Oct. 4, 2004)
+Introduction
+In United States v. Councilman, a three-judge panel of the First Circuit Court of Appeals ruled that a company did not violate federal wiretap law when it used the email service it provided to its subscribers to access their email so it could review messages sent to them by a rival company. The issue in in this case is whether an "intercept" of a communication occurred within the meaning of the Wiretap Act. In a 2-1 ruling, the court held that electronic communications are not "intercepted" if the communication is accessed while it is in temporary storage. The full First Circuit has overturned the panel's ruling.
+Legal Background
+The Electronic Communications Privacy Act (ECPA) was passed in 1986 to update the law to cover electronic communications. Before the ECPA was passed, the Wiretap Act protected only wire and oral communications from interception. ECPA extended the law to protect electronic communications for interception as well. ECPA also created the Stored Communications Act, which established legal standards for access to electronic communications in the possession of a service provider.
+The changes created two distinct categories of electronic communications -- those "in transit," which enjoy relatively generous protection under the Wiretap Act, and those "in storage," which receive a lesser degree of legal protection under the Stored Communications Act. The two categories that resulted from the amendments were viewed as complimentary efforts to protect the privacy of electronic communications. The "tiering" of communications resulted more from the effort to address specific concerns -- such as extending protections to electronic communications and creating safeguards for stored communications -- than to formally categorize the privacy protection for each type of information.
+Procedural History
+This case involves Interloc, an online literary clearinghouse that sought to pair its subscribers, which were new and used book dealers, with book buyers. Bradford C. Councilman, former executive of the company, directed Interloc employees to write computer code to intercept and copy all incoming communications from Amazon.com to the subscriber book dealers, whom had been provided email service by Interloc. The Interloc systems administrator wrote a revision to the mail processing code designed to intercept, copy, and store all incoming messages from Amazon.com before they were delivered to the subscribers. Councilman was charged with using the code to intercept thousands of messages to gain a commercial advantage.
+The government sought to prosecute Councilman for intercepting the electronic communications in violation of the Wiretap Act. Councilman pleaded not guilty and moved to dismiss the charge because, as Councilman and the government agree, the communications were stored on the Interloc ISP server when they were acquired by Interloc employees. Councilman argued that the communications were therefore covered by the Stored Communications Act, not the Wiretap Act.
+The government could not charge Councilman with violating the Stored Communications Act because that law exempts ISPs from liability for accessing stored communications. This exemption provides a loophole for ISPs because they can't be prosecuted under the Wiretap Act if they access subscribers' stored email, and they can't be prosecuted under the Stored Communications Act simply because they are ISPs.
+District Court
+The District Court for the District of Massachusetts dismissed the government's charge against Councilman, narrowly reading the definition of "electronic communication" in the Wiretap Act to exclude any type of stored communication. The government appealed the decision to the Court of Appeals for the First Circuit.
+First Circuit Panel
+A three-judge panel of the First Circuit voted 2-1 to uphold (pdf) the district court's holding. The panel focused on the fact that Interloc obtained the subscriber email messages while they were in "temporary storage" in a computer system, even though such storage was only momentary as the email messages were then immediately made available to the users. The panel's opinion noted that the parties had agreed that the emails were not acquired while they were transmitted through wires or cables between computers. In light of these findings, the panel said that the emails were not "in transit,"but were instead stored communications. Because no "intercept" occurred, the panel held that the Wiretap Act could not have been violated.
+In dissent, Judge Kermit V. Lipez warned that this interpretation of the Wiretap Act "would undo decades of practice and precedent regarding the scope of the Wiretap Act and would essentially render the act irrelevant to the protection of wire and electronic privacy."
+Under the panel's ruing, the legal protection that applies to an email as it traverses the Internet would switch between the Wiretap Act and Stored Communications Act. Thus, the level of protection afforded to the email depends on whether it is in transit between intermediate servers or stopped temporarily -- often for less than a second -- on one of those servers. This outcome would create significant uncertainty in the legal protection that now applies to email, and seems directly at odds with the intent of Congress when it passed the ECPA.
+Rehearing En Banc
+The full First Circuit reheard the case and reversed (pdf) the panel decision, ruling 5-2 that the interception of e-mail temporarily stored while in transit to its destination violates federal wiretap law.
+In the majority opinion, Judge Lipez wrote that the Wiretap Act's definition of an "electronic communication" subject to interception under the law "includes transient electronic storage that is intrinsic to the communication process for such communications." However, the court stopped short of deciding whether an electronic communication can be intercepted within the meaning of the law "after a message has crossed the finish line of transmission[.]"
+Writing in dissent, Judge Juan Torruella disagreed that Interloc violated the law: "the Wiretap Act's prohibition on intercepting electronic communications does not apply when they are contained in electronic storage, whether such storage occurs pre- or post-delivery, and even if the storage lasts only a few miliseconds." He also asserted that "[i]f Interloc did intercept its customers' messages in breach of a privacy agreement, the remedy lies in contract, not in the Wiretap Act."
+Resources
+First Circuit Materials
+Councilman's Brief Before the First Circuit (pdf)
+First Circuit Panel Opinion (pdf)
+Petition of the United States for Rehearing and for Rehearing en Banc (pdf)
+Amicus Brief of the Center for Democracy and Technology, EPIC, Electronic Frontier Foundation, and American Library Association in Support of Rehearing en Banc (pdf)
+First Circuit Order Granting Rehearing en Banc (pdf)
+Supplemental Amicus Brief of of the Center for Democracy and Technology, EPIC, Electronic Frontier Foundation, American Library Association, American Civil Liberties Union, and Center for National Security Studies (pdf)
+Amicus Brief of Senator Patrick Leahy (pdf)
+Amicus Brief of Technical Experts (pdf)
+First Circuit Opinion En Banc (pdf)
+Share this page:
+Subscribe to the EPIC Alert
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+EPIC Alert archive »
+Electronic Privacy Information Center
+1519 New Hampshire Avenue NW
+Washington, DC 20036
+202.483.1140
+info[at]epic[dot]org
+© 1994 - 2020 EPIC, all rights reserved.
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+EPIC Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+Electronic Privacy Information Center1519 New Hampshire Avenue NW Washington, DC 20036More info
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+FOIA Documents
+EPIC FOIA Notes
+EPIC Former Secrets
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+EPIC Bookstore
+Support EPIC

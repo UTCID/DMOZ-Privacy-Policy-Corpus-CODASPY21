@@ -1,0 +1,31 @@
+http://konqueror.org/privacypolicy
+Konqueror
+Internet
+Install on Linux
+Konqueror is KDE's Webbrowser and swiss-army-knife for any kind of file-management and file previewing.
+Features:
+Webbrowsing using KHTML or KDEWebKit as rendering engines
+File management using most of Dolphin's features (including version-control, service menus and the basic UI)
+File management on ftp and sftp servers
+Full featured FTP-client (you can split views to display local and remote folders and previews in the same window)
+Embedded applications to preview files (e.g. Okular and Calligra for documents, Gwenview for pictures, KTextEditor
+for text-files)
+Different kinds of plugins: Service-menus, KParts (embedded applications), KIO (accessing files using special protocols
+like http or ftp) and KPart-plugins (like AdBlocker...)
+Linux
+Install on Linux
+This button only works with Discover and other
+AppStream application stores. You can also use your distribution's package manager.
+Details for Konqueror
+Project website
+Get Help
+Konqueror Handbook
+KDE Community Forum
+Contact the authors
+Report a bug
+IRC:
+#kde
+in Freenode
+Mailing List:
+kde@kde.org
+Browse Konqueror source code online

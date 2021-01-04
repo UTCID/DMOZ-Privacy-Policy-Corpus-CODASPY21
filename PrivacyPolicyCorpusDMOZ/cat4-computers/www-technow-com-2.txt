@@ -1,0 +1,10 @@
+https://www.technow.com/corporate-info/privacy-policy/
+800-324-2294
+TechNow values you and respects your privacy. Your information will not be sold or rented to others. The information you provide will be used exclusively for respondents to the information requested.  It will not be used for automated e-mail based advertising or marketing of any type.
+Array
+(
+[type] => 2048
+[message] => Only variables should be assigned by reference
+[file] => /var/www/html/wp-content/themes/prostyler-theme/comments.php
+[line] => 133
+)

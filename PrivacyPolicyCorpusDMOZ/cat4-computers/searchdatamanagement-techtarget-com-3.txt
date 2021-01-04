@@ -1,0 +1,289 @@
+https://searchdatamanagement.techtarget.com/definition/consumer-privacy
+What is Consumer Privacy and Which Laws Protect It?
+SearchDataManagement
+Search the TechTarget Network
+Sign-up now. Start my free, unlimited access.
+Login
+Register
+Techtarget Network
+News
+Features
+Tips
+More Content
+Answers
+Buyer's Guides
+Definitions
+Essential Guides
+Opinions
+Photo Stories
+Podcasts
+Quizzes
+Tutorials
+Sponsored Communities
+Multimedia
+SearchDataManagement
+Topic
+BI
+Integration
+Resources
+Quality / governance
+DBMS
+ECM
+Data warehouse
+MDM
+Verticals
+All Topics
+SubTopic
+Financial reporting and compliance
+Advanced analytics
+Big data analytics
+BAM
+BI best practices
+BI case studies
+Dashboards / scorecards
+BI search
+BI software
+Compliance reporting software
+Performance management
+Data mining
+Analytics
+Financial reporting and compliance
+Text analytics / text mining
+All Subtopics
+Follow:
+Home
+Financial reporting and compliance
+Compliance, risk and governance
+consumer privacy (customer privacy)
+Definition
+consumer privacy (customer privacy)
+Posted by: Margaret Rouse
+WhatIs.com
+Contributor(s): Ben Lutkevich
+Share this item with your network:
+Consumer privacy, also known as customer privacy, involves the handling and protection of the sensitive personal information provided by customers in the course of everyday transactions. The internet has evolved into a medium of commerce, making consumer data privacy a growing concern.
+Consumer privacy issues
+Personal information, when misused or inadequately protected, can result in identity theft, financial fraud and other problems that collectively cost people, businesses and governments millions of dollars per year.
+Content Continues Below
+Download this free guide
+Databases vs. Data Warehouses vs. Data Lakes vs. Data Marts
+This cheat sheet will help you better understand how each repository differs based on the type, purpose and quality of data. Plus, you’ll get an introduction to the features of data catalog software, a user-friendly metadata management system.
+Start Download
+Corporate E-mail Address:
+You forgot to provide an Email Address.
+This email address doesn’t appear to be valid.
+This email address is already registered. Please login.
+You have exceeded the maximum character limit.
+Please provide a Corporate E-mail Address.
+I agree to TechTarget’s Terms of Use, Privacy Policy, and the transfer of my information to the United States for processing to provide me with relevant information as described in our Privacy Policy.
+Please check the box if you want to proceed.
+I agree to my information being processed by TechTarget and its Partners to contact me via phone, email, or other means regarding information relevant to my professional interests. I may unsubscribe at any time.
+Please check the box if you want to proceed.
+By submitting my Email address I confirm that I have read and accepted the Terms of Use and Declaration of Consent.
+Common consumer privacy features offered by corporations and government agencies include:
+"do not call" lists;
+verification of transactions by email or telephone;
+nonrepudiation technologies for email;
+passwords and other authorization measures;
+encryptionand decryption of electronically transmitted data;
+opt-out provisions in user agreements for bank accounts, utilities, credit cards and similar services;
+digital signatures; and
+biometric identification technology.
+The emergence of internet commerce and big data in the early 2000s cast consumer data privacy issues in a new light. While the World Wide Web Consortium's (W3C's) Platform for Privacy Preferences Project (P3P) arose to provide an automated method for internet users to divulge personal information to websites, widespread gathering of web activity data was largely unregulated.
+The ways in which data is used and collected now are more expansive than ever before. Data has taken on a new value for corporations and, as a result, almost any interaction with a large corporation, no matter how passive, results in the collection of consumer data. This is partially because more data leads to improved online tracking, behavioral profiling and data-driven targeted marketing.
+The surplus of valuable data, combined with minimal regulation, increases the chance that sensitive information will be misused or mishandled.
+Laws that protect consumer privacy
+Consumer privacy is derived from the idea of personal privacy, which, although not explicitly outlined in the U.S. Constitution, has been put forward as an essential right in a number of legal decisions. The Ninth Amendment is often used to justify a broad reading of the Bill of Rights to protect personal privacy in ways that aren't specifically outlined, but implied.
+Despite this, there is currently no comprehensive legal standard for data privacy at the federal level in the United States. There have been attempts at creating one, but none have been successful.
+For example, in 2017 the U.S. federal government reversed a federal effort to broaden data privacy protection by requiring internet service providers (ISPs) to obtain their customers' consent prior to using their personal data for advertising and marketing. Another comprehensive federal consumer privacy bill was proposed in late 2019 called the Consumer Online Privacy Rights Act (COPRA), but it has yet to pass and many speculate that its approval will be a struggle.
+Currently, the U.S. relies on a combination of state and federal laws enforced by various independent government agencies such as the Federal Trade Commission (FTC). These can sometimes lead to incongruities and loopholes in U.S. privacy law since there is no central authority enforcing them.
+By contrast, legislation has enforced high standards of data privacy protection in Europe. For example, the European Union passed the General Data Protection Regulation (GDPR) in 2018, which unified data privacy laws across the EU, and updated existing laws to better encompass modern data collection and exchange practices.
+The law also had a significant effect on nations outside of Europe -- including the U.S. -- because multinational corporations that serve EU citizens were forced to rewrite their privacy policies to remain in compliance with the new regulation. Companies who didn't comply could incur huge financial penalties. The most notable example is Google, which was fined $57 million under the GDPR in 2019 for failing to adhere to transparency and consent rules in the set-up process for Android phones.
+GDPR is touted by many as the first legislation of its kind and has influenced other nations -- and states within the U.S. -- to adopt similar regulations. The reason the GDPR is possible for the EU is largely because many European nations have central data privacy authorities to enforce it.
+While the U.S. doesn't have a unified data privacy framework, it does have a collection of laws that address data security and consumer privacy in various sectors of industry. Some federal laws that are relevant to consumer privacy regulations and data privacy in the U.S. include:
+The Privacy Act of 1974 - which governed collection and use of information about individuals in federal agencies' systems. The Privacy Act prohibits the disclosure of an individual's records without their written consent, unless the information is shared under one of 12 statutory exceptions.
+The Health Insurance Portability and Accountability Act of 1996 (HIPAA) - which outlines how Protected Health Information (PHI) used in the healthcare industry should be protected.
+The Fair Credit Reporting Act (FCRA) of 1970 - which protects consumer information as it pertains to their credit report, which provides insight into an individual's financial status.
+The Children's Online Privacy Protection Act (COPPA) of 1998 - which ensures that children under the age of 13 do not share personal information online without the consent of their parents.
+The Financial Modernization Act of 1999 - which governs how companies that provide financial products and services collect and distribute client information, as well as prevents companies from accessing sensitive information under false pretenses. When defining client confidentiality, this act makes distinctions between a customer and a consumer. A customer must always be notified of privacy practices, whereas a consumer must only be notified under certain conditions.
+Family Educational Rights and Privacy Act (FERPA) of 1974 - which protects the privacy of student education records and applies to all schools that receive funding from the U.S. Department of Education.
+Many of these federal laws, while providing reasonable privacy protections, are considered by many to be lacking in scope and out-of-date. However, at the state level, several important data privacy laws have recently been passed, with more pending approval in 2020. Because these laws were passed recently, they more adequately protect consumers in a way that applies to current data exchange practices.
+The most notable of these state laws is the California Consumer Privacy Act (CCPA), which was signed in 2018 and took effect on January 1st, 2020. The law introduces a set of rights that previously had not been outlined in any U.S. law. Under the CCPA, consumers have several privileges, which a business is obliged to honor upon verifiable consumer requests. The law entitles consumers to:
+Know what personal data about them is being collected.
+Know if their personal data is being sold and to whom.
+Say no to the sale of personal information.
+Access their collected personal data.
+Delete data being kept about them.
+Not be penalized or charged for exercising their rights under the CCPA.
+Children require parental consent for data collection, and consumers 13-16 years old are required to provide affirmative consent -- opt-in -- to collection of their personal data.
+The law applies to corporations that either make $25 million per year or collect data on more than 50,000 people. Companies that do not comply face sizeable penalties and fines.
+The law also only applies to residents of California currently. However, it is expected to set the precedent for other states to take similar action. Several companies have also promised to honor the rights granted under the CCPA for consumers in all 50 states, so as not to have an entirely different privacy policy for Californians. Participating businesses include:
+Starbucks
+Netflix
+UPS
+Microsoft
+Some other states enacting or currently practicing similar laws are:
+Vermont - In 2018, the state approved a law that requires data brokers to disclose consumer data collected, and grants consumers the right to opt-out.
+Nevada - In 2019, the state enacted a law allowing consumers to say no to the sale of their data.
+Maine - The state has enacted legislation set to take effect in 2020 that would prohibit broadband internet service providers from using, disclosing, selling or allowing access to customer data without explicit consent.
+New York - As of 2020, the state is in the process of constructing a privacy bill known as the New York Privacy Act (NYPA), which is modeled after -- and aims to surpass -- the CCPA.
+Critics of these laws worry that they may still fall short and create loopholes that could be exploited by data brokers. Also, increased compliance regulations force corporations to adapt in order to abide, which creates more work, potential bottlenecks and may even hinder the development of valuable technology and services. A multitude of unique state laws may also create conflicting compliance requirements and end up creating new problems for consumers and corporations alike. However, privacy advocates view this somewhat concurrent state-level effort as a step toward comprehensive federal legislation in the future.
+Agencies that regulate data privacy
+Some of the agencies that regulate data privacy in the U.S. are:
+The Federal Trade Commission (FTC), which requires companies to disclose their corporate privacy policies to customers. The FTC can take legal action against companies that violate customer privacy policies or companies that compromise their customers' sensitive personal information. It also provides resources for those who want to learn more about privacy policies and best practices, as well as information for victims of privacy-related crimes, such as identity theft. The FTC is currently the most involved agency in regulating and defending data privacy in the U.S.
+The Consumer Financial Protection Bureau (CFPB), which protects consumers in the financial sector. It has outlined principles that protect consumers when authorizing a third party to access their financial data and regulates the provision of financial services and products using these principles.
+The U.S. Department of Education, which administers FERPA, and aids schools and school districts using best practices for the handling of student information. Students, especially those paying for secondary education, are consumers of an educational service.
+The Securities and Exchange Commission (SEC), which enforces rules surrounding the disclosure of data breaches and general data protection.
+Why consumer privacy protection is necessary
+A series of high-profile data breaches in which corporations failed to protect consumer data from internet hacking have drawn attention to shortcomings in personal data protection. Several such events were followed by government fines and forced resignations of corporate officers.  In 2017, the litany of customer data breaches included Uber, Yahoo and Equifax, each providing unauthorized access to hundreds of thousands, if not millions, of customer records.
+High-profile data breaches have drawn attention to shortcomings in data protection.
+Consumer privacy issues have arisen as prominent web companies like Google and Facebook moved to the top of business ranks using web browser data to gain revenue. Other companies, including data brokers, cable providers and cell phone manufacturers, have also sought to profit from related data products.
+The privacy measures offered to users by these companies are also insufficient. A research study published in 2019 showed that there is a limit to how much protection a social media user can get by self-regulating their content using an app's privacy settings. Even when Twitter users set their account to protected mode -- the most prominent privacy setting -- researchers found that the supposedly protected information was still being disclosed continuously.
+Concern for corporate use of consumer data led to the creation of the GDPR to curb data misuse. The regulation requires organizations doing business in the EU to appropriately secure personal data and allow individuals to access, correct and even erase their personal data. Such compliance requirements have led to renewed emphasis on data governance, as well as data protection techniques such as anonymization and masking.
+Future of consumer privacy
+The recent enactment of sweeping data privacy laws indicates a heightened concern for consumer privacy among various institutions. As technology advances, and as internet-connected devices are increasingly utilized in everyday tasks and transactions, data becomes more detailed, and therefore more valuable to those that can profit off it.
+For example, artificial intelligence (AI) and machine learning algorithms often require massive amounts of data to pre-train them, establish patterns and model intelligence. The global AI software market is also expected to grow dramatically according to research from Tractica published in 2019, increasing from an estimated $9.5 billion in 2018 to a prediction of around $118.6 billion by 2025.
+The rapidly growing investment in these data-hungry technologies indicates that there will likely be a sustained interest in data collection for the foreseeable future, and consequently an increased need for consumer privacy policies and frameworks that address new trends in data collection.
+One recent case that exemplifies the way these emerging technologies may continue to stir up privacy concerns in the future is Project Nightingale. Project Nightingale is the name of the partnership between Google and Ascension Health -- the second largest health system in the U.S. -- that was revealed in late 2019. Google gained access to over 50 million patient health records through the partnership, with the aim of using the data to create tools that enhance patient care. Google also expressed plans to use emergent medical data (EMD) in this process, which is nonmedical data that can be turned into sensitive health information using AI.
+Although the project aims to help millions and could potentially change the healthcare landscape for the better, there are notable privacy concerns, as Ascension health care providers and their patients were unaware that their medical records were being distributed. Some speculate that HIPAA's rules surrounding third party use of data are out of date, allowing for a concerning lack of transparency in the partnership. Others believe most of the concern surrounding the partnership is misplaced.
+Overall, the competing trends of increasingly advanced data collection technology and improved consumer privacy measures and policies are likely to define the future of consumer privacy. Corporations will likely find new data collection methods, and consumers will likely react with an increased expectation of transparency.
+This was last updated in February 2020
+Continue Reading About consumer privacy (customer privacy)
+How the future of data privacy regulation is spurring change
+In comparing GDPR and CCPA, lessons in compliance emerge
+Customer experience world catches up on CCPA regulations
+How to implement a holistic approach to user data privacy
+Clashes between AI and data privacy affect model training
+Related Terms
+compliance
+Compliance is the act of being in alignment with guidelines, regulations and/or legislation. Organizations must ensure that they ...
+See complete definition
+HIPAA (Health Insurance Portability and Accountability Act)
+HIPAA (Health Insurance Portability and Accountability Act) is United States legislation that provides data privacy and security ...
+See complete definition
+USA Patriot Act
+The USA Patriot Act is a law enacted in 2001, granting new and extended data-collection abilities to federal agencies in an ...
+See complete definition
+Dig Deeper on Financial reporting and compliance data management
+employee privacy policy
+By: Margaret Rouse
+Privacy controls to meet CCPA compliance requirements
+Microsoft to apply CCPA protections to all US customers
+By: Alexander Culafi
+State data privacy laws, regulations changing CISO priorities
+By: Mary Pratt
+Margaret Rouse asks:
+How are you balancing commercial requirements with privacy principles in your organization?
+Join the Discussion
+Sponsored News
+How Education and Public Sector Organizations Can
+Capitalize on Data to ...
+–Dell Technologies
+Thin Clients in the Cloud: 3 Key Use Cases
+–HPI
+See More
+Vendor Resources
+Earning consumer trust in big data: a European perspective
+–ComputerWeekly.com
+Data protection, a live issue that affects us all
+–ComputerWeekly.com
+Join the conversation
+1 comment
+Send me notifications when other members comment.
+Add My Comment
+Register
+I agree to TechTarget’s Terms of Use, Privacy Policy, and the transfer of my information to the United States for processing to provide me with relevant information as described in our Privacy Policy.
+Please check the box if you want to proceed.
+I agree to my information being processed by TechTarget and its Partners to contact me via phone, email, or other means regarding information relevant to my professional interests. I may unsubscribe at any time.
+Please check the box if you want to proceed.
+Login
+Forgot your password?
+Forgot your password?
+No problem! Submit your e-mail address below. We'll send you an email containing your password.
+Submit
+Your password has been sent to:
+Please create a username to comment.
+Oldest
+Newest
+[-]
+Margaret Rouse
+- 24 Jan 2006 4:01 AM
+How are you balancing commercial requirements with privacy principles in your organization?
+Add My Comment
+Cancel
+Latest TechTarget resources
+Business Analytics
+AWS
+Content Management
+Oracle
+SAP
+SQL Server
+SearchBusinessAnalytics
+Tableau, Salesforce integration now in full swing
+Tableau and its new owner unveiled their first collaboration during Tableau's user conference, but due to COVID-19 the vendors ...
+Tableau roadmap features improved browser capabilities
+Tableau's plans for 2021 include providing an end-to-end analytics experience on the web that mimics what users are able to do ...
+Tableau unveils first integration with Einstein Analytics
+Tableau adds AI power via an integration with Salesforce's predictive BI tool, the first collaboration between Salesforce and ...
+SearchAWS
+New Amazon grocery stores run on computer vision, apps
+Amazon dives deeper into the grocery business with its first 'new concept' grocery store, driven by automation, computer vision ...
+Amazon's sustainability initiatives: Half empty or half full?
+Amazon's public perception and investment profile are at stake as altruism and self-interest mix in its efforts to become a more ...
+How Amazon launched the warehouse robotics industry
+In 2012, the warehouse robotics industry consisted of Kiva Systems, the sole supplier to serve all e-commerce companies. When ...
+SearchContentManagement
+Hyland Software CEO discusses acquisitions, RPA, blockchain credentials
+Hyland moves on incorporating Another Monday RPA, Learning Machine blockchain credentials into its platform. Alfresco integration...
+How businesses can best build a WordPress knowledge base
+A WordPress knowledge base can be useful for companies that want an easy-to-use and customizable product with many plugins that ...
+Knowledge bases benefit customer service, call center training
+Knowledge bases provide call center agents with training documents and answers to frequently asked questions as they continue to ...
+SearchOracle
+Oracle Autonomous Database shifts IT focus to strategic planning
+This handbook looks at what Oracle Autonomous Database offers to Oracle users and issues that organizations should consider ...
+Oracle Autonomous Database features free DBAs from routine tasks
+Oracle Autonomous Database can automate routine administrative and operational tasks for DBAs and improve productivity, but ...
+Oracle co-CEO Mark Hurd dead at 62, succession plan looms
+Oracle co-CEO Mark Hurd's abrupt death at 62 has put the software giant in the position of naming his replacement, and the ...
+SearchSAP
+Wookey returns to SAP to head Intelligent Spend unit
+Industry veteran John Wookey is back at SAP to run the newly formed SAP Intelligent Spend and Business Network as SAP Ariba ...
+In a time of crisis, S/4HANA implementation strategies shift
+During a pandemic, organizations may consider pausing a major project like an S/4HANA migration, but experts believe they can use...
+SAP Digital Boardroom helps Parkland Health manage pandemic
+Parkland Health managed a surge of cases caused by the COVID-19 pandemic by using data analytics based on SAP Analytics Cloud and...
+SearchSQLServer
+SQL Server database design best practices and tips for DBAs
+Good database design is a must to meet processing needs in SQL Server systems. In a webinar, consultant Koen Verbeeck offered ...
+SQL Server in Azure database choices and what they offer users
+SQL Server databases can be moved to the Azure cloud in several different ways. Here's what you'll get from each of the options ...
+Using a LEFT OUTER JOIN vs. RIGHT OUTER JOIN in SQL
+In this book excerpt, you'll learn LEFT OUTER JOIN vs. RIGHT OUTER JOIN techniques and find various examples for creating SQL ...
+About Us
+Meet The Editors
+Contact Us
+Advertisers
+Business Partners
+Media Kit
+Corporate Site
+Contributors
+Reprints
+Answers
+Definitions
+E-Products
+Events
+Features
+Guides
+Opinions
+Photo Stories
+Quizzes
+Tips
+Tutorials
+Videos
+All Rights Reserved,
+Copyright 2005 - 2020, TechTarget
+Privacy Policy
+Cookie Preferences
+Do Not Sell My Personal Info
+Close

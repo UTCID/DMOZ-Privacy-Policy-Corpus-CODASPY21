@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch11.html#websec2-CHP-11-SECT-1.6
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 11. Backups and AntitheftIn the last two chapters, we explored ways that your personal
+information could be threatened, and examined techniques for protecting
+your privacy on the Web. In this chapter, we’ll consider additional
+threats to your computer that do not directly involve privacy, but
+nevertheless can be very damaging—lost, corrupted, or stolen
+data.Using Backups to Protect Your DataBackups
+are copies that you make of information that you hope
+you will never need. A backup can be a simple copy of a file that you
+put on a Zip disk and put away in the top drawer of your desk for
+safekeeping. If the original file is inadvertently deleted or
+corrupted, the backup can be retrieved after the damage is
+noticed.Backups can be very simple, like the Zip disk in your desk
+drawer, or they can be exceedingly complex. For example, many backup
+systems will let you copy every file on your computer onto a
+30-gigabyte magnetic tape and create a special “restore floppy.” In
+the event that your computer is lost or stolen, you can buy a new
+computer and a tape drive, put the tape into the tape drive, and boot
+the computer from the floppy disk; the backup system will
+automatically restore all of your files and applications to the
+newly-purchased computer.Make Backups!Bugs, accidents, natural disasters, and attacks on your system cannot be predicted. Often, despite your best efforts, they can’t be prevented. But if you have good backups, you at least won’t lose your data—and in many ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

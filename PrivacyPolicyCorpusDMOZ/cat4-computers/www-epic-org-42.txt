@@ -1,0 +1,416 @@
+http://www.epic.org/privacy/us-visit
+Defend Privacy. Donate Now.
+Policy Issues
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Program
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+All Policy Issues
+Our Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+Privacy Campaigns
+Congressional Testimony
+EPIC Publications
+Spotlight on Surveillance
+Press
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+Events
+EPIC Blog
+EPIC Bookstore
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+Public Voice Fund
+Contact EPIC
+Support EPIC
+United States Visitor and Immigrant Status Indicator Technology (US-VISIT)
+News |
+Introduction |
+History |
+Overview |
+Resources |
+Previous News
+News
+EPIC Opposes DHS Biometric Collection: EPIC has submitted comments to the Department of Homeland Security, staunchly opposing the agency's border biometric collection, facilitated through the Office of Biometric Identity Management program. Since at least 2004, DHS has collected fingerprint and facial photos from individuals entering the United States. DHS then disseminates this information to DHS agency components, other federal agencies, and "federal, state, and local law enforcement agencies," and the "federal intelligence community." Currently, at least 30,000 individuals from federal, state, and local governments access the data contained obtained by DHS's biometric collection program. DHS shares this biometric data with foreign governments, including Canada, Australia, and the United Kingdom. In its comments, EPIC urged the agency to cease collecting biometric information without proper privacy safeguards in place. Should the agency continue to collect this sensitive information, EPIC recommends that DHS: (1) impose strict information security safeguards on its biometric information collection and limit its dissemination of biometric information; (2) conduct a comprehensive privacy impact assessment on the biometric collection program; (3) grant individuals Privacy Act rights before collecting additional biometric information; and (4) adhere to international privacy standards. For more information, see EPIC: US-VISIT and EPIC: Biometric Identifiers. (Jun. 21, 2013)
+Homeland Security to Require 10 Fingerprints from US Visitors. Under border control system US-VISIT, the Department of Homeland Security will begin collecting a full set of fingerprints from foreign visitors to the U.S. Since 2004, US-VISIT has only required two-print collection. The database now includes 90 million sets of prints. EPIC has said that the system lacks adequate privacy and security safeguards. For more information, see EPIC's pages on US-VISIT and Biometrics. (Dec. 3, 2007)
+Border Security Computer System Plagued With Problems. The border control system US-VISIT is riddled with security vulnerabilities, according to a report (pdf) from the Government Accountability Office. "Weaknesses existed in all control areas and computing device types reviewed," the GAO said this week. Security flaws in the network used at 400 entry points nationwide increase the risk of theft or manipulation of tens of millions of identity records, which include passport, visa, Social Security and biometric data. EPIC has repeatedly criticized (pdf) many security and privacy flaws in the US-VISIT system. (Aug. 4, 2007)
+Homeland Security Drops RFID from US-VISIT Documents. The Department of Homeland Security announced (pdf) it has abandoned plans to use radio frequency identification (RFID) technology in the US-VISIT border security system after pilot testing failed. Last month, a government report (pdf) identified numerous performance and reliability programs in the 15-month test. The report said that RFID failed to "meet a key goal of US-VISIT -- ensuring that visitors who enter the country are the same ones who leave." EPIC repeatedly criticized (pdf) the flawed proposal to embed RFID tags in travel documents, citing the plan's lack of basic privacy and security safeguards. (Feb. 26, 2007)
+Government Agency: US-VISIT RFID Tests Failed. At a hearing of the Homeland Security Subcommittee of the Senate Judiciary Committee, an official from the Government Accountability Office explained (pdf) that the pilot tests using RFID technology in US-VISIT's I-94 entry and exit forms have failed. The GAO found reliability and performance issues. Significantly, the tests "cannot meet a key goal of US-VISIT -- ensuring that visitors who enter the country are the same ones who leave," the GAO said. EPIC has criticized (pdf) the program, explaining it is filled with privacy and security flaws. (Jan. 31, 2007)
+Introduction
+The most elaborate system of identification in the United States is currently being developed and deployed by the Department of Homeland Security (DHS). The United States Visitor and Immigrant Status Indicator Technology (US-VISIT) is an integrated government-wide program intended to improve the nation's capability to collect information about foreign nationals who travel to the United States, as well as control the pre-entry, entry, status, and exit of these travelers.
+DHS deployed US-VISIT at 115 airports and 15 major seaports on January 5, 2004, and the fifty highest volume land ports of entry were phased into US-VISIT on December 29, 2004. All remaining ports of entry will be integrated into the system by December 31, 2005. Exit pilot programs are currently in effect at Baltimore Washington International Airport, Miami Seaport, and 13 other ports of departure. As of January 3, 2005, more than 16.9 million visitors to the United States had been "processed" by US-VISIT. DHS says that US-VISIT has caught 372 individuals wanted for crimes or immigration violations. However, there is no evidence that US-VISIT has ever caught a wanted terrorist.
+History
+Congress initially directed the Attorney General to develop an automated entry and exit control system to collect records of arrival and departure from every foreign visitor entering and leaving the United States in Section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (IIRIRA). Congress later amended and replaced Section 110 of IIRIRA with the Immigration and Naturalization Service Data Management Improvement Act (DMIA) of 2000. The DMIA directed the integration of existing Department of Justice and Department of State electronic foreign visitor arrival and departure databases, including those created at ports of entry and at consular offices. US-VISIT's development began in response to these mandates from Congress.
+The Uniting and Strengthening America by Providing Appropriate Tools to Intercept and Obstruct Terrorism Act of 2001 (USA PATRIOT Act) and the Enhanced Border Security and Visa Entry Reform Act have significantly expanded the US-VISIT system. In the USA PATRIOT Act, Congress imposed a requirement for speed in the program's implementation and mandated that DHS be consulted with respect to the establishment of the integrated entry and exit program. The USA PATRIOT Act also introduced the concept of biometrics to establish a technology standard that would be used in the development of the US-VISIT the System.
+The Enhanced Border Security Act (EBSA) (pdf) seeks to fully integrate all databases and data systems maintained by the Immigration and Naturalization Service that process or contain information on aliens. The EBSA expanded on the USA PATRIOT Act and the DMIA by increasing requirements for US-VISIT's integration, interoperability with other law enforcement and intelligence systems, biometrics, and accessibility. Here Congress specifically mandated the establishment of a database containing the arrival and departure data from machine-readable visas, passports, and other travel and entry documents possessed by aliens. By October 26, 2004, these travel and entry documents will also include the use of biometric identifiers in accordance with standards issued by domestic and international organizations. The EBSA further required all carriers to transmit electronically the information of all visitors and crew members arriving and departing the United States by January 1, 2003. Furthermore, the information from the data systems the EBSA describes is to be readily available and easily accessible to any federal law enforcement or intelligence officer responsible for "the investigation or identification of aliens."
+Overview
+Along with integrating various databases containing visitor information, US-VISIT also scans, collects and uses biometric identifiers of visitors to the United States. An inkless fingerprinting system captures both of a visitor's index fingerprints and a digital photograph is taken. U.S. Customs and Border Protection officers compare the biometric information to travel documents and other information in US-VISIT databases. If a visitor refuses to provide fingerprints or be photographed, he generally is not permitted to enter the country.
+US-VISIT includes the interfacing and integration of over twenty existing systems. Among the systems used by US-VISIT are:
+Arrival Departure Information System (ADIS), which stores traveler arrival and departure information.
+Advance Passenger Information System (APIS), which contains arrival and departure manifest information.
+Computer Linked Application Information Management System 3 (CLAIMS 3), which holds information on foreign nationals who request benefits.
+Interagency Border Inspection System (IBIS), which maintains "lookout" data. IBIS in turn interfaces with the Interpol and National Crime Information Center (NCIC) databases.
+Automated Biometric Identification System (IDENT), which stores biometric data of foreign visitors.
+Student Exchange Visitor Information System (SEVIS), a system containing information on foreign students in the United States.
+Consular Consolidated Database (CCD), which includes information about whether an individual holds a valid visa or has previously applied for a visa.
+Some of these data systems contain more personal information than US-VISIT needs to operate. Some of them also contain information about United States citizens and lawful permanent residents, not just foreign nationals subject to the US-VISIT program.
+Data elements used by US-VISIT include the information made available through arrival and departure manifests. This information includes complete name, date of birth, citizenship, sex, passport number and country of issuance, country of residence, United States visa number, date, place of issuance (where applicable), alien registration number (where applicable), address while in the United States, and such other information that the Attorney General, in consultation with the Secretaries of State and Treasury, deems necessary for the enforcement of the immigration laws and to protect safety and national security.
+The US-VISIT program initially applied only to visitors traveling to the United States on visas. However, on September 30, 2004, US-VISIT was expanded to collect biometrics from travelers visiting the United States for ninety days or less through the Visa Waiver Program, which includes visitors from Andorra, Australia, Austria, Belgium, Brunei, Denmark, Finland, France, Germany, Iceland, Ireland, Italy, Japan, Liechtenstein, Luxembourg, Monaco, Netherlands, New Zealand, Norway, San Marino, Slovenia, Spain, Sweden, Switzerland, the United Kingdom, Portugal, and Singapore. Furthermore, countries in the Visa Waiver Program were required by the USA PATRIOT Act to certify that they will issue national machine-readable passports that incorporate biometric identifiers complying with the standards established by the International Civil Aviation Organization.
+On December 29, 2004, the 50 busiest land border points of entry were integrated into US-VISIT in Arizona, California, Maine, Michigan, Minnesota, New Mexico, New York, Texas, Vermont, and Washington. Currently, visitors from Canada and Mexico are subject to US-VISIT if they enter the United States through air or sea ports. Biometric identifiers are not collected from Canadians who are only briefly visit the United States and who do not enter the country pursuant to a nonimmigrant visa. Mexican citizens are subject to US-VISIT processing if they enter the country using a Border Crossing Card and travel more than 25 miles from the border in Texas, California and New Mexico; 75 miles from the border in Arizona; and/or stay more than 72 hours in the United States.
+Privacy Impact Assessments
+The E-Government Act of 2002 requires federal agencies to conduct privacy impact assessments before developing and purchasing new technologies that will collect personal information electronically. An agency is to complete the privacy impact assessment before acquiring or developing the technology so that privacy considerations are built into the technology in the planning stages. In December 2003, Senator Joseph Lieberman, an architect of the E-Government Act, criticized DHS for failing to complete a privacy impact assessment for US-VISIT's biometric technology. DHS finally released the privacy impact assessment (pdf) for US-VISIT just days before it began using the technology in air and sea ports.
+US-VISIT's Increment 1 Privacy Impact Assessment (pdf), released in December 2003, stated that the program has a Privacy Officer whose duty it is "to ensure that the privacy of all visitors is respected and to respond to individual concerns which may be raised about the collection of the requested information." However, the Privacy Officer has great discretion to respond to complaints. The assessment failed to provide specific, enforceable procedures for redress if a visitor is denied entry to the United States as a result of US-VISIT, wants to review the information US-VISIT contains about him, or wants to correct inaccurate, irrelevant, outdated, or incomplete information in the system. A subsequently released redress policy did little to secure these rights. Furthermore, DHS appears to have no obligation to keep the vast amount of information in US-VISIT accurate and timely, which could keep innocent visitors from entering the United States and reduce the system's ability to identify legitimate threats to national security or be an effective law enforcement and immigration tool.
+The Increment 2 Privacy Impact Assessment (pdf), released in September 2004, is substantially longer and more fully explains the program. US-VISIT's redress process remains highly discretionary and subject to DHS's whim, giving individuals affected by US-VISIT no judicially enforceable right to access or correction of personal information.
+US-VISIT Uses
+DHS has stated that US-VISIT information is to be made available "only to authorized officials and selected law enforcement agencies responsible for ensuring the safety and security of U.S. citizens and foreign visitors." According to DHS, US-VISIT is available to U.S. Customs and Border Protection officers at ports of entry, special agents in the United States Immigration and Customs Enforcement, adjudications staff at U.S. Citizens Immigration Services offices, United States consular offices, and "appropriate federal, state, and local law enforcement personnel."
+However, the USA PATRIOT Act requires that US-VISIT be able to interface with law enforcement databases to be used by federal law enforcement to identify and detain individuals who pose a threat to national security. The USA PATRIOT Act also requires that US-VISIT be accessible to all law enforcement and intelligence officers responsible for investigation and identification of aliens. Under the Aviation and Transportation Security Act, the transmission of manifest information may be shared with other federal agencies, upon request, for the purposes of protecting national security. Moreover, the Data Management Improvement Act of 2000 grants the Attorney General discretion to permit other federal, state, and local law enforcement officials to have access to the data contained in the integrated entry and exit data system for law enforcement purposes.
+Coordinated efforts, embodied in several pieces of legislation, to enhance immigration procedures and to develop and implement an integrated entry and exit program at all points of entry in the United States has become a reality. US-VISIT integrates data from a variety of data systems and adds biometric identifiers of all visitors to the system, but the scope of use of the information within this collective system is still not clear. The Attorney General possesses broad discretionary powers to allow law enforcement access to this record system.The expansive purpose of "investigative and identification" leaves open serious questions as to whether US-VISIT, a border control system, will be used routinely on the streets of the America.
+Resources
+News Articles
+DHS to begin full fingerprint scans for visitors. Washington Technology (Nov. 21, 2007)
+Border leaders push for open trade, fair treatment. Dallas Morning News (Feb. 22, 2007)
+Congress turns sharp eye on border program. Hearst Newspapers (Feb. 17, 2007)
+GAO: DHS fails to deliver plan for Congress' oversight of US-VISIT. FCW.com (Feb. 16, 2007)
+DHS Nixes Use Of RFID In Border Security Program. Computerworld (Feb. 15, 2007)
+Bush proposes $2.9 trillion budget for 2008. San Antonio News-Express (Feb., 5, 2007)
+Should U.S. Track Each Foreigner's Exit? Christian Science Monitor (Jan. 22, 2007)
+U.S. Preparing to Drop Tracking of Foreigners' Departures by Land. Washington Post (Dec. 15, 2006)
+U.S. Is Dropping Effort to Track if Visitors Leave. New York Times (Dec. 15, 2006)
+GAO Finds Homeland Security Tech Issues. Houston Chronicle (Dec. 14, 2006)
+Border security system posts just 1 terror case. Reuters (Nov. 29, 2006)
+DHS official urges caution on sharing of biometric info. GovExec.com (Nov. 28, 2006)
+Feds reach for better readers. GCN.com (Nov. 20, 2006)
+Analysis: Chertoff's 10-print border plan. United Press International (Nov. 15, 2006)
+The Virus That Ate DHS. Wired News (Nov. 15, 2006)
+DHS officials to submit plan soon for visitor tracking system. GovExec.com (Oct. 24, 2006)
+EZPass for the Border. Time (Oct. 17, 2006).
+System blind to overstayed visas. McClatchy Newspapers (Sept. 16, 2006)
+New database merges FBI, Homeland Security fingerprint systems. McClatchy Newspapers (Sept. 5, 2006)
+US-VISIT CIO resigns. FCW.com (Sept. 5, 2006)
+PASS card debate enters next round. GCN.com (July 31, 2006)
+Legal Residents Face Fingerprinting at Ports. Washington Post (July 28, 2006)
+U.S. Visit to expand border screening. GCN.com (July 27, 2006)
+Reports Slam DHS on Data Security, Contract Oversight. Computerworld (July 17, 2006)
+U.S. Visit contract oversight is lax: GAO. GCN.com (July 11, 2006)
+Mocny named acting chief of US-VISIT program. FCW.com (June 27, 2006)
+Chertoff Q&A: 'Sealing the border is a tall order.' USA Today (May 23, 2006).
+Border initiatives miss huge group. Boston Globe (May 20, 2006).
+Defense Firms Prepare to Compete For Border-Surveillance System. Wall Street Journal (May 18, 2006).
+Border Security System Left Open. Wired News (April 12, 2006)
+Feds extend RFID tests in travel documents. Washington Technology (March 8, 2006)
+GAO report slams DHS on reforms. United Press International (Feb. 23, 2006)
+DHS slow to test U.S. Visit security, privacy controls: GAO. Washington Technology (Feb. 15, 2006)
+US-VISIT under the microscope. Federal Computer Week (Feb. 13, 2006)
+Homeland seeks budget boost for IT infrastructure improvements. Washington Technology (Feb. 7, 2006)
+DHS puts border security on fast track. Government Computing News (Feb. 6, 2006)
+U.S. Department of Homeland Security Announces Six Percent Increase In Fiscal Year 2007 Budget Request. (Feb. 6, 2006)
+US-VISIT poorly managed, lacks plan. GAO says. Federal Times (Jan. 31, 2006)
+U.S. Visit could get funding boost. Government Computing News (Jan. 27, 2006)
+Senators criticize border ID cards. FCW.com (Jan. 25, 2006)
+DHS urged to finish analysis of visitor tracking system. GovExec.com (Jan. 25, 2006)
+S.F. airportâ€™s one-of-a-kind e-Passport program begins. San Francisco Examiner (Jan. 16, 2006)
+Border security net still lets millions slip through. Newark Star Ledger (Sept. 11, 2005)
+US Border Crossings Go High Tech. Top Tech News (Sept. 8, 2005)
+Cheap, Fast or Secure -- Pick Two. CIO (Sept. 1, 2005)
+Special Report: DHSâ€™ Double Duty. Government Computing News (Aug. 29, 2005)
+DHS to foreign visitors: Give me 10. Government Computing News (Aug. 15, 2005)
+Border security program scrutinized. San Bernardino Sun (Aug. 10, 2005)
+Homeland Security agency deploys ID tags in visitor forms. GovExec.com (Aug. 10, 2005)
+And then there were TEN, Washington Technology (Aug. 1, 2005)
+Chertoff's plan for change gains support on Capitol Hill, Washington Technology (Aug. 1, 2005)
+Aliens soon to be tagged at border, Vancouver Sun (July 31, 2005)
+Homeland Security unveils RFID component to US-VISIT, Today's Trucking News (July 29, 2005)
+Homeland Security To Launch RFID Systems At Border Crossings, Associated Press (July 28, 2005)
+Unfounded fears in US-VISIT Technology, San Antonio Express (July 25, 2005)
+Agencies Affirm Privacy Policies for RFID, RFID Journal (July 18, 2005)
+Technology helps keep border traffic flowing â€" safely, Federal TimesÂ (July 13, 2005)
+US trials RFID tags to track land border crossings, Silicon.comÂ UKÂ (July 11, 2005)
+U.S. Border Security at a Crossroads, Washington Post (May 23, 2005)
+Contracting Rush For Security Led to Waste, Abuse, Washington Post (May 22, 2005)
+GAO Report Finds US-VISIT Management Lacking, Washington Post (Feb. 24, 2005)
+U.S. Now Fingerprinting Foreign Visitors at 50 Crossings From Canada, Mexico, CBC News (Canada) (Jan. 5, 2005)
+Europeans, Others Face Tighter U.S. Entry Checks, Reuters (Sept. 30, 2004)
+Japan to Demand U.S. Erase Fingerprints, Photos After Visitors Leave the Country, Mainchi Daily News (Japan) (Sept. 29, 2004)
+Screening Program Takes Hold in the U.S., International Herald Tribune (France) (Sept. 29, 2004)
+Following Award, US-VISIT Kicks Into High Gear, FCW.com (June 7, 2004)
+U.S. May Use New ID Cards at Borders, Washington Post (June 5, 2004)
+Gaps Seen in "Virtual Border" Security System, The New York Times (May 31, 2004)
+U.S. Nears Deal on Way to Track Visitors, The New York Times (May 24, 2004)
+Canadians Among Few Exemptions to U.S. Security Screening, CBC News (Canada) (Apr. 5, 2004)
+Big Brother Inc., Time (Apr. 5, 2004)
+U.S. Fingerprint Plan Dismays Foreigners, Associated Press (Apr. 3, 2004)
+US Fingerprints 'Allied' Visitors, BBC News (UK) (Apr. 3, 2004)
+U.S. Expands Fingerprinting Program to Closest Allies, CNN.com (Apr. 3, 2004)
+US to Fingerprint All Visitors, Daily Telegraph (Australia) (Apr. 3, 2004)
+Tough New Entry Measures to US Get Mixed Reviews, Mainichi Daily News (Japan) (Apr. 3, 2004)
+U.S. Will Fingerprint 13 Million More in Fall, Washington Post (Apr. 3, 2004)
+US Broadens Fingerprint, Photo Requirement For Travellers, Channel News Asia (Singapore) (Apr. 2, 2004)
+U.S. Expands Fingerprinting Program, Toronto Star (Canada) (Apr. 2, 2004)
+FM: U.S. Urged Not to Fingerprint Chinese, China Daily (China) (Mar. 24, 2004)
+Leaders Along Border Fear US-VISIT's Impact, San Antonio Express (Mar. 23, 2004)
+US-VISIT Needs More Staff, GAO Says, FCW.com (Mar. 18, 2004)
+Davis Asks DHS For More Info on US-VISIT, Washington Technology (Mar. 16, 2004)
+Senators Want to Hasten US-VISIT Program, FoxNews.com (Mar. 9, 2004)
+Airports Want US-VISIT to Address Outstanding Issues Before Additional Border Control Requirements Are Added, Airports Council International-North America (Mar. 4, 2004)
+Homeland Security Officials Eye Plan For Keeping Track of Immigrants, Government Executive Magazine (Mar. 1, 2004)
+Security Program Collars Criminals, Washington Post (Jan. 28, 2004)
+Fingerprinting Visitors Won't Offer Security, Newsday.com (Jan. 14, 2004)
+Privacy Progress at Homeland Security, Business Week Online (Jan. 8, 2004)
+U.S. Visit Launch Met With Criticism, Washington Post (Jan. 8, 2004)
+U.S. Airports Now Fingerprint Foreigners, The New York Times (Jan. 6, 2004)
+U.S. Expands Screening of Foreign Visitors, Atlanta Journal-Constitution (Jan. 6, 2004)
+Fingerprint Order Weighs on Brazil-U.S. Relations, The New York Times, (Jan. 5, 2004)
+New Era in Airport Security, CBSNews.com (Jan. 5, 2004)
+U.S. Starts Fingerprint Program, CNN.com (Jan. 5, 2004)
+U.S. Begins Tracking Foreign Arrivals, Washington Post (Jan. 5, 2004)
+Brazil Fingerprint Order Challenged, CNN.com (Jan. 1, 2004)
+Brazil Orders U.S. Citizens Fingerprinted, CNN.com (Dec. 30, 2003)
+Airports to Fingerprint International Visitors, CNN.com (Dec. 23, 2003)
+Immigrant Database Draws Fire, Wired News (Dec. 9, 2003)
+Lieberman Calls For US-VISIT Privacy Assessment, Federal Computer Week (Dec. 4, 2003)
+Davis Requests US-VISIT Info, Federal Computer Week (Dec. 2, 2003)
+US-VISIT Resources
+From EPIC
+Comments on US-VISIT's RFID Proposal (Oct. 3, 2005)
+Comments (also in pdf) on US-VISIT's RFID Proposal (Aug. 4, 2005)
+Comments on US-VISIT Expansion (pdf) (Nov. 5, 2004)
+Comments (pdf) on US-VISIT (Feb. 4, 2004)
+Comments (pdf) on the Arrival Departure Information System (ADIS) (Jan. 11, 2004)
+Amicus brief (pdf) in Hiibel v. Sixth Judicial District Court of Nevada discussing US-VISIT (Dec. 15, 2003)
+From Department of Homeland Security
+Testimony of DHS Secretary Michael Chertoff Before the House Homeland Security Committee Announcing Abandonment of RFID Technology in US-VISIT Entry/Exit Forms (pdf) (Feb. 9, 2007).
+Inspector General's Office: Enhanced Security Controls Needed for US-VISIT's System Using RFID Technology (Redacted) OIG-06-39 (pdf) (June 2006).
+Draft Programmatic Environmental Assessment (PEA) on Proposed Changes to Immigration and Border Management Processes (pdf) (Feb. 17, 2006)
+US-VISIT Increment 2C Proof of Concept: Finding of No Significant Impact (pdf) (Apr. 18, 2005)
+US-VISIT Increment 2C Proof of Concept: Final Environmental Assessment (pdf) (Apr. 13, 2005)
+Fact Sheet: Radio Frequency Identification (Mar. 11, 2005)
+Fact Sheet: Vision for 21st Century Immigration and Border Management System (Mar. 11, 2005)
+Implementation of the United States Visitor and Immigrant Status Indicator Technology Program ("US-VISIT''); Biometric Requirements; Notice to Nonimmigrant Aliens Subject To Be Enrolled in the United States Visitor and Immigrant Status Indicator Technology System; Interim Final Rule and Notice 69 Fed. Reg. 468 (Jan. 5, 2004)
+United States Visitor and Immigrant Status Indicator Technology Program ("US-VISIT''); Authority to Collect Biometric Data From Additional Travelers and Expansion to the 50 Most Highly Trafficked Land Border Ports of Entry; Interim Rule 69 Fed. Reg. 53318 (Aug. 31, 2004)
+US-VISIT Fact Sheet (revised April 2, 2004)
+Frequently Asked Questions about US-VISIT
+Redress Policy for US-VISIT
+US-VISIT Frequently Asked Questions (pdf) (revised Dec. 31, 2003)
+US-VISIT Increment 1 Privacy Impact Assessment and Privacy Policy (pdf) (Dec. 18, 2003)
+US-VISIT Increment 2 Privacy Impact Assessment (pdf) (Sept. 14, 2004)
+US-VISIT Program Privacy Policy (pdf) (Sept. 14, 2004)
+From Other Sources
+Government Accountability Office: Information Security: Homeland Security Needs to Immediately Address Significant Weaknesses in Systems Supporting the US-VISIT Program GAO-07-870 (pdf) (July 2007)
+Government Accountability Office: Homeland Security: US-VISIT Has Not Fully Met Expectations and Longstanding Program Management Challenges Need to Be Addressed GAO-07-499T (pdf) (Feb. 2007)
+Government Accountability Office: Homeland Security: Planned Expenditures for U.S. Visitor and Immigrant Status Program Need to Be Adequately Defined and Justified GAO-07-248 (pdf) (Feb. 2007)
+Government Accountability Office: Border Security: US-VISIT Program Faces Strategic, Operational, and Technological Challenges at Land Ports of Entry, GAO-07-378T (pdf) (Jan. 2007)
+Government Accountability Office: Border Security: US-VISIT Program Faces Strategic, Operational, and Technological Challenges at Land Ports of Entry GAO-07-248 (pdf) (Dec. 2006)
+Government Accountability Office: Homeland Security: Contract Management and Oversight for Visitor and Immigrant Status Program Need to Be Strengthened, GAO-06-404 (pdf) (June 2006)
+Government Accountability Office: Homeland Security: Recommendations to Improve Management of Key Border Security Program Need to Be Implemented GAO-06-296 (pdf) (Feb. 2006)
+Government Accountability Office: Homeland Security: Some Progress Made, but Many Challenges Remain on U.S. Visitor and Immigration Status Indicator Technology Program (pdf) (Feb. 2005)
+General Accounting Office: Homeland Security: First Phase of Visitor and Immigration Status Program Operating, but Improvements Needed (pdf) (May 2004)
+Congressional Research Service: U.S. Visitor and Immigrant Status Indicator Technology Program (US-VISIT) (pdf) (Feb. 18, 2004)
+General Accounting Office: Posthearing Questions Related to Aviation and Port Security (pdf) (Dec. 12, 2003)
+General Accounting Office: Homeland Security: Risks Facing Key Border and Transportation Security Program Need to Be Addressed (pdf) (Sept. 2003)
+General Accounting Office: Challenges in Using Biometrics (pdf) (Sept. 9, 2003)
+Human Rights First: Concerns About US-VISIT's Implications on Asylum Seekers' Confidentiality and Safety (pdf)
+Letter from Senator Joseph Lieberman to Tom Ridge regarding US-VISIT Privacy Impact Assessment (Dec. 4, 2003)
+Previous Top News
+UK Proposes to Require Foreign Nationals to Register Biometrics. By April 2008, the United Kingdom proposes to "record[] biometrics for everyone from the 169 nationalities outside the [European Economic Area] applying to work, study or stay in the UK for more than six months, and for people from 108 nationalities applying to visit the UK," according to a multi-year identification plan (pdf) announced yesterday by UK Home Secretary John Reid. The UK plans to record fingerprints and facial images and also plans to begin issuing biometric ID documents to foreign nationals by 2008. The US's border security program US-VISIT already requires foreign nationals entering or exiting the country to submit detailed biographical information, fingerprints, and a digital photograph. For more information, see EPIC's Biometrics page. (Dec. 20)
+Homeland Security Backs Off Flawed Border-Exit Tracking Project. The Department of Homeland Security has suspended plans to expand US-VISIT, a vast and expensive border control system to land border exits. The news follows a government report (pdf) which found serious flaws in the pilot testing of the proposed system of databanks and biometric identification to track foreign visitors exiting the country. An earlier EPIC Spotlight on Surveillance, "US VISIT Rolls Out the Unwelcome Mat," highlighted security and privacy problems with the system. (Dec. 15)
+Government Accountability Office Finds Operational and Tech Problems in US-VISIT. A new report (pdf) from the Government Accountability Office, the investigative arm of Congress, has found strategic, operational and technological problems in the US-VISIT program, especially with the pilot testing of land-border exit tracking of foreign visitors. "US-VISIT officials concluded that, for various reasons, a biometric US-VISIT exit capability cannot now be implemented without incurring a major impact on land POE facilities," according to the GAO. Earlier this year, the GAO said (pdf) that the Department of Homeland Security's sluggishness has jeopardized the effectiveness of the US-VISIT border security program. (Dec. 14)
+US-VISIT Only Caught One Terrorism-Related Suspect Since 2004. The US-VISIT border security program, which requires foreign nationals entering or exiting the country to submit detailed biographical information, fingerprints, and a digital photograph, has only caught one terrorism-related suspect since 2004. US-VISIT has processed tens of millions of people. For Fiscal Year 2007, President Bush has requested (pdf) $399.5 million for the program, on top of the $1.4 billion that has been spent to date. For more information see EPIC's Biometrics page. (Nov. 29)
+Virus That Crashed US-VISIT Entered Through Known Vulnerability. The computer virus that crashed the Department of Homeland Security's US-VISIT border screening system last year first passed though the network of the Immigrations and Customs Enforcement bureau, according to documents released to Wired News. DHS knew of the software vulnerability, but deliberately chose to leave more than 1,300 sensitive US-VISIT workstations vulnerable to attack, according to the documents. (Nov. 2)
+US-VISIT's Chief Information Officer To Resign. Scott Hastings, chief information officer at US-VISIT, has resigned and will leave in the next two months because of health problems. He said his resignation is not the result of any problems with the US-VISIT program. (Sept. 5)
+US-VISIT Expands to Include Legal Residents. Border security program US-VISIT, which already requires foreign nationals entering or exiting the country to submit detailed biographical information, fingerprints, and a digital photograph, is expanding to include legal residents. US-VISIT will now apply to more than 11 million holders of green cards, as well as all immigrants, refugees, asylum seekers, people paroled to the United States and travelers under the Guam Visa Waiver Program. Certain Canadians entering for extended business or employment also will be subject to the new rule. (July 28)
+Two Reports Criticize Security, IT Problems in US-VISIT. Two newly released government reports criticize the U.S. Department of Homeland Security for data security and IT contract management problems within US-VISIT. The contract management report (pdf) was released by the Government Accountability Office and a censored version of the security-related report (pdf) was released by the DHS inspector general's office. (July 17)
+Robert Mocny Named Acting Director of US-VISIT. Homeland Security Secretary Michael Chertoff has named Robert Mocny acting director of the border security program US-VISIT. Mocny is taking over for James Williams, who recently became the commissioner of the Federal Acquisition Service at the General Services Administration. Mocny has been deputy director of US-VISIT since 2003. (June 27)
+Government Considered Iris Scans, Voice Recognition for Border Security. Documents (pdf) obtained this week by EPIC show that, as early as 2003, the US-VISIT border security program considered using iris scanning and voice recognition biometrics. US-VISIT already requires foreign nationals entering or exiting the country to submit detailed biographical information, fingerprints, and a digital photograph. Last week, the Government Accountability Office reported (pdf) significant problems with US-VISIT. For Fiscal Year 2007, President Bush has requested (pdf) $399.5 million for the program, on top of the $1.4 billion that has been spent to date. For more information see EPIC's Biometrics page. (Feb. 24)
+Public Comment Requested for US-VISIT Environmental Assessment. The US-VISIT program has announced that it has completed a Draft Programmatic Environmental Assessment (pdf) on proposed changes to immigration and border management processes. US-VISIT is requesting public comments on the draft assessment. Public comments may be submitted by mail or e-mail, and must be postmarked by March 18, 2006. (Feb. 17)
+Security, Privacy Issues Threaten US-VISIT, Report Says. The Department of Homeland Security's sluggishness has jeopardized the effectiveness of the US-VISIT border security program, according to a new report (pdf) from the Government Accountability Office. DHS has yet to develop and begin implementing a system security plan and privacy impact assessment, the key recommendation that the GAO made when it assessed the program two and a half years ago. For Fiscal Year 2007, President Bush has requested (pdf) $399.5 million for the US-VISIT program, $62.9 million more than it received in 2006. (Feb. 16)
+US-VISIT Requests $400M for Fiscal Year 2007 Budget. For Fiscal Year 2007, the Department of Homeland Security has requested (pdf) $42.7 billion, a 6 percent increase from Fiscal Year 2006. Of this, the US-VISIT border program would receive $399.5 million, an increase of $62.9 million from the Fiscal Year 2006 budget. Most of the increase will go toward the expansion of US-VISIT's fingerprint system; it will now capture all 10 fingerprints instead of two. (Feb. 6)
+EPIC: US-VISIT ID Plan is Still Has Security, Privacy Holes. In comments (pdf) to the Department of Homeland Security, EPIC again urged the agency to abandon a flawed proposal to embed Radio Frequency Identification tags in travel documents. The plan lacks basic privacy and security safeguards, and these costs substantially outweigh the limited timesaving benefits, EPIC said. EPIC previously commented upon the proposal in August. (Oct. 3)
+US-VISIT Will Extend to 104 More Ports of Entry. The Department of Homeland Security today announced that the US-VISIT border security program will add 104 ports of entry, beyond the current 50, by the end of the year. Problems have been found in US-VISIT's database and technology systems, and some errors have led to the improper flagging of crewmembers by government watchlists. This extension comes as the agency is considering a flawed proposal to use Radio Frequency Identification tags for travel documents, and two months after it began to require visitors to submit a full ten-fingerprint set. For more information, visit EPIC's July Spotlight on Surveillance page. (Sept. 14)
+Spotlight: Database Tracks Foreign Students, Visitors in United States. September's "Spotlight on Surveillance" scrutinizes the Student and Exchange Visitor Information System (SEVIS), a Homeland Security program that monitors and tracks students and exchange visitors at all times. SEVIS is also a part of the controversial US-VISIT program. Through SEVIS, the federal government is accumulating a massive amount of data on foreign students and exchange visitors and their dependents, including biographical, academic, and employment information. The stated goals of SEVIS concern immigration and education, but the database is also available to other federal, local, state, tribal and foreign agencies. For more information, see EPIC's Spotlight on Surveillance page. (Sept. 9)
+EPIC: US-VISIT Travel ID Plan is Flawed. In comments (also available in pdf) to the Department of Homeland Security, EPIC has urged the agency to abandon a proposal to use Radio Frequency Identification tags for travel documents. EPIC said the plan lacks basic privacy and security safeguards, and repeats many of the problems with the controversial proposal of the State Department for wireless passports. (Aug. 5)
+More Biometric Information Gathered for US-VISIT. The Department of Homeland Security announced that it would expand the collection of biometric data from visitors entering the country through the US-VISIT program. From its inception in 2003, the US-VISIT program has used a two-fingerprint identification system, but Homeland Security now will begin collecting a full ten-fingerprint set from travelers. This expands the already vast amount of personal data accumulated by the program, including some data about U.S. citizens and legal permanent residents. This information includes complete name, date of birth, citizenship, sex, passport number and country of issuance, country of residence, United States visa number, date, place of issuance, alien registration number, address while in the U.S., and such other data. (July 13)
+Spotlight: US Offers Unfriendly Welcome to Visitors. This month, EPIC turns the Spotlight on the US-VISIT border security program and finds it is replete with problems -- in its technology and databases. The program's fingerprint identification system has resulted in many cases of mistaken identity, and led to the improper flagging of crewmembers by government watchlists. The program will soon test using Radio Frequency Identification (RFID) technology to transmit identifiers to agents; this has been touted as a time-saving measure. However, the small amount of time saved by using RFID is outweighed by the significant security risk of unauthorized parties accessing the data when it is transmitted wirelessly. (July 5)
+EPIC FOIA Documents: US-VISIT Fingerprint Mismatches Produced Watchlist Hits. Freedom of Information Act documents (available in pdf: Part 1 | Part 2) obtained by EPIC from the Department of Homeland Security show that individuals traveling to the United States have experienced problems being "processed" by the United States Visitor and Immigrant Status Indicator Technology (US-VISIT), a border security program that records biographic, biometric and travel information of more than 28 million foreign visitors to the United States each year. Complaints about the program include emails between an airline and the agency about 32 crew members who experienced fingerprint scanning mismatches, which caused them to be improperly flagged by government watchlists. (June 22)
+EPIC Opposes Sharp Increase in Agency's Surveillance Spending. In a letter (pdf) to a Senate oversight committee, EPIC strongly opposed a significant increase in federal funding for the Transportation Security Administration's surveillance programs. EPIC's letter pointed out that the agency has repeatedly failed to meet its legal obligations for openness and transparency in the development of aviation security and worker credentialing programs. The letter also noted that EPIC has obtained documents under the Freedom of Information Act demonstrating that the agency has shown a proclivity for using personal information for purposes other than the ones for which the information was gathered or volunteered. For more information about the proposed Fiscal Year 2006 budget, see EPIC's U.S. Domestic Spending on Surveillance Page. (Feb. 28, 2005)
+Accountability Office Weighs In on US-VISIT. The Government Accountability Office has released a report (pdf) on the status of Department of Homeland Security's US-VISIT program. The report concluded that DHS has made some progress satisfying requirements set by Congress, but much remains to be done. Among other things, the office found that the agency has not conducted a security risk assessment for the program, and has no anticipated date for completing one. Furthermore, the GAO noted that the most recent privacy impact assessment for US-VISIT does not fully comply with the Office of Management and Budget's guidance for performing such evaluations. (Feb. 25, 2005)
+EPIC Calls for US-VISIT Data Privacy Safeguards. The Department of Homeland Security has extended the United States Visitor and Immigrant Status Indicator Technology (US-VISIT) to the 50 busiest land border points of entry into the United States. The agency intends to expand the program, which is also operational at 115 airports and 15 sea ports, to all land points of entry by the end of this year. To date, more than 16.9 million foreign travelers to the U.S. have been "processed" through the program. For more information, see EPIC's US-VISIT Page. (Jan. 5, 2005)
+US-VISIT Expands to 50 Busiest Land Ports. In comments (pdf) filed this week, EPIC urged the Department of Homeland Security to consider privacy implications as it expands the United States Visitor and Immigrant Status Indicator Technology (US-VISIT), a controversial border entry-exit program. In August, the agency announced that it would expand US-VISIT to the 50 busiest land border points of entry by the end of this year. It also expanded the category of individuals who are subject to US-VISIT to include visa waiver travelers and Mexican citizens traveling to and from the U.S. EPIC's comments emphasized the potential for mission creep within the program, and noted the importance of safeguarding the accuracy and security of the information collected through US-VISIT. (Nov. 5, 2004)
+US-VISIT Expands Today to Include Visa Waiver Travelers. Today the United States Visitor and Immigrant Status Indicator Technology (US-VISIT) program will begin screening travelers entering and leaving the United States through the Visa Waiver Program, which includes visitors from the United Kingdom, France, Spain, Ireland, Japan, and 22 other countries. The expansions means that the U.S. government will collect biometrics from about 33,000 more travelers every day. (Sept. 30, 2004)
+Privacy International Holds 2004 UK Big Brother Awards. Privacy International held the 2004 UK Big Brother Awards in London to "name and shame" the greatest government and commercial offenders of personal privacy in the UK. US-VISIT, the vast American surveillance system that tracks visitors to, within, and from the United States, was presented the David Blunkett Lifetime Menace Award because it is "offensive and invasive, and has been undertaken with little or no debate or scrutiny." For more information, see the Privacy International Big Brother Awards Page. (July 29, 2004)
+Accenture Awarded US-VISIT Contract. A U.S. corporation based in Bermuda will receive more than $10 billion from the Department of Homeland Security to build US-VISIT, a massive government surveillance system that tracks visitors to, within, and from the United States. In February, EPIC urged (pdf) the agency to define how Privacy Act obligations affect the program, to consider the significance of international privacy standards in the collection and use of personal information on non-U.S. citizens, and to prohibit the expansion of US-VISIT uses beyond the program's defined mission. These issues remain unresolved. (June 1, 2004)
+Coalition Calls For Better Redress Procedure in US-VISIT. EPIC has joined twenty-nine privacy, immigration and civil liberties organizations urging (pdf) the Department of Homeland Security to develop a straightforward redress policy for visitors to the United States who are adversely affected by US-VISIT. In a letter to the agency noting the program's "enormous potential for error, invasion of privacy, and violation of international privacy laws and human rights standards," the coalition called for a redress procedure allowing for fair review and rapid appeals. The coalition also suggested that an independent evaluation of US-VISIT be conducted. (Apr. 22, 2004)
+Homeland Security Expands Visitor Tracking System. The Department of Homeland Security has announced that in September the controversial US-VISIT program will be expanded to collect fingerprints and photographs from all visitors entering the United States from the 27 visa-waiver countries, which include Japan and most European nations. No international governments have agreed to have their citizens fingerprinted or photographed. (Apr. 2, 2004)
+China Urges U.S. to Stop Fingerprinting Chinese Visitors. China's Ministry of Foreign Affairs has asked the United States to stop collecting the fingerprints of Chinese citizens applying for visas, asserting that such action is discriminatory and violates basic human rights such as privacy and dignity. Chinese officials have urged that the United States waive fingerprinting requirements for Chinese visitors as it has for individuals traveling to the States through the visa waiver program. (Mar. 24, 2004)
+EPIC Comments on US-VISIT. EPIC has submitted comments (pdf) in response to Department of Homeland Security's announced implementation of the United States Visitor and Immigrant Status Indicator Technology. EPIC urged DHS to define how Privacy Act obligations affect the program, to consider the significance of international privacy standards in the collection and use of personal information by the agency on non-U.S. citizens, and to prohibit the expansion of US-VISIT uses beyond the program's defined mission. (Feb. 4, 2004)
+EPIC Urges Privacy Protections for US-VISIT. EPIC has filed comments (pdf) in response to the Department of Homeland Security's announcement that it will collect biometric and biographic information in the Arrival Departure Information System (ADIS). ADIS is one of at least twenty existing information systems used by US-VISIT, the vast new program that tracks the travel of foreign nationals to and from the United States. EPIC argued that ADIS should not be exempt from Privacy Act requirements, and urged DHS to reduce a proposed 100-year data retention period and comply with international privacy standards. (Jan. 12, 2004)
+US-VISIT Privacy Impact Assessment Released, Questions Remain. The Department of Homeland Security has released a Privacy Impact Assessment (pdf) for the United States Visitor and Immigrant Status Indicator Technology, a massive new tracking system that will record biographic, biometric, and travel information of 28 million foreign visitors to the United States each year. The system was launched yesterday in U.S. airports and seaports. Questions remain about the system's data accuracy, redress procedures, and potential expansion for other uses. (Jan. 6, 2004)
+Related EPIC Policy Pages
+EPIC Air Travel Privacy Page
+EPIC Biometrics Page
+EPIC Counter-terrorism Page
+EPIC U.S. Domestic Spending on Surveillance Page
+EPIC Profiling Page
+EPIC USA PATRIOT Act Page
+Share this page:
+Subscribe to the EPIC Alert
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+EPIC Alert archive »
+Electronic Privacy Information Center
+1519 New Hampshire Avenue NW
+Washington, DC 20036
+202.483.1140
+info[at]epic[dot]org
+© 1994 - 2020 EPIC, all rights reserved.
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+EPIC Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+Electronic Privacy Information Center1519 New Hampshire Avenue NW Washington, DC 20036More info
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+FOIA Documents
+EPIC FOIA Notes
+EPIC Former Secrets
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+EPIC Bookstore
+Support EPIC

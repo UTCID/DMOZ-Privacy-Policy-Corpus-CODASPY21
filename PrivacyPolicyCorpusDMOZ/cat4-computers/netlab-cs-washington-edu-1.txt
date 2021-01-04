@@ -1,0 +1,21 @@
+http://netlab.cs.washington.edu/category/project/privacy
+Networks & Mobile Systems
+People
+Faculty
+Post Docs
+Graduate Students
+Alumni
+Projects
+Privacy & Censorship
+Wireless & Mobile Systems
+Network Architecture
+Operating Systems
+Publications
+uProxy
+uProxy is a browser extension that lets users share alternative more secure routes to the Internet. It’s like a personalised VPN service that you set up for yourself and your friends. uProxy helps users protect each other from third parties who may try to watch, block, or redirect users’ Internet   Read More ...
+Pseudonymous Web
+Technology trends and economic forces are moving us toward a world in which personal information is valuable, and companies have an incentive to obtain as much of it as possible. Targeted advertising, for example, has revolutionized revenue generation, but while this is good for companies, the implications for user privacy   Read More ...
+Triceratops
+We propose to build a tool, Triceratops, for securing mobile applications. It allows any user to protect his or her personal information from malicious mobile apps, in ways that are not possible today. Triceratops takes a mobile app with a set of security policies as input, and generates a secured   Read More ...
+Unblock
+Blocking-Resistant Network Services The desire for uncensored access to the Internet has motivated the development of both open proxies like Tor and social graph-based overlays like FreeNet. However, neither design is sufficient, as relays in open proxies are easily exposed and blocked, and overlays based just on social trust suffer   Read More ...

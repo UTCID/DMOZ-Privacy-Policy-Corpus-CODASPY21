@@ -1,0 +1,126 @@
+https://ucl.openprivacy.org/
+Essentials:
+Overview
+User Content License
+An OpenPrivacy
+Grassroots Initiative
+Overview:
+A User Content License (UCL) is an agreement between an Internet user and
+the company/individual whose web site the user is currently visiting.
+It
+provides a mechanism through which a user may inform the site she is
+visiting of the policies policies that must be used to protect her privacy
+and data.
+A UCL is a license or policy agreement which originates on the
+user's computer.
+Every time the user requests a web page the UCL is encoded
+and transferred to the server computer answering the query.
+At this point
+the server has a chance to 'opt-out' of this transaction.
+Currently, when a user goes to a web site, they must agree to the privacy
+policy of that web site.
+This has a number of problems:
+Few users ever even read the privacy policy [1],[2] posted on a site, yet they are implicitly bound
+by its content in much the same way that "shrinkwrap" licenses bind
+users of software to the usually unread license agreements printed on
+them.
+Unlike shrinkwrap licenses, companies can change their web-based
+privacy policy at any time and may currently legally do so without
+needing to notify their existing user base [3].
+Though a company may have strong privacy policies when they start up,
+they may later be acquired by an entity with different views or simply
+change their viewpoint themselves as the quantity - and thus the value -
+of their collected profile data grows.
+This can result in massive, but
+unfortunately legal, privacy violations.
+If a company files for bankruptcy it has little incentive to preserve
+your privacy.
+It might choose to maximize its worth by selling its customer
+database.
+Companies often keep credit card information within an internal database.
+If this system is cracked these numbers can be stolen.
+These are virtual
+gold mines for "black-hat" hackers on the Internet.
+Technical:
+The User Content License works with the HTTP protocol and can
+theoretically support any server/browser combination. The mechanism is
+very simple, adding one additional HTTP header prior to an HTTP
+request being transferred. A valid request would look like:
+GET http://hailstorm.microsoft.com/ HTTP/1.0
+User-Agent: GNU/Linux and Mozilla
+UCL-User-License: UCL LICENSE/POLICY HERE
+UCL-About: http://ucl.openprivacy.org
+A web site would see an encoded UCL such as:
+"By responding to this HTTP request, you are accepting the practices described
+in this Privacy Notice. You will not give my information out to others and you
+understand that I maintain copyright on all original information and its
+compilation."
+In order to be able to opt-out a web site must have a reliable mechanism to
+determine what policies are encoded here.
+The Platform for Privacy
+Preferences (P3P) [5] could be used to resolve this and
+related issues and we may add additional HTTP headers and payloads so that
+web sites have better mechanisms to opt-out.
+Future Directions:
+Finish and release a Mozilla plugin.
+Try to get this incorporated into
+Mozilla 1.0.
+Integrate with Internet Explorer.
+Currently a UCL is only supported from
+IE when you use some type of proxy which can add headers.
+Add interactive web site/user policy negotiation.
+This could allow a web site
+to ask for addition rights (may we give this information to our partner?) to
+which the user could possibly agree to
+The receiving web site (server) would see an encoded UCL like:
+"By responding to this HTTP request, you are accepting the practices described
+in this Privacy Notice. You will not give my information out to others and you
+understand that I maintain copyright on all original information and its
+compilation."
+We need to determine the legal standing of this mechanism.
+If such basis
+exists, we need to create a legally binding User Content License (UCL) to
+be included with all such GET requests.
+Software:
+We have defined a Mozilla plug-in [6]which modifies
+the HTTP stream so that a UCL is included.
+Currently this isn't very
+modular and can't be easily separated for publication.
+Hopefully this
+will be resolved soon and a 1.0 version released.
+Future Directions:
+Determine legal standing for this mechanism and create an actual UCL.
+Finish and release a Mozilla plug-in. Petition to get this
+incorporated into Mozilla 1.0 [7].
+Integrate with Internet Explorer.
+Currently a UCL is only supported
+from IE when you use some type of proxy which can add headers.
+Add interactive web site/user policy negotiation [8].
+This could allow a
+web site to ask for addition rights (may we give this information to our
+partner?) to which the user might agree.
+References:
+Guidelines for Online Privacy Policies:
+http://www.privacyalliance.org/resources/ppguidelines.shtml
+Amazon.com privacy policy:
+http://www.amazon.com/exec/obidos/tg/browse/-/468496/103-2672476-7254260
+Amazon.com changes their privacy policy
+mid-stream:
+http://www.wired.com/news/politics/0,1283,38572,00.html
+http://slashdot.org/yro/00/09/01/1324240.shtml
+Criticism of Amazon.com's new privacy policy:
+http://news.cnet.com/news/0-1007-200-3990861.html
+Platform for Privacy Preferences (P3P)
+Project:
+http://www.w3.org/P3P/
+Mozilla Plug-in API:
+http://www.mozilla.org/docs/plugin.html
+Mozilla Roadmap:
+http://www.mozilla.org/roadmap.html
+Protocols for Automated Negotiations with Buyer
+Anonymity and Seller Reputation:
+http://www.si.umich.edu/~presnick/papers/negotiation/
+Copyleft:
+http://www.gnu.org/copyleft/copyleft.html
+The User Content License is brought to you by the
+OpenPrivacy project

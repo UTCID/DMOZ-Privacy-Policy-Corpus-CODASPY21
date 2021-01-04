@@ -1,0 +1,220 @@
+http://www.vortex.com/privacy/priv.09.16
+PRIVACY Forum Archive Document
+PRIVACY Forum Home Page
+PFIR - "People For Internet Responsibility" Home Page
+Vortex Technology Home Page
+PRIVACY Forum Digest
+Friday, 26 May 2000
+Volume 09 : Issue 16
+(http://www.vortex.com/privacy/priv.09.16)
+Moderated by Lauren Weinstein (lauren@vortex.com)
+Vortex Technology, Woodland Hills, CA, U.S.A.
+http://www.vortex.com
+===== PRIVACY FORUM =====
+-------------------------------------------------------------------
+The PRIVACY Forum is supported in part by
+the ACM (Association for Computing Machinery)
+Committee on Computers and Public Policy,
+Cable & Wireless USA, Cisco Systems, Inc.,
+and Telos Systems.
+- - -
+These organizations do not operate or control the
+PRIVACY Forum in any manner, and their support does not
+imply agreement on their part with nor responsibility
+for any materials posted on or related to the PRIVACY Forum.
+-------------------------------------------------------------------
+CONTENTS
+Cogit.com:Making
+DoubleClick Look Good?
+(Lauren Weinstein; PRIVACY Forum Moderator)
+*** Please include a RELEVANT "Subject:" line on all submissions! ***
+*** Submissions without them may be ignored! ***
+-----------------------------------------------------------------------------
+The Internet PRIVACY Forum is a moderated digest for the discussion and
+analysis of issues relating to the general topic of privacy (both personal
+and collective) in the "information age" of the 1990's and beyond.
+The
+moderator will choose submissions for inclusion based on their relevance and
+content.
+Submissions will not be routinely acknowledged.
+All submissions should be addressed to "privacy@vortex.com" and must have
+RELEVANT "Subject:" lines; submissions without appropriate and relevant
+"Subject:" lines may be ignored.
+Excessive "signatures" on submissions are
+subject to editing.
+Subscriptions are via an automatic list server system;
+for subscription information, please send a message consisting of the word
+"help" (quotes not included) in the BODY of a message to:
+"privacy-request@vortex.com".
+Mailing list problems should be reported to
+"list-maint@vortex.com".
+All messages included in this digest represent the views of their
+individual authors and all messages submitted must be appropriate to be
+distributable without limitations.
+The PRIVACY Forum archive, including all issues of the digest and all
+related materials, is available via anonymous FTP from site "ftp ftp.vortex.com",
+in the "/privacy" directory.
+Use the FTP login "ftp" or "anonymous", and
+enter your e-mail address as the password.
+The typical "README" and "INDEX"
+files are available to guide you through the files available for FTP
+access.
+PRIVACY Forum materials may also be obtained automatically via
+e-mail through the list server system.
+Please follow the instructions above
+for getting the list server
+"help" information, which includes details
+regarding the "index" and "get" list server commands, which are used to access
+the PRIVACY Forum archive.
+All PRIVACY Forum materials are available through the Internet Gopher system
+via a gopher server on site "gopher.vortex.com/".
+Access to PRIVACY Forum
+materials is also available through the Internet World Wide Web (WWW) via
+the Vortex Technology WWW server at the URL: "http://www.vortex.com";
+full keyword searching of all PRIVACY Forum files is available via
+WWW access.
+-----------------------------------------------------------------------------
+VOLUME 09, ISSUE 16
+Quote for the day:
+"Do you want to live forever?"
+-- Valeria (Sandahl Bergman)
+"Conan the Barbarian" (Universal; 1982)
+----------------------------------------------------------------------
+Date:
+Fri, 26 May 2000 12:15 PDT
+From:
+lauren@vortex.com (Lauren Weinstein; PRIVACY Forum Moderator)
+Subject: Cogit.com:Making
+DoubleClick Look Good?
+Greetings.
+No matter how far you dig into a cesspool, it's not always easy
+to tell when you've reached bottom.
+In the case of Internet technologies
+that many persons consider invasive, we may be dealing with a bottomless pit
+of slime, a veritable cornucopia of crassness that is breathtaking to behold.
+When DoubleClick, Inc. announced plans to link user Web activities with
+outside commercial data sources, there was an immediate outcry, and
+DoubleClick backed down--for now.
+But as many had feared would be the case,
+other firms have been plowing ahead into the vast, largely unregulated
+frontier of Big Brother, Inc.
+One of the newer players is Cogit.com (http://www.cogit.com), a recent
+spinoff from Cogit Corporation.
+They offer (and have implemented for
+various customers) an array of Web user tracking and outside data
+personalization "linkage" services.
+Their two main products are called
+"RealProfile" and "RealTarget" (please note that neither of these have any
+relationship to RealNetworks, Inc.
+These names are starting to get Real
+confusing...)
+According to the product and technology description proudly displayed
+at Cogit's Web site (http://www.cogit.com/services.htm):
+"RealTarget uses offline behavior indicators such as high-tech
+preferences, automotive history, publications subscribed, and
+mail-order purchases, and relates them to consumer behavior on your
+site to make accurate predictions.
+Proven by Fortune 100 companies for
+direct marketing success, RealTarget's Master Models deliver highly
+improved results on the web."
+and:
+"RealProfile is a web-based consumer analysis service that helps
+emarketers understand who visits their web site and who drives
+site revenues. Enabled by an exclusive, long-term agreement with
+The Polk Company, RealProfile draws from offline demographic and
+lifestyle characteristics on 110 million US households to create
+in-depth anonymous profiles of your online visitors."
+They describe the underlying technology, which involves the usual cast of
+nefarious characters, including cookies, invisible one-pixel Web "bugs"--and
+other goodies, at http://www.cogit.com/technology.htm and related pages.
+Their Web site really does make for some fascinating reading, in the
+Orwellian sense, that is.
+They also identify some of their
+current Web site customers.
+Cogit of course explains that all of this is not intrusive, since they
+say that they remove the personally-identifiable information from the
+consumer profiles, and then link the data anonymously.
+More on what this
+really seems to mean in a moment.
+Deja vu all over again--the usual,
+"We consider it anonymous, so you shouldn't care if we track your every move"
+sort of argument.
+One starts to suspect that most of the folks coming up
+with these various ideas must all be attending the same "Invasive
+E-Marketing For Fun and Profit" seminars.
+(A thought experiment--who would
+you choose to keynote such an event?)
+So here's what appears to be happening.
+Cogit apparently purchases masses
+of information about your purchasing habits, magazine subscriptions, and all
+sorts of other nifty data regarding your behavior.
+This is data that many
+firms consider to be their treasure-trove to exploit as they see fit.
+Once
+Cogit has managed to pick up your identity from a customer site (e.g.,
+presumably from an online registration or online purchase), they then can
+link your activities on those sites to the external data sources.
+Once this linkage is made, the name/address/etc. information is
+apparently deleted.
+Then, using cookies and Web bugs (the latter of which are almost impossible
+to disable in any normal sense for most Web users) your movements can be
+tracked through the related sites, controlling the content displayed based
+on the perceived view of what you're all about.
+To quote from Cogit's
+privacy policy (http://www.cogit.com/policy.htm):
+"Cogit.com's service matches personally identifiable consumer
+information (i.e., name, address, telephone number, etc.) supplied by
+its clients to a file of individual household information that
+Cogit.com licenses from the Polk Company. Immediately upon completion
+of this matching process and internal quality assurance, all personally
+identifiable information is irreversibly discarded to create anonymous
+user profiles devoid of any personally identifiable information."
+Cogit doesn't ask you ahead of time whether you wish to participate in their
+data matching extravaganza.
+They do offer you a way to opt-out however, as
+described at http://www.cogit.com/opt_info.htm.
+They're using the same
+technique as DoubleClick--you must accept a cookie to stay out of the maws
+of the Cogit system.
+This presents the usual problems.
+First, you must have
+your cookies enabled to avail yourself of this opt-out--a privacy gotcha of
+the first order.
+Secondly, most people using various Cogit client Web sites
+are unlikely to ever even learn about this procedure.
+[ UPDATE (27 May 2000): It has now been determined that the Cogit.com opt-out
+cookie is only set if you have both cookies
+and javascript enabled in your Web browser!
+Otherwise, you will receive a page informing you
+that you've been opted-out and won't be profiled,
+but this will not be the case.
+--Lauren-- ]
+So, we end up back at square one once again.
+Perhaps you feel that the
+tracking, matching, analysis, and manipulation of your Web browsing, based
+on the myriad everyday details of your life (reading choices, purchasing
+habits, and much more) is a great idea!
+If so, you'll just love the
+Cogit.com system.
+Browse away!
+However, if you consider such activities to be an invasion of your life and
+privacy, regardless of the extent to which Cogit's data is "anonymized" in
+the process, then your options are far more limited.
+You might want to
+express your opinion to Cogit client sites (to the extent that you can
+identify them) and of course we can always hope for a saner regulatory
+environment concerning the use and abuse of your personal information.
+Don't hold your breath.
+--Lauren--
+Lauren Weinstein
+lauren@pfir.org or lauren@vortex.com
+Co-Founder, PFIR: People for Internet Responsibility - http://www.pfir.org
+Moderator, PRIVACY Forum - http://www.vortex.com
+Member, ACM Committee on Computers and Public Policy
+------------------------------
+End of PRIVACY Forum Digest 09.16
+************************
+PRIVACY Forum Home Page
+Vortex Technology Home Page
+Copyright © 2005 Vortex Technology.
+All Rights Reserved.

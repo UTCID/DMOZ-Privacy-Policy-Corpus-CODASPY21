@@ -1,0 +1,27 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/apas03.html#websec2-APP-A-SECT-3.1
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+IP ConnectivityOne of our first goals was to get the Internet connection up and
+running.Lesson: Set milestones and stick to them.Setting up an Internet service provider and a
+commercial Internet service is a huge task. I broke the job down
+into smaller, understandable chunks. Each chunk had its own
+milestone: a thing that was to be accomplished, and a date by which
+it was supposed to be accomplished.On a piece of paper, I sketched out my first set of goals and
+milestones:July 1, 1995—Get leased line installed.Mid-July—Get IP connection up and running.August 1—Get dialup access working to router.August 15—Open up service for a few testers.September 1, 1995—Announce service to the
+community.The key ingredient to making all of this work was working
+phone lines—something that the house didn’t have when we moved in.
+Before we closed on the house, we placed an order for four
+residential phone lines—after all, the house was first and foremost
+a residence. I had also made arrangements with a mid-level ISP in
+Cambridge called CentNet for a 56K connection to the Internet that
+would be delivered over a four-wire DDS frame relay connection. To
+make this whole thing work I arranged for Cisco to loan me a Cisco
+2509 router—a basic router with two high-speed serial ports, eight
+low-speed asynchronous serial ports, and an Ethernet. I foolishly
+thought of this router as an “ISP in a box.”Lesson: Get your facilities in order.I waited for and met the NYNEX telephone installer on the day our residential ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

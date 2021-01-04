@@ -1,0 +1,183 @@
+https://www.investopedia.com/terms/z/zksnark.asp
+Education
+General
+Dictionary
+Economics
+Corporate Finance
+Roth IRA
+Stocks
+Mutual Funds
+ETFs
+401(k)
+Investing/Trading
+Investing Essentials
+Fundamental Analysis
+Portfolio Management
+Trading Essentials
+Technical Analysis
+Risk Management
+Markets
+News
+Company News
+Markets News
+Trading News
+Political News
+Trends
+Popular Stocks
+Apple (AAPL)
+Tesla (TSLA)
+Amazon (AMZN)
+AMD (AMD)
+Facebook (FB)
+Netflix (NFLX)
+Simulator
+Simulator
+Create an Account
+Join a Game
+My Simulator
+My Game
+Create a Game
+Your Money
+Personal Finance
+Wealth Management
+Budgeting/Saving
+Banking
+Credit Cards
+Home Ownership
+Retirement Planning
+Taxes
+Insurance
+Reviews & Ratings
+Best Online Brokers
+Best Savings Accounts
+Best Home Warranties
+Best Credit Cards
+Best Personal Loans
+Best Student Loans
+Best Life Insurance
+Best Auto Insurance
+Advisors
+Your Practice
+Practice Management
+Continuing Education
+Financial Advisor Careers
+Investopedia 100
+Wealth Management
+Portfolio Construction
+Financial Planning
+Academy
+Popular Courses
+Investing for Beginners
+Become a Day Trader
+Trading for Beginners
+Technical Analysis
+Courses by Topic
+All Courses
+Trading Courses
+Investing Courses
+Financial Professional Courses
+Submit
+Cryptocurrency
+Bitcoin
+Cryptocurrency Strategy & Education
+Buying & Selling
+Initial Coin Offerings
+Blockchain
+Cryptocurrency
+Cryptocurrency Strategy & Education
+What Is zk-SNARK?
+Zk-SNARK is an acronym that stands for “Zero-Knowledge Succinct Non-Interactive Argument of Knowledge.” A zk-SNARK is a proof that allows one party to prove it possesses certain information without revealing that information. This proof is made possible using a secret key created before the transaction takes place.
+Key Takeaways
+Zk-SNARK is an acronym that stands for "Zero-Knowledge Succinct Non-Interactive Argument of Knowledge."The proof, which was first developed from a "zero-knowledge proof" introduced in the late 1980s, was employed by Zcash to solve a perceived anonymity problem with Bitcoin-type blockchains.Zk-SNARK proofs rely on an initial "trust system" setup that has been critiqued as an inherent security flaw.
+Understanding zk-SNARK
+For many original members of the cryptocurrency community—primarily the bitcoin community—privacy was an assumed aim and feature of cryptocurrencies. However, privacy was always a second-order concern, given cryptocurrency's need to create a "trustless" system of guaranteeing the integrity of electronic currency and digital transactions.
+In the early 2010s, bitcoin users sometimes assumed that their transactions were anonymous because their offline identities weren't associated with users' public keys. But through the end of the decade, coordinated efforts by data scientists, hackers, and law enforcement proved that it is not only possible but relatively easy to re-identify people who had given pseudonymous data to multiple sources.
+Because of the perceived lack of privacy of some of the original cryptocurrencies like bitcoin, developers started working on privacy-focused coins. The most prominent of these was zcash, backed by a technology known as zk-SNARKs.
+Zero-Knowledge Proof
+A zk-SNARK ("zero-knowledge succinct non-interactive argument of knowledge") utilizes a concept known as a "zero-knowledge proof." The idea behind these proofs was first developed in the 1980s. Put simply, a zero-knowledge proof is a situation in which each of two parties in a transaction is able to verify to each other that they have a particular set of information, while at the same time not revealing what that information is.
+For most other types of proof, at least one of the two parties must have access to all of the information. A traditional proof can be compared to a password used to access an online network. The user submits the password, and the network itself checks the contents of the password to verify that it is correct. In order to do this, the network must also have access to the contents of the password.
+A zero-knowledge proof version of this situation would involve the user demonstrating to the network (via mathematical proof) that they have the correct password without actually revealing the password itself. The privacy and security advantages in this situation are clear: If the network does not have the password stored somewhere for verification purposes, the password cannot be stolen.
+The mathematical basis of zk-SNARKS is complex. Nonetheless, proofs of this type allow one party to demonstrate not only that a particular bit of information exists, but also that the party in question has awareness of that information. In the case of zcash, zk-SNARKs can be verified nearly instantly, and the protocol does not require any interaction between the prover and the verifier.
+Criticism of zk-SNARKs
+There are, of course, concerns related to zk-SNARKs. For instance, if someone was able to access the private key that was used to create the parameters of the proof protocol, they could create false proofs that nonetheless looked valid to verifiers. This would allow that person to create new tokens of zcash through a counterfeiting process. In order to prevent this from happening, zcash was designed in such a way as to make the proving protocols elaborate and spread out over multiple parties.
+While the construction of the zcash proving process was completed in such a way as to minimize the possibility of counterfeiting tokens via false proofs, there is at least one other concern related to the cryptocurrency as well. Zcash was created with a 20% "tax" levied on all blocks created over the first several years of the token. This tax is known as the "founder's tax," and it is used to compensate the developers of the cryptocurrency.
+Critics have suggested that the founders could potentially use this facet of the system to create an infinite number of zcash tokens without anyone else being aware of the existence of those tokens. For that reason, it's not entirely possible to know the exact number of zcash tokens in existence at this point.
+Since 2019, some developers have been working to improve zk-SNARKs by removing the trusted set up. A team called Suterusu has developed a system called zK-ConSNARK that claims to be operable without a trusted set up, can provide privacy protection for mainstream blockchains like Bitcoin, and has the lowest inflation for any extant cryptocurrency.
+Take the Next Step to Invest
+Advertiser Disclosure
+×
+The offers that appear in this table are from partnerships from which Investopedia receives compensation.
+Service
+Name
+Description
+Related Terms
+What Is ZCash?
+ZCash is a cryptocurrency with a decentralized blockchain that provides anonymity for its users and their transactions.
+more
+Blockchain Explained
+A guide to help you understand what blockchain is and how it can be used by industries. You've probably encountered a definition like this: “blockchain is a distributed, decentralized, public ledger." But blockchain is easier to understand than it sounds.
+more
+What Is a Blockchain Wallet?
+A blockchain wallet is a digital wallet that enables users to manage the cryptocurrencies bitcoin and ether.
+more
+Cryptocurrency
+A cryptocurrency is a digital or virtual currency that uses cryptography and is difficult to counterfeit because of this security feature.
+more
+Bitcoin
+Bitcoin is a digital or virtual currency created in 2009 that uses peer-to-peer technology to facilitate instant payments. It follows the ideas set out in a whitepaper by the mysterious Satoshi Nakamoto, whose true identity has yet to be verified.
+more
+What is Namecoin?
+Namecoin aims to "[free] DNS, identities, and other technology" related to the infrastructure of the Internet.
+more
+Partner Links
+Related Articles
+Cryptocurrency Strategy & Education
+What Is Zcash?
+Cryptocurrency Strategy & Education
+What Is the Byzantium Hard Fork In Ethereum?
+Bitcoin
+How Does Bitcoin Mining Work?
+Cryptocurrency Strategy & Education
+What Does Government Regulation Mean for Privacy-Focused Cryptocurrencies?
+Bitcoin
+How Bitcoin Works
+Cryptocurrency Strategy & Education
+All About NEM (XEM), the Harvested Cryptocurrency
+About Us
+Terms of Use
+Dictionary
+Editorial Policy
+Advertise
+News
+Privacy Policy
+Contact Us
+Careers
+California Privacy Notice
+#
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Investopedia is part of the Dotdash publishing family.

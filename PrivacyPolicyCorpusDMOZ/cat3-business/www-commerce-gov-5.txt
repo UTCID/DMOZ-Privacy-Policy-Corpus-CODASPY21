@@ -1,0 +1,86 @@
+http://www.commerce.gov/about/policies/source-code
+Skip to main content
+Our mission
+Leadership
+Bureaus and offices
+Strategic plan
+Budget and performance
+History
+Guidance Documents
+Policies
+Accessibility
+Comment policy
+Digital strategy
+IT policy archive
+Information quality
+Open source code
+Plain language
+Privacy policy
+Social media and web 2.0 policy
+Contact us
+Was this page helpful?
+Helpful          Not helpful
+Breadcrumb
+Home
+About
+Policies
+Was this page helpful?
+Helpful          Not helpful
+Open source code
+Background and Purpose
+This Department of Commerce (the Department) Source Code Policy is being issued to promote software code reuse by making custom-developed Federal source code available across the Department and to other Federal agencies. It supports the requirements of OMB Memorandum M-16-21, “Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software". This policy requires agencies to develop plans to release at least 20 percent of new custom-developed source code as Open Source Software (OSS) when commissioning new custom software.
+Objectives
+The objectives of this policy are to:
+Provide guidance to the Department on considerations that must be made prior to acquiring any custom-developed code;
+Require the Department obtain appropriate Government data rights to custom-developed code, including at a minimum, rights to Government-wide reuse and rights to modify the code, and that such custom-developed code be made broadly available across the Federal Government, subject to limited exceptions; and
+Establish requirements for releasing custom-developed source code, including securing the rights necessary to make some custom-developed code releasable to the public as OSS under this policy’s new pilot program.
+Authorities
+National Defense Authorization Act 2015 (FlTARA) (Title VIII, Subtitle D. H.R. 3979);
+Clinger Cohen Act 1996, (USC Title 40 Chapter 113 11301-11303.);
+M-15-14: Management and Oversight of Federal Information Technology, Office of Management. & Budget, Executive Office of the President, June 10, 2015;
+M-16-21: Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software, Office of Management & Budget, Executive Office of the President, August 8, 2016.
+Definitions
+Software: Refers to (i) computer programs that comprise a series of instructions, rules, routines, or statements, regardless of the media in which recorded, that allow or cause a computer to perform a specific operation or series of operations; and (ii) recorded information comprising source code listings, design details, algorithms, processes, flow charts, formulas, and related material that would enable the computer program to be produced, created, or compiled. Software does not include computer databases or computer software documentation.
+Custom-Developed Code: Custom-developed code is code that is first produced in the performance of a Federal contract or is otherwise fully funded by the Federal Government, including code, or segregable portions of code, for which the Government could obtain unlimited rights under Federal Acquisition Regulations (FAR) Pt. 27 and relevant agency FAR Supplements. Custom-developed code also includes code developed by agency employees as part of their official duties. For the purposes of this policy, custom-developed code may include, but is not limited to, code written for software projects, modules, plugins, scripts, middleware, and APIs; it does not, however, include code that is truly exploratory or disposable in nature, such as that written by a developer experimenting with a new language or library.
+Mixed Source Software: A mixed source software solution incorporates both open source and proprietary code.
+Open Source Software (OSS): Software that can be accessed, used, modified, and shared by anyone. OSS is often distributed under licenses that comply with the definition of "Open Source" provided by the Open Source Initiative (https://opensource.org/osd) and/or that meet the definition of "Free Software" provided by the Free Software Foundation.
+Proprietary Software: Software with intellectual property rights that are retained exclusively by a rights holder (e.g., an individual or a company).
+Source Code: Computer commands written in a computer programming language that is meant to be read by people. Generally, source code is a higher level representation of computer commands as they are written by people and, therefore, must be assembled, interpreted, or compiled before a computer can execute the code as a program.
+Scope
+This policy is effective immediately, applies to all projects that commission development of custom software within the Department to include all Operating Units, with the exception of software covered in Section 6 of OMB 16-21, as deemed appropriate by the Department Chief Information Officer. The requirements outlined herein do not apply retroactively (i.e., they do not require that existing custom-developed code be retroactively made available for Government-wide reuse or as OSS).
+Policy
+Ensure appropriate alternatives analysis has been conducted before considering the acquisition of existing commercial solution or a custom-developed solution (build vs. buy vs reuse analysis).
+When commissioning new custom software, at least 20 percent of new custom-developed code must be released as Open Source Software.
+Each Operating Unit must register all new custom source code in the Department Software Code Inventory. This code inventory will be made available to all other Federal agencies through an enterprise code inventory system. This code inventory will also be discoverable at the Federal level through the Federal code inventory Code.gov (https://www.code.gov).
+Source code must include documentation that describes the function, input and output of the module, security, and any other information relevant to its reuse.
+Operating Units must obtain sufficient rights to custom-developed code to fulfill both the Government-wide reuse objectives and the open source release objectives.
+Operating Units must incorporate the Three-Step Software Solutions Analysis as defined in section 3 of OMB M-16-21. 7. Update/correct any policies that automatically treat OSS as noncommercial software.
+Responsibilities
+Program/Project managers must comply with this policy from project inception through completion, including the registering all custom-developed code in the DOC Code Inventory.
+Heads of Operating Units and Office of the Secretary Staff Offices shall ensure compliance with the policy across their entire organization.
+Operating Unit CIOs shall:
+Assist users to determine what code is reusable;
+Collect statistics on compliance with this policy annually; and
+Review and approve exemptions from this policy.
+The Office of Chief Information Officer has responsibility for issuing CIO policy implementing OMB source code policy and establishing and managing the Department’s software code inventory system as well as the interface to the Federal Code.gov system.
+The Office of Acquisition Management (OAM) has responsibility for issuing acquisition policy to ensure contracting officers incorporate language in solicitations and contract documents sufficient to obtain appropriate Government data rights to custom-developed code in compliance with the Open Source Software initiative.
+Exemptions
+Source code developed for National Security Systems (NSS), as defined in 40 U.S.C. § 11103, is exempt from the requirements of this policy. For NSS, agencies shall follow applicable statutes, Executive Orders, directives, and internal agency policies.
+Requests for exemptions from requirements of this policy must explain why compliance is unachievable and be approved in writing by the Department CIO or OU CIO. Exemptions from the policy may be requested when:
+The sharing of the source code is restricted by law or regulation, including-but not limited to-patent or intellectual property law, the Export Asset Regulations, the International Traffic in Arms Regulation, and the Federal laws and regulations governing classified information;
+The sharing of the source code would create identifiable risk to the detriment of national security, confidentiality of Government information, or individual privacy;
+The sharing of the source code would create an identifiable risk to the stability, security, or integrity of the agency's systems or personnel;
+The sharing of the source code would create an identifiable risk to agency mission, programs, or operations; or
+The CIO believes it is in the national interest to exempt sharing the source code.
+For Additional Information:
+Contact:
+Office of IT Policy and Planning
+oitpp@doc.gov
+Issued By:
+Steven I. Cooper
+Chief Information Officer
+Attachment
+Size
+Department of Commerce Open Source Code Policy
+176.58 KB
+Share this page

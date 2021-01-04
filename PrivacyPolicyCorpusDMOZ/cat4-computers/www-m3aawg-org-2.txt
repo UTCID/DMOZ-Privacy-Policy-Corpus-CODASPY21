@@ -1,0 +1,134 @@
+https://www.m3aawg.org/blog/m3aawg-engagement-series-covid-19-tracing-apps-security-privacy-and-efficacy-considerations
+Skip to main content
+Login
+Logout
+About UsWhy M3AAWG?Join Us - MembershipOur MembersOur PartnersLeadershipSenior AdvisorsContact UsAbout Us ResourcesConsumer InformationMeetingsUpcoming MeetingsCall for ProposalsM3AAWG GlossaryTraining VideosKeynotes VideosPast Meeting HighlightsFor the IndustryBest PracticesMultiple LanguagesPublic PolicySupporting DocumentsOutreachInitiativesAwardsFeedback Loop ResourcesM3AAWG ReportsVoice and Telephony SIGABCs for ISPsNewsSocial MediaM3AAWG BlogNews ReleasesM3AAWG in the News
+Member LoginMember LoginRequest a Member ID and PasswordForgot My Password
+Conduct Policy | Privacy Notice
+Home ›
+M3AAWG Blog ›
+M3AAWG Engagement Series: COVID-19 Tracing Apps Security, Privacy and Efficacy Considerations
+Submitted by M3AAWG Content Manager on Sep 10, 2020
+Author: Amy Cadagin, Executive Director of M3AAWG
+In our upcoming Member Engagement webinar series, Stephen Farrell, M3AAWG Senior Technical Advisor, will host a session detailing the state of COVID-19 contact-tracing applications and discuss their security, privacy and efficiency implications. The session will take place on Tuesday, September 15th at 8am PT / 11am ET. Professionals from M3AAWG member companies are welcome to join the session. To register, please visit the M3AAWG Engagement Series site.
+Within M3AAWG, the Data and Identity Protection Committee has undertaken efforts to facilitate knowledge-sharing around contact-tracing applications, understand their data and privacy implications, and develop best practices to support their effectiveness and long-term viability.
+Despite increased attention on contact-tracing amidst the pandemic, the practice has been implemented manually by public health officials in emergency response long before COVID-19. As we work to contain outbreaks, contact-tracing applications are supporting contact tracers in monitoring the health and safety of local environments. Yet, concerns around personal privacy, data security, and potential abuse must be addressed to measure effectiveness of contact-tracing applications.
+Without appropriate security standards in place, user data could be subject to abuse aimed at gathering private information or spreading misinformation, including providing false positives and altering data to induce panic. Currently, many applications lack certificate pinning – which provides an additional layer of secure communication between users and applications – potentially enabling unauthorized parties to access personal health data. Additionally, many applications utilize bluetooth pinging, which could have unreliable signals and inaccurately measure distance between users. These privacy and security concerns, among others, threaten the efficiency of contact-tracing applications and must be addressed to ensure their long-term viability.
+In his session, Stephen will outline the state of contact tracing apps today and the need to carefully consider the privacy and security implications that come with the collection of location and health data. Additionally, he’ll discuss how these considerations go beyond technical aspects and impact adoption, highlighting research from the Testing Apps for COVID Tracing (TACT) project.
+The presentation is open to all M3AAWG member companies and their team members. Please keep in mind that all M3AAWG Member Engagement sessions follow M3AAWG meeting and conduct policy. We look forward to having you in attendance and ask that you register ahead of the session on the M3AAWG Engagement Series site.
+The views expressed in DM3Z are those of the individual authors and do not necessarily reflect M3AAWG policy.
+Subscribe to Blog
+Email address *
+Leave this field blank
+Privacy Note:
+By subscribing to the M3AAWG Blog and giving us your email address you are giving us permission to send you timely emails with newly posted blog updates. If at any time you do not want to receive these notifications, please follow the info about unsubscribing at the bottom of these emails.
+Recent Posts
+Intent, Content, Consent with Shannon Donohue of EZ Texting
+Honoring Mary Litynski: Submit Your Nominations For M3AAWG’s 11th Annual Mary Litynski Award
+Exploring the growing impact of Nonhuman Interactions (NHI) on email send metrics
+M3AAWG’s Milestone 50th Meeting Looks Ahead at Emerging Threats
+Voting in the Age of COVID-19 w. Barbara Simons, Ph.D. (M3AAWG 50 Keynote)
+more
+Blog Categories
+Awards
+(1)
+Cryptography
+(1)
+DDoS
+(1)
+diversity
+(1)
+DMARC
+(1)
+DNS
+(1)
+Elections
+(3)
+GDPR Compliance
+(1)
+IoT
+(2)
+JP-AAWG
+(1)
+keynote
+(1)
+messages
+(1)
+Messaging
+(3)
+Mobile
+(2)
+Quantum Computing
+(2)
+Security
+(1)
+Teleconference
+(1)
+Blog Tags
+Elections
+(4)
+fighting spam
+(2)
+IoT
+(2)
+Awards
+(2)
+Quantum Computing
+(2)
+Mobile
+(2)
+Initiatives
+(1)
+Teleconference
+(1)
+DNS
+(1)
+GDPR
+(1)
+DoH
+(1)
+COVID-19
+(1)
+Phishing
+(1)
+TLS
+(1)
+International Collaboration
+(1)
+Best Practice
+(1)
+JP-AAWG
+(1)
+blocking
+(1)
+Cryptography
+(1)
+malicious
+(1)
+messages
+(1)
+Executive Director
+(1)
+Retirement
+(1)
+LNP
+(1)
+Messaging
+(1)
+Training
+(1)
+Security
+(1)
+Blog Archive
+2020
+(33)
+2019
+(2)
+2013
+(1)
+© Copyright 2018 Messaging, Malware and Mobile Anti-Abuse Working Group ( M3AAWG )
+781 Beach Street, Suite 302, San Francisco, California 94109 U.S.A.
+Contact Us
+Media Contact
+Conduct Policy
+Privacy Notice

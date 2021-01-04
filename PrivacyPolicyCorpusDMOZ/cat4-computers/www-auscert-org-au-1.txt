@@ -1,0 +1,29 @@
+http://www.auscert.org.au/privacy/
+Privacy
+In accordance with Queensland government's information privacy standard, AusCERT has developed this statement to inform you about how we deal with privacy issues concerning the information we collect in the course of performing our duties as a leading Computer Emergency Response Team for Australia.
+What information is collected and how is it used?
+The type of information we collect falls into the following categories:
+Internet connectivity related data
+When you visit the AusCERT web site or communicate with AusCERT servers or Internet infrastructure, we may record certain information in relation to your activity such as:
+your IP or proxy server IP
+basic domain information
+your Internet service provider is sometimes captured depending up on the configuration of your ISP connection
+the date and time of your visit to the web site
+the type and version of the browser you are using
+the operating system which your computer uses
+Internet connectivity related data is used only for statistical and internal management purposes.
+Computer security incident data
+As part of our role as a leading CERT for Australia, we collect and receive reports about computer security incidents affecting Australian based networks. This information is used for two primary reasons:
+to provide the Incident Management Service to members experiencing a computer security incident,
+to identify changing trends and computer attack related activity in general.
+Collection of computer security incident reports is an essential by-product of the Incident Management Service we provide as a leading CERT for Australia. In order to provide this service, sometimes it is necessary for AusCERT to contact other parties in relation to an incident, such as the alleged attacking site, an Internet service provider, an overseas CERT, etc.
+AusCERT will not disclose details of the reporting party in handling an incident unless permission has been granted by the reporting party. Acting on its own discretion, AusCERT will often disclose pertinent details about a reported incident to appropriate third parties for the purposes of providing coordination and handling of that incident. In many cases details about the incident will be sanitised to minimise the amount of information passed about a site which has been affected. In cases where the reporting party is also the affected site, details of the reporting party (affected site) will not be disclosed without permission.
+We also collect information about computer security incidents which are sent to us for information only.
+In order to better inform our members, clients and the public with regard to the nature of computer security threats, AusCERT draws upon the aggregate computer security incident data we hold to assess the likely impact of current or ongoing threats, to identify changing trends and understand the nature of computer attack related activity. Where appropriate we incorporate our analysis of general trends and activity into our Security Bulletin Service and other publications or advice.
+In drawing upon aggregate incident report data in this way, we will not divulge identifying details about any person or organisation from reporting sites.
+Contact details of persons who report computer security incidents
+Contact details of persons who report computer security incidents on behalf of their employer organisation or as individuals in their own right will not be disclosed to third parties, except with the reporting person's consent and then only for the purposes of providing the Incident Management Service in relation to the incident.
+How this Information is Protected
+AusCERT adopts multiple mechanisms (through the use of technologies, policies and procedures) to secure our network and the sensitive and personal information stored on it, or otherwise held in our possession.
+Additionally, for those who wish to send sensitive incident or vulnerability information to AusCERT by electronic mail, we recommend the use of encryption. We have secure communication mechanisms for this purpose.
+AusCERT will not give access to its member mailing list to any third party. AusCERT may, however, inform our members of matters of potential interest to them, which do not specifically relate to the provision of AusCERT's subscription services, but which relates to AusCERT's mission more generally.

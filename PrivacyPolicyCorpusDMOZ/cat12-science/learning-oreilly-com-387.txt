@@ -1,0 +1,31 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch14s03.html#websec2-CHP-14-SECT-3.1.6
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Protecting Your DataThere is a strong overlap between the physical security
+of your computer systems and the privacy and integrity of your data.
+After all, if somebody steals your computer, they probably have your
+data. Unfortunately, there are many attacks on your data that may
+circumvent the physical measures mentioned in earlier sections.This section explores several different types of attacks on data
+and discusses approaches for protecting against these attacks. It
+recapitulates some advice given elsewhere in the book in a slightly
+different manner.EavesdroppingElectronic
+eavesdropping is perhaps the
+most sinister type of data piracy. Even with modest equipment, an
+eavesdropper can make a complete transcript of a victim’s
+actions—every keystroke and every piece of information viewed on a
+screen or sent to a printer. The victim, meanwhile, usually knows
+nothing of the attacker’s presence and blithely goes about his or
+her work, revealing not only sensitive information, but the
+passwords and procedures necessary for obtaining even more
+information.In many cases, you cannot possibly know if you’re being
+monitored. Sometimes you will learn of an eavesdropper’s presence
+when the attacker attempts to make use of the information obtained:
+often you cannot prevent significant damage at that point. With care
+and vigilance, however, you can significantly decrease the risk of
+being monitored.Encryption provides significant protection against eavesdropping. Thus, in many cases, it makes ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

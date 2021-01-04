@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/pt03.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Part III. Web Server SecurityThis part of the book is addressed to people and organizations
+that are operating their own servers that are attached to the Internet.
+The chapters in this part focus on the mechanics of web server
+operation. They are particularly relevant to corporations that operate
+their own web servers, administrators at Internet service providers
+(ISPs), and home users who run their own servers at the end of cable
+modems or DSL lines.Chapter 14 addresses one of
+the most important but frequently overlooked topics—how to protect your
+computer’s physical well-being.Chapter 15 explores security
+having to do with your computer’s operating system.Chapter 16 discusses the
+added security issues that arise when running web servers that can
+execute programs or scripts.Chapter 17 gives
+step-by-step instructions for enabling SSL on the Apache and IIS web
+servers.Chapter 18 broadens the
+security discussion to show how to defend your service against problems
+resulting from your ISP or the Internet’s Domain Name Service
+(DNS).Chapter 19 explores the
+specific legal options available to you after your computer system has
+been broken into, as well as other legal issues of concern to
+administrators.
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

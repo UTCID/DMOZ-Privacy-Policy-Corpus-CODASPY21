@@ -1,0 +1,33 @@
+https://blog.investisdigital.com/the-problem-with-privacy/
+Skip to content
+Quick Links
+Connected Content™
+Careers
+Contact Us
+Connect.ID
+Let’s talk about privacy.
+We’re supposed to be living in a new era of consumer privacy. Thanks to legislation such as GDPR in Europe and CCPA in California, advertisers are supposed to be finally respecting consumers’ personal data. Legislation is supposed to offer advertisers clear-cut, compulsory laws that ensure compliance, resulting in consumers being more empowered than ever to own their own data. In turn, advertisers are supposed to create more engaging content that earns the trust and interest of this newly empowered consumer – put another way, advertisers need to earn the right of the consumer to opt into their content rather than forcing irrelevant messages on them
+Sounds compelling, doesn’t it? But reality is not quite working out that way. Nowhere near. Let’s take a closer look at what’s going on:
+1. “Cookieless” Creates Confusion
+As I wrote last year, legislation such as GDPR and CCPA was intended to protect consumer privacy through a complicated set of requirements that regulate how businesses collect, use, and disclose information about residents in Europe (GDPR) and California, one of the world’s largest economies (CCPA). At the heart of these laws are cookie opt-in requirements, meaning that a business’s website needs to give users a mechanism that requires a deliberate action to opt in, or allow a business to collect non-personally identifiable data about the user.
+But these laws have become a confusing nightmare for businesses. I recently blogged about the case of Vueling Airlines, a Spanish airline that was fined for breaching GDPR laws. Even though the airline got many aspects of cookie management right, Vueling failed to provide a cookie configuration panel that would allow the user to delete them in a granular way. And it’s easy to see why this kind of breach occurred. Take a look at UK Information Commissioner’s Office (ICO) website to get taste of how complicated cookie compliance can be.
+On top of that, compliance laws have been enacted by governing bodies that lack a basic understanding of how technology works. For example, under GDPR, a business is required to record instances of when a user chooses to opt in. But the business is not permitted to log a unique identifier of the user. So it’s literally impossible for a business to properly follow the law because of the contradictory requirements.
+And this is all going to get worse now that the grace period for companies to get compliant with the CCPA ended on July 1. The Office of the California Attorney General didn’t even submit the final proposed regulations under the CCPA until June 1, creating more confusion only 30 days away from the end of the grace period.
+2. Does Privacy Mean Better?
+Privacy laws have amplified a tension inherent with consumer privacy:
+To create personalized, engaging content, a business needs to know something about a person.
+A business cannot know anything about a person unless that individual volunteers something about themselves.
+GDPR and CCPA legislation make it harder for a person to opt in, which is the crucial step needed for someone to volunteer information. People who want to opt in have a harder time doing so, making them less likely to want to visit a site at all. That’s because legislation has required businesses to build too many barriers to opting in.
+As a result, legislation is making it nearly impossible for affected businesses to offer more engaging and personalized content, which hurts the online experience.
+In fact, we’re seeing businesses lose as much as 50 percent of their website traffic thanks to these exacting measures. It’s just too hard for a consumer to even visit a site affected by increased privacy legislation – which is bad for everyone.
+3. An Erosion of the Ecosystem
+Advertisers online don’t exist in a vacuum. To build relationships with people, they need to cooperate with advertising giants such as Amazon, Facebook, and Google. But privacy legislation is straining these ecosystems to the breaking point. Advertisers know that Google monetizes customer data. And advertisers are not sure if they can trust Google to use their customer data in a way that is compliant with legislation. A slip-up by Google could also result in an advertiser being fined.
+This erosion of trust is bad for the entire ecosystem. It’s one thing for an advertiser to want to hold Amazon, Facebook, and Google accountable. But how can they do so amid a confusing patchwork of laws?
+How to Look at the Problem
+Here’s a convenient way of looking at how business interests and privacy laws are at odds:
+What Businesses Do Not WantWhat Businesses WantThird parties (such as Google) accessing their dataTo be compliant with moving target of privacy regulations which are being updated regularlyThird parties (such as Google) using the client’s data for their own benefitTheir data siloed and away from prying eyesThird parties (such as Facebook) cross-referencing the client’s data with other data to create a profile of the site visitorTheir data processed only for the intended purpose and not going beyond this purposeTheir data being sold and monetizedA full understanding of how their website is performing, not being limited site visitors needing to consent to cookiesLegal risk of the client’s site visitors making claims against them for how data is processedTo know what companies are looking at their website, instead of just looking at a metric
+Unfortunately, reconciling what businesses want and do not want is impossible as legislation evolves, and the tension is only going to get worse with forthcoming privacy legislation on the way around the world:
+As the industry continues down this path of contradictory laws and confusing requirements, advertisers need help. At Investis Digital, we’re already working with many businesses to help them navigate privacy laws to ensure compliance while at the same time figuring out how to still create engaging and relevant content. Yes, it’s possible – but not easy. In coming weeks, I’ll provide more insight about this issue.
+Contact Investis Digital
+Contact us for more information on how we can help. And watch our blog for more insight on how we’re helping.
+Share this article

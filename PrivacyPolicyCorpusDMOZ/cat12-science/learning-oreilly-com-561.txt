@@ -1,0 +1,24 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch20s03.html#websec2-CHP-20-SECT-3.4
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Controlling Access with Microsoft IISMicrosoft’s
+Internet Information Services (IIS) is a web service
+that is shipped as part of the Windows NT 4, 2000, and XP operating
+systems. It is a full-featured web server that does just about
+anything that you could possibly want (other than run on Unix, that
+is).Installing IISTo install IIS, follow these steps:Open the “Add/Remove Programs” control panel.Select “Add/Remove Windows Components.”Check “Internet Information Services.”Click “Next.”IIS installs the following directories on your system:\InetpubRoot directory for your web server\Inetpub\wwwrootRoot document directory for the web server\systemroot\Help\iisHelpHelp files\systemroot\system32\inetsrvProgram filesThe directories containing user content will remain on your
+system after you completely uninstall IIS.WarningAs soon as you install IIS, be sure that you go to the
+Microsoft Windows Update web site and download all relevant
+patches for IIS before you start the server. If possible, download
+the patches from behind a firewall. If you fail to install the IIS
+patches, your Windows server will almost certainly be broken into
+and compromised. This is true even if you are behind a corporate
+firewall or are otherwise “protected.”Downloading and Installing the IIS PatchesTo install the patches, follow these steps:Log into your Windows system using an account that has
+Administrator access.Using Microsoft’s Internet Explorer, open the URL
+http://windowsupdate.microsoft.com/. On most ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

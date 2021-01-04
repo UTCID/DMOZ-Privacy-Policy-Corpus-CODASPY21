@@ -1,0 +1,83 @@
+http://www.timj.co.uk/category/it-politics-policy/
+Tim Jackson
+Archive for the ‘IT politics & policy’ Category
+« Older Entries
+Questioning the Google wi-fi privacy furore
+Wednesday, May 26th, 2010
+Over the past couple of weeks there’s been a lot written about Google’s apparently unintentional capture of small amounts of wi-fi data (admitted by Google) whilst driving Street View cars around. I find this interesting not so much because of the actual issue itself, but because it highlights several key underlying issues:
+people’s understanding of the technology they use – even at a high level
+the general use of encryption, or lack of it
+the apparent conflation of many issues under the banner of “privacy”
+Essentially, Google were apparently capturing unique identifiers from wi-fi networks together with geographical data about where they were. (Presumably interesting as another – somewhat more ad-hoc than GPS – method of establishing physical location and which seems to be me to be uncontroversial). The point of the story was that whilst doing this they apparently accidentally left in some test code that captured a bit more than just network identifiers, and stored some actual network traffic too.
+The technology, and people’s understanding of it
+I find it interesting that so many commentators find this story so horrifying. The data captured was being broadcast openly on the radio! Google just happened to be driving past and apparently got some tiny snippets. Anyone, possibly with ill-intent, could sit out in the street and capture the same data, not just for a matter of seconds but for hours or even days. That’s the nature of wi-fi; if you’re not comfortable with that idea, then in simple terms – don’t use wi-fi. If you start from the assumption that someone’s capturing all the data you’re broadcasting, suddenly the fact that Google has a few bits of it doesn’t seem so exciting.
+(I’m not saying it’s right or good to sit recording other people’s wi-fi – but it is ultimately being broadcast in public)
+Encryption
+What has largely been overlooked, is the importance then of using encryption more widely. Strong encryption implies that if someone captures the data, it’s scrambled – and thus decrypting it would be difficult or impossible. In this case, there are at least two potential protections offered against random people packet-grabbing wi-fi data:
+encryption in the wi-fi protocol itself; typically WEP or WPA. Now, unfortunately, WEP has long been regarded as breakable. WPA configured properly is considered by most to give a relatively high level of security, at least against casual packet-sniffing
+encryption of data itself, whilst it’s in transit over wi-fi.
+The second is more interesting and arguably important, because with encryption at the higher level, even if you’re using unencrypted wi-fi, or wi-fi provided by a nefarious operator (who could capture even WPA-encrypted data at the wireless router) then you’re still protected. SSL/TLS (known by many users by a “browser padlock” when visiting websites) is far from new, but unfortunately there are plenty of major websites and services out there still not offering it, let alone the myriad of smaller websites that still gather personal data in one form or another. By way of pertinent example, it’s only this week – coincidentally or otherwise – that Google introduced an SSL option to their main search site – and the secured option doesn’t include all types of search at present. To my mind, that is more of a scandal than the fact some poor engineer left a couple of lines of debugging/testing code that resulted in some Google cars grabbing some probably tiny and irrelevant fragments of data that they probably don’t want anyway.
+“Privacy” and the conflation of issues
+There are huge challenges in how we manage growing amounts of personal data (created by ourselves, or others) scattered around an increasing number of online spaces with effectively unlimited storage and a plethora services to allow you share that data more or less selectively, with others. Discussions about these will probably form an important part of shaping the further development of online applications over the coming years, especially with developments such as Google’s Chrome OS, which is a bit like the 21st century version of 1970’s dumb terminals, where your laptop is just an interface to applications and data served centrally – in this case over the Internet. It’s not hard to see the concerns raised by effectively moving data that would otherwise be on your private computer to servers hosted by large concerns, mixed up with the data of millions of other people, with only software – written by fallible humans – to keep them apart and manage that data – and who it’s shared with – correctly. Of course, there’s implicit trust in all the software you use all the time, but the sheer scale if nothing else of services hosted by the likes of Google makes for some legitimate questions such as – how, given inevitable software bugs or errors, can you at least confine lapses which expose private data to have the least possible impact. (Note also that some of these concerns are probably better categorised as “security” rather than “privacy”)
+However, there seems to be a lack of understanding of the detail here. The BBC’s Rory Cellan-Jones seems to conflate this with general issues of online privacy by suggesting to Google’s founders, whilst discussing the wi-fi captures, that “…the privacy issue was something of a crisis for the whole internet industry” and seems surprised at the suggestion that he is creating “hyperbole”. Charles Arthur at the Guardian does a similar thing, linking it to more general discussions about privacy, and Stephen Conroy, the Australian Communications Minister has called it, apparently without irony, “the largest privacy breach in history across Western democracies“. (This is coming from the authoritarian Australian government, who want country-wide Internet censorship and to sniff around for adult material on laptops just because someone happens to be crossing customs, so perhaps they’re not the best judges).
+But Google grabbing wi-fi data is quite different as an issue to the challenges I mention above, and simplistically linking them under some grand “privacy” banner doesn’t help anyone in terms of understanding what the challenges are, how they can be addressed, and who the good guys and bad guys are. I don’t generally think that “Who was harmed? Name the person.” is a particularly good argument when defending oneself against alleged privacy violations, but in this case I have some degree of sympathy for Eric Schmidt.
+Posted in IT politics & policy |
+No Comments »
+ID cards consultation response
+Wednesday, January 29th, 2003
+The UK Government recently undertook a consultation on “entitlement” cards – another term for identity cards. Whilst I’m very aware of the issues of identity fraud and other problems which ID card proposals purport to reduce, I have misgivings about whether they will actually help, and serious concerns over personal privacy implications.
+My response, submitted to the Home Office, is below:
+I am aware of the Government’s consultation on the possibility of introducing some kind of identity or “entitlement” card to the UK.
+For the purposes of aggregation of for/against responses, I am against such a move.
+Nevertheless, I would like to provide some more constructive and granular feedback than a simple yes/no response. Whilst resources limit the time I am able to devote to this topic, and therefore this response is less substantial than would be ideal, I would like to make the following observations which cover a number of points raised in the consultation:
+The potential for abuse of such a system is worrying. Whilst I have no doubt that the strict security procedures and processes mentioned in the consultation would be implemented, the practical reality is that centralising such a large amount of data, and introducing complex links with a variety of services employing a large number of people creates a substantial risk of abuse, not only by those involved in administering and using such a system, but by police and other bodies. In particular, when combined with recent legislation such as the Regulation of Investigatory Powers Act, I can only conclude that such a system will open up new possibilities for widespread intrusion of privacy, albeit by a perhaps limited number of people. As an engineer by training and someone involved heavily in IT and database systems, I certainly appreciate the elegance and efficiency which centralised and rationalised data storage can bring, but in public systems (such as that which would be required for an identity card), the technological idealism and search for efficient delivery of services has to be balanced against the privacy and other risks to society. In this case, I am of the opinion that a system of the kind proposed may very well dangerously undermine some of the inherent safeguards in a somewhat decentralised system; primarily that the administrative burden to correlate disparate data naturally limits the potential scale of widespread surveillance and/or abuse of private information.
+Whilst acknowledging that there is evidence that “identity fraud” is on the increase, I am not convinced that an identity card scheme will help to significantly reduce the incidence of such fraud. Whilst it may provide some benefits, I feel these may be offset by the fact that a universal identity card will provide a “high value” target for fraudsters. History shows that the higher the potential gains from forgeries and suchlike, the more resources that potential fraudsters will invest in circumventing the security provided by a system. Although a single centralised database certainly provides some benefits in this respect, only with a compulsory card and the introduction of biometric data would there be, I believe, a significant increase in the difficulty of committing identity fraud – but I do not believe that a system encompassing these features which will be acceptable to members of society at large is likely to be available in the foreseeable future.
+Similarly, I am not convinced of the implicit assumption in the consultation that an identity card will necessarily reduce the incidence of illegal immigration or work. A “black market” for illegal workers is likely to always exist.
+As correctly identified in the consultation, the risks involved in such a large-scale IT project would be significant. Past evidence of very large public/private sector IT projects shows that such projects tend to be under-estimated and may spiral out of control. With costs already estimated at £1.5bn, this is by all means an extremely large project, and I would voice a significant concern that the true end cost in purely financial terms may be much higher.
+If it were to be decided that introduction of an identity card was mandated, I would strongly prefer a “voluntary” rather than “compulsory” card (as defined in the consultation).
+The concepts discussed in the paper seem to follow very much “traditional” thinking on identity cards, whereas perhaps what is required here is some fresh thinking and new concepts. For example, whilst I don’t offer this by any means as a proposal (simply “food for thought”), how about a large-scale *decentralised* system, the fundamental concept of which would follow the lines of the PKI (public key infrastructure) trust/identity assurance system in use on parts of the Internet and other networks? The building of a nationwide, offline, optional, decentralised yet secure system where ‘networks’ or ‘webs’ of trust could be created would certainly be without precedent in the world and might easily be dismissed as “out of the question”, but perhaps in fact this is the kind of system which, with suitable planning (the enormity of which I do not underestimate) might actually enable some of the goals sought by an identity card system to be achieved, without introducing the centralisation and possibilities for abuse that “traditional” identity card systems may bring.
+I sincerely hope that you will take account of these views/opinions, and
+find them useful as part of the consultation process.
+Tim Jackson
+Posted in Digital rights, ID cards, IT politics & policy |
+No Comments »
+« Older Entries
+You are currently browsing the archives for the IT politics & policy category.
+PagesAbout
+Computing
+Computing/IT politics & policy
+Exim
+Software projects
+SpamAssassin
+Music
+Archives
+N.B. I started this as a blog in April 2010; older entries are some pages I migrated in from my old site
+April 2018
+April 2015
+August 2014
+October 2013
+July 2013
+July 2012
+February 2012
+November 2011
+September 2011
+April 2011
+June 2010
+May 2010
+April 2010
+December 2005
+September 2004
+August 2004
+January 2003
+March 2002
+Categories Digital rights (2)
+Exim (1)
+Fedora (3)
+ID cards (1)
+IT politics & policy (3)
+Linux (8)
+PHP and web development (7)
+Uncategorised (3)
+Search for:
+©2001-2018 Tim Jackson (tim@timj.co.uk)
+Powered by WordPress

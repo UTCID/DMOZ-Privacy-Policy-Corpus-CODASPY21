@@ -1,0 +1,44 @@
+http://classics.mit.edu/infopolicy.html
+Home
+Browse andComment
+Search
+Buy Books andCD-ROMs
+Help
+Information and Privacy
+Policy
+The Internet Classics Archive is committed to
+preserving the privacy and security of its visitors. Information about
+visitors will not be sold or provided to any third party. Visitor
+information is collected only to enhance the experience of the visitor
+and subsequent visitors. To that end, the following information is
+collected by the Internet Classics Archive:
+server access log
+For every page, script, and image access, an entry is recorded
+in the server access log file. The access log is used only for internal
+purposes, such as identifying malfunctioning parts of the site,
+streamlining the site to better react to visitor behavior, and
+determining the frequency of use of various parts of the
+site. Occasionally, the access log records may be used to identify
+visitors who abuse the site (especially the commentary area);
+specifically, the information is used to identify the visitor's host
+and Internet service provider in order to send a complaint. Each
+access log entry includes time and date information, the requested and
+referring URL, the visitor's browser (name, version, and platform),
+and the visitor's host IP address. For example (the IP address has
+been x'ed out):
+xxx.xxx.xxx.xxx - - [03/Jun/1998:02:44:53 -0400] "GET /Xenophon/xen.anab.html HTTP/1.0" 200 6993 "http://classics.mit.edu/Browse/browse-Xenophon.html" "Mozilla/4.04 (Macintosh; I; PPC)"
+server error log
+Every time a visitor encounters an error on the site, an
+entry is recorded in an error log much like the server access log. The
+error log is carefully scrutinized to determine any mistakes in the
+archive. Occasionally, log entries may be correlated with errors
+reported over e-mail to more fully determine the cause of an
+error. The error log entry includes time and date information and data
+about the error, which could include a requested URL and/or the
+visitor's IP address. For example (the IP address has been x'ed out):
+[Wed Jun
+3 18:23:16 1998] [error] Directory index forbidden by rule: /var/classics.mit.edu/htdocs/Hesiod/
+and
+[Wed Jun
+3 18:23:37 1998] [warn] (32)Broken pipe: xxx.xxx.xxx.xxx client stopped connection before send mmap completed
+© 1994-2009

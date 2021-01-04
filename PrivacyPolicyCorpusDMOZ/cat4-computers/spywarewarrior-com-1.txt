@@ -1,0 +1,434 @@
+http://spywarewarrior.com/sww-help.htm
+The Spyware
+Warrior Guide to
+Getting Help w/
+Spyware:
+Tips &
+Suggestions
+On this page...
+If
+Your PC is  Infested w/ Spyware & Adware...
+Protecting
+Your PC...
+Questions & Contact
+Other pages
+of interest...
+Rogue/Suspect Anti-Spyware
+Pages
+Anti-Spyware
+Programs: Feature Comparison
+Anti-Spyware Testing
+(by Eric L. Howes)
+Spyware Warrior Blog
+Spyware Warrior Forums
+Spyware
+Warrior Home
+Return
+to top
+If Your PC is
+Infested w/ Spyware & Adware...
+If your PC is already infested with spyware and adware, you can get help
+in the Spyware Warrior
+forums from a corps of savvy
+volunteers who specialize in busting spyware.
+To get help with a spyware infestation:
+1.
+Clean your PC as best you can
+Download and run one (or all) of these free anti-spyware scanners
+and remove whatever spyware and adware it finds.
+Ad-aware
+Personal Edition
+AVG
+Anti-Spyware
+Windows Defender
+Spybot Search & Destroy
+SUPERAntiSpyware
+You should also scan and clean your computer with whatever
+anti-virus program you happen to have installed on your computer. If you don't have an anti-virus program, you can
+scan your computer
+with one of these online anti-virus scanners:
+BitDefender
+ScanOnline
+Microsoft
+Malicious Software Removal Tool
+ewido
+online scan
+Command
+on Demand
+Panda ActiveScan
+Trend
+Micro Anti-Spyware for the Web
+eTrust
+AntiVirus Web Scanner
+Trend
+Micro HouseCall (ActiveX)
+McAfee
+FreeScan
+Trend
+Micro HouseCall (Java)
+...
+or download and run one of these free standalone virus removal tools:
+avast! Virus Cleaner
+Microsoft
+Malicious Software Removal Tool
+Dr.Web CureIt!
+AVG
+vcleaner
+Panda
+PQRemove
+McAfee
+AVERT Stinger
+Sophos
+SAV32CLI
+2.
+Register in the Spyware Warrior forums
+Once you've cleaned your PC as best you can, you can visit the Spyware
+Warrior "HijackThis
+Log" forum. This forum is staffed by expert
+volunteers who specialize in helping users who are battling spyware and
+adware problems.
+Before you request help in the Spyware Warrior forums,
+you'll need to register
+(which is free). Click the "Register"
+link in the upper right hand corner of the forum page.
+3.
+Download & run HijackThis!
+Once you've registered you can post a HijackThis! log to the "HijackThis
+Log" forum. HijackThis! (HJT) is a free program that will scan key system
+settings on your PC and generate a plain text log that you can copy and
+paste into a post. The volunteers at Spyware Warrior will examine that
+HijackThis! log and recommend a course of action to fix your PC.
+Before you download HijackThis!, create a special folder on your
+hard drive for it. Then download HijackThis! from HERE
+or HERE to
+the folder you created. Once
+HijackThis! is downloaded to your special folder, double-click on it to run
+the program.
+In the main program window hit the "Scan" button.
+HijackThis! will scan key settings on your PC and generate a list of
+results, as pictured below:
+HijackThis! scan results
+Once HijackThis! has finished scanning, hit the "Save log"
+button (which replaces the "Scan" button). HijackThis!
+will prompt you for a location to save a plain text log file of its scan
+results. It will also open that plain text log in Windows Notepad. From
+within Notepad you can copy and paste the complete the complete
+HijackThis! log into a post at Spyware Warrior, as explained below.
+If you encounter any problems running HijackThis! or generating a log
+file, post your question in the "HijackThis
+Log"
+forum.
+Warning: Do not attempt to use
+HijackThis!
+on your own to fix problems. Let one of the expert volunteers examine
+your HJT log and advise you on what to fix.
+4.
+Post your HijackThis! log
+In order to help you clean your system, the volunteers at Spyware
+Warrior need a good sense for what's going on with your
+computer. When you're ready to post and request help...
+Start a new discussion topic/thread in the "HijackThis
+Log" forum.
+Give your discussion topic/thread a distinctive title.
+Describe the symptoms and problems you're experiencing.
+Describe what you've already done to solve the problem.
+Copy and paste your HJT log into your post.
+Be patient while waiting for a response.
+The volunteer spyware busters who work at Spyware Warrior do
+this kind of thing all day long, so you'll be in good hands. At times
+they can be a bit overwhelmed, so please be patient while waiting for
+help.
+If the volunteers at Spyware Warrior appear to be too busy, you can
+try posting your HJT log to one of these other spyware removal forums:
+SpywareInfo
+Geeks To Go
+Aumha
+Spybot S&D
+Bleeping Computer
+SpywareBeware
+SpywareHammer
+Tech
+Support Guy
+Cexx.org
+TomCoyote
+5.
+Follow removal instructions precisely
+Once a volunteer does give you advice for cleaning your PC, follow
+those instructions precisely and report back what the results are. Also,
+you may be asked to download and run other specialized anti-spyware tools to
+remove the particular spyware that's on your computer.
+Once your PC has been cleaned, be sure to take
+steps to prevent
+it from being overrun with spyware adware again.
+Return
+to top
+Protecting Your PC...
+Once you've cleaned your system of unwanted spyware and adware, you
+should take steps to defend your PC and prevent it from bring overrun
+again. What follows are basic suggestions for protecting your PC from
+spyware and adware.
+1.
+Install an anti-spyware scanner (or two)
+All PCs should have at least one dedicated anti-spyware scanner. An
+anti-spyware scanner works much like a anti-virus program (such as Norton
+AntiVirus or McAfee VirusScan), except that it scans for spyware and
+adware instead of viruses, trojans, and worms.
+Although major anti-virus vendors such as McAfee, Symantec, and Trend
+Micro have been adding spyware and adware detection to their products,
+none of these anti-virus programs can be relied upon to provide good
+anti-spyware protection.
+At present we recommend the following anti-spyware scanners:
+Ad-aware
+AVG
+Anti-Spyware
+Pest Patrol
+Spy Sweeper
+Spyware
+Doctor
+SUPERAntiSpyware
+Windows Defender
+Note to Vendors: please do not email me and
+request to be added to the above list of "recommended" products. This
+list of "recommended" products is based on extensive experience with the
+listed products and is not a list to which one can apply for admission.
+Disclaimer: the
+maintainers of Spyware Warrior have enjoyed consulting relationships with
+Sunbelt Software, makers of the
+CounterSpy anti-spyware application. Given that relationship and the
+inherent conflict of interest it represents, we refrain from recommending
+CounterSpy. Spyware Warrior has no financial relationship with any of
+the companies whose products are listed or recommended above. We are not employees, affiliates, representatives, or
+other agents of any of these companies.
+In addition, there are
+other "freeware" scanners that you may
+find useful:
+Spybot Search & Destroy
+You should not rely exclusively on this short list of
+recommendations, however. Rather, you should
+investigate and test
+a range of reputable
+anti-spyware programs to find the programs that are best
+suited to your own privacy and security needs. See this comparative
+feature guide for information on a dozen of the most reputable
+anti-spyware programs on the Net.
+Moreover, we recommend that you install and use at least two
+anti-spyware scanners because, unfortunately, no single anti-spyware
+program detects and removes 100
+percent of the spyware and adware on the Net. For more information see
+the anti-spyware
+testing reported elsewhere on this site.
+Anti-Spyware for the Mac
+We're starting to get more and more questions from Mac users about
+anti-spyware. At this time, the only anti-spyware program that we know of
+for the Mac is:
+MacScan
+Anti-Virus & Firewall ApplicationsIn the past year,
+several anti-virus, anti-malware, and personal firewall applications have incorporated
+robust anti-spyware detection and removal. These programs include:
+Agnitum Outpost Firewall Pro
+F-Secure Anti-Virus &
+Internet Security
+Kasperksy Anti-Virus &
+Security Suite
+Norton Anti-Virus &
+Internet Security
+NOD32
+Panda Titanium &
+Platinum
+Trend Micro PC-cillin
+ZoneAlarm Pro &
+Security Suite
+Although these anti-virus and personal firewall products may offer some
+protection against spyware and adware, we still recommend that users not
+rely exclusively on one of these products in lieu of a dedicated
+anti-spyware product, such as those listed
+earlier on this page.Disclaimer: the
+maintainers of Spyware Warrior have enjoyed consulting relationships with
+Sunbelt Software, makers of the
+CounterSpy anti-spyware application. Given that relationship and the
+inherent conflict of interest it represents, we refrain from recommending
+CounterSpy. Spyware Warrior has no financial relationship with any of
+the companies whose products are listed or recommended above. We are not employees, affiliates, representatives, or
+other agents of any of these companies.
+2.
+Install anti-malware protection
+Basic Free Protection
+Scanning for spyware and adware isn't enough to protect your PC. You
+also need to take preventative steps to ensure that unwanted software
+doesn't come back. One effective way to prevent spyware and adware from
+returning is to install an anti-spyware prevention program such as:
+SpywareBlaster
+SpywareGuard
+SpywareBlaster and SpywareGuard are excellent, free programs from
+JavaCool. I recommend installing and using both, as they protect your
+computer in different ways. SpywareBlaster "inoculates" your
+Internet Explorer browser against the installation of unwanted spyware
+and adware from the internet. SpywareGuard actively monitors your PC and
+prevents spyware infestations. Both are easy to install and update.
+Advanced HIPS & Rootkit Protection
+In the past few years a new generation of anti-malware protection
+products has emerged. This new type of anti-malware protection, called
+HIPS (Host Intrusion Protection System), works at the kernel level to
+intercept malware before it hits your hard drive and infects the system.
+Although this technology is still maturing, a HIPS defense may be worth
+looking into for some users. For a run-down of the latest HIPS
+applications, see this discussion on the Spyware Warrior forums:
+Sandbox,
+HIPS, Virtualization, & System Hardening Apps
+Advanced users may also be interested in the broadening array of
+anti-rootkit programs that are available:
+Rootkit
+Info & Detection Apps
+Please keep in mind the HIPS and anti-rootkit applications are both
+emerging technologies that may not be appropriate for home users who
+aren't technically savvy.
+3.
+Lock down your browser
+One of the most prevalent means for spyware and adware to be
+installed is through Internet Explorer. To prevent spyware and adware
+from installing without your knowledge and permission, you need to
+"lock down" Internet Explorer. There are several ways to do
+this.
+Securely configure the Internet zone
+First, you can securely configure the Internet zone of Internet
+Explorer and add sites that you trust to the Trusted sites zone. This
+means that by default web sites will not be able to use "active
+content" (i.e., ActiveX controls, Java applets, and scripting)
+until you explicitly choose to trust those web sites.
+Internet zone Security Settings
+See this page for
+instructions on how to securely configure Internet Explorer:
+Internet Explorer Privacy & Security Settings
+By turns, you could also use this free program, which will
+automatically configure Internet Explorer for you:
+Enough
+is Enough!
+One potential downside to securely configuring the Internet zone is
+that some web sites will not work properly until you add them to the
+Trusted sites zone -- a process that some users find cumbersome.
+Add bad sites to the Restricted sites zone
+Second, you can use another approach to "locking down" Internet
+Explorer which avoids the hassle of broken web sites by adding known
+"nasty" sites to the Restricted sites zone.
+Doing so gives
+your PC protection against known threats while still allowing most web
+sites to work by default.
+To put the clamp down on a long list of
+undesirable web sites, you can install and use this free Restricted
+sites list:
+IE-SPYAD
+IE-SPYAD is simple to use and won't slow down your system
+because it doesn't run in the background -- it simply configures
+Internet Explorer more securely.
+If you choose to use the Restricted sites approach of IE-SPYAD, be
+sure to update your copy of IE-SPYAD regularly, as new web sites are
+constantly being added to the list.
+Internet Explorer Restricted sites
+4.
+Use an alternative browser
+Internet Explorer is not only the most popular browser on the Net, it
+is also the browser most widely and easily exploited by spyware pushers
+to install spyware and adware behind users' backs. Thus, you might
+decide that Internet Explorer is simply not worth the hassle or risk. In
+that case, you can install and run an alternative, non-IE browser such
+as:
+Mozilla
+Firefox
+Opera
+All three of these browsers are mature, robust, and fast. Moreover,
+they have built-in pop-up blocking and several other nice features that
+Internet Explorer simply lacks. More importantly, all three of these
+browsers are much less susceptible to unwanted adware and spyware
+installations. And all three are free.
+Note: even if you do switch to an alternative browser, you
+should still lock down Internet Explorer, as described above. Given that
+Internet Explorer has effectively been integrated into Windows, it can
+still be exploited by adware and spyware that gets installed to your
+system through other means. Thus, locking down Internet Explorer remains
+important even if you're not regularly using Internet Explorer to browse
+the internet.
+5.
+Keep your system safe & secure with Windows Update
+To prevent unwanted spyware and adware from being installed behind your back, you need to install all the latest
+"Critical Updates" from Microsoft. Doing so is easier than you might think.
+Microsoft has an entire Windows
+Update site devoted to automatically updating users' systems with all the latest fixes and patches for a wide range of Microsoft software, including Windows, Office (Word, Excel, PowerPoint, Access), and Internet Explorer.
+We strongly urge you to take your system past the Windows Update site and let that site download and install the appropriate fixes for your computer. Doing so just might save you some grief and headaches down the road:
+Windows Update
+http://windowsupdate.microsoft.com/
+Much of the update process at Windows Update is automated, so it's
+simple and convenient. The Windows Update site will install a small program to analyze the software on your system and recommend the appropriate fixes. This process takes only a few minutes.
+Once Windows Update has finished analyzing your system, you'll be presented with a menu of downloads that Windows Update deems appropriate for your computer.
+Windows Update: Review and install
+selected updates
+At a minimum
+you should let Windows Update install the fixes marked as "Critical Updates." The other available updates
+("Recommended Updates," "Driver Updates") are optional.
+Check the boxes for the updates that you wish to install
+("Critical Updates" are checked by default). Then click the appropriate button to start the download and installation process. You'll be shown a summary of the updates that you've selected, and then you'll presented with a "License Agreement." After you click through the "License Agreement," the download and intallation process will start.
+Since the entire download and installation process is automated,
+there's almost nothing for you to do except reboot the computer after all the updates have been installed.
+6.
+Read Licenses & Privacy Policies
+Anti-spyware applications alone can't protect you entirely from
+unwanted spyware and adware. You have to do your part as well by being
+vigilant in your online behavior.
+One of the more common sources for spyware and adware is
+"freeware" (e.g., Grokster or KaZaA) that bundles unwanted third-party applications.
+Another common source involves third-party web sites that automatically
+start the installation of spyware and adware when you visit those sites.
+These auto-installed spyware and adware programs may initially appear
+to be plug-ins necessary for the web site itself, though usually they
+are not.
+Wherever you happen to encounter spyware and adware, you will usually
+be presented with a EULA (End User License Agreement) and/or Privacy Policy.
+Example End User License Agreement
+Do not blindly click through these documents. Read them carefully and
+look for the tell-tale language that discloses the presence of adware or
+spyware. For tips on what to look for, see these pages:
+DSLReports.com
+- EULAs & Privacy Policies
+The
+Problem with Privacy Policies
+Ben
+Edelman - Grokster and Claria Take Licenses to New Lows
+Ben
+Edelman - Gator's EULA Gone Bad
+EULAlyzer (free
+EULA parsing/analysis
+tool)
+Most if not all of the "adware-supported" or
+"advertising-supported" applications on the Net have adware-free
+equivalents. There's simply no need to use advertising-supported
+applications. If you're looking for truly free software
+without any unwanted surprises, see the following sites:
+CleanSoftware.org
+OldVersion.com
+FreeWindows.dk
+The
+OpenCD
+GNUWin
+II
+The
+OSSWin Project
+Moochers
+Other Anti-Spyware Tools
+There is a wealth of specialized anti-spyware tools on the Net, many
+free for the taking. For a more complete list of anti-spyware products, see:
+Spyware/Adware/Hijackware
+Tools
+Return
+to top
+Questions &
+Contact
+If you have questions or comments about any of the information
+presented on this page, please don't hesitate to get in touch.
+Best regards,
+SpywareWarrior.com
+Return
+to top
+This page is maintained by
+This page last updated: Aug.
+5, 2006
+© Copyright 2004-2006
+SpywareWarrior.com

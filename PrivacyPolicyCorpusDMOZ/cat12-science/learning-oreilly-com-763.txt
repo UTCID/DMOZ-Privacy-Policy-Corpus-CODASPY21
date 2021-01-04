@@ -1,0 +1,36 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/apds02.html#websec2-APP-D-SECT-2.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+PICS LabelsThe PICS label specification defines the syntax for document
+labels. Labels can be obtained over the Web from a search service
+using an HTTP extension defined in the PICS standard. Alternatively,
+labels can be automatically included with a document, as part of the
+document’s header.Here is a PICS label that ranks a URL using the service
+described in the previous section:(PICS-1.0 "http://moviescale.org/v1.0"
+labels
+on "2002.6.01T00:01-0500"
+until "2002.12.31T23:59-0500"
+for "http://www.missionimpossible.com/"
+by "Simson L. Garfinkel"
+ratings (r 0))This label describes the web site for the Paramount movie
+Mission: Impossible using the fictitious labeling
+service described in the previous section. The label was created on
+June 1, 2002, and is valid until December 31, 2002. The label is for
+information stored at the URL
+>http://www.missionimpossible.com/. The label
+was written by Simson L. Garfinkel. Finally, the label gives the
+rating “(r 0).”Although the movie Mission: Impossible had
+a rating of “R,” the web site has a rating of “G.” (The value “G” is
+transmitted with 0 using the
+http://moviescale.org/v1.0 rating
+service.)Ratings may include more than one transmitted value. For
+example, if a rating service defined two scales, a label rating might
+look like this: “(r 3 n 4).”Labels can be substantially compressed by removing nearly all
+information except the ratings themselves. For example, the previous
+label could be transmitted like this:(PICS-1.0 "http://moviescale.org/v1.0" ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

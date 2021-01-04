@@ -1,0 +1,22 @@
+http://www.beagooddad.com/privacy-policy/
+Warning:
+Use of undefined constant ddsg_language - assumed 'ddsg_language' (this will throw an Error in a future version of PHP) in /nfs/c01/h01/mnt/35705/domains/beagooddad.com/html/wp-content/plugins/sitemap-generator/sitemap-generator.php on line 44
+Warning:
+Declaration of thesis_comment::start_lvl(&$output, $depth, $args) should be compatible with Walker::start_lvl(&$output, $depth = 0, $args = Array) in /nfs/c01/h01/mnt/35705/domains/beagooddad.com/html/wp-content/themes/thesis_17/lib/classes/comments.php on line 0
+Warning:
+Declaration of thesis_comment::end_lvl(&$output, $depth, $args) should be compatible with Walker::end_lvl(&$output, $depth = 0, $args = Array) in /nfs/c01/h01/mnt/35705/domains/beagooddad.com/html/wp-content/themes/thesis_17/lib/classes/comments.php on line 0
+Warning:
+Declaration of thesis_comment::start_el(&$output, $comment, $depth, $args) should be compatible with Walker::start_el(&$output, $object, $depth = 0, $args = Array, $current_object_id = 0) in /nfs/c01/h01/mnt/35705/domains/beagooddad.com/html/wp-content/themes/thesis_17/lib/classes/comments.php on line 0
+Warning:
+Declaration of thesis_comment::end_el(&$output, $comment, $depth, $args) should be compatible with Walker::end_el(&$output, $object, $depth = 0, $args = Array) in /nfs/c01/h01/mnt/35705/domains/beagooddad.com/html/wp-content/themes/thesis_17/lib/classes/comments.php on line 0
+HomeContact MeWho Are These PeopleSitemapPrivacy PolicyBe A Good DadFeel free to fix my typos in your head as you are readingPrivacy Policy
+Fatal error:
+Uncaught Error: Call to undefined function split() in /nfs/c01/h01/mnt/35705/domains/beagooddad.com/html/wp-content/plugins/sociable/includes/sociable_output.php:354
+Stack trace:
+#0 /nfs/c01/h01/mnt/35705/domains/beagooddad.com/html/wp-content/plugins/sociable/includes/sociable_output.php(729): sociable_html(Array)
+#1 /nfs/c01/h01/mnt/35705/domains/beagooddad.com/html/wp-includes/plugin.php(213): auto_sociable('<p>Privacy Poli...')
+#2 /nfs/c01/h01/mnt/35705/domains/beagooddad.com/html/wp-includes/post-template.php(221): apply_filters('the_content', '<p>Privacy Poli...')
+#3 /nfs/c01/h01/mnt/35705/domains/beagooddad.com/html/wp-content/themes/thesis_17/lib/functions/loop.php(147): the_content('[click to conti...')
+#4 /nfs/c01/h01/mnt/35705/domains/beagooddad.com/html/wp-content/themes/thesis_17/lib/functions/loop.php(123): thesis_post_content(false, Array)
+#5 /nfs/c01/h01/mnt/35705/domains/beagooddad.com/html/wp-content/themes/thesis_17/lib/functions/loop.php(10): thesis_page_loop()
+#6 /nfs/c01/h01/mnt/35705/do in /nfs/c01/h01/mnt/35705/domains/beagooddad.com/html/wp-content/plugins/sociable/includes/sociable_output.php on line 354

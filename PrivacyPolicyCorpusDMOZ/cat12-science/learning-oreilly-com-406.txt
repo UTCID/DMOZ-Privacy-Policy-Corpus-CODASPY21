@@ -1,0 +1,26 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch14s05.html#websec2-CHP-14-SECT-5.1.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Story: A Failed Site InspectionIf you can’t be a good example, then you’ll just have to be a
+horrible warning.—Catherine Aird Several years ago, a consumer-products firm with
+worldwide operations invited one of the authors to a casual tour of
+one of the company’s main sites. The site, located in an office park
+with several large buildings, included computers for product design
+and testing, and nationwide management of inventory, sales, and
+customer support. It included a sophisticated, automated
+voice-response system costing thousands of dollars a month to operate,
+hundreds of users, and dozens of T1 (1.44 Mbits/sec) communications
+lines for the corporate network, carrying both voice and data
+communications.The company thought that it had reasonable security, given the
+fact that it didn’t have anything serious to lose. After all, the firm
+was in the consumer-products business—no government secrets or
+high-stakes stock and bond trading here.What We FoundAfter a brief, three-hour inspection, the company had some
+second thoughts about its security. Even without a formal site
+audit, the following items were discovered during our short
+visit.Fire hazardsAll of the company’s terminal and network cables were suspended from hangers above false ceilings throughout the buildings. Although smoke detectors and sprinklers were located below the false ceiling, none were located above, where the cables were located. If there were a short or an electrical fire, it could spread throughout a substantial ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

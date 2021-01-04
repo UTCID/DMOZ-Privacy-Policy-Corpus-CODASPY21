@@ -1,0 +1,25 @@
+http://www.aceproject.com/security-policy/
+Security Policy Statement
+Websystems Inc. takes data protection very seriously. In order to safeguard your data and confidential information, we have established the following policy in regards to hardware, software, networking and general business practices.
+General Security
+Security is of utmost importance for our business and credibility. This is why the AceProject application was built using the highest development standards with regards to security.
+The AceProject tech team as well as our web hosting service keep a close eye on server status, potential issues and activity logs. Additionally, security updates are applied as soon as they are made available. As a result, server instability or malfunctions as well as system attacks and intrusions are thwarted as much as possible.
+Finally, as soon as one of our servers does not respond, we are automatically alerted by email and SMS through an external surveillance service.
+Physical Security
+AceProject is hosted on the Amazon EC2 infrastructure with Windows Server 2016 technology.
+AceProject servers are protected from would-be hackers by a strong firewall. This firewall is a physical Gateway that stands between our Internet connection and the servers.
+Network Security
+We use a web hosting service, EC2 from Amazon based in the United States. It is a scalable, redundant "bandwidth-on-demand" solution. For further information in this regard, you may refer to the following page.
+Software Security
+AceProject's servers run on Windows Server 2016. All application security patches are continuously applied on our servers. Regular security updates are applied as soon as they are made available through Windows Update. Third-party software updates are also applied as soon as they are made available.
+Data Security
+All client data is replicated to a failover server, on an hourly basis. Additionally, every night, all client data is backed up on an external host (Amazon S3) in the event our primary hosting service should incur total failure.
+AceProject processes a SSL certificate from Go Daddy Secure Certification Authority. All AceProject clients access AceProject through a 256 bit SSL encrypted connection.
+In case of a security breach
+Should we become aware of a security breach and that data has been accessed without authorization, AceProject will contact the affected persons and/or businesses without delay. Furthermore, AceProject will do everything in its power to remedy the situation and prevent its further occurrence. This could provoke a short downtime on the servers in order to protect client data while we implement corrective measures. Since 2001, we have never been hacked.
+Confidentiality
+Websystems makes every effort to preserve the privacy of the information its servers contains. Websystems will never sell, share or publish its clients' data.
+Websystems will never share or sell email addresses with third parties.
+All file attachments are located in a secure zone of the servers that is only accessible to users configured in the account to whom the files belong. Any other AceProject user or unauthorized visitor cannot access these files.
+When a client closes his/her AceProject account, the account data is deleted permanently from the servers. However, since all client data is backed-up daily and kept for 30 days, this data can be recovered from the external backup media.
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.

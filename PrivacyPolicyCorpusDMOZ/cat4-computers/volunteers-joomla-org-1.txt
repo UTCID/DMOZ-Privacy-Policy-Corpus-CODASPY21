@@ -1,0 +1,498 @@
+https://volunteers.joomla.org/help-wanted
+Joomla!®
+About us
+Joomla Home
+What is Joomla?
+Benefits & Features
+Project & Leadership
+Trademark & Licensing
+The Joomla Foundation
+Support us
+Contribute
+Sponsor
+Partner
+Shop
+Download & Extend
+Downloads
+Extensions
+Languages
+Get a free site
+Get a domain
+Discover & Learn
+Documentation
+Training
+Certification
+Site Showcase
+Announcements
+Blogs
+Magazine
+Community & Support
+Community Portal
+Events
+User Groups
+Forum
+Service Providers Directory
+Volunteers Portal
+Vulnerable Extensions List
+Developer Resources
+Developer Network
+Security Centre
+Issue Tracker
+GitHub
+API Documentation
+Joomla! Framework
+JoomlaCode
+Search ...
+HomeBoard of DirectorsDepartmentsTeamsGovernanceJoomlersReportsHelp WantedFAQsRegisterLogin
+Help Wanted
+The Joomla! Community is always looking for volunteers. Browse the current open positions across the teams to find a position of your interest. A great way to get involved with Joomla!
+Automated Testing Team
+Role
+Architecture & Setup
+Defining and implementing the tests architecture in multiple libraries. Setup run and build scripts (Robo.li) and all the complicated things involved around the actual execution.
+Skills Required: PHP, OOP, Robo.li, PageObject Knowledge, Codeception, Selenium
+Contact
+More information
+Docker
+Parallel Docker setup for the testing environment. From the control server, over the testing docker images (LAMP, Firefox, PhpUnit ...), over making Screenshots / record videos and post result at GitHub Pull Requests etc ...
+Contact
+More information
+Infrastructure admin
+Take care of the Hosting of the Linux Servers / SaaS instances we use.
+Must haves:
+CLI, Linux / Unix, Security knowledge.
+Contact
+More information
+JavaScript Tests
+Automated Jasmine + Karma based JavaScript tests for the core JavaScript libraries.
+Contact
+More information
+Test Developer
+Must haves:
+PHP, Joomla knowledge
+Nice to have (you will learn it):
+PHPUnit, PHPQA, Codeception and Selenium knowledge.
+Contact
+More information
+Bug Squad
+Role
+Contributor
+The role involves the following:
+Having Javascript ECMAscript 6 (ES6) expertise
+Some free time & passion to help contribute
+Proposing, create and testing Pull Requests (PRs)
+Giving feedback on issues
+Help squash bugs!
+Contact
+More information
+Certification Ambassadors
+Role
+Trusted Supervisor
+Trusted Supervisors are entitled to supervise Joomla Certification Exams on behalf of the Joomla Certification Team.
+Contact
+More information
+Community Magazine Team
+Role
+Author
+Regular contributor, able to commit to providing an article at least every couple of months (6 a year). The initial plan being to produce the magazine on a bi-monthly basis (6 a year) with a desire to return to monthly (12 a year) as and when there is sufficient content.
+Author to also be able to assist in preparing submitted articles for publication
+Contact
+More information
+Proofreader
+Native language proof reader for articles prepared for the magazine. Ideally native to the language concerned. Responsibilities include proof reading for spelling/grammar, making corrections where required and liaising with the author. Final editorial control to rest with the editor.
+Contact
+More information
+Community Sites Team
+Role
+Marketing Department Liaison
+Responsible for the communication between the Community Sites Team and the Marketing Department.
+If a team is using the Community website, a liaison will make sure, actions and information is shared and discussed between both teams.
+Contact
+More information
+Newsletter System
+Contact
+More information
+Service Providers Directory
+The Joomla! Service Providers Directory exists to help you locate professional service providers so you can connect and do more with your Joomla! CMS. Browse through approved listings by category to find a Registered provider or use the search to find someone near you.
+Contact
+More information
+Webmaster
+Contact
+More information
+Community Translation Team
+Role
+American Translation
+Contact
+More information
+Arabic Translation
+Contact
+More information
+Bengali Translator
+Contact
+More information
+Chinese Simplified Translator
+Contact
+More information
+Chinese Translation
+Contact
+More information
+Danish Translator
+Contact
+More information
+Dutch Translation
+Contact
+More information
+Estonian Translator
+Contact
+More information
+French Translation
+Contact
+More information
+German Translation
+Contact
+More information
+Greek Translation
+Contact
+More information
+Hungarian Translation
+Contact
+More information
+Indonesian Translator
+Contact
+More information
+Irish Translation
+Contact
+More information
+Italian Translator
+Contact
+More information
+Japanese Translator
+Contact
+More information
+Macedonian Translator
+Contact
+More information
+Norwegian Translator
+Contact
+More information
+Polish Translation
+Contact
+More information
+Portuguese (Brazil) Translator
+Contact
+More information
+Russian Translator
+Contact
+More information
+Serbian Translation
+Contact
+More information
+Slovak Translation
+Contact
+More information
+Slovenian Translator
+Contact
+More information
+Spanish Colombian Translator
+Contact
+More information
+Spanish Translation
+Contact
+More information
+Swedish Translator
+Contact
+More information
+Team Leader
+Contact
+More information
+Thai Translator
+Contact
+More information
+Turkish Translator
+Contact
+More information
+Documentation Translation Team
+Role
+Translator
+Contact
+More information
+Extensions Directory Team
+Role
+Listing Specialist
+Contact
+More information
+Support Specialist
+Contact
+More information
+VEL Specialist
+Contact
+More information
+Finance Working Group
+Role
+Assistant to the Treasurer
+Directly reporting to the Treasurer, the Assistant will help the Officer in the daily tasks and operations.
+Contact
+More information
+Joomla 4 Marketing Team
+Role
+Copywriters
+Copywriters will be in charge of providing the text content of the landing page, pre and post-release campaigns on Social Media, release announcements, newsletters...
+Contact
+More information
+Designers
+Designers will need to have Photoshop knowledge and will be in charge of following the J4 design guidelines to create the range of imagery for the pre and post release campaign, shop products, promotion imagery, social media imagery...
+Contact
+More information
+Event Organiser
+The Event Organiser will be in charge of managing the live event for the launch of J4 and of the coordination with the JUGs.
+Contact
+More information
+Landing Page Developer
+Contact
+More information
+Video Producers
+Video Producers will be in charge of creating videos to promote Joomla 4 and its features.
+Contact
+More information
+Joomla Accessibility Team
+Role
+Accessibility Advisor
+You have an understanding of WCAG 2.0 AA and Section 508. You know how to audit, give advice, implement, document and teach.
+Contact
+More information
+Accessibility Documentation and Tutorials
+You want to help with writing documentation about accessibility to
+help volunteers, developers, contributors and others become more aware of accessibility.
+You want to help with writing tutorials for quick and easy checks, semi-automated testing, manual testing, assistive technology testing, use case testing and usability testing
+Contact
+More information
+Accessibility Tester / Auditor
+You have an understanding of WCAG 2.0 AA and Section 508.
+Types of Accessibility Testing
+* Quick and Easy Checks
+* Semi-Automated Testing
+* Manual Testing
+* Assistive Technology Testing
+* Use Case Testing
+* Usability Testing
+Contact
+More information
+Joomla! Enhancement Development Team
+Role
+PHP Developer
+Support Joomla! by enhancing the core with new features and functions.
+Contact
+More information
+vue.js Developer
+Support Joomla! in all vue.js projects like the media manager and the future layout builder.
+Contact
+More information
+Joomla! Optimisation Team
+Role
+Contributor
+Contributors help the team on an adhoc basis.
+All new members are contributors initially
+Contact
+More information
+Joomla! Volunteer Engagement Team
+Role
+Onboarding
+Once people are interested in joining Joomla, the important part begins. The role of the onboarding member is to bring the volunteer in contact with possible mentors and the teams the person is interested in and serve them as a guide in the large community of Joomla.
+Contact
+More information
+Legal Working Group
+Role
+Business Adviser
+Team Member with background in business and entering and negotiating contracts et. al.
+Contact
+More information
+Legal Adviser
+Team Member with background in legal / law from an educational point and with working experience.
+Contact
+More information
+Marketing Design Group
+Role
+Designer
+We are looking for creative designers to join us. You have great ideas, you know how to use the Adobe Suite, you are willing to help in the creation of imagery, brochure, posters, stickers, etc? Contact us!
+Contact
+More information
+Marketing Team
+Role
+Contributor
+Contributors are people who wish to contribute to Joomla Marketing without giving a Major time commitment.
+Contact
+More information
+Copywriter
+Joomla is looking for a copywriter to work on the upcoming release portal and marketing messages for Joomla. Copywriters will be in charge of providing the text content of the landing page, pre and post-release campaigns on Social Media, release announcements, newsletters.
+We need creative writers that will be in charge of texts that will be featured in release posts and landing pages. Coming up with copy that engages new Joomla users as well as experienced ones. These texts need to address our target audience which is small to large corporations that want a robust and versatile website.
+The copywriter will need to create original work and develop ideas around the chosen theme(s); mainly to promote Joomla to our chosen audience(s) and communicate releases and release features.
+Joomla is looking to engage a larger audience of website designers and businesses that are looking for a robust and versatile CMS for their website. For this, we need copywriters to know how to write persuasively to promote Joomla as the number one choice, and in some cases, defend their creative choices to put this message across.
+Joomla needs a Copywriter who knows about Joomla as well as the Joomla target market, so that their copy is relevant and modern, and understand how people will react to their writing.
+Some texts are prepared by community members and volunteers, the copywriter will sometimes need to step in so that the copy proposed is edited to have proper tone, feeling, sentence structure and emotion but most importantly that the message sticks to the Joomla marketing strategy.
+Contact
+More information
+Designer
+Designers with experience in creating/developing designs for all aspects of marketing. This includes both online graphics and print pieces. Designers should have professional-level experience creating graphics using the latest suite of Adobe tools (or able to create and work with compatible file formats).
+Contact
+More information
+Local Community Liaison
+Liaison between the Joomla Marketing Team and the local communities to increase awareness and communication.
+You want to become the liaison for your community? Contact us at marketing[at]community.joomla.org
+Contact
+More information
+Marketing Content Group Leader
+Be the primary leader of the Content Group. Lead the reviewing and onboarding of prospective/new group members. Work with other teams/sub-teams that need marketing copy created to match tasks with available writers. This person must be able to write fluent UK/US English with short deadlines.
+Contact
+More information
+NewsLetter Editor
+The Newsletter editor is responsible for driving the success of the Joomla Newsletters. This role is responsible for the look and feel, the content the advertising within the newsletters, and the correct functionality of the newsletters. Also responsible for sending newsletters out and scheduling broadcasting messages that are sent out through a newsletter.
+Contact
+More information
+Patch Release Coordinator
+The Marketing Team is looking for a volunteer to manage the marketing tasks for patch releases. The mission consists in writing the release announcement and the related newsletter, updating the Joomla Wikipedia page, being in touch with the Social Media Team and the Marketing Liaisons to provide them information.
+Contact
+More information
+Marketing Video Group
+Role
+Video Animator
+Experience and demonstrated skill in creating compelling animations with current tools and trends for public/commercial distribution.
+Contact
+More information
+Video Editor
+Demonstrated skill and experience professionally editing promotional videos with current tools and techniques for public/commercial use.
+Contact
+More information
+Video Producer
+Skill and experience managing video projects (and teams) throughout the entire video production lifecycle - from storyboarding to delivery/distribution (online).
+Contact
+More information
+Video Scriptwriter
+Skill and experience writing (English) scripts for public/commercial release.
+Contact
+More information
+Partnership Success Team
+Role
+Capitals Team Liason
+Contact
+More information
+Contributor
+Contact
+More information
+Privacy Compliance Team
+Role
+Data Management Expert
+Contact
+More information
+Data Protection Expert
+The project is looking for volunteers with experience in data protection/privacy.
+If you have some legal background and experience with Data Protection and Data Privacy, please join us and help us to ensure the compliance with the GDPR.
+Contact
+More information
+Developer
+Contact
+More information
+Lawyer
+Contact
+More information
+Liaison
+The liaison between compliance team and the other Joomla teams.
+Contact
+More information
+Policy Specialist
+Contact
+More information
+Showcase Directory Team
+Role
+Site Moderator
+You know well Joomla to check if a site is build on Joomla.
+You like to look the design and features of a site.
+Come with us to moderate sites submitted into the Joomla Showcase Directory!
+Contact
+More information
+Social Media Team
+Role
+Community Manager
+The Social Media Team is looking for volunteers to help managing the following social media accounts:
+- Official Instagram account: https://www.instagram.com/joomlaofficial/
+- Documentation Twitter account: https://twitter.com/joomladocs
+- Joomlers Twitter account: https://twitter.com/joomlers
+- L10N Twitter account: https://twitter.com/JoomlaL10nC
+Contact
+More information
+Copywriter
+The Social Media Team is looking for social media addicts to help with writing posts to improve our promotion of the Joomla Official Websites.
+Contact
+More information
+Designer
+The Social Media Team is looking for designers to provide graphics to promote Joomla on our official channels. You just need Photoshop, we will provide the templates and an access to our stock photography.
+Contact
+More information
+HootSuite Integrator
+The Social Media Team is looking for volunteers to set up our posts promoting the official Joomla Websites on HootSuite.
+Contact
+More information
+Software Architecture & Strategy Team
+Role
+Architecture
+Architecture and new technologies
+Contact
+More information
+Javascript
+All things javascript
+Contact
+More information
+Marketing
+Contact
+More information
+PHP
+PHP development
+Contact
+More information
+UI/UX
+User experience and user interface
+Contact
+More information
+Trademark & Licensing Team
+Role
+Domain Specialist
+Handles the domain name requests: grants/suspends licenses.
+Support applicants to achieve the compliance.
+Update the “approved uses” list.
+Contact
+More information
+Liaison
+Help integration/communication with other specific teams.
+Report potential non-compliant uses or ask TM Auditors to verify suspicious uses of the Trademarks.
+Contact
+More information
+TM Auditor
+Verifies if a trademark/domain name use is compliant to the policy and to the Joomla! Brand Manual.
+Randomly verifies if a licensed use is still compliant.
+Take note of the audits and in case of misuses suspend the license.
+Contact
+More information
+Trademark Specialist
+Handles the trademark requests: grants/suspends licenses.
+Support applicants to achieve the compliance.
+Update the “approved uses” list.
+Contact
+More information
+Volunteers Portal Team
+Role
+Contributor
+As Contributor you are available to discuss and work on various task and ideas to improve the Volunteers Portal and volunteering processes.
+Contact
+More information
+Developer
+As Developer you are regularly contributing (mainly PHP) code to the public Volunteers Portal repository on GitHub. You can improve the existing code or work on new requested features by the community.
+Contact
+More information
+en-GB User Interface Text Team
+Role
+Contributor
+Any native en-GB speaker is welcome to join the group. No technical skills are required just the willingness to contribute.
+Contact
+More information
+You are here:
+Home
+Help Wanted

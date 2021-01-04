@@ -1,0 +1,2811 @@
+https://sites.google.com/site/tomihasa/google-general-faq#helpwithouturl
+google.public.support.general FAQ
+google.public.support.general FAQ
+Introduction
+This article includes answers to questions that appeared especially
+frequently in the old Google newsgroup google.public.support.general.
+This newsgroup has been replaced by other official Google forums and
+Google employees no longer post here and it may be full of spam if
+you visit it. The web version of the FAQ is still kept for its useful
+information and might still get updated sometimes. And of course the
+monthly posted newsgroup versions are still available. This FAQ is not
+intended to replace Google's official FAQs and information for
+webmasters. Please read them if you haven't already done so.
+http://www.google.com/help/faq.html
+http://www.google.com/support
+http://www.google.com/support/webmasters/
+Contents
+1. Google Web Search
+2. Google Groups
+3. Webmasters
+4. Google Directory
+5. Google Toolbar
+6. Gmail (Google Mail)
+7. Miscellaneous Topics
+8. Glossary
+1. Google Web Search
+Q: How do I clear information about my previous searches?
+Q: How do I stop my previous searches from appearing when I type in a new search term?
+Q: How do I clear the history information of previously visited web pages?
+Q: My computer began to behave strangely. Why?
+Q: Why am I getting redirected to other search engines when I try to go to Google, or click on Google search results?
+Q: Why am I getting all these popups from Google?
+Q: Why can't I access Google or some other search engines?
+Q: How can I adjust the settings of my web browser to make browsing the web pages safer?
+Q: How do I report spam to Google?
+Q: Why doesn't a "link:" search show all my backlinks?
+Q: Why does [link: your.url] (with a space) give me more results than [link:your.url] ?
+Q: How do I stop being redirected from www.google.com to other Google pages?
+Q: How can I change the language Google uses on its web pages?
+Q: How can I save preferences for Google?
+Q: Why doesn't Google remember my preferences after I switch off my computer and turn it back on?
+Q: How can I allow cookies for Google?
+Q: How can I delete cookies for Google?
+Q: How can I make Google my home page?
+Q: Is there a way to see the search results numbered and without description (titles only)?
+Q: Where can I find the most popular search queries?
+Q: What is the "I'm Feeling Lucky" button?
+Q: How do I search for special characters like &, %, #, @, $, £, €, +, -, /, *, =, <, {, [, (, ), ], }, >, :, ;, !, ?
+Q: Can I make a proximity search with Google?
+Q: Can I use wildcard symbols in searches?
+Q: How can I search for an exact phrase?
+Q: How can I exclude certain words from search queries?
+Q: How can I search only from the title of the page?
+Q: How can I search only from the URL of the page?
+Q: How can I search only from the links to the page?
+Q: How can I search only from the text of the page?
+Q: How can I search for PDF, PostScript, Word, Excel, PowerPoint, or Rich Text Format documents?
+Q: How can I search from pages that have been changed in 24 hours, week, month or year?
+Q: How can I search from a certain domain only?
+Q: How can I find similar pages?
+Q: How can I find pages that link to a page?
+Q: What operators can I use in the search query?
+Q: How can I make Boolean searches?
+Q: How can I search from a specific country?
+Q: I searched for example for the word "this" and it says "this is a very common word and was not included in your search". How can I include very common words in searches?
+Q: How can I exclude adult sites from the search?
+Q: Where can I find commands for the Calculator?
+Q: What kind of constants can I see with the Calculator?
+Q: What kind of calculations and conversions can I do with the Calculator?
+Q: I have enabled the "Open search results in a new browser window" preference, but all results open in the same new browser window. How do I make each result to open to a totally new window?
+Q: How do I make each search result open in a new full sized window in Microsoft Windows?
+Q: What was Supplemental Result?
+Q: What is Cached page?
+Q: What is Local Search?
+Q: Which search engines (or services) use Google search results?
+Q: How many web servers does Google have?
+Q: What operating system does Google use on the web servers?
+Q: How many search queries do people make with Google?
+2. Google Groups
+Q: How can I change my name that appears every time I want to post or reply with Google Groups?
+Q: How can I automatically quote messages in Google Groups?
+Q: What quoting styles and techniques can I use?
+Q: How can I change my email address in Google Groups?
+Q: My messages have disappeared. Where are they?
+Q: How can I check the threads on what I post?
+Q: How do I remove messages I have posted with Google Groups?
+Q: I don't want to receive spam, but I still want to post with Google Groups. How do I avoid spam?
+Q: How do I respond to a post over 60 days old?
+Q: How many newsgroups are there?
+Q: What is DejaNews?
+Q: Is Google Groups a message board?
+Q: Are Google discussion groups same as Usenet newsgroups?
+Q: Why does it take so long for my post to show up in Google Groups?
+Q: I have found a newsgroup that isn't archived by Google Groups. How can I ask it to be added to Google Groups?
+Q: I have a question that doesn't relate to this newsgroup, where can I ask it?
+Q: Can I post commercial advertisements in google.public.support.general?
+Q: Where is the Group Charter for this newsgroup?
+Q: Do Google employees post to this newsgroup?
+Q: Where can I report problems with Google Groups?
+Q: Are there other official and unofficial Google forums?
+3. Webmasters
+Q: I have a question about my site. Can you help me without me giving the URL of my site?
+Q: My web site has never been indexed by Google. Why?
+Q: My new site appeared in the Google results for a few days, but now it has disappeared. Why?
+Q: Why is it that some days my site is listed (lately in the top position) and on other days it isn't?
+Q: Why isn't my web site on the first page of search results (my web site is indexed by Google)?
+Q: How do I determine if my web pages are in the Google index?
+Q: I can't find anymore any web pages of my site. Is it banned?
+Q: I'm quite sure by site is banned. How can I get it back to Google search results?
+Q: How do I submit my site to Google?
+Q: Will my site be banned if I submit it too often?
+Q: Why do I need incoming links pointing to my web site?
+Q: Why don't the keywords in my meta tags have any effect?
+Q: We have a new version of our website, but when you search in Google for information about our website, the search result still points to the old web pages. What would be the process to have the search pointing at the new website pages?
+Q: Does Google index dynamic pages?
+Q: Does Google crawl JavaScript?
+Q: Someone copied my entire website. What should I do now?
+Q: How does my mirror site affect my Google PageRank?
+Q: How can I remove a page or a site from Google search results?
+Q: Why Googlebot comes only to my first page, but it never follows the links into the rest of the site?
+Q: How can I stop Googlebot from downloading the same file over and over again?
+Q: How can I stop Googlebot from downloading too fast?
+Q: How can I stop Googlebot from crawling my web site altogether?
+Q: What is a robots.txt?
+Q: What is a robots meta tag?
+Q: How do I recognize visits from search engine spiders (including Googlebots) in my log file?
+Q: How search engine spiders see my web pages?
+Q: Can search engine spiders access my web site?
+Q: How can I help my web site rank higher on a national Google search for a certain country?
+Q: Where can I see the dates of the previous Google updates?
+Q: What is Google Dance?
+Q: What are the Google data centers?
+Q: What is the PageRank?
+Q: How can I see the PageRank number for a web page?
+Q: How can I make my site rank higher in search results?
+Q: How do I avoid my site getting banned by Google?
+Q: Are there any webmaster tools or services?
+Q: Are there any SEO tools?
+4. Google Directory
+Q: How do I get my site listed in Google Directory?
+Q: How do I change the description of my site in Google Directory?
+Q: When is Google Directory updated next?
+5. Google Toolbar
+Q: I have installed Google Toolbar. Where is it?
+Q: How can I clear the search history in Google Toolbar?
+Q: Can Google Toolbar be used in other browsers than Internet Explorer?
+6. Gmail (Google Mail)
+Q: After I have logged in to Gmail, why doesn't Gmail work?
+Q: How can I reload a web page?
+Q: How can I empty the browser's cache?
+Q: How can I allow JavaScript for Gmail?
+7. Miscellaneous Topics
+Q: What is google.public.support.general?
+Q: How can I read google.public.support.general with a newsreader?
+Q: Where can I find Google logos?
+Q: Why is my phone number listed in Google search results?
+Q: Where does the word google come from?
+Q: How can I insert the Google Search to my web page?
+Q: How can I add feeds to Google?
+Q: Does Google offer a webhosting service?
+Q: How can I find people (e.g. email, address, or phone number)?
+Q: Can you do my homework assignment?
+Q: How can I make a good newsgroup post?
+Q: How can I make people understand me?
+Q: How can I contact Google?
+Q: Are there any other FAQs about Google?
+Q: Are there any other informative web pages about Google?
+Q: How can I find this FAQ?
+====================
+1. GOOGLE WEB SEARCH
+====================
+----------------------------------------------------------------------
+Q:
+How do I clear information about my previous searches?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Depending on what web browser you use, your previous searches can be
+saved as form information, history information and cache information.
+See questions "How do I stop my previous searches from appearing when
+I type in a new search term?", "How do I clear the history information
+of previously visited web pages?" (see the next two questions), and
+"How can I empty the browser's cache?" (see section 6).
+If you have Google Toolbar installed, see also question "How can I
+clear the search history in Google Toolbar?" (see section 5).
+If you are using the Google Web History service, go to page
+http://www.google.com/searchhistory/ and sign in, so you can remove
+previous searches if you have saved any searches.
+----------------------------------------------------------------------
+Q:
+How do I stop my previous searches from appearing when I type in a
+new search term?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Some web browsers save information you type into web pages (known as
+form information). Instructions for some web browsers:
+If you are using Internet Explorer 6, click "Tools", select "Internet
+Options", click "Content" tab, push "AutoComplete", and uncheck
+"Forms". To clear previous searches, push "Clear Forms". You can also
+delete search queries one by one: empty the Google Search Field and
+double-click on it to see the earlier search queries, and delete
+individual searches by moving the mouse cursor (or use Down arrow key)
+over one of the search queries and press Delete key on keyboard.
+http://www.google.com/help/faq.html#iehistory
+http://www.google.com/support/bin/answer.py?answer=465&topic=352
+http://www.microsoft.com/windows/ie/ie6/using/howto/customizing/autocomplete.mspx
+If you are using Internet Explorer 7, click "Tools", select "Internet
+Options", click "General" tab, push "Delete...", push "Delete
+forms...", and then "Yes" button. If you want to remove individual
+search queries, see instructions for Internet Explorer 6 above.
+If you have a program that uses Internet Explorer, such as another
+browser or an add-on for Internet Explorer (for example MSN Explorer,
+Avant Browser, or Maxthon Browser), see the instructions for Internet
+Explorer above. You may need to close that browser or add-on before
+clearing the form information.
+If you have Mozilla Firefox 0.x or 1.x, click "Tools", select
+"Options", click "Privacy", click "+" next to "Saved Form
+Information", and uncheck "Save information I enter in web page forms
+and the Search Bar". To clear previous searches, push "Clear" next to
+"Saved Form Information". If you have Mozilla Firefox 0.9 or above,
+you can also delete search queries one by one: empty the Google Search
+Field and double-click on it to see the earlier search queries (or use
+Down arrow key), and delete individual searches by moving the mouse
+cursor (or use Down arrow key) over one of the search queries and
+press Shift + Delete on keyboard (press Shift key and keep it pressed,
+then press Delete key once and release it, finally release Shift key).
+If you have Mozilla Firefox 2.x, click "Tools", select "Options",
+click "Privacy", click "Clear Now...", check "Saved Form and Search
+History", push "Clear Private Data Now" button.
+If you are using Netscape 8, at the top part of the Netscape browser
+window there should a Location bar (also called address field). Type
+about:config into the Location bar (and press Enter). Now you should
+see a text field (also called a text box) right to text "Filter:".
+Type browser.formfill.enable to the text field. Now you should see
+under the text field "browser.formfill.enable". Double-click it to
+change it from value true to false. You can also delete search queries
+one by one: empty the Google Search Field and double-click on it to
+see the earlier search queries (or use Down arrow key), and delete
+individual searches by moving the mouse cursor (or use Down arrow key)
+over one of the search queries and press Shift + Delete on keyboard
+(press Shift key and keep it pressed, then press Delete key once and
+release it, finally release Shift key).
+If you are using Netscape 8 in Windows, and you want to use Internet
+Explorer engine for Google, you can also do this: go to the main page
+of Google (you can do the same procedure for the national domains of
+Google, for example google.co.uk), and if the icon at the bottom left
+corner of the Netscape browser window looks like a Mozilla icon, click
+it and select "Display Like Internet Explorer" so Netscape uses
+Internet Explorer's AutoComplete mechanism to save form information.
+Now you can go to Internet Explorer, and empty or disable the
+AutoComplete information from Internet Explorer, by selecting "Tools",
+"Internet Options", "Content", and "AutoComplete".
+From JB (jtb5358@yahoo.com):
+If you're using Safari on a Macintosh:
+In the "Safari" menu, choose
+"Preferences..." and click on the "AutoFill" tab.
+Uncheck the "Other
+Forms" box to stop all autofilling.
+If you do want to keep
+autofilling forms on certain web sites, click the "Edit" button and
+add those sites to the list.
+In the Mac version of Firefox, go to the "Firefox" menu, and choose
+"Preferences", then "Privacy", then "Saved Form Information".
+----------------------------------------------------------------------
+Q:
+How do I clear the history information of previously visited
+web pages?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Instructions for some web browsers on how to clear history
+information:
+If you are using Internet Explorer 6, click "Tools", select "Internet
+Options", push "Clear History" button. If you don't want documents to
+be added to the history, change the value to 0 (zero) in "Days to keep
+pages in history". If you want to remove individual documents in
+history, click the "History" button in Standard Buttons toolbar,
+right-click a web site or a document and select "Delete" (you may need
+to add the "History" button to the Standard Buttons toolbar:
+right-click the toolbar, select "Customize...", and add the "History"
+button from "Available toolbar buttons" section to "Current toolbar
+buttons" section).
+If you are using Internet Explorer 7, click "Tools", select "Internet
+Options", click "General" tab, push "Delete...", push "Delete
+history...", and then "Yes" button.
+If you have a program that uses Internet Explorer, such as another
+browser or an add-on for Internet Explorer (for example MSN Explorer,
+Avant Browser, or Maxthon Browser), see the instructions for Internet
+Explorer above. You may need to close that browser or add-on before
+clearing history.
+If you have Mozilla Firefox 0.x or 1.x, click "Tools", select
+"Options...", click "Privacy", click "History", push "Clear" (Firefox
+0.x or 1.x) button or "Clear Browsing History Now" (Firefox 1.5.x)
+button. In Firefox 1.5.x if you don't want documents to be added to
+the history, change the value to 0 (zero) in "Remember visited pages
+for the last" ... "days". If you want to remove individual documents
+in history, click the "History" button in Navigation Toolbar,
+right-click a folder or a document and select "Delete" (you may need
+to add the "History" button to the Navigation Toolbar: right-click the
+toolbar, select "Customize...", and drag the "History" button to the
+toolbar).
+If you have Mozilla Firefox 2.x, click "Tools", select "Options",
+click "Privacy", click "Clear Now...", check "Browsing History",
+push "Clear Private Data Now" button.
+If you have Mozilla (Mozilla Suite) 1.x, click "Edit", select
+"Preferences...", expand "Navigator", click "History", push "Clear
+History" button. If you don't want web documents to be added to the
+history, change the value to 0 (zero) in "Remember visited pages for
+the last" ... "days". You may need to close the browser to get the
+history cleared.
+If you have Netscape Navigator (Communicator) 4.x, click "Edit",
+select "Preferences...", click "Navigator", push "Clear History"
+("Expire Now" on Mac OS). If you don't want documents to be added to
+the history, change the value to 0 (zero) in "Pages in history expire
+after" ("Visited links expire" on Mac OS). If you want to remove
+individual documents in history, click "Communicator", select "Tools",
+select "History" and in History window right-click a document and
+select "Delete".
+If you have Netscape 7.x, click "Edit", select "Preferences...", click
+"Navigator", push "Clear History". If you don't want documents to be
+added to the history, change the value to 0 (zero) in "Remember
+visited pages for the last" ... "days". If you want to remove
+individual documents in history, click "Go", select "History" and in
+History window right-click a folder, a web site or a document and
+select "Delete".
+If you have Netscape Browser 8.x, click "Tools", select "Options...",
+click "Privacy", expand "Page History", push "Clear". If you don't
+want documents to be added to the history, change the value to 0
+(zero) in "Remember visited pages for the last" ... "days". If you
+want to remove individual documents in history, click "Go", select
+"History" and in History section right-click a folder, a web site or a
+document and select "Delete".
+If you have Opera 8.x or 9.x, click "Tools", select "Preferences...",
+"Advanced", "History", click "Clear" button next to "Typed in
+addresses" and "Visited addresses" (Opera 8) or click "Clear" button
+next to "Addresses" (Opera 9). If you don't want web documents to be
+added to the history, change the value to 0 (zero) in "Typed in
+addresses" and "Visited addresses" (Opera 8) or "Addresses" (Opera 9).
+If you want to remove individual documents in history, click "Tools",
+select "History", and in History window right-click a document and
+select "Delete".
+----------------------------------------------------------------------
+Q:
+My computer began to behave strangely. Why?
+Q:
+Why am I getting redirected to other search engines when I try to
+go to Google, or click on Google search results?
+Q:
+Why am I getting all these popups from Google?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+You have probably inadvertently downloaded and installed adware,
+spyware, parasite, trojan, a browser hijacker or a virus from some web
+site.
+One quick scan with only one spyware remover using an old spyware
+database probably won't find all the spyware, so install, update and
+use all of the below free (or trial version) programs with the full
+scan option even though it can take hours before you have used them
+all: CWShredder, Ad-aware, Spybot - Search & Destroy, SpywareBlaster,
+RapidBlaster Killer, SpyRemover, Spy Sweeper, and Windows Defender:
+http://www.download.com/CWShredder/3000-8022_4-10301587.html
+http://www.lavasoft.com/products/ad_aware_free.php
+http://www.safer-networking.org/
+http://www.javacoolsoftware.com/spywareblaster.html
+http://www.wilderssecurity.net/specialinfo/rapidblaster.html
+http://www.spychecker.com/program/spyremover.html
+http://www.download.com/Webroot-Spy-Sweeper/3000-8022_4-10192729.html
+http://www.microsoft.com/windows/products/winfamily/defender/default.mspx
+Use a virus scanner also. Here are some free virus scanners (if you
+don't already have a virus scanner):
+http://www.free-av.com/
+http://www.avast.com/
+http://housecall.trendmicro.com/
+http://www.ca.com/us/securityadvisor/virusinfo/scan.aspx
+Be careful what to remove. If you are uncertain what to remove with
+the programs or you can't get rid of the problem, send your HijackThis
+log file to a spyware/security forum for assistance:
+HijackThis:
+http://www.spychecker.com/program/hijackthis.html
+Spyware and security forums:
+http://boards.cexx.org/
+http://www.wilderssecurity.com/index.php
+http://www.dslreports.com/forum/cleanup
+Spyware newsgroup:
+http://groups.google.com/group/alt.privacy.spyware
+Also, you might have trojan Qhosts:
+http://www.symantec.com/security_response/writeup.jsp?docid=2003-100116-5901-99
+http://www.ca.com/us/securityadvisor/virusinfo/virus.aspx?id=37191
+Malware may reside in your computer's memory and disable or fool your
+security software, so to effectively remove malware from your computer
+you may need start Windows in Safe Mode, which means you need to tap
+continually the F8 key when your computer begins to boot until you see
+a menu where you can select Safe Mode:
+http://www.computerhope.com/issues/chsafe.htm
+http://technet.microsoft.com/en-us/library/cc787501.aspx
+To prevent new spyware to be installed to your computer, update your
+Windows frequently to remove the latest security holes so there's a
+smaller probability to get new spyware to your computer:
+http://windowsupdate.microsoft.com/
+More about spyware, parasites and hosts files:
+http://www.mvps.org/winhelp2002/unwanted.htm
+http://www.mvps.org/winhelp2002/hosts.htm
+http://www.imilly.com/google.htm
+http://www.doxdesk.com/parasite/
+Security directory pages:
+http://directory.google.com/Top/Computers/Security/Internet/Products_and_Tools/Security_Scanners/
+http://directory.google.com/Top/Computers/Security/Malicious_Software/Spyware_and_Adware/Detection_and_Removal_Tools/
+http://directory.google.com/Top/Computers/Security/Malicious_Software/Viruses/Products/
+http://directory.google.com/Top/Computers/Security/Malicious_Software/Trojan_Horses/
+http://directory.google.com/Top/Computers/Software/Freeware/Security/
+Free toolbars with pop-up blockers:
+http://toolbar.google.com/
+http://companion.yahoo.com/
+Free firewalls:
+http://directory.google.com/Top/Computers/Security/Firewalls/Products/Personal_Firewalls/
+Other tips:
+Use an up-to-date virus scanner and a firewall.
+Avoid using disreputable spyware tools (some of them might even
+install more spyware to your computer):
+http://www.spywarewarrior.com/rogue_anti-spyware.htm
+Make browsing the web pages safer by disabling features such as
+scripting, Java and ActiveX, see question "How can I adjust the
+settings of my web browser to make browsing the web pages safer?".
+----------------------------------------------------------------------
+Q:
+Why can't I access Google or some other search engines?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Sometimes browser's full cache memory can cause various problems. Try
+to clear browser's cache memory and then reload the web page (see
+section 6).
+If that doesn't help, try to search for spyware from your computer,
+which can prevent you from accessing some web sites (see question
+above).
+If that doesn't help either, then your ISP (internet service provider)
+might have DNS or some other problems. You could contact your ISP if
+the problem persists.
+If there is only one search engine you can't access (for example
+Google), you might want to contact that search engine company, because
+it might have for example DNS problems.
+If you can't use your Gmail account, look at the Gmail section in this
+FAQ.
+----------------------------------------------------------------------
+Q:
+How can I adjust the settings of my web browser to make browsing
+the web pages safer?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Instructions for some web browsers (you may need to have Administrator
+rights for the computer):
+If you are using Internet Explorer 6 or 7, select "Tools", "Internet
+Options", click the "Security" tab, select "Internet", push the
+"Custom Level..." button, select "Disable" (or "Prompt", or similar)
+for ActiveX, Scripting and Java options (for example "Download signed
+ActiveX", "Download unsigned ActiveX", "Initialize and script ActiveX
+controls not marked as safe", "Run ActiveX controls marked safe for
+scripting", "Active scripting", "Java permissions") and also for some
+other options, such as "Allow META REFRESH", "Display mixed content",
+"Drag and drop or copy and paste files", "Installation of desktop
+items", "Launching programs and files in an IFRAME", "Navigate
+sub-frames across different domains". Some sites you are using may
+need for example scripting so if you think you can trust a site (for
+example your bank or a search engine), you can add it to the trusted
+sites: in Internet Explorer 6 or 7 select "Tools", "Internet Options",
+click the "Security" tab, select "Trusted sites", push the "Sites"
+button, and add the trusted site (for example type *.google.com and
+press "Add" button).
+If you have Mozilla Firefox 0.x or 1.x, select "Tools", "Options...",
+click "Web Features", uncheck "Allow web sites to install software",
+"Enable Java", and "Enable JavaScript". Some sites you are using may
+need for example scripting so if you think you can trust a site (for
+example your bank or a search engine), you may need to allow for
+example JavaScript while you visit a web site you trust.
+If you have Mozilla Firefox 2.x, select "Tools", "Options...", click
+"Content", uncheck "Enable JavaScript" and "Enable Java". Some sites
+you are using may need for example scripting so if you think you can
+trust a site (for example your bank or a search engine), you may need
+to allow for example JavaScript while you visit a web site you trust.
+If you are using Mozilla (also known as Mozilla Suite) 1.x, select
+"Edit", "Preferences...", click "Web Features", click the plus (+)
+sign next to "Advanced", click "Scripts & Plug-ins", uncheck
+"Navigator" and "Mail & Newsgroups". Some sites you are using may need
+for example scripting so if you think you can trust a site (for
+example your bank or a search engine), you may need to allow for
+example JavaScript while you visit a web site you trust.
+If you are using Netscape 4, select "Edit", "Preferences...", click
+"Advanced", uncheck "Enable Java", and "Enable JavaScript". Some sites
+you are using may need for example scripting so if you think you can
+trust a site (for example your bank or a search engine), you may need
+to allow for example JavaScript while you visit a web site you trust.
+If you are using Netscape 7, select "Edit", "Preferences...", click
+the triangle next to "Advanced" until the triangle points to down,
+click "Advanced", uncheck "Enable Java" and "Enable native object
+scripting", click "Software Installation" (or similar) and uncheck
+"Enable software installation". Some sites you are using may need for
+example scripting so if you think you can trust a site (for example
+your bank or a search engine), you may need to allow for example
+JavaScript while you visit a web site you trust.
+If you are using Netscape 8, select "Tools", "Options...", click
+"Site Controls", click "Trust Preferences" tab, select "Do Not Use
+Netscape Trust Ratings", and after the text "Always use this setting
+as a default" select "I Don't Trust This Site".
+Some sites you are
+using may need for example scripting so if you think you can trust a
+site (for example your bank or a search engine), you can add it to the
+trusted sites: in Netscape 8 go to the site you think you can trust
+(for example http://www.google.com/intl/en/), click the exclamation
+mark (!) in the tab which is for the site you are viewing, click
+"Trust Settings" tab, select "I Trust This Site", push "Done".
+If you are using Opera 8 or 9, select "Tools", "Preferences...", click
+"Advanced" tab, select "Content", uncheck "Enable JavaScript", and
+"Enable Java". Some sites you are using may need for example scripting
+so if you think you can trust a site (for example your bank or a
+search engine), you may need to allow for example JavaScript: go to
+"Tools", "Preferences", "Advanced", "Content", "Manage site
+preferences" and edit (or add) the settings for the site you trust:
+select the site, push "Edit", click "Scripting" tab, check "Enable
+JavaScript", push "OK", "Close", and "OK".
+If you are using HotJava Browser 3, select "Edit", "Security
+Preferences...", select "Advanced", click "Applets and JavaScript",
+uncheck "Enable Applets", and "Enable JavaScript". Click "OK". Some
+sites you are using may need for example scripting so if you think you
+can trust a site, you may need to allow for example JavaScript while
+you visit a web site you trust (for example your bank or a search
+engine).
+----------------------------------------------------------------------
+Q:
+How do I report spam to Google?
+A:
+From Martin Hagstrøm (mha@altavista.net):
+Google is not the Internet Police, but in cases where SPAM lowers the
+quality of Google's results (e.g. misleading titles) you may report
+them. Either use this URL:
+http://www.google.com/contact/spamreport.html
+or click the link at the bottom of the search results that says
+"Dissatisfied with your search results? Help us improve".
+Note:
+Don't expect immediate results.
+Google prefers to use the data
+to help them develop better algorithms that improve results overall,
+instead of playing "whack-a-mole" with individual sites.
+----------------------------------------------------------------------
+Q:
+Why doesn't a "link:" search show all my backlinks?
+A:
+From Craig Payne (cbpayne@gmail.com):
+Google have never shown all the links to a site. They have only ever
+shown a "sample". Previously the criteria for being in the sample was
+a PR threshold (probably a very high 3). Now there are other criteria
+to be in the sample
+ncluding a PR threshold - but it is not clear
+what the criteria is ...
+Google still takes all links into account when calculating PR, even
+though they do not show in the backlinks sample.
+Google do not show them for what could be any number of reasons eg to
+prevent reverse engineering of the PR algorithm; to save on computing
+resources; etc
+----------------------------------------------------------------------
+Q:
+Why does [link: your.url] (with a space) give me more results than
+[link:your.url] ?
+A:
+From Martin Hagstrøm (mha@altavista.net):
+The former command will find: all pages that mention your site and
+contain the word "link". + some of the pages that link to your site
+and contain the word "link".
+----------------------------------------------------------------------
+Q:
+How do I stop being redirected from www.google.com to other Google
+pages?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Google redirects you by probably using geotargeting, which usually
+means detecting your geographical location based on your IP address
+and on an IP-to-country database, which aren't 100 % accurate. Also,
+inaccuracies can happen if you are using a proxy.
+To stop being redirected from www.google.com to other national Google
+sites (for example to www.google.co.uk), try to click the link "Go to
+Google.com" (or similar) on the national Google main page or go to
+page http://www.google.com/ncr
+If that doesn't help, your cookies might be corrupted, so try to
+delete your cookies for Google. Also, make sure you still allow
+cookies for Google:
+http://www.google.com/help/faq.html#eng_home
+If you can't or don't want to allow cookies for Google, you can use
+one of the below pages and save it to your web browser's bookmarks
+(favorites):
+http://www.google.com/webhp
+http://www.google.com/intl/en/
+If you don't mind being redirected, but you are redirected to an
+incorrect national Google domain, you can contact Google:
+http://www.google.com/support/bin/answer.py?answer=873&topic=354
+----------------------------------------------------------------------
+Q:
+How can I change the language Google uses on its web pages?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+You can change your language setting on page
+http://www.google.com/preferences
+You may need to change the language settings for the international
+Google domain (google.com) and for your local/national Google domain
+(for example google.co.uk).
+If you are using a Gmail account, try changing the language setting
+for your Gmail account also ("Settings", "General", "Language").
+If that doesn't help, your cookies might be corrupted, so try to
+delete your cookies for Google. Also, make sure your web browser and
+security software still allow cookies for Google:
+http://www.google.com/help/faq.html#eng_home
+If you can't or don't want to allow cookies for Google, you should
+find a language interface for your language (if one exists) on page
+http://www.google.com/language_tools
+You could also try to move up your preferred language (you may need to
+add that language first) in the language settings of your browser. If
+you have Internet Explorer 7, select "Tools", "Internet Options",
+click the "General" tab, and press the "Languages" button. If you have
+Mozilla Firefox 2, select "Tools", "Options...", "Advanced", and press
+the "Choose..." button under the "Languages" heading. If you have
+Opera 9, select "Tools", "Preferences...", click the "General" tab,
+and press the "Details..." button near the "Languages" heading.
+http://www.google.com/help/faq.html#display
+If you can't see the characters for your language correctly try a
+different character encoding in your web browser (for example
+"Western", "Unicode", "ISO-8859-1", "UTF-8", etc.). If you have
+Internet Explorer 7, select "View" and "Encoding". If you have Mozilla
+Firefox 2, select "View", and "Character Encoding". If you have Opera
+9, select "View", and "Encoding".
+If you still can't see the characters for your language correctly, you
+may need to install the correct language files for your operating
+system. If you have the Windows operating system, push "Start" button,
+select "Settings", select "Control Panel", double-click "Regional and
+Language Options", click the "Languages" tab. There you may need to
+select "Install files for complex script and right-to-left languages
+(including Thai)" or "Install files for East Asian languages". The
+settings in different Windows versions may differ. Also, you probably
+need to have administrator rights for your computer and the Windows
+installation disc.
+----------------------------------------------------------------------
+Q:
+How can I save preferences for Google?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Allow cookies for Google.
+If you can't or don't want to allow cookies for Google, try Method A
+or Method B.
+Method A
+--------
+1. Go to http://www.google.com/ and click "Advanced Search" (or
+similar) button on that page.
+2. Choose the settings you want to use (search language, number of
+results per page, etc.) and click "Advanced Search" (or similar) button.
+3. Because you can't or don't want to allow cookies for Google, you
+may want to bookmark the resulting page so you can use Google with
+those preferences again the next time you use Google.
+Method B
+--------
+Another way to change the settings is by modifying the below URL:
+http://www.google.com/search?num=100&hl=en&lr=&ie=UTF-8&oe=ISO-8859-1&newwindow=1&safe=active&output=search
+As you can see, the interface language is English (hl=en), the search
+language is any language (lr=), SafeSearch is set to strict filtering
+(safe=active), number of search results per page is 100 (num=100),
+and search results will be opened to new windows (newwindow=1).
+The interface language code (hl=) can be found by going to
+http://www.google.com/language_tools and clicking one of the links
+under the "Use the Google Interface in Your Language" (or similar)
+headline and looking at the URL. For example, if you click "English"
+(or similar) link, you will be directed to
+http://www.google.com/intl/en/ where the code is "en" for English.
+The search language (lr=lang_) setting has less codes than the
+interface language setting and can be changed by placing the language
+code after the lang_. For example lang_en is for English.
+You can find a list of the interface language codes (hl=) and search
+language (lr=lang_) codes here:
+http://sites.google.com/site/tomihasa/google-language-codes
+The number of search results per page setting can be 10 (num=10),
+20 (num=20), 30 (num=30), 50 (num=50) or 100 (num=100).
+The SafeSearch setting can be strict (safe=active), disabled
+(safe=off) or moderate (remove the safe=xxx part from the URL).
+The open search results to new windows can be on (openednewwindow=1)
+or off (remove the openednewwindow=xxx part from the URL).
+After you have modified the URL, remember to press Enter, Return, etc.
+for the changes to take effect.
+When you are happy with the URL, you could bookmark it for future use.
+----------------------------------------------------------------------
+Q:
+Why doesn't Google remember my preferences after I switch off my
+computer and turn it back on?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Delete all cookies for Google Web Search, and try to save preferences
+again.
+----------------------------------------------------------------------
+Q:
+How can I allow cookies for Google?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Check the settings for your web browser and for your security software
+(virus scanner, firewall, ad blocker, etc.), which may block or delete
+your cookies. Instructions for some web browsers on how to allow
+cookies:
+If you are using Internet Explorer 6 or 7, click "Tools", select
+"Internet Options", click "Privacy" tab, and see what setting you have
+for cookies. If the setting for cookies is "Block All Cookies", you
+can't allow cookies for Google or any other website. If you are
+willing to receive cookies, change to some other setting, for example
+"High", and click "OK". Now you can allow cookies for google.com:
+click "Tools", select "Internet Options", click "Privacy" tab, push
+"Edit" (IE6) or "Sites" (IE7), type google.com in the field and push
+"Allow", "OK" and "OK".
+If you have Mozilla Firefox 0.x or 1.x, click "Tools", select
+"Options...", click "Privacy", select "Cookies", push "Exceptions",
+type google.com in the field, push "Allow", "OK", and "OK".
+If you have Mozilla Firefox 2.x, click "Tools", select "Options...",
+click "Privacy", push "Exceptions", type google.com in the field, push
+"Allow", "Close", and "OK".
+If you have Mozilla 1.x (Mozilla Suite), click "Edit", select
+"Preferences...", select "Privacy & Security", select "Cookies", push
+"Cookie Manager", click "Cookie Sites" tab, type google.com in the
+field, push "Allow", push "Close", and "OK".
+If you have Netscape 4.x, click "Edit", select "Preferences...",
+select "Advanced". Select "Accept all cookies" or "Accept only
+cookies that get sent back to the originating server". You might
+also want to check "Warn me before accepting a cookie". Push "OK".
+If you have Netscape 7, click "Edit", select "Preferences...", select
+"Privacy & Security", select "Cookies", and see what setting you have
+for cookies. If the setting for cookies is "Disable cookies", you
+can't allow cookies for Google or any other website. If you are
+willing to receive cookies, change to some other setting, for example
+"Enable cookies for the originating web site only", and click "OK".
+If that doesn't help, then you might have accidently blocked cookies
+for google.com. To see if that has happened, click "Edit", select
+"Preferences...", select "Privacy & Security", select "Cookies", push
+"Manage Stored Cookies", click "Cookie Sites" tab, click
+www.google.com, and push "Remove Site".
+If you have Opera 8, you might have to first empty the cache: click
+"Tools", select "Preferences...", select "Advanced", click "History",
+push "Empty now", and "OK" (you might have to do this a few times).
+Then you can enable cookies: click "Tools", select "Preferences...",
+click "Cookies", and under text "Normal cookies" select "Let me decide
+every time I receive one", or "Accept all cookies". If you select
+"Treat as specified in Server Manager", then also push "Manage
+cookies...", push "New...", type google.com, check "Apply these
+settings for entire domain" and "Accept cookies for server/domain",
+push "OK", push "Close", and do the same for the national Google
+domain (for example google.co.uk).
+http://www.google.com/cookies.html
+----------------------------------------------------------------------
+Q:
+How can I delete cookies for Google?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+If you are using Internet Explorer 6 or 7, click "Tools", select
+"Internet Options", click "General" tab, push the "Settings" button
+under the "Browsing history" (or "Temporary Internet files") heading,
+push the "View files" button, press the "Internet Address" or "Type"
+column headings to find more easily cookies for Google, right-click
+the name of the cookie and select "Delete". If you are using Internet
+Explorer 6, and you want to delete all the cookies for all the
+services at once, click "Tools", select "Internet Options", and push
+the "Delete Files" files button. If you are using Internet Explorer 7,
+and you want to delete all the cookies for all the services at once,
+click "Tools", select "Internet Options", click "General" tab, push
+"Delete..." button, and press "Delete cookies..." button.
+If you have Mozilla Firefox 2.x, click "Tools", select "Options...",
+click "Privacy", push "Show Cookies..." button, delete cookies for
+Google. If you want to delete all the cookies for all the services at
+once, push the "Remove All Cookies" button.
+If you have Mozilla Firefox 1.x, click "Tools", select "Options...",
+click "Privacy", select "Cookies", push "View Cookies" button, delete
+cookies for Google. If you want to delete all the cookies for all the
+services at once, push the "Remove All Cookies" button.
+If you have Mozilla 1.x (Mozilla Suite), click "Edit", select
+"Preferences...", expand "Privacy & Security" section by pressing the
+"+" character next to it, select "Cookies", push "Cookie Manager"
+button, click "Stored Cookies" tab, delete cookies for Google. If you
+want to delete all the cookies for all the services at once, push the
+"Remove All Cookies" button.
+If you have Netscape 8, click "Tools", select "Options...", select
+"Privacy", select "Cookies", push "View Cookies", delete cookies for
+Google. If you want to delete all the cookies for all the services at
+once, push the "Remove All Cookies" button.
+If you have Opera 8 or 9, click "Tools", select "Preferences...",
+click "Advanced" tab, click "Cookies", push "Manage cookies..."
+button, remove cookies for Google.
+----------------------------------------------------------------------
+Q:
+How can I make Google my home page?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+See instructions here:
+http://www.google.com/options/defaults.html
+http://www.google.com/support/bin/answer.py?hl=en&answer=463
+----------------------------------------------------------------------
+Q:
+Is there a way to see the search results numbered and without
+description (titles only)?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+http://www.google.com/ie
+This page shows the position of a web page for a certain search query:
+http://googlerankings.com/
+----------------------------------------------------------------------
+Q:
+Where can I find the most popular search queries?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+See Google Zeitgeist:
+http://www.google.com/press/zeitgeist.html
+----------------------------------------------------------------------
+Q:
+What is the "I'm Feeling Lucky" button?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Explained here:
+http://www.google.com/support/bin/answer.py?answer=30735
+----------------------------------------------------------------------
+Q:
+How do I search for special characters like &, %, #, @, $, £, €,
++, -, /, *, =, <, {, [, (, ), ], }, >, :, ;, !, ?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Google doesn't support special characters very well, because it
+ignores most of them in search queries. Try different search tactics
+with different keyword combinations.
+But Google does allow some uses of special characters:
+You can search for I/O.
+You can search for notes: A_, A#, B_, B#, C_, C#, D_, D#, E_, E#, F_,
+F#, G_, G#.
+You can use &, + and _ one or more times in the middle or at the end
+of a character or a word or between characters and words: A+, a_, C++,
+net__, page_count, i++++, a&b&c, i&&, "Health +& Human", "&& year".
+But you can't use + in front of a word or a character: +i, "++number".
+----------------------------------------------------------------------
+Q:
+Can I make a proximity search with Google?
+Q:
+Can I use wildcard symbols in searches?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+You can only use an asterisk (*) as a wildcard symbol in a phrase
+search so that each asterisk replaces one word. For example search for
+"1 * 3" can give results like "1 2 3", "1 1 3", "1 and 3", "1 to 3",
+etc. Search for "one * * four" can give results like "one, two, three,
+four", "one out of four", "one of top four", and so on.
+----------------------------------------------------------------------
+Q:
+How can I search for an exact phrase?
+Q:
+How can I exclude certain words from search queries?
+Q:
+How can I search only from the title of the page?
+Q:
+How can I search only from the URL of the page?
+Q:
+How can I search only from the links to the page?
+Q:
+How can I search only from the text of the page?
+Q:
+How can I search for PDF, PostScript, Word, Excel, PowerPoint,
+or Rich Text Format documents?
+Q:
+How can I search from pages that have been changed in 24 hours,
+week, month or year?
+Q:
+How can I search from a certain domain only?
+Q:
+How can I find similar pages?
+Q:
+How can I find pages that link to a page?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Use page http://www.google.com/advanced_search
+----------------------------------------------------------------------
+Q:
+What operators can I use in the search query?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Here are some of them:
+Basic operators:
++
+Include a common word or a character in search results by putting
+a + in front of it. For example include the common word "the" in
+search results:
+term1 +the term2
+-
+Exclude a word or a character from your search results by putting
+a - in front of it. For example include term1 and exclude term2
+in search results:
+term1 -term2
+~
+Include synonyms for a word in search results by putting a ~ in
+front of it. For example show results for the words car, auto,
+automobile, truck, etc.:
+~car
+*
+Replace any single word in a phrase. For example search for
+phrases "term1 and term2", "term1 or term2", "term1 with term2",
+etc.:
+"term1 * term2"
+""
+Search for complete phrases by enclosing them in quotation
+marks. For example search for phrase "term1 term2":
+"term1 term2"
+..
+Search for a numeric range. For example search DVD players in the
+price range from 250 to 350 US dollars:
+DVD player $250..$350
+OR
+Show documents that include the word left to OR, or the word
+right to OR, but not both on the same document. For example
+search for documents that have term1 (but not term2) or term2
+(but not term1):
+term1 OR term2
+Site and page specific operators:
+cache:
+Google's version of the page in Google's cache. For example show
+cached version of Google's main page:
+cache:http://www.google.com/
+link:
+List webpages that link to the specified webpage. For example
+show webpages that link to the Google's main page:
+link:http://www.google.com/
+related:
+List webpages that are "similar" to the specified web page. For
+example show pages that Google thinks are similar to the Google's
+main page:
+related:http://www.google.com/
+info:
+Show some information that Google has about the specified web
+page. For example show some information about the Google's main
+page:
+info:http://www.google.com/
+site:
+Restrict results to a given domain. For example search for the
+term FAQ from documents in the google.com domain:
+FAQ site:google.com
+Search for terms from a particular area of a document:
+allintext:
+Return only pages that have all the words you entered in the
+text of the page. For example show documents where all the words
+(Make Google Your Homepage) are in the text of the document:
+allintext:Make Google Your Homepage
+intext:
+Return only documents that have the first word after the
+"intext:" in the text of the page and other words anywhere in the
+document (in text of the page or not). For example search for
+documents that have the word Google in the text of the page and
+other words (Labs Beta) anywhere in the document:
+intext:Google Labs Beta
+allintitle:
+Return only documents that have all the words you entered in the
+title. For example search for documents that have the words
+Google Directory in the title of the document:
+allintitle:Google Directory
+intitle:
+Return only documents that have the first word after the
+"intitle:" in title and other words anywhere in the document
+(in title or not). For example show documents that have the word
+Google in title and other words (Make Google Your Homepage)
+anywhere in the document:
+intitle:Google Make Google Your Homepage
+allinurl:
+Return only documents that have all the words you entered in the
+URL. For example search for URLs that have the words google
+groups:
+allinurl:google groups
+inurl:
+Return only documents that have the first word after the
+"inurl:" in URL and other words anywhere in the document
+(in URL or not). For example show documents where google.com is
+in URL and other words (Site Map) are anywhere in the document:
+inurl:google.com Site Map
+allinanchor:
+Return results where the terms occur in links to the page. For
+example show documents that have the words Google News in links
+to the page:
+allinanchor:Google News
+inanchor:
+Return only documents that have the first term after the
+"inanchor:" in links to the page and other words anywhere in the
+document (in links to the page or not). For example search for
+documents that have the word Google in links to the page and
+other words (news archive) anywhere in the document:
+inanchor:Google news archive
+Miscellaneous operators:
+filetype:
+Find documents of the specified type. For example search for PDF
+documents with the word Google:
+Google filetype:PDF
+define:
+Provide a definition of the words you enter from various online
+sources. For example search for a definition for ISP:
+define:ISP
+phonebook:
+Show phonebook listings. For example search for computer related
+companies from California:
+phonebook:computers CA
+stocks:
+Show stock information for the symbols you enter. For example
+show stock information for the Google stock:
+stocks:GOOG
+weather
+Show weather information for a location. For example show weather
+information for Mountain View in California:
+weather Mountain View CA
+movie:
+Search for movie reviews and showtimes. For example search for
+movies made in 2005:
+movie:2005
+daterange:
+Search for documents indexed by Google in a particular date
+range. You can use a date converter service to create the
+"Julian date" numbers (for example
+http://www.numerical-recipes.com/julian.html). For example find
+documents that contain the words Google FAQ and are indexed by
+Google on January 1, 2005 or June 16, 2005 or between those
+dates:
+Google FAQ daterange:2453385-2453551
+Operators used in Google Groups:
+author:
+Search for articles that contain a name or email address in the
+"From:" field of an article. For example find articles that are
+probably posted by a Google employee:
+author:Google author:Employee
+author:groupmonitor@google.com
+author:googleguy@google.com
+group:
+Search from a specific Google discussion group or Usenet
+newsgroup. For example search for articles that contain the words
+Google Toolbar and which are posted to the official Google
+support discussion group:
+Google Toolbar group:google.public.support.general
+allinsubject:
+Find articles that have all the words in the "Subject:" line of
+the article. For example search for articles that have the words
+Google Update in the "Subject:" line:
+allinsubject:Google Update
+insubject:
+Return only documents that have the first word after the
+"insubject:" in the "Subject:" line of the article and other
+words anywhere in the article (in the "Subject:" line or not).
+For example search for articles that have the word Google in the
+"Subject:" line of the article and the word Toolbar anywhere in
+the article:
+insubject:Google Toolbar
+http://www.google.com/help/operators.html
+http://www.google.com/help/cheatsheet.html
+http://www.google.com/support/bin/static.py?page=searchguides.html&ctx=advanced
+----------------------------------------------------------------------
+Q:
+How can I make Boolean searches?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Examples: [x AND y], [x OR y], [x AND (y OR z)],
+[(x OR y) AND (z OR q)], [x AND (y OR z OR q)],
+[x AND (y OR z) AND q].
+http://www.searchengineshowdown.com/features/google/googleboolean.html
+----------------------------------------------------------------------
+Q:
+How can I search from a specific country?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Go to http://www.google.com/language_tools and select the country
+under the title "Visit Google's Site in Your Local Domain".
+For example, if you want to search for web pages from UK, click
+www.google.co.uk and select "pages from the UK".
+----------------------------------------------------------------------
+Q:
+I searched for example for the word "this" and it says "this is a
+very common word and was not included in your search". How can I
+include very common words in searches?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Add a plus sign in front of the word, for example +this.
+----------------------------------------------------------------------
+Q:
+How can I exclude adult sites from the search?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Use the SafeSearch option from the Advanced Search page or from the
+Preferences page:
+http://www.google.com/advanced_search
+http://www.google.com/preferences
+http://www.google.com/support/bin/static.py?page=searchguides.html&ctx=preferences#safe
+----------------------------------------------------------------------
+Q:
+Where can I find commands for the Calculator?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Visit page http://www.google.com/help/calculator.html
+----------------------------------------------------------------------
+Q:
+What kind of constants can I see with the Calculator?
+Q:
+What kind of calculations and conversions can I do with the
+Calculator?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Google hasn't documented all the features of the Calculator (February
+2004). Here are some procedures that work:
+Constants:
+Avogadro constant
+electron mass
+googol
+molar gas constant
+pi
+Planck's constant
+Stefan-Boltzmann constant
+Calculations:
+Arithmetic:
+(1 - 2^(3 / 4))/(4 + 5) * 6 + (3^2^3)
+Trigonometry:
+sin(30 degrees) + arctan(2 radians)
+Transcendental functions:
+e^7 + ln(1000) + cosh(3.6)
+Mechanics:
+(1 kg) * (9.8 m/s^2)
+Thermodynamics:
+((1 mol)*(8.315 J/mol*K)*(280 K))/(1.013 * 10^5 Pa)
+Waves:
+sqrt((1 / 93 * 10^11 Pa)/(1.26 * 10^3 kg/m^3))
+Electromagnetism:
+(4 farad) * (1*10^-3 m) / (7.43 * 10^-12 farads/m)
+Optics:
+((0.09 m)(600 * 10^-9 m))/(2 * 0.021 * 10^-3 m)
+Relativity:
+(1.98 * 10^-6 s)/sqrt(1-(0.995)^2)
+Quantum mechanics:
+(4.894 * 10^-15 eV*s)(3 * 10^8 m/s)/0.0114 eV
+Nuclear physics:
+25*(1.007825 u) + 35*(1.008665 u) - ((548.5 MeV)/(931.5 MeV/u))
+Conversions:
+Number conversions:
+0b1010 in decimal
+Angle conversions:
+2 radians in degrees
+Distance conversions:
+inches in feet
+Temperature conversions:
+kelvin in celsius
+----------------------------------------------------------------------
+Q:
+I have enabled the "Open search results in a new browser window"
+preference, but all results open in the same new browser window.
+How do I make each result to open to a totally new window?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Keep Shift key pressed down and left-click the links to open them to
+new windows.
+----------------------------------------------------------------------
+Q:
+How do I make each search result open in a new full sized window
+in Microsoft Windows?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Pull the windows to full size, keep Shift key pressed and click Close
+button in the windows, or try AutoSizer:
+http://www.southbaypc.com/AutoSizer/
+----------------------------------------------------------------------
+Q:
+What was Supplemental Result?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Google has removed supplemental results approximately in year 2008.
+Supplemental Results enabled users to find results for queries beyond
+Google's main index.
+http://www.google.com/support/webmasters/bin/answer.py?&answer=73028
+----------------------------------------------------------------------
+Q:
+What is Cached page?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+A Cached page is a "snapshot" of a page when Google crawled and
+archived it. A Cached page can be viewed if the original web server is
+having problems showing the current version of the page.
+http://www.google.com/support/bin/static.py?page=searchguides.html&ctx=results
+http://www.google.com/support/webmasters/bin/answer.py?&answer=35306
+----------------------------------------------------------------------
+Q:
+What is Local Search?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Local Search gives you results for a store, restaurant, or other local
+business. For example you can search for [Italian food 02138]. Works
+best with North American zip codes.
+http://www.google.com/help/features.html#local
+----------------------------------------------------------------------
+Q:
+Which search engines (or services) use Google search results?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+In February 2004 for example AOL, Netscape.com, and CompuServe used
+Google's search results:
+http://www.google.com/press/pressrel/aol.html
+Some meta search engines use Google search results also (for example
+Dogpile and InfoSpace):
+http://directory.google.com/Top/Computers/Internet/Searching/Metasearch/
+----------------------------------------------------------------------
+Q:
+How many web servers does Google have?
+Q:
+What operating system does Google use on the web servers?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+In 2002 Google used Linux on more than 10,000 web servers:
+http://www.google.com/googlefriends/sep2002.html
+In 2006 it was estimated Google used approximately more than 200,000
+web servers:
+http://www.eweek.com/c/a/IT-Infrastructure/Googles-Chip-Search-Leads-to-AMD/
+http://www.internetnews.com/ent-news/article.php/3595946
+----------------------------------------------------------------------
+Q:
+How many search queries do people make with Google?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+More than 40 million search queries per day in year 2000:
+http://www.google.com/press/pressrel/pressrelease34.html
+----------------------------------------------------------------------
+================
+2. GOOGLE GROUPS
+================
+----------------------------------------------------------------------
+Q:
+How can I change my name that appears every time I want to post or
+reply with Google Groups?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+If you want to change the name Google Groups suggests when you
+subscribe to a Usenet newsgroup or to a Google discussion group, go
+to http://groups.google.com/ and sign in. Then click the "Profile" link
+in the top right-hand corner and click the "edit" link next to the
+"My profile" text.
+If you want to change your name for one or for all the groups you
+have already subscribed to, go to http://groups.google.com/ and sign
+in. Then click "My Groups" and click "Manage my memberships" link
+below the list of groups you have subscribed to.
+----------------------------------------------------------------------
+Q:
+How can I automatically quote messages in Google Groups?
+Q:
+What quoting styles and techniques can I use?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Click "More options", "Reply". In Google Groups web interface you can
+find "More options" link next to the date of the message. If you click
+"More options", Google Groups will show you more information about the
+message and more options. One of the options is the "Reply" link, and
+if you click it, Google Groups will add greater than ">" signs to the
+beginning of the text lines of the quoted article as a way to
+distinguish the quoted text from your own text.
+You can use three well-known quotation styles: top posting, bottom
+posting or interleaved posting (trimmed posting).
+Top posting means you type your answer before the original text.
+Bottom posting means you type your reply after the original text. In
+interleaved posting you type your text in between the original text
+and trim out unnecessary text. Trimming saves the time of all the
+other people when they only need to read the text necessary to
+understand which part of your text is a response to which part of the
+original text you reply to.
+Many people prefer interleaved posting, because in many languages you
+read the text from top to bottom so it is logical that the reply is at
+the bottom of the message and it is easy to follow the discussion when
+the answer is immediately after the quoted question. An interleaved
+and trimmed answer could look like this:
+Neil Newbie wrote:
+> Hello, I would like to ask two questions:
+> - what is Google Groups?
+Google Groups is a discussion service where you can read and
+post messages.
+> - how can I get a Google account?
+You can get a Google account by going to
+https://www.google.com/accounts/NewAccount and following the
+instructions on that page
+Ellie Expert
+Also, keep in mind that some people read the discussions via email and
+they might get a lot of email daily and they may want to delete old
+messages from their computers so they don't might have the option to
+see the previous messages so if you are replying to a message and you
+don't quote anything from the original message it can be difficult to
+find out who is replying to whom and what was the original question.
+Notice that the Google Groups web interface doesn't support discussion
+board tags such as [quote] [/quote] or <blockquote> </blockquote> used
+for example in BBCode, Ikonboard, phpBB, vBulletin, WWWBoard, and
+YaBB. Instead, discussion board codes are shown as they are without
+any special effects.
+More info about quoting:
+http://www.cs.tut.fi/~jkorpela/usenet/brox.html
+http://www.uwasa.fi/~ts/http/quote.html
+http://www.xs4all.nl/~wijnands/nnq/nquote.html
+http://mailformat.dan.info/quoting/top-posting.html
+http://www.caliburn.nl/topposting.html
+----------------------------------------------------------------------
+Q:
+How can I change my email address in Google Groups?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Go to https://www.google.com/accounts/ and sign in. Then click "My
+Account" and click "Change email".
+If you don't see the link "Change email", then you might have Gmail
+address in which case you need to create a new Google account for the
+new email address. (You could click the link "Delete Gmail Service",
+on page https://www.google.com/accounts/EditServices but it's risky,
+because you might want to use the Gmail address later and there can
+be problems if you delete it.)
+----------------------------------------------------------------------
+Q:
+My messages have disappeared. Where are they?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Search for author:your@email.address or use the Advanced Groups
+Search page:
+http://groups.google.com/advanced_search?q=&
+----------------------------------------------------------------------
+Q:
+How can I check the threads on what I post?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+With Google Groups, click the star next to the topic you are
+interested in so that the star changes to yellow.
+Or search for author:your@email.address and bookmark the resulting
+page or threads.
+http://groups.google.com/support/bin/answer.py?answer=46246&topic=9245
+----------------------------------------------------------------------
+Q:
+How do I remove messages I have posted with Google Groups?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Click "More options" next to your message, and click "Remove".
+See also:
+http://groups.google.com/support/bin/answer.py?answer=46493
+----------------------------------------------------------------------
+Q:
+I don't want to receive spam, but I still want to post with Google
+Groups. How do I avoid spam?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Get a free email address and create a Google account for it. Spam will
+go to the free email address:
+http://directory.google.com/Top/Computers/Internet/E-mail/Free/Web-Based/
+http://www.faqs.org/faqs/net-abuse-faq/harvest/
+----------------------------------------------------------------------
+Q:
+How do I respond to a post over 60 days old?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+If you are using a Usenet newsgroup with Google Groups, you shouldn't
+reply to old newsgroup posts, because many newsgroup users can't see
+messages older than a few weeks, because they are using newsreaders,
+which receive only the newest newsgroup articles from newsservers.
+But if you still want to discuss about an old subject, it is wise to
+create a new thread and to take some points from the original thread
+with your thoughts included so people using newsreaders will know what
+you are talking about.
+----------------------------------------------------------------------
+Q:
+How many newsgroups are there?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+The authoritative file listed over 45,000 "official" newsgroups on
+January 2007. There are also some newsgroups, which aren't on the
+list:
+ftp://ftp.isc.org/pub/usenet/CONFIG/active
+http://directory.google.com/Top/Computers/Usenet/
+----------------------------------------------------------------------
+Q:
+What is DejaNews?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+DejaNews was a Usenet archive, which was acquired by Google in
+February 2001:
+http://www.google.com/press/pressrel/pressrelease48.html
+http://groups.google.com/googlegroups/deja_syntax.html
+DejaNews was replaced by Google Groups 1 (GG1), which was replaced
+by Google Groups 2 (GG2), which was replaced by Google Groups 3 (GG3)
+in January 2007:
+http://groups.google.com/group/google-friends/msg/7e803f0c7fb6974f
+http://www.eweek.com/c/a/Messaging-and-Collaboration/Google-Launches-Revamped-EMail-Groups/
+----------------------------------------------------------------------
+Q:
+Is Google Groups a message board?
+Q:
+Are Google discussion groups same as Usenet newsgroups?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Google Groups is not only a message board. Google Groups is a Usenet
+archive, which contained more than 845 million archived newsgroup
+messages in February 2004. Archived newsgroup messages date back to
+year 1981 (Usenet was created in 1979).
+In addition to reading and posting to Usenet newsgroups, you can also
+create your own Google discussion groups. Google discussion groups
+are different from Usenet groups, because you can read Usenet
+newsgroups with a newsreader (and also with Google Groups), but you
+can't read Google discussion groups with a newsreader.
+http://www.google.com/googlegroups/archive_announce_20.html
+http://www.google.com/press/pressrel/6billion.html
+http://groups.google.com/group/google.public.support.general/msg/d88f36fb3e2c0aac
+http://groups.google.com/support/bin/answer.py?answer=46854&topic=9246
+http://www.oreillynet.com/pub/a/network/2001/12/21/usenet.html
+----------------------------------------------------------------------
+Q:
+Why does it take so long for my post to show up in Google Groups?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+There are over 45,000 newsgroups, and Google Groups archives many of
+them (over 35,000). Google Groups has newsgroup messages dating back
+to 1981 and there are over 845 million messages in the archive. That
+is a huge amount of information to deal with. In addition to Usenet
+newsgroups, Google Groups also archives Google discussion groups:
+http://www.google.com/googlegroups/archive_announce_20.html
+http://www.google.com/press/pressrel/pressrelease48.html
+http://www.google.com/press/pressrel/6billion.html
+If you are having problems sending, seeing or receiving your messages
+with Google Groups, see this unofficial troubleshooting guide:
+http://sites.google.com/site/tomihasa/google-groups-sending-messages
+----------------------------------------------------------------------
+Q:
+I have found a newsgroup that isn't archived by Google Groups. How
+can I ask it to be added to Google Groups?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+You could try contacting Google Groups using this contact form:
+http://groups.google.com/support/bin/request.py
+But Google Groups prefers you post your request to their forum:
+http://groups.google.com/group/Google-Groups-Guide
+----------------------------------------------------------------------
+Q:
+I have a question that doesn't relate to this newsgroup, where can
+I ask it?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Search for the most appropriate newsgroup or forum and ask there:
+http://www.geocities.com/findnewsgroup/
+http://www.giganews.com/
+http://www.newsville.com/
+http://www.google.com/search?&q=%5Byour-topic%5D+forum
+You can ask for most appropriate newsgroup or forum from a newbie
+newsgroup or forum:
+http://groups.google.com/group/news.newusers.questions
+http://www.google.com/search?&q=newbie+forum
+You might also be interested in Yahoo! Answers:
+http://answers.yahoo.com/
+----------------------------------------------------------------------
+Q:
+Can I post commercial advertisements in
+google.public.support.general?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+"this group explicitly prohibits The posting of commercial
+advertisements or other promotional material"
+"If you would like to report abuse on google.public.support.general,
+send an email to groups-abuse@google.com."
+http://groups.google.com/group/google.public.support.general/msg/9addeed9fdbf2a16
+----------------------------------------------------------------------
+Q:
+Where is the Group Charter for this newsgroup?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+http://groups.google.com/group/google.public.support.general/msg/9addeed9fdbf2a16
+----------------------------------------------------------------------
+Q:
+Do Google employees post to this newsgroup?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+They haven't posted here since year 2004 as this group has been
+replaced with other official Google forums. Here are some of their
+old posts:
+http://groups.google.com/groups?&q=author:googleguy%40google.com+
+http://groups.google.com/groups?&q=author:groupmonitor%40google.com+
+----------------------------------------------------------------------
+Q:
+Where can I report problems with Google Groups?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+You can use this feedback page:
+http://groups.google.com/support/bin/request.py
+Or you can post a message to this discussion group:
+http://groups.google.com/group/Google-Groups-Guide
+----------------------------------------------------------------------
+Q:
+Are there other official and unofficial Google forums?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+The following page includes some of the official and unofficial Google
+forums and newsgroups:
+http://sites.google.com/site/tomihasa/google-forums
+----------------------------------------------------------------------
+=============
+3. WEBMASTERS
+=============
+----------------------------------------------------------------------
+Q:
+I have a question about my site. Can you help me without me
+giving the URL of my site?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+In many cases it's quite difficult to help people without knowing
+the URL.
+We aren't psychics in google.public.support.general.
+----------------------------------------------------------------------
+Q:
+My web site has never been indexed by Google. Why?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Check out with site search [site:your.site] is your site really not
+indexed by Google. If it isn't, here are some possible reasons why
+your site isn't indexed:
+* Your site is new. It takes time to get indexed.
+* There are no web pages indexed by Google linking to your web site.
+* Your web site is not accessible to search engine spiders.
+* You are using spamming techniques.
+* You are linking to web sites that use spamming techniques.
+* Previous owner of your site got your domain name banned.
+----------------------------------------------------------------------
+Q:
+My new site appeared in the Google results for a few days, but now
+it has disappeared. Why?
+A:
+From Martin Hagstrøm (mha@altavista.net):
+New sites are picked up by the Google FreshBot, but they are dropped a
+few days later. It may take several weeks before your site is
+permanently included in Google. One reason is that Google keeps copies
+of its index on several different data centers, and whenever you
+search, you may get connected to a different data center.
+It takes a
+while to update all the data centers.
+----------------------------------------------------------------------
+Q:
+Why is it that some days my site is listed (lately in the top
+position) and on other days it isn't?
+A:
+From Craig Payne (cbpayne@gmail.com):
+they may be tweaking algorithms; they maybe temporarily reverting to
+old indexes at some datacenters; they maybe brining in missing
+backlinks for some sites; they maybe testing spam filters; they
+maybe....; is there a full moon tonight?
+----------------------------------------------------------------------
+Q:
+Why isn't my web site on the first page of search results (my web
+site is indexed by Google)?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+There is a lot of competition especially for popular keywords. For
+example on February 23, 2006 there were about 1,910,000,000 documents
+containing the word 'Google' in the index of Google Web Search:
+http://www.google.com/search?&q=Google
+People usually look at the top 10 search results for a search query.
+That is only about 0.0000005 % of all the search results for search
+[Google]:
+http://www.google.com/search?&q=10+%2F+1910000000
+Google doesn't show more than about 1,000 search results for a search.
+That is only about 0.00005 % of all the search results for search
+[Google]:
+http://www.google.com/search?&q=1000+%2F+1910000000
+So you might have a very low probability to be seen on the first page
+of search results especially for a popular search term.
+----------------------------------------------------------------------
+Q:
+How do I determine if my web pages are in the Google index?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Your web pages should be in the index if you can find some of your
+pages with one of these searches: ["Title of your page"] or [keywords
+on your page] or [URL of your page] or [site:your.domain] or
+[link:your.url].
+----------------------------------------------------------------------
+Q:
+I can't find anymore any web pages of my site. Is it banned?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+You shouldn't be banned if you can find some of your pages with one
+of these searches: [site:your.domain] or [link:your.url].
+If there are no web pages in Google's index that link to your web
+site, Google might remove your web site from the index (that doesn't
+mean your site is banned, it means your site doesn't seem to be
+important, because no page links to your pages). One way to try to
+find out are there web pages in Google's index linking to your web
+site is to search with Google for your site inside quotes, for example
+"your.site":
+http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=%22your.site%22
+Some pages might mention your web site, but do they also link to your
+web site?
+One reason might be you have changed your web site so that search
+engine spiders can't access your web site anymore. See question "Can
+search engine spiders access my web site?".
+----------------------------------------------------------------------
+Q:
+I'm quite sure by site is banned. How can I get it back to Google
+search results?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Clean up your web site from possible spamming techniques. After that
+send a re-inclusion request to Google. It can take some time. You need
+to create a sitemap file, which can be for example a text file, HTML
+file or an XML file containing URLs (and possibly other information)
+for the main or even all the public pages on your web site. You also
+need to create a Google Webmaster Tools account (if you don't already
+have one) at http://www.google.com/webmasters/tools/. Then you need to
+submit the sitemap file to your Google Webmaster Tools account. After
+your sitemap file has been accepted, log in to Google Webmaster Tools
+and select the "Request reconsideration" link and follow the
+instructions. More info:
+http://www.google.com/support/webmasters/bin/answer.py?answer=40318
+http://www.google.com/support/webmasters/bin/answer.py?answer=34575
+http://www.google.com/support/webmasters/bin/answer.py?answer=35843
+----------------------------------------------------------------------
+Q:
+How do I submit my site to Google?
+A:
+From Martin Hagstrøm (mha@altavista.net):
+You could use this URL: http://www.google.com/addurl.html. But
+generally it's best to let Google find your site by having some other
+sites point to yours.
+----------------------------------------------------------------------
+Q:
+Will my site be banned if I submit it too often?
+A:
+From Martin Hagstrøm (mha@altavista.net):
+No, That would make it too easy to get your competition's site banned
+;-) But again: there's really no need to submit your site to Google.
+Let Google find it.
+----------------------------------------------------------------------
+Q:
+Why do I need incoming links pointing to my web site?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Because Google doesn't have enough employees to check all the over 1
+trillion (1,000,000,000,000) URLs indexed by Google every day, Google
+uses search engine spiders and spam recognition algorithms instead:
+http://googleblog.blogspot.com/2008/07/we-knew-web-was-big.html
+Here's an illustrational example calculation:
+If one Google employee would check every single URL in the index 8
+hours a day using one minute per document, it would take over five
+million years:
+http://www.google.com/search?num=100&hl=en&lr=&c2coff=1&q=%281000000000000+minutes%29+%2F+%288+hours+%2F+day%29+in+years
+Google had 10,674 employees on December 31, 2006:
+http://www.google.com/corporate/history.html#2007
+If everyone of the 10,674 employees would use 8 hours a day checking
+those trillion documents, it would take over 500 years until the job
+was done:
+http://www.google.com/search?num=100&hl=en&lr=&c2coff=1&q=%281000000000000+minutes+%2F+10674%29+%2F+%288+hours+%2F+day%29+in+years
+But those web pages need to be checked more often than only once every
+500 years. Preferably every day.
+----------------------------------------------------------------------
+Q:
+Why don't the keywords in my meta tags have any effect?
+A:
+From JB (jtb5358@yahoo.com):
+Google ignores the "keywords" meta tag because it's too easy to spam
+with it.
+So do most other search engines, by the way.
+Google *does*
+use the "description" meta tag sometimes, I think when it contains
+exactly the keywords being searched for, *and* those keywords are also
+visible on the page in the body text, title, etc.
+----------------------------------------------------------------------
+Q:
+We have a new version of our website, but when you search in
+Google for information about our website, the search result still
+points to the old web pages. What would be the process to have the
+search pointing at the new website pages?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Google advises to use an HTTP 301 permanent redirect from the old site
+to the new site:
+http://www.google.com/support/webmasters/bin/answer.py?answer=34444
+Depends on your webhost what you can do. Contact your webhost and read
+about 301 redirects:
+http://www.google.com/search?&q=301+redirect
+http://www.seocompany.ca/seo/url-redirect.html
+http://www.tamingthebeast.net/articles3/spiders-301-redirect.htm
+Warning: don't use an HTTP 302 temporary redirect:
+http://www.mcanerin.com/EN/articles/301-redirect-apache.asp
+http://seotoday.com/seo-tips/the-rundown-on-301-and-302-redirects
+Use an HTTP response viewer (see question "Are there any SEO tools?")
+to make sure you are using the correct redirect.
+----------------------------------------------------------------------
+Q:
+Does Google index dynamic pages?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Yes, Google does index dynamic pages, but Google still prefers static
+pages over dynamic pages. There also are some restrictions and
+problems:
+The more parameters a page has in the URL, the less probably it will
+get indexed by Google.
+Also session IDs can cause problems, as most of your pages might end
+up in supplemental results and rank poorly as Google doesn't like
+duplicate content and it is difficult for Google to know are you
+creating duplicate pages on purpose or by accident as the same page
+can have many URLs as in this imaginary example where there are many
+URLs for the same example.html page:
+hxxp://your.site.com/dynamic/example.html?sessionid=a_BrNylSYB5o_2BIQa
+hxxp://your.site.com/dynamic/example.html?sessionid=axQSWD5Lp_7-QrT5Py
+hxxp://your.site.com/dynamic/example.html?sessionid=aL7YVtEm_1I7nLQN-w
+You could disable session IDs, but if you are using for example a
+shopping cart functionality you need to save visitor information. You
+could use cookies instead of session IDs to save session information,
+but some people disable cookies.
+That's why you could create different versions of your pages. You
+could create pages without session IDs intended only for search engine
+bots and pages with session IDs for your customers and keep your pages
+with session IDs in their own directory. Then you could tell search
+engine bots not to crawl pages with session IDs using a robots.txt
+file for example with lines like (in case the dynamic pages are in
+directory 'dynamic'):
+User-Agent: *
+Disallow: /dynamic/
+Yet another solution is to identify search engine bots by their
+User-Agent string and turn sessions IDs off only for them. In that
+case remember to check that your solution works.
+More info:
+http://www.google.com/support/webmasters/bin/answer.py?answer=40360&topic=8846
+http://www.google.com/support/webmasters/bin/answer.py?answer=40364
+http://www.robotstxt.org/faq.html
+http://www.frozenminds.com/disable-sessionid.html
+http://www.websitepublisher.net/article/search_engine_friendly_urls/
+----------------------------------------------------------------------
+Q:
+Does Google crawl JavaScript?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Yes, Google can crawl JavaScript for complete (clean) URLs. Because
+some search engines may not see links in JavaScript at all and there
+are people who have disabled JavaScript, you could create a static
+sitemap file with links to your other pages so search engine bots
+should more probably be able to find more pages on your site.
+http://www.seroundtable.com/archives/003737.html
+http://www.markcarey.com/googleguy-says/archives/discuss-google-crawls-javascript.html
+http://www.mattcutts.com/blog/bot-obedience-herding-googlebot/#comment-45561
+----------------------------------------------------------------------
+Q:
+Someone copied my entire website. What should I do now?
+A:
+From Craig Payne (cbpayne@gmail.com):
+You have a case under the Digital Millenium Copyright act. Here is
+what you do:
+1) Burn a screen shot of your site and his site to a CD. Post this to
+yourself registered/certified mail. Do not open it. This can be used
+as evidence at a later date.
+2) Write him (or preferably from your lawyer) a cease and desist
+letter - tell them about step one (this makes it sound you are
+serious)
+3) Write to his ISP (preferably from your lawyer) - give them 48hrs to
+take the site down or they will be named as a party to legal action re
+copyright(tell them about step one)
+4) Lodge a complaint with Google under the DMCA:
+http://www.google.com/dmca.html
+5) Court action is too expensive, but at least step one makes you
+sound serious.
+6) If you want to get nasty - send a nice email all those sites that
+link to him telling them what a scumbag he is and that they should not
+link to such a low life (this will affect his Google rankings)
+----------------------------------------------------------------------
+Q:
+How does my mirror site affect my Google PageRank?
+A:
+From Craig Payne (cbpayne@gmail.com):
+Duplicate content gets booted from the index.
+----------------------------------------------------------------------
+Q:
+How can I remove a page or a site from Google search results?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+http://www.google.com/support/webmasters/bin/answer.py?answer=35301&topic=8459
+----------------------------------------------------------------------
+Q:
+Why Googlebot comes only to my first page, but it never follows
+the links into the rest of the site?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Google doesn't crawl deeper into new and low PageRank sites.
+----------------------------------------------------------------------
+Q:
+How can I stop Googlebot from downloading the same file over and
+over again?
+Q:
+How can I stop Googlebot from downloading too fast?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Contact Google as this is a bandwidth issue:
+http://www.google.com/support/webmasters/bin/answer.py?answer=48620&ctx=sibling
+----------------------------------------------------------------------
+Q:
+How can I stop Googlebot from crawling my web site altogether?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+You can use a robots.txt file or a robots meta tag:
+http://www.google.com/support/webmasters/bin/answer.py?&answer=93708
+----------------------------------------------------------------------
+Q:
+What is a robots.txt?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+http://www.robotstxt.org/robotstxt.html
+----------------------------------------------------------------------
+Q:
+What is a robots meta tag?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+http://www.robotstxt.org/meta.html
+----------------------------------------------------------------------
+Q:
+How do I recognize visits from search engine spiders (including
+Googlebots) in my log file?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Depends on your log file or service. It might show the IP address,
+hostname and/or user agent info for the visitors.
+Here are some example IP addresses (and hostnames if available) of
+Googlebots (April 9, 2006):
+64.68.90.1 (crawl-66-249-64-1.googlebot.com)
+64.233.173.193 (not available)
+66.249.64.1 (crawl-66-249-64-1.googlebot.com)
+209.185.253.167 (c2.googlebot.com)
+216.239.45.4 (216-239-45-4.google.com)
+Here are some examples of the user agent info Googlebot might give
+you (April 9, 2006):
+Googlebot/2.1 ( http://www.google.com/bot.html)
+Googlebot/2.1 ( http://www.googlebot.com/bot.html)
+Googlebot/Test ( http://www.googlebot.com/bot.html)
+Googlebot-Image/1.0
+http://www.iplists.com/
+http://www.spidermatic.com/en/supported_spiders.php
+http://www.jafsoft.com/searchengines/webbots.html
+http://www.user-agents.org/index.shtml
+http://www.robotstxt.org/db.html
+http://www.google.com/Top/Computers/Internet/Searching/Search_Engines/Robots/
+----------------------------------------------------------------------
+Q:
+How search engine spiders see my web pages?
+Q:
+Can search engine spiders access my web site?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Use a search engine simulator or a text only web browser such as lynx
+to find out how search engine spiders see your web site and can they
+access your web site.
+Search engine simulators:
+http://www.pagerank.net/search-engine-simulator/
+http://www.webconfs.com/search-engine-spider-simulator.php
+lynx:
+http://lynx.browser.org/
+One way is to use Amaya (uncheck all options in "Special",
+"Preferences", "Browsing"):
+http://www.w3.org/Amaya/
+Or disable at least JavaScript and cookies in your web browser, see
+question "How can I adjust the settings of my web browser to make
+browsing the web pages safer?".
+----------------------------------------------------------------------
+Q:
+How can I help my web site rank higher on a national Google
+search for a certain country?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Google looks at the IP address and TLD (top-level domain) of your web
+site, so host your server in the country for which you want to rank
+high for and/or use a country-specific TLD (e.g. uk).
+----------------------------------------------------------------------
+Q:
+Where can I see the dates of the previous Google updates?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Here are some of the Google updates with approximate dates:
+2005
+October 16 - Jagger
+May - Bourbon
+February - Allegra
+2004
+February 17 - Brandy
+January - Austin
+2003
+November 14 - Florida
+June 15 - Esmeralda
+May - Dominic
+April 11 - Cassandra
+March 6 - Boston
+January 25
+January 1
+2002
+November 27
+October 31
+September 26
+August 21
+July 25
+June 23
+May 24
+April 25
+March 6
+February 20
+January 25
+2001
+December 27
+November 25
+October 28
+September 16
+August 19
+July 19
+June 22
+May 21
+April 23
+March 26
+February 19
+January 21
+2000
+December 19
+November 18
+October 22
+August 29
+July 26
+----------------------------------------------------------------------
+Q:
+What is Google Dance?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+When Google's index was updated about once a month, the Google data
+centers displayed different search results for the same search for a
+few days until the update settled. Because search results were varying
+from server to server, the search results were "dancing". And that's
+where the term "Google Dance" comes from. In mid-2003 Google started
+to update the index continuously. It seems that an update of the
+complete index still happens once in a while.
+http://dance.efactory.de/
+----------------------------------------------------------------------
+Q:
+What are the Google data centers?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Google adds and changes data centers now and then. Here are some
+examples of IP addresses of Google's data centers (April 9, 2006):
+64.233.161.99
+64.233.167.104
+66.249.93.104
+66.102.9.147
+72.14.207.99
+72.14.207.107
+216.239.37.105
+216.239.53.106
+Here are some of Google's historical data center domains of which only
+www, www2, and www3 work anymore (April 9, 2006):
+www.google.com
+www2.google.com
+www3.google.com
+www-ab.google.com
+www-dc.google.com
+www-cw.google.com
+www-fi.google.com
+www-ex.google.com
+www-gv.google.com
+www-in.google.com
+www-kr.google.com
+www-lm.google.com
+www-mc.google.com
+www-sj.google.com
+www-va.google.com
+www-zu.google.com
+More thorough list:
+http://www.vaughns-1-pagers.com/internet/google-data-centers.htm
+----------------------------------------------------------------------
+Q:
+What is the PageRank?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Technology Overview
+http://www.google.com/corporate/tech.html
+Google Toolbar Features
+http://toolbar.google.com/button_help.html
+The Anatomy of a Large-Scale Hypertextual Web Search Engine
+by Sergey Brin and Lawrence Page
+http://infolab.stanford.edu/~backrub/google.html
+The PageRank Citation Ranking: Bringing Order to the Web
+by Lawrence Page, Sergey Brin, Rajeev Motwani and Terry Winograd
+http://ilpubs.stanford.edu:8090/422/
+----------------------------------------------------------------------
+Q:
+How can I see the PageRank number for a web page?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+You can see it with the Google Toolbar (requires Internet Explorer or
+Mozilla Firefox):
+http://toolbar.google.com/
+Or you can use this page:
+http://www.top25web.com/pagerank.php
+----------------------------------------------------------------------
+Q:
+How can I make my site rank higher in search results?
+Q:
+How do I avoid my site getting banned by Google?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Here are some tips:
+Do:
+- get links from other sites pointing to your site (preferably from
+high PageRank sites)
+- make good content to your pages (to get links you need to have good
+content)
+- submit your site to search engines (for example Google, Yahoo!,
+AltaVista)
+- submit your site to directories (for example DMOZ, JoeAnt, GoGuides,
+MavicaNet, Yahoo! Directory)
+- make a site map with static links pointing to the main sections of
+your site
+- use timely topics: update content when needed
+Extras:
+- create a discussion forum where people can discuss about subjects
+- create page(s) containing news about current issues
+Caution:
+- frames, dynamically generated pages, Java, Flash, and Shockwave may
+cause problems for web spiders (you might want avoid those
+technologies on the first page of your site)
+- if you create a fake web site (web site with no real content humans
+would read, for example fake "directory" pages or fake "article"
+pages with nothing for humans to be read, except advertisements or
+links to advertisement pages) just to make money using Google
+AdSense and/or affiliate programs, your web site might get banned by
+Google
+Avoid:
+- avoid HTML errors
+- avoid spelling errors
+- avoid broken links
+- avoid keyword stuffing
+- avoid too high keyword density
+- avoid hidden text or hidden links
+- avoid cloaking only to get more traffic to your site
+- avoid doorway pages created just for search engines
+- avoid suspicious SEO firms
+- avoid link farms, and suspicious link-sharing programs
+- avoid linking to web spammers
+- don't send automated queries to Google
+Advanced:
+- use keywords on titles, headings, URLs, and beginnings of pages
+- use descriptive and accurate title and alt elements
+- learn more about robots.txt, log files, validation, HTML, CSS, SEO
+More tips:
+http://directory.google.com/Top/Computers/Internet/Web_Design_and_Development/FAQs,_Help,_and_Tutorials/
+Search engine guidelines for webmasters:
+http://www.google.com/support/webmasters/bin/answer.py?answer=35769
+http://help.yahoo.com/l/us/yahoo/search/basics/basics-18.html
+http://help.live.com/help.aspx?mkt=en-US&project=wl_webmasters
+Speculation about ranking factors:
+http://www.vaughns-1-pagers.com/internet/google-ranking-factors.htm
+http://www.seomoz.org/article/search-ranking-factors
+Google's "Spam & SEO" patent:
+Entity Display Priority in a Distributed Geographic Information System
+http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PG01&s1=20050071741&OS=20050071741&RS=20050071741
+----------------------------------------------------------------------
+Q:
+Are there any webmaster tools or services?
+Q:
+Are there any SEO tools?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Here are some tools, services, and documents:
+Spamdexing detection tool (doesn't recognize all the spam techniques)
+http://tool.motoricerca.info/spam-detector/
+Duplicate content detection tool (not 100 % certain)
+http://www.copyscape.com/
+Google Webmaster Tools
+http://www.google.com/webmasters/tools/
+Keyword analysis tools for web pages
+http://www.webconfs.com/keyword-density-checker.php
+http://www.seochat.com/seo-tools/keyword-density/
+http://www.pagerank.net/keyword-density-analyzer/
+http://www.webmaster-toolkit.com/keyword-analysis-tool.shtml
+Show related words for a search (to get ideas for new keywords)
+http://www.google.com/webhp?complete=1&hl=en
+http://labs.google.com/sets
+https://adwords.google.com/select/KeywordToolExternal
+http://www.seochat.com/seo-tools/keyword-suggestions-google/
+http://www.webmaster-toolkit.com/keyword-research-tool.shtml
+http://www.googspy.com/
+http://www.seochat.com/seo-tools/keyword-typo-generator/
+http://www.gorank.com/seotools/ontology/
+Show real-time search queries
+http://www.dogpile.com/info.dogpl/searchspy/
+Show popular searches and search trends
+http://www.google.com/press/zeitgeist.html
+http://www.google.com/press/intl-zeitgeist.html
+http://sp.ask.com/en/docs/iq/iq.shtml
+http://buzz.yahoo.com/
+http://hotsearches.aol.com/
+http://50.lycos.com/
+Link popularity tools
+http://www.seochat.com/seo-tools/link-popularity/
+http://www.addpro.com/popularity.htm
+http://www.iconinteractive.com/tools/pop/index.php
+Search engine spider simulators
+http://www.webconfs.com/search-engine-spider-simulator.php
+http://www.pagerank.net/search-engine-simulator/
+http://www.webmaster-toolkit.com/search-engine-simulator.shtml
+http://www.1-hit.com/all-in-one/tool.search-engine-viewer.htm
+HTTP response viewers
+http://www.rexswain.com/httpview.html
+http://web-sniffer.net/
+http://www.1-hit.com/all-in-one/php/header-check.php
+http://livehttpheaders.mozdev.org/
+Link checker tools
+http://validator.w3.org/checklink/
+http://www.anybrowser.com/linkchecker.html
+http://www.1-hit.com/all-in-one/tool.broken-link-finder.htm
+http://www.webmaster-toolkit.com/link-checker.shtml
+http://www.htmlhelp.com/tools/valet/
+Search engine friendly redirect checker
+http://www.webconfs.com/redirect-check.php
+Screen size test tools for web pages
+http://www.anybrowser.com/ScreenSizeTest.html
+http://www.webconfs.com/web-page-screen-resolution.php
+HTML/XHTML/WML/XML validators
+http://validator.w3.org/
+http://www.w3schools.com/wap/wml_validate.asp
+http://www.htmlhelp.com/tools/validator/
+http://www.htmlvalidator.com/
+CSS validators
+http://jigsaw.w3.org/css-validator/
+http://www.htmlhelp.com/tools/csscheck/
+robots.txt validators
+http://validator.czweb.org/robots-txt.php
+http://tool.motoricerca.info/robots-checker.phtml
+Feed validators
+http://validator.w3.org/feed/
+http://feedvalidator.org/
+http://rss.scripting.com/
+Google data center tools
+http://www.seochat.com/seo-tools/multiple-datacenter-google-search/
+http://www.seocritique.com/datacentertool/
+Meta search engines (see have other search engines indexed your site)
+http://www.mamma.com/
+http://www.metacrawler.com/
+http://www.ixquick.com/
+Search engine guidelines for webmasters
+http://www.google.com/support/webmasters/bin/answer.py?answer=35769
+http://help.yahoo.com/help/us/ysearch/basics/basics-18.html
+http://search.msn.com/docs/siteowner.aspx?t=SEARCH_WEBMASTER_REF_GuidelinesforOptimizingSite.htm&FORM=WGDD
+Directions for manual spamdexing checking
+http://sites.google.com/site/tomihasa/banned-by-google
+Directory pages
+http://www.google.com/Top/Computers/Internet/Searching/Search_Engines/Google/Tools/
+http://www.google.com/Top/Computers/Internet/Web_Design_and_Development/Promotion/Tools/
+----------------------------------------------------------------------
+===================
+4. GOOGLE DIRECTORY
+===================
+----------------------------------------------------------------------
+Q:
+How do I get my site listed in Google Directory?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Google Directory at http://directory.google.com/ uses the data from
+DMOZ (Open Directory Project). Submit your site to DMOZ. See these
+instructions:
+http://www.dmoz.org/add.html
+----------------------------------------------------------------------
+Q:
+How do I change the description of my site in Google Directory?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Google Directory uses the data from DMOZ (Open Directory Project).
+Submit the change using the DMOZ "update URL" link:
+http://www.dmoz.org/help/update.html
+----------------------------------------------------------------------
+Q:
+When is Google Directory updated next?
+A:
+From Craig Payne (cbpayne@gmail.com):
+Google only updated the Directory 8 times in 2002 and 2 times in 2003
+(the last being early November) - so the next one is anyones guess.
+----------------------------------------------------------------------
+=================
+5. GOOGLE TOOLBAR
+=================
+----------------------------------------------------------------------
+Q:
+I have installed Google Toolbar. Where is it?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+1. Use the correct web browser: you can see Google Toolbar only in
+Internet Explorer or Mozilla Firefox. Following instructions are for
+the Internet Explorer version of the Google Toolbar:
+2. In Internet Explorer select "Tools", click "Internet Options",
+click "Advanced" tab, check "Enable third-party browser extensions".
+If you still don't see the Google Toolbar, in Internet Explorer select
+"View", click "Toolbars", and select "Google". If you see the Google
+Toolbar, you can select "View", click "Toolbars" and select "Lock the
+Toolbars" so you should see the Google Toolbar all the time in
+Internet Explorer.
+3. If the above instructions don't help, uninstall and reinstall the
+Google Toolbar. To uninstall the Google Toolbar, push the green
+"Settings" button (it should be at the right side of the toolbar),
+select "Help", select "Uninstall...". Or in Windows, select "Start",
+select "Settings", click "Control Panel", double-click "Add/Remove
+Programs". Find "Google Toolbar" (or similar) from the list, push the
+"Remove" button (or similar). Reboot your computer and reinstall the
+Google Toolbar from http://toolbar.google.com and repeat step 2.
+4. If even reinstalling Google Toolbar won't help, then you might have
+spyware, which can hide or disable the Google Toolbar. See question
+"My computer began to behave strangely. Why?" for instructions on
+how to remove spyware.
+----------------------------------------------------------------------
+Q:
+How can I clear the search history in Google Toolbar?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Click the "G" letter or the little black arrow on the left side of the
+search box, click "View History...", click "Clear History" link (if
+you don't see the "Clear History" link, make sure you have made
+searches while you have allowed toolbar to show you search
+suggestions, see below text paragraph).
+If you don't want Google Toolbar to save searches, click "Settings",
+"Options...", "Search Box Settings...", and uncheck "Suggest searches
+from my search history".
+----------------------------------------------------------------------
+Q:
+Can Google Toolbar be used in other browsers than Internet
+Explorer?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Yes, there is a version for Mozilla Firefox:
+http://toolbar.google.com/firefox/
+There is also an unofficial version for Mozilla/Netscape 7 called
+Googlebar:
+http://googlebar.mozdev.org/
+----------------------------------------------------------------------
+======================
+6. GMAIL (GOOGLE MAIL)
+======================
+----------------------------------------------------------------------
+Q:
+After I have logged in to Gmail, why doesn't Gmail work?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+There can be many reasons: Gmail may have problems, or you may have
+proxy issues, or your internet security software (antivirus, personal
+firewall, web filtering program) or an extension for Mozilla Firefox
+may prevent you from using Gmail, or your browser isn't supported by
+Gmail. Here are some solutions:
+- if you are using internet security software (antivirus, personal
+firewall, web filtering program), disable them for troubleshooting
+purposes
+- you may have problems because of proxy issues, so try logging in at
+https://gmail.google.com
+(or https://mail.google.com/ for Google
+Mail users)
+- reload web page after you have logged in to Gmail
+- empty browser's cache
+- allow cookies for Google
+- allow JavaScript for Gmail
+After these changes, close the browser window, and open another to log
+in to Gmail.
+If the above tips don't help and if possible, try a different browser
+(for example Internet Explorer, Mozilla Firefox, or Opera) or a
+different computer to find out if the problem is with a setting or a
+program instead of Gmail.
+Fully supported browsers by Gmail (January 2009):
+- Internet Explorer 7,
+- Mozilla Firefox 2.0+,
+- Google Chrome, and
+- Safari 3.0
+Somewhat supported browsers by Gmail:
+- Internet Explorer 5.5+,
+- Mozilla Firefox 0.8+,
+- Mozilla 1.4+,
+- Netscape 7.1+, and
+- Safari 1.3+
+Only Basic HTML view used for browsers:
+- Internet Explorer 4.0+,
+- Netscape 4.07+, and
+- Opera 6.03+
+You might find your answers from the Gmail Help pages:
+http://mail.google.com/support/
+You can also use a discussion forum about Gmail to ask for assistance:
+http://groups.google.com/group/Gmail-Help-Discussion
+http://www.webmasterworld.com/forum100/
+----------------------------------------------------------------------
+Q:
+How can I reload a web page?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+If you are using Internet Explorer 6 or 7, press F5 on keyboard. Or
+click "View", and select "Refresh".
+If you have Mozilla Firefox 0.x, 1.x, 2.x, Mozilla 1.x (Mozilla
+Suite), Netscape 7 or 8, press F5 on keyboard. Or click "View", and
+select "Reload".
+If you have Opera 8 or 9, press F5 on keyboard. Or click "Reload"
+icon.
+----------------------------------------------------------------------
+Q:
+How can I empty the browser's cache?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+If you are using Internet Explorer 6, click "Tools", select "Internet
+Options", push "Delete Files..." button.
+If you are using Internet Explorer 7, click "Tools", select "Internet
+Options", click "General" tab, push "Delete...", push "Delete
+files...", and then "Yes" button.
+If you have Mozilla Firefox 0.x, 1.x, or Netscape 8, click "Tools",
+select "Options", click "Privacy", push "Clear" button next to
+"Cache".
+If you have Mozilla Firefox 2.x, click "Tools", select "Options",
+click "Privacy", click "Clear Now...", check "Cache", push "Clear
+Private Data Now" button.
+If you have Mozilla 1.x (Mozilla Suite) or Netscape 7, click "Edit",
+select "Preferences...", select "Advanced", select "Cache", push
+"Clear Cache" button.
+If you have Opera 8 or 9, click "Tools", select "Preferences...",
+select "Advanced", click "History", push "Empty now".
+----------------------------------------------------------------------
+Q:
+How can I allow JavaScript for Gmail?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+If you are using Internet Explorer 6 or 7, add Gmail and Google to
+trusted sites: click "Tools", select "Internet Options", click
+"Security" tab, click "Trusted sites", push "Sites" button, write
+*.gmail.com in the text field, push "Add" button, write *.google.com
+in the text field, push "Add" button. Push "OK", and "OK". Next check,
+that Internet Explorer allows JavaScript for Trusted sites: click
+"Tools", select "Internet Options", click "Security" tab, click
+"Trusted sites". If the setting is "High", change it to a lower one,
+for example "Medium". Push "OK".
+If you have Mozilla Firefox 0.x or 1.x, click "Tools", select
+"Options", select "Web Features", and check "Enable JavaScript".
+If you have Mozilla Firefox 2.x, click "Tools", select "Options",
+select "Content", check "Enable JavaScript".
+If you have Mozilla 1.x (Mozilla Suite) or Netscape 7, click "Edit",
+select "Preferences...", select "Advanced", select "Scripts &
+Plug-ins", and check "Navigator".
+If you have Opera 8 or 9, click "Tools", select "Preferences...",
+select "Advanced", click "Content", check "Enable JavaScript". You may
+also want to push "Manage site preferences" button to make sure your
+settings for gmail.com and google.com are correct.
+----------------------------------------------------------------------
+=======================
+7. MISCELLANEOUS TOPICS
+=======================
+----------------------------------------------------------------------
+Q:
+What is google.public.support.general?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+The google.public.support.general is an official Google newsgroup that
+was created by Google in year 2001 and which is supposed to be
+accessed with the Google Groups web interface using a web browser:
+http://www.google.com/googlefriends/oct2001.html#talk
+The google.public.support.general newsgroup has been replaced by
+official Google forums, see the below page for a list of some of the
+official and unofficial Google forums:
+http://sites.google.com/site/tomihasa/google-forums
+----------------------------------------------------------------------
+Q:
+How can I read google.public.support.general with a newsreader?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+The google.public.support.general newsgroup and other newsgroups in
+the google.* hierarchy are special newsgroups in the sense they are
+only supposed to be read with the Google Groups web interface using a
+web browser. Some newsservers do contain a newsgroup called
+google.public.support.general, because the newsserver owners may
+create newsgroups with any names they like and some people may think
+it is the original and official newsgroup, but that kind of
+newsservers probably won't contain the same messages as the original
+and official google.public.support.general newsgroup at:
+http://groups.google.com/group/google.public.support.general
+Even though I mentioned above, that the google.* hierarchy is only
+supposed to be read with the Google Groups web interface, you may be
+able to post messages to the original and official
+google.public.support.general newsgroup (Google Groups version) with
+a Usenet newsreader using a trick where you cross-post your message to
+another newsgroup. But you probably won't be able to reply with your
+newsreader application to messages in the official newsgroup, if they
+have not been cross-posted to some other newsgroup so that you can see
+that message from a newsserver.
+----------------------------------------------------------------------
+Q:
+Where can I find Google logos?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+http://www.google.com/holidaylogos.html
+----------------------------------------------------------------------
+Q:
+Why is my phone number listed in Google search results?
+A:
+From JB (jtb5358@yahoo.com):
+If your phone number is published in the phone company's directory, it
+is public information. As for your address, even if it weren't in the
+phone book, there are surely other public records that contain it
+From Craig Payne (cbpayne@gmail.com):
+Google is one of numerous websites that has been doing this for a long
+time (are you also complaining to them as well).
+It has been possible to do this on CD's of phone books for >10years -
+have you also been been complaining to them for this long as well?
+If you are that concerned, Google allows you to remove your number
+here:
+http://www.google.com/help/pbremoval.html
+But this will not get your number removed from the telephone company
+CD,s and all the other websites that do this.
+----------------------------------------------------------------------
+Q:
+Where does the word google come from?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Google comes from the word googol, which is 1 followed by 100 zeros:
+http://www.google.com/corporate/index.html
+----------------------------------------------------------------------
+Q:
+How can I insert the Google Search to my web page?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+http://www.google.com/coop/cse/
+----------------------------------------------------------------------
+Q:
+How can I add feeds to Google?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+You can add feeds to Google's services iGoogle (previously known as
+Google Personalized Homepage) and Google Reader by submitting the URL
+of the web page or by searching for keywords in the title of the page
+or you can try to find links for the feeds from the web page and try
+to submit one of them to Google's services. More info:
+http://sites.google.com/site/tomihasa/feeds
+----------------------------------------------------------------------
+Q:
+Does Google offer a webhosting service?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Not in the widest sense (you can't use all the gimmicks available in
+commercial web hotel services). In the past you were able to make your
+own web pages and host various kind of files in Google Page Creator,
+which should have been shut down in year 2008. And now you can use
+Google Sites, which doesn't have the same functions such as the
+ability to host HTML files having your own JavaScript code and CSS:
+http://sites.google.com/
+(http://pages.google.com/)
+----------------------------------------------------------------------
+Q:
+How can I find people (e.g. email, address, or phone number)?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+You can type the name of the person in Google Web search. Try for
+example searches [first name, last name] and [last name, first name].
+You might also like to add the city and country where that person
+might live. You could also try to use a national Google site if there
+is one for that person's country:
+http://www.google.com/language_tools
+Services for finding people:
+http://www.google.com/help/features.html#wp
+http://www.faqs.org/faqs/finding-addresses/
+http://www.inventio.nl/metanamesearch/
+http://person.langenberg.com/
+http://directory.google.com/Top/Reference/Directories/Address_and_Phone_Numbers/
+http://www.google.com/search?q=find+people
+----------------------------------------------------------------------
+Q:
+Can you do my homework assignment?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+No.
+----------------------------------------------------------------------
+Q:
+How can I make a good newsgroup post?
+Q:
+How can I make people understand me?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+http://www.cs.tut.fi/~jkorpela/usenet/dont.html
+http://www.faqs.org/faqs/usenet/writing-style/part1/
+http://groups.google.com/support/bin/answer.py?answer=46492
+----------------------------------------------------------------------
+Q:
+How can I contact Google?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Instructions here:
+http://sites.google.com/site/tomihasa/google-contact-information
+----------------------------------------------------------------------
+Q:
+Are there any other FAQs about Google?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+1) Official FAQs:
+"Add to Google" button FAQ
+http://www.google.com/webmasters/add.html
+Anita Borg Scholarship FAQ
+http://www.google.com/anitaborg/faq.html
+Dodgeball FAQ
+http://www.dodgeball.com/help
+File Types FAQ
+http://www.google.com/help/faq_filetypes.html
+Gmail FAQ (Help Center)
+http://mail.google.com/support/
+GOOG-411 FAQ (part of Mobile Help Center)
+http://mobile.google.com/support/bin/topic.py?topic=13550
+Google Accessible Search FAQ
+http://labs.google.com/accessible/faq.html
+Google Accounts FAQ (Help)
+http://www.google.com/support/accounts/
+Google Acquires Postini FAQ
+http://64.233.179.110/blog_resources/FINAL_Google_Postini_acquisition_FAQ.pdf
+Google Ad Manager FAQ (and Help Center)
+http://www.google.com/admanager/login/en_US/index.html#faq
+http://www.google.com/support/admanager/publisher/
+Google AdSense FAQ (Help Center)
+https://www.google.com/adsense/support/
+Google AdSense for domains FAQ
+http://www.google.com/domainpark/faq.html
+Google Advertising Professionals FAQ (Support)
+https://adwords.google.com/support/select/professionals/
+Google AdWords FAQ (Help Center)
+http://adwords.google.com/support
+http://www.google.com/ads/aw_faq.html
+Google AdWords API FAQ
+http://www.google.com/support/adwordsapi/
+Google AdWords Editor FAQ
+http://www.google.com/support/adwordseditor/bin/static.py?page=about.html
+Google AdWords Website Optimizer FAQ
+https://www.google.com/analytics/siteopt/siteopt/help/FAQ.html
+Google AJAX Language API
+http://code.google.com/apis/ajaxlanguage/faq/
+Google AJAX Search API FAQ
+http://code.google.com/support/bin/topic.py?topic=10021
+Google Alerts FAQ
+http://www.google.com/support/alerts/bin/static.py?page=faq.html
+Google Analytics FAQ (Help Center) (previously Urchin)
+http://www.google.com/support/analytics/
+Google Android FAQ
+http://code.google.com/android/kb/index.html
+Google and Space FAQ (Help Center)
+http://www.google.com/support/space/
+Google Answers FAQ
+http://answers.google.com/answers/faq.html
+Google App Engine FAQ
+http://code.google.com/appengine/kb/
+Google Apps for Your Domain FAQ (Help)
+http://www.google.com/support/a
+Google Base FAQ (Help Center)
+http://base.google.com/support/
+Google Blog Search FAQ
+http://www.google.com/help/about_blogsearch.html
+http://www.google.com/help/blogsearch/about_pinging.html
+Google Book Search FAQ (formerly Google Print)
+http://books.google.com/support/
+http://books.google.com/googlebooks/author_faq.html
+http://books.google.com/googlebooks/common.html
+http://books.google.com/googlebooks/publisher_library.html
+Google Browser Sync FAQ
+http://www.google.com/tools/firefox/browsersync/faq.html
+Google Calendar FAQ (Help Center)
+http://www.google.com/support/calendar
+Google Catalogs FAQ
+http://catalogs.google.com/googlecatalogs/help.html
+http://catalogs.google.com/googlecatalogs/help_merchants.html
+Google Chart API FAQ
+http://code.google.com/support/bin/topic.py?topic=13605
+Google Checkout FAQ (Help)
+http://checkout.google.com/support/?alltopics=1
+Google Chrome FAQ (Help Center)
+http://www.google.com/support/chrome/
+Google Click-to-Call FAQ
+http://www.google.com/help/faq_clicktocall.html
+Google Code FAQ
+http://code.google.com/support/bin/topic.py?topic=10435
+Google Code Search FAQ
+http://www.google.com/help/faq_codesearch.html
+Google crawl FAQ (robots.txt, Googlebot, Feedfetcher)
+http://www.google.com/support/webmasters/bin/topic.py?topic=8843
+Google Custom Search Engine FAQ (Help Center)
+http://www.google.com/support/customsearch/
+Google Desktop FAQ (Help Center)
+http://desktop.google.com/support/
+http://desktop.google.com/support/mac/
+http://desktop.google.com/support/linux/
+Google Docs FAQ (Help Center)
+http://www.google.com/support/writely/
+http://www.google.com/support/spreadsheets/
+http://documents.google.com/support/presentations/
+Google Earth FAQ (Help Center)
+http://earth.google.com/support/?alltopics=1
+Google Finance FAQ (Help Center)
+http://www.google.com/support/finance/
+Google Friend Connect FAQ (Help)
+http://www.google.com/support/faqs/bin/static.py?page=faq_friend_connect.html
+Google Gadgets API FAQ
+http://code.google.com/support/bin/topic.py?topic=10027
+Google Gadgets for your page FAQ
+http://code.google.com/support/bin/topic.py?topic=10043
+Google Gadget Ventures FAQ
+http://www.google.com/gadgetventures/faq.html
+Google Gears FAQ
+http://code.google.com/support/bin/topic.py?topic=11628
+Google General FAQ
+http://www.google.com/help/faq.html
+Google Grants FAQ
+http://www.google.com/grants/faq.html
+Google Groups FAQ (Help Center)
+http://www.google.com/googlegroups/about.html#faq
+http://groups.google.com/support
+Google Health FAQ (Help Center)
+http://www.google.com/support/health/
+Google Help
+http://www.google.com/support/
+http://www.google.com/support/bin/static.py?page=alpha_index.html
+Google I/O FAQ
+http://code.google.com/events/io/faq.html
+Google Image Labeler FAQ
+http://images.google.com/imagelabeler/help.html
+Google Image Search FAQ
+http://www.google.com/help/faq_images.html
+Google in Your Language FAQ
+http://www.google.com/transconsole/giyl/check/staticfile?staticfilekey=faq
+Google Insights for Search FAQ (Help Center)
+http://www.google.com/support/insights/
+Google Labs FAQ
+http://labs.google.com/faq.html
+Google Mail FAQ
+http://mail.google.com/mail/help/intl/en-GB/about.html
+Google Map Maker FAQ
+http://www.google.com/mapmaker/mapfiles/s/faq.html
+Google Maps FAQ (Google Local)
+http://local.google.com/support/
+Google Maps API FAQ
+http://code.google.com/support/bin/topic.py?topic=10028
+http://code.google.com/apis/maps/faq.html
+Google Maps for mobile FAQ (Help Center)
+http://www.google.com/support/mobile/bin/topic.py?topic=9112
+Google Mars FAQ
+http://www.google.com/mars/about.html
+Google Message Security & Compliance FAQ (Help Center)
+http://www.google.com/support/appsecurity/
+Google Mini FAQ
+http://www.google.com/support/mini/
+Google Moon FAQ
+http://www.google.com/help/faq_moon.html
+Google Navigator (China) FAQ
+http://www.google.com/intl/zh-CN_ALL/help/faq_daohang.html
+Google News FAQ (Help)
+http://www.google.com/support/news/
+Google News Alerts FAQ
+http://www.google.com/help/faq_newsalerts.html
+Google Notebook FAQ
+http://www.google.com/googlenotebook/faq.html
+Google on your mobile device FAQ (Help Center)
+http://www.google.com/support/mobile/
+Google Pack and Updater FAQ (Help)
+http://www.google.com/support/pack/
+Google Page Creator FAQ
+http://pages.google.com/-/about.html
+Google Patent Search FAQ
+http://www.google.com/googlepatents/about.html#faq
+Google Privacy FAQ
+http://www.google.com/privacy_faq.html
+Google Product Search FAQ (previously Froogle)
+http://froogle.google.com/froogle/about.html
+Google Protocol Buffers FAQ
+http://code.google.com/apis/protocolbuffers/docs/faq.html
+Google Public Service Search FAQ
+http://services.google.com/pss_faq.html
+Google Public Transit FAQ (Help)
+http://maps.google.com/support/bin/topic.py?topic=12356
+Google Reader FAQ
+http://www.google.com/help/faq_reader.html
+Google Ride Finder FAQ
+http://labs.google.com/ridefinder/help.html
+Google Search Appliance FAQ
+http://www.google.com/support/gsa/
+Google Security and Compliance Services FAQ
+http://www.google.com/support/appsecurity/bin/answer.py?answer=87530
+Google Sitemaps FAQ (Help)
+http://www.google.com/support/webmasters/bin/topic.py?topic=8476
+Google Sites FAQ (Help Center)
+http://www.google.com/support/sites/
+Google SketchUp FAQ (Help Center)
+http://sketchup.google.com/support/
+Google Sky FAQ
+http://www.google.com/sky/about.html
+Google SMS FAQ (Help Center)
+http://www.google.com/support/mobile/bin/topic.py?topic=9123
+Google SOAP Search API
+http://code.google.com/apis/soapsearch/api_faq.html
+Google Store FAQ
+http://www.google-store.com/contact_us.php
+Google Suggest FAQ
+http://labs.google.com/suggest/faq.html
+Google Summer of Code 2008 FAQ
+http://code.google.com/opensource/gsoc/2008/faqs.html
+Google Talk FAQ (Help)
+http://www.google.com/support/talk/
+http://www.google.com/support/talkgadget/
+Google Talk Labs Edition FAQ
+http://www.google.com/talk/labsedition/faq.html
+Google Toolbar FAQ (Help Center)
+http://www.google.com/support/toolbar/
+http://www.google.com/support/firefox/
+Google Translate FAQ
+http://www.google.com/help/faq_translation.html
+Google Trends FAQ
+http://www.google.com/intl/en/trends/about.html
+Google Video FAQ (Help Center)
+http://video.google.com/support/
+Google Video Upload Program FAQ
+https://upload.video.google.com/video_faq.html
+Google Visualization API FAQ
+http://code.google.com/support/bin/topic.py?topic=14181
+Google Web Accelerator FAQ
+http://webaccelerator.google.com/support.html
+Google Web Alerts FAQ
+http://www.google.com/help/faq_webalerts.html
+Google Web Directory FAQ
+http://www.google.com/dirhelp.html
+Google Webmasters FAQ (Help Center)
+http://www.google.com/support/webmasters/
+Google Web Search Help Center
+http://www.google.com/support/?ctx=web
+Google WiFi Mountain View FAQ
+http://wifi.google.com/support/
+Hello FAQ
+http://www.hello.com/support.php
+iGoogle FAQ (previously Google Personalized Homepage)
+http://www.google.com/support/bin/topic.py?topic=1592
+Investor FAQ
+http://investor.google.com/faq.html
+Joga FAQ
+http://help.joga.com/support/
+KML FAQ
+http://code.google.com/apis/kml/faq.html
+Knol FAQ (Help)
+http://knol.google.com/k/knol/knol/Help
+Lively FAQ (Help Center)
+http://www.lively.com/help/
+OpenSocial API FAQ
+http://code.google.com/apis/opensocial/faq.html
+orkut FAQ (Help Center)
+http://help.orkut.com/
+Picasa FAQ (Help)
+http://picasa.google.com/support/
+Picasa APIs FAQ
+http://code.google.com/apis/picasa/faq.html
+Premium Service FAQ
+http://www.google.com/ads/faq.html
+University Search FAQ
+http://services.google.com/univ_faq.html
+YouTube FAQ (Help Center)
+http://www.google.com/support/youtube/
+YouTube Data API FAQ
+http://code.google.com/support/bin/topic.py?topic=12357
+2) Unofficial FAQs:
+Unofficial Gmail FAQ
+http://www.dslreports.com/faq/gmail
+Unofficial Google Earth FAQ
+http://seamap.env.duke.edu/help/google_earth/
+Unofficial Google Groups FAQ
+http://sites.google.com/site/tomihasa/google-groups-faq
+Unofficial Google Maps FAQ
+http://mapki.com/index.php?title=FAQs
+Unofficial Google Modules FAQ
+http://www.googlemodules.com/help/
+Unofficial Google Page Creator FAQ
+http://gpcfaq.googlepages.com/
+Unofficial Google PageRank FAQ
+http://www.alvit.de/vf/en/web-development-google-pagerank-frequently-asked-questions.html
+Unofficial Google Scholar FAQ
+http://www.library.unlv.edu/help/googlescholar.html
+Unofficial Google Sitemaps FAQ
+http://www.arnebrachhold.de/2006/04/07/google-sitemaps-faq-sitemap-issues-errors-and-problems
+Unofficial Google Spreadsheets FAQ
+http://gssfaq.googlepages.com/
+Unofficial Google Webmaster FAQ
+http://www.webworkshop.net/google_faq.html
+Unofficial Harvard-Google Project FAQ
+http://hul.harvard.edu/hgproject/faq.html
+----------------------------------------------------------------------
+Q:
+Are there any other informative web pages about Google?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+Google Site Map
+http://www.google.com/sitemap.html
+Directory page about Google
+http://directory.google.com/Top/Computers/Internet/Searching/Search_Engines/Google/
+Research Papers
+http://directory.google.com/Top/Computers/Internet/Searching/Search_Engines/Google/Research_Papers/
+Efficient crawling through URL ordering
+by Junghoo Cho, Hector Garcia-Molina and Lawrence Page
+http://ilpubs.stanford.edu:8090/347/
+Google Press Center
+http://www.google.com/press/
+Google Friends Newsletter
+http://www.google.com/googlefriends/archive.html
+Official Google Blog
+http://googleblog.blogspot.com/
+Google: Investor Relations
+http://investor.google.com/
+----------------------------------------------------------------------
+Q:
+How can I find this FAQ?
+A:
+From Tomi Häsä (tomi.hasa@gmail.com):
+In newsgroup google.public.support.general write FAQ next to button
+"Search this group", and push the button:
+http://groups.google.com/group/google.public.support.general/search?group=google.public.support.general&q=FAQ&qt_g=1&searchnow=Search+this+group
+Or go to: http://sites.google.com/site/tomihasa/google-general-faq
+----------------------------------------------------------------------
+Copyright (C) 2004—2009: Tomi Häsä (tomi.hasa@gmail.com),
+Craig Payne (cbpayne@gmail.com), Martin Hagstrøm (mha@altavista.net),
+and JB (jtb5358@yahoo.com).
+Disclaimer: This article is provided as is without any express or
+implied warranties. While every effort has been taken to ensure the
+accuracy of the information contained in this article, the
+contributors assume no responsibility for errors or omissions, or for
+damages resulting from the use of the information contained herein.
+Recent Changes
+Mentions
+News Quotes About Google
+Last modified: January 9th, 2009
+Author: Tomi Häsä (tomi.hasa@gmail.com)
+URL: http://sites.google.com/site/tomihasa/google-general-faq
+Sign in|Report Abuse|Print Page|Powered By Google Sites

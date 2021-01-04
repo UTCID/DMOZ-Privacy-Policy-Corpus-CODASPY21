@@ -1,0 +1,28 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/apas04.html#websec2-APP-A-SECT-4.1.1
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Commercial Start-UpNow that the Unix workstation was on the island and the leased
+line to the Internet was up and running, the next thing to do was to
+work on our dialup access.Working with the Phone CompanyA friend who ran an ISP in Cincinnati had told me that if I
+wanted to run a successful dialup operation, I should get a service
+from the phone company called circular hunting
+. Normally, a bank of telephones is put into what is
+called a hunt group . You might have a block of phone numbers, from
+555-1000 to 555-1020. With normal hunting, a phone call to 555-1000
+is always taken by the first phone in the hunt group that isn’t
+busy. But with circular hunting, the phone system remembers the last
+phone that it dialed and automatically dials the next phone number
+in the hunt group, whether the call to the previous phone number has
+hung up or not.Circular hunting sounded like a great idea if you are running
+dialup access with analog modems. Consider what happens if you have
+a modem that suddenly fails to answer new calls. If you have
+circular hunting, then you only lose one modem: the next caller gets
+the next modem. But if you don’t have circular hunting, then every
+caller will get the ringing modem, and nobody will get any of the
+other modems in the hunt group that are still good.Lesson: Design your systems to fail gracefully.I called NYNEX and tried to order a Centrex system with circular hunting. Unfortunately, nobody at the phone company knew what I was talking about. (A few months ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

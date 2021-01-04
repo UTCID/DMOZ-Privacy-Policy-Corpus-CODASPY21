@@ -1,0 +1,49 @@
+https://www.cbu.edu/about/cbu-policies/website-accessibility/
+About CBU&sol CBU Policies¬
+Website Accessibility
+In This Section
+Privacy Policy
+Sexual Misconduct Policy
+Voter Registration Information
+Website Accessibility
+Finance & Procurement Policies
+Our commitment and approach to maintaining an accessible website
+Christian Brothers University is committed to:
+Maintaining an accessible website.Ensuring that this website achieves “Level AA” conformance to the Web Content Accessibility Guidelines (WCAG) 2.1, to comply with the National Disability Authority’s Code of Practice on Accessibility of Public Services and Information Provided by Public Bodies.Ensuring that all new information on the website will achieve “Level AA” conformance to the Web Content Accessibility Guidelines (WCAG) 2.1.Including accessibility when we procure 3rd-party systems or upgrades to existing systems.
+This website’s conformance with official accessibility guidelines
+The website currently has Compliant conformance to the Web Content Accessibility Guidelines (WCAG) 2.1. Our most recent web accessibility audit for this website was on July 1, 2020.
+Areas for improvement and time-lines
+We are aware of some areas on the website where we could improve accessibility. We are currently working to achieve this. We hope that this website will achieve “Level AA” conformance to the Web Content Accessibility Guidelines (WCAG) 2.1 by December 2020.
+Slider / Carousel on homepageAccordion
+How to send feedback on this website’s accessibility
+We welcome feedback on the accessibility of this website.
+Email us at marketing@cbu.edu Phone us at (901) 321-3271Write to us:Christian Brothers UniversityCommunications and Marketing650 E Parkway SMemphis, TN 38104
+Accessibility Features on this website
+The following criteria only highlights success criteria for Level A and Level AA. To review the full report download CBU’s Voluntary Product Accessibility Template (PDF).
+Download CBU’s Voluntary Product Accessibility Tempalate
+Success Criteria, Level A
+1.1.1 Non-text Content (Level A) – All non-text content that is presented to the user has a text alternative that serves the equivalent purpose, except for:
+Controls, Input: If non-text content is a control or accepts user input, then it has a name that describes its purpose.Time-based mediaCAPTCHADecoration, formatting, invisible elements.
+1.3.1 Info and Relationships (Level A)
+Using ARIA landmarks to identify regions of a page.Using aria-labelledby to name regions and landmarks.Using semantic elements to mark up structure and semantic markup to mark emphasized or special text.Using table markup to present tabular information.
+1.3.2 Meaningful Sequence (Level A)
+Ordering the content in a meaningful sequence for all the content in the Web page.Positioning content based on structural markup (CSS)
+2.1.1 Keyboard (Level A)
+All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes.Manually tested using Silktide browser plugin on Chrome and Firefox and VoiceOver utility on the Mac operating system.
+2.4.4 Link Purpose (In Context) (Level A)
+The purpose of each link can be determined from the link text alone.
+Success Criteria, Level AA
+1.2.5 Audio Description (Prerecorded) (Level AA)
+Videos from YouTube have closed captioning and descriptions.
+1.3.4 Orientation (Level AA 2.1 only)
+Site has been tested using different orientations.
+1.3.5 Identify Input Purpose (Level AA 2.1 only)
+Auto fill can occur on forms within the cbu.edu site.
+2.4.5 Multiple Ways (Level AA)
+Providing links to navigate to related Web pagesProviding a site mapProviding a search function to help users find content
+CBU Policies
+Privacy Policy
+Sexual Misconduct Policy
+Voter Registration Information
+Website Accessibility
+Finance & Procurement Policies

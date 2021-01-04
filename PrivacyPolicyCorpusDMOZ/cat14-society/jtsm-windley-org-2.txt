@@ -1,0 +1,561 @@
+http://jtsm.windley.org/tags/privacy.shtml
+Welcome to the Internet of My Things
+Home
+About Phil
+Contact Phil
+About
+Show Tag Cloud
+Show Archives
+Why Technometria?
+Posts with keyword: privacy
+42 entries
+Supporting LESS and Trustless Identity
+Mon Mar 30 15:35:00 2020
+Avoiding future identity catastrophes requires that we put technical and legal structures in place now to protect privacy and autonomy and provide censorship resistance.
+Continue reading...
+Recent Revisions to the Sovrin Governance Framework
+Thu Dec
+5 09:52:00 2019
+The latest revision of the Sovrin Governance Framework is aimed squarely at showing how the Sovrin identity metasystem is compliant with GDPR and other privacy regulations. Compliance is an important part of adoption and creating "identity for all."
+Continue reading...
+Fixing the Five Problems of Internet Identity
+Tue Oct 31 10:03:00 2017
+Sovrin capitalizes on decades of cryptographic research and the now widespread availability of decentralized ledger technology to rethink identity solutions so that we can have scalable, flexible, private interactions with consent despite the issues that distance introduces.
+Continue reading...
+Equifax and Correlatable Identifiers
+Fri Sep
+8 10:40:00 2017
+We can avoid security breachs that result in the loss of huge amounts of private data by creating systems that don't rely on correlatable identifiers. Sovrin is built to use non-correlatable identifiers by default while still providing all the necessary functionality we expect from an identity system.
+Continue reading...
+Life-Like Anonymity
+Fri May 12 17:52:00 2017
+Natural anonymity comes from our ability to recognize others without the aid of an external identity system. Online interactions can only mirror life-like anonymity when we have decentralized identity systems that don't put all unteractions under the purview of centralized administrative systems.
+Continue reading...
+Sovrin Use Cases: GPG as a Sovrin Client
+Fri Dec 23 12:39:00 2016
+GPG would make an excellent client for the Sovrin identity network and solve some of the problems that have prevented PGP from becoming a useful communication system.
+Continue reading...
+What Happens to the Data
+Wed Jul 16 15:29:00 2014
+Metromile offers per-mile car insurance based on an OBD II device that plugs into the car and reports data about how the vehicle is used to the insurance company. This raises questions about where the data goes, how it's used, and who owns it. Even more important, it's a business model that promotes the creation of data silos.
+Continue reading...
+On Names and Heterarchy
+Fri Apr
+4 14:55:00 2014
+Heterarchical (non-hierarchical) naming systems are vital if we are to avoid the pitfalls and dangers of surrendering our rights and our privacy to a tyranny of connected computers and devices that intermediate our lives at every level based on centralized authority. This post explores names and alternatives to names, including the use of bitcoin as a distributed directory that is immune from the problems that
+hierarchical solutions impose.
+Continue reading...
+Intention Generation: Fuse and VRM
+Fri Dec 13 09:31:00 2013
+One of the most influential books I've read in the last several years is Doc Searls' Intention Economy. The concept is simple: customer demand is the source of commerce and yet business has done a poor job of finding ways to understand customer intention. Doc's ideas have given rise to a movement called vendor relationship management or VRM. The term is a play off of CRM, and leads to a key idea: customers need tools to manage their interactions with the people who sell them products and services. When I write about social products, I'm writing about one such
+Continue reading...
+Cars, Privacy, and Personal Clouds
+Tue Feb 19 17:40:00 2013
+We don't have to chose between functionality and privacy as more and more of our things get connected. Personal clouds provide an architecture that supports both at the same time.
+Continue reading...
+Standard Information Sharing Labels
+Tue May 15 16:45:00 2012
+The Standard Label Kickstarter project is raising money to design a label that will standardize how Web sites let you know why they want your data and what they'll do with it. I'm a backer and I hope you will be too!
+Continue reading...
+Help Build Legal Sidewiki
+Mon Aug 15 11:11:00 2011
+Not many people take the time to understand the terms and conditions of a service they want to use and if they do, they're likely confused and overwhelmed. I'm looking for someone to build a Kynetx browser app that would let legal experts add commentary to these documents to guide users and let them know what they're signing up for.
+Continue reading...
+Personal Data, Freedom, and Value Creation
+Thu Apr 29 14:31:00 2010
+Image by mkrigsman via Flickr Data is big business. Whether its demographics or FICO score, people know things about you and sell it to people who want know about you. If you're read my blog post on the Power of Pull (or listened to the podcast) then you know that I believe we haven't even scratched the surface of where data exchange is going. As more and more of our life goes online there will be more and more semantic, structured data available about every aspect of our lives. For example, your golf clubs will automatically register your strokes,
+Continue reading...
+Come to Digital Death Day
+Thu Apr 29 09:11:00 2010
+The day after IIW (that would be May 20th), Kaliya is running a workshop called Digital Death Day at the Computer History Museum. Death is a part of life but what does death of the physical self mean for the digital self? This is a conference focused on this question and others around "digital death". What does it mean for loved ones of the departed? What does it mean for professionals in end of life care and post mortem services? What does it mean for online tool and service providers? What does it mean for estate
+Continue reading...
+HB150 Gives Too Great a Power to State
+Sat Feb 27 11:50:00 2010
+Utah House Bill 150 is a bad bill that will give government too much power to invade your privacy without a warrant. The bill has passed the house and it now awaiting action in the Senate. Read this post, read the bill, and then take a minute to contact your senator and express your hope that they will vote against it. If you don't know who your senator is, you can find out here. HB150 would allow law enforcement agencies in Utah to use an "administrative subpoena" to ask for the records of people suspected of
+Continue reading...
+Space-Time-Travel Data Changing the World Now
+Fri Sep 11 08:03:00 2009
+Jeff Jonas, who is one of the world's premiere data analysis experts writes: Mobile devices in America are generating something like 600 billion geo-spatially tagged transactions per day. Every call, text message, email and data transfer handled by your mobile device creates a transaction with your space-time coordinate (to roughly 60 meters accuracy if there are three cell towers in range), whether you have GPS or not. Got a Blackberry? Every few minutes, it sends a heartbeat, creating a transaction whether you are using the phone or not. If the device is GPS-enabled and you're using a location-based service
+Continue reading...
+Contrasting Kynetx and Greasemonkey
+Wed May
+6 14:53:00 2009
+Kynetx Network Service, or KNS, modifies a user's Web page using Javascript. The ability to customize pages in the browser is a powerful capability, but it goes well beyond that by allowing data from multiple sources, even other Web pages, to be used as part of that customization. Sure we can change change colors, fonts, and layout, but we can also mashup Web sites to produce completely new experiences. Described as I have, KNS is not unlike Greasemonkey, a popular plug-in for Firefox that allows user scripts to modify Web pages. In fact, in a recent post Paul Madsen
+Continue reading...
+P3P and Internet Explorer
+Tue Aug 26 13:14:00 2008
+If your Web service does anything that sets cookies, you'll probably bump up against the fact that Internet Explorer--since version 6--has implemented a fairly strict privacy policy regarding cookies. In a nutshell, if the site does not have the right P3P privacy policy, first-party cookies (i.e. from the site itself) are downgraded to session cookies and not stored in between browser sessions and third party cookies (i.e. from another site) are rejected completely. Here's what to do to solve this problem. P3P, or the Platform for Privacy Preferences is a W3C "protocol allowing websites to declare their intended use
+Continue reading...
+Dan Solove on Reputation
+Sat Mar 29 09:51:00 2008
+Clifford Thomson sent me a link to a talk Dan Solove gave at Google on his new book The Future of Reputation. I interviewed Dan on Technometria a while back about his earlier book The Digital Person. Dan's a very interesting speaker and raises important issues in his books and in this video. This is well worth watching if you're interested in the intersection of privacy and reputation in the Internet age.
+Continue reading...
+Facebook Beacon Demo
+Wed Nov 28 10:32:00 2007
+If you've been curious about privacy concerns over Facebook Beacon, this demo shows how it works and why some are concerned. I think Moveon.org is totally the wrong organization to take this on, but whatever. If you're a Firefox user (one more good reason to switch), these instructions show how to use the BlockSite plugin to kill Beacon. This will still allow you to use the rest of Facebook.
+Continue reading...
+Stop Complaining and Starting Building
+Mon Nov 26 08:40:00 2007
+Doc, as usual, hits the nail on the head in explaining how to solve the privacy-problem-de-juer: Facebook's advertising platform. To wit: If we want our reach to truly exceed Facebook's grasp, we can't just tell Facebook to stop grasping. We have do deals on our terms and not just theirs. We have to have real relationships and not just systems on the sell side built only to "manage" us, mostly by minimizing human contact. Perhaps most of all, we need to come up with systems that help demand find supply, rather than just ones that help supply find (or
+Continue reading...
+ProQuo - Stopping Junk Mail
+Wed Oct 31 20:50:00 2007
+I just created an account at Proquo and spent 15 minutes stopping the insane amount of junk mail I get. Most of the "do not mail" lists you get on with a simple click and some require filling out a form off the site. The most obnoxious was the DMA, which charges a dollar "to cut down on fraud"--yeah, sure. Like I trust them. The credit card link, unfortunately, didn't work--I'd love to get Capital One out of my life. I'll see if in a few months the volume has significantly reduced and let you know.
+Continue reading...
+EFF Wins 4th Amendment Email Victory
+Wed Jun 20 08:57:00 2007
+Richi Jennings has a nice wrap-up of reactions to the court ruling that EFF won against warrentless email snooping. Quoting Luke O'Brien: The ruling by the Sixth U.S. Circuit Court of Appeals in Ohio upheld a lower court ruling that placed a temporary injunction on e-mail searches in a fraud investigation against Steven Warshak, who runs a supplements company best known for a male enhancement product called Enzyte. Warshak hawks Enzyte using "Smiling Bob" ads that have gained some notoriety. The case boiled down to a Fourth Amendment argument, in which Warshak contended that the government overstepped its constitutional
+Continue reading...
+2.9 Million Georgians at Risk for Identity Theft
+Wed Apr 11 14:01:00 2007
+ZDNet news reports that "A CD containing personal information on Georgia residents has gone missing, according to the Georgia Department of Community The CD was lost by Affiliated Computer Services, a Dallas company handling claims for the health care programs, the statement said. The disc holds information on 2.9 million Georgia residents, said Lisa Marie Shekell, a Department of Community Health representative." When I was Utah's CIO, identity theft on this kind of grand scale didn't make the news as much as it does now. If I were in that position today, I'd be very scared. It's not so
+Continue reading...
+Man In the Browser Attack
+Wed Feb 21 15:08:00 2007
+Russ Jones, a professor at Arkansas State University gave a presentation on phishing and mentioned a term I'd not heard before the "man-in-the-browser attack." The idea is to install a trojan on the browser that presents a small, borderless window in the browser that overlays the login fields of the target site in a way that can't be detected by the user. The user is at the real site (so the cert will check out), but the credentials are stolen when the user tries to login. Here's a paper that describes the attack and some potential countermeasures.
+Continue reading...
+Cloning a Verichip and Other RFID Fun
+Wed Feb 21 09:44:00 2007
+Dale Thompson from the University of Arkansas spoke about RFIDs (surprisingly, many of the talks are tutorial in nature, which I hadn't suspected would be the case). He mentioned Verichip, which is an RFID device the size of a grain of rice that is certified for implanting in humans. I had heard of Verichip, but was curious. Of course, the obvious question is how secure is such a device. The answer appears to be "not very." Jonathan Westhues has a detailed Web site describing how to clone the data on the chip. He also has an easy do-it-yourself version
+Continue reading...
+Digital Identity for Cattle
+Wed Feb 21 07:45:00 2007
+Marion Berry is the representative for the Arkansas First District in Congress, and the opening keynote at today's meeting. He seemed passably informed on identity issues, noting how important identity is in modern society. He's a supporter of the Real ID act, which makes me wonder whether he understands the implications of identity policy. He took questions at the end of his talk. One questioner asked him to respond to Arkansas farmers opposition to cattle tagging. I wasn't aware of the issue before. The program is part of some federal effort to track food supplies. I've written about this
+Continue reading...
+Cheap Pseudonyms, Privacy, and Sex Offenders
+Tue Feb
+6 13:57:00 2007
+The BBC is reporting on a move by the British government to require convicted sex offenders to register their online identities. Of course, it only takes a minute of thought before you realize that its so easy to get a new email address that registering one doesn't do much good. There are some scary responses to that, like this one: If everyone had a single internet identity for life, like a National Insurance number, this would make it far easier to track people, he said. Child internet safety expert John Carr, of children's charity NCH, said: "This is a
+Continue reading...
+Does Your Four-Year Old Have a Full Time Job?
+Thu Sep 21 11:00:00 2006
+An article in this morning's Deseret News revealed that the Social Security Numbers of as many as 600 Utah children under the age of 12 are in use somewhere in the state by someone else. These workers might be using these SSNs mistakenly or they might not... The real story however, is that Utah law doesn't provide clear avenues and reasonable tools for the Dept. of Workforce Services to try to correct the mistakes. Workers are afraid of privacy law violations and have no authority to require employers to fix the problems. So, if your four year old gets
+Continue reading...
+Trusting Steve Gillmor
+Fri Aug 25 20:43:00 2006
+One of my favorite shows on IT Conversations was the Gillmor Gang. I say "was" because Steve's show hasn't been on IT Conversations for quite some time. That doesn't mean it's dead, however...The Gillmor Gang lives on at Podshow.com. I like the new Gillmor Gang. Its very unlike most things you hear--presentations or interviews. Listening to the Gillmor Gang is more like being a fly on the wall at a lunch with these guys. I know because I've been at lunch with many of these guys and this is just what it's like. The problem is that I always
+Continue reading...
+Undistinguished Identity and Reputation
+Thu Aug 10 15:58:00 2006
+I just posted an article on undistinguished identity and reputation at Between the Lines. People typically don't want their online activities correlated, but reputation is largely built from such correlations. Understanding and coming to terms with the tension between those two facts is going to be a large part of building reputation systems that work. The principles of reputation that Kevin Tew, Devlin Daley, and I discuss in our paper describing our reputation framework are aimed at lessening that tension.
+Continue reading...
+Free the Data!
+Thu May 25 06:52:00 2006
+Free the Data! Panel(click to enlarge) A specially arranged panel session called Freeing the Data was moderated by Kieron O'Hara (Univ. of Southhampton). On the panel were Daniel Weitzner (W3C & MIT), Daniel Harris (Kendra), and Jeremy Frey (Univ. of Southhampton). Jeremy Frey is a chemist and took the position that any scientist doing research should not only make results available, but the data as well. But making the data available isn't enough. We need to make it findable as well. Moreover, we need the context to be available and machine readable. Another issue with data is correctness. Published papers
+Continue reading...
+Your Cell Phone Is Watching You
+Mon May 15 16:49:00 2006
+One of my favorite programs from last week was Nathan Eagle's Where 2.0 presentation on using cell phones to predict user behavior. Using only publicly available data, Eagle was able to deduce relationships between pairs and groups of individuals. There are privacy concerns to be sure. Your cell provider already has much of this data. Every time two cell providers merge, what little protection we get from disparate carriers is broken down. What interested me most though it not the privacy concerns, but the potential to infer and enhance social interactions using the wearable computers each of us carries
+Continue reading...
+Grabbing Cell Data
+Thu May 11 21:17:00 2006
+Nathan Eagle's presentation at the Where 2.0 conference has some very interesting information about how easy it is to deduce interesting facts by monitoring cell phone location and proximity. Todd Biske has taken that and turned it into a call for better logging in SOA applications for the purpose of improving usability. This point to the need to carefully construct security policies around XML documents that are passed from place to place so that this kind of monitoring can occur without compromising sensitive data.
+Continue reading...
+SSNs and Security
+Tue Apr 11 12:44:00 2006
+A colleague of mine is taking his son to Washington D.C. with him on business and they decided they wanted to tour the White House. To get approval, he sent a note to his Senator's office. They asked him to send his and his son's Social Security Numbers via email so that they could do a security clearance. He objected and said he'd prefer to fax them the information. They responded that this was OK, but that they'd be sending the SSNs to the offices of other Senators and Representatives to coordinate their tour with other groups. Of course,
+Continue reading...
+Identity Privacy Contracts
+Tue Apr 11 09:30:00 2006
+I had a nice chat with Jeremie Miller this morning and he pointed me at a post I'd missed from Peter St. Andre on what he calls Identity Privacy Contracts. This is a well though out discussion on the levels of protection one would want in identity rights agreements. I think there will be a lot of discussion on this at IIW in May. Identity Commons is being reborn and hopefully this can be a mainstay in it's mission. To work, IRAs or IDPCs need organizational muscle, legal work, etc. Identity Commons, reconstituted, is probably the right place to
+Continue reading...
+Viruses, P2P, and Privacy
+Mon Feb 13 18:19:00 2006
+The Japan Time is reporting that the names of 10,000 Japanese convicts have been leaked from an employee's personal computer that was infected by a virus from the P2P program Winny. The information was initially stored on a CD by a staff member at Kagoshima Prison and handed to a staff member of Kyoto Prison in December. That employee left the CD in a personal computer. The data was leaked after the computer was infected with a virus via the peer-to-peer file-sharing program Winny, which had been installed on the computer, the officials said. From The Japan Times Online
+Continue reading...
+A Model Regime for Privacy Protection
+Mon Feb
+6 10:24:00 2006
+Daniel Solove and Chris Hoofnagle have published a paper entitled A Model Regime of Privacy Protection. The paper outlines patches that could be applied to current US law to increase privacy protection. In the paper, Solove and Hoofnagle build the model regime around Fair Use Practices, a set of very general principles: There must be no personal data record-keeping system whose very existence is secret. There must be a way for an individual to find out what information about him is in a record and how it is used. There must be a way for an individual to prevent
+Continue reading...
+NSA Cookies Cause Holiday Stir
+Mon Jan
+2 11:08:00 2006
+Seems that the NSA turned on persistent cookies in violation of a Federal rule that proscribes them unless there is a "compelling need." Of course there are a few people turning this into some kind of conspiracy or sign of gross incompetence. Of course, none of these people are concerned about the millions of other Web sites that use cookie. Bizzare. Jeff Jarvis also comments on this story and how the media thinks they got some huge scoop here. Here's a white paper (PDF) that I wrote when I was Utah CIO about cookies and privacy. We were having
+Continue reading...
+IIW2005: Identity Rights Agreements
+Thu Oct 27 14:42:00 2005
+This afternoon there was a good sized group that got together to discuss Identity Rights Agreements. One big problem is the legal status of such agreements. Mary Rundle was very helpful to the discussion here. One point was that an organization (like Identity Commons) could create a "trustmark" that Web sites that take identity data could display saying they agree to abidee by IRAs. This provides some prtection under trademark law, but may not be the best way really punish violaters. Data protection privacy commissioners want to create a regime for protecting personly identifying information. What we're saying in
+Continue reading...
+IIW2005: Dick Hardt on Identity 2.0
+Wed Oct 26 15:31:00 2005
+Dick starts with a discussion of the SXIP 1.0 architecture. One of the things I note as I listen to Dick is the nomenclature problem. We have some people calling users "users" and others calling them "principals", some calling the relying party the "membersite", identity providers can be "homesites," and so on. This is hard to keep straight. You need a score card to keep up. I'm not picking on Dick here--he's picked his words and they're as good as anyone else's. The Identity Gang wiki has an identity lexicon that is attempting to "create a minimal set of
+Continue reading...
+Tracking Your Printer
+Wed Oct 19 13:56:00 2005
+The EFF has been working to crack the code that some color printers put on every printed page. It's been long known that printer manufacturers put these codes in many color printers at the behest of the Secret Service, who's concerned about the potential for counterfeiting. The EFF, however, has revealed just how these codes work (with images). The images really bring this home. Just think about every document you print containing tracking codes that link it back to the printer in your office or home. The privacy concerns are huge. Imagine that you print a handbill complaining about
+Continue reading...
+Phil Around the Web
+Explore Technometria
+Show Tag Cloud
+Show Archives
+×
+Top 100 Tags
+ajax
+amazon
+api
+apple
+architecture
+attention
+authentication
+blogging
+books
+breakfast
+business
+byu
+cio
+cloudos
+conferences
+cto
+data
+decentralization
+defrag
+design
+ecommerce
+egovernment
+etech
+etech06
+etech2007
+event
+events
+facebook
+firefox
+fuse
+gear
+google
+governance
+humor
+identity
+iiw
+iiw2006
+infoworld
+internet
+iot
+iphone
+ipod
+itconversations
+java
+javascript
+krl
+kynetx
+linux
+lisp
+media
+microsoft
+mobile
+movabletype
+open+source
+openid
+osx
+parallels
+perl
+personal+cloud
+personal+clouds
+pico
+picos
+podcast
+podcasting
+podcasts
+politics
+privacy
+programming
+programming+languages
+rails
+reputation
+rss
+ruby
+security
+soa
+social+networking
+social+networks
+software
+sovrin
+spam
+speaking
+squaretag
+startup
+sysadmin
+technometria
+travel
+trust
+twitter
+utah
+video
+virtualization
+vrm
+web
+web+services
+web20
+webservices
+workshop
+www2006
+www2007
+xri
+×
+Archives
+Dec 2020
+Nov 2020
+Sept 2020
+Aug 2020
+Jul 2020
+Jun 2020
+May 2020
+Mar 2020
+Feb 2020
+Jan 2020
+Dec 2019
+Oct 2019
+Aug 2019
+Jul 2019
+Jun 2019
+May 2019
+Feb 2019
+Jan 2019
+Dec 2018
+Nov 2018
+Oct 2018
+Sept 2018
+Aug 2018
+Jul 2018
+Jun 2018
+May 2018
+Apr 2018
+Mar 2018
+Feb 2018
+Jan 2018
+Dec 2017
+Oct 2017
+Sept 2017
+Aug 2017
+Jul 2017
+Jun 2017
+May 2017
+Apr 2017
+Mar 2017
+Feb 2017
+Jan 2017
+Dec 2016
+Nov 2016
+Oct 2016
+Sept 2016
+Aug 2016
+Jul 2016
+Jun 2016
+May 2016
+Apr 2016
+Mar 2016
+Feb 2016
+Jan 2016
+Dec 2015
+Nov 2015
+Oct 2015
+Sept 2015
+Aug 2015
+Jul 2015
+Jun 2015
+May 2015
+Apr 2015
+Mar 2015
+Feb 2015
+Jan 2015
+Dec 2014
+Nov 2014
+Oct 2014
+Sept 2014
+Aug 2014
+Jul 2014
+Jun 2014
+Apr 2014
+Mar 2014
+Feb 2014
+Jan 2014
+Dec 2013
+Nov 2013
+Oct 2013
+Sept 2013
+Aug 2013
+Jul 2013
+Jun 2013
+May 2013
+Apr 2013
+Mar 2013
+Feb 2013
+Jan 2013
+Dec 2012
+Nov 2012
+Oct 2012
+Sept 2012
+Aug 2012
+Jul 2012
+Jun 2012
+May 2012
+Apr 2012
+Mar 2012
+Feb 2012
+Jan 2012
+Dec 2011
+Nov 2011
+Oct 2011
+Sept 2011
+Aug 2011
+Jul 2011
+Jun 2011
+May 2011
+Apr 2011
+Mar 2011
+Feb 2011
+Jan 2011
+Dec 2010
+Nov 2010
+Oct 2010
+Sept 2010
+Aug 2010
+Jul 2010
+Jun 2010
+May 2010
+Apr 2010
+Mar 2010
+Feb 2010
+Jan 2010
+Dec 2009
+Nov 2009
+Oct 2009
+Sept 2009
+Aug 2009
+Jul 2009
+Jun 2009
+May 2009
+Apr 2009
+Mar 2009
+Feb 2009
+Jan 2009
+Dec 2008
+Nov 2008
+Oct 2008
+Sept 2008
+Aug 2008
+Jul 2008
+Jun 2008
+May 2008
+Apr 2008
+Mar 2008
+Feb 2008
+Jan 2008
+Dec 2007
+Nov 2007
+Oct 2007
+Sept 2007
+Aug 2007
+Jul 2007
+Jun 2007
+May 2007
+Apr 2007
+Mar 2007
+Feb 2007
+Jan 2007
+Dec 2006
+Nov 2006
+Oct 2006
+Sept 2006
+Aug 2006
+Jul 2006
+Jun 2006
+May 2006
+Apr 2006
+Mar 2006
+Feb 2006
+Jan 2006
+Dec 2005
+Nov 2005
+Oct 2005
+Sept 2005
+Aug 2005
+Jul 2005
+Jun 2005
+May 2005
+Apr 2005
+Mar 2005
+Feb 2005
+Jan 2005
+Dec 2004
+Nov 2004
+Oct 2004
+Sept 2004
+Aug 2004
+Jul 2004
+Jun 2004
+May 2004
+Apr 2004
+Mar 2004
+Feb 2004
+Jan 2004
+Dec 2003
+Nov 2003
+Oct 2003
+Sept 2003
+Aug 2003
+Jul 2003
+Jun 2003
+May 2003
+Apr 2003
+Mar 2003
+Feb 2003
+Jan 2003
+Dec 2002
+Nov 2002
+Oct 2002
+Sept 2002
+Aug 2002
+Jul 2002
+Jun 2002
+May 2002
+Popular Topics
+Actor Model
+Authentication
+Blogging
+Decentralization
+Event Programming
+Identity
+IIW
+Internet of Things
+IT Conversations
+Javascript
+KRL
+Kynetx
+Picos
+Programming
+Programming Languages
+Reactive Programming
+Reputation
+Sovrin
+Startups
+You Might Also Enjoy
+Self-Sovereign Identity References
+Best Food Blog on the Planet
+Live Web Whitepapers
+My Slides
+My Videos
+CTO Breakfast
+Essays
+CIO Whitepapers
+My Books
+My Amazon Author Page
+About Technometria
+Technometria is my attempt to make sense of the technology that interests me through exploration, analysis, and, hopefully, reason. See Why Technometria for a longer explanation.
+You Might Also Enjoy
+Self-Sovereign Identity References
+Best Food Blog on the Planet
+Live Web Whitepapers
+My Slides
+My Videos
+CTO Breakfast
+Essays
+CIO Whitepapers
+From the Home Page
+Relationships in the Self-Sovereign Internet of Things
+The Self-Sovereign Internet of Things
+DIDComm and the Self-Sovereign Internet
+Operationalizing Digital Relationships
+The Architecture of Identity Systems
+Authentic Digital Relationships
+© 2002-2020 Phillip J. Windley. Some rights reserved.Technometria is a trademark of PJW LC.

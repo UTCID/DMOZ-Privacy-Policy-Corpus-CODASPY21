@@ -1,0 +1,129 @@
+http://www.epic.org/privacy/poverty/ocse121305.html
+Group Comments to HHS on "Parent Locator Databases"
+[Filed electronically at http://regulations.acf.hhs.gov/] Director, Policy Division
+Office of Child Support Enforcement
+Administration for Children and Families
+370 L'Enfant Promenade, SW 4th Fl.
+Washington, DC 20447 Re:            Comments of the Electronic Privacy Information Center,
+Privacy Rights Clearinghouse, and World Privacy Forum concerning the State
+Parent Locator Service. The Electronic Privacy Information Center (EPIC), Privacy Rights Clearinghouse,
+and World Privacy Forum submit these comments in response to "State
+Parent Locator Services; Safeguarding Child Support Information."[1]
+EPIC is a public interest research center in Washington, D.C. It was established
+in 1994 to focus public attention on emerging civil liberties issues and
+to protect privacy, the First Amendment, and constitutional values. The Privacy Rights Clearinghouse (PRC) is a nonprofit consumer organization
+with a two-part mission -- consumer information and consumer advocacy. It
+was established in 1992 and is based in San Diego, California. It is primarily
+grant-supported and serves individuals nationwide. The World Privacy Forum is a nonprofit, non partisan organization focused
+on conducting in-depth research and consumer education in the intersecting
+areas of technology and privacy. Because of the volume and sensitivity of personal information made available
+for child support enforcement purposes, we believe that it is necessary
+to build in strong rules for access to databases.  Our comments below emphasize
+two privacy protections needed to ensure accountability in the use of child
+support enforcement databases: the need for audit logs to ensure that the
+databases are only used for approved purposes, and the need for accuracy
+provisions to ensure that individuals are not falsely identified as owing
+child support. Two recent news stories make clear why audit logs and accuracy provisions
+are needed.  First, the United States Attorney for the Western District
+of Missouri recently secured a plea in a case where a HHS employee used
+access to databases to shield her prostitution business from police:
+Smith, who had been working as a prostitute, made LexisNexis inquiries
+for personal reasons even though she knew that it was prohibited to do so,
+and she used the information to aid her in avoiding arrest and prosecution
+for her prostitution activities. Smith queried LexisNexis on numerous occasions,
+without the authority to do so and for her own purpose.[2]
+The employee was a bill collector for the Center for Medicaid Services.
+In addition to using the service to shield her business, the employee also
+used the database to check up on an ex-husband.[3] Second, errors in databases can subject innocent people to repeated requests
+to pay child support.  As ABC7 News in San Francisco recently reported:
+A San Mateo man has been pursued for child support not once or twice,
+but four times by county agencies. There's no way he's the father -- and
+the authorities agree. So why do they keep coming after him? This is such
+a sensitive issue, we're not using full names. […] The head of the Department of Child Support Services Karen Roy declined
+to be interviewed on camera, but she told ABC7 by phone this latest case
+is the result of a mistake by a case worker, who hand-copied down the wrong
+address from a database. Alex tells us the matter in San Francisco was cleared after he faxed
+the agency his social security number and the names of his family members.
+But the stigma attached to this kind of thing is another matter. Alex, identity victim: "It's another stereotype that people add
+on to you. 'Oh, he's a person who doesn't pay his bills, doesn't take care
+of his responsibilities and [is a deadbeat dad].'"
+The San Mateo Department of Child Support Services has come after Alex
+three times now. The most recent incident went the furthest. They contacted
+his employer and started the process of deducting money from his paycheck.[4]
+The man falsely identified by the San Mateo Department of Child Support
+Services was recently contacted again for payments.  He is likely to be continually
+stigmatized by this database error.
+In light of these two problems, we urge that the following changes be made
+to the proposed rule: PART 302--STATE PLAN REQUIREMENTS § 302.35 We propose adding a section to this provision that requires maintenance
+of an audit log to deter employee misuse of databases.  Audit logs hold
+individuals responsible for their use of personal information databases.
+Such audit logs should record who accesses personal information, and the
+purposes for which it was accessed.
+Once an auditing system is created, it will give the agency a number of
+approaches to determine employee misuse of the system.  For instance, fraud
+may be present in cases where a certain employee is accessing the database
+many more times a day than the average employee.  Frequent access to the
+databases may be the result of an employee using the system for personal
+purposes, or to sell data to others. In granting individuals access to their personal information, the individual
+should also be able to obtain the audit log, subject to reasonable exceptions
+(such as where the individual is currently under investigation, and the
+audit log would reveal that fact). PART 303--STANDARDS FOR PROGRAM OPERATIONS § 303.17 Security and confidentiality for computerized support enforcement
+systems in operation after October 1, 1997. Subsection (a) of this provision requires information security and integrity
+safeguards.  These safeguards include a provision for data accuracy.  However,
+we think that these provisions would benefit from greater specificity.
+Government agencies cannot rely upon the information stored at commercial
+data brokers to be accurate.  Several independent studies have shown that
+commercial data brokers' files are "mixed," that is, they contain
+the information of several different people.  Most recently, PrivacyActivism
+found that commercial data brokers Choicepoint and Acxiom maintain files
+with significant errors.[5]  In the study, 11 people requested
+their Choicepoint and Acxiom dossiers. Although the sample size was small,
+the results showed significant problems at both commercial data broker companies.
+All 11 found errors in their dossiers. 73% of the sample found errors in
+basic biographic information in their Choicepoint report, which includes
+name, date of birth, current address, and phone number. Other fields in
+the reports had errors too, such as length of residence at current and past
+addresses, real property owned, purchase/sale dates of real property. The
+group also found that three reports identified individuals incorrectly as
+officers of corporations. PrivacyActivism found that only 6 of the 11 requestors were able to obtain
+their dossier from Acxiom. The 6 that did obtain their reports had to wait
+an average of 89 days after their request to get a response from Acxiom.
+67% of the Acxiom reports had at least one biographical information error.
+One Acxiom report identified an individual by the incorrect gender. There must be heightened standards for determining the accuracy of personal
+information that are used in these databases.  As the PrivacyActivism study
+has shown, simply relying upon private-sector database companies is untenable. We strongly urge the agency to disclose to the public what tools and data
+sources are going to be employed to locate individuals.  We suggest that
+these tools and data sources be disclosed in the Federal Register, giving
+individuals time to comment on the accuracy and reliability of the tools
+used.
+Finally, there must be an easy to use procedure for individuals misidentified
+by these programs to correct agency records.  These database programs are
+supposed to increase the efficiency in government operations, but that increase
+in efficiency must be balanced with procedures to ensure fairness for individuals.
+Additionally, there should be a system to flag errors where files are "mixed"
+and individuals are incorrectly identified by the agency as in violation
+of a child support obligation. Respectfully submitted, Chris Hoofnagle
+Director, West Coast Office
+Electronic Privacy Information Center
+Beth Givens
+Executive Director
+Privacy Rights Clearinghouse Pam Dixon
+Executive Director
+World Privacy Forum
+[1] State Parent Locator Service; Safeguarding Child
+Support Information, Department of Health and Human Services, 70 Fed.
+Reg. 60038 (Oct. 14, 2005).
+[2] Federal Employee Sentenced for Computer Hacking
+to Promote Prostitution, Office of United States Attorney, Western District
+of Missouri, Nov. 30, 2005, available at http://www.usdoj.gov/usao/mow/news2005/smith_candice.sen.pdf
+[3] Brian Krebs, Prostitution Suspect Used Data Access
+to Keep Tabs on Cops, Security Fix, Dec. 5, 2005, available at http://blogs.washingtonpost.com/securityfix/2005/12/hhs_hooker_sent.html.
+[4] Child Support Services Mistake Man For Deadbeat
+Dad Asked To Pay Child Support Four Times In Seven Years, ABC7 News,
+Apr. 5, 2005, available at http://abclocal.go.com/kgo/story?section=i_team&id=3355189
+[5] Available at http://www.privacyactivism.org/Item/222.
+EPIC Privacy Page | EPIC
+Home Page
+Last Updated:
+December 13, 2005
+Page URL: http://www.epic.org/privacy/poverty/ocse121305.html

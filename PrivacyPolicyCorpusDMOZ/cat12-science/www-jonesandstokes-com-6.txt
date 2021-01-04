@@ -1,0 +1,56 @@
+http://www.jonesandstokes.com/legal/accessibility-statement
+A statement on social injustice. Click to read more.
+Home
+/
+Accessibility statement
+Accessibility statement
+Overview
+ICF is committed to providing a website that is accessible to the widest possible audience, regardless of circumstance and ability. To meet this commitment, we conduct ongoing user experience reviews, quality assurance testing and peer review with accessibility experts to assess and verify our site. Further, we aim to adhere as closely as possible to the Web Content Accessibility Guidelines (WCAG), published by the World Wide Web Consortium (W3C). These guidelines explain how to make Web content more accessible for people with disabilities. Conformance to these guidelines will help us provide a site that is more user friendly to everyone.
+Measures to Support Accessibility
+ICF makes every effort to provide a good experience to visitors to our site. For example, we provide:
+Videos
+Our videos players are screen reader legible, keyboard compatible, and use high-contrast colors. Their thumbnail alt-text is updated, play buttons are always visible, and captions and audio descriptions are provided where needed.
+Podcasts
+Transcripts for podcasts to let hearing impaired visitors (as well as visitors without speakers or headphones) consume the content.
+Images
+We provide alternative text for images to allow screen reader users and those with vision impairments to identify and make sense of useful images.
+Forms
+Form labels and controls are associated with the relevant prompts.
+Navigation
+Navigation is consistent and standardized across the site. Navigational aids are provided in the form of recommendations, auto-suggestions and error correction in input forms.
+Browser Standards
+Content can be magnified using standard browser controls.
+Conformance status
+The Web Content Accessibility Guidelines (WCAG) defines requirements for designers and developers to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA. ICF.com is partially conformant with WCAG 2.1 level AA. Partially conformant means that some parts of the content do not fully conform to the accessibility standard.
+Feedback
+We welcome your feedback on the accessibility of ICF.com. Please let us know if you encounter accessibility barriers on ICF.com:
+Phone: +1.703.934.3000
+E-mail: accessibility@icf.com
+Visitor address: 9300 Lee Highway, Fairfax, VA 22031
+We try to respond to feedback within 2 business days.
+Technical specifications
+Accessibility of ICF.com relies on the following technologies to work with the particular combination of web browser and any assistive technologies or plugins installed on your computer:
+HTML
+CSS
+JavaScript
+These technologies are relied upon for conformance with the accessibility standards used.
+Limitations and alternatives
+Despite our best efforts to ensure accessibility of ICF.com, there may be some limitations. Below is a description of known limitations, and potential solutions. Please contact us if you observe an issue not listed below.  If you have any comments and or suggestions relating to improving the accessibility of our site, please don't hesitate to contact us by e-mailing accessibility@icf.com. Your feedback will help us make improvements.  We typically investigate and respond to inquiries within 2 business days.
+Known limitations for ICF.com:
+Animations: At this time some animations do not have a spoken word equivalent because we cannot always ensure an adequate translation of the visual animation. We provide companion text that explains the animation.
+Assessment approach
+ICF International, Inc. assessed the accessibility of ICF.com by the following approaches:
+Self-evaluation
+Accessibility tips
+To have the best experience of our site, we recommend that you take advantage of all opportunities to increase accessibility and customization that are available. The following two tips should help you:
+How to Change Text Size
+On most browsers, try holding down the Ctrl key and scrolling the mouse wheel (if you have one), or hold down the Ctrl key and at the same time, push the - or + key.
+In Firefox and Internet Explorer, click the "View" menu, then select "Zoom" and then choose whether you would like to increase the size (zoom in) or decrease the size (zoom out).
+In Google Chrome, click the customize button (spanner icon), then select the plus or minus buttons to zoom.
+How to Change Color Contrast
+To change the color contrast on your entire computer:
+For Windows computers, click "Start", then "Control Panel". Select the "Accessibility Options" icon, select the "Display" tab and select the "Use High Contrast" check box. Select the "Settings" button to browse different color contrast options.
+For Apple Macs, select "System Preferences", then "Universal Access". Select the "Seeing" tab and adjust the "Display" section.
+To change the color contrast of websites on your browser:
+In Internet Explorer, click "Tools", then select "Internet options." From within the "General" tab, click the "Colors" button. Deselect the "Use Windows colors" checkbox and change the color by selecting the color swatch. Then, select "Accessibility" within the "Internet options" window and select "Ignore colors specified on web pages."
+In Firefox, click "Tools", then select "Options." From within the "Colors" tab, click the "Colors" button. Select the appropriate colors from the color swatch and un-tick the checkbox labeled "Allow pages to choose their own colors, instead of my selections above" and click OK.

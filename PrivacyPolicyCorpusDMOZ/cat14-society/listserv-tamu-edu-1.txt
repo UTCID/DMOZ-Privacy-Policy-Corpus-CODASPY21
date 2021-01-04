@@ -1,0 +1,79 @@
+http://listserv.tamu.edu/privacy.html
+Privacy Statement
+Texas A&M University (TAMU) and Computing & Information Services
+(CIS)respect your privacy. To ensure that every effort is taken to
+respect that privacy, we would like to tell you what information is collected
+and how it is managed.
+When you visit our sites:
+On pages where personal data (usernames, passwords, etc.) is entered and
+submitted, the information is transmitted over a Secure Socketed Layer (SSL)
+connection. SSL is the standard encryption protocol used by Web servers.
+Parts of the LISTSERV site
+use "cookies" to collect information. The cookie
+is used as a means of identification for logging into the site and
+maintaining your session state from page to page. Cookies are not used to
+track your browsing behavior.
+CIS does automatically collect certain technical information about your
+Internet connection when you visit our Web sites. None of this information
+permits identification of personal information for any individual. We use
+this information to monitor the popularity of the various features of the
+site for general reporting and management functions. This information can
+also be used to evaluate the accessibility of our sites.
+We do use server logs to collect information concerning your Internet
+connection and general information about your visit to our Web site. We
+use log analysis tools to create summary statistics, which are used to
+determine technical design specifications and identify system
+performance or problem areas. If you would like to know more about the
+information we collect, the section on Server
+Log Information provides a more detailed list.
+To help us ensure that this site is working and maintained properly, we do
+monitor certain telecommunications and automated information systems and also
+collect some information for analysis and statistical purposes. Sometimes
+this means we acquire, record and analyze portions of the data that is
+entered into, stored on, and/or transmitted through this site by you. This
+information is only released — when
+legally required — to help
+law enforcement investigations, legal proceedings or internal investigations
+of TAMU rule and regulation violations. These groups would use the
+information to track the electronic interactions back to the source
+computer(s) or account(s).
+When you send us email with a question or
+comment:
+Personal information that you provide in an email or submitted comment will
+be used only to respond to the purpose of your request and to analyze
+possible trends. We may, however, redirect your email to another person
+or department if they are in a better position to answer your question. The
+information will not be shared with anyone outside TAMU unless we are
+compelled by law to do so.
+If you have any questions about this privacy statement, the practices of this
+site, or your use of this Web site, please contact CIS via email (cis@tamu.edu) or through the Postal
+Service at:
+Computing & Information Services
+3142 TAMU
+College Station, TX
+77843-3142
+COOKIES
+A cookie file contains unique information that a Web site can use to track
+such things as passwords, pages you have visited, the date you last looked
+at a specific page, and to identify your session at a particular Web site.
+Cookies used by CIS are encrypted strings that cannot be easily identified
+with their owner if intercepted. They are used principly to identify a user
+for access to the site, not to track user behavior.
+SERVER LOG INFORMATION
+The following information is collected from server logs for analysis:
+User/client hostname - The hostname (or IP address if DNS is
+disabled) of the user/client requesting access
+HTTP header, "user agent" - The user-agent information includes
+the type of browser, its version, and the operating system it is running on
+HTTP header, "referrer" - The referrer specifies the page from
+which the client accessed the current page
+System date - The date and time of the user/client request
+Full request - The exact request the user/client made
+Status - The status code the server returned to the user/client
+Content length - The content length, in bytes, of the document
+sent to the user/client
+Method - The request method used
+Universal Resource Identifier (URI) - The location of a resource
+on the server
+Query string of the URI - Anything after the question mark in a URI
+Protocol - The transport protocol and version used

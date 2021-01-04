@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch05.html#websec2-CHP-5-SECT-1.3
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 5. Understanding SSL and TLSSSL is the Secure Sockets Layer, a general-purpose
+protocol for sending encrypted information over the Internet. Developed
+by Netscape, SSL was first popularized by Netscape’s web browser and web
+server. The idea was to stimulate the sales of the company’s
+cryptographically enabled web servers by distributing a free client that
+implemented the same cryptographic protocols.Since then, SSL has been incorporated into many other web servers
+and browsers, and by now support for SSL is no longer a competitive
+advantage but a necessity. SSL has gone through two major versions. In
+1996 the Internet Engineering Task Force Transport Layer Security (TLS) was established to create
+an open stream encryption standard. The group started with SSL 3.0 and,
+in 1999, published RFC 2246, “TLS Protocol Version 1.0.” RFC 2712 adds
+Kerberos authentication to TLS. RFC 2817 and 2818 apply to TLS using
+HTTP/1.1. This chapter introduces SSL and TLS. Appendix B provides detailed technical
+information.What Is SSL?SSL is a layer that exists between the raw TCP/IP protocol and
+the application layer. While the standard TCP/IP protocol simply sends an unauthenticated,
+error-free stream of information between two computers (or between two
+processes running on the same computer), SSL adds numerous features to
+that stream, including:Authentication of the server, using digital
+signaturesAuthentication of the client, using digital
+signaturesData confidentiality through the use of ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

@@ -1,0 +1,495 @@
+http://www.webdivisor.com/termsofservice.aspx
+destination:
+home | terms of service
+Hosting Solutions
+Web Solutions
+Business Solutions
+Domain Names
+Policies
+Affiliate Agreement
+Privacy Policy
+Guarantees
+Terms of Service
+Please read the following to learn more about our terms of service.
+Terms of Service/Acceptable Usage Policy Details : Terms of Service
+Shared Server Abuse
+Any attempt to undermine or cause harm to a server, or customer, of WebDivisor is strictly prohibited.
+Unauthorized use of other people's accounts or computers violates this terms of service agreement.
+WebDivisor will strongly react to any use or attempted use of an internet account or computer without the owner's authorization.
+Such attempts include "internet scamming" (tricking other people into releasing their passwords), password robbery, security hole scanning etc.
+Any unauthorized use of accounts or computers by a WebDivisor customer, whether or not the attacked account or computer belongs to WebDivisor, will result in action against the attacker.
+Possible actions include warnings, account suspension or cancellation, and civil or criminal legal action, depending on the seriousness of the attack.
+Customers may not run IRC, bots or clients on shared servers.
+Unacceptable uses also include, but are not limited to:
+bulk e-mailing, unsolicited e-mailings, newsgroup spamming, pornographic content, illegal content, copyright infringement, trademark infringement, illegal software downloads, software cracks, software serial numbers, abuse of server resources, or anything else determined by WebDivisor to be unacceptable use of WebDivisor's services.
+All hosting accounts may be terminated that include the following content or which have links to the following content:
+Providing material that is grossly offensive to the web community such as blatant expressions of bigotry, racism or hatred.
+Promoting or providing instructional information about illegal activities, or promoting physical harm or injury against any group or individual.
+Displaying material that exploits children less than 18 years of age is strongly prohibited.
+Any acts of copyright infringement including offering pirated computer programs or links to such programs, information used to circumvent manufacturer-installed copy-protect devices such as serial or registration numbers for software programs, or any type of cracker utilities.
+e.	Distributing information regarding the creation of and/or sending of internet viruses, worms, Trojan horses, pinging, flooding, e-mail bombing, denial of service attacks, and piracy of software.
+Any account that is deactivated by the abuse team will be charged the following reactivation fees.
+These fees will only be waived if it is determined by the abuse team that the account was disabled without cause.
+1st offense - $25.00
+2nd offense - $100.00
+3rd offense - $500.00 + account termination.
+Unsolicited E-Mail ("spam")
+Unsolicited advertisements ("spam") are not allowed in e-mail and will result in account termination.
+WebDivisor has zero-tolerance for spam originating from our servers or for spam advertising of domains hosted on our servers.
+The following activities are not allowed:
+Unsolicited bulk or commercial messages ("spam").
+This includes, but is not limited to, bulk e-mailings of commercial advertising, informational announcements, charity requests, petitions for signatures and political or religious tracts.
+Such messages may only be sent to those who have explicitly requested it from your domain.
+Forging, altering or removing electronic mail headers is prohibited.
+Any domain sending stealth spam will be terminated without warning and without refund.
+Sending numerous copies of the same or substantially similar message with the intent to disrupt a server or account ("e-mail bombing").
+Spamming in newsgroups is prohibited.
+Commercial advertisements are unwelcome in most Usenet discussion groups and on most e-mail mailing lists.
+Inappropriate posting may result in account cancellation.
+See the newsgroup or mailing list's charter to see whether advertising is allowed or not.
+"Spamming" or sending a message to many different off-topic newsgroups is particularly unethical and will be treated as such.
+E-mail may not be used to harass or intimidate others.
+Harassment, whether through language, frequency of messages, or size of messages, are all prohibited.
+Sending a single unwelcome message may be considered harassment.
+If a recipient asks to stop receiving e-mail, you must not send that person any further messages.
+Providing spam-ware (software used to send bulk e-mail or software used to harvest e-mail addresses) or links to sites providing spam-ware is strictly prohibited and subject to account termination.
+If you use the services of another provider (including but not limited to the use of address lists obtained from third party vendors or provider) to promote a web site hosted by or through WebDivisor, then the provisions of the above policy shall apply as if the spam were sent through our servers.
+The penalty for "spamming" depends on the severity; WebDivisor reserves the right to charge you between: $1.00 - $100.00 per "spam" e-mail sent through our networks.
+Your web site content will also be confiscated and it will never be returned to you.
+CGI Scripts
+Each shared web hosting account comes with its own "cgi-bin", in which you are free to use any* CGI scripts you wish.
+All CGI scripts (Perl scripts with a .pl or .cgi extension) intended for use on shared Windows web hosting accounts are subject to approval by our server administrators.
+*See the Server Resource Abuse section.
+Server Resource Abuse
+Shared server accounts are limited in use of the amount of server resources.
+Shared server resource abuse includes any process or service usage that affects normal shared server operation, resource or connectivity, and which causes a server to become overloaded.
+Shared server resources include CPU and memory usage, number of concurrent processes, number of concurrent port or database connections and total bandwidth consumption.
+Possible causes of server resource abuse include, but are not limited to, the use of: CGI, Perl, SendMail, mySQL, MSSQL, PHP, ASP, ColdFusion, HTTP, SMTP, POP3 and FTP.
+If server resource abuse is detected, possible actions include, but are not limited to:
+disabling of the offending script or scripts, disabling of the specific service, disabling of the entire account or account cancellation.
+If the server overload is a result of server resource abuse, these actions will be taken without prior notice or warning.
+Child Pornography
+We have a zero-tolerance on child pornography.
+WebDivisor will cooperate fully with any criminal investigation into a customer's violation of the Child Protection Act of 1984 concerning child pornography.
+Customers are ultimately responsible for the actions of their clients over the WebDivisor network and will be liable for illegal materials posted by their clients.
+According to the Child Protection Act, child pornography includes photographs, films, video or any other type of visual presentation that shows a person who is or is depicted as being under the age of eighteen years and is engaged in or is depicted as engaged in explicit sexual activity, or the dominant characteristics of which is the depiction, for a sexual purpose, of a sexual organ or the anal region of a person under the age of eighteen years or any written material or visual representation that advocates or counsels sexual activity with a person under the age of eighteen years.
+Violations of the Child Protection Act may be reported to the U.S. Customs Agency at 1-800-BEALERT.
+Chat Rooms
+We do not allow clients to install their own chat rooms within a shared hosting account, without approving it with the WebDivisor support team.
+Most chat rooms tend to be large system hogs and we cannot allow it as an account option.
+However, we do provide a choice of Java chat rooms for a small extra charge that will more than fill your needs and run without hindering the performance of the machines of others.
+Parachat chat rooms do not apply to this rule.
+They are perfectly fine to install.
+SMTP Mail Server Abuse
+We do not allow clients to send more than 2000 pieces of e-mail per day from a shared hosting account.
+If you do send more than 2000 pieces of e-mail per day, your account will be placed on hold for network abuse.
+If you are sending legitimate e-mails and they total more than 2000 per day, then your account will be moved to a special server that is specifically designed to handle high volumes of e-mail.
+You will be charged $50.00/month in addition to your regular hosting charges if your account is moved to this server.
+Please click here to contact our network operations coordinator to have your domain moved.
+Background Running Programs
+We may allow programs to run continually in the background.
+These are considered on a one-to-one basis and an extra charge will be incurred on system resource used and operation maintenance needed.
+IRC
+We currently do not allow IRC, IRC clients, or IRC bots to be operated on any of our servers.
+In addition, IRC servers are not permitted on our network.
+Anyone found to be in violation of this policy risks immediate account termination.
+Current Contact Information
+Current customers must provide WebDivisor with, and keep current and up to date, good contact information including first name, last name, street address, city, state/province, zip/postal code, country, e-mail address, phone number and organization name.
+WebDivisor uses the contact information to reach customers during network emergencies, server downtime, maintenance windows and billing issues with your account.
+Failure to keep contact information up to date could lead to temporary account suspension until the information is updated.
+Excessive Use/Overages
+You will not exceed the bandwidth, storage and e-mail usage limits outlined by your particular web hosting package.
+If you use any bandwidth or storage space in excess of the agreed upon number of megabytes per month, or if you exceed e-mail storage and attachment size limitations, WebDivisor may in sole discretion, assess you with additional charges.
+If WebDivisor elects to take any corrective action, WebDivisor will not refund any unused pre-paid fees.
+Your use of your account and access to it is your responsibility.
+You are responsible for any unauthorized access to your account result in bandwidth, storage and/or e-mail usage exceeding the limits outlined in your particular web hosting package specifications and resultant charges.
+Bandwidth overages are currently billed at $20/GB/month.
+Disk space overages are currently billed at $0.25/MB/month.
+E-mail attachments overages are currently billed at $0.10 per e-mail over 10MB.
+Payment Policies
+All accounts are set up on a pre-pay basis.
+Setup fees are charged for all new accounts and major account changes are non-refundable.
+All pricing is guaranteed for the term of the pre-payment.
+WebDivisor reserves the right to change prices at any time, unless other terms have been agreed upon.
+Credit card accounts are subject to login deactivation upon the card declining for charges within 48 hours of e-mail notification.
+Any account not brought current within a week (7 days) of e-mail notice or exceeding this time frame in any way is subject to complete account deactivation.
+The customer is responsible for all money owed on the account from the time it was established to the time that the customer notifies WebDivisor via member services to request for termination of services; e-mail cancellations will not be accepted.
+All payments must be made in U.S. currency.
+WebDivisor will bill each client $50.00 per credit card chargeback received.
+All WebDivisor accounts are setup on anniversary billing cycles.
+Your particular billing cycle corresponds to your contract length initially outlined or in some circumstances chosen by the customer.
+Your account will automatically renew at this length.
+Any account that is not brought current prior to deactivation will be charged a $25.00 reactivation fee as well as a $15.00 late charge, per domain deactivated.
+All taxes, fees and government charges relating to the services provided hereunder (other than income taxes of WebDivisor) shall be paid by the customer.
+Your first month's payment will be a pro-rated charge for the amount of days left in the calendar.
+If the amount of days left in the calendar is less than 5 days, then you will be charged for next months billing cycle as well as the days left in the current calendar month, at WebDivisor's sole discretion.
+This pro-rated charge in turn will move your billing cycle to the 1st of each calendar month.
+All setup fees will be charged in full and will not be pro-rated.
+Cancellation
+WebDivisor reserves the right to cancel service at any time.
+All fees paid in advance of cancellation will be pro-rated and paid by WebDivisor if WebDivisor institutes its right of cancellation.
+Any violation of policies which results in extra costs will be billed to the customer.
+All of WebDivisor's web hosting plans are backed by a 30 day money back guarantee.
+If you are not completely satisfied with our services or support within the first 30 days of your order, you will be given a full refund of the order amount excluding setup fees, domain registration fees, add-on/upgrade fees, overages, etc.
+Setup fees are refundable only if the account order is cancelled prior to account activation.
+No refund will be available after the 30th day.
+This policy does not apply to any additional services such as overages, setup fees, additional space, etc.
+Cancellations via e-mail requests will not constitute acceptance of any cancellation.
+You may only cancel your services via e-mail when your services have not been setup yet.
+You will need to contact our billing department and include details such as your order number, last 4 digits of your credit card number; this e-mail must also originate from the e-mail address used to place the initial order.
+All other cancellation requests should be made via member services.
+Cancellations are processed only during business hours Monday-Friday.
+No cancellations are processed on holidays and weekends.
+Liability and Obligations of Cancellation
+If the agreement expires or is cancelled for any reason, WebDivisor is not liable to you because of the expiration or cancellation for compensation, reimbursement or damages on account of the loss of prospective profits, anticipated sales, goodwill or on account of expenditures, investments, leases of commitments in connection with your business, or for any other reason whatsoever flowing from the termination or expiration.
+If you terminate this agreement, WebDivisor will not relieve you of any obligation to pay fees and costs accrued before the termination date or any other amounts you owe to WebDivisor under this agreement.
+IP Address Overlap
+WebDivisor administers the network on which customer servers reside.
+The customer cannot use IP addresses which were not assigned to them by WebDivisor staff.
+Any server found using IPs which were not officially assigned will be suspended from network access until such time as the IP addresses overlap can be corrected.
+Material and Product Requirements
+You must ensure that all material and data placed on WebDivisor's equipment is in a condition that is "server-ready," which is in a form requiring no additional manipulation by WebDivisor.
+WebDivisor will make no effort to validate any of this information for content, correctness or usability.
+If your material is not "server-ready," WebDivisor may reject this material.
+WebDivisor will notify you of its refusal of the material and afford you the opportunity to modify the material to satisfy WebDivisor's requirements.
+Use of the services requires a certain level of knowledge in the use of internet languages, protocols and software.
+This level of knowledge varies depending on the anticipated use and desired content of your web site.
+You must have the necessary knowledge to create and maintain a web site.
+WebDivisor does not provide this knowledge or customer support outside of the services.
+Intellectual Property Rights
+Materials accessible to your through WebDivisor's services may be subject to protection under the United States or other copyright laws, or laws protecting trademarks, trade secrets or proprietary information.
+Except when expressly permitted by the owner of such rights, you must not use WebDivisor or its server and network in a manner that would infringe, violate, dilute or misappropriate such rights, with respect to any material, which you access or receive through the WebDivisor network.
+If you use a domain name connection with WebDivisor or similar service, you must not use that domain name in violation of any trademark, service mark, or similar rights of any third party.
+Network Security
+Customer may not use the WebDivisor network with an attempt to circumvent user authentication or security of any host, network or account.
+This includes, but is not limited to:
+Accessing data not intended for the customer logging into a server or account.
+Password cracking.
+Forging any TCP/IP packet header or any part of the header of information in any e-mail or newsgroup posting.
+Attempting to probe, scan/test the vulnerability of a system or network, or to breach security or authentication measures without proper authorization.
+Probing the security of other networks in search of weakness.
+Violation of any other organization's security policy.
+Customer may not attempt to interfere or deny service to any user, host, or network.
+This includes but is not limited to: flooding, e-mail bombing or other deliberate attempts to overload or crash a host or network.
+Shared Hosting Account
+You are responsible for any misuse of your account, even if the inappropriate activity was committed by a friend, family member, guest or employee.
+Therefore, you must take steps to ensure that others do not gain unauthorized access to your account.
+In addition, you may not use your account to breach security of another account or attempt to gain unauthorized access to another network or server.
+Your password provides access to your account.
+It is your responsibility to keep your password secure.
+Sharing your password and account access with unauthorized users is prohibited.
+You should take care to prevent others from using your account since you will be held responsible for such use.
+Attempting to obtain another user's account password is strictly prohibited and may result in service termination.
+You must adopt adequate security measures to prevent or minimize unauthorized use of your account.
+You may not attempt to circumvent user authentication or security of any host, network or account.
+This includes, but is not limited to, accessing data not intended for you, logging into or making use of a server or account you are not expressly authorized to access or probing the security of other networks.
+Use or distribution of tools designed for compromising security is prohibited.
+Examples of these tools include, but are not limited to: password guessing programs, cracking tools or network probing tools.
+You may not attempt to interfere with service of any user, host or network.
+This includes but is not limited to:
+"flooding" of networks, deliberate attempts to overload a service and attempts to "crash" a host.
+Customers who violate systems or network security may incur criminal or civil liability.
+WebDivisor will cooperate fully with investigations of violations of system or network security at other sites, including cooperating with law enforcement authorities in the investigation of suspected criminal violations.
+Electronic Commerce
+You will be solely responsible for the development, operation and maintenance of your online store, products, all contents and materials appearing online or on your products, including but not limited to:
+the accuracy and appropriateness of content and materials appearing with the store or related to your products, ensuring that the content and materials appearing within the store or related to your products do not violate or infringe upon the rights of any third party, and ensuring that the content and materials appearing within the store or related to your products are not libelous or otherwise illegal.
+You will be solely responsible for the final calculation and application of shipping and sales tax.
+You will also be solely responsible for accepting, processing, and filling any custom orders, and for handling any customer inquiries or complaints arising there from.
+You are also responsible for the security of any customer credit card numbers and related customer information you may access as a result of conducting electronic commerce through your web site.
+You will keep all such information confidential and will use the same degree of care and security as you use with your confidential information.
+Static/Dynamic Content Caching
+WebDivisor shall maintain and control ownership of all IP Numbers and addresses that may be assigned to you by WebDivisor.
+WebDivisor reserves the rights, in its sole discretion, the right to change or remove any and all such IP numbers and addresses.
+Domain Name Registration
+WebDivisor reserves the right to change fees, surcharges, renewal fees or to institute new fees at any time, for any reason, at its sole discretion.
+Customers requested domain name will not be registered unless and until we receive actual payment of the registration fee, and have confirmed customers domain name registration via e-mail to the address indicated in the customer's registration application.
+In the event that a credit card charge back occurs, customer agrees and acknowledges that the domain name registration shall be transferred to WebDivisor as the paying entity for the registration to the registry.
+WebDivisor reserves all rights regarding such domain names including but not limited to: the right to make the domain name available to other third parties for purchase or the usage of the domain name for its best interest.
+WebDivisor will reinstate customer's domain name registration solely at WebDivisor's discretion.
+The customer will be subject to the original registration fees as well as any reinstatement fees.
+Copyright Infringement
+Digital Millennium Copyright Act
+Notice and Procedure for Making Claims of Copyright Infringement
+Pursuant to Title 17, United States Code, Section 512(c)(2), all notifications of claimed copyright infringement on the WebDivisor system or web site should be sent only to our designated agent.
+The following information is providing solely for notifying WebDivisor that your copyrighted material may have been infringed.
+We caution you that under federal law, if you knowingly misrepresent that online material is infringing, you may be subject to heavy civil penalties.
+These include monetary damages, court costs, and attorney fees incurred by us, by any copyright owner, or by any copyright owner's licensee that is injured as a result of our relying upon your misrepresentation.
+You may also be subject to criminal prosecution for perjury.
+Do not send any inquiries unrelated to copyright infringement to the contact listed below.
+You will not receive a response if sent to that contact.
+Please click here to send all copyright infringement related inquiries.
+Under Title 17, United States Code, Section 512(c)(3)(a), the notification of claimed infringement must include the following:
+Physical or electronic signature of a person authorized to act on behalf of the copyright owner.
+Identification of the copyrighted work claimed to have been infringed or a representative list if multiple works are involved.
+Identification of the material that is claimed to be infringing that should be removed or access to disabled and information reasonably sufficient to enable the online service provider to locate the material (usually a URL to the relevant page).
+Information reasonably sufficient to allow the online service provider to contact the complaining party (address, phone number, e-mail address).
+Statement that the complaining party has a "a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or law."
+Statement that the information in the notice is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the copyright owner.
+Lawful Purpose
+WebDivisor reserves the right to refuse service to anyone.
+Customers may only use WebDivisor servers and services for lawful purpose.
+Transmission of any material in violation of any Federal, State or Local regulation is prohibited.
+This includes, but is not limited to copyrighted material, material legally judged to be threatening and obscene, and material protected by trade secrets.
+The designation of any materials as such described above is left entirely to the discretion of WebDivisor management.
+Regardless of the place of signing contract was entered into and performed in Los Angeles, California, and any dispute will be litigated or arbitrated in Los Angeles County, California.
+Customer further waives all objections to venue or jurisdiction and acknowledges that venue and jurisdiction is any such litigation will be held in Los Angeles County Courts.
+In no even shall WebDivisor's maximum liability exceed five hundred ($500.00) dollars for any reason.
+Indemnification
+Customer agrees that it shall defend, indemnify, save and hold WebDivisor harmless from any and all demands, liabilities, losses, costs and claims, including reasonable attorney's asserted against WebDivisor, its agents, its customers, officers and employees, that may arise or result from any service provided or performed or agreed to be performed or any product sold by customer, it's agents, employees or assigns.
+Customer agrees to defend, indemnify and hold harmless WebDivisor against liabilities arising out of; an injury to person or property caused by any products sold or otherwise distributed in connection with WebDivisor's server; any material supplied by customer infringing or allegedly infringing on the proprietary rights of a third party; copyright infringement and any defective products sold to customer from WebDivisor's server.
+Disclaimer
+WebDivisor will not be responsible for any damages your business may suffer.
+WebDivisor makes no warranties of any kind, expressed or implied for service we provide.
+WebDivisor disclaims any warranty or merchantability or fitness for a particular purpose.
+This includes loss of data resulting from delays, non-deliveries, wrong delivery, and any and all service interruptions caused by WebDivisor and its employees.
+WebDivisor reserves the right to revise its policies at any time.
+Customer shall not transfer or assign this agreement without the prior written consent of WebDivisor.
+However, WebDivisor may assign the customer's contract, in part or in whole, at anytime without consent from or notice to the customer.
+WebDivisor reserves the right to cancel customer's rights under this contract at anytime without further obligation.
+Failure to follow any term or condition will be grounds for immediate account deactivation.
+Terms of Service Revisions
+WebDivisor reserves the right to revise, amend, or modify this terms of service and all of our other policies and agreements at any time and in any manner.
+Notice of any revision, amendment, or modification will be deemed when the new information is posted within this document or any other online agreement.
+Customers will not be necessarily notified in writing of these changes.
+Please check this and all other WebDivisor agreements and documents frequently for changes.
+Registration Agreement Policy Details : Terms of Service
+Registration Agreement
+In this Registration Agreement ("Agreement") "Registrant", "you" and "your" refers to the registrant of each domain name registration, "we", "us" and "our" refers to Tucows.com Co., and "Services" refers to the domain name registration services provided by us as offered through WebDivisor Co., the Registration Service Provider ("Reseller"). Any reference to a "registry," "Registry" or "Registry Operator" shall refer to the registry administrator of the applicable TLD or ccTLD. This Agreement explains our obligations to you, and explains your obligations to us for the Services. By agreeing to the terms and conditions set forth in this Agreement, you are also agreeing to be bound by the rules and regulations set forth by a registry for that particular registry only.
+Selection of a domain name.
+You acknowledge and agree that we cannot guarantee that you will obtain a desired domain name registration; even if an inquiry indicates that a domain name is available at the time of your application for same. You represent that, to the best of the your knowledge and belief, neither the registration of the domain name nor the manner in which it is directly or indirectly to be used, infringes upon the legal rights of a third party and further, that the domain name is not being registered for nor shall it at any time whatsoever be used for any unlawful purpose.
+Fees
+As consideration for the Services, you agree to pay Reseller the applicable service(s) fees prior to the effectiveness of a desired domain name registration or any renewal thereof. All fees payable hereunder are non-refundable even if your domain name registration is suspended, cancelled or transferred prior to the end of your current registration term. As further consideration for the Services, you agree to: (1) provide certain current, complete and accurate information about you as required by the registration process, and (2) maintain and update this information as needed to keep it current, complete and accurate. All such information shall be referred to as account information ("Account Information"). You represent that the Account Information and all other statements put forth in your application are true, complete and accurate. Both Tucows and each registry reserves the right to terminate your domain name registration if: (i) information provided by you or your agent is false, inaccurate, incomplete, unreliable, misleading or otherwise secretive; or (ii) you have failed to maintain, update and keep your Account Information true, current, complete, accurate and reliable. You acknowledge that a breach of this Section 3 will constitute a material breach of our Agreement which will entitle either us or a registry to terminate this Agreement immediately upon such breach without any refund and without notice to you.
+Term
+This Agreement will remain in effect during the term of your domain name registration as selected, recorded and paid for at the time of registration or any renewal thereof. Should the domain name be transferred to another registrar, the terms and conditions of this Agreement shall cease.
+Modification to Agreement
+You acknowledge that the practice of registering and administering domain names is constantly evolving; therefore, you agree that Tucows may modify this Agreement, or any other related and/or applicable agreement, as is necessary to comply with its agreements with ICANN, a registry or any other entity or individual, as well as to adjust to changing circumstances. Your continued use of the domain name registered to you will constitute your acceptance of this Agreement with any revisions. If you do not agree to any change, you may request that your domain name registration be cancelled or transferred to a different accredited registrar. You agree that such cancellation or request for transfer will be your exclusive remedy if you do not wish to abide by any change to this Agreement, or any other related and/or applicable agreement.
+Modifications to Your Account
+In order to change any of your account information with us, you must use the Account Identifier and Password that you selected when you opened your account with us. You agree to safeguard your Account Identifier and Password from any unauthorized use. In no event shall we be liable for the unauthorized use or misuse of your Account Identifier or Password.
+No Guaranty
+You acknowledge that registration or reservation of your chosen domain name does not confer immunity from objection to the registration, reservation or use of the domain name.
+Domain Name Disputes
+You agree that, if the registration or reservation of your domain name is challenged by a third party, you will be subject to the provisions specified in the dispute policy adopted by the applicable registry. You agree that in the event a domain name dispute arises with any third party, you will indemnify and hold us harmless pursuant to the terms and conditions contained in the applicable policy. If Tucows is notified that a complaint has been filed with a judicial or administrative body regarding your domain name, Tucows may, at its sole discretion, suspend your ability to use your domain name or to make modifications to your registration records until (i) Tucows is directed to do so by the judicial or administrative body, or (ii) Tucows receives notification by you and the other party contesting your domain that the dispute has been settled. Furthermore, you agree that if you are subject to litigation regarding your registration or use of your domain name, Tucows may deposit control of your registration record into the registry of the judicial body by supplying a party with a registrar certificate from us.
+Policy
+You agree that your registration of the domain name shall be subject to suspension, cancellation, or transfer pursuant to a Tucows, registry, ICANN or government-adopted policy, or pursuant to any registrar or registry procedure not inconsistent with a Tucows, registry, ICANN or government-adopted policy, (1) to correct mistakes by us or a registry in registering the name or (2) for the resolution of disputes concerning the domain name.
+Agency
+Should you intend to license use of a domain name to a third party you shall nonetheless be the domain name holder of record and are therefore responsible for providing your own full contact information and for providing and updating accurate technical and administrative contact information adequate to facilitate timely resolution of any problems that arise in connection with the domain name. You shall accept liability for harm caused by wrongful use of the domain name. You represent that you will secure the agreement of any third party to the terms and conditions in this Agreement
+Annoucements
+We reserve the right to distribute information to you that is pertinent to the quality or operation of our services and those of our service partners. These announcements will be predominately informative in nature and may include notices describing changes, upgrades, new products or other information to add security or to enhance your identity on the Internet.
+Limitation of Liability
+You agree that our entire liability, and your exclusive remedy, with respect to any Services(s) provided under this Agreement and any breach of this Agreement is solely limited to the amount you paid for the initial registration of your domain name. Tucows and its directors, employees, affiliates, subsidiaries, agents and third party providers, ICANN and the applicable registries shall not be liable for any direct, indirect, incidental, special or consequential damages resulting from the use or inability to use any of the Services or for the cost of procurement of substitute services. Because some states do not allow the exclusion or limitation of liability for consequential or incidental damages, in such states, our liability is limited to the extent permitted by law. We disclaim any and all loss or liability resulting from, but not limited to: (1) loss or liability resulting from access delays or access interruptions; (2) loss or liability resulting from data non-delivery or data mis-delivery; (3) loss or liability resulting from acts of God; (4) loss or liability resulting from the unauthorized use or misuse of your account identifier or password; (5) loss or liability resulting from errors, omissions, or misstatements in any and all information or services(s) provided under this Agreement; (6) loss or liability resulting from the interruption of your Service. You agree that we will not be liable for any loss of registration and use of your domain name, or for interruption of business, or any indirect, special, incidental, or consequential damages of any kind (including lost profits) regardless of the form of action whether in contract, tort (including negligence), or otherwise, even if we have been advised of the possibility of such damages.
+Indemnity
+You agree to release, indemnify, and hold Tucows, its contractors, agents, employees, officers, directors and affiliates, ICANN, the applicable registries and their respective directors, officers, employees, agents and affiliates harmless from all liabilities, claims and expenses, including attorney's fees, of third parties arising out of or relating to the registration or use of the domain name registered in your name including without limitation infringement by you or a third party with access to your Account Identifier and Password. You also agree to release, indemnify and hold us harmless pursuant to the terms and conditions contained in the applicable Dispute Policy. When we are threatened with suit by a third party, we may seek written assurances from you concerning your promise to indemnify us; your failure to provide those assurances may be considered by us to be a breach of your Agreement and may result in the suspension or cancellation of your domain name. This indemnification obligation will survive the termination or expiration of this Agreement.
+Transfer of Ownership
+The person named as registrant on the WHOIS shall be the registered name holder. The person named as administrative contact at the time the controlling Account Identifier and Password are secured, shall be deemed the designate of the registrant with the authority to manage the domain name. You agree that prior to transferring ownership of your domain name to another person (the "Transferee") you shall require the Transferee to agree, in writing to be bound by all the terms and conditions of this Agreement. If the Transferee fails to be bound in a reasonable fashion (as determine by us in our sole discretion) to the terms and conditions in this Agreement, any such transfer will be null and void.
+Breach
+You agree that failure to abide by any provision of this Agreement, any operating rule or policy or the Dispute Policy provided by us, may be considered by us to be a material breach and that we may provide a written notice, describing the breach, to you. If within thirty (30) calendar days of the date of such notice, you fail to provide evidence, which is reasonably satisfactory to us, that you have not breached your obligations under the Agreement, then we may delete the registration or reservation of your domain name. Any such breach by you shall not be deemed to be excused simply because we did not act earlier in response to that, or any other breach by you.
+Disclaimer of Warranties
+You agree that your use of our Services is solely at your own risk. You agree that such Service(s) is provided on an "as is," "as available" basis. We expressly disclaim all warranties of any kind, whether express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose and non-infringement. We make no warranty that the Services will meet your requirements, or that the Service(s) will be uninterrupted, timely, secure, or error free; nor do we make any warranty as to the results that may be obtained from the use of the Service(s) or as to the accuracy or reliability of any information obtained through the Service or that defects in the Service will be corrected. You understand and agree that any material and/or data downloaded or otherwise obtained through the use of Service is done at your own discretion and risk and that you will be solely responsible for any damage to your computer system or loss of data that results from the download of such material and/or data. We make no warranty regarding any goods or services purchased or obtained through the Service or any transactions entered into through the Service. No advice or information, whether oral or written, obtained by you from us or through the Service shall create any warranty not expressly made herein.
+Information
+As part of the registration process, you are required to provide us certain information and to update us promptly as such information changes such that our records are current, complete and accurate. You are obliged to provide us the following information:
+(a) your name and postal address (or, if different, that of the domain name holder);
+(b) the domain name being registered;
+(c) the name, postal address, e-mail address, and voice and fax (if available) telephone numbers of the administrative contact for the domain name;
+(d) the name, postal address, e-mail address, and voice and fax (if available) telephone numbers of the billing contact for the domain name; and
+(e) the name, postal address, e-mail address, and voice and fax (if available) telephone numbers of the technical contact for the domain name.
+Any voluntary information we request is collected in order that we can continue to improve the products and services offered to you through your Reseller.
+Disclosure and Use of Registration Information
+You agree and acknowledge that we will make domain name registration information you provide available to ICANN, to the registry administrators, law enforcement agencies and to other third parties as applicable. You further agree and acknowledge that we may make publicly available, or directly available to third party vendors, some or all, of the domain name registration information you provide, for purposes of inspection (such as through our WHOIS service) or other purposes as required or permitted by ICANN and applicable laws.
+(a) You hereby consent to any and all such disclosures and use of, and guidelines, limits and restrictions on disclosure or use of, information provided by you in connection with the registration of a domain name (including any updates to such information), whether during or after the term of your registration of the domain name. You hereby irrevocably waive any and all claims and causes of action you may have arising from such disclosure or use of your domain name registration information by us.
+(b) You may access your domain name registration information in our possession to review, modify or update such information, by accessing our domain manager service, or similar service, made available by us through your Reseller.
+(c) We will not process or maintain data about any identified or identifiable natural person that we obtain from you in a way incompatible with the purposes and other limitations which we describe in this Agreement.
+(d) We will take reasonable precautions to protect the information we obtain from you from our loss, misuse, unauthorized disclosure, alteration or destruction of that information.
+Obligation to Maintain WhoIS
+Your willful provision of inaccurate or unreliable information, your willful failure promptly to update information provided to us, or any failure to respond to inquiries by us addressed to the email address of the registrant, the administrative, billing or technical contact appearing in the WHOIS directory with respect to a domain name concerning the accuracy of contact details associated with the registration shall constitute a material breach of this Agreement and be a basis for cancellation of the domain name registration. Any information collected by us concerning an identified or identifiable natural person ("Personal Data") will be used in connection with the registration of your domain name(s) and for the purposes of this Agreement and as required or permitted by ICANN or an applicable registry policy.
+Revocation
+We, in our sole discretion, reserve the right to deny, cancel, suspend, transfer or modify any domain name registration to correct a mistake, protect the integrity and stability of the company and any applicable registry, to comply with any applicable laws, government rules, or requirements, requests of law enforcement, in compliance with any dispute resolution process, or to avoid any liability, civil or criminal. You agree that we shall not be liable to you for loss or damages that may result from our refusal to register or cancel, suspend, transfer or modify your domain name registration.
+Inconsistencies With Registry Policies
+In the event that this Agreement may be inconsistent with any term, condition, policy or procedure of an applicable registry, the term, condition, policy or procedure of the applicable registry shall prevail.
+Non-Waiver
+Our failure to require performance by you of any provision hereof shall not affect the full right to require such performance at any time thereafter; nor shall the waiver by us of a breach of any provision hereof be taken or held to be a waiver of the provision itself.
+Notices
+Any notice, direction or other communication given under this Agreement shall be in writing and given by sending it via e-mail or via regular mail. In the case of e-mail, valid notice shall only have been deemed to be given when an electronic confirmation of delivery has been obtained by the sender. E-mail notification to Tucows must be sent to lhutz@tucows.com. Any notice to you will be sent to the e-mail address provided by you in your WHOIS record. Any e-mail communication shall be deemed to have been validly and effectively given on the date of such communication, if such date is a business day and such delivery was made prior to 4:00 p.m. EST, otherwise it will be deemed to have been delivered on the next business day. In the case of regular mail notice, valid notice shall be deemed to have been validly and effectively given five (5) business days after the date of mailing Postal notices to Tucows shall be sent to:
+TUCOWS Inc.Registrant Affairs Office96 Mowat AvenueToronto, Ontario M6K 3M1 CANADAAttention: Legal Affairs
+and in the case of notification to you shall be sent to the address specified in the "Administrative Contact" in your WHOIS record.
+Entirety
+You agree that this Agreement, the applicable dispute policy and the rules and policies published by Tucows and any applicable registry or other governing authority are the complete and exclusive agreement between you and us regarding our Services.
+Governing Law
+THIS AGREEMENT SHALL BE GOVERNED BY AND INTERPRETED AND ENFORCED IN ACCORDANCE WITH THE LAWS OF PROVINCE OF ONTARIO AND THE FEDERAL LAWS OF CANADA APPLICABLE THEREIN WITHOUT REFERENCE TO RULES GOVERNING CHOICE OF LAWS. ANY ACTION RELATING TO THIS AGREEMENT MUST BE BROUGHT IN ONTARIO AND YOU IRREVOCABLY CONSENT TO THE JURISDICTION OF SUCH COURTS.
+Infancy
+You attest that you are of legal age to enter into this Agreement.
+Force Majeure
+You acknowledge and agree that neither we nor the applicable registry shall be responsible for any failures or delays in performing our respective obligations hereunder arising from any cause beyond our reasonable control, including but not limited to, acts of God, acts of civil or military authority, fires, wars, riots, earthquakes, storms, typhoons and floods.
+Privacy
+Information collected about you is subject to the terms of Tucows' privacy policy, the terms of which are hereby incorporated by reference. Tucows' privacy policy can be found at: http://www.tucows.com/privacy.html
+Controlling Language
+In the event that you are reading this Agreement in a language other than the English language, you acknowledge and agree that the English language version hereof shall prevail in case of inconsistency or contradiction in interpretation or translation.
+TLD's
+The following additional provisions apply to any domain names that you register through Tucows with the various registries:
+(a) .com/net domains: In the case of a ".com" or ".net" registration, the following terms and conditions will apply:
+(i) Submission to UDRP. Registrant agrees to submit to proceedings under ICANN's Uniform Domain Dispute Policy ("UDRP") (http://www.icann.org/dndr/udrp/policy.htm) and comply with the requirements set forth by the Registry; these policies are subject to modification.
+(b) .org domains: In the case of a ".org" registration, the following terms and conditions will apply:
+(i) Submission to UDRP. Registrant agrees to submit to proceedings under ICANN's Uniform Domain Dispute Policy ("UDRP") (http://www.icann.org/dndr/udrp/policy.htm) and comply with the requirements set forth by the Registry. These policies are subject to modification.
+(c) .info domains: In the case of a ".info" registration, the following terms and conditions will apply:
+(i) Registrant's Personal Data. You consent to the use, copying, distribution, publication, modification, and other processing of Registrant's personal data by Afilias, the .INFO registry, and its designees and agents, in a manner consistent with the purposes specified pursuant to its contract.
+(ii) Submission to UDRP. Registrant agrees to submit to proceedings under ICANN's Uniform Domain Dispute Policy ("UDRP") (http://www.icann.org/dndr/udrp/policy.htm) and comply with the requirements set forth by the Registry. These policies are subject to modification.
+(iii) Reservation of Rights. Tucows and Affiliates expressly reserve the right to deny, cancel, transfer, or modify any registration that either registrar or Affiliates deems necessary, at its discretion, to protect the integrity and stability of the registry, to comply with any applicable law, any government rule or requirement, any request of law enforcement, any dispute resolution process, or to avoid any liability, civil or criminal, on the part of the registrar and/or Affiliates, as well as their affiliates, subsidiaries, executives, directors, officers, managers, employees, consultants, and agents. The registrar and Affiliates also reserve the right to suspend a domain name or its registration data during resolution of a dispute.
+(d) .biz domains. In the case of a ".biz" registration, the following terms and conditions will apply:
+(i) .biz Restrictions. Registrations in the .biz top-level domain must be used or intended to be used primarily for bona fide business or commercial purposes. For the purposes of the .biz registration restrictions, "bona fide business or commercial use" shall mean the bona fide use or bona fide intent to use the domain name or any content, software, materials, graphics or other information thereon, to permit Internet users to access one or more host computers through the DNS:
+(a) to exchange goods, services, or property of any kind;
+(b) in the ordinary course of business; or
+(c) to facilitate
+(i) the exchange of goods, services, information or property of any kind; or
+(ii) the ordinary course of trade or business. For more information on the .biz restrictions, which are incorporated herein by reference, please see: http://www.icann.org/tlds/agreements/biz/registry-agmt-appl-18apr01.htm.
+(ii) Selection of a Domain Name. You represent that:
+(a) the data provided in the domain name registration application is true, correct, up to date and complete, and that you will continue to keep all of the information provided correct, up-to-date and complete;
+(b) to the best of the your knowledge and belief, neither this registration of a domain name nor the manner in which it is directly or indirectly to be used infringes upon the legal rights of a third party;
+(c) that the domain name is not being registered for nor shall it at any time whatsoever be used for any unlawful purpose whatsoever;
+(d) the registered domain name will be used primarily for bona fide business or commercial purposes and not (a) exclusively for personal use, or (b) solely for the purposes of (1) selling, trading or leasing the domain name for compensation, or (2) the unsolicited offering to sell, trade or lease the domain name for compensation;
+(e) you have the authority to enter into this Registration Agreement; and
+(f) the registered domain name is reasonably related to your business or intended commercial purpose at the time of registration.
+(iii) Provision of Registration Data. As part of the registration process, you are required to provide us with certain information and to keep the information true, current, complete, and accurate at all times. The information includes the following:
+(a) your full name;
+(b) your postal address;
+(c) your e-mail address;
+(d) your voice telephone number;
+(e) your fax number (if applicable);
+(f) the name of an authorized person for contact purposes in the case of a registrant that is an organization, association, or corporation;
+(g) the IP addresses of the primary nameserver and any secondary nameserver for the domain name;
+(h) the corresponding names of the primary and secondary nameservers;
+(i) the full name, postal address, e-mail address, voice telephone number, and, when available, fax number of the administrative, technical, and billing contacts, and the name holder for the domain name; and
+(j) any remark concerning the domain name that should appear in the WHOIS directory.
+(k) You agree and understand that the foregoing registration data will be publicly available and accessible on the WHOIS directory as required by ICANN and/or registry policies, and may be sold in bulk in accordance with the ICANN agreement.
+(iv) Domain Name Disputes. You acknowledge having read and understood and agree to be bound by the terms and conditions of the following documents, as they may be amended from time to time, which are hereby incorporated and made an integral part of this Agreement:
+(a) The Uniform Domain Name Dispute Resolution Policy ("Dispute Policy), available at: http://www.icann.org/dndr/udrp/policy.htm;
+(b) The Restrictions Dispute Resolution Criteria and Rules ("RDRP"), available at: http://www.icann.org/tlds/agreements/biz/registry-agmt-appm-27apr01.htm; (collectively, the "Dispute Policies").
+(v) The Dispute Policy sets forth the terms and conditions in connection with a dispute between a Registrant and any party other than the Registry or Registrar over the registration and use of an Internet domain name registered by Registrant.
+(vi) The RDRP sets forth the terms under which any allegation that a domain name is not used primarily for business or commercial purposes shall be endorsed on a case-by-case, fact specific basis by an independent ICANN-accredited dispute provider.
+(e) .name domains. In the case of a ".name" registration, the following terms and conditions will apply:
+(i) .name Restrictions. Registrations in the .name top-level domain must constitute an individual's "Personal Name". For purposes of the .name restrictions (the "Restrictions"), a "Personal Name" is a person's legal name, or a name by which the person is commonly known. A "name by which a person is commonly known" includes, without limitation, a pseudonym used by an author or painter, or a stage name used by a singer or actor.
+(ii) .name Representations. As a .name domain name registrant, you hereby represent that:
+(a) the registered domain name or second level domain ("SLD") e-mail address is your Personal Name.
+(b) the data provided in the domain name registration application is true, correct, up to date and complete and that you will continue to keep all of the information provided correct, current and complete,
+(c) to the best of the your knowledge and belief, neither this registration of a domain name nor the manner in which it is directly or indirectly to be used infringes upon the legal rights of a third party;
+(d) that the domain name is not being registered for nor shall it at any time whatsoever be used for any unlawful purpose whatsoever;
+(e) the registration satisfies the Eligibility Requirements found at: http://www.icann.org/tlds/agreements/name/registry-agmt-appl-8aug03.htm; and
+(f) you have the authority to enter into this Registration Agreement.
+(iii) E-mail Forwarding Services. The Services for which you have registered may, at your option, include e-mail forwarding. To the extent you opt to use e-mail forwarding, you are obliged to do so in accordance with all applicable legislation and are responsible for all use of e-mail forwarding, including the content of messages sent through e-mail forwarding. You undertake to familiarize yourself with the content of and to comply with the generally accepted rules for Internet and e-mail usage. This includes, but is not limited to the Acceptable Use Policy, available at http://www.nic.name/downloads/aup.pdf as well as the following restrictions. Without prejudice to the foregoing, you undertake not to use e-mail forwarding:
+(a) to encourage, allow or participate in any form of illegal or unsuitable activity, including but not restricted to the exchange of threatening, obscene or offensive messages, spreading computer viruses, breach of copyright and/or proprietary rights or publishing defamatory material;
+(b) to gain illegal access to systems or networks by unauthorized access to or use of the data in systems or networks, including all attempts at guessing passwords, checking or testing the vulnerability of a system or network or breaching the security or access control without the sufficient approval of the owner of the system or network;
+(c) to interrupt data traffic to other users, servers or networks, including, but not restricted to, mail bombing, flooding, Denial of Service (DoS) attacks, willful attempts to overload another system or other forms of harassment; or
+(d) for spamming, which includes, but is not restricted to, the mass mailing of unsolicited e-mail, junk mail, the use of distribution lists (mailing lists) which include persons who have not specifically given their consent to be placed on such distribution list. Users are not permitted to provide false names or in any other way to pose as somebody else when using e-mail forwarding.
+(iv) Registry reserves the right to implement additional anti-spam measures, to block spam or mail from systems with a history of abuse from entering Registry's e-mail forwarding. However, due to the nature of such systems, which actively block messages, Registry shall make public any decision to implement such systems a reasonable time in advance, so as to allow you or us to give feedback on the decision.
+(v) You understand and agree that Registry may delete material that does not conform to clause (c) above or that in some other way constitutes a misuse of e-mail forwarding. You further understand and agree that Registry is at liberty to block your access to e-mail forwarding if you use e-mail forwarding in a way that contravenes this Agreement. You will be given prior warning of discontinuation of the e-mail forwarding unless it would damage the reputation of Registry or jeopardize the security of Registry or others to do so. Registry reserves the right to immediately discontinue e-mail forwarding without notice if the technical stability of e-mail forwarding is threatened in any way, or if you are in breach of this Agreement. On discontinuing e-mail forwarding, Registry is not obliged to store any contents or to forward unsent e-mail to you or a third party.
+(vi) You understand and agree that to the extent either we and/or Registry is required by law to disclose certain information or material in connection with your e-mail forwarding, either we and/or Registry will do so in accordance with such requirement and without notice to you.
+(vii) Domain Name Dispute Policy. If you reserved or registered a domain name through us, or transferred a domain name to us from another registrar, you agree to be bound by the dispute policy that is incorporated herein and made a part of this Agreement by reference. The current version of the Dispute Policy may be found at http://resellers.tucows.com/opensrs/legal. Please take the time to familiarize yourself with this policy. In addition, you hereby acknowledge that you have read and understood and agree to be bound by the terms and conditions of the following documents, as they may be amended from time to time, which are hereby incorporated and made an integral part of this Agreement.
+(A) the Eligibility Requirements (the "Eligibility Requirements"), available at: http://www.icann.org/tlds/agreements/name/registry-agmt-appl-8aug03.htm;
+(B) the Eligibility Requirements Dispute Resolution Policy (the "ERDRP"), available at: http://www.icann.org/tlds/agreements/name/registry-agmt-appm-8aug03.htm; and
+(C) the Uniform Domain Name Dispute Resolution Policy (the "UDRP"), available at: http://www.icann.org/dndr/udrp/policy.htm.
+(viii) The Eligibility Requirements dictate that Personal Name domain names and Personal Name SLD e-mail addresses will be granted on a first-come, first-served basis. The following categories of Personal Name Registrations may be registered: (i) the Personal Name of an individual; (ii) the Personal Name of a fictional character, if you have trademark or service make rights in that character's Personal Name; (iii) in addition to a Personal Name registration, you may add numeric characters to the beginning or the end of the Personal Name so as to differentiate it from other Personal Names.
+(ix) The ERDRP applies to challenges to (i) registered domain names and SLD e-mail address registrations within .name on the grounds that a Registrant does not meet the Eligibility Requirements, and (ii) to Defensive Registrations (as defined by the Registry) within .name.
+(x) The UDRP sets forth the terms and conditions in connection with a dispute between a Registrant and party other than the Registry or Tucows over the registration and use of an Internet domain name registered by a Registrant.
+ccTLD's
+(a) .ca domains. In the case of a ".ca" registration, the following terms and conditions will apply:
+(i) Domain Name Dispute Policy. If you reserved or registered a domain name through us, or transferred a domain name to us from another registrar, you agree to be bound by the Dispute Policy, which is incorporated herein and made a part of this Agreement by reference. The current version of the Dispute Policy may be found at http://www.cira.ca/en/cat_Dpr.html. Please take the time to familiarize yourself with this policy.
+(ii) Registry Policy. You agree that your registration of the domain name shall be subject to suspension, cancellation, or transfer pursuant to any Registry-adopted policy, or pursuant to any registrar or registry procedure not inconsistent with a Registry adopted policy, (1) to correct mistakes by Tucows or the Registry in registering the name or (2) for the resolution of disputes concerning the domain name.
+(iii) Transfer of Ownership. Any transfer of ownership in and to a domain name registration shall be affected in accordance with registry policies and procedures.
+(iv) Registry Agreement and Policy. You acknowledge and understand that by accepting the terms and conditions of this agreement you shall be bound by the Registry's Registrant Agreement, the Registry's policies and any pertinent rules or policies that exist now or in the future and which are posted on the Registry website at http://www.cira.ca/en/doc_Registrar.html. You are responsible for monitoring the Registry's site on a regular basis. In the event that you do not wish to be bound by a revision or modification to any Registry agreement or policy, your sole remedy is to cancel your domain name registration by following the appropriate Registry policy regarding such cancellation.
+(v) You acknowledge and agree that the Registry shall not be liable to you for any loss, damage, or expense arising out of the Registry's failure or refusal to register a domain name, it's failure or refusal to renew a domain name registration, it's registration of a domain name, it's failure or refusal to renew a domain name registration, it's renewal of a domain name registration, it's failure or refusal to transfer a domain name registration, it's transfer of a domain name registration, it's failure or refusal to maintain or modify a domain name registration, it's maintenance of a domain name registration, it's modification of a domain name registration, it's failure to cancel a domain name registration or it's cancellation of a domain name registration from the Registry;
+(b) .cc Domains. In the case of a ".cc" registration, the following terms and conditions will apply:
+(i) Domain Name Dispute Policy. If you reserved or registered a domain name through us, or transferred a domain name to us from another registrar, you agree to be bound by the Dispute Policy that is incorporated herein and made a part of this Agreement by reference. The current version of the Dispute Policy may be found at http://www.nic.cc/policies/dispute.html. Please take the time to familiarize yourself with this policy.
+(ii) Registry Policy. You acknowledge and understand that by accepting the terms and conditions of this agreement you shall be bound by Registry policies and any pertinent rules or policies that exist now or in the future and which are posted on the Registry website at http://www.nic.cc. You are responsible for monitoring the Registry's site on a regular basis. In the event that you do not wish to be bound by a revision or modification to any Registry policy, your sole remedy is to cancel your domain name registration by following the appropriate Registry policy regarding such cancellation.
+(c) .cn Domains. In the case of a ".cn" registration, the following terms and conditions shall apply:
+(i) "Registry" means the China Internet Network Information Center, which is the authority responsible for the administration of the national top-level domain of the People's Republic of China and the Chinese domain name system;
+(ii) "Registry Gateway" means the service provided by the Registry Operator that facilitates the registration of .cn domain names by registrars operating outside of the People's Republic of China;
+(iii) "Registry Operator" means Neustar, Inc., the company authorized to facilitate the registration of .cn domain names by registrars operating outside of the People's Republic of China.
+(iv) Restrictions. You agree that you shall not register or use a domain name that is deemed by CNNIC to:
+(a) be against the basic principles prescribed in the Constitution of the Peoples Republic of China ("PRC");
+(b) jeopardize national security, leak state secrets, intend to overturn the government or disrupt the integrity of the PRC;
+(c) harm national honor and national interests of the PRC;
+(d) instigate hostility or discrimination between different nationalities or disrupt the national solidarity of the PRC;
+(e) spread rumors, disturb public order or disrupt social stability of the PRC;
+(f) spread pornography, obscenity, gambling, violence, homicide, terror or instigate crimes in the PRC;
+(g) insult, libel against others and infringe other people's legal rights and interests in the PRC; or
+(h) take any other action prohibited in laws, rules and administrative regulations of the PRC.
+(v) Business or Organization Representation. .cn domain name registrations are intended for businesses and organizations and not for individual use. By registering a .cn name, you accordingly represent that you have registered the domain name on behalf or a business or organization. It should be noted that, although .cn policy is permissive in terms of registration, and enforcement is generally in reaction to a complaint (as opposed to proactive review), registrations that are not associated with an organization or business may be subject to deletion. The foregoing prevents an individual from registering a .cn domain name for a business operating as a sole proprietorship.
+(vi) Domain Name Disputes. You acknowledge having read and understood and agree to be bound by the terms and conditions of the CNNIC Domain Name Dispute Policy & Rules for CNNIC Dispute Resolution Policy ("Dispute Policy"), as they may be amended from time to time, which are hereby incorporated and made an integral part of this Agreement. The Dispute Policy is currently found at: http://www.cnnic.net.cn/html/Dir/2003/11/27/1526.htm.
+(vii) You acknowledge that, pursuant to the Dispute Policy, Registrars must comply with all reasonable requests from the applicable domain name dispute resolution institutions including the provision of all relevant evidence in any domain name disputes in the specified time frames.
+(viii) If we are notified that a complaint has been filed with a judicial or administrative body regarding your use of our domain name registration services, you agree not to make any changes to your domain name record without our prior approval. We may not allow you to make changes to such domain name record until (i) we are directed to do so by the judicial or administrative body, or (ii) we receive notification by you and the other party contesting your registration and use of our domain name registration services that the dispute has been settled. Furthermore, you agree that if you are subject to litigation regarding your registration and use of our domain name registration services, we may deposit control of your domain name record into the registry of the judicial body by supplying a party with a registrar certificate from us.
+(ix) Adherence to Policies. You agree to comply with all applicable laws, regulations and policies of the Peoples Republic of China's governmental agencies and the China Internet Network Information Centre ("CNNIC"), including but not limited to the following rules and regulations:
+(a) Provisional Administrative Rules for Registration of Domain Names in China (currently at http://www.cnnic.net.cn/html/Dir/2003/11/27/1520.htm);
+(b) Detailed Implementation Rules for Registration of Domain Names in China (currently at http://www.cnnic.net.cn/html/Dir/2003/11/27/1522.htm);
+(c) Chinese Domain Names Dispute Resolution Policy (currently at http://www.cnnic.net.cn/html/Dir/2003/11/27/1526.htm); and
+(d) CNNIC Implementing Rules of Domain Name Registration (currently at http://www.cnnic.net.cn/html/Dir/2003/11/27/1503.htm). You acknowledge that you have read and understood and agree to be bound by the terms and conditions of the policies of the CNNIC, as they may be amended from time to time.
+(x) Suspension and Cancellation. You agree that your registration of the domain name shall be subject to suspension, cancellation, or transfer pursuant to any Tucows, Registry Operator, CNNIC or government-adopted policy, or pursuant to any registrar or registry procedure not inconsistent with a CNNIC or government-adopted policy, (1) to correct mistakes by a party in registering the name, (2) for the resolution of disputes concerning the domain name, (3) to protect the integrity and stability of the registry, (4) to comply with any applicable laws, government rules or requirements, requests of aw enforcement, (5) to avoid any liability, civil or criminal, on the part of Tucows, Registry Operator or CNNIC, as well as their affiliates, subsidiaries, directors, representatives, employees and stockholders or (6) for violations of this Agreement. Tucows, Registry Operator and CNNIC also reserve the right to "freeze" a domain name during the resolution of a dispute.
+(xi) Jurisdiction. For the adjudication of disputes concerning or arising from use of the domain name, the Registrant shall submit, without prejudice to other potentially applicable jurisdictions, to the jurisdiction of the courts (1) of the Registrant's domicile, (2) where Tucows is located, and (3) the People's Republic of China.
+(xii) Governing Law. For the adjudication of a dispute concerning or arising from use of a .cn domain, such dispute will be governed under the Laws of the Peoples Republic of China.
+(d) .de domains. In the case of a ".de" registration, the following terms and conditions will apply:
+(i) Selection of a Domain Name. You represent that:
+(a) you have reviewed and have accepted the Registry's Terms and Conditions and the Registry's Guidelines and have provided your Reseller with written confirmation of same;
+(b) either you, or the person designated as the administrative contact for the domain name, shall be resident or shall have a branch in Germany;
+(c) to the best of the your knowledge and belief, neither this registration of a domain name nor the manner in which it is directly or indirectly to be used infringes upon the legal rights of a third party and, further, that the domain name is not being registered for nor shall it at any time whatsoever be used for any unlawful purpose whatsoever.
+(ii) Domain Name Disputes. You agree that, if the registration or reservation of your domain name is challenged by a third party, you will be subject to the provisions specified by the Registry or any court of law. You agree that in the event a domain name dispute arises with any third party, you will indemnify and hold us harmless pursuant to the terms and conditions specified by the Registry or any court of law.
+(iii) Registry Policies. You agree to be bound by the Registry's Registration Terms and Conditions and the Registration Guidelines. English language translations of the Registry's documents are provided for convenience; in the event of a discrepancy between the English and the German language agreements, the terms of the German agreement will prevail. The Registry documents may be found at:
+English
+(a) Registration Terms and Conditions http://www.denic.de/en/bedingungen.html
+(b) Registration Guidelines http://www.denic.de/en/richtlinien.html
+(c) DENIC direct pricelist http://www.denic.de/en/preisliste.html
+German
+(d) DENIC-Registrierungsbedingungen http://www.denic.de/de/bedingungen.html
+(e) DENIC-Registrierungsrichtlinien http://www.denic.de/de/richtlinien.html
+(f) DENIC-Preisliste http://www.denic.de/de/preisliste.html
+(e) .tv domains. In the case of a ".tv" registration, the following terms and conditions will apply:
+(i) Domain Name Dispute Policy. If you reserved or registered a domain name through us, or transferred a domain name to us from another Registrar, you agree to be bound by the Dispute Policy that is incorporated herein and made a part of this Agreement by reference. The current version of the Dispute Policy may be found at http://www.icann.org/dndr/udrp/policy.htm. Please take the time to familiarize yourself with this policy.
+(ii) Policy . You agree that your registration of the .tv domain name shall be subject to suspension, cancellation, or transfer pursuant to any ICANN or government adopted policy, or pursuant to any Registrar or registry procedure not inconsistent with an ICANN or government-adopted policy, (1) to correct mistakes by us or the applicable Registry in registering the name or (2) for the resolution of disputes concerning the domain name. You acknowledge that you have reviewed the .tv General Terms of Service which may be found at: http://www.tv/en-def-5066945b5fcc/en/policies/tos.shtml and expressly agree to the terms outlined therein.
+(f) co.uk, .org.uk, ltd.uk, net.uk, plc.uk and me.uk domains. In the case of a co.uk, .org.uk, ltd.uk, net.uk, plc.uk or me.uk registration, the following terms and conditions will apply:
+(i) "Nominet UK" means the entity granted the exclusive right to administer the registry for .uk domain name registrations.
+(ii) Domain Name Dispute Policy. If you reserved or registered a domain name through us, or transferred a domain name to us from another registrar, you agree to be bound by the Dispute Policy which is incorporated herein and made a part of this Agreement by reference. The current version of the Dispute Policy may be found at: http://www.nic.uk/DisputeResolution/DrsPolicy/. Please take the time to familiarize yourself with this policy.
+(iii) Nominet UK Policy. You agree that your registration of the domain name shall be subject to suspension, cancellation, or transfer pursuant to any Nominet UK-adopted policy, term or condition, or pursuant to any registrar or registry procedure not inconsistent with an Nominet UK-adopted policy, (1) to correct mistakes by a registrar or the registry in registering the name, or (2) for the resolution of disputes concerning the domain name. The current Nominet UK terms and conditions can be found at: http://www.nominet.org.uk/../../TermsAndConditions.html
+When you submit a request for a domain name registration with Tucows and/or Reseller, you will be entering into two contracts - one contract with Tucows and/or Reseller and one contract with Nominet UK.
+Tucows and your Reseller will act as agents on your behalf by submitting your application to Nominet for you, however, you will still be entering into a direct contract between you and Nominet UK. This is a separate contract from this agreement; may be found at http://resellers.tucows.com/contracts/uk/ukterms. Tucows and Reseller must also make you aware that by accepting Nominet's terms and conditions you are consenting to Nominet using your personal data for a variety of reasons. In particular, your name and address may be published as part of Nominet's WHOIS look-up service.
+(iv) Transfer of Ownership. Any transfer of ownership in and to a domain name registration shall be affected in accordance with Nominet UK policies and procedures.
+(g) .us domains. In the case of a ".us" registration, the following terms and conditions will apply:
+(i) "DOC" means the United States of America Department of Commerce.
+(ii) us Nexus Requirement. Only those individuals or organizations that have a substantive lawful connection in the United States are permitted to register for .usTLD domain names. Registrants in the .usTLD must satisfy the nexus requirement ("Nexus" or "Nexus Requirements") set out at: http://www.neustar.us/policies/docs/ustld_nexus_requirements.pdf.
+(iii) Selection of a Domain Name. You certify and represent that:
+(a) You have and shall continue to have, a bona fide presence in the United States on the basis of real and substantial lawful contacts with, or lawful activities in, the United States as defined in Section (ii) hereinabove;
+(b) The listed name servers are located within the United States;
+(c) The data provided in the domain name registration application is true, correct, up to date and complete, and that you will continue to keep all of the information provided correct, up-to-date and complete;
+(d) To the best of the your knowledge and belief, neither this registration of a domain name nor the manner in which it is directly or indirectly to be used infringes upon the legal rights of a third party;
+(e) That the domain name is not being registered for nor shall it at any time whatsoever be used for any unlawful purpose whatsoever;
+(f) You have the authority to enter into this Registration Agreement.
+(iv) Domain Name Dispute Policy. If you reserved or registered a domain name through us, or transferred a domain name to us from another registrar, you agree to be bound by the Dispute Policy and the usDRP, as defined below, that is incorporated herein and made a part of this Agreement by reference. Please take the time to familiarize yourself with these policies.
+(a) Domain Name Disputes. You acknowledge having read and understood and agree to be bound by the terms and conditions of the following documents, as they may be amended from time to time, which are hereby incorporated and made an integral part of this Agreement:
+(b) The Nexus Dispute Policy ("Dispute Policy), available at: http://www.neustar.us/policies/docs/nexus_dispute_policy.pdf. The Dispute Policy will provide interested parties with an opportunity to challenge a registration not complying with the Nexus Requirements.
+(c) The usTLD Dispute Resolution Policy ("usDRP") available at: http://www.neustar.us/policies/docs/usdrp.pdf. The usDRP is intended to provide interested parties with an opportunity to challenge a registration based on alleged trademark infringement. In addition to the foregoing, you agree that, for the adjudication of disputes concerning or arising from use of the Registered Name, you shall submit, without prejudice to other potentially applicable jurisdictions, to the jurisdiction of the courts (i) of your domicile, (ii) where Tucows is located, and (iii) the United States.
+(v) Policy. You agree that your registration of the domain name shall be subject to suspension, cancellation, or transfer pursuant to any Tucows, Registry Operator, the DOC or government-adopted policy, or pursuant to any registrar or registry procedure not inconsistent with a DOC or government-adopted policy, (1) to correct mistakes by us or the applicable Registry in registering the name or (2) for the resolution of disputes concerning the domain name. The Registry Operator's policies can be found at http://www.neustar.us/policies.
+(vi) Indemnity. The DOC shall be added to the parties you have agreed to indemnify in Section 13 hereinabove.
+(vii) Information. As part of the registration process, you are required to provide us certain information and to update us promptly as such information changes such that our records are current, complete and accurate. You are obliged to provide us the following information:
+(a) Your full name, postal address, e-mail address and telephone number and fax number (if available) (or, if different, that of the domain name holder);
+(b) The domain name being registered;
+(c) The name, postal address, e-mail address, and telephone number and fax number (if available) telephone numbers of the administrative contact, the technical contact and the billing contact for the domain name;
+(d) The IP addresses and names of the primary nameserver and any secondary nameserver(s) for the domain name;
+(e) In addition to the foregoing, you will be required to provide additional Nexus Information. The Nexus Information requirements are set out at http://www.neustar.us/policies/docs/ustld_nexus_requirements.pdf.
+Any other information, which we request from you at registration, is voluntary. Any voluntary information we request is collected for the purpose of improving the products and services offered to you through your Reseller.
+(viii) Disclosure and Use of the Registration Information. You agree and acknowledge that we will make domain name registration information you provide available to the DOC, to the Registry Operator, and to other third parties as applicable. You further agree and acknowledge that we may make publicly available, or directly available to third party vendors, some, or all, of the domain name registration information you provide, for purposes of inspection (such as through our WHOIS service) or other purposes as required or permitted by the DOC and applicable laws. You hereby consent to any and all such disclosures and use of information provided by you in connection with the registration of a domain name (including any updates to such information), whether during or after the term of your registration of the domain name. You hereby irrevocably waive any and all claims and causes of action you may have arising from such disclosure or use of your domain name registration information by us. You may access your domain name registration information in our possession to review, modify or update such information, by accessing our domain manager service, or similar service, made available by us through your Reseller. We will not process data about any identified or identifiable natural person that we obtain from you in a way incompatible with the purposes and other limitations which we describe in this Agreement. We will take reasonable precautions to protect the information we obtain from you from our loss, misuse, unauthorized access or disclosure, alteration or destruction of that information.
+Additional Notices & Fees
+All domain name renewals, post-expiration renewals and redemption/restore fees are billed at $14.95/year.
+Price subject to change.
+All domain name pre-expiration and post-expiration notices are sent via e-mail.
+You will receive a 30 day notice prior to expiration, five day notice prior to expiration and a notice after the domain name has expired for over three days.
+All notices will be delivered via e-mail.
+Acceptance of Agreement
+You acknowledge that you have read this agreement and agree to all its terms and conditions.
+You have independently evaluated the desirability of the service and are not relying on any representation agreement, guarantee or statement other than as set forth in this agreement.
+Return to our home page...
+About WebDivisor
+News
+Solutions
+Affiliates
+Contact
+About
+Manage My Account
+Affiliate Services
+Member Services
+Copyright © 2000-2010 WebDivisor. All Rights Reserved.
+Terms of Service. Privacy Policy. Guarantees. Affiliates. Site Map.

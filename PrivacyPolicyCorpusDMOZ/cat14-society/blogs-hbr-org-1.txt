@@ -1,0 +1,57 @@
+http://blogs.hbr.org/cs/2010/01/googles_privacy_breach_lessons.html
+You have 1 free articles left this month.
+You are reading your last free article for this month.
+Subscribe for unlimited access.
+Create an account to read 2 more.
+Technology
+Google’s Privacy Breach: Lessons for Companies
+Late Monday, January 25, I posted results of my recent testing of Google Toolbar. In videos and screenshots, I showed that Google Toolbar was continuing to collect users’ browsing history — sites visited, page viewed, searches run — even when users specifically instruct that the Toolbar be “disable[d]” — and even when the Toolbar disappears […]
+by
+Benjamin Edelman
+by
+Benjamin Edelman
+January 27, 2010
+Tweet
+Post
+Share
+Save
+Print
+Tweet
+Post
+Share
+Save
+Print
+Leer en español
+Late Monday, January 25, I posted results of my recent testing of Google Toolbar. In videos and screenshots, I showed that Google Toolbar was continuing to collect users’ browsing history — sites visited, page viewed, searches run — even when users specifically instruct that the Toolbar be “disable[d]” — and even when the Toolbar disappears from view.
+The public responded with appropriate uproar. Fast Company compared Google’s Toolbar activities to China’s censorship of Google. MediaPost asked why Google hadn’t addressed the problem sooner. Dozens of bloggers joined in as well.
+When Google saw my article, they quickly said this was a mistake, and they said they’d fix it the same day. While Google is to be commended for taking quick action when the problem was made public, the situation presents three issues that managers should consider to ensure their firms avoid similar problems.
+1) What to do when a product is known to be defective, but a solution isn’t ready. Google told a journalist that it “discovered this bug internally” sometime before I revealed the problem on my site. But Google didn’t warn the affected public. A warning would have undermined confidence in Google’s product; no wonder Google kept quiet. But Google’s silence prevented users from protecting themselves by uninstalling Google Toolbar or running sensitive searches on Toolbar-less machines. I’m reminded of the preschool adage that honesty is the best policy. Ethical concerns aside, cover-ups don’t work in an Internet era — there are too many people watching, and companies are too likely to get caught.
+2) Assuring quality for complicated products. Companies tend to run quality assurance internally — especially in the software business, where popular wisdom is that no problem is too large for a patch or an upgrade. But here, basic testing could have uncovered the defect: My videos show nonconsensual transmissions in as little as 30 seconds of clicking and browsing, choosing default options and doing nothing out of the ordinary. Some companies hire specialist attackers (“red teams”) to audit their own systems. Such a review could have caught this problem before defective software reached users.
+3) Passion and anger in online privacy. Online systems make it easy for companies to track and store customer data in ways users didn’t expect and don’t approve, and this often is too tempting a target for companies to resist. But play in the privacy space at your peril. Recall the November 2007 revolt against Facebook Beacon, which revealed users’ movie rentals, purchases, travels, and more. And in 2005, Sony was caught tracking the music played by Sony’s CD-buying customers, using a “rootkit” to cover its tracks. Here, Google knows it’s playing with fire – tracking every detail of users’ browsing, including even searches at competing search engines.
+Despite the proven dangers of haphazard user data collection, Google seems intent on pushing the boundaries further. Case in point: Years ago, Google Toolbar’s carefully designed screens insisted that users pause to learn about the Toolbar’s effect on privacy: “please read this carefully, it’s not the usual yada yada” proclaimed a red, all-caps, top-of-page message. These days that warning is nowhere to be found, and Google’s watered-down disclosures nonsensically contradict themselves. That’s too bad: Experience reveals that when it comes to privacy, users demand better.
+What comes next? Google’s hurried patch fixes a portion of the problems — assuring that when a user disables Google Toolbar, the product actually ceases tracking. But customer goodwill can quickly disappear online; I know I won’t be reinstalling Google Toolbar anytime soon. Managers working with sensitive customer data and customer products should take heed: A cover-up and belated repair are no substitute for properly protecting privacy and for promptly admitting problems when they arise.
+Ben Edelman is an Assistant Professor at Harvard Business School in the Negotiations, Organizations, and Markets unit.
+Read more on Technology
+or related topics
+Crisis management and Customers
+Benjamin Edelman is an associate professor at Harvard Business School and an adviser to various companies that compete against major platforms.
+Tweet
+Post
+Share
+Save
+Print
+Read more on Technology
+or related topics
+Crisis management and Customers
+Partner Center
+Diversity
+Latest
+Magazine
+Popular
+Topics
+Podcasts
+Video
+Store
+The Big Idea
+Visual Library
+Case Selections

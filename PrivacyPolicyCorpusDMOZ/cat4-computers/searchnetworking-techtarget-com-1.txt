@@ -1,0 +1,192 @@
+https://searchnetworking.techtarget.com/tip/How-3-benefits-of-SDN-can-help-small-businesses
+How 3 benefits of SDN can help small businesses
+SearchNetworking
+Search the TechTarget Network
+Sign-up now. Start my free, unlimited access.
+Login
+Register
+Techtarget Network
+News
+Features
+Tips
+More Content
+Answers
+Buyer's Guides
+Definitions
+Essential Guides
+Opinions
+Photo Stories
+Podcasts
+Quizzes
+Tech Accelerators
+Tutorials
+Sponsored Communities
+Networking E-zines
+SearchNetworking
+Topic
+All Topics
+Campus LAN
+Data Center
+Infrastructure
+Network management
+Network Security
+Networking careers
+SDN
+Telecom networks
+WAN
+Follow:
+Evaluate
+Weigh the pros and cons of technologies, products and projects you are considering.
+How 3 benefits of SDN can help small businesses
+As SDN matures and evolves from its original definition, it's getting harder for small businesses to ignore the benefits of SDN, like better visibility, security and efficiency.
+Share this item with your network:
+By
+John Fruehe
+Medium and large businesses are embracing software-defined networking as a way to automate operations, enforce...
+Sign in for existing members
+Continue Reading This Article
+Enjoy this article as well as all of our content, including E-Guides, news, tips and more.
+Step 2 of 2:
+You forgot to provide an Email Address.
+This email address doesn’t appear to be valid.
+This email address is already registered. Please login.
+You have exceeded the maximum character limit.
+Please provide a Corporate E-mail Address.
+I agree to TechTarget’s Terms of Use, Privacy Policy, and the transfer of my information to the United States for processing to provide me with relevant information as described in our Privacy Policy.
+Please check the box if you want to proceed.
+I agree to my information being processed by TechTarget and its Partners to contact me via phone, email, or other means regarding information relevant to my professional interests. I may unsubscribe at any time.
+Please check the box if you want to proceed.
+By submitting my Email address I confirm that I have read and accepted the Terms of Use and Declaration of Consent.
+consistency, bring more flexibility and reduce troubleshooting times. As SDN matures and refocuses, however, more small businesses can glean from the benefits of SDN.
+SDN architectures traditionally targeted companies with large data centers or hundreds to thousands of network devices, as they were most likely to reap the benefits. In fact, when SDN first appeared, the conventional wisdom was businesses would realize the benefits of SDN only if they ran thousands of network devices.
+But this outlook changed over time, as SDN both matured and evolved. The maturity resulted from learnings at some of the highest-volume data center deployments. Companies like Amazon, Facebook and Google became more proficient with SDN, for example, and their knowledge rolled back into the market.
+Additionally, the definition of SDN broadened beyond the early architectures that focused on managing Layer 3 switch infrastructure. SDN expanded beyond the hardware focus toward a software-centric view, with more emphasis on automation and management.
+SDN simplifies network management through abstraction
+Managed network devices have two primary planes: a control plane, which governs access, and a forwarding plane, which sends data from point to point. Traditionally, these two planes are combined within a device, and each device is programmed individually. If an access change needs to happen within the network, it is up to the administrator to make that control change across multiple devices -- often with a command-line interface.
+SDN moves the control plane to a central location in which a single controller handles access and provisioning for all devices, while each physical device still manages its own forwarding plane. With centrally managed access and intelligence, SDN can make changes in one location and propagate those changes to all network devices instead of relying on many individual configurations. SDN creates abstraction between the hardware and actual business intent, thereby simplifying network management tasks.
+SDN separates the control plane from the forwarding plane for simplified network management.
+While large businesses may benefit from centralized purchasing, many smaller businesses and branch offices contain less standardized equipment, often from different vendors and occasionally with consumer-grade equipment sprinkled in due to lower costs. This leads to an odd mix of equipment that is difficult to manage, and it results in higher support costs and lower productivity, even if outsourced to a service provider.
+When each device has its own management console and parameters, support teams can't see a holistic view of the network. Troubleshooting becomes a complex and time-consuming process that eats into both budgets and profits.
+How small businesses can glean the benefits of SDN
+SDN creates abstraction between the hardware and actual business intent, thereby simplifying network management tasks.
+Small businesses can minimize these management and troubleshooting challenges through the following SDN benefits:
+1. Better visibility. With a consolidated console, businesses can more easily see routing, switching, remote access, wired and wireless components, as well as potential threats and attempted incursions from the outside. The single SDN controller makes it easier to identify issues and, more importantly, translate them for nontechnical staff.
+Traditionally, small businesses have little on-site IT, so SDN tools can help abstract networking into more understandable actions. For instance, wireless traffic will eventually travel over wires, so seeing the whole chain helps pinpoint issues faster than trying to correlate data over multiple consoles.
+2. Better security. Most security problems come from inconsistent application of rules. It's more likely that a poorly executed rule will accidently jeopardize a resource than a nefarious hacker outside the firewall. SDN centralizes features and automates their provisioning across the network. If manufacturing isn't supposed to have access to accounting's data, for example, IT teams can put that rule in place. The SDN controller will then write the instructions out to all the appropriate devices, ensuring consistency and accountability.
+3. Better efficiency. A major benefit of SDN is it shortens the troubleshooting time to resolution. SDN consoles can help small businesses with no in-house IT support or less technical staff more quickly identify the issue, or at least rule out some possibilities. This triage helps reduce troubleshooting time and bring users back to productivity faster, sometimes even before a remote technician can make it on site. The centralized SDN controller can even reside in the cloud, enabling a remote support organization to monitor from anywhere, even if the network is inaccessible.
+Management consoles provide support teams with valuable network visibility and monitoring.
+SDN options for small businesses
+Small businesses can find SDN offerings from companies like Aerohive Networks, Hewlett Packard Enterprise's Aruba, Cisco, Dell, Ubiquiti Networks and others. These highly integrated options put control back into the hands of the small business with tools that are easier to configure and use.
+Small businesses should consider the level of integration across wired and wireless, as well as the usability of the management console. If your business is in need of a smarter, more cohesive way to deploy and manage network resources, perhaps it's time to look into the benefits of SDN and decide whether SDN is right for your organization.
+This was last published in November 2018
+Dig Deeper on Data Center Network Infrastructure
+network slicing
+By: Margaret Rouse
+software-defined networking (SDN)
+By: Margaret Rouse
+Software-defined networking security involves 3 factors
+By: John Burke
+Social concept points to an SDN model with two control planes
+By: Russ White
+John Fruehe asks:
+What challenges do small businesses still face when it comes to SDN?
+Join the Discussion
+Sponsored News
+Reduce Network Complexity and Empower Your Hybrid Cloud with a Modern, ...
+–IBM
+The Top 5 Reasons Employees Need More than a VPN for Secure Remote Work
+–Citrix
+Why IT Must Break Down Silos as Part of its Digital Transformation Initiative
+–Citrix
+See More
+Related Content
+Deploying SDN for small business not yet worth it
+– SearchNetworking
+How software-defined networking layers work with HCI
+– SearchConvergedInfrastructure
+Addressing NFV security issues in the enterprise
+– SearchSecurity
+Join the conversation
+1 comment
+Send me notifications when other members comment.
+Add My Comment
+Register
+I agree to TechTarget’s Terms of Use, Privacy Policy, and the transfer of my information to the United States for processing to provide me with relevant information as described in our Privacy Policy.
+Please check the box if you want to proceed.
+I agree to my information being processed by TechTarget and its Partners to contact me via phone, email, or other means regarding information relevant to my professional interests. I may unsubscribe at any time.
+Please check the box if you want to proceed.
+Login
+Forgot your password?
+Forgot your password?
+No problem! Submit your e-mail address below. We'll send you an email containing your password.
+Submit
+Your password has been sent to:
+Please create a username to comment.
+Oldest
+Newest
+[-]
+johnfruehe
+- 12 Nov 2018 3:30 PM
+What challenges do small businesses still face when it comes to SDN?
+Add My Comment
+Cancel
+Latest TechTarget resources
+Unified Communications
+Mobile Computing
+Data Center
+IT Channel
+SearchUnifiedCommunications
+Google announces G Suite overhaul with Google Workspace
+The new Google Workspace will let people use Meet or Chat to collaborate on projects while working in the office suite's other ...
+Everything Enterprise Connect 2020: News, trends and insights
+This guide gathers breaking news and expert insights from one of the largest conferences focused on the enterprise communications...
+Rollout of Google Meet attendance report paused
+G Suite Enterprise for Education will soon allow teachers to track who is in class and who is absent with an attendance report on...
+SearchMobileComputing
+Microsoft adding voice commands to Outlook mobile app
+Voice commands built into the Outlook mobile app will speed up writing emails, scheduling meetings and calling colleagues, ...
+Faster iPads unveiled at Apple Event
+At this week's Apple Event, the company unveiled an iPad Air powered by the company's fastest A14 processor. Apple also ...
+Nvidia's Arm Limited buy could shake mobile industry
+Nvidia announced a $40 billion deal to buy chip designer Arm Limited. Now, it must convince regulators and smartphone makers that...
+SearchDataCenter
+IBM to spin off IT services to focus on hybrid cloud, AI
+IBM will spin off its Managed Infrastructure Services unit as a public company to focus on hybrid cloud and AI.
+Dell EMC PowerEdge XE7100 seeks to corral unstructured data
+Dell looks to snap server sales slump with two new PowerEdge XE servers. The dense models have flexible configurations of compute...
+A look at the main differences of Bourne shell vs. Bash
+Shells help admins run commands from the keyboard to the OS. Though Bourne shell and Bash are similar, there are differences in ...
+SearchITChannel
+SolarWinds MSP provides return-to-office best practices
+Executives from IT management software firm SolarWinds MSP offered best practices for supporting clients' return-to-office ...
+How to plan an SAP S/4HANA brownfield migration
+SAP S/4HANA brownfield migrations aim to convert existing SAP environments without reimplementation. Find out how to prepare for ...
+Google Cloud growth fuels partner opportunities
+Amid solid Google Cloud growth, MSP partners such as SADA Systems, Onix and Pythian say their alliance with the public cloud ...
+About Us
+Meet The Editors
+Contact Us
+Advertisers
+Business Partners
+Media Kit
+Corporate Site
+Contributors
+Reprints
+Answers
+Definitions
+E-Products
+Events
+Features
+Guides
+Opinions
+Photo Stories
+Quizzes
+Tips
+Tutorials
+Videos
+All Rights Reserved,
+Copyright 2000 - 2020, TechTarget
+Privacy Policy
+Cookie Preferences
+Do Not Sell My Personal Info
+Close

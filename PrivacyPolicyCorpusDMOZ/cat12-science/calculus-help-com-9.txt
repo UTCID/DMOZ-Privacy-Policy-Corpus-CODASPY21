@@ -1,0 +1,101 @@
+https://calculus-help.com/2020/09/02/what-is-the-tangent-line-equation/
+Skip to content
+In calculus you will come across a tangent line equation. What exactly is this equation? This article will explain everything you need to know about it.
+In calculus you will inevitably come across a tangent line equation. What exactly is this equation? This article will explain everything you need to know about it.
+Quick Navigation
+1
+Key Terms and Formulas Defined
+2
+The Primary Method of Finding the Equation of the Tangent Line
+3
+Methods to Solve Problems Related to the Tangent Line Equation
+4
+Wrapping Up
+In calculus, you learn that the slope of a curve is constantly changing when you move along a graph. This is the way it differentiates from a straight line. You can describe each point on a graph with a slope.
+A tangent line is just a straight line with a slope that traverses right from that same and precise point on a graph. When we want to find the equation for the tangent, we need to deduce how to take the derivative of the source equation we are working with.
+When looking for the equation of a tangent line, you will need both a point and a slope. You will be able to identify the slope of the tangent line by deducing the value of the derivative at the place of tangency. This is where both line and point meet.
+In regards to the related pursuit of the equation of the normal, the “normal” line is defined as a line which is perpendicular to the tangent. This line will be passing through the point of tangency. Now that we have briefly gone through what a tangent line equation is, we will take a look at the essential terms and formulas which you will need to be familiar with to find the tangent equation.
+Key Terms and Formulas Defined
+Image via: Flickr
+Before we get to how to find the tangent line equation, we will go over the basic terms you will need to know. By having a clear understanding of these terms, you will be able to come to the correct answer in your search for the equation.
+Tangent line – This is a straight line which is in contact with the function at a point and only at that specific point. This line is barely in contact with the function, but it does make contact and matches the curve’s slope. This line is also parallel at the point of the meeting. You can also simply call this a tangent.
+Secant line – This is a line which is intersecting with the function. This line will be at the second point and intersects at two points on a curve. You can also just call this a secant.
+Slope-intercept formula – This is the formula of y = mx + b, with m being the slope of a line and b being the y-intercept. You will use this formula for the line.
+Point-slope formula – This is the formula of y – y1 = m (x-x1), which uses the point of a slope of a line, which is what x1, y1 refers to. The slope of the line is represented by m, which will get you the slope-intercept formula.
+With the key terms and formulas clearly understood, you are now ready to find the equation of the tangent line. You should retrace your steps and make sure you applied the formulas correctly. Otherwise, you will get a result which deviates from the correctly attributed equation.
+The Primary Method of Finding the Equation of the Tangent Line
+Image via: Flickr
+When we are ready to find the equation of the tangent line, we have to go through a few steps. If you take all these steps consecutively, you will find the result you are looking for.
+There is more than one way to find the tangent line equation, which means that one method may prove easier for you than another. We will go over the multiple ways to find the equation. The following is the first method.
+Write Down the Function and Draw the Tangent Line
+While you can be brave and forgo using a graph to illustrate the tangent line, it will make your life easier to graph it so you can see it. This is because it makes it easier to follow along and identify if everything is done correctly on the path to finding the equation. You will want to draw the function on graph paper, with the tangent line going through a set point.
+Use the Derivative For the Slope
+What you will want to do next is take the first derivative (f’x), which represents the slope of the tangent line somewhere, anywhere, on f(x), as long as it is on a point.
+Input the x-coordinate Into f(x)
+Take the point you are using to find the equation and find what its x-coordinate is. When you input this coordinate into f'(x), you will get the slope of the tangent line.
+Convert the Tangent Line Equation Into Point-Slope Form
+What you need to do now is convert the equation of the tangent line into point-slope form. The conversion would look like this: y – y1 = m(x – x1). In this equation, m represents the slope whereas x1, y1 is a point on your line. Congratulations! You have found the tangent line equation.
+Confirm the Tangent Line Equation
+While you can be fairly certain that you have found the equation for the tangent line, you should still confirm you got the correct output. It helps to have a graphing calculator for this to make it easier for you, although you can use paper as well. You will graph the initial function, as well as the tangent line. If confirming manually, look at the graph you made earlier and see whether there are any mistakes.
+Methods to Solve Problems Related to the Tangent Line Equation
+There are a few other methods worth going over because they relate to the tangent line equation. Knowing these will help you find the extreme points on the graph, the equation of the normal, and both the vertical and horizontal lines.
+Identify the Maximum and Minimum Points
+With this method, the first step you will take is locating where the extreme points are on the graph. These are the maximum and minimum points, given that one is higher than any other points, whereas another is lower than any points. Remember that a tangent line will always have a slope of zero at the maximum and minimum points.
+A caveat to note is that just having a slope of 0 does not completely ensure the extreme points are the correct ones. To be confident that you found the extreme points, you should take the following steps:
+Take the first derivative of the function, which will produce f'(x). The resulting equation will be for the tangent’s slope.
+Solve for f'(x) = 0. This will uncover the likely maximum and minimum points.
+Take the second derivative of the function, which will produce f”(x). What this will tell you is the speed at which the slope of the tangent is shifting.
+For the likely maximum and minimum points that you uncovered previously, input the x-coordinate, a, into f”(x). Now you will have to check whether this is positive or negative. If it is positive, you have found the minimum at a. If it is negative, you have found the maximum. A third outcome you would get is the inflection point, when f”(a) equals zero.
+When you discover an extreme point at a, you will have to find f(a) to reveal the y-coordinate.
+Uncover the Equation of the Normal
+The “normal” to a curve at a specific point will go through that point. However, its slope is perpendicular to the tangent. When you want to find the equation of the normal, you will have to do the following:
+Find the slope of the tangent line, which is represented as f'(x).
+If you have the point at x = a, you will have to find the slope of the tangent at that same point.
+You will now want to find the slope of the normal by calculating -1 / f'(a).
+Write down the equation of the normal in the point-slope format.
+Vertical and Horizontal Tangent Lines
+To find out where a function has either a horizontal or vertical tangent, we will have to go through a few steps.
+When looking for a horizontal tangent line with a slope equating to zero, take the derivative of the function and set it as zero.
+Obtain and identify the x value.
+Take the original function to deduce the y value. The result is that you now have the location of the point.
+When looking for a vertical tangent line with an undefined slope, take the derivative of the function and set the denominator to zero.
+Obtain and identify the x value.
+Take the original function to deduce the y value. The result is that you now have the location of the point.
+There are two things to stay mindful of when looking for vertical and horizontal tangent lines. In the case of horizontal tangents, you will want to make sure that the denominator is not zero at either the x or y points. In the case of vertical tangents, you will want to make sure that the numerator is not zero at either the x or y points.
+Wrapping Up
+Image via: Flickr
+Congratulations on finding the equation of the tangent line! You can now be confident that you have the methodology to find the equation of a tangent. It may seem like a complex process, but it’s simple enough once you practice it a few times. The key is to understand the key terms and formulas. Having a graph as the visual representation of the slope and tangent line makes the process easier as well.
+Post navigation
+Previous Previous post: Mean Value Theorem for Integrals: What is It?Next Next post: How To Solve A Logarithmic Equation In Calculus
+Archives
+September 2020
+August 2020
+January 2020
+December 2019
+October 2019
+September 2019
+July 2019
+June 2019
+May 2019
+February 2019
+May 2018
+January 2017
+September 2016
+Categories
+Articles
+Tutorials
+Uncategorized
+Video-Tutorials
+Meta
+Log in
+Entries feed
+Comments feed
+WordPress.org
+Recent Posts
+Problem 3: Position and Velocity
+Ultimate Guide On How To Calculate The Derivative Of Arccos
+What is a Relative Minimum in Calculus?
+Finding Limits In Calculus – Follow These Steps
+How To Solve A Logarithmic Equation In Calculus
+Search for:
+Search

@@ -1,0 +1,467 @@
+https://gesterling.wordpress.com/category/privacy/
+Screenwerk
+Greg Sterling’s Thoughts on Online and Offline Media
+Archive for the ‘Privacy’ Category
+« Older Entries
+Do You Trust Your Social Network?
+June 2, 2010
+Obviously the Facebook privacy row caused lots of people to discuss the question of trust on social media sites. One research firm (Vision Critical) conducted a survey of “4,000 randomly-selected adults in the US, UK and Canada” on the question of trust, privacy and social networks. The results came out at the beginning of last month.
+There are a number of findings about trust and consumer attitudes toward various media categories. Here’s the relevant “slide” regarding the perceived trustworthiness of social networks:
+You can click the image above to enlarge it. What it says is the following (the numbers vary by country but are generally consistent across the board):
+I am very concerned about my privacy on online social networks: a majority said yes
+I worry that online social networks are selling my personal information to advertisers: a slight majority said yes
+I don’t mind online social networks using my personal preferences to target ads I see because it means they’ll be more relevant: only 20% to 25% said “yes” to this idea.
+Quit Facebook day was largely a failure, with only 35K joining (out of more than 500 million members globally):
+Let’s assume the survey results above are somewhat representative of the larger population of Facebook members. The failure of more of them to quit may reflect ambivalence about the site: people don’t want to leave the party but they may be acting in a more cautious and circumspect way regarding what they’re doing and sharing.
+Has your behavior or have your attitudes about posting/sharing on Facebook changed at all in the wake of the recent Open Graph/Social Plug-ins privacy controversy?
+Posted in Privacy, Social networks, Social search/community, User-generated content |
+4 Comments »
+Regulation Is Here, Internet Professionals
+May 5, 2010
+I’ve been saying it for well over a year and Facebook may have been the final straw. The concern over privacy and user control raised in the wake of the Facebook “Open Graph” and Social Plugins initiative, as well as ongoing questions over behavioral targeting and online data mining, have created a kind of perfect storm that are all but certain to bring new regulation to data collection online.
+New draft privacy legislation in Congress has already been proposed and circulated:
+No consent is required to collect and use
+operational or transactional data – the routine web logs or session
+cookies that are necessary for the functioning of the website – or to
+use aggregate data or data that has been rendered anonymous.
+Companies need an individual’s express opt-in
+consent to knowingly collect sensitive information about an individual,
+including information that relates to an individual’s medical records,
+financial accounts, Social Security number, sexual orientation,
+government-issued identifiers and precise geographic location
+information.
+Some version of this Boucher bill (.pdf) will pass in Congress. On the surface and at the highest level it may not be that different from IAB “self-regulation” schemes or best practices employed today. What may be different is that the legislation empowers the FTC to make more rules and enforce the law. The state attorneys general are also empowered to enforce these rules and punish offenders through civil litigation. They can accordingly seek injunctions and civil damages against the offending companies.
+This would also open the door to a wave of private and class action lawsuits against companies perceived to have deep pockets that violated the law. It effectively puts the burden on publishers, ad networks and others to very strictly comply with the rules and disclosure requirements or face punishment in the form of damages.
+By playing “fast and loose” with privacy, being arrogant, naive, manipulative and aggressive about data collection and ad targeting online firms have brought this on themselves.
+Google and then Yahoo have developed relatively clear pages that enable consumers to exercise some control over data collection and privacy (JumpTap has done a version of this in mobile). But this model has not been widely followed by others. Regulation might have been avoided if there were a more sincere and pervasive effort to do something similar across the Internet.
+Any “self regulation” efforts now put forth are too little too late. Federal privacy regulation is coming. Indeed it’s almost here.
+___
+The IAB doesn’t like the bill of course, while consumer groups think it’s too lenient.
+Posted in Legal, Privacy, Regulatory issues |
+5 Comments »
+Facebook Won’t ‘Like’ FTC Inquiry on Privacy
+April 26, 2010
+Some people believe that with Social Plug-ins and the “Open Graph,” Facebook  is overreaching. One of those people is now NY Senator Charles Schumer.
+For quite some time I’ve been saying and speculating that if “the industry” isn’t careful the regulators will spring into action. Today Senator Schumer called on the FTC to create guidelines and regulate social networking privacy, motivated apparently by Facebook’s Open Graph announcements last week.
+Here’s an excerpt from Schumer’s letter:
+Today,
+U.S. Senator Charles E. Schumer urged the Federal Trade Commission (FTC)
+to provide guidelines for social networking sites, like Facebook,
+Myspace, and Twitter on how private information submitted by online
+users can be used and disseminated. Schumer’s call to the FTC comes on
+the heels of recent reports that Facebook has decided to provide user
+data to select third party websites and has begun sharing personal
+profile information that users previously had the ability to restrict
+access to. These recent changes by Facebook fundamentally change the
+relationship between the user and the social networking site.
+Previously, users had the ability to determine what information they
+chose to share and what information they wanted to keep private. Recent
+policy changes are fundamentally changing that relationship and there is
+little guidance on what social networking sites can and cannot do and
+what disclosures are necessary to consumers.
+Under new policies, users
+must go through a complicated and confusing opt-out process to keep
+private information from being shared with third party websites.
+Additionally, Facebook has also created a new system whereby ‘interests’
+listed by users on their personal profiles are automatically aggregated
+and shared as massive web pages. Users used to have the ability to keep
+this information private if they chose. These new common interest pages
+are a gold mine of marketing data that could use by used for spam and
+potentially scammers, intent on peddling their wares.
+Schumer and his staff may or may not fully understand what Facebook is trying to do or the benefits the company asserts it’s providing to users and publishers. But this should be taken seriously and could be the beginning of a long-anticipated move into online privacy regulation by the feds.
+The IAB (and Facebook itself) should head this off at the pass with voluntary moves and clearer disclosures.
+Posted in Legal, Local Search, Privacy, User-generated content |
+3 Comments »
+Google, Facebook & Privacy
+April 21, 2010
+While people are busy attacking Google over privacy and calling for the breakup of the company, Facebook could later emerge as the real privacy villain of our Internet story.
+Om Malik details the anticipated announcements at today’s F8 Facebook developer event, one of which will involve location. More broadly Facebook is stepping up its plan to insinuate itself into every corner of the Internet. Facebook Connect, which is now a foundation stone of many sites (e.g., Buzz.com), is only the beginning.
+In defense of some of the company’s moves, Facebook CEO Mark Zuckerberg has been widely quoted saying that privacy was no longer a “social norm”:
+Talking in San Francisco over the weekend at the Crunchie Awards, which recognise technological achievements, the 25 year-old web entrepreneur said: “People have really gotten comfortable not only sharing more information and different kinds, but more openly and with more people.”
+He went on to say that privacy was no longer a ‘social norm’ and had just evolved over time.
+Giving him the benefit of the doubt, Zuckerberg may not have meant that privacy was gone but that privacy expectations had changed. While certainly true in some respects that statement emerges as more aspirational than descriptive of the current reality. The truth is more complex: people share information online but they may not be aware of the full implications of that sharing. If they were they might not share quite as much.
+The privacy furor over Google Buzz, Facebook’s past privacy battles and recent data argue that privacy is very much still alive. As I wrote on Monday:
+A very new study, based on a 2009 telephone survey with 1,000 younger and older US adults, shows that younger users do in fact care about privacy. The authors of the report wrote, “We conclude then that that young-adult Americans have an aspiration for increased privacy even while they participate in an online reality that is optimized to increase their revelation of personal data.”
+The AP summarized the findings at a high level:
+88 percent of people of all ages said they have refused to give out information to a business because they thought it was too personal or unnecessary. Among young adults, 82 percent have refused, compared with 85 percent of those over 65.
+86 percent believe that anyone who posts a photo or video of them on the Internet should get their permission first, even if that photo was taken in public. Among young adults 18 to 24, 84 percent agreed — not far from the 90 percent among those 45 to 54.
+40 percent of adults ages 18 to 24 believe executives should face jail time if their company uses someone’s personal information illegally — the same as the response among those 35 to 44 years old.
+Moreover, yesterday it was reported that WhatApp.org, a site that rates “privacy, openness and security,” gave Facebook a “2 out of 5,” essentially a failing grade according to Forbes:
+The new site, which was co-created by Stanford University Law fellow Ryan Calo last year and went into beta in March, has rated Facebook’s privacy significantly lower than that of other platforms like Twitter and the iPhone.
+Data is being used more and more aggressively by ad networks, publishers and others in ad targeting and profiling. It’s always said by companies that provide and use the data that there’s no personally identifiable information and that profiles and behavior are aggregated anonymously.
+Part of Facebook’s ambition (as with Beacon at one time) is likely to provide its user data to third party sites to improve targeting. There is a scenario wherein Facebook becomes the equivalent of an Internet-wide ad network with demographic, location and interest-based targeting data available to third parties.
+I wouldn’t go so far as to argue that Facebook is being “evil” but the company is aggressively pushing the boundaries of privacy in its own self interest and toward new business models. Witness, as one example, the recent move to make all default settings public — a move partly designed to compete with Twitter.
+As Facebook has grown and become more dominant it has become somewhat “intoxicated” (perhaps like Google or Microsoft before it) with its own plans and power. It is quite possible (and I’m hopeful) that Facebook will be very careful as it pushes into this next phase of development and make everything opt-in with full disclosures to users. But it’s also possible that it won’t do those things and will rely partly on users’ inaction, inattention or lack of complete understanding about what’s being done with their data.
+If the “devil” (rather than the angel) on Facebook’s shoulder wins then it will be necessary for third parties, privacy advocates and perhaps the FTC to push back and keep the site from crossing too many privacy boundaries. Indeed, if the devil wins then privacy advocates may find that their current complaints and objections to Google and its policies look quaint in retrospect.
+Posted in Privacy |
+7 Comments »
+Privacy and the Paradox of Targeting
+April 19, 2010
+I’ve discussed multiple times in the past the paradox that when you ask consumers whether they want to be targeted by online ads they express discomfort and displeasure. But they also say they only want “relevant” ads. This is a direct conflict in most cases; the only online ad channel that can reconcile that conflict is search.
+More and more ambitious and aggressive targeting has been developed over the past several years in a effort to make display and rich media advertising online perform better and more like search — matching ads with intent (inferred from browsing history or other variables). A new example of this more aggressive variety of targeting comes in the form of a company called Cardlytics, which is identifying consumers through and using their online banking statements as a marketing channel. AdAge explains:
+Imagine signing in to your online-banking account and finding promotions
+linked to your transactions. Underneath a transaction for a restaurant,
+there’s an offer from that eatery for $10 cash back when you spend a
+minimum of $20. And underneath a purchase at an apparel chain, a rival
+offers 15% cash back for shopping at its store or website . . .
+Cardlytics is privy to
+transaction data: the name of the merchant, date of the purchase, how
+much was spent and the customer’s ZIP code. But it does not have access
+to personally identifiable data like customer names, account numbers or
+home addresses, which are managed by participating banks. Because of
+that, he downplays privacy concerns, noting that Cardlytics goes through
+“lots and lots” of regulatory steps in order to work with financial
+institutions. Customer information remains behind the bank’s firewall.
+While the idea of this is both intrusive and potentially offensive, the company says that privacy is taken care of an consumers can opt out. Consumers are also much more open to deals and coupons than traditional ads.
+The rise and popularity of Behavioral targeting prompted the US FTC to get involved and hold hearings last year on targeting and privacy. For its part the IAB is trying to keep the government and regulators at bay with self-regulation. That includes new consumer outreach efforts:
+The Interactive Advertising Bureau, in conjunction with the ad network trade group Network Advertising Initiative, has announced a new tactic aimed at increasing consumer awareness surrounding behavioral targeting: telling people up front exactly why they are receiving a particular Web ad.
+More specifically, the two groups are advocating for publishers and ad networks to run notices alongside banner ads in the form of text links that enable users to find out more information on where that ad came from—and even opt out of receiving similar behavior-based ads in the future. The initiative is being called CLEAR Ad Notice, which stands for “Control Links for Education and Advertising Responsibly.”
+This new IAB strategy represents adoption of an approach that Google introduced with its “interest-based ads.” The Google approach is a good one: simple language combined with the ability to change ad preferences or opt-out of receiving targeted ads altogether. Yahoo also now does this.
+Giving consumers clear information and control is a potential solution to this targeting-tracking paradox; if consumers understand what kinds of information are being collected and used to serve ads to them they may choose to do nothing, recognizing that the targeting will make those ads more “relevant.” In an optimal case you might even get some additional information about the user.
+During a briefing related to privacy Google said for every 15 people who click through to its ad manager’s privacy controls
+and preferences that “four users edit preferences, one opts out and 10
+do nothing.”
+Many in online marketing have paternalistic notions about privacy and targeting or operate under the assumption that many people don’t really care about privacy — especially younger people. However a very new study, based on a 2009 telephone survey with 1,000 younger and older US adults, shows that younger users do in fact care about privacy.
+The authors of the report wrote, “We
+conclude then that that young-adult Americans have an aspiration for
+increased privacy even while they
+participate in an online reality that is
+optimized to increase their revelation of personal data.”
+The AP summarized the findings at a high level:
+88 percent of people of all ages said they have refused
+to give out information to a business because they thought it was too
+personal or unnecessary. Among young adults, 82 percent have refused,
+compared with 85 percent of those over 65.
+86 percent believe that anyone who
+posts a photo or video of them on the Internet should get their
+permission first, even if that photo was taken in public. Among young
+adults 18 to 24, 84 percent agreed — not far from the 90 percent among
+those 45 to 54.
+40 percent of adults ages 18 to 24 believe
+executives should face jail time if their company uses someone’s
+personal information illegally — the same as the response among those 35
+to 44 years old.
+The study did find a few generational discrepancies, but there were more similarities.
+In an early 2009 conversation the CEO of mobile ad marketplace Smaato, Ragnar Kruse, argued that all mobile advertising should be opt-in. This would remedy any/all privacy issues and potentially make advertising perform better. Placecast has an amazing statistic illustrating this, drawn from the beta phase of the company’s ShopAlerts:
+In research we conducted through the holiday season with three brands, 65% of consumers that opted-in to follow a brand made a purchase as a result of receiving messages based on place and time. In essence, location and time are the physical manifestation of purchase intent.
+I’ll quote it again: “65% of consumers that opted-in to follow a brand made a purchase as a
+result of receiving messages based on place and time.”
+But this opt-in approach won’t work for most marketers, publishers or ad networks online because too many consumers would simply fail to participate — fail to opt-in. So the Google approach now being championed by the IAB will have to do. But that approach needs to offer simplicity, clarity and control. If it fails to do those things or such a system is abused the feds will come knocking.
+Nobody should have a problem with the idea of offering consumers more information and giving them the ability to opt out. Only this sort of approach will address the paradox of privacy and targeting discussed above. Beyond this I could eventually see someone developing a privacy dashboard or ad manager for the entire Internet used by individuals to control and manage the advertising they see or receive.
+Posted in General online advertising, Privacy |
+3 Comments »
+Facebook Default Privacy: Everyone
+December 10, 2009
+Facebook has simplified its privacy settings but the default settings, which will be “chosen” by many or most, expose almost everything to the public. The cynics will say this is about APIs and better competing with Twitter going forward. Here’s what they look like:
+Here’s what I then did:
+There’s much more discussion on Techmeme, in particular from the EFF.
+To Facebook’s credit the company is forcing you to confront these settings very directly when you sign in and not simply making an announcement (that many wouldn’t see) and compelling users go find the privacy controls.
+____
+Related: Also this little blurb is from a quick note from Mark Mahaney at Citi about some trends on FB:
+Facebook Shows Hyper Local Targetting Ability — A trend that Facebook is seeing is more users are asking their networks for recommendations, like, “iPhone or Droid?” or “Any recommendations for Chinese Food in San Francisco?” Search for items in Facebook should eventually allow users to sift through relevant recommendations. Facebook can help a camping company or outdoor equipment retailer target all people in SF who went to Stanford, and showed interest in kayaking or camping as an example of hyperlocal marketing.
+Within this quick set of comments is the dual future of FB and local: recommendations engine for consumers, ad platform for SMBs. In some ways FB might be much more, MUCH more “disruptive” (to use the overused word) to YP than Google has been.
+Posted in Blog related, Personalization, Privacy, Social search/community |
+3 Comments »
+Bringing Real-Time Images to Google Earth/Maps
+October 1, 2009
+From FastCompany/Gizmodo: Here’s is an experimental approach to adding real-time information (“dynamic visualization”) to Google Earth. Watch the video; it shows traffic, sporting events and even individual movements based on the placement of cameras in and around the represented areas:
+This isn’t the only effort to marry video and Google Earth. On one level this is “cool” and potentially very useful and one can imagine many applications and use cases, especially as Internet content and applications such as Google Earth move to TV screens. For example, watching live sporting events via Google Earth rather than on cable TV, or checking traffic on the commute in the morning. But there are obvious privacy and surveillance concerns.
+All the Hollywood dystopian visions come to mind: Blade Runner, Terminator, Enemy of the State and so on.
+Posted in Mapping, Metaverses, Privacy |
+4 Comments »
+More Bad News for Behavioral Targeting
+September 30, 2009
+I’ve argued many times now, there’s momentum toward some sort of regulation of behavioral targeting. And now in my best “Yoda” voice: regulation is coming, prepared must you be. More support for regulation comes in the form of a new survey reported in the NY Times:
+About two-thirds of Americans object to online tracking by advertisers — and that number rises once they learn the different ways marketers are following their online movements, according to a new survey from professors at the University of Pennsylvania and the University of California, Berkeley.
+The professors say they believe the study, scheduled for release on Wednesday, is the first independent, nationally representative telephone survey on behavioral advertising.
+Here’s what the report itself says:
+Contrary to what many marketers claim, most adult Americans (66%) do not want marketers to tailor advertisements to their interests. Moreover, when Americans are informed of three common ways that marketers gather data about people in order to tailor ads, even higher percentages—between 73% and 86%–say they would not want such advertising.
+Even when they are told that the act of following them on websites will take place anonymously, Americans’ aversion to it remains: 68% “definitely” would not allow it, and 19% would “probably” not allow it.
+A majority of Americans also does not want discounts or news fashioned specifically for them, though the percentages are smaller than the proportion rejecting ads.
+69% of American adults feel there should be a law that gives people the right to know everything that a website knows about them.
+92% agree there should be a law that requires “websites and advertising companies to delete all stored information about an individual, if requested to do so.”
+63% believe advertisers should be required by law to immediately delete information about their Internet activity.
+Americans mistakenly believe that current government laws restrict companies from selling wide-ranging data about them. When asked true-false questions about companies’ rights to share and sell information about their activities online and off, respondents on average answer only 1.5 of 5 online laws and 1.7 of the 4 offline laws correctly because they falsely assume government regulations prohibit the sale of data.
+Signaling frustration over privacy issues, Americans are inclined toward strict punishment of information offenders. 70% suggest that a company should be fined more than the maximum amount suggested ($2,500) “if a company purchases or uses someone’s information illegally.”
+When asked to choose what, if anything should be a company’s single punishment beyond fines if it “uses a person’s information illegally,” 38% of Americans answer that the company should “fund efforts to help people protect privacy.” But over half of Americans adults are far tougher: 18% choose that the company should “be put out of business” and 35% select that “executives who are responsible should face jail time.”
+People are saying very explicitly that they don’t want targeted (read: relevant) ads. Also, look that the punitive attitudes in the bullets at the end.
+There’s a clear difference between attitudes and behavior. People don’t want to be tracked but the do respond to targeted ads and deal offers, etc.
+This survey will be taken as conclusive proof of the need for regulation — conclusive. The only question will be about the burdensomeness, the disclosure requirements, etc. Search advertising will be largely unaffected (although data retention will be an issue for search engines). It’s display that will suffer as a result.
+Who disagrees with me?
+___
+Thanks Kevin Lee for pointing me to the IAB self-regulation statement. But as George Bush the first might have said, “That’s not goin’ ta do it.”
+Posted in Culture, Demographics, Legal, Privacy |
+19 Comments »
+FTC-Sears Deal Points toward BT Regulation
+September 12, 2009
+The US FTC has approved a settlement with Sears regarding online tracking that requires it to destroy data collected from consumers, who were paid $10 to download software that monitored their online behavior. According to MediaPost, the Sears program sent “pop-up ads to 15 of every 100 visitors that asked for their email addresses. Respondents were then invited by email to download software that would track ‘online browsing,’ and promised $10 if they kept the software for at least one month.”
+The settlement between the FTC and Sears was originally announced in June by the government agency. Here’s the FTC’s summary of the case and the remedy:
+The FTC charges that the software would also monitor consumers’ online secure sessions – including sessions on third parties’ Web sites – and collect information transmitted in those sessions, such as the contents of shopping carts, online bank statements, drug prescription records, video rental records, library borrowing histories, and the sender, recipient, subject, and size for web-based e-mails. The software would also track some computer activities that were not related to the Internet. The proposed settlement calls for Sears to stop collecting data from the consumers who downloaded the software and to destroy all data it had previously collected.
+According to the FTC’s complaint, Sears invited certain consumers visiting the sears.com and kmart.com Web sites to become members of the “My SHC Community.” Sears solicited these consumers to “participate in exciting, engaging, and on-going interactions – always on your terms and always by your choice.” Sears paid consumers $10 to participate. As part of this process, Sears asked consumers to download “research” software that it said would confidentially track their “online browsing.” Only in a lengthy user license agreement, available to consumers at the end of a multi-step registration process, did Sears disclose the full extent of the information the software tracked, according to the complaint. The complaint charges that Sears’ failure to adequately disclose the scope of the tracking software’s data collection was deceptive and violates the FTC Act.
+Under the proposed settlement, in addition to destroying information previously collected, if Sears advertises or disseminates any tracking software in the future, it must clearly and prominently disclose the types of data the software will monitor, record, or transmit. This disclosure must be made prior to installation and separate from any user license agreement. Sears must also disclose whether any of the data will be used by a third party.
+In this case we already are seeing the future of online data collection going forward. Here are the most interesting and relevant bits from the excerpt above:
+Only in a lengthy user license agreement, available to consumers at the end of a multi-step registration process, did Sears disclose the full extent of the information the software tracked, according to the complaint. The complaint charges that Sears’ failure to adequately disclose the scope of the tracking software’s data collection was deceptive and violates the FTC Act.
+Under the proposed settlement, in addition to destroying information previously collected, if Sears advertises or disseminates any tracking software in the future, it must clearly and prominently disclose the types of data the software will monitor, record, or transmit. This disclosure must be made prior to installation and separate from any user license agreement. Sears must also disclose whether any of the data will be used by a third party.
+(Emphasis added.)
+I think these provisions point the way toward future FTC rules that will govern all of online advertising and behavioral targeting in particular. Here’s what I think the regulation will look like:
+Prominent disclosure requirements (what is being tracked and by whom)
+Prominent ability to opt-out of tracking
+Data retention (disclosure that tells people how long their information will be stored)
+If I’m correct this could throw a big monkey wrench in the works for BT because if people see prominent disclosures that they’re being tracked they’re likely opt-out, wouldn’t you? The “benefits” of behavioral targeting are highly abstract to consumers, though very real to marketers. However Google, with its “interest based ads,” may be something of a model for the future. Here’s Google’s discussion of the privacy controls in the program:
+Transparency – We already clearly label most of the ads provided by Google on the AdSense partner network and on YouTube. You can click on the labels to get more information about how we serve ads, and the information we use to show you ads. This year we will expand the range of ad formats and publishers that display labels that provide a way to learn more and make choices about Google’s ad serving.
+Choice – We have built a tool called Ads Preferences Manager, which lets you view, delete, or add interest categories associated with your browser so that you can receive ads that are more interesting to you.
+Control – You can always opt out of the advertising cookie for the AdSense partner network here. To make sure that your opt-out decision is respected (and isn’t deleted if you clear the cookies from your browser), we have designed a plug-in for your browser that maintains your opt-out choice.
+The Ad Preferences Manager is a kind of dashboard for consumers to convey their “interests” and opt-out:
+Make no mistake, regulation and enhanced disclosure requirements are coming. Marketers and publishers should be preparing for this inevitability.
+___
+Related (from AdAge): The Ad-Tracking Debate: Where Should Disclosure Live?:
+A more perfect (and not much harder) solution would put links to disclosure both in the ads and on the page or site. As proposed by industry groups, there should be a recurring icon in or around ads that consumers can come to associate with tracking and learning about why any particular targeted ad was served to them.
+But if consumers want to look into their privacy options on that site more generally, a link on every page should take them to one place with all of the privacy information they need.
+Posted in General online advertising, Legal, Privacy, Regulatory issues |
+1 Comment »
+BT in the Crosshairs
+September 9, 2009
+For some time I’ve been anticipating regulation to be imposed on behavioral targeting (and possibly more broadly on Internet advertising). The the AP reported yesterday:
+Rep. Rick Boucher, D-Va., chairman of the House Energy and Commerce Subcommittee on Communications, Technology and the Internet, is drafting a bill that would impose broad new rules on Web sites and advertisers. His goal: to ensure that consumers know what information is being collected about them on the Web and how it is being used, and to give them control over that information.
+The only questions in my mind are:
+How much of a burden will any new rules impose on search engines, publishers and marketers?
+Will it require opt-in or opt-out?
+Will there be the equivalent of a “do not track” list?
+Any bill that eventually passes will be a compromise but it will place burdens on Internet advertising that don’t currently exist. Consumers don’t necessarily clearly see the relationships between tracking, cookies and ad relevance. And even though they only want “relevant” ads, they also don’t want to be tracked.
+The biggest losers could be social networks if they have to allow people to opt out of all ad targeting. Precision targeting is what social networks have to offer marketers. If that’s taken away — and I would immediately opt out myself — they’ll have nothing left to offer except broad, vague reach.
+Posted in General online advertising, Legal, Privacy |
+Comments Off on BT in the Crosshairs
+Regulation IS Coming to Online Ads
+September 2, 2009
+I argued early last year that if behavioral targeting and tracking became too pervasive and/or aggressive we’d see some form of regulation from Washington. It’s coming. As the NY Times reported yesterday:
+10 major privacy groups plan to demand new privacy legislation from Congress regarding online behavioral tracking and ad targeting.
+The roster of groups is a who’s who in consumer and privacy circles: Consumers Union, Electronic Frontier Foundation, Consumer Federation of America, Center for Digital Democracy, U.S. Public Interest Research Group, and others.
+Among the things they’re asking for: No sensitive information (like health or financial information) should be used for behavioral tracking, no one under 18 should be behaviorally tracked, Web sites and ad networks shouldn’t be able to keep behavioral data for more than a day without getting an OK from the individual they’re tracking, and behavioral data can’t be used for discriminatory purposes.
+Some Congress members have indicated they will consider such legislation in the fall.
+These ideas will not strike anyone in Congress as unreasonable. Just as everyone under the sun is doing retargeting, I predict that some version of the ideas expressed in the second paragraph above will be enacted into law or imposed through some existing regulatory framework.
+Get ready for it. All the industry can really do is voluntarily adopt some version of these ideas to potentially pre-empt their imposition from above.
+Posted in General online advertising, Legal, Privacy |
+4 Comments »
+Never Trust ‘The Cloud’?
+July 15, 2009
+First the Twitter docs controversy: A hacker sent hundreds of allegedly authentic internal Twitter docs to TechCrunch. There was much sensitive information in there. Some of it TechCrunch is going to expose, some of it the site has chosen not to.
+Beyond the ethical questions surrounding TechCrunch’s potential disclosure of the docs, there is the issue of the security of the cloud. Apparently the docs were downloaded from Google Apps.
+What it shows is that cloud security is not ready for prime time.
+Posted in Privacy, Security |
+3 Comments »
+EU Regulators vs. Consumers on Privacy
+November 17, 2008
+Among consumers, privacy is a little understood thing — on both sides of the Atlantic. I was struck by the contrast in this article, describing Google’s struggle with European regulators over privacy, between their heightened concers and EU consumers’ apparent lack of concern:
+European consumers appear to be less worried than some regulators about the potential loss of privacy. ComScore, a research firm in Reston, Virginia, found that 8 in 10 Europeans used Google for online search queries.
+However this statement, that 80% of European consumers use Google, doesn’t mean that if you sat them down and asked them about privacy that they would express concerns. But their behavior either reflects ignorance or indifference — or a basic trust in Google.
+Here’s a passage regarding the regulators’ attitudes and some of the challenges Google faces in dealing with varying privacy rules in different countries:
+In Switzerland, data protection officials are quietly pressing Google to scrap plans to introduce Street View, a mapping service that provides a vivid, 360-degree, ground-level photographic panorama from any address. Swiss privacy law prohibits the unauthorized use of personal images or property.
+In Germany, where Street View is also not available, the simple process of taking photographs for the service violates privacy laws.
+Posted in Europe, Privacy |
+Comments Off on EU Regulators vs. Consumers on Privacy
+StreetView Now Shows My Driveway
+July 28, 2008
+I’ve been writing about Google StreetView since its launch — and largely been a defender of the utility of the images and technology. But now the joke is on me; here’s a picture of our cars in the driveway:
+It still think the technology is very useful. Yes, it’s a little strange.
+It’s all just part of living in a world without privacy.
+___
+More discussion of StreetView this morning from a piece I wrote at Search Engine Land.
+Posted in Mapping, Privacy |
+6 Comments »
+Relevant Ads but No Tracking Please
+March 31, 2008
+Here’s the paradox: consumers want “relevant ads” but don’t like to be tracked. MediaPost reports on the latest data to capture this:
+Nearly three out of four people, or 71%, [in a Truste survey] said they realize that companies track their Web browsing activity for purposes of sending them targeted ads. The majority–57%–said they are not comfortable with the practice, even when their browsing history can’t be linked to their names.
+At the same time, 72% of Web users also told researchers they find irrelevant ads “intrusive and annoying,” although one key strategy for displaying relevant ads relies on behavioral targeting, or monitoring where people go online and then determining their interests . . .
+I previously wrote about how overzealous BT will bring regulation that effectively hobbles it: The Ad Predicament and the End of Tracking?
+Posted in General online advertising, Legal, Privacy |
+3 Comments »
+Turning Display Ads into Directional Media
+March 20, 2008
+I wrote below that consumer privacy concerns may create problems for publishers, ad networks and advertisers seeking to turn aggressive targeting into greater relevance for display ads just as brand advertisers are starting to shift big dollars online.
+However there are interesting potential alternatives to BT for display, which include units such as Linkstorm’s overlays, widgets (e.g., Google Gadget Ads), brand advertising in search results (see also here), and other interactive display units such as Admission‘s dynamic platform.
+Here’s an example of the latter’s inventory based display advertising:
+Clicking on any of the individual cars opens a window as follows that becomes a lead-gen form (and could contain video):
+These sorts of ads can take ride on top of BT; however, more importantly, such units can be effective outside of it. They can be targeted contextually to the content of a site or to a geography or both without relying on any consumer data mining. Consumers interact with the ads and then self-select, turning a display ad into “directional advertising” — the equivalent of the behavior that has made search so effective. (And some of these ad units include a search box as well.)
+As mentioned, there are a range of companies offering display advertising with interactive capabilities or elements. But if legislation or regulations are enacted that require tracking notifications and consumer opt-out opportunities, these sorts of alternative strategies to make display ads more effective, by making them highly interactive, are going to be the way that the industry needs to go.
+See this related piece I wrote at SEL regarding branding in search results.
+____
+Disclosure: I’m an advisor to Admission Corp.
+Posted in Brand and branding, General online advertising, Legal, Privacy, Regulatory issues |
+2 Comments »
+The Ad Predicament and the End of Tracking?
+March 20, 2008
+At a very crude level here’s where we are today:
+Traditional media are less and less effective because of audience fragmentation
+Agencies are still largely clinging to traditional media because of “inertia” and familiarity
+The Internet is where huge audiences are today but they’re harder to effectively reach
+Arguably search is the most effective online ad medium
+Brands generally don’t want to spend money on search
+Taking the lessons of search to heart, display advertising — where most of the brand advertising is seeking to go online — is tapping behavioral targeting (BT) and other, similar strategies to make display more “relevant”
+Previously I wrote that if publishers, portals and other became too aggressive in their efforts to data mine and target/retarget, you’d see regulation and legislation. Well here’s the first of it:
+After reading about how Internet companies like Google, Microsoft and Yahoo collect information about people online and use it for targeted advertising, one New York assemblyman said there ought to be a law.
+Assemblyman Richard L. Brodsky, the sponsor of a New York bill to limit how companies collect data on computer users.
+So he drafted a bill, now gathering support in Albany, that would make it a crime — punishable by a fine to be determined — for certain Web companies to use personal information about consumers for advertising without their consent.
+And because it would be extraordinarily difficult for the companies that collect such data to adhere to stricter rules for people in New
+York alone, these companies would probably have to adjust their rules everywhere, effectively turning the New York legislation into national law.
+From a legal standpoint this law wouldn’t survive a court challenge because, assuming it passed,
+it would violate the Commerce Clause of the US Constitution, which doesn’t allow individual states to regulate “interstate commerce.” Of course there are exceptions one can find but this wouldn’t be one of them.
+What’s significant here is that it represents a first step in what is sure to be an ongoing legislative and regulatory discussion of consumer privacy. This is analogous to what happened with Click Fraud only more extreme: the search engines failed to “get out in front” of the issue from a PR perspective until they’d been repeatedly hammered in the press.
+There are efforts to “self-regulate” BT within the IAB. But those efforts will need to be stepped up and become a lot more public or all the anticipated benefits of BT and other, similar schemes are going to go away as legislators impose restrictions on Web publishers and ad networks that require notification of tracking and the ability to opt-out.
+That legislation or regulatory action would likely come amid a flurry of negative publicity in newspaper articles and on TV news broadcasts — publicity that will make ad networks and companies like AOL, Yahoo, Microsoft, Google and others look highly sinister. In that context, how many consumers, once they discover they’re being “tracked,” are likely to not opt out? I would say fewer than will buy the argument that the ads they’re getting by not doing so are more “relevant.”
+Posted in General online advertising, General search, Legal, Privacy |
+8 Comments »
+ISPs Get into the Ad Game
+February 21, 2008
+There is a movement afoot for ISPs to get into online advertising, in terms of providing data support and tracking for ad serving purposes. Phorm in the UK and and ISPs in the US are seeking to take data on users and their behavior and factor it into online ad targeting.
+From a “local” standpoint, this will potentially improve geotargeting. But the emphasis and focus of discussion is on BT and serving brand advertising that relies on deeper data mining about individuals. In my opinion, BT may ultimately collapse under the weight of its own “greed.” It reportedly works but there are going to have to be very high-profile and voluntary consumer privacy measures taken by the involved companies themselves or outside forces are going to try and reign it in.
+BT is fairly shadowy right now in terms of consumer awareness and understanding. Consumers want more “relevant” ads but are also uncomfortable with being “tracked.”
+While US regulatory agencies are generally ambivalent about consumer interests and tend to favor business, in Europe the European Commission is going much farther to safeguard privacy. We may see some fairly aggressive positions taken in Europe that require actions on the part of search engines and portals at odds with BT capabilities and objectives. It’s not clear at the moment what these might be as a practical matter.
+Privacy is a once again a huge issue (see my post on Google Health and consumer privacy).
+The online ad industry’s general disregard of the consumer — notwithstanding rhetoric to the contrary — and its desire to offer ever more specific and powerful targeting capabilities to marketers may ultimately “kill the golden goose” by failing to properly self-regulate or educate the public and legislators.
+Search is largely immune because it’s “directional” and doesn’t rely on data mining, although Google has experimented with BT in search in the form of ads based on past queries.
+Posted in Privacy, Regulatory issues |
+1 Comment »
+Google Maps New Feature, Video
+January 28, 2008
+Here’s a new (minor but useful) feature from Google Maps: directions without addresses.
+And here’s a funny but pointed video (courtesy of Google Blogoscoped) about Maps/StreetView and privacy (not from Google).
+And here’s my post on Data Privacy Day from SEL.
+___
+I used Google’s My Maps to make a list of open houses this weekend as I was testing out the DotHomes real estate search engine. It was very helpful and other real estate sites should take a look at developing similar functionality. (Think about the ad inventory as users print out these maps and take them in the car on Sunday to look at open houses.)
+Posted in Mapping, Privacy |
+Comments Off on Google Maps New Feature, Video
+Ask Goes Further on Privacy
+December 11, 2007
+SEL has the explanation of the formally launched Ask Eraser, which is the most transparent and progressive of search privacy programs.
+Here’s more from Miguel Helft at the NY Times. Will it pressure or challenge other search engines to adopt similar policies? Not immediately but over the long term — yes.
+Posted in Privacy |
+Comments Off on Ask Goes Further on Privacy
+« Older Entries
+Search:
+Pages
+About Greg Sterling
+Get All My Posts on Twitter
+Internet2Go
+Click Icon to Subscribe
+An error has occurred; the feed is probably down. Try again later.
+Recent Comments
+Yahoos Say Microsoft… on More Random Thoughts on…DoublePositve = 1 Bi… on Is Twitter Worth $1 Billi…And So It Begins… Go… on Google Mortgage Search?Local 1.0 | Your Sus… on The End of SMB WebsitesThis Week’s Ma… on ServiceMagic’s Reviews Q…
+Categories
+Acquisitions
+Ad Networks
+Australia
+Blog related
+Brand and branding
+broadband
+Call Tracking
+Canada
+China
+Classifieds
+Click fraud
+Conferences
+Coupons
+Culture
+Data quality
+Demographics
+Directory assistance
+Domains
+E-commerce
+Earnings
+Email
+Enterprise
+Europe
+Events
+Forecasts
+General online advertising
+General search
+Guest columns
+Hardware
+IM
+Internet Yellow Pages
+Legal
+Local Search
+Location tech
+Mapping
+Media fragmentation
+Metaverses
+Mobile
+Newspapers
+Online shopping
+People search
+Personalization
+Politics
+PPCall
+PPClick
+Privacy
+Public relations
+Radio
+Regulatory issues
+Reputation management
+Revenues
+Sales channel issues
+Search market share
+Security
+SEO
+Shopping
+Silly Fun
+Small Business
+Social networks
+Social search/community
+Toolbars
+Trademark
+Traditional media
+Traffic issues
+Uncategorized
+User-generated content
+Venture capital
+Verticals
+Video
+VoIP
+Blogroll
+Ask Blog
+Comparison Engines
+David Dalka
+Future of Real Estate Marketing
+GigaOm
+Internet2Go
+John Battelle’s Searchblog
+Local Search Source
+Local Visibility
+LocalSEOGuide
+Lost Remote Video
+Marchex LocalPoint
+Mark Potts
+MarketingShift
+MarketingVOX
+Matt McGee: Hyperlocal Blogger
+MSN Search Blog
+Official Google Blog
+Paid Content
+Pete Blackshaw’s CGM Blog
+Poynter E-Media Blog
+Praized
+Read/Write Web
+Reprise Media’s SearchViews
+ResourceShelf
+Search Engine Journal
+Search Engine Land
+Search Engine Watch
+Seeing Forests
+SeekingAlpha
+Sonia Carreno
+State of Local Blog
+The Kelsey Group
+The Local Onliner
+Traffick
+Urban Mapping Blog
+VentureBeat
+Yahoo! Buzz Index
+Yahoo! Search Blog
+Create a free website or blog at WordPress.com.
+Entries (RSS) and Comments (RSS).
+Post to
+Cancel
+Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.
+To find out more, including how to control cookies, see here:
+Cookie Policy

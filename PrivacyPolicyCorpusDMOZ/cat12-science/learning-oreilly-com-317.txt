@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch13.html#websec2-CHP-13-SECT-1
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 13. Mobile Code II: Java, JavaScript, Flash, and ShockwaveIn the last chapter we examined the risks inherent in downloading
+and running plug-ins, ActiveX controls, and other kinds of machine code.
+We saw that while many of these programs are well behaved, they can
+occasionally be quite vicious. Once a downloaded program starts running,
+it inherits all of the privileges and access rights of the user who
+invoked it.Java, JavaScript, Flash, and Shockwave are all attempts to
+allow web developers to realize many of the benefits of mobile code
+without assuming the corresponding dangers. Instead of downloading raw
+executable machine code, all of these systems download an intermediate
+language that is then interpreted on the user’s computer. In theory,
+these interpreted languages can provide additional security by simply
+not implementing dangerous functionality. For example, JavaScript has no
+built-in mechanism to read files on the local computer’s hard disk, so
+it should be impossible to write a JavaScript program that scans the
+user’s hard disk for interesting files and then uploads these files to a
+hostile web server.In practice, Java, JavaScript, Flash, and Shockwave do provide
+significantly more security than the mobile code techniques than were
+considered in the previous chapter. But because of implementation
+failings and occasional design flaws, none of these systems actually
+provide as much security as their inventors claim.JavaJava is a complex object-oriented language ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

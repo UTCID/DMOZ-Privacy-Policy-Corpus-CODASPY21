@@ -1,0 +1,249 @@
+http://www.developershome.com/privacy-policy.asp
+Home
+Preferences
+Mobile Internet Browsing (WAP)
+WAP Server Setup Tutorial
+Quick Links:
+Introduction
+How to Publish WAP 1.x / WAP 2.0 Content
+WAP 1.x / WAP 2.0 MIME Types and File Extensions
+Setting up MIME Types on WAP Servers
+Setting MIME Types with a htaccess File
+Setting MIME Types with Server-side Technologies
+Setting up Default Documents
+WML Tutorial
+Quick Links:
+WML Introduction
+WML Deck and Card
+Font Size and Style
+WML Images
+WML Tables
+WML Anchor Links
+Programming Softkeys of Mobile Phones
+WML Template and Menu
+WML Events
+WML Selection Lists
+WML Input Fields
+WML Variables
+Submit Form Data
+Clear Saved Forms
+WMLScript Tutorial
+Quick Links:
+WMLScript Introduction
+Compiling WMLScript Code
+WMLScript Language Rules
+Defining Functions
+Calling Functions
+WMLScript Variables
+WMLScript Variables Vs WML Variables
+Passing Arguments By Value and By Reference
+WMLScript Operators
+WMLScript Conditional
+WMLScript Looping
+WMLScript Standard Libraries
+WMLScript Arrays
+Validate Form Data
+WMLScript Standard Libraries Reference
+Quick Links:
+WMLBrowser Library
+Dialogs Library
+String Library
+Float Library
+Lang Library
+URL Library
+XHTML MP Tutorial
+Quick Links:
+XHTML MP Introduction
+Development of Wireless Markup Languages
+Advantages of XHTML MP
+WML Features Lost in XHTML MP
+Syntax Rules of XHTML MP
+XHTML MP MIME Types and File Extension
+XHTML MP Document Structure
+XHTML MP Generic Metadata
+XHTML MP Images
+XHTML MP Anchor Links
+XHTML MP Selection Lists
+XHTML MP Input Elements
+Submit Form Data
+WAP CSS / WCSS Tutorial
+Quick Links:
+WCSS Introduction
+Syntax Rules of WCSS
+How to Apply Cascading Style Sheets to Documents
+WCSS Selectors
+Div and Span Elements
+Cascading Rules
+WCSS Font/Text Properties
+WCSS List Properties
+WCSS Color Properties
+WCSS Border Properties
+WCSS Access Key Extension
+WCSS Input Extension
+WCSS Marquee Extension
+Matching Style Sheets to Different User Agents
+Detect User Agent Types and Device Capabilities
+Quick Links:
+Introduction
+The Accept Header
+The User-Agent Header
+The Accept-Charset Header
+The Accept-Language Header
+The x-wap-profile and Profile Headers
+How to Read the Value of an HTTP Header
+How to Use UAProf (User Agent Profile)
+UAProf / User Agent Profile Reference
+Quick Links:
+HardwarePlatform Component
+SoftwarePlatform Component
+NetworkCharacteristics Component
+BrowserUA Component
+WapCharacteristics Component
+PushCharacteristics Component
+MmsCharacteristics Component
+Upload Files From WAP Cell Phones
+Quick Links:
+How to Upload Files from WAP Cell Phones
+XHTML MP Example
+Handling File Uploads with PHP
+Handling File Uploads with JSP / Java Servlet
+Security Considerations of File Upload
+Mobile Messaging
+SMS Tutorial
+Quick Links:
+Introduction to SMS
+What Makes SMS Messaging So Successful
+Example SMS Applications
+SMS Center / SMSC
+Basic Concepts of SMS
+Intra-operator SMS
+Inter-operator SMS
+International SMS
+SMS Gateway
+How to Send SMS Messages from Computers
+How to Receive SMS Messages with Computers
+Introduction to GSM / GPRS Wireless Modems
+How to Use HyperTerminal
+Introduction to AT Commands
+General Syntax of Extended AT Commands
+Result Codes of AT Commands
+AT Command Operations: Test, Set, Read, Execution
+Checking if the Use of AT Commands to Send, Receive and Read SMS Messages is Supported
+Operating Mode: SMS Text Mode and SMS PDU Mode
+Setting/Reading the SMSC Address (AT+CSCA)
+Preferred Message Storage (AT+CPMS)
+Writing SMS Messages to Message Storage (AT+CMGW)
+Deleting SMS Messages from Message Storage (AT+CMGD)
+Sending SMS Messages from a Computer / PC (AT+CMGS, AT+CMSS)
+Reading SMS Messages from Message Storage (AT+CMGR, AT+CMGL)
+How to Choose an SMS Gateway Provider
+Comparison Table of SMS Gateway Providers
+Free SMS Software/Tools and Libraries
+GSM 7-bit Default Alphabet Table (with ISO 8859-1)
+SMS on Windows PC (Non-Developers)
+SMS on Linux PC (Non-Developers)
+Privacy
+Policy Statement
+Last
+updated: 7 September 2008
+Welcome
+to DevelopersHome.com. This Privacy Policy Statement describes how we
+handle personal information when you use the services and materials
+available at DevelopersHome.com. (DevelopersHome.com is operated by
+HarmoniousTech Limited.) We are committed to safeguarding the privacy
+of our users and we believe that the protection of personal data of
+our users should be put in the first place.
+If
+you use this web site, you accept the practices described in this
+Privacy Policy Statement.
+All
+changes made to our privacy policies and practices will be updated in
+this web page. You are advised to visit this page periodically since
+it may be revised from time to time without notice to you.
+Policies
+Concerning Web Site Statistical Analysis
+When
+you visit the web site, our server(s) may log some information about
+your visit such as:
+the
+time and date of your visit;
+the
+web pages you viewed at the web site;
+the
+time you spent at the web site;
+your
+IP address and domain name;
+the
+web site you visited immediately before coming to our web site;
+the
+web site you visited immediately after leaving our web site;
+your
+web browser version and type;
+your
+operating system version and type.
+We
+will carry out statistical analysis of the web site's usage based on
+the information, for example, finding out the number of visitors and
+the web page that is visited most frequently. The statistics can help
+us determine which part of the web site needs improvement and how we
+can better serve you. The statistics will not identify you as an
+individual.
+Policies
+on the Use of Cookies
+Sometimes
+our server(s) may utilize the "cookies" feature of your web
+browser. A cookie is a file containing small amount of data that your
+web browser puts on your computer. We may use cookies for purposes
+such as:
+maintaining
+your login identity across the web site;
+remembering
+configuration information and your preferences;
+storing
+information for load balancing use.
+With
+cookies, we can provide you more convenient and personalized
+services. For example, by maintaining your login identity across the
+web site, you do not need to log in each time you access a
+password-protected web page. We will not use cookies to collect any
+personally identifiable information from you.
+You
+may disable the "cookies" feature in your web browser. You
+may also delete any cookie stored in your computer. (Please refer to
+your web browser's user manual for the detailed instructions.)
+However, if you do so, some features of our web site may become
+disabled, and the performance may be lowered.
+Third-Party
+Advertisers and Ad Serving Companies
+This
+web site includes third-party advertising. Third-party advertisers or
+ad serving companies may serve advertisements directly to your web
+browser and receive information about your visits such as the time
+and date of your visits and your IP address. They may also use
+technologies such as cookies and web beacons to serve advertisements.
+We are not responsible for the privacy practices of these third-party
+advertisers and ad serving companies. Please contact them directly if
+you would like to learn more about their privacy practices and how to
+opt out of their cookies and other techniques for information
+collection.
+Examples
+of third-party advertisers and ad serving companies that may serve
+advertisements directly to your web browser:
+Google
+(Google may show advertisements from other third-party
+vendors) -- To find more information about their privacy policy
+and to opt out of their cookies (if they offer this capability),
+please visit Google's
+Privacy Center (in particular the section
+about advertising) and the third-party
+vendors' web sites.
+Links
+to Third-Party Web Sites
+This
+web site may contain links to third-party web sites that are not
+under our control. We are not responsible for the privacy practices
+of these third-party web sites. Please contact the owners of these
+third-party web sites directly if you would like to learn more about
+their privacy practices.
+Home | Acknowledgements | Advertise with Us | Contact Us / Feedback | Glossary | Preferences
+© 2004-2020 | Copyright Notice | Privacy Policy | Terms of Use

@@ -1,0 +1,267 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch04s02.html#websec2-CHP-4-SECT-2.2.5
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Working Cryptographic Systems and ProtocolsA cryptographic system is a
+collection of software and hardware that can encrypt or decrypt
+information. A typical cryptographic system is the combination of a
+desktop computer, a web browser, a remote web server, and the computer
+on which the web server is running. A cryptographic protocol, by
+contrast, describes how information moves throughout the cryptographic
+system. In our examples, the web browser and the remote web server
+communicate using the Secure Sockets Layer (SSL) cryptographic
+protocol.More than a dozen cryptographic protocols have been developed
+for Internet security and commerce. These systems fall into two
+categories. The first category of cryptographic programs and protocols
+is used for encryption of offline messages—mostly email. The second
+category of cryptographic protocols is used for confidentiality,
+authentication, integrity, and nonrepudiation for online
+communications.Offline Encryption SystemsOffline
+encryption systems are designed to take a message, encrypt it,
+and either store the ciphertext or transmit it to another user on
+the Internet. Some popular programs that are used for email
+encryption are shown in Table
+4-1 and described in the sections that follow.Table 4-1. Cryptographic protocols for offline communicationsProtocolWhat does it do?Widely deployed?Programs and systemsURLPGP/OpenPGPEncryption and digital signatures for email and
+electronic documentsYesPGP (Network Associates) Hushmail
+(Hush Communications) Veridis
+Highware GNU Privacy Guard
+(GNU) http://www.pgp.com/
+http://www.hushmail.com/
+http://www.veridis.com/
+http://www.highware.com/
+http://www.gnupg.org/
+S/MIMEEncryption and digital signatures for
+emailNoNetscape Communicator (Netscape
+Communications) Outlook (Microsoft)
+Outlook Express (Microsoft) http://netscape.com/
+http://microsoft.com/
+PGP/OpenPGPPGP (Pretty Good Privacy)[51] is a complete working system for the cryptographic
+protection of electronic mail and files. OpenPGP is a set of standards (RFC 2440) that
+describe the formats for encrypted messages, keys, and digital
+signatures. PGP offers confidentiality, integrity, and
+nonrepudiation.PGP was the first widespread public key encryption program.
+The original version was written between 1990 and 1992 by Phil
+Zimmermann and released on the Internet in June 1991. Later
+versions were the result of efforts by Zimmermann and programmers
+around the world.PGP is available in two ways: as a command-line program,
+which can be run on many different operating systems, and as an
+integrated application, which is limited to running on the Windows
+and Macintosh platforms. The integrated application comes with
+plug-in modules that allow it to integrate with popular email
+packages such as Microsoft Outlook, Outlook Express, Eudora, and
+Netscape Communicator. With these plug-ins, the standard email
+packages can automatically send and receive PGP-encrypted
+messages.Current versions of PGP allow users to create two kinds of
+private keys: encryption keys, which are
+used for actually encrypting email messages, and
+signing keys, which are used for digitally
+signing messages. Older versions of PGP supported only a single
+key that was used for both encryption and signing.Each PGP key consists of two parts: a person’s name and the
+actual mathematical key that is used to perform cryptographic
+operations, as shown in Figure
+4-1.Figure 4-1. PGP keys consist of the actual public key that is used to
+encrypt or decrypt information, one or more email addresses, and
+one or more digital signatures attached to each email
+address.Because PGP keys have names, one logical question to ask is
+this: how do you know that a given PGP key really belongs to the
+person whose name is on that key? This can be a very difficult
+question to answer.The simplest way to be sure of a key’s authenticity is to
+get a copy of the key from its owner. Unlike other email
+encryption systems, every PGP user can certify any key that he
+wishes: if you have a key, it is up to you to decide if you
+believe that the key actually belongs to the person who is named
+on the key’s certificate. When you get a person’s key and add it
+to your PGP key ring , you can tell your copy of PGP whether or not to
+trust the key.In practice, it is not always possible to have face-to-face
+meetings with people before you get their keys. As an alternative
+to face-to-face meetings, PGP has a provision for key signing.
+That is, one PGP key can be used to sign a second key.
+Essentially, this means that the first person is using his key to
+attest to the validity of the second person. I may not be able to
+meet directly with Sam, but if I trust Deborah, and I get a copy
+of Sam’s key with Deborah’s signature on the key attesting to the
+fact that Sam’s key is valid, I may trust the key. This process is
+called certification. Certification is
+discussed in detail in Chapter
+7. Chapter 6 contains
+additional discussion of PGP and provides examples of its
+use.PGP’s name-based system also assumes that everybody who
+signed and who uses the key thinks that the name on the key refers
+to the same person. This may be true for some names and email
+addresses, but it is certainly not true for others. There might be
+many John Smiths; several people might use the email address
+president@company.com over the course of a
+few years. On this issue, PGP is silent.S/MIME
+When you send an email with an attachment over the
+Internet, the attachment is encoded with a protocol called the
+Multipurpose Internet Mail Extensions,[52] or MIME. The MIME standard codifies the technique by
+which binary files, such as images or Microsoft Word documents,
+can be encoded in a format that can be sent by email.Secure/MIME[53] (S/MIME) extends the MIME standard to allow for
+encrypted email. On the surface, S/MIME offers similar
+functionality to PGP; both allow email messages to be encrypted
+and digitally signed. But S/MIME is different from PGP in an
+important way: to send somebody a message that is encrypted with
+PGP you need a copy of that person’s key. With S/MIME, on the
+other hand, to send somebody an encrypted message you need a copy
+of that person’s S/MIME certificate. In general, people cannot create their
+own S/MIME certificates. Instead, these certificates are issued by
+third parties called
+certification authorities.
+This extra layer of complexity has somewhat limited the widespread
+adoption of S/MIME as a system for encrypted email.
+Online Cryptographic Protocols and Systems
+Online cryptographic protocols generally require
+real-time interplay between a client and a server to work properly.
+The most popular online protocol is SSL, which is used to protect
+information as it is sent between a web browser and a web server.
+Some popular systems that fall into this category are summarized in
+Table 4-2 and described
+in the following sections.Table 4-2. Cryptographic protocols for online communicationsProtocolWhat does it do?Widely deployed?Programs and systemsURLDNSSEC (Secure DNS)Provides secure hostname to IP address
+resolutionNoBIND, Version 9 (Internet Software
+Consortium) http://www.ietf.org/html.charters/dnsext-charter.html
+IPsec and IPv6Secures IP trafficNo  http://www.ietf.org/html.charters/ipsec-charter.html
+KerberosProvides secure authentication and
+cryptographic key exchange for higher-level protocols
+SomewhatKerberos (MIT) Windows 2000
+(Microsoft)[a]
+http://web.mit.edu/kerberos/www/
+PCT (Private Communications
+Technology)Provides privacy for web
+transactionsNoInternet Explorer (Microsoft)
+Internet Information Server (Microsoft) http://www.graphcomp.com/info/specs/ms/pct.htm
+SET (Secure Electronic
+Transactions)Provides privacy and nonrepudiation for credit
+card transactions; prevents merchants from getting credit
+card numbers NoCapital One Wallet http://www.visa.com/
+http://www.mastercard.com/
+SSH (Secure Shell)Provides secure remote access (telnet) protocol
+and additional provisions for encrypting other protocols
+such as email and X Windows YesSSH Version 1.x, 2.x
+OpenSSH Putty SecureCRT
+(Vandyke Communications) http://www.ssh.com
+http://openssh.org
+http://www.chiark.greenend.org/uk/nsgtatham/putty/
+http://www.vandyke.com/products/securecrt/
+SSL (Secure Sockets Layer)Encrypts stream communications; mostly used for
+downloading web pages and email YesApache Web Server Internet
+Information Server (Microsoft) Commerce Server
+(Netscape) Most web browsers http://www.apache-ssl.org
+http://www.modssl.org/
+http://www.microsoft.com/windows2000/technologies/web
+http://home.netscape.com/eng/ssl3/ssl-toc.html
+[a] The Microsoft version of Kerberos contains
+proprietary extensions not compatible with open
+standards.SSLThe Secure Sockets Layer[54] (SSL) is a general-purpose web cryptographic
+protocol for securing bidirectional communication channels. SSL is
+commonly used with TCP/IP. SSL is the encryption system that is
+used by web browsers such as Netscape Navigator and Microsoft’s
+Internet Explorer, but it can be used with any TCP/IP
+service.SSL connections are usually initiated with a web browser
+using a special URL prefix. For example, the prefix https:
+is used to indicate an SSL-encrypted HTTP connection,
+whereas snews: is used to
+indicate an SSL-encrypted NNTP connection.SSL offers confidentiality through the use of:User-specified encryption algorithmsIntegrity, through the use of user-specified
+cryptographic hash functionsAuthentication, through the use of X.509 v3 public key
+certificatesNonrepudiation, through the use of cryptographically
+signed messagesSSL is in the process of being replaced by the IETF
+Transport Layer Security[55] (TLS) protocol. The two protocols are described in
+depth in Chapter 5 and in
+Appendix B.PCTThe
+Private Communications Technology (PCT) is a
+transport layer security protocol similar to SSL that was
+developed by Microsoft because of shortcomings in SSL 2.0. The SSL
+2.0 problems were also addressed in SSL 3.0 and, as a result, use
+of PCT is decreasing. Nevertheless, Microsoft intends to continue
+supporting PCT because it is being used by several large Microsoft
+customers on their corporate intranets.SETThe
+Secure Electronic Transaction[56] (SET) protocol is an online payment protocol
+designed to facilitate the use of credit cards on the
+Internet.The fundamental motivation behind SET is to speed
+transactions while reducing fraud. To speed transactions, the
+protocol automates the “buy” process by having the consumer’s
+computer automatically provide the consumer’s credit card number
+and other payment information, rather than forcing the consumer to
+type this information into a form in a web browser. To reduce
+fraud, SET was designed so that the merchant would never have
+access to the consumer’s actual credit card number. Instead, the
+merchant would receive an encrypted credit card number that could
+only be decrypted by the merchant’s bank.There are three parts to the SET system: an “electronic
+wallet” that resides on the user’s computer; a server that runs at
+the merchant’s web site; and the SET Payment Server that runs at
+the merchant’s bank. All of these parts need to be operational
+before any transactions can be processed. Largely because of this
+complexity, SET has not been successful in the marketplace to
+date.A more detailed explanation of SET appears in Chapter 25.DNSSECThe
+Domain Name Service Security (DNSSEC)
+standard[57] is a system designed to bring security to the
+Internet’s Domain Name System (DNS). DNSSEC creates a parallel
+public key infrastructure built upon the DNS system. Each DNS
+domain is assigned a public key. A domain’s public key can be
+obtained in a trusted manner from the parent domain or it can be
+preloaded into a DNS server using the server’s “boot” file.DNSSEC allows for secure updating of information stored in
+DNS servers, making it ideal for remote administration. The DNSSEC
+standard is built into the current version of
+bind , the DNS server that is distributed by the Internet
+Software Consortium.IPsec and IPv6IPsec[58] is a cryptographic protocol designed by the Internet
+Engineering Task Force to provide end-to-end confidentiality for
+packets traveling over the Internet. IPsec works with IPv4, the
+standard version of IP used on today’s Internet. IPv6, the “next generation” IP, includes
+IPsec.IPsec does not provide for integrity, authentication, or
+nonrepudiation, but leaves these features to other protocols.
+Currently, the main use of IPsec seems to be as a multivendor
+protocol for creating
+virtual private networks (VPNs) over the Internet.
+But IPsec has the capacity to provide authentication, integrity,
+and optionally, data confidentiality for all communication that
+takes place over the Internet, provided that vendors widely
+implement the protocol and that governments allow its use.KerberosKerberos[59] is a network security system developed at MIT and
+used throughout the United States. Unlike the other systems
+mentioned in this chapter, Kerberos does not use public key
+technology.[60] Instead, Kerberos is based on symmetric ciphers and
+secrets that are shared between the Kerberos server and each
+individual user. Each user has his own password, and the Kerberos
+server uses this password to encrypt messages sent to that user so
+that they cannot be read by anyone else.Support for Kerberos must be added to each program that is
+to be protected. Currently, “Kerberized” versions of Telnet, FTP,
+POP, SSH, and Sun RPC are in general use. Several systems that use
+Kerberos to provide authentication and confidentiality for HTTP
+have been developed but not widely deployed.Kerberos is a difficult system to configure and administer.
+To operate a Kerberos system, each site must have a Kerberos
+server that is physically secure. The Kerberos server maintains a
+copy of every user’s password. In the event that the Kerberos
+server is compromised, every user’s password must be
+changed.Despite the fact that Microsoft built support for Kerberos
+into its Windows 2000 operating system, to date Kerberos has not
+been widely deployed beyond a few academic environments. That
+Microsoft built proprietary, non-standard extensions into their
+version of Kerberos has probably worked against its
+interoperability and more general adoption.SSHThe
+Secure Shell (SSH)[61] provides for cryptographically protected virtual
+terminal (telnet) and file transfer
+(rcp) operations. Originally developed as
+free software for Unix, a wide variety of both commercial and
+noncommercial programs that implement the SSH protocol are now
+available for Unix, Windows, Mac OS, and other platforms. These
+implementations also allow for the creation of cryptographically
+secured "tunnels” for other protocols.
+[51] http://www.pgp.com/ and
+http://www.pgpi.org/[52] RFC 2045, RFC 2046, RFC 2047, RFC 2048, and RFC
+2049.[53] http://www.ietf.org/html.charters/smime-charter.html[54] http://home.netscape.com/eng/ssl3/ssl-toc.html[55] http://www.ietf.org/html.charters/tls-charter.html[56] http://www.visa.com/ and
+http://www.mastercard.com/[57] http://www.ietf.org/html.charters/dnsext-charter.html[58] http://www.ietf.org/html.charters/ipsec-charter.html[59] http://web.mit.edu/kerberos/www/[60] Kerberos didn’t adopt public key technology for two
+reasons. The first was that when Kerberos was developed in
+1985, computers were much slower. The developers thought that
+public key encryptions and decryptions would be too slow to
+use Kerberos to authenticate logins and requests for email.
+The second reason was because of the Stanford and MIT patents.
+Kerberos’ developers wanted to be able to distribute the code
+freely over the Internet. They were worried that they would
+have trouble if the system required the licensing of patents.
+(Phil Zimmermann struggled with this same issue six years
+later when he wrote PGP, but he resolved it
+differently.)[61] http://www.ssh.com and
+http://openssh.org
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

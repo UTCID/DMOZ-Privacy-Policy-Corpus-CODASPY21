@@ -1,0 +1,230 @@
+http://daemonforums.org/showthread.php?t=10#terms
+DaemonForums
+> DaemonForums.org
+> Forum Announcements
+README (Forum Rules and Info)
+User Name
+Remember Me?
+Password
+FAQ
+Search
+Today's Posts
+Mark Forums Read
+Forum Announcements Announcements regarding DaemonForums.
+Thread Tools
+Display Modes
+#1
+(View Single Post)
+30th April 2008
+Carpetsmoker
+Real Name: Martin
+Tcpdump Spy
+Join Date: Apr 2008
+Location: Indonesia
+Posts: 2,226
+README (Forum Rules and Info)
+Some notes about these forums.
+Table of contents
+Introduction
+Privacy Policy
+Terms of use / Rules
+Language
+A note about spam and bans
+Custom BBcode
+Images
+Introduction
+Feel free to ask any questions you want, but please make it easy for us to help you.
+Describe your problem as clearly as you can.
+Post the (full) error message (if any).
+Read FAQ/Handbook.
+Read the manpages.
+Read the stickies (If any).
+Search the internet, especially the maillist archives.
+Post any information that might be useful, such as dmesg, configuration files, etc.
+Back to table of contents
+Privacy Policy
+We will never give your e-mail address or any other personal information stored in our database to any third party.
+We will not send e-mails to you if you don't want to.
+Your password is ciphered with a one-way hash (And the DaemonForums staff will never ask you for your password).
+We will delete all personal information upon your request.
+Back to table of contents
+Language
+Please refrain from using excessively obscene language, the fact that this forum does not have a censor does not mean it is acceptable to casually use obscene language.
+Back to table of contents
+Terms of use / Rules
+Behave.
+No racism, invasion of privacy, harassment, slander, flame bait, etc.
+This extends to account names chosen.
+Be nice to other members. This means that it is *not* OK to call people ignorant or idiots if you feel they are asking a stupid question.
+Don't post or link to illegal or offensive material, including (but not limited to) warez, cracks, pornography, and drugs.
+This is not an advertisement board, so don't use it as such. No commercial links are allowed in signatures or profiles. Commercial links can be mentioned in forum posts only if they have a direct significance to the thread's discussion.
+Account names containing commercial names and/or brands will be removed without explanation.
+Members of this site are located in countries throughout the world, and while English may not be all members' native or first language, all discussion on this site will be done in English. Posters should be mindful that others reading their questions may be at different levels of fluency, so using regional phrases and jokes may not be understood by everyone.
+Abbreviations are discouraged.
+At the end of the day, the Moderator/Administrator is always right.
+Unless you explicitly specify at the time messages are posted, it is assumed that all original content you post here is subject to the Creative Commons Attribution 3.0 Unported. (Note that it will be your own duty to meet the legal standards for copyright enforcement.)
+Content from on or before 29 September 2008 is subject to the FreeBSD Documentation License by default.
+We strongly encourage the use of the Creative Commons license as this allows threads to retain continuity in discussion.
+Please restrict threads to a single topic, and respect the direction taken by the original poster.
+Most members on this site search archived threads for relevant information, and staying on topic helps simplify searching.
+Back to table of contents
+A note about spam and bans
+This community is very vigilant about removing any and all spam messages posted, as we want to maintain an environment specific to the discussion of the BSD family.
+Be aware that any message posted which resembles advertisement or unrelated nonsense will be quickly deleted without warning. New members who post spam or anything which resembles spam will also be permanently banned.
+Bots and spammers are an unfortunately problem on the Internet, but we want to actively manage the problem by quickly getting rid of it. We apologize if this appears to be unfriendly and/or aggressive policy, but we take the spamming of these forums very seriously, and we want to maintain an environment where the members can continue discussing topics relating to the BSD family without needing to wade through unrelated postings.
+Web crawlers are disallowed from searching through this site's user profiles to thwart SEO spammers who think they can better their chance of appearing in search engine results.
+We do hope that you find these forums useful, and we hope that you continue to come back and join in on the technical discussion. In return, we offer our promise to maintain a venue which is free of advertisement and unrelated clutter.
+If your account has been banned by accident, please do not hesitate to email us using the "Contact us" button at the bottom.
+Back to table of contents
+Custom BBcode
+Manpages from the latest official releases can be displayed using the following syntax:
+[xman=section]page[/xman]
+Specifying the section is mandatory.
+As an example, manually adding the following to a forum post:
+[fman=2]chmod[/fman]
+...will display a link to the online manpage for FreeBSD's latest release:
+chmod(2)
+This feature supports the following Unix-like operating systems: fman -- FreeBSD
+oman -- OpenBSD
+nman -- NetBSD
+dman -- DragonFlyBSD
+lman -- Debian GNU/Linux
+Commandline examples
+[cmd] is more or less the same as [code], but it's more compact and intended for one-line commandline examples:
+For non-root users use the % prompt:
+[cmd=%]ping daemonforums.org[/cmd]
+% ping daemonforums.org
+For root use the # prompt:
+[cmd=#]ifconfig xl0 up[/cmd]
+# ifconfig xl0 up
+File and directory paths
+[file]/usr/local/etc/lighttpd.conf[/file]
+/usr/local/etc/lighttpd.conf
+Wikipedia linking
+[wp]Berkeley Software Distribution[/wp]
+Result:
+Berkeley Software Distribution
+Strikethrough text
+[del]Microsoft Windows Vista[/del]
+Result:
+Microsoft Windows Vista
+Anchors
+You can use [anchor]name[/anchor] to place an anchor, and [jump=name]Description[/jump] to jump to the anchor named "name".
+Exampled can be found throughout this post.
+Back to table of contents
+Images
+Adding images with [img] is currently allowed, but please do not post images larger than ~640x480, we're not going to fret about a few pixels, but please use thumbnails/links if you want to post an image larger than this, for example:
+Code:
+[url=http://daemonforums.org/images/desktop.png][img]http://daemonforums.org/images/desktop_thumb.png[/img][/url]
+Images significantly larger than 640x480 will have the [img] tags removed without notice.
+Back to table of contents
+__________________
+UNIX was not designed to stop you from doing stupid things, because that would also stop you from doing clever things.
+Last edited by ocicat; 24th February 2015 at 10:01 PM.
+Reason: Clarified use of the Creative Commons license.
+Carpetsmoker
+View Public Profile
+Visit Carpetsmoker's homepage!
+Find all posts by Carpetsmoker
+«
+Previous Thread
+|
+Next Thread
+»
+Thread Tools
+Show Printable Version
+Email this Page
+Display Modes
+Linear Mode
+Switch to Hybrid Mode
+Switch to Threaded Mode
+Posting Rules
+You may not post new threads
+You may not post replies
+You may not post attachments
+You may not edit your posts
+BB code is On
+Smilies are On
+[IMG] code is On
+HTML code is Off
+Forum Rules
+Forum Jump
+User Control Panel
+Private Messages
+Subscriptions
+Who's Online
+Search Forums
+Forums Home
+DaemonForums.org
+News
+Forum Announcements
+Feedback and Suggestions
+FreeBSD
+FreeBSD General
+FreeBSD Ports and Packages
+FreeBSD Installation and Upgrading
+FreeBSD Security
+OpenBSD
+OpenBSD General
+OpenBSD Packages and Ports
+OpenBSD Installation and Upgrading
+OpenBSD Security
+NetBSD
+NetBSD General
+NetBSD Package System (pkgsrc)
+NetBSD Installation and Upgrading
+NetBSD Security
+Other Operating Systems
+Other BSD and UNIX/UNIX-like
+Solaris
+Other OS
+Miscellaneous
+Programming
+General software and network
+General Hardware
+Book reviews
+Guides
+Off-Topic
+Similar Threads
+Thread
+Thread Starter
+Forum
+Replies
+Last Post
+uncovering network info?
+evilunixuser
+Other OS
+2
+2nd June 2009 04:35 PM
+Using a LiveCD to gather info
+phreud
+FreeBSD Installation and Upgrading
+9
+15th November 2008 12:43 AM
+port info
+sniper007
+FreeBSD General
+6
+14th November 2008 11:46 AM
+Rules for the Book reviews forum.
+Carpetsmoker
+Book reviews
+0
+1st October 2008 06:15 PM
+pfctl -s info counters don't change
+audio
+FreeBSD Security
+2
+16th July 2008 11:01 PM
+All times are GMT. The time now is 07:51 AM.
+-- DaemonForums Fixed Width 60em
+-- DaemonForums Fixed Width 80%
+-- DaemonForums Fluid Width
+- Contact Us -
+DaemonForums.org -
+Archive -
+Privacy Statement -
+Top
+Powered by vBulletin® Version 3.8.4Copyright ©2000 - 2020, Jelsoft Enterprises Ltd.
+Content copyright © 2007-2010, the authors
+Daemon image copyright ©1988, Marshall Kirk McKusick

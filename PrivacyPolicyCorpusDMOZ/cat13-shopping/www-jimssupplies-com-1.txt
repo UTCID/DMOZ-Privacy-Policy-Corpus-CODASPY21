@@ -1,0 +1,704 @@
+https://www.jimssupplies.com/index.php?l=page_view&p=privacy_policy
+Home » Privacy Policy
+Privacy Policy
+We value our customers and their privacy. All personal information is used to ensure efficient processing of your order. This information is used by our staff for contacting and identifying customers and their needs. We will not give, sell, rent, or loan any personally identifiable information to any third party, unless we are legally required to do so or you authorize us to do so.
+Information Collection & Use:
+Our site's registration form requires users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor in the event of a problem when processing an order. For example, problems with credit card verification, product availability, etc. Users have a choice of receiving future mailings during the registration process.
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), and financial information (like their account or credit card numbers). The customer's contact information is used to get in touch with the visitor when necessary. i.e, in the event there is a problem processing an order, corporate changes, or changes in privacy practices. Financial information that is collected is used to bill the user for products and services. The customer ID numbers are assigned to Web site visitors to verify the user's identity and for use as account numbers in our record system.
+Security:
+This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and protected. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just "surfing".
+If you have any questions about the security at our web site, please send an e-mail to sales@jimssupplies.com.
+Information Security Policy
+Jim%u2019s Orchid Supplies
+___________________________________________
+11-16-2017
+___________________
+Contents
+1.	Introduction	3
+2.	Information Security Policy	3
+3.	Acceptable Use Policy	4
+4.	Disciplinary Action	4
+5.	Protect Stored Data	4
+6.	Information Classification	5
+7.	Access to the sensitive cardholder data	5
+8.	Physical Security	6
+9.	Protect Data in Transit	7
+10.	Disposal of Stored Data	8
+11.	Security Awareness and Procedures	8
+12.	Network security	9
+13.	System and Password Policy	10
+14.	Anti-virus policy	11
+15.	Patch Management Policy	11
+16.	Remote Access policy	12
+17.	Vulnerability Management Policy	12
+18.	Configuration standards:	12
+19.	Change control Process	13
+20.	Audit and Log review	15
+21.	Secure Application development	17
+22.	Penetration testing methodology	18
+23.	Incident Response Plan	20
+24.	Roles and Responsibilities	25
+25.	Third party access to card holder data	25
+26.	User Access Management	26
+27.	Access Control Policy	26
+28.	Wireless Policy	28
+Appendix A	29
+Appendix B	30
+1.	Introduction
+This Policy Document encompasses all aspects of security surrounding confidential company information and must be distributed to all company employees. All company employees must read this document in its entirety and sign the form confirming they have read and understand this policy fully. This document will be reviewed and updated by Management on an annual basis or when relevant to include newly developed security standards into the policy and distribute it all employees and contracts as applicable.
+2.	Information Security Policy
+Jim%u2019s Orchid Supplies handles sensitive cardholder information daily.
+Sensitive Information must have adequate safeguards in place to protect them, to protect cardholder privacy, to ensure compliance with various regulations and to guard the future of the organisation.
+Jim%u2019s Orchid Supplies commits to respecting the privacy of all its customers and to protecting any data about customers from outside parties.
+To this end management are committed to maintaining a secure environment in which to process cardholder information so that we can meet these promises.
+Employees handling Sensitive cardholder data should ensure:
+l	Handle Company and cardholder information in a manner that fits with their sensitivity;
+l	Limit personal use of Jim%u2019s Orchid Supplies information and telecommunication systems and ensure it doesn%u2019t interfere with your job performance;
+l	Jim%u2019s Orchid Supplies reserves the right to monitor, access, review, audit, copy, store, or delete any electronic communications, equipment, systems and network traffic for any purpose;
+l	Do not use e-mail, internet and other Company resources to engage in any action that is offensive, threatening, discriminatory, defamatory, slanderous, pornographic, obscene, harassing or illegal;
+l	Do not disclose personnel information unless authorised;
+l	Protect sensitive cardholder information;
+l	Keep passwords and accounts secure;
+l	Request approval from management prior to establishing any new software or hardware, third party connections, etc.;
+l	Do not install unauthorised software or hardware, including modems and wireless access unless you have explicit management approval;
+l	Always leave desks clear of sensitive cardholder data and lock computer screens when unattended;
+l	Information security incidents must be reported, without delay, to the individual responsible for incident response locally %u2013 Please find out who this is.
+We each have a responsibility for ensuring our company%u2019s systems and data are protected from unauthorised access and improper use.
+If you are unclear about any of the policies detailed herein you should seek advice and guidance from your line manager.
+%u2003
+3.	Acceptable Use Policy
+The Management%u2019s intentions for publishing an Acceptable Use Policy are not to impose restrictions that are contrary to Jim%u2019s Orchid Supplies established culture of openness, trust and integrity. Management is committed to protecting the employees, partners and the Company from illegal or damaging actions by individuals, either knowingly or unknowingly. Jim%u2019s Orchid Supplies will maintain an approved list of technologies and devices and personnel with access to such devices as detailed in Appendix B.
+%u2022	Employees are responsible for exercising good judgment regarding the reasonableness of personal use.
+%u2022	Employees should ensure that they have appropriate credentials and are authenticated for the use of technologies
+%u2022	Employees should take all necessary steps to prevent unauthorized access to confidential data which includes card holder data.
+%u2022	Employees should ensure that technologies should be used and setup in acceptable network locations
+%u2022	Keep passwords secure and do not share accounts.
+%u2022	Authorized users are responsible for the security of their passwords and accounts.
+%u2022	All PCs, laptops and workstations should be secured with a password-protected screensaver with the automatic activation feature.
+%u2022	All POS and PIN entry devices should be appropriately protected and secured so they cannot be tampered or altered.
+%u2022	Because information contained on portable computers is especially vulnerable, special care should be exercised.
+%u2022	Postings by employees from a Company email address to newsgroups should contain a disclaimer stating that the opinions expressed are strictly their own and not necessarily those of Jim%u2019s Orchid Supplies, unless posting is in the course of business duties.
+%u2022	Employees must use extreme caution when opening e-mail attachments received from unknown senders, which may contain viruses, e-mail bombs, or Trojan horse code.
+4.	Disciplinary Action
+Violation of the standards, policies and procedures presented in this document by an employee will result in disciplinary action, from warnings or reprimands up to and including termination of employment. Claims of ignorance, good intentions or using poor judgment will not be used as excuses for non compliance.
+5.	Protect Stored Data
+%u2022	All sensitive cardholder data stored and handled by Jim%u2019s Orchid Supplies and its employees must be securely protected against unauthorised use at all times. Any sensitive card data that is no longer required by Jim%u2019s Orchid Supplies for business reasons must be discarded in a secure and irrecoverable manner.
+%u2022	If there is no specific need to see the full PAN (Permanent Account Number), it has to be masked when displayed.
+%u2022	PAN'S which are not protected as stated above should not be sent to the outside network via end user messaging technologies like chats, ICQ messenger etc.,
+It is strictly prohibited to store:
+1.	The contents of the payment card magnetic stripe (track data) on any media whatsoever.
+2.	The CVV/CVC (the 3 or 4 digit number on the signature panel on the reverse of the payment card) on any media whatsoever.
+3.	The PIN or the encrypted PIN Block under any circumstance.
+6.	Information Classification
+Data and media containing data must always be labelled to indicate sensitivity level
+%u2022	Confidential data might include information assets for which there are legal requirements for preventing disclosure or financial penalties for disclosure, or data that would cause severe damage to Jim%u2019s Orchid Supplies if disclosed or modified.
+Confidential data includes cardholder data.
+%u2022	Internal Use data might include information that the data owner feels should be protected to prevent unauthorized disclosure;
+%u2022	Public data is information that may be freely disseminated.
+7.	Access to the sensitive cardholder data
+All Access to sensitive cardholder should be controlled and authorised. Any Job functions that require access to cardholder data should be clearly defined.
+%u2022	Any display of the card holder should be restricted at a minimum of the first 6 and the last 4 digits of the cardholder data.
+%u2022	Access rights to privileged user ID%u2019s should be restricted to least privileges necessary to perform job responsibilities
+%u2022	Privileges should be assigned to individuals based on job classification and function (Role based access control)
+%u2022	Access to sensitive cardholder information such as PAN%u2019s, personal information and business data is restricted to employees that have a legitimate need to view such information.
+%u2022	No other employees should have access to this confidential data unless they have a genuine business need.
+%u2022	If cardholder data is shared with a Service Provider (3rd party) then a list of such Service Providers will be maintained as detailed in Appendix B.
+%u2022	Jim%u2019s Orchid Supplies will ensure a written agreement that includes an acknowledgement is in place that the Service Provider will be responsible for the for the cardholder data that the Service Provider possess.
+%u2022	Jim%u2019s Orchid Supplies will ensure that a there is an established process including proper due diligence is in place before engaging with a Service provider.
+%u2022	Jim%u2019s Orchid Supplies will have a process in place to monitor the PCI DSS compliance status of the Service provider.
+8.	Physical Security
+Access to sensitive information in both hard and soft media format must be physically restricted to prevent unauthorised individuals from obtaining sensitive data.
+%u2022	Employees are responsible for exercising good judgment regarding the reasonableness of personal use.
+%u2022	Employees should ensure that they have appropriate credentials and are authenticated for the use of technologies
+%u2022	Employees should take all necessary steps to prevent unauthorized access to confidential data which includes card holder data.
+%u2022	Employees should ensure that technologies should be used and setup in acceptable network locations
+%u2022	A list of devices that accept payment card data should be maintained.
+%u2022	The list should include make, model and location of the device
+%u2022	The list should have the serial number or a unique identifier of the device
+%u2022	The list should be updated when devices are added, removed or relocated
+%u2022	POS devices surfaces should be periodically inspected to detect tampering or substitution.
+%u2022	Personnel using the devices should be trained and aware of handling the POS devices
+%u2022	Personnel using the devices should verify the identity of any third party personnel claiming to repair or run maintenance tasks on the devices, install new devices or replace devices.
+%u2022	Personnel using the devices should be trained to report suspicious behaviour and indications of tampering of the devices to the appropriate personnel.
+%u2022	A %u201Cvisitor%u201D is defined as a vendor, guest of an employee, service personnel, or anyone who needs to enter the premises for a short duration, usually not more than one day.
+%u2022	Keep passwords secure and do not share accounts. Authorized users are responsible for the security of their passwords and accounts.
+%u2022	Media is defined as any printed or handwritten paper, received faxes, floppy disks, back-up tapes, computer hard drive, etc.
+%u2022	Media containing sensitive cardholder information must be handled and distributed in a secure manner by trusted individuals.
+%u2022	Visitors must always be escorted by a trusted employee when in areas that hold sensitive cardholder information.
+%u2022	Procedures must be in place to help all personnel easily distinguish between employees and visitors, especially in areas where cardholder data is accessible. %u201CEmployee%u201D refers to full-time and part-time employees, temporary employees and personnel, and consultants who are %u201Cresident%u201D on Jim%u2019s Orchid Supplies sites. A %u201Cvisitor%u201D is defined as a vendor, guest of an employee, service personnel, or anyone who needs to enter the premises for a short duration, usually not more than one day.
+%u2022	Network Jacks located in public and areas accessible to visitors must be disabled and enabled when network access is explicitly authorised.
+%u2022	All POS and PIN entry devices should be appropriately protected and secured so they cannot be tampered or altered.
+%u2022	Strict control is maintained over the external or internal distribution of any media containing card holder data and has to be approved by management
+%u2022	Strict control is maintained over the storage and accessibility of media
+%u2022	All computer that store sensitive cardholder data must have a password protected screensaver enabled to prevent unauthorised use.
+9.	Protect Data in Transit
+All sensitive cardholder data must be protected securely if it is to be transported physically or electronically.
+%u2022	Card holder data (PAN, track data etc) must never be sent over the internet via email, instant chat or any other end user technologies.
+%u2022	If there is a business justification to send cardholder data via email or via the internet or any other modes then it should be done after authorization and by using a strong encryption mechanism (i.e. %u2013 AES encryption, PGP encryption, IPSEC, GSM, GPRS, Wireless technologies etc.,).
+%u2022	The transportation of media containing sensitive cardholder data to another location must be authorised by management, logged and inventoried before leaving the premises. Only secure courier services may be used for the transportation of such media. The status of the shipment should be monitored until it has been delivered to its new location.
+%u2003
+10.	Disposal of Stored Data
+%u2022	All data must be securely disposed of when no longer required by Jim%u2019s Orchid Supplies, regardless of the media or application type on which it is stored.
+%u2022	An automatic process must exist to permanently delete on-line data, when no longer required.
+%u2022	All hard copies of cardholder data must be manually destroyed as when no longer required for valid and justified business reasons. A quarterly process must be in place to confirm that all non-electronic cardholder data has been appropriately disposed of in a timely manner.
+%u2022	Jim%u2019s Orchid Supplies will have procedures for the destruction of hardcopy (paper) materials. These will require that all hardcopy materials are crosscut shredded, incinerated or pulped so they cannot be reconstructed.
+%u2022	Jim%u2019s Orchid Supplies will have documented procedures for the destruction of electronic media. These will require:
+o	All cardholder data on electronic media must be rendered unrecoverable when deleted e.g. through degaussing or electronically wiped using military grade secure deletion processes or the physical destruction of the media;
+o	If secure wipe programs are used, the process must define the industry accepted standards followed for secure deletion.
+%u2022	All cardholder information awaiting destruction must be held in lockable storage containers clearly marked %u201CTo Be Shredded%u201D - access to these containers must be restricted.
+11.	Security Awareness and Procedures
+The policies and procedures outlined below must be incorporated into company practice to maintain a high level of security awareness. The protection of sensitive data demands regular training of all employees and contractors.
+%u2022	Review handling procedures for sensitive information and hold periodic security awareness meetings to incorporate these procedures into day to day company practice.
+%u2022	Distribute this security policy document to all company employees to read. It is required that all employees confirm that they understand the content of this security policy document by signing an acknowledgement form (see Appendix A)
+%u2022	All employees that handle sensitive information will undergo background checks (such as criminal and credit record checks, within the limits of the local law) before they commence their employment with the Company.
+%u2022	All third parties with access to credit card account numbers are contractually obligated to comply with card association security standards (PCI/DSS).
+%u2022	Company security policies must be reviewed annually and updated as needed.
+%u2003
+12.
+Network security
+%u2022	Firewalls must be implemented at each internet connection and any demilitarized zone and the internal company network.
+%u2022	A network diagram detailing all the inbound and outbound connections must be maintained and reviewed every 6 months.
+%u2022	A firewall and router configuration document must be maintained which includes a documented list of services, protocols and ports including a business justification.
+%u2022	Firewall and router configurations must restrict connections between untrusted networks and any systems in the card holder data environment.
+%u2022	Stateful Firewall technology must be implemented where the Internet enters Jim%u2019s Orchid Supplies Card network to mitigate known and on-going threats. Firewalls must also be implemented to protect local network segments and the IT resources that attach to those segments such as the business network, and open network.
+%u2022	All inbound and outbound traffic must be restricted to that which is required for the card holder data environment.
+%u2022	All inbound network traffic is blocked by default, unless explicitly allowed and the restrictions have to be documented.
+%u2022	All outbound traffic has to be authorized by management (i.e. what are the whitelisted category of sites that can be visited by the employees) and the restrictions have to be documented
+%u2022	Jim%u2019s Orchid Supplies will have firewalls between any wireless networks and the cardholder data environment.
+%u2022	Jim%u2019s Orchid Supplies will quarantine wireless users into a DMZ, where they will be authenticated and firewalled as if they were coming in from the Internet.
+%u2022	Disclosure of private IP addresses to external entities must be authorized.
+%u2022	A topology of the firewall environment has to be documented and has to be updated in accordance to the changes in the network.
+%u2022	The firewall rules will be reviewed on a six months basis to ensure validity and the firewall has to have clean up rule at the bottom of the rule base.
+%u2022	Jim%u2019s Orchid Supplies have to quarantine wireless users into a DMZ, where they were authenticated and firewalled as if they were coming in from the Internet.
+%u2022	No direct connections from Internet to cardholder data environment will be permitted. All traffic has to traverse through a firewall.
+Rules
+Source IP
+Destination IP
+Action
+13.	 System and Password Policy
+All users, including contractors and vendors with access to Jim%u2019s Orchid Supplies systems, are responsible for taking the appropriate steps, as outlined below, to select and secure their passwords.
+%u2022	A system configuration standard must be developed along industry acceptable hardening standards (SANS, NIST, ISO)
+%u2022	System configurations should be updated as new issues are identified (as defined in PCI DSS requirement 6.1)
+%u2022	System configurations must include common security parameter settings
+%u2022	The systems configuration standard should be applied to any news systems configured.
+%u2022	All vendor default accounts and passwords for the systems have to be changed at the time of provisioning the system/device into Jim%u2019s Orchid Supplies network and all unnecessary services and user/system accounts have to be disabled.
+%u2022	All unnecessary default accounts must be removed or disabled before installing a system on the network.
+%u2022	Security parameter settings must me set appropriately on System components
+%u2022	All unnecessary functionality (scripts, drivers, features, subsystems, file systems, web servers etc.,) must be removed.
+%u2022	All unnecessary services, protocols, daemons etc., should be disabled if not in use by the system.
+%u2022	Any insecure protocols, daemons, services in use must be documented and justified.
+%u2022	All users with access to card holder data must have a unique ID.
+%u2022	All user must use a password to access the company network or any other electronic resources
+%u2022	All user ID%u2019s for terminated users must be deactivated or removed immediately.
+%u2022	The User ID will be locked out if there are more than 5 unsuccessful attempts. This locked account can only be enabled by the system administrator. Locked out user accounts will be disabled for a minimum period of 30 minutes or until the administrator enables the account.
+%u2022	All system and user level passwords must be changed on at least a quarterly basis.
+%u2022	A minimum password history of four must be implemented.
+%u2022	A unique password must be setup for new users and the users prompted to change the password on first login.
+%u2022	Group, shared or generic user account or password or other authentication methods must not be used to administer any system components.
+%u2022	Where SNMP is used, the community strings must be defined as something other than the
+Standard defaults of "public," "private" and "system" and must be different from the passwords used to log in interactively.
+%u2022	All non-console administrative access will use appropriate technologies like ssh,vpn etc or strong encryption is invoked before the administrator password is requested
+%u2022	System services and parameters will be configured to prevent the use of insecure technologies like telnet and other insecure remote login commands
+%u2022	Administrator access to web based management interfaces is encrypted using strong cryptography.
+%u2022	The responsibility of selecting a password that is hard to guess generally falls to users. A strong password must:
+a)	Be as long as possible (never shorter than 6 characters).
+b)	Include mixed-case letters, if possible.
+c)	Include digits and punctuation marks, if possible.
+d)	Not be based on any personal information.
+e)	Not be based on any dictionary word, in any language.
+%u2022	If an operating system without security features is used (such as DOS, Windows or MacOS), then an intruder only needs temporary physical access to the console to insert a keyboard monitor program. If the workstation is not physically secured, then an intruder can reboot even a secure operating system, restart the workstation from his own media, and insert the offending program.
+%u2022	To protect against network analysis attacks, both the workstation and server should be cryptographically secured. Examples of strong protocols are the encrypted Netware login and Kerberos.
+14.	Anti-virus policy
+%u2022	All machines must be configured to run the latest anti-virus software as approved by Jim%u2019s Orchid Supplies The preferred application to use is AVG Anti-Virus software, which must be configured to retrieve the latest updates to the antiviral program automatically on a daily basis. The antivirus should have periodic scanning enabled for all the systems.
+%u2022	The antivirus software in use should be cable of detecting all known types of malicious software (Viruses, Trojans, adware, spyware, worms and rootkits)
+%u2022	All removable media (for example floppy and others) should be scanned for viruses before being used.
+%u2022	All the logs generated from the antivirus solutions have to be retained as per legal/regulatory/contractual requirements or at a minimum of PCI DSS requirement 10.7 of 3 months online and 1 year offline.
+%u2022	Master Installations of the Antivirus software should be setup for automatic updates and periodic scans
+%u2022	End users must not be able to modify and any settings or alter the antivirus software
+%u2022	E-mail with attachments coming from suspicious or unknown sources should not be opened. All such e-mails and their attachments should be deleted from the mail system as well as from the trash bin. No one should forward any e-mail, which they suspect may contain virus.
+15.	Patch Management Policy
+%u2022	All Workstations, servers, software, system components etc. owned by Jim%u2019s Orchid Supplies must have up-to-date system security patches installed to protect the asset from known vulnerabilities.
+%u2022	Where ever possible all systems, software must have automatic updates enabled for system patches released from their respective vendors. Security patches have to be installed within one month of release from the respective vendor and have to follow the process in accordance with change control process.
+%u2022	Any exceptions to this process have to be documented.
+%u2003
+16.	Remote Access policy
+%u2022	It is the responsibility of Jim%u2019s Orchid Supplies employees, contractors, vendors and agents with
+remote access privileges to Jim%u2019s Orchid Supplies%u2019s corporate network to ensure that their remote
+access connection is given the same consideration as the user's on-site connection to Jim%u2019s Orchid Supplies .
+%u2022	Secure remote access must be strictly controlled. Control will be enforced by two factor authentication via one-time password authentication or public/private keys with strong pass-phrases.
+%u2022	Vendor accounts with access to Jim%u2019s Orchid Supplies network will only be enabled during the time period the access is required and will be disabled or removed once access is no longer required.
+%u2022	Remote access connection will be setup to be disconnected automatically after 30 minutes of inactivity
+%u2022	All hosts that are connected to Jim%u2019s Orchid Supplies internal networks via remote access technologies will be monitored on a regular basis.
+%u2022	All remote access accounts used by vendors or 3rd parties will be reconciled at regular interviews and the accounts will be revoked if there is no further business justification.
+%u2022	Vendor accounts with access to Jim%u2019s Orchid Supplies network will only be enabled during the time period the access is required and will be disabled or removed once access is no longer required.
+17.	Vulnerability Management Policy
+%u2022	All the vulnerabilities would be assigned a risk ranking such as High, Medium and Low based on industry best practices such as CVSS base score.
+%u2022	As part of the PCI-DSS Compliance requirements, Jim%u2019s Orchid Supplies will run internal and external network vulnerability scans at least quarterly and after any significant change in the network (such as new system component installations, changes in network topology, firewall rule modifications, product upgrades).
+%u2022	Quarterly internal vulnerability scans must be performed by Jim%u2019s Orchid Supplies by internal staff or a 3rd party vendor and the scan process has to include that rescans will be done until passing results are obtained, or all High vulnerabilities as defined in PCI DSS Requirement 6.2 are resolved.
+%u2022	Quarterly external vulnerability scans must be performed by an Approved Scanning Vendor (ASV) qualified by PCI SSC. Scans conducted after network changes may be performed by the Company%u2019s internal staff. The scan process should include re-scans until passing results are obtained.
+18.	Configuration standards:
+%u2022	Information systems that process transmit, or store card holder data must be configured in accordance with the applicable standard for that class of device or system.
+Standards must be written and maintained by the team responsible for the management of the system in conjunction with the Information Security Office.
+%u2022	All network device configurations must adhere to Jim%u2019s Orchid Supplies required standards before being placed on the network as specified in Jim%u2019s Orchid Supplies configuration guide. Using this guide, a boilerplate configuration has been created that will be applied to all network devices before being placed on the network.
+%u2022	Before being deployed into production, a system must be certified to meet the applicable configuration standard
+%u2022	Updates to network device operating system and/or configuration settings that fall under the Company standards are announced by the Information security Office. Updates must be applied within the time frame identified by the Information security Office.
+%u2022	 Administrators of network devices that do not adhere to Jim%u2019s Orchid Supplies standards (as identified via a previous exception) must document and follow a review process of announced vendor updates to operating system and/or configuration settings.
+This process must include a review schedule, risk analysis method and update method.
+%u2022	All network device configurations must be checked annually against the configuration boilerplate to ensure the configuration continues to meet required standards.
+%u2022	Where possible, network configuration management software will be used to automate the process of confirming adherence to the boilerplate configuration.
+%u2022	For other devices an audit will be performed quarterly to compare the boilerplate configuration to the configuration currently in place.
+%u2022	All discrepancies will be evaluated and remediated by Network Administration.
+19.	Change control Process
+%u2022	Changes to information resources shall be managed and executed according to a formal change control process. The control process will ensure that changes proposed are reviewed, authorised, tested, implemented, and released in a controlled manner; and that the status of each proposed change is monitored.
+%u2022	The change control process shall be formally defined and documented. A change control process shall be in place to control changes to all critical company information resources (such as hardware, software, system documentation and operating procedures).
+This documented process shall include management responsibilities and procedures.
+Wherever practicable, operational and application change control procedures should be integrated.
+%u2022	All change requests shall be logged whether approved or rejected on a standardised and central system. The approval of all change requests and the results thereof shall be documented. A documented audit trail, maintained at a Business Unit Level, containing relevant information shall be maintained at all times.
+This should include change request documentation, change authorisation and the outcome of the change.
+No single person should be able to effect changes to production information systems without the approval of other authorised personnel.
+%u2022	A risk assessment shall be performed for all changes and dependant on the outcome, an impact assessment should be performed.
+%u2022	The impact assessment shall include the potential effect on other information resources and potential cost implications. The impact assessment should, where applicable consider compliance with legislative requirements and standards.
+%u2022	All change requests shall be prioritised in terms of benefits, urgency, effort required and potential impact on operations.
+%u2022	Changes shall be tested in an isolated, controlled, and representative environment (where such an environment is feasible) prior to implementation to minimise the effect on the relevant business process, to assess its impact on operations and security and to verify that only intended and approved changes were made. (For more information see System Development Life Cycle [citation here]).
+%u2022	 Any software change and/or update shall be controlled with version control. Older versions shall be retained in accordance with corporate retention and storage management policies. (For more information see System Development Life Cycle [citation here])
+%u2022	All changes shall be approved prior to implementation. Approval of changes shall be based on formal acceptance criteria i.e. the change request was done by an authorised user, the impact assessment was performed and proposed changes were tested.
+%u2022	All users, significantly affected by a change, shall be notified of the change.
+The user representative shall sign-off on the change. Users shall be required to make submissions and comment prior to the acceptance of the change.
+%u2022	Implementation will only be undertaken after appropriate testing and approval by stakeholders. All major changes shall be treated as new system implementation and shall be established as a project. Major changes will be classified according to effort required to develop and implement said changes. (For more information see System Development Life Cycle [citation here])
+%u2022	Procedures for aborting and recovering from unsuccessful changes shall be documented. Should the outcome of a change be different to the expected result (as identified in the testing of the change), procedures and responsibilities shall be noted for the recovery and continuity of the affected areas. Fall back procedures will be in place to ensure systems can revert back to what they were prior to implementation of changes.
+%u2022	Information resources documentation shall be updated on the completion of each change and old documentation shall be archived or disposed of as per the documentation and data retention policies.
+%u2022	Specific procedures to ensure the proper control, authorisation, and documentation of emergency changes shall be in place. Specific parameters will be defined as a standard for classifying changes as Emergency changes.
+%u2022	All changes will be monitored once they have been rolled-out to the production environment. Deviations from design specifications and test results will be documented and escalated to the solution owner for ratification.
+20.	Audit and Log review
+%u2022	This procedure covers all logs generated for systems within the cardholder data environment, based on the flow of cardholder data over Jim%u2019s Orchid Supplies network, including the following components:
+%u2022	Operating System Logs (Event Logs and su logs).
+%u2022	Database Audit Logs.
+%u2022	Firewalls & Network Switch Logs.
+%u2022	IDS Logs.
+%u2022	Antivirus Logs.
+%u2022	Cctv Video recordings.
+%u2022	File integrity monitoring system logs.
+%u2022	Audit Logs must be maintained for a minimum of 3 months online (available for immediate analysis) and 12 months offline.
+%u2022	Review of logs is to be carried out by means of Jim%u2019s Orchid Supplies network monitoring system (the Company to define hostname), which is controlled from Jim%u2019s Orchid Supplies console (the Company to define hostname). The console is installed on the server (the Company to define hostname / IP address), located within
+Jim%u2019s Orchid Supplies data centre environment.
+%u2022	The following personnel are the only people permitted to access log files (the Company to define which individuals have a job-related need to view audit trails and access log files).
+%u2022	The network monitoring system software (the Company to define) is configured to alert Jim%u2019s Orchid Supplies [RESPONSIBLE TEAM] to any conditions deemed to be potentially suspicious, for further investigation. Alerts are configured to:
+%u2022	A dashboard browser-based interface, monitored by the Company [RESPONSIBLE TEAM].
+%u2022	Email / SMS alerts to Jim%u2019s Orchid Supplies [RESPONSIBLE TEAM] mailbox with a summary of the incident. The Company [ROLE NAME] also receives details of email alerts for informational purposes.
+%u2022	The following Operating System Events are configured for logging, and are monitored by the console (Jim%u2019s Orchid Supplies to define hostname):
+a)	Any additions, modifications or deletions of user accounts.
+b)	Any failed or unauthorised attempt at user logon.
+c)	Any modification to system files.
+d)	Any access to the server, or application running on the server, including files that hold cardholder data.
+e)	Actions taken by any individual with root or administrative privileges.
+f)	Any user access to audit trails.
+g)	Any creation / deletion of system-level objects installed by Windows. (Almost all system-level objects run with administrator privileges, and some can be abused to gain administrator access to a system.)
+%u2022	The following Database System Events are configured for logging, and are monitored by the network monitoring system (Jim%u2019s Orchid Supplies to define software and hostname):
+a)	Any failed user access attempts to log in to the Oracle database.
+b)	Any login that has been added or removed as a database user to a database.
+c)	Any login that has been added or removed from a role.
+d)	Any database role that has been added or removed from a database.
+e)	Any password that has been changed for an application role.
+f)	Any database that has been created, altered, or dropped.
+g)	Any database object, such as a schema, that has been connected to.
+h)	Actions taken by any individual with DBA privileges.
+%u2022	The following Firewall Events are configured for logging, and are monitored by the network monitoring system (the Company to define software and hostname):
+a)	ACL violations.
+b)	Invalid user authentication attempts.
+c)	Logon and actions taken by any individual using privileged accounts.
+d)	Configuration changes made to the firewall (e.g. policies disabled, added, deleted, or modified).
+%u2022	The following Switch Events are to be configured for logging and monitored by the network monitoring system (the Company to define software and hostname):
+a)	Invalid user authentication attempts.
+b)	Logon and actions taken by any individual using privileged accounts.
+c)	Configuration changes made to the switch (e.g. configuration disabled, added, deleted, or modified).
+%u2022	The following Intrusion Detection Events are to be configured for logging, and are monitored by the network monitoring system (the Company to define software and hostname):
+a)	Any vulnerability listed in the Common Vulnerability Entry (CVE) database.
+b)	Any generic attack(s) not listed in CVE.
+c)	Any known denial of service attack(s).
+d)	Any traffic patterns that indicated pre-attack reconnaissance occurred.
+e)	Any attempts to exploit security-related configuration errors.
+f)	Any authentication failure(s) that might indicate an attack.
+g)	Any traffic to or from a back-door program.
+h)	Any traffic typical of known stealth attacks.
+%u2022	The following File Integrity Events are to be configured for logging and monitored by (the Company to define software and hostname):
+a)	Any modification to system files.
+b)	Actions taken by any individual with Administrative privileges.
+c)	Any user access to audit trails.
+d)	Any Creation / Deletion of system-level objects installed by Windows. (Almost all system-level objects run with administrator privileges, and some can be abused to gain administrator access to a system.)
+%u2022	For any suspicious event confirmed, the following must be recorded on F17 - Log Review Form, and Jim%u2019s Orchid Supplies [ROLE NAME] informed:
+a)	User Identification.
+b)	Event Type.
+c)	Date & Time.
+d)	Success or Failure indication.
+e)	Event Origination (e.g. IP address).
+f)	Reference to the data, system component or resource affected.
+21.	Secure Application development
+%u2022	The Secure Application development policy is a plan of action to guide developers%u2019 decisions and actions during the software development lifecycle (SDLC) to ensure software security. This policy aims to be language and platform independent so that it is applicable across all software development projects.
+%u2022	The adherence to and use of Secure Application Development Coding Policy is a requirement for all software development on Jim%u2019s Orchid Supplies information technology systems and trusted contractor sites processing the Company data.
+%u2022	Each phase of the SDLC is mapped with security activities, as explained below:
+a)	Design
+%uF0A7	Identify Design Requirements from security perspective
+%uF0A7	Architecture & Design Reviews
+%uF0A7	Threat Modelling
+b)	Coding
+%uF0A7	Coding Best Practices
+%uF0A7	Perform Static Analysis
+c)	Testing
+%uF0A7	Vulnerability Assessment
+%uF0A7	Fuzzing
+d)	Deployment
+%uF0A7	 Server Configuration Review
+%uF0A7	 Network Configuration Review
+%u2022	Development of code shall be checked and validated with the most current versions of Jim%u2019s Orchid Supplies Coding Standards for Secure Application Development. All code developers shall verify that their code is in compliance with the most recent and approved coding standards and guidelines.
+%u2022	Only validated code shall be implemented into Jim%u2019s Orchid Supplies production environment. A review and validation ensures that code exhibits fundamental security properties to include correctness, predictability, and attack tolerance.
+Application Code Developers shall:
+%u2022	Ensure code meets the level of confidence that software is free from exploitable code vulnerabilities, regardless of whether they are already designed into the software or inserted later in its life cycle.
+%u2022	Ensure code provides predictable execution or justifiable confidence and that the software, when executed, will provide security functionality as intended.
+%u2022	Coding techniques must address injection flaws particularly SQL injection,buffer overflow vulnerabilities, cross site scripting vulnerabilities, improper access control (insecure direct object reference, failure to restrict URL access, directory traversal etc.,), cross site request forgery (CSRF), broken authentication and session managment
+%u2022	Never trust incoming data to the system, apply checks to this data.
+%u2022	Never rely on the client to store sensitive data no matter how trivial.
+%u2022	Disable Error messages that return any information to the user.
+%u2022	Use object inheritance, encapsulation, and polymorphism wherever possible.
+%u2022	Use environment variables prudently and always check boundaries and buffers.
+%u2022	Applications must validate input to ensure it is well-formed and meaningful.
+22.	Penetration testing methodology
+%u2022	 In this section should be listed the risks inherent in conducting penetration testing over the information systems of Jim%u2019s Orchid Supplies. Additionally, it should be noted for each mitigation measures that will be taken. Examples might be:
+Example 1#
+Risk: Denial of Service in systems or network devices because of the network scans.
+Mitigation measure 1: network scans must be performed in a controlled manner. The start and end of the scan must be notified to responsible personnel to allow monitoring during testing. For any sign of trouble will abort the scan in progress.
+Mitigation measure 2: scanning tools must be configured to guarantee that the volume of sent packets or sessions established per minute does not cause a problem for network elements. In this sense, we must perform the first scans in a very controlled way and a use minimum configuration that may be expanded when is evident that the configuration is not dangerous for network devices or servers in the organization.
+%u2022	Key staff involved in the project by the organization will be listed:
+Technical Project Manager:
+Chief Information Security Officer:
+Chief Information Officer:
+Head of Communications:
+Responsible for web site www.jimssupplies.com:
+%u2022	External intrusion tests will be performed remotely from the supplier's premises .Internal intrusion tests will be conducted in the office Jim%u2019s Orchid Supplies of the Organization. Audit team must to have access to the Organization's network. It must manage access permissions to the building early enough to ensure that the audit team can access without problems during planning period.
+%u2022	All the tests will be conducted from the equipment owned by the audit team so no equipment for the execution of the tests is required. The only requirement in this regard will be to have an active network connection for each member of the audit team. Those connections must provide access to the target network segment in every case.
+%u2022	If an incident occurs during the execution of the tests that have an impact on the systems or services of the organization, the incident should be brought immediately to the attention of those responsible for incident management in the project
+%u2022	It should be noted that in order to comply with PCI DSS the scope of the test should include, at least the following:
+%uF0A7	All systems and applications that are part of the perimeter of the cardholder data environment card (CDE).
+Example:
+a)	Systems included in the scope
+System 1: IP: System: System Description
+System 2: IP: System: System Description
+Wifi network Jim%u2019s Orchid Supplies
+................
+b)	 Applications included in the scope
+Application 1: URL: Description of the application
+...................
+c)	 Systems excluded from the scope
+System 5: IP: System: System Description
+System 6: IP: System: System Description
+....................
+d)	 Applications excluded from the scope
+Application 3: URL: Description of the application
+.....................
+%uF0A7	Technical tests must follow the OSSTMM methodology. Tests must be conducted at network, system and application level and must ensure that at least identifies any vulnerabilities documented by OWASP and SANS, as well as those identified in the PCI DSS standard v3:
+1.	Injections: Code, SQL, OS commands, LDAP , XPath , etc.
+2.	Buffer overflows.
+3.	Insecure storage of cryptographic keys
+4.	Insecure Communications
+5.	Improper error handling
+6.	Cross -site scripting (XSS)
+7.	Control of inappropriate access.
+8.	Cross - site request forgery (CSRF).
+9.	Broken authentication and incorrectly session management.
+10.	Any other vulnerability considered High Risk by the organization.
+%u2022	For all findings or vulnerabilities identified during the tests carried out will be generated and documented sufficient evidence to prove the existence of the same. The format of the evidence can be variable in each case, screen capture, raw output of security tools, photographs, paper documents, etc.
+%u2022	As a result of tests performed should generate a document containing at least the following sections:
+Introduction
+Executive Summary
+Methodology
+Identified vulnerabilities
+Recommendations for correcting vulnerabilities
+Conclusions
+Evidence
+23.	Incident Response Plan
+'Security incident' means any incident (accidental, intentional or deliberate) relating to your communications or information processing systems. The attacker could be a malicious stranger, a competitor, or a disgruntled employee, and their intention might be to steal information or money, or just to damage your company.
+The Incident response plan has to be tested once annually. Copies of this incident response plan is to be made available to all relevant staff members, and take steps to ensure that they understand it and what is expected of them.
+Employees of the company will be expected to report to the security officer for any security related issues.
+Jim%u2019s Orchid Supplies PCI security incident response plan is as follows:
+1.	Each department must report an incident to the Information Security Officer (preferably) or to another member of the PCI Response Team.
+2.	That member of the team receiving the report will advise the PCI Response Team of the incident.
+3.	The PCI Response Team will investigate the incident and assist the potentially compromised department in limiting the exposure of cardholder data and in mitigating the risks associated with the incident.
+4.	The PCI Response Team will resolve the problem to the satisfaction of all parties involved, including reporting the incident and findings to the appropriate parties (credit card associations, credit card processors, etc.) as necessary.
+5.	The PCI Response Team will determine if policies and processes need to be updated to avoid a similar incident in the future, and whether additional safeguards are required in the environment where the incident occurred, or for the institution.
+6.	If an unauthorised wireless access point or devices is identified or detected as part of the quarterly test this is should be immediately escalated to the Security officer or someone with similar privileges who has the authority to stop, cease, shut down, and remove the offending device immediately.
+7.	A department that reasonably believes it may have an account breach, or a breach of cardholder information or of systems related to the PCI environment in general, must inform Jim%u2019s Orchid Supplies PCI Incident Response Team. After being notified of a compromise, the PCI Response Team, along with other designated staff, will implement the PCI Incident Response Plan to assist and augment departments%u2019 response plans.
+Jim%u2019s Orchid Supplies PCI Security Incident Response Team: (Update as applicable)
+CIO	James Jarvis
+Communications Director
+Compliance Officer
+Counsel
+Information Security Officer
+Collections & Merchant Services
+Risk Manager
+Incident Response Notification
+Escalation Members
+Escalation %u2013 First Level
+Information Security Officer Controller
+Executive Project Director for Credit Collections and Merchant Services Legal Counsel
+Risk Manager
+Director of Jim%u2019s Orchid Supplies Communications
+Escalation %u2013 Second Level
+Jim%u2019s Orchid Supplies President
+Executive Cabinet
+Internal Audit
+Auxiliary members as needed
+External Contacts (as needed)
+Merchant Provider Card Brands
+Internet Service Provider (if applicable)
+Internet Service Provider of Intruder (if applicable) Communication Carriers (local and long distance) Business Partners
+Insurance Carrier
+External Response Team as applicable (CERT Coordination Center 1, etc) Law Enforcement Agencies as applicable inn local jurisdiction
+In response to a systems compromise, the PCI Response Team and designees will:
+1.	Ensure compromised system/s is isolated on/from the network.
+2.	Gather, review and analyze the logs and related information from various central and local safeguards and security controls
+3.	Conduct appropriate forensic analysis of compromised system.
+4.	Contact internal and external departments and entities as appropriate.
+5.	Make forensic and log analysis available to appropriate law enforcement or card industry security personnel, as required.
+6.	Assist law enforcement and card industry security personnel in investigative processes, including in prosecutions.
+The card companies have individually specific requirements the Response Team must address in reporting suspected or confirmed breaches of cardholder data.
+Incident Response notifications to various card schemes
+1.	In the event of a suspected security breach, alert the information security officer or your line manager immediately.
+2.	The security officer will carry out an initial investigation of the suspected security breach.
+3.	Upon confirmation that a security breach has occurred, the security officer will alert management and begin informing all relevant parties that may be affected by the compromise.
+VISA Steps
+If the data security compromise involves credit card account numbers, implement the following procedure:
+%u2022	Shut down any systems or processes involved in the breach to limit the extent, and prevent further exposure.
+%u2022	Alert all affected parties and authorities such as the Merchant Bank (your Bank), Visa Fraud Control, and the law enforcement.
+%u2022	Provide details of all compromised or potentially compromised card numbers to Visa Fraud Control within 24 hrs.
+%u2022	For more Information visit: http://usa.visa.com/business/accepting_visa/ops_risk_management/cisp_if_ compromised.html
+Visa Incident Report Template
+This report must be provided to VISA within 14 days after initial report of incident to VISA. The following report content and standards must be followed when completing the incident report. Incident report must be securely distributed to VISA and Merchant Bank. Visa will classify the report as %u201CVISA Secret%u201D*.
+I.	Executive Summary
+a.	Include overview of the incident
+b.	Include RISK Level(High, Medium, Low)
+c.	Determine if compromise has been contained II. Background
+III. Initial Analysis
+IV. Investigative Procedures
+a.	Include forensic tools used during investigation V. Findings
+a.	Number of accounts at risk, identify those stores and compromised
+b.	Type of account information at risk
+c.	Identify ALL systems analyzed. Include the following:
+%u2022	Domain Name System (DNS) names
+%u2022	Internet Protocol (IP) addresses
+%u2022	Operating System (OS) version
+%u2022	Function of system(s)
+d.	Identify ALL compromised systems. Include the following:
+%u2022	DNS names
+%u2022	IP addresses
+%u2022	OS version
+%u2022	Function of System(s)
+e.	Timeframe of compromise
+f.	Any data exported by intruder
+g.	Establish how and source of compromise
+h.	Check all potential database locations to ensure that no CVV2, Track 1 or Track 2 data is stored anywhere, whether encrypted or unencrypted (e.g., duplicate or backup tables or databases, databases used in development, stage or testing environments, data on software engineers%u2019 machines, etc.)
+i.	If applicable, review VisaNet endpoint security and determine risk
+VI. Compromised Entity Action
+VII. Recommendations
+VIII. Contact(s) at entity and security assessor performing investigation
+*This classification applies to the most sensitive business information, which is intended for use within VISA. Its unauthorized disclosure could seriously and adversely impact VISA, its employees, member banks, business partners, and/or the Brand
+MasterCard Steps:
+1.	Within 24 hours of an account compromise event, notify the MasterCard Compromised Account Team via phone at 1-636-722-4100.
+2.	Provide a detailed written statement of fact about the account compromise (including the contributing circumstances) via secured e-mail to
+compromised_account_team@mastercard.com.
+3.	Provide the MasterCard Merchant Fraud Control Department with a complete list of all known compromised account numbers.
+4.	Within 72 hours of knowledge of a suspected account compromise, engage the services of a data security firm acceptable to MasterCard to assess the vulnerability of the compromised data and related systems (such as a detailed forensics evaluation).
+5.	Provide weekly written status reports to MasterCard, addressing open questions and issues until the audit is complete to the satisfaction of MasterCard.
+6.	Promptly furnish updated lists of potential or known compromised account numbers, additional documentation, and other information that MasterCard may request.
+7.	Provide finding of all audits and investigations to the MasterCard Merchant Fraud Control department within the required time frame and continue to address any outstanding exposure or recommendation until resolved to the satisfaction of MasterCard.
+Once MasterCard obtains the details of the account data compromise and the list of compromised account numbers, MasterCard will:
+1.	Identify the issuers of the accounts that were suspected to have been compromised and group all known accounts under the respective parent member IDs.
+2.	Distribute the account number data to its respective issuers.
+Employees of the company will be expected to report to the security officer for any security related issues. The role of the security officer is to effectively communicate all security policies and procedures to employees within the company and contractors. In addition to this, the security officer will oversee the scheduling of security training sessions, monitor and enforce the security policies outlined in both this document and at the training sessions and finally, oversee the implantation of the incident response plan in the event of a sensitive data compromise.
+Discover Card Steps
+1.	Within 24 hours of an account compromise event, notify Discover Fraud Prevention
+2.	Prepare a detailed written statement of fact about the account compromise including the contributing circumstances
+3.	Prepare a list of all known compromised account numbers
+4.	Obtain additional specific requirements from Discover Card
+American Express Steps
+1.	Within 24 hours of an account compromise event, notify American Express Merchant Services
+2.	Prepare a detailed written statement of fact about the account compromise including the contributing circumstances
+3.	Prepare a list of all known compromised account numbers
+Obtain additional specific requirements from American Express
+24.	Roles and Responsibilities
+%u2022	Chief Security Officer (or equivalent) is responsible for overseeing all aspects of information security, including but not limited to:
+%u2022	Creating and distributing security policies and procedures.
+%u2022	Monitoring and analysing security alerts and distributing information to appropriate information security and business unit management personnel.
+%u2022	creating and distributing security incident response and escalation procedures that include:
+%u2022	Maintaining a formal security awareness program for all employees that provide multiple methods of communicating awareness and educating employees (for example, posters, letters, meetings).
+%u2022	The Information Technology Office (or equivalent) shall maintain daily administrative and technical operational security procedures that are consistent with the PCI-DSS (for example, user account maintenance procedures, and log review procedures).
+%u2022	System and Application Administrators shall:
+%u2022	monitor and analyse security alerts and information and distribute to appropriate personnel
+%u2022	administer user accounts and manage authentication
+%u2022	Monitor and control all access to data.
+%u2022	Maintain a list of service providers.
+%u2022	Ensure there is a process for engaging service providers including proper due diligence prior to engagement.
+%u2022	Maintain a program to verify service providers%u2019 PCI-DSS compliant status, with supporting documentation.
+%u2022	The Human Resources Office (or equivalent) is responsible for tracking employee participation in the security awareness program, including:
+%u2022	Facilitating participation upon hire and at least annually.
+%u2022	Ensuring that employees acknowledge in writing at least annually that they have read and understand the Company%u2019s information security policy.
+%u2022	General Counsel (or equivalent) will ensure that for service providers with whom cardholder information is shared:
+%u2022	Written contracts require adherence to PCI-DSS by the service provider.
+%u2022	Written contracts include acknowledgement or responsibility for the security of cardholder data by the service provider.
+25.	Third party access to card holder data
+%u2022	All third-party companies providing critical services to Jim%u2019s Orchid Supplies must provide an agreed Service Level Agreement.
+%u2022	All third-party companies providing hosting facilities must comply with the Company%u2019s Physical Security and Access Control Policy.
+%u2022	All third-party companies which have access to Card Holder information must:
+1.	Adhere to the PCI DSS security requirements.
+2.	Acknowledge their responsibility for securing the Card Holder data.
+3.	Acknowledge that the Card Holder data must only be used for assisting the completion of a transaction, supporting a loyalty program, providing a fraud control service or for uses specifically required by law.
+4.	Have appropriate provisions for business continuity in the event of a major disruption, disaster or failure.
+5.	Provide full cooperation and access to conduct a thorough security review after a security intrusion to a Payment Card industry representative, or a Payment Card industry approved third party.
+26.	User Access Management
+%u2022	Access to Jim%u2019s Orchid Supplies is controlled through a formal user registration process beginning with a formal notification from HR or from a line manager.
+%u2022	Each user is identified by a unique user ID so that users can be linked to and made responsible for their actions. The use of group IDs is only permitted where they are suitable for the work carried out.
+%u2022	There is a standard level of access; other services can be accessed when specifically authorized by HR/line management.
+%u2022	The job function of the user decides the level of access the employee has to cardholder data
+%u2022	A request for service must be made in writing (email or hard copy) by the newcomer%u2019s line manager or by HR. The request is free format, but must state:
+Name of person making request:
+Job title of the newcomers and workgroup:
+Start date:
+Services required (default services are: MS Outlook, MS Office and Internet access):
+%u2022	Each user will be given a copy of their new user form to provide a written statement of their access rights, signed by an IT representative after their induction procedure. The user signs the form indicating that they understand the conditions of access.
+%u2022	Access to all Jim%u2019s Orchid Supplies systems is provided by IT and can only be started after proper procedures are completed.
+%u2022	As soon as an individual leaves the Company employment, all his/her system logons must be immediately revoked.
+%u2022	As part of the employee termination process HR (or line managers in the case of contractors) will inform IT operations of all leavers and their date of leaving.
+27.	Access Control Policy
+%u2022	Access Control systems are in place to protect the interests of all users of Jim%u2019s Orchid Supplies computer systems by providing a safe, secure and readily accessible environment in which to work.
+%u2022	Jim%u2019s Orchid Supplies will provide all employees and other users with the information they need to carry out their responsibilities in as effective and efficient manner as possible.
+%u2022	Generic or group IDs shall not normally be permitted, but may be granted under exceptional circumstances if sufficient other controls on access are in place.
+%u2022	The allocation of privilege rights (e.g. local administrator, domain administrator, super-user, root access) shall be restricted and controlled, and authorization provided jointly by the system owner and IT Services. Technical teams shall guard against issuing privilege rights to entire teams to prevent loss of confidentiality.
+%u2022	Access rights will be accorded following the principles of least privilege and need to know.
+%u2022	Every user should attempt to maintain the security of data at its classified level even if technical security mechanisms fail or are absent.
+%u2022	Users electing to place information on digital media or storage devices or maintaining a separate database must only do so where such an action is in accord with the data%u2019s classification
+%u2022	Users are obligated to report instances of non-compliance to the Jim%u2019s Orchid Supplies CISO
+%u2022	Access to The Company IT resources and services will be given through the provision of a unique Active Directory account and complex password.
+%u2022	No access to any The Company IT resources and services will be provided without prior authentication and authorization of a user%u2019s Jim%u2019s Orchid Supplies Windows Active Directory account.
+%u2022	Password issuing, strength requirements, changing and control will be managed through formal processes. Password length, complexity and expiration times will be controlled through Windows Active Directory Group Policy Objects.
+%u2022	Access to Confidential, Restricted and Protected information will be limited to authorised persons whose job responsibilities require it, as determined by the data owner or their designated representative. Requests for access permission to be granted, changed or revoked must be made in writing.
+%u2022	Users are expected to become familiar with and abide by Jim%u2019s Orchid Supplies policies, standards and guidelines for appropriate and acceptable usage of the networks and systems.
+%u2022	Access for remote users shall be subject to authorization by IT Services and be provided in accordance with the Remote Access Policy and the Information Security Policy. No uncontrolled external access shall be permitted to any network device or networked system.
+%u2022	Access to data is variously and appropriately controlled according to the data classification levels described in the Information Security Management Policy.
+%u2022	Access control methods include logon access rights, Windows share and NTFS permissions, user account privileges, server and workstation access rights, firewall permissions, IIS intranet/extranet authentication rights, SQL database rights, isolated networks and other methods as necessary.
+%u2022	A formal process shall be conducted at regular intervals by system owners and data owners in conjunction with IT Services to review users%u2019 access rights. The review shall be logged and IT Services shall sign off the review to give authority for users%u2019 continued access rights
+28.	Wireless Policy
+%u2022	Installation or use of any wireless device or wireless network intended to be used to connect to any of the Jim%u2019s Orchid Supplies networks or environments is prohibited.
+%u2022	A quarterly test should be run to discover any wireless access points connected to Jim%u2019s Orchid Supplies network
+%u2022	Usage of appropriate testing using tools like net stumbler, kismet etc. must be performed on a quarterly basis to ensure that:
+%u2022	Any devices which support wireless communication remain disabled or decommissioned.
+%u2022	If any violation of the Wireless Policy is discovered as a result of the normal audit processes, the security officer or any one with similar job description has the authorisation to stop, cease, shut down, and remove the offending device immediately.
+If the need arises to use wireless technology it should be approved by Jim%u2019s Orchid Supplies and the following wireless standards have to be adhered to:
+1.	Default SNMP community strings and passwords, passphrases, Encryption keys/security related vendor defaults (if applicable) should be changed immediately after the installation of the device and if anyone with knowledge of these leaves the company.
+2.	The firmware on the wireless devices has to be updated accordingly as per vendors release schedule
+3.	The firmware on the wireless devices must support strong encryption for authentication and transmission over wireless networks.
+4.	Any other security related wireless vendor defaults should be changed if applicable.
+5.	Wireless networks must implement industry best practices (IEEE 802.11i) and strong encryption for authentication and transmission of cardholder data.
+6.	An Inventory of authorized access points along with a business justification must be maintained. (Update Appendix B)
+Appendix A %u2013 Agreement to Comply Form %u2013 Agreement to Comply With Information Security Policies
+James Jarvis
+________________________
+Employee Name
+Owner________________
+Department
+I agree to take all reasonable precautions to assure that company internal information, or information that has been entrusted to the Company by third parties such as customers, will not be disclosed to unauthorised persons. At the end of my employment or contract with the Company, I agree to return all information to which I have had access as a result of my position. I understand that I am not authorised to use sensitive information for my own purposes, nor am I at liberty to provide this information to third parties without the express written consent of the internal manager who is the designated information owner.
+I have access to a copy of the Information Security Policies, I have read and understand these policies, and I understand how it impacts my job. As a condition of continued employment, I agree to abide by the policies and other requirements found in the Company security policy. I understand that non-compliance will be cause for disciplinary action up to and including dismissal, and perhaps criminal and/or civil penalties.
+I also agree to promptly report all violations or suspected violations of information security policies to the designated security officer.
+James Jarvis________________________
+Employee Signature
+Appendix B
+Asset/Device Name	Description	Owner/Approved User	Location
+List of Service Providers
+Name of Service Provider	Contact Details	Services Provided	PCI DSS Compliant	PCI DSS Validation Date
+Categories
+New Products (39)Specials (10)Featured (36)Bestsellers (32)Holiday Deals 2020. (0)Show Schedule (0)Schaefer Ventilation Equipment (32)WayCool, Pro-Kool, Cool Space, Evaporative Cooling Fans (37) Reverse Osmosis Water Treatment Systems (5)Indoor and Outdoor Heating (1)Cholla Cactus Wood (2)Fertilizers & supplements
+(26)Miscellaneous garden and orchid related items.
+(2)Labels (2)Orchid Potting Mediums (34)Baskets: Wood, Plastic, Wire. Wood plaques. (17)Pots (17)Wire hangers, clips and stakes.
+(28)Tree Fern pots, slabs, mounts, shredded fiber, balls, poles.
+(9)Orchid spike clips (6)Virgin Cork Bark (6)
+Manufacturers
+- Please Select -
+Schaefer Ventilation Equipment
+Bestsellers
+Wood Square Orchid Vanda Baskets. 4, 6, 8, 10 &amp...
+(0.0 on 0)
+Basket hanger. 4-way. 20 inch.
+(0.0 on 0)
+Basket hanger. 4-way. 30 inch.
+(0.0 on 0)
+Plastic Square Orchid Vanda Baskets. 4, 6 &
+8...
+(0.0 on 0)
+Wood flat slatted mounting plaques. 6, 8 & 12 ...
+(0.0 on 0)
+View More
+Search
+- All Categories -
+Show Schedule
+Holiday Deals 2020.
+Schaefer Ventilation Equipment
+..8 in. to 24 in. Schaefer Versa Kool Circulation Fans
+..12"-20" Shutter Fans
+..Shutters & Air Intakes
+..9"-24" Flush Mount Exhaust
+Fans (PFM's)
+..Temperature, Misting & Speed Controls
+WayCool, Pro-Kool, Cool Space, Evaporative Cooling Fans
+..WayCool Evaporative Cooling Fans
+..Parts and accessories for WayCool and Pro-Kool evaporative coolers.
+..Pro-Kool Evaporative Cooling Fans
+..Cool-Space Evaporative Cooling Fans
+Reverse Osmosis Water Treatment Systems
+Indoor and Outdoor Heating
+..HotZone Electric "Square Back" Heaters
+Cholla Cactus Wood
+Fertilizers & supplements
+Miscellaneous garden and orchid related items.
+Labels
+Orchid Potting Mediums
+Baskets: Wood, Plastic, Wire. Wood plaques.
+Pots
+Wire hangers, clips and stakes.
+Tree Fern pots, slabs, mounts, shredded fiber, balls, poles.
+Orchid spike clips
+Virgin Cork Bark
+Show Schedule
+Holiday Deals 2020.
+Schaefer Ventilation Equipment
+..8 in. to 24 in. Schaefer Versa Kool Circulation Fans
+..12"-20" Shutter Fans
+..Shutters & Air Intakes
+..9"-24" Flush Mount Exhaust
+Fans (PFM's)
+..Temperature, Misting & Speed Controls
+WayCool, Pro-Kool, Cool Space, Evaporative Cooling Fans
+..WayCool Evaporative Cooling Fans
+..Parts and accessories for WayCool and Pro-Kool evaporative coolers.
+..Pro-Kool Evaporative Cooling Fans
+..Cool-Space Evaporative Cooling Fans
+Reverse Osmosis Water Treatment Systems
+Indoor and Outdoor Heating
+..HotZone Electric "Square Back" Heaters
+Cholla Cactus Wood
+Fertilizers & supplements
+Miscellaneous garden and orchid related items.
+Labels
+Orchid Potting Mediums
+Baskets: Wood, Plastic, Wire. Wood plaques.
+Pots
+Wire hangers, clips and stakes.
+Tree Fern pots, slabs, mounts, shredded fiber, balls, poles.
+Orchid spike clips
+Virgin Cork Bark
+Advanced Search
+Cart Contents
+Your cart is currently empty
+Subtotal: $0.00
+View Cart & Checkout
+Sale Item
+4, 6 and 8 Inch Teakwood Square Basket set. FREE SHIPPING $37.50 $31.00
+(0.0 on 0)
+Loading Tweets...
+Jim's Orchid Supplies ©Copyright 2020 Jim's Orchid Supplies   -   Powered by SunShop "Shopping Cart Software"

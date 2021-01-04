@@ -1,0 +1,27 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch12.html#websec2-CHP-12-SECT-1.3
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 12. Mobile Code I: Plug-Ins, ActiveX,and Visual BasicWeb browsers are amazing technology, but from the very birth of
+the World Wide Web, they have never provided enough functionality for
+web developers. Browsers, after all, are static programs: a browser can
+only display so many types of information in so many ways. For this
+reason, from the start, web developers have looked for ways to augment
+the functionality of browsers by asking users to download and run
+additional programs. Sun, Microsoft, and Netscape have further developed
+technologies for automatically downloading and running programs on
+demand. Programs that move in this fashion are frequently called
+mobile code .Most mobile code behaves as expected. But it doesn’t have to. Many
+programs have bugs in them: running them will occasionally cause your
+computer to crash. Some programs are downright malicious; they might
+erase all of the information on your computer’s disk, plant a virus, or
+seek out confidential information stored on your computer and transmit
+it to a secret location on the Internet. And some companies have used
+active content to learn the email addresses or browsing history of
+people who thought that they were anonymously browsing a web
+site.Thus, the purveyors of mobile code systems have had to walk a tightrope. They’ve had to design systems that have tangible benefits for both web publishers and users, while simultaneously limiting the malicious damage that these systems can create. This balance ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

@@ -1,0 +1,27 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch16s07.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Connecting to DatabasesIt is common for a CGI program or script to connect to databases
+that are external to the web server. External databases can be used
+for many purposes, such as storing user preferences, implementing
+shopping carts, and even order processing. When the script runs, it
+opens a connection to the database, issues a query, gets the result,
+and then uses the result to formulate a response to the user. On some
+systems, a new database connection is created each time a new script
+is run. Other systems maintain a small number of persistent
+connections which are cached.Database-backed web sites give a tremendous amount of power and
+flexibility to the web designer. Unfortunately, this approach can also
+reduce the overall security of the system: many of the security
+incidents mentioned earlier in this book happened because an attacker
+was able to execute arbitrary SQL commands on the database server and
+view the results. (For example, recall the story of the attacker who
+was able to obtain tens of thousands of credit card numbers from an
+e-commerce site.) If you decide to deploy a database server to
+supplement your web site, it is important to be sure that the server
+will be deployed and used securely.Protect Account InformationBefore the database server provides results to the script running on the web server, the server needs to authenticate the script to make sure it is authorized to access the information. Most databases use a simple username/password for account authentication, ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

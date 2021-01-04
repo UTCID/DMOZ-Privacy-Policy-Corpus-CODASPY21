@@ -1,0 +1,118 @@
+https://blog.dataart.com/the-sync-alexei-miller-and-peter-vaihansky-discuss-how-cloud-helps-businesses-turn-threats-into-opportunities
+News  >
+Blog  >
+The Sync: Alexei Miller & Peter Vaihansky Discuss How Cloud Helps Businesses Turn Threats into Opportunities
+The Sync: Alexei Miller & Peter Vaihansky Discuss How Cloud Helps Businesses Turn Threats into Opportunities
+While we are not quite there yet with the world being fully cloud-first, the appetite for migrations and cloud-first implementations, especially amidst the pandemic, is surging. As Peter Vaihansky, SVP and one of the leaders of DataArt’s cloud partnership team, notes, flexibility and resiliency are some of the advantages offered by cloud, which help companies painstakingly respond to both threats and opportunities.
+1 min read
+23/09/20
+ALL articles
+By Alexei MillerFinance Practice
+ALL articles
+By Peter VaihanskySVP, Engagement Manager,
+Finance Practice
+Share
+In this episode, Alexei Miller, Managing Director at DataArt, and Peter Vaihansky, SVP of Finance Practice and the leader of DataArt cloud partnership team, discuss how companies commit to a cloud services provider as a part of their cloud strategy, what the key cloud skillset in 2020 is, and why the appetite for migrations and cloud-first implementations is increasing year after year.
+Alexei Miller: We're on with Peter Vaihansky, DataArt’s Senior Vice President, and one of the leaders of both the DataArt cloud initiatives, partner relationships, and a whole host of clients, particularly in the capital markets/ financial services areas. Obviously, we can say that the world we're living in is cloud-first. Software systems are often born in the cloud and live in the cloud. Both risk and opportunity lie in any decision to go with a particular cloud or a particular cloud architecture. How do you see clients make those decisions? How do they choose to commit to one ecosystem, one platform versus the other? How do they evaluate this opportunity versus risk in your mind, and how do they move beyond theory into the practical aspects of those decisions?
+Peter Vaihansky: Thank you, Alexey. First of all, we're not quite there yet with the world being fully cloud-first. Many companies are, in fact, adopting this as an official part of their IT strategy. But even for those companies, declaring that to be part of their strategies is one thing and getting there physically is quite another. But on a general level and the highest level, you're right — the world has clearly changed, compute, storage, and networking, provided via the cloud model is now the norm.
+From the standpoint of how our customers are making those decisions, with respect to which hyperscale providers to go with and how to architect their systems, and how to orchestrate their migrations and implement their IT strategies, it really differs on the risk and threat model that these companies base their calculations on. With some, it's a very practical matter of there being a particular set of services that their particular application or IT estate requires.
+The decision at the moment may be based on a combination of “we know how to make our stuff work on, Azure, or GCP; therefore, we go there”. It's obviously more complex than that and cannot be reduced to a single factor. Long-term and large-scale financial commitments are a factor in those decisions, for example.
+Even though many enterprises adopt a cloud or platform-agnostic stance where, in principle, they would like to have the ability and the freedom to move across platforms if need be, that does not mean that they will go to all three or two of the three largest cloud providers at the same time. They will build that opportunity into how they architect their applications and systems, for example, using something like Kubernetes and containerized workloads. But that does not mean that they go to all three at the same time, for example. It's no secret that all three of the major providers structure the financials of what they offer to customers based on the desire to incentivize customers to put all their eggs or most of their eggs in one basket versus three.
+A.M.: And is it working? Do you see clients increasingly taking that risk or perceived risk, and saying “yes, we will sometimes perhaps feel like hostages to this chosen platform, but the benefits clearly outweigh that dependency risk?” Or do you see maybe scientifically not that large portfolio, but a very important portfolio of clients you're dealing with, that they are hedging their bets?
+P.V.: I would say the hedging of the bets is more a matter of rhetoric and strategy than the practical implementation in actual reality that we see. People are not behaving as though they're actually afraid of becoming hostage to one or another provider. Sometimes it’s a matter of there being no alternative. For example, let's say Google has this powerful technology called “big query”. For some applications, the reality isn't a lot of alternative avenues for people to take if that's the functionality they require, therefore - GCP. Similar examples can be found for Azure and AWS.
+Even though, on a strategic level, we see customers having a preference for independence and affordability, that does not stop them, in practical reality, from going ahead with implementations on a particular platform. And, keep in mind that underlying technologies are still similar across platforms. So even though you may be using some cloud-native services in AWS, underneath those services lies, in most cases, some open source technology. So with some rework, you can port to a similar implementation or similar functionality on a competing platform.
+A.M.: Understood. So you've mentioned a little earlier that it may be tempting to think of the world as cloud-first or cloud-only, but the reality is somewhat lagging. I think one industry where it's clearly lagged for a while is financial services, where firms have, with good reason, held off on jumping headfirst into the cloud for a long time, perhaps longer than many other sectors. It feels to me like, in recent months, that has changed somewhat drastically. Now, there's a bit of a stampede in financial services for this belated migration and new implementation. Do you see the same? Is it a fair characterization? Or is it still somewhat slower and more measured than other sectors?
+P.V.: It's very hard for me to compare financial services to other sectors I may not be as familiar with. But what is undoubtedly happening is the demand for and the appetite for cloud migrations and cloud-first implementations is surging. One factor that may be holding some of the firms back is regulation and the necessity to agree some far-reaching changes with the regulators. Definitely on the level of capital markets infrastructure that's something that we're seeing. For example, if there's a regulation in place for you as a capital market infrastructure firm to have certain data be available, with certain durability and certain granularity. And there are some specific ways in which that has been implemented and has been used in practice for a decade or two. Some underlying models of how data is processed are being changed by the advent of cloud-based solutions.
+You, as a firm, may know that you are able to implement that based on the cloud-first approach, but you need to convince the regulator that the regulatory requirements will be met reliably with this new technology. And that's not an instantaneous process. There needs to be a lot of education and back and forth. That may be one of the factors.
+A.M.: This probably means that any cloud-related decision is a delicate dance between business, technology, and now compliance executives, even within the confines of one firm and perhaps larger, including the regulators as well.
+P.V.: No doubt, but I think where the tables have turned now is whereas a few years back,
+you could hear cloud and security with a question mark in the same sentence: “can we afford to be in the cloud from the security perspective”? I think now the conversation is more like, “can we afford not to be in the cloud from the security perspective”. The resiliency and the uptime and the reliability of the best cloud platform providers out there far outstrip anything that a private data center could ever hope to accomplish because that's all they do. And they have gotten to a place where they're the best at it in the world. And now we have caught up to this reality. So I think that's an important change; the pendulum swung that way.
+A.M.: So on the subject of security and perhaps other skills, I'm sure as clients talk to you about the upcoming cloud projects, cloud implementations, there's a range of skills that are being discussed. Some of which are perhaps easily developed for someone with the “legacy skill set”, some perhaps radically new. Can you give us a couple of examples of the cloud skills that are in particular demand now in 2020?
+P.V.: One very key important concept is infrastructure as code. Essentially the cloud is infrastructure as code. So you provision everything through either a human-friendly console -type interface or directly through scripting. So that actually has far-reaching implications for the process of software delivery and what we call DevOps. Doing infrastructure as code is a relatively new skill set. And that's where we see most of our customers who are climbing that learning curve and are advancing in their cloud journey. That's where they're experiencing some lack of expertise, lack of capacity. And therefore, certain wastage is taking place in the process of trying to deliver new software over the cloud infrastructure. Because if you're going to live in a world where everything is infinitely scriptable and infinitely automatable, but you're still doing things manually, you're missing the boat. So DevOps is a critical component where we see daily, customers struggle with, and that's where we're adding a lot of value by providing that critical skill set.
+A.M.: Now, any conversation in 2020 can not be complete without some mention of COVID, whether or not we do live in the cloud world may be up for some debate, but what is not up to debate is that we do live in the COVID world. So I'm curious, in your client conversations, do you see clients' tone shifting as we emerge perhaps a little bit in the next phase of COVID?
+P.V.: You know what, I'll speak from my direct experience. And, I know that I've been very fortunate, and the teams that I've been working with the DataArt are very fortunate, but our customers have actually not really pumped the brakes on almost anything, as COVID struck, if anything, things seemed to accelerate. I know that’s not universalizable in any way. This is just our specific experience in this little corner of the industry. I think what it may have to do with, is that the cloud is about flexibility, and one of the facets of flexibility is resilience, and resiliency is a very big theme these days. So the ability to procure anything from anywhere at any place, anytime in any way that you want, is cloud taken to the limit. Anything IT, I should say. And now it’s no longer, “oh, it's just our, let's say development servers, or let's say development, testing and production servers”. No, it's actual workplaces, our rank and file personnel’s work machines. They also can, and probably in some cases should, be procured through the cloud.
+Many managers and executives are up to the reality that, if they're not relying on cloud to a sufficient degree, they simply don't have enough flexibility to respond to threats like COVID. Threats and opportunities are ultimately the same thing, and that is change. And the ability to respond to change determines whether a particular change in the circumstances is a threat to you or an opportunity. If you can't respond to it, then everything's a threat. If we can respond to it, then everything is an opportunity because it's affecting you, but it's also affecting your competitors. And if you're more agile than your competitors, you can actually come out ahead as a result of this change.
+A.M.: I could discuss this for hours, but you don't have hours today. And our viewers probably don't, so I hope we can do this again. Thanks so much, really appreciate it. Peter Vaihansky, Senior Vice President at DataArt, thanks again.
+Sign Up for Updates!
+Subscribe now to receive industry-related articles and updates
+Email
+I agree to the
+Privacy policy.
+Choose industries of interest
+Media & Entertainment
+Travel & Hospitality
+Retail & Distribution
+Healthcare & Life Sciences
+Finance
+Thank You for Joining!
+You will receive regular updates based on your interests. No spam guaranteed
+Add another email address
+Read more
+Tech Trends That Will Disrupt Finance Industry in 2021
+The Sync: Alexei Miller & Allan Wellenstein Discuss How to Plan for the Unknown When Designing a Software System
+Our Cloud Expertise
+Optimize your cloud spending. Secure your cloud data. Learn how with DataArt’s cloud experts
+Learn more
+Read more
+#1
+The Sync: Alexei Miller & Daniel Piekarz Discuss Technological Changes in Healthcare Post-Covid
+#2
+The Sync: Alexei Miller & Russell Karp Discuss What People Are Betting on When Sports Are in Near Standstill
+#3
+Travel Tech to the Rescue: How Technology Can Help Avert Future Travel Disruption
+#4
+Can Subscription Models Enhance Resilience in the Travel Industry?
+The Sync/
+Post-Covid Trends/
+Cloud/
+Share
+Sign Up for Updates!
+Email
+I agree to the
+Privacy policy.
+Choose industries of interest
+Media & Entertainment
+Travel & Hospitality
+Retail & Distribution
+Healthcare & Life Sciences
+Finance
+Thank You for Joining!
+You will receive regular updates based on your interests. No spam guaranteed
+Add another email address
+Welcome
+We are glad you found us
+Please explore our services and find out how we can support your business goals.
+Contact us!
+Get in Touch
+Download the white paper
+«Brave New World»: Information Technology in the Post-COVID Environment
+DataArt experts and practice leaders examine the role information technologies will play in helping businesses across multiple industrial sectors respond to the «new normal» demands.
+Name *
+Email *
+Company
+I agree to the
+Privacy policy.
+Download
+Thank You
+Thank you for submitting your request.
+Connect with us on:
+Open the File in a New Tab
+COMPANY
+About Us
+Why DataArt?
+Team
+Locations
+Careers
+Sustainability
+Webinars
+Pressroom
+SERVICES & TECHNOLOGIES
+INDUSTRIES
+Finance
+Travel, Transportation & Hospitality
+Healthcare & Life Sciences
+Media & Entertainment
+Retail & Distribution
+Blog
+CLIENTS
+CONTACT US

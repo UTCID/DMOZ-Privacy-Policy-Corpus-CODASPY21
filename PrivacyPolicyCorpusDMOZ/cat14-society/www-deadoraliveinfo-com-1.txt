@@ -1,0 +1,5 @@
+http://www.deadoraliveinfo.com/privacy
+Warning:
+mysqli_connect(): (HY000/2002): No such file or directory in /var/www/doa/login/include/database.php on line 54
+Warning:
+mysqli_error() expects parameter 1 to be mysqli, boolean given in /var/www/doa/login/include/database.php on line 54

@@ -1,0 +1,24 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch21s02.html#websec2-CHP-21-SECT-2.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+A Tour of the VeriSign Digital ID Center VeriSign opened its Digital ID Center during the summer
+of 1996. Today VeriSign is the oldest and largest of the world’s
+certification authorities. VeriSign sells certificates for personal
+use, servers, and code signing. The center is located at http://digitalid.verisign.com/. Its home page
+is shown in Figure
+21-2.Figure 21-2. The home page for VeriSign’s Digital ID CenterGenerating a VeriSign Digital IDVeriSign distributes digital certificates (called
+digital IDs by VeriSign) from its web site.
+These certificates are standard X.509 v3 public key certificates and
+can be used with a wide variety of programs, as shown in Table 21-1Table 21-1. Some programs that can use client certificatesProgramPurposeLotus Notes and Domino ServerEmail encryption and digital certification;
+verify the identity of web users. Microsoft Internet ExplorerVerifying the identity of a person browsing a
+web site.Microsoft Outlook and Outlook
+ExpressEmailing encryption and digital
+certification.Netscape NavigatorEmail encryption and digital certification;
+verify the identity of a person browsing a web site.
+You decide if you wish to purchase a single Class 1 digital ID or if you wish to try a “Free 60-day trial edition” digital ID. VeriSign used to offer Class 1 certificates in “bulk” for distribution within an enterprise, but when this book went to press it appeared ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

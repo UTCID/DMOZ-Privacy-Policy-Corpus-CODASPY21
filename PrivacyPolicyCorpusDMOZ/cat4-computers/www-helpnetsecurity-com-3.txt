@@ -1,0 +1,50 @@
+https://www.helpnetsecurity.com/2020/09/22/ios-14-new-privacy-and-security-features/
+searchtwitterarrow rightmail strokearrow leftmail solidfacebooklinkedinplusangle upmagazine plus
+40% of COVID-19 contact tracing apps lack basic protections
+Engineers design transistor that disguises key computer chip hardware from hackers
+Most IT decision makers don’t trust data, but 54% still use it to make decisions
+How do I select cyber insurance for my business?
+Phishers bypass Microsoft 365 security controls by spoofing Microsoft.com
+Apple has released iOS 14, with a bucketload of new and improved functional features and a handful of privacy and security ones.
+New privacy and security features in iOS 14
+The new iOS will tell you when an app is using your camera or microphone
+It will show an indicator dot (green for when camera or camera+microphone is in use, orange for microphone) in the top right part of the device’s screen.
+The downside is that it’s fairly small and you might miss it if other things are happening on the screen. The upside is that you can check which app most recently used your camera or microphone via the Control Center.
+Of course, you can deny access to your camera and microphone to any app through the Privacy settings.
+You can share with apps your approximate location instead of the precise one
+Go to Settings > Privacy and Location Services > Location Services, and you can configure for each app whether you want it to access your device’s location “only while the app is in use”, “always”, “never”, or you want the app to ask you for permission each time you run it (then you get the option to give it permission to access your location “Only once”).
+When you allow location access for an app, you’ll get the option to provide your precise location or leave it to the app to determine your approximate location (the latter is good enough for apps that show local news or weather).
+You can choose to share with apps just some photos
+Under Privacy > Photos you can see which apps have requested access to your photos and you can choose to restrict each app’s access just to selected photos or photo albums (or none).
+You can limit tracking
+Each time you connect to a Wi-Fi network your phone will show a different MAC address. This is to prevent ISPs and advertisers to track your movements (i.e., see when and where you connect to a network), and this option is on by default.
+In Settings > Privacy > Tracking, you can choose to not allow apps to send you a request to track you. If you do that, “any app that attempts to ask you for your permission will be blocked from asking and automatically informed that you have requested not to be tracked. In addition, all apps, other than those that you have previously given permission to track, will be blocked from accessing the device’s Advertising Identifier.”
+If you allow tracking, tracking permissions can also be controlled on a per-app basis.
+It has to be pointed out, though, that these app tracking options will start working as intended in early 2021, when these privacy controls become mandatory for developers.
+“We want to give developers the time they need to make the necessary changes, and as a result, the requirement to use this tracking permission will go into effect early next year,” Apple explained.
+Facebook complained earlier this year that these new privacy requirements would have a significant negative impact on its advertising business.
+You will be able to see a summary of an app’s privacy practices before you download it from the App Store
+You still can’t see these because app developers have yet to roll them out, but when they are ready, you’ll be able to peruse these summaries through a “App Privacy” button on the listing in the store, and they will look something like this:
+You’ll be able to see which tracking cookies have been blocked
+The Safari mobile browser has been updated to show a Privacy Report, which shows all the cross-site tracking cookies it has blocked in the last 30 days if you turned on Prevent Cross-Site Tracking in Safari’s Privacy and Security Settings.
+The report is accessible from the AA menu in the browser’s address bar.
+You’ll be notified if a password you stored in the iCloud Keychain has been spotted in a known data breach
+To turn this option on, go to Settings > Passwords > Security Recommendations and toggle on Detect Compromised Passwords. For the secure password monitoring to work, iCloud Keychain has to be enabled.
+Fixed vulnerabilities
+In iOS 14, Apple has also fixed a number of security vulnerabilities, including:
+A vulnerability in an integrated drive electronics (IDE) component that could allow a remote authenticated attacker to execute arbitrary code on a paired device during a debug session over the network (CVE-2020-9992), and a
+A logic issue affecting the sandbox that may allow a malicious application to access restricted files (CVE-2020-9968)
+More about
+Apple
+iOS
+iPhone
+location tracking
+online tracking
+passwords
+privacy
+software
+Share this
+2021 predictions: The rise of cyber resilience
+Phishers bypass Microsoft 365 security controls by spoofing Microsoft.com
+Don't miss
+×

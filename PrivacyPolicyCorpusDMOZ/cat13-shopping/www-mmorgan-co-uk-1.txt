@@ -1,0 +1,37 @@
+http://www.mmorgan.co.uk/pages/terms-and-conditions
+michael@mmorgan.co.uk
+Terms and Conditions
+Terms and Conditions
+Privacy Policy
+Please note that in certain cases we may run a credit check on customers; this will be kept completely confidential. Alternatively, if you register for some of our services we will collect information about you to provide such services. You have a right of access to all information we hold about you.
+Data Protection Notice
+Morgan Fine Wines respects your privacy and seeks to protect your personal data. The following information describes how we gather and use data. The amount of information Morgan Fine Wines  holds on you and how it uses it depends on your relationship with Morgan Fine Wines and on what service you use, so some of the sections below may not be relevant to you.
+We keep to a minimum the amount of information we hold about you.
+We use your data to respond to your enquiries about our services (the lawful basis for this is “legitimate interest”) and to provide our services to you (the lawful basis for this is “contract”).
+We delete your data when it is no longer needed.
+We apply appropriate security mechanisms to protect your personal data.
+For the definition of terms used within this Privacy Policy please refer to the ICO website or look at the General Data Protection Regulation (“GDPR”). We suggest you start with the ICO website.
+We are happy to answer any questions you have about this Privacy Policy. Email us at michael@mmorgan.co.uk.
+We hope to answer some of the most frequently asked questions about our Privacy Policy below. For further information, please read our Privacy Policy in full.
+What information doesMorgan Fine Wines  collect about me?
+We may collect some (or all) of the following: your name, phone number, email address, IP address, social identifiers (for example, age, gender, socio-economic status), data provided by cookies and other similar technologies, functional data such as registration and system data, as well as additional usage data – for instance, your purchasing history, contact permissions, product preferences, wine stored with us or information about your attendance at one of our events.
+Why does Morgan Fine Wines need my information?
+We use your data to help us provide the best experience of our products and services, which includes using data to improve (and, where possible, personalise) your experiences. We use your data to communicate with you, for example, informing you about new products or services, security and other types of updates. We also use data to fulfil contracts, to send you the goods you have bought, invoices and to collect payments.
+What do you use my information for?
+We use data for the following purposes:
+To improve your experience of our products and services
+Product improvement and development
+Customer support
+Security, safety and dispute resolution
+Communications and marketing
+Fulfilling contracts and collecting payment
+Can I opt out of receiving communications from Morgan Fine Wines?
+Yes, you may opt out of receiving communications from us at any time by logging into your account and unsubscribing or by contacting us at michael@mmorgan.co.uk. We will respect your rights under GDPR in this regard, however, this may impact the quality of service you receive from us, or prevent us from providing a service to you.
+How do I delete my personal data from Morgan Fine Wines and what are the consequences?
+You can email michael@mmorgan.co.uk to request that your data be deleted. However, please note, by deleting your personal data you may impact the service we can provide to you. We will not delete data which is needed to fulfil a contract until that contract is completed, or unless we agree to terminate the contract. We will inform you if deleting your data will impact our ability to perform a contract in case this affects your decision.
+Terms of Service
+It is against the law to sell or supply alcohol to anyone under 18 years of age in the UK. By placing an order you confirm that you are at least 18 years old.
+Your order is an offer to buy from us. There will be no contract of any kind between you and us unless and until we accept your order and, in the case of wines and goods to be delivered to you, when we actually despatch the goods to you. At any point up until then, we may decline to supply the goods or services to you without giving any reason. At the moment we accept your order or in the case of delivery of goods, when the goods are despatched, a contract will be made between you and us.
+.cart, .checkout, .cart-button, .cart_button, .icon-cart {
+display: none !important;
+}

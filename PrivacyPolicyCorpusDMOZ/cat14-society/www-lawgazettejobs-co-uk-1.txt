@@ -1,0 +1,250 @@
+http://www.lawgazettejobs.co.uk/privacy-policy/
+Skip to main content
+The Law Society
+Find a Solicitor
+Gazette Jobs
+The Gazette
+Professional Development Centre
+Bookshop
+Events
+Library search
+Insights
+-->
+Privacy Notice
+This privacy notice includes specific information concerning data collected via this website: https://jobs.lawgazette.co.uk. This notice should be read in conjunction with the Law Society's main privacy policy, which can be accessed here:
+https://www.lawsociety.org.uk/about-the-website/privacy-policy/
+Registration and registration information for job seekers
+It is not necessary for you to register with us in order to access this website. But if you do register it will allow us to personalise our services and offer you some additional benefits.
+If you apply for a job without registering, we will collect your name, email address and a copy of your CV if you upload it.
+If you register, we will collect your name, your email address and any information that you store in your online profile (e.g. your PQE and practice interests), including a copy of your CV. If you do register, you are responsible for protecting your password and user name and must not share them with, nor disclose them to, anyone else.
+We will use your email address to send you job alerts (if you register for these).
+If you consent to receive marketing from us, we use this information to send you information by email about our other services and products and important job site updates.
+Email job alerts
+You can request email job alerts to be received either in plain text or html versions, with the frequency available on either a daily or weekly basis.
+Changing the information we hold about you
+If you would like to change the registration information we hold about you on this site or want to be removed from our registration database, or if you want to change the email address at which you receive email job alerts or the format or frequency of those email job alerts, you may do so by logging in to your account and changing or removing your details as you wish.
+Third Parties
+If you register with this site and choose to upload your CV to your profile, your profile will automatically be made available to employers, including recruitment consultants, to view through the site's CV search facility. If your CV includes contact details for you, uploading your CV means these details will be visible to employers or recruiters using the CV search facility and you may be contacted by them using these details.  You can choose in your profile settings whether or not you wish to make your CV available to employers and recruiters in this way, and which contact details you wish to disclose.
+You can do this when you create your profile or at any time afterwards.
+You will also be asked to upload a copy of your CV if you apply for a job through this site, and this will be forwarded to the relevant recruiter.
+We will not disclose any other information we have already collected about you through this site without your consent other than where required to do so by law. At all times, the Law Society will control and be responsible for the use of your information.
+Cookies
+Cookies are small text files stored on your computer or device while you are visiting a website. Cookies help make websites work. They also provide us with aggregated information about how users interact with our site. We use this information to improve your experience on our website.
+Our platform cookies only collect information about anonymous behaviour, we do not store anything that will personally identify the website user.
+The information may remain on the user's computer after the internet session finishes and they have left the website. Most internet browsers are pre-set to accept cookies.
+You can tell your web browser to notify you whenever a website attempts to set a cookie. You can also tell your browser to refuse all cookies, although doing so will affect your experience of many websites.
+Cookies set by https://jobs.lawgazette.co.uk
+Below is a list of cookies set by this site:
+Cookie name
+System
+Purpose/Data Held
+Expiry
+User_WebSite
+JobSeeker/RecruiterServices
+This is a unique userID for the logged in user - GUID
+Session
+Logon_WebSite
+JobSeeker/RecruiterServices
+This is a session identifier for the current logged on user - GUID
+Session
+Remember_MeWebSite
+JobSeeker
+base64 userId
+1 Month
+RememberMeActivated_Website
+JobSeeker
+base64 true/false
+1 Month
+AnonymousUserId
+JobSeeker
+Unique id of logged out user - GUID
+2 years
+BrowserSession
+JobSeeker/RecruiterServices
+Multiple values uinquely identifying browser session
+30 minutes
+FixedFacetDefaults
+JobSeeker
+Search defaults, used by javascript to display facets
+Session
+JobSearchCriteria
+JobSeeker
+Previous search saved to cookie
+Session
+LoginCookieCheck
+JobSeeker
+This is used during the login process to to check that user has cookies enabled
+Session
+Session_Jobseeker
+JobSeeker
+This is used to track a jobseeker session - note only initiated when a jobseeker action takes place (e.g. Search) or a user logs in
+Session
+Session_CandidateCVServices
+JobSeeker
+This is used to track a candidate cv services session
+Session
+User_CandidateCVServices
+JobSeeker
+This is a unique userID for the logged in user - GUID
+Session
+Logon_CandidateCVServices
+JobSeeker
+This is a session identifier for the current logged on user - GUID
+Session
+JobListing
+JobSeeker
+Used on the search pages to remember settings like Compact when they choose Less Detail etc.
+1 Month
+WebSite_LatestJobSearchPage
+JobSeeker
+This is the page number of the last search
+1 Month
+WebSite_LatestJobSearchCount
+JobSeeker
+The count of the number of jobs found on the last page of search results
+1 Month
+WebSite_LatestJobSearchItems
+JobSeeker
+A CSV list of the job ids displayed on the last jobs search listing page
+1 Month
+WebSite_LatestJobSearchListingPage
+JobSeeker
+The search page number of the current list of jobs (e.g. Page 4 of 10)
+1 Month
+WebSite_LatestJobSearchPageSize
+JobSeeker
+The max number of jobs displayed on the job search page listing
+1 Month
+WebSite_LatestJobSearchOrder
+JobSeeker
+The display order that the jobs are listed in (0=relavence,1=Date,2=Salary)
+1 Month
+WebSite_LatestJobSearchID
+JobSeeker
+A unique reference to the search ID peformed on the jobsite. Value increments every time a search is carried out on the jobsite.
+1 Month
+WebSite_LatestSearchRecruiterID
+JobSeeker
+If the search can be linked to a recruiter then this is the recruiter ID
+1 Month
+WebSite_LatestSearchFirstJobID
+JobSeeker
+If the first job in the search is shown on the current search page, then this is it's ID. Otherwise -1.
+1 Month
+WebSite_LatestSearchLastJobID
+JobSeeker
+If the last job in the search is shown on the current search page then this is it's ID. Otherwise -1 will be used.
+1 Month
+WebSite_SearchPageLink
+JobSeeker
+The Browse URL used to reach this search page on the jobsite.
+1 Month
+CampaignClickThroughID
+JobSeeker
+If the user clicks on a campaign email this value will contain the Guid of that campaign.
+Session
+JBEClickThroughID
+JobSeeker
+The JBEID of the JBE the user clicked on
+Session
+JBEClickThroughJobID
+JobSeeker
+The jobid the user clicked on inside the JBE.
+Session
+RSSClickThroughJobID
+JobSeeker
+The jobid the user clicked on when viewing the RSS feed.
+Session
+WidgetClickThroughDomain
+JobSeeker
+The domain the user was referred from when clicking on a widget job link.
+Session
+WidgetClickThroughJobID
+JobSeeker
+The jobid the user clicked on when viewing the job widget.
+Session
+iPhoneClickThroughJobID
+JobSeeker
+The jobid the user clicked on when viewing a job in the iphone app.
+Session
+cookie-message
+Jobseeker
+To determine whether a visitor has seen the cookie banner/widget notification before (either true or false)
+Persistent
+DoubleSubmit_SITENAME_ResponsiveJobSeeker
+Jobseeker
+Used to defend against cross site request forgery
+Session
+JSMRI
+Jobseeker
+Insights - count of sessions and the date of the current and last sessions
+Persistent
+RSMRI
+RecruiterServices
+Insights - count of sessions and the date of the current and last sessions
+Persistent
+CMSMRI
+CMS
+Insights - count of sessions and the date of the current and last sessions
+Persistent
+AWSELB
+JobSeeker/RecruiterServices
+Used for AWS load balancing
+15 Mins
+Third party cookies
+A number of the services we use to add value and convenience to your experience of our job site may set cookies on your browser on our behalf. These services fall into three broad groups: web analytics, surveys and advertising.
+Web analytics
+We use a third-party service - Google Analytics - to collect aggregate data about usage of our website. We do not control the use of these third-party cookies and you should check Google's privacy policy if you have concerns.
+Service
+Cookie name
+Duration
+Google Analytics
+_utma
+2 years
+Google Analytics
+_utmb
+After 30 minutes of inactivity
+Google Analytics
+_utmc
+When you close your browser
+Google Analytics
+_utmz
+6 months
+Google Analytics
+_utmv
+2 years
+Surveys
+We occasionally run surveys on our website. The surveys are hosted by SurveyMonkey, which sets cookies to help it track your answers to the survey and also to make sure you're not bothered again with a request to complete a survey if you've already seen it.
+We do not control the use of the these third-party cookies, and you should check SurveyMonkey's privacy policy if you have concerns.
+Service
+Cookie name
+Duration
+research.net
+P_37608609
+When you close your browser
+research.net
+ep201
+12 months
+research.net
+ep202
+12 months
+research.net
+mbox
+30 minutes
+Advertising
+We serve advertising on some or all pages of this website. The software we use to serve ads places a cookie on your computer which allows us to control the number of times an ad can be served to the same computer. We do not use this feature of our ad server, and do not collect personal information about you, or the ads that you have seen.
+Service
+Cookie name
+Duration
+doubleclick.com
+test_cookie
+When you close your browser
+doubleclick.com
+__gads
+730 days
+Changes to this privacy policy
+The internet and data privacy best practice are both developing. We therefore reserve the right to revise the information in this notice at any time. If this privacy notice changes in any way, we will place an updated version on this page. Regularly reviewing this page, and our main privacy policy at https://www.lawsociety.org.uk/about-the-website/privacy-policy/ ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
+-->
+-->
+-->
+-->

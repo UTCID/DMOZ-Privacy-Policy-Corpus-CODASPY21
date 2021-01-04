@@ -1,0 +1,152 @@
+http://www.wap.org/privacy.html
+Member Services
+TCS Forums
+Webmail
+Join!
+Home
+About
+Membership
+Calendar
+Events
+Journal
+Help
+Community
+Resources
+Whimsy
+Twitter
+Facebook
+Washington Apple Pi
+Our servers are located in: Northern Virginia
+Our data packets travel: all over the planet
+Privacy and Security Notice
+Ownership
+Washington Apple Pi, Ltd., a nonprofit computer user group with an international
+membership, operates a suite of Internet information servers, including
+Web
+servers, mail servers, list servers and associated supporting services. These
+servers were set up and created for the benefit of members of Washington
+Apple
+Pi, for prospective members, and for those individuals and groups that share
+our passion for personal computing, particularly personal computing involving
+Apple, Macintosh, iPhone, iPad, Apple Watch, Apple TV, etc., operating systems. The content of the various servers,
+pages, and services is the property of Washington Apple Pi and, in the case
+of member
+pages,
+individual
+members of Washington Apple Pi. This information is not in the public domain.
+Information Collection
+Web Servers
+All Web servers need to collect technical information in order to share their
+contents with visitors. The technical information (see example
+below) identifies what part of a Web site a visiting computer wishes to reach,
+and where to send the requested information once it is found. For site management,
+this technical information is also used for statistical analysis. Summary
+statistics are used for such purposes as assessing what information is of
+most and least interest, identifying usage trends over time, determining technical
+design specifications, and identifying system performance or problem areas. This information cannot be used to identify individual users.
+Product/Membership Order Forms
+We maintain online order forms at the request of many of our overseas and
+local members. These are
+secure order forms like you'll find at most
+e-commerce sites. They are
+a convenient way to get order information
+to the Pi's office manager. If you aren't comfortable submitting payment
+information over the Web or by e-mail, you're welcome to print out the forms
+and mail them in.
+Bulletin Boards and Forums
+Messages posted on the TCS forums are
+in one of two forms: public or private. Public messages that you post can
+be read by any Washington Apple Pi member.
+Private messages that you post can be read by yourself, by the recipient
+that you name while posting the message, and by a handful of
+system operators who keep an eye on the boards and make sure they remain
+civil.
+For a greater degree of privacy, contact each other via e-mail.
+Web Cookies
+The Washington Apple Pi TCS forums do use session cookies. These cookies
+disappear from your machine as soon as you quit your browser. Form more information,
+see our note about cookies on the TCS. Cookies are only used to allow users to keep track of their own interactions; they are not used for marketing, advertising or any other purpose.
+Electronic Mail
+Electronic mail sent to addresses listed on the Pi's Web sites, such as those
+on the Contacts page, is treated no differently than any other electronic
+mail. All electronic mail transactions are handled by electronic mail servers,
+and do not pass through the Web sites, nor are they monitored or recorded
+by the Web sites in any way.
+No Internet E-mail system is completely private. Don't ever write anything
+online that you wouldn't want read back to you at your hearing.
+Mailing Lists
+An exception to our rule about recording addresses: if an individual specifically
+requests that their E-mail address be added to a Washington Apple Pi mailing
+list,
+Washington
+Apple
+Pi does,
+indeed, record their E-mail address. Mailing lists are maintained for a variety
+of purposes, but generally speaking they are used to notify members and
+interested
+nonmembers of Washington Apple Pi events.
+Passwords and Accounts
+Many Washington Apple Pi services are available to members only, and require
+an account and password. The account and password provides access to specific
+services; aside from the servers involved, nobody else sees (or cares) about
+such information, and the servers contain no other identifying information.
+Note that the online servers do not have access to the Pi's master membership
+database; they merely hold a list of membership numbers and ZIP codes which
+are exported from the membership database. Thus in the event of a break-in,
+no personally identifying information will be found.
+Monitoring
+For site security purposes and to ensure that this service remains available
+to all users, the Pi Internet information systems employ hardware and software
+to monitor network traffic and to identify unauthorized attempts to add or
+alter information, or otherwise cause damage or interfere with information
+delivery. Except for checking on ne'er-do-wells, no attempt is made to identify
+individual users or their usage habits. Raw data logs may be stored indefinitely
+for use in statistical analysis or to protect the security and integrity
+of the computer systems.
+Summary
+Washington Apple Pi does collect great gobs of incredibly boring raw data
+on our Internet services. Some of this raw data is sliced and diced into aggregate
+statistics on how our services are used. We use these statistics internally
+to improve our services. We do not share this information with other organizations
+or groups, either through sale or barter. Even within Washington Apple Pi,
+only those members actively assisting in the management of our Internet services
+ever get to see these monumentally boring statistics, and we usually have
+to beg them to take a peek.
+Unauthorized attempts to add information or alter information on these information
+services are strictly prohibited and may be punishable under the Computer
+Fraud and Abuse Act of 1986 and subsequent laws protecting information systems.
+If you have any questions or comments about the information presented here,
+please send them to webmaster@wap.org.
+Example of information collected by this Web site
+Web servers keep a record of their activity in a log file. Every time a visiting
+computer requests a file from the Web server, a log entry is recorded. A typical
+log file entry for the Washington Apple Pi Web site looks like this:
+10/10/01 13:19:18 OK 200 somemachine.somenetwork.com Mozilla/4.77 (Macintosh;
+U; PPC) http://othermachine.othernetwork.com/neatsites.html "www.wap.org"
+:privacy.html 8172
+What this entry means:
+10/10/01 13:19:18 -- Date and time of the request (24-hour clock).
+OK 200 -- Status code of the request. "OK" and a status code of
+"200" are equivalent; they mean the requested file was successfully found
+and delivered to the requesting (visitor's) computer.
+somemachine.somenetwork.com -- Internet address (or IP address,
+in the form of 123.123.123.123) of the requesting computer. The last part
+of the address, .com, indicates the requesting computer is on a commercial
+network. Other commonly seen addresses end in .mil (US military), .net (a
+different category of commercial network), .org (nonprofit organization),
+.gov (US government agencies, state and Federal), etc. Depending on how
+the requesting computer is connected to the Internet, this may not identify
+a specific computer.
+Mozilla/4.77 (Macintosh; U; PPC) -- Type of browser used by the
+requesting computer. In this case, "Mozilla" is the name of Netscape Communicator
+4.77, and it is running on a Macintosh, the world's most advanced personal
+computer.
+http://othermachine.othernetwork.com/neatsites.html -- The Internet
+address of the last site visited by the requesting computer, useful in discovering
+how visitors found this Web site.
+"www.wap.org" -- The Internet address of this Web site. As it is
+possible to operate several Web sites on a single computer, the Web server
+uses this information to determine which Web site should handle the request.
+:privacy.html -- The name of the file requested by the visiting
+computer.
+8172 -- Size of the requested file, in bytes.

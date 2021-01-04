@@ -1,0 +1,25 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch18.html#websec2-CHP-18-SECT-1
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 18. Securing Your Web ServiceIn this chapter, we’ll look at technical issues involving
+entities outside your organization that you need to consider if you hope
+to offer a reliable web service.Protecting Via RedundancyThe most powerful technique for providing a reliable service is
+redundancy: using multiple systems, Internet
+connections, routes, web servers, and locations to protect your
+services from failure. Let’s look at what can happen if you don’t
+provide sufficient redundancy.Price and Performance Versus RedundancyIt was Monday, July 10, and all of Martha’s Vineyard was full
+of vacation cheer. But for Simson Garfinkel, who had spent the
+weekend on the Massachusetts island, things were not so good. At
+9:30 a.m., Simson was in the middle of downloading his email when
+suddenly IP connectivity between his house on Martha’s Vineyard and
+his house on the mainland was interrupted. No amount of pinging,
+traceroutes, or praying, for that matter, would make it come
+back.What had happened to the vaunted reliability of the Walden
+network that we described in Chapter
+2? In a word, it was gone. The Walden network had been decommissioned on June 30, when Simson moved from Cambridge to Belmont. Because Belmont’s telephone central office was wired for DSL, Simson was able to move his Megapath Networks DSL line, but Belmont’s cable plant had not been upgraded for data, so he had to leave his cable modem behind. So long, redundancy! On the plus side, with the money that Simson saved ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

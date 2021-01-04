@@ -1,0 +1,393 @@
+http://wonder.cdc.gov/wonder/help/faq.html
+Skip directly to site content
+Skip directly to page options
+Skip directly to A-Z link
+Skip directly to A-Z link
+Skip directly to A-Z link
+CDC WONDER
+FAQ Help Contact Us WONDER Search
+Section Navigation
+TP Docs Home
+Facebook
+Twitter
+LinkedIn
+Email
+Syndicate
+FAQ -- Frequently Asked Questions
+This page contains answers to common questions handled by our
+support staff, along with some tips and tricks that we have found
+useful.
+About WONDER...
+What is CDC WONDER?
+How do I get a quick start with using the features and screens?
+How can I find a certain dataset that I heard was available
+on CDC WONDER?
+Why are some data requests returned right away, while other
+requests take longer?
+How are small data values protected to avoid revealing the
+identities of individual people?
+What exactly are age-adjusted rates?
+How do I find the citation for data from CDC WONDER?
+How do I get permission to use, share, copy or publish information from CDC WONDER?
+How do I consent to the data use agreement for data in CDC WONDER?
+How do I "save" a query or output in CDC WONDER, to use later or to share with others?
+How do I download WONDER numerical data into statistical
+software, spreadsheets, or graphical packages such as Epi Info,
+on my PC?
+How are implicitly related data concepts handled in WONDER?
+About the Web...
+How do I get web pages and documents into a word processor
+on my PC?
+What do I do when my browser fails to respond to commands?
+How do I resolve cache setting errors reported by my browser?
+Why do I get an error message when trying to connect to the Internet?
+What is CDC WONDER?
+CDC WONDER:
+Information and Communication
+Wide-ranging OnLine Data for Epidemiologic Research (WONDER) --
+is an easy-to-use internet system that makes the information resources of the
+Centers for Disease Control and Prevention (CDC) available to
+public health professionals and the public at large.
+It provides access to a wide array of public health information.
+CDC WONDER furthers CDC's mission of health promotion and disease prevention
+by speeding and simplifying access to public health information for state and local
+health departments, the Public Health Service, and the academic public health community.
+CDC WONDER is valuable in public health research, decision making, priority setting,
+program evaluation, and resource allocation.
+CDC WONDER, developed by the Centers for Disease Control and Prevention (CDC),
+is an integrated information and communication system for public health. Its purposes are:
+To promote information-driven decision making by
+placing timely, useful facts in the hands of public
+health practitioners and researchers, and
+To provide the general public with access to
+specific and detailed information from CDC.
+With CDC WONDER you can:
+Search for and read published documents on public health concerns,
+including reports, recommendations and guidelines, articles
+and statistical research data published by CDC,
+as well as reference materials and bibliographies on health-related topics;
+Query numeric data sets on CDC's information systems,
+via "fill-in-the blank" web pages. Public-use data sets about
+mortality (deaths), cancer incidence, HIV and AIDS, TB,
+natality (births), census data and many other topics are available for query,
+and the requested data are readily summarized and analyzed.
+Produce tables, maps, charts and download tab-delimited text exports
+of summary statistics.
+The data is ready for use in desktop applications such as
+word processors, spreadsheet programs, or
+statistical and geographic analysis packages.
+File formats available include web pages (HTML),
+chart and map images (bitmaps]
+and spreadsheet files (ASCII with Tab Separated Values).
+All of these facilities are menu-driven, and
+require no special computer expertise.
+To learn more about our services, please
+contact us,
+or refer to this brief description:
+About CDC WONDER.
+Back to Top
+How do I get a quick start with using the features and screens?
+See the Quick Start Guide for help with using the functions.
+Back to Top
+How can I find a certain dataset that I heard was available on
+CDC WONDER?
+CDC WONDER's "home" page provides three ways to find the
+information you are seeking:
+Descriptive titles are categorized under topic and headings;
+The alphabetical index includes the descriptive title,
+the official name and the acronym for each data item;
+The "Search" feature finds pages that contain a specific word or phrase.
+We are always glad to add more data to WONDER.
+Please contact us with your suggestions!
+Back to Top
+Why are some data requests returned right away, while other
+requests take longer?
+Some data requests result in very large data results sets,
+and your computer may take more time to download and view the data.
+The number of variables in a request also affects the response time.
+For example, a database query with several specific disease code ranges
+and sorted by disease or sorted by year may require more processing time.
+You can increase the amount of time for the query to run
+in the last section on any WONDER data request screen.
+The maximum value is 10 minutes.
+If
+the results to
+your query are not returned within 10 minutes, then please
+contact us with your specific query
+criteria for assistance.
+Back to Top
+How are small data values protected to avoid revealing the
+identities of individual people?
+In order to protect personal privacy, and to prevent revealing information that may identify specific individuals,
+small data values are not available in some circumstances.
+Incidence counts and corresponding rates and other measures are not revealed
+when the count falls below a ratio of the representative demographic population.
+WONDER protects small values in the following ways:
+The label "Suppressed" is displayed when counts fall below the determined "cut-off" value
+and the conditions for suppression are met.
+Rows showing Totals and sub-totals,
+are not available when only one row in the results table is suppressed
+for any summarized section of the table.
+If an aggregate value represents more than one suppressed row,
+then sub-totals and totals are available when allowed.
+If the sub-totals or total values fall within the privacy policy,
+then these values are also suppressed as applicable.
+The Percentage of Total column is not shown when any single row
+in the results table is suppressed.
+Note that not all of the
+online databases report the Percentage of Total measure.
+Rows that contain suppressed measures are not sorted by the actual suppressed data value.
+When the results table is ordered by a column that contains suppressed values,
+the suppressed values are displayed as though the value was less than zero,
+instead of showing the suppressed values in the actual sequential numeric order in the table.
+For example,
+when data for a specific county are suppressed,
+and you choose to order the data by rate,
+then the row representing that county
+is displayed in the rate value sequence
+as though the suppressed value was less than zero.
+The actual suppressed values in the hidden rows are included in the aggregate total values,
+when totals and sub-totals are displayed.
+The "privacy policy" defines the suppression threshold and
+the specific rules that set the circumstances for when suppression is applied.
+The privacy policies vary from dataset to dataset.
+For example, some datasets only suppress county level data when the total population falls below a threshold value,
+other datasets only suppress data for certain small demographic groups.
+The policy is determined for each dataset by the data provider in compliance with federal and local privacy regulations.
+For details on a specific dataset's privacy policy and suppression rules, refer to the documentation for that dataset,
+or select Help on the dataset's query page.
+For more information on federal privacy policies, see
+Data Use Restrictions.
+When a larger population, time period or geographic area is selected,
+fewer values are likely to be suppressed.
+Some statisticians make use of data smoothing algorithms to reduce the impact of suppressed data.
+For example, please see
+"The Impact of Data Suppression on Local Mortality Rates:  The Case of
+CDC WONDER" by
+Chetan Tiwari, Kirsten Beyer, and Gerard Rushton, published in
+American Journal of Public Health, Vol. 104, No. 8: 1386-1388.
+Available at
+http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2014.301900.
+Back to Top
+What exactly are age-adjusted rates?
+The rates of almost all causes of disease, injury, and death
+vary by age. Age adjustment is a technique for "removing" the
+effects of age from crude rates so as to allow meaningful
+comparisons across populations with different underlying age
+structures. For example, comparing the crude rate of heart
+disease in Florida with that of California is misleading,
+because the relatively older population in Florida leads
+to a higher crude death rate, even if the age-specific rates
+of heart disease in Florida and California were the same. For
+such a comparison, age-adjusted rates are preferable.
+Age-adjusted rates are calculated by applying the age-specific
+rates of various populations to a single standard population. In
+CDC WONDER, if you choose to age-adjust rates, you must specify
+your standard population (or accept the default). It is good
+practice to specify a standard is that generally similar to the
+populations being compared. For example, if requesting breast
+cancer mortality rates for white females in Massachusetts for the
+period 1979-1991, you might specify "1985 Massachusetts white
+females" as your standard population.
+Back to Top
+How do I find the citation for data from WONDER?
+Each WONDER online database shows the suggested citation in the online "help" file,
+and also on each screen that displays results for your data request.
+Look near the end of
+the page below your table, chart or map to find the suggested citation.
+Each suggested citation shows the data source, with agency names, data set names
+and specific release identification when applicable.
+The date and time of your data query are also shown.
+If you download data using the export feature, the citation is in the first column, below the numeric values.
+When citing written material from a web page, include the web address and the date of access.
+Use the web address of the first page for citing the online databases,
+because addresses of the subsequent pages are dynamic after a query occurs.
+Back to Top
+How do I get permission to use, share, copy or publish information from WONDER?
+CDC WONDER is a public service developed and operated by the Centers for Disease Control and Prevention,
+an agency of United States federal government.
+The public web site at http://wonder.cdc.gov is in the public domain,
+and only provides access to public use data and information.
+You may access the information freely, and use, copy, distribute or publish this information without additional or explicit permission.
+Please do provide a citation to credit the authors and/or data providers.
+When referring to a written article or document,
+please cite the item as you would any other document on the world wide web.
+Back to Top
+How do I consent to the data use agreement for data in WONDER?
+Any use or access of the data and information available in WONDER implies your consent to
+our data use agreement.
+Review the
+Data Use Restrictions
+carefully before using WONDER.
+All data are covered by the provisions of
+the Public Health Service Act (42 U.S.C. 242m(d)) .
+Back to Top
+How do I "save" a query or output in CDC WONDER, to use later or to share with others?
+Use the Save button, located in upper right corner on the WONDER online databases,
+to save your work for later, or to share a link to your work with others.
+After you click the "Save" button, you will see a message telling you that
+your query has been saved in the WONDER System. You can do two things:
+Press Ctrl+D to Bookmark your saved page or Add it to Favorites.
+This action saves the link in your web browser, so you can use it later.
+When you use it later, first it sends a request with your saved query criteria.
+If you clicked on the Save button on the Results,
+Chart or Map tabs,
+then it will stop at the page that was saved, showing the current results, chart or map.
+You can also use the Share button on the message to pop up a link to the saved page.
+You can send this link to others, or share the link in a web page.
+When you're done, click the Resume Current Work button below the message
+to return to your session with a WONDER online database.
+When you use a saved request later, a message will tell you if
+your saved query
+pulls data from a data set that has been updated.
+If the updated data are stored in a separate online database,
+the message will show you to the link to the updated data.
+For more information, see
+"How do I save my data for later use?."
+Back to Top
+How do I download WONDER numerical data into statistical
+software, spreadsheets, or graphical packages such as Epi Info,
+on my PC?
+After requesting numeric data, you may wish to load the data results
+into a spreadsheet or statistical analysis program.
+Most analysis software packages can load delimited simple text,
+when the rows and columns are separated by tabs.
+If your software has trouble importing a
+delimited file,
+you may wish to remove the citation and other reference
+text included in the file in the first column, below the numeric values.
+WONDER data requests show the results as web pages (HTML) by default.
+Tab-delimited simple text format files are also available for download
+with the export feature.
+Back to Top
+How are implicitly related data concepts handled in WONDER?
+Some of the data stored in the CDC WONDER online databases have implicit relationships or connections to other data.
+For example, specific counties are located within certain states and regions.
+When you limit data to
+Delaware and group results by County, you see data for
+the counties within Delaware.
+In the mortality online databases, causes of death are categorized in several ways,
+such as International Classification of Disease (ICD) codes,
+or as drug and alcohol-related causes,
+or
+as Injury Intent categories.
+When data are grouped by Cause of Death specified as ICD Codes,
+and also limited to the Unintentional Injuries category,
+then the results show only those ICD codes that fall into the Unintentional Injuries group.
+The implicit relationship between these two data fields,
+ICD codes and Injury Intent,
+is observed when the query is processed.
+Until
+May 30, 2014,
+CDC WONDER only took these relationships into account for
+ontologically related hierarchical data, with clearly ordinate parent-child relationships,
+such as region/division/state/county and
+ICD chapter/sub-chapter/code.
+Now these implicit relationships are also taken into account when querying data with peer relationships,
+for the following data items:
+Urbanization and County (each county is assigned an Urbanization category)
+Injury
+Intent and specific Cause of Death as ICD Codes (each ICD Code is assigned an Injury Intent category)
+Injury
+Mechanism
+and specific Cause of Death as ICD Codes (each ICD Code is assigned an Injury Mechanism category)
+Drug / Alcohol Related Causes and specific Cause of Death as ICD Codes (each ICD Code is assigned a Drug / Alcohol
+category)
+NCHS Rankable Causes of death (the 113 Causes List for all ages and the 130 Causes Lists for infants)
+and
+specific Cause of Death as ICD Codes (each ICD Code is assigned to a category in the NCHS Rankable Causes lists)
+Back to Top
+How do I get web pages, pictures and documents into a word processor
+on my PC?
+To get a section from a web page:
+Use your mouse to "click and drag" and highlight your desired selection from the page.
+Then "copy" the selection, move to your word processor with the target file open,
+place your cursor where the selection should go, and "paste" the selection.
+The "Copy" and "Paste" commands are usually found in your web browser's
+"Edit" menu at the top of the window, or found by clicking the right-hand mouse button.
+To select an image, such as a map or chart, then right click your mouse
+on the desired image.
+A menu pops open with options to capture and copy the image.
+Note that the map legends are separate image files.
+Your computer may also have "short-hand" key strokes for these commands.
+To get
+the entire web page:
+When a desired document is displayed in your browser,
+click
+on the "File" menu option at the top of the browser,
+then select "Save As."
+This action saves the web page to
+a file on your computer, and you can choose the file's
+name and location, and the file format.
+Later, you can "open" this file with your web browser or
+other software applications, such as a word processor.
+If your word processor cannot load web pages (HTML file format)
+then save the document as a text file.
+Refer to the help feature for your computer's operating system, and
+for your specific desktop applications to learn more.
+Back to Top
+What do I do when my browser fails to respond to commands
+or seems "stuck"
+loading a page?
+Some large and complex data requests can take several minutes to process,
+and
+again take additional time and memory to download the results
+and display in your web browser.
+Please be patient
+with complex queries, and allow up to 10 minutes.
+If your web browser is unable to load a page, then exit your browser and reopen it.
+If you cannot exit the web browser, try to end the process, for example
+by using the "Task Manager" for a
+"Windows" computer.
+If the problem still persists, exit all applications and shut down
+and then restart your system.
+Another application you are
+running may be conflicting with your browser.
+We would appreciate it if you would inform us of any problems
+your browser has while using CDC WONDER.
+You can e-mail us at
+cwus@cdc.gov.
+Browser version and release information is
+displayed in your browser's "About" option under the "Help" menu.
+Back to Top
+How do I resolve cache setting errors reported by my browser?
+These problems can be resolved in your browser setup. You
+should contact your Internet Service Provider or search
+the help function of your browser. Here are some links to
+common browsers to help you expedite a resolution.
+Microsoft Internet Explorer
+Mozilla Firefox
+Netscape
+Back to Top
+Why do I get an error message when trying to connect to
+the Internet?
+These types of messages usually result from trouble
+connecting to your Internet provider. You should
+contact your provider's technical support for assistance.
+Back to Top
+What if my question isn't addressed here?
+CDC WONDER is a product of Centers for Disease Control and Prevention.
+Questions or problems regarding this web site should be directed to
+cwus@cdc.gov.
+This page last reviewed: Tuesday, November 19, 2019
+This information is provided as technical reference material.
+Please contact us at cwus@cdc.gov.
+Facebook
+Twitter
+LinkedIn
+Email
+Exit Notification/Disclaimer Policy
+Close
+Links with this icon
+indicate that you are leaving the CDC website.
+The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+You will be subject to the destination website's privacy policy when you follow the link.
+CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website Disclaimers.
+Cancel
+Continue
+Facebook
+Twitter
+LinkedIn
+Email

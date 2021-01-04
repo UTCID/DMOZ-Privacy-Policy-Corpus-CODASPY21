@@ -1,0 +1,135 @@
+http://www.metavr.com/products/vrsg/joystickhelp.html
+Skip to main content
+Using a Gamepad or Joystick With VRSG
+Using a Gamepad with VRSG
+Gamepads and joysticks are used in VRSG solely for these three cases:
+Flying around the terrain database in fixed-wing mode; press F11 on your keyboard to activate fixed wing mode.
+Controlling a simulated UAV camera in UAV View (slave) mode, which enables you to attach to a DIS entity that supplies the UAV airframe telemetry. In this mode, VRSG uses an internal sensor payload model, which requires an attached joystick to pan and zoom the camera.
+Creating a dismounted character to perform activities on the database in VRSG First Person Simulator; press F9 on your keyboard to instantiate an FPS character (as described below).
+In these cases, VRSG works with any 8-button 4-axes input device for which the vendor provides a Windows Joystick driver. For ease of use in manipulating a character in FPS, MetaVR strongly recommends the Logitech F310 Gamepad. This device is supported by Windows and VRSG without the need to install any additional software.
+Using a gamepad with First Person Simulator
+The Logitech gamepad is MetaVR's device of choice for using with VRSG FPS. With two analog sticks, digital buttons, precise D-pad, and smooth, precise action, the gamepad is the ideal input device for manipulating the character's movements, and various functions such as firing weapons, laser ranging or designating in JTAC/CAS mode, and so on.
+FPS functions mapped to the F310 gamepad include:
+Viewing modes: third-person, first-person, JTAC, and scopes.
+Movement of the FPS character, like a joystick. Pressing down on the thumbstick changes the character’s posture.
+Viewing angle (head angle) relative to the FPS character’s body.
+Buttons for cycling through the available firing modes and firing a round of the currently selected weapon, laser designation and laser code (in JTAC mode), tracking a location on the ground and auto-zooming while tracking.
+Related
+Using a 6DOF Controller With VRSG
+Virtual Reality Scene Generator (VRSG) Overview
+MetaVR Navigation
+Home
+Products
+VRSG
+Overview
+What's New
+Features
+User Interface
+Using a 6DOF Controller with VRSG
+Using a Gamepad or Joystick with VRSG
+Scenario Editor
+System Requirements
+Terrain Tools
+Overview
+What's New
+System Requirements
+3D Models
+3D Models Overview
+3D Model Libraries
+Featured Models
+Model Search
+New & Updated Models
+3D Terrain
+Regions
+Airfields
+Ranges
+Urban Environments
+Ordering New Terrain Area of Interest
+Technology
+Building Virtual Worlds
+Metadesic Round-Earth Terrain Architecture
+Terrain Threshold Requirements
+Modeling Urban Structures
+Using City Engine To Create Urban Environments
+UAV Imagery Collection For Building 3D Terrain
+Creating Runways
+FBX Utility
+Open Flight Utility
+3D Terrain Workflow
+Rendering Technologies
+3D Oceans
+Damage States
+Characters
+Environment and Weather
+VR and Tracker Support
+Effects
+Sound Support
+Interoperability With SAF
+Aerial Refueling
+Lights and Lighting
+Multichannel
+Stereoscopic 3D Vision
+Physics-Based IR Simulation
+Radar Simulation
+UAS / RPA Simulation
+First Person Simulator
+ROVER Simulated Views
+Deformation of Terrain for Craters
+Digitally Aided Close Air Support
+Night Visual Effects
+Resources
+CASE STUDIES
+UAV/RPA
+JTAC
+Fixed Wing
+Rotary Wing
+Ground
+Commercial
+Simulator Hardware
+Complete Solutions
+Deployable Joint Fires Trainer
+Fixed-Wing Part Task Mission Trainer
+Graphics Cards
+JTAC Desktop Simulator
+Navigational Controllers
+Storage Devices
+VR Solutions
+About MetaVR
+Careers
+Company Profile
+Contact MetaVR
+Fight Like a Girl
+Honor Flight New England
+Legal Counsel
+Audited Financial Statements
+Privacy Policy
+Trademarks
+Other Resources
+Documentation and
+Brochures
+Event Summary
+Media Ads
+MetaVR In The News
+Newsletter Archive
+Press Releases
+Video Playlist
+Where To See MetaVR
+How To Buy
+Buying Overview
+Price List
+Product Pricing, Best Price, & Additional Materials
+Shipping Policy
+Return Policy & Procedures
+Information
+Software Maintenance & Technical Support
+Software Upgrades
+Software License Transfer
+Software Dongles and Licensing
+Customer Requested Features Policy
+On-Site Support
+Previous Versions
+Evaluation Policy
+Distribution Media Kit
+Software End User License Agreement
+Footer menu
+Copyright © 2020, MetaVR. All Rights Reserved.  |  Sitemap  |  Privacy Policy

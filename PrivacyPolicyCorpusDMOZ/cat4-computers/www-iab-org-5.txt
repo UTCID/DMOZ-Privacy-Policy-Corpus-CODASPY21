@@ -1,0 +1,88 @@
+https://www.iab.org/activities/workshops/internet-privacy-workshop-2010/
+Home»Activities»Workshops»Internet Privacy Workshop 2010
+The IAB workshop on Internet Privacy, jointly organized with the W3C, ISOC, and MIT CSAIL, was hosted by MIT on 8-9 December 2010.
+Internet Privacy Workshop
+How can Technology help to improve Privacy on the Internet?
+The Internet Privacy Workshop was held 8-9 December 2010 at MIT CSAIL. A press release (in pdf format) from the event is available as well as the meeting minutes (in different formats). The accepted position papers and the slides are also available for download.
+Background
+Who we are (e.g. our thoughts, dreams, feelings, DNA sequence), what we own (such as financial property), what we have experienced and how we behave (audio/visual/olfactory transcripts), and how we can be reached (location, endpoint identifiers) are among the most personal pieces of information about us. More and more of this information is being digitized and made available electronically.
+As this information becomes more available, it gets exposed in unpredictable and surprising ways: health record breaches are commonplace today (see, for example, “Celebrity Medical Files Breached at UCLA”), quasi-public information (e.g. birth-dates, social security numbers) can be used to obtain financial data or even impersonate others, casual sharing of personal experiences is now a common activity (see, e.g., “Privacy Concerns Hit Facebook, Google”) and the Web increasingly extends into our private lives via web-cams, microphones, etc., (as it was seen with the recent spying incident at a middle school involving student laptop webcams). Reachability information, such as Caller-ID ordinarily concealed by anonymous calls, can be unexpectedly available. Sensor data such as geolocation and other private information stored on personal computers and mobile devices become available to Web sites through dedicated APIs (see report from the W3C workshop on privacy for advanced Web APIs). Personal details are shared and aggregated through social networks. The implementation and use of increasingly more powerful technical mechanisms can simplify, and perhaps even encourage, intrusions by third parties who have no relationship with the end user.
+In addition to a user’s personal data being exposed to various Internet players, sharing of data to third parties has also increased. In the IETF#77 plenary talk Balachander Krishnamurthy explained the status of data sharing for advertising purposes and suggested actions by the technical community in the IETF.
+The question for us therefore is: How can we ensure that architectures and technologies for the Internet, including the World Wide Web, are developed in a way that respects users’ privacy?
+Workshop Agenda and Expected Outcome
+When looking at the technical side of privacy protection early work was done in the area of “Privacy Enhancing Technologies (PET)” raising the expectation that a single technology is able to address a broad range of privacy challenges. Over the years the community realized that this approach does not lead to satisfactory results and a more architectural attempt to address privacy is needed. The loosely defined term “privacy by design” was meant to enhance the PET concept and became popular in the industry.
+Considering privacy early in the design of technical systems, like it is common practice today with security, is not widely understood by engineers working in standards organizations, like the IETF or the W3C, as well as in communities working on technical solutions outside these standards organizations. Some lessons can be learned from the approach to designing security into protocols, particularly with respect to guidelines for engineers. Within the IETF, for example, every RFC has to provide a description of security properties and guidelines are given about the type of analysis, see RFC 3552 and RFC 4101. Similar guidance for privacy does not exist.
+Among engineers it is known that in the development of protocols and architectures many design considerations need to be taken into account and balancing between the conflicting goals is difficult, as illustrated by Clark, et al. in “Tussle in Cyberspace: Defining Tomorrow’s Internet”. This workshop aims to discuss the experience and approaches taken by technically minded people when designing privacy into protocols and architectures. To frame the discussion we suggest, as examples, to investigate privacy in the following areas:
+Federated Authentication and Web Identity Management
+Real-Time Communication Systems
+Mobility Management
+Location Protocols
+Advanced Web APIs
+Social Networks
+Store-and-Forward Architectures
+Trust Frameworks
+Addressing privacy in the topics listed above likely requires protocol components, but also involves user interface considerations. Privacy work in related areas not explicitly listed above is a welcome addition to the workshop.
+Position papers should address the core privacy challenges, the approach taken to deal with them, and the status of the work. To draw a relationship with other application areas and other privacy properties we would like to discuss how specific approaches can be generalized. Providing background of the work insofar that others are able to evaluate whether the proposal provides insight from a research point of view or offers deployment experience is important even if we welcome both types of contributions. The latter is, however, more likely to reflect today’s business reality.
+We welcome write-ups of existing concepts, deployed technologies, visionary ideas for how to tackle Internet privacy problems, and lessons learned from successful or failed attempts of privacy-enhancing technologies. Position papers are not required to be original scientific papers.
+Furthermore, both the IAB and the W3C TAG are interested in learning about guidelines and recommendations regarding privacy for the development of standards in these two organizations. It is expected that the input from workshop participants will lead to new work within these two organizations in the area of privacy.
+Workshop Style
+Participants are required to submit a position paper to attend the workshop. Submitters of accepted position papers will be invited to attend the workshop.
+The workshop will be structured as a series of working sessions punctuated by invited speakers who will present relevant background information or controversial ideas that help participants reach a deeper understanding of the subject. The organizing committee may ask submitters of particularly salient papers to present their ideas and experiences at the workshop.
+For each slot, there will be one or two invited controversial speakers, and group work on the problem that’s identified, hopefully reaching either a deeper understanding of the problem or some means of approaching it. The workshop’s main focus will be on the discussions.
+Important Dates
+Call for Participation issued:
+September 20, 2010
+Deadline for position papers:
+November 5, 2010
+Invitations sent:
+November 20, 2010
+Workshop agenda available:
+November 30, 2010
+Two day workshop
+Wednesday, December 8 Thursday, December 9
+Position Papers Requirements
+As stated before a position paper is required for participation. The paper must meet the following criteria: aligned with the stated goals. 1 or 2 pages long. formatted in HTML, PDF, or plain text.
+Please send your position paper to privacy@iab.org.
+Venue
+The workshop will be hosted at MIT. During the breaks coffee and tea will be served. Details about the meeting venue will be provided in the near future.
+Workshop Organizers and Sponsors
+The workshop is co-organized by the following groups: Internet Architecture Board (IAB), World Wide Web Consortium (W3C), Internet Society (ISOC), and
+Massachusetts Institute of Technology (MIT).
+Feel free to contact us at privacy@iab.org
+Hannes Tschofenig 2010-09-20
+Recent Posts
+IAB Reappoints Warren Kumari to the ICANN Technical Liaison Group
+Reappointment of Colin Perkins as IRTF Chair
+IAB Report to the Community for IETF 109
+Call for nominations: IETF appointment to the ISOC Board of Trustees
+Call for Feedback on the ICANN Technical Liaison Group Appointment
+Search for:
+IAB Work
+IAB Agenda
+IAB Minutes
+IAB Documents
+IAB Open Meetings
+IAB Wiki
+Technical Plenaries
+IAB Programs
+Evolvability, Deployability, and Maintainability Program
+IANA Program
+Internet Threat Model Program
+Liaison Oversight
+Plenary Planning Program
+RFC Editor Future Development Program
+RFC Editor Series Oversight Committee (RSOC)
+Related Organizations
+IETF Administration LLC
+RFC Editor
+IANA
+IRTF
+IETF Trust
+ISOC
+Privacy Statement
+IETF/IRTF/IAB Privacy Statement
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org

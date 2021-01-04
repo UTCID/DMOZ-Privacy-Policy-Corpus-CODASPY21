@@ -1,0 +1,59 @@
+https://www.claranet.co.uk/case-studies/priory-group-conserves-patient-confidentiality-claranets-help
+Skip to main content
+Search form
+Search
+UK
+Choose Your Destination
+UK
+FR
+DE
+PT
+ES
+NL
+IT
+BR
+USA
+Careers
+Careers
+Vacancies
+Development
+Benefits
+Support
+Contact
+Login
+Home>Industries>Priory Group conserves patient confidentiality with Claranet's help
+Executive summary
+Challenge: The Priory Group is dedicated to helping people improve their health and wellbeing, offering a broad range of services and facilities. A key challenge for them is protecting patient privacy. The IT department was given a mandate to migrate all IT services to an integrated in-house platform and to upgrade the Group’s IT systems to be ‘best in class’.
+Solution:
+Claranet implemented a dual MPLS strategy, which included an assured separation element. Separating the administration network from the education network ensured confidentiality and data integrity.
+Result: With Claranet's solution, the Priory Group have improved efficiency and cost effectiveness by saving resources and easing management issues.
+Protecting patient confidentiality
+The Priory has been a long-term customer of Claranet, initially taking a straightforward ADSL connection between a handful of sites. The Priory Group has witnessed significant structural changes and growth.
+The Priory’s network has been expanded over the years, with a large number of sites being incorporated. What started as a relatively simple, albeit large-scale, networking solution has grown with the business to meet the Priory’s changing requirements.
+The IT department at the Priory Group was given a mandate to migrate all IT services to an integrated in-house platform and to upgrade the Group’s IT systems to be ‘best in class’. Accordingly, the IT department undertook a comprehensive business systems strategy review, assessing all existing systems and platforms across the business to see where improvements and efficiencies could be made.
+With a brief to improve network efficiencies and security, Claranet designed a bespoke, innovative networking solution to satisfy these requirements. Given the sensitive nature of the Priory’s business, privacy and confidentiality sit at the heart of the Group’s operations, which needed to be accounted for in the ultimate solution.
+Tina Walton
+CIO at the Priory Group
+Improving efficiency
+With this in mind, Claranet recommended and implemented a dual MPLS strategy, which included an assured separation element. This meant that two distinct networks were installed over the top of the Priory’s existing connections. Separating the network in this way allows the two key lines of business, the administration network and the education network, to share the same physical infrastructure while operating independently and securely. The solution promised to save resources, ease management issues and reduce costs, satisfying the requirements set by the brief.
+Here Claranet uses encryption to underpin the separation of services and the virtual separation of the networks. The two networks provide a platform for building resource-assured VPNs, and support multiple control systems by partitioning resources.
+Moreover, separating the administration network from the education network at root ensures confidentiality and data integrity, and allows for the effective use of sophisticated, but commercially available, encryption techniques.
+Disaster recovery also features in the upgraded solution. The Priory operates its own large data centre, which they manage in-house, but now replicate everything in Claranet’s data centre as a back-up. Should something go wrong in their data centre, the network switches seamlessly over to Claranet’s as a failover, ensuring the delivery of line-of-business applications.
+Cost effectiveness
+When Claranet first introduced the concept of the combined dual MPLS and assured separation solution, it wasn’t something that we had previously encountered. It’s highly innovative, and there were few real-life examples that we could look to. But having worked with Claranet for a good amount of time, and built up a strong relationship with them, we decided to move forward on the project. Fortunately the solution has proved to be a brilliant success.
+We needed to deploy critical onsite applications, and Claranet’s solution has allowed us to do that safely and securely. Installing entirely distinct networks for our administrational and educational streams means that we’ve been able to bolster our encryption techniques and minimise the risks of a data breach.
+A big benefit of the project has been its cost-effectiveness. The new network configuration meant the Group only needed to maintain the access connections it had for each site, rather than investing in additional infrastructure. With the number of sites on the network near 300, this meant significant cost savings. In addition, though the solution has evolved since the initial implementation, Claranet’s original network remains in place, representing a sound investment.
+At every turn, Claranet has been fast to react, and have evolved the solution to meet our often-complex requirements.
+The most important thing I can say about the solution is that it works. We shouldn’t and, importantly, don’t have to intervene with the network. We have the confidence that our networks will support us, which in turn allows us to concentrate on building the business.
+Download full case study in PDF
+Speak to our experts about your needs today. Call us on 0330 390 0507
+Technology Area *
+Technology AreaCybersecurityNetworks and CommunicationsCloudOther
+First name *
+Last name *
+Email *
+Phone *
+Company *
+Job title
+Message *
+Leave this field blank

@@ -1,0 +1,34 @@
+http://hcil.umd.edu/privacy-security-decisionmaking/
+Improving Developers’ Privacy and Security Decisionmaking
+Well-intentioned software developers can put user data at risk when they make errors with complicated encryption protocols, abuse device identifiers and location data, or make other mistakes. In this work, we examine why these errors occur and how they can be prevented.
+Currently, we are investigating the effect of web resources (for example Stack Overflow) and of cryptography APIs on developers’ decisionmaking.
+Developers using Stack Overflow performed worse on security tasks than developers using official Android documentation.
+People
+This research is a cooperative effort between the University of Maryland and Saarland University in Saarbrucken, Germany.
+At UMD:
+Doowon Kim, PhD Student, Computer Science
+Michelle Mazurek, Assistant Professor, Computer Science
+At Saarland:
+Sascha Fahl, Postdoctoral Scholar
+Yasemin Acar, PhD Student
+Christian Stransky, PhD Student
+Michael Backes, Professor
+Publications
+Y. Acar, M. Backes, S. Fahl, D. Kim, M.L. Mazurek, and C. Stransky. You Get Where You’re Looking For: The Impact of Information Sources on Code Security. In submission.
+Sponsors
+This research is sponsored in part by the National Institute for Standards and Technology. We thank our NIST collaborators, Simson Garfinkel and Mary Theofanos.
+Who we are
+The HCIL has a long, rich history of transforming the experience people have with new technologies. From understanding user needs, to developing and evaluating these technologies, the lab's faculty, staff, and students have been leading the way in HCI research and teaching.
+The lab is jointly supported by the College of Information Studies (iSchool) and the University of Maryland Institute for Advanced Computer Studies (UMIACS).
+more about hcil >>>
+Web Accessibility
+contact us
+HCIL
+University of Maryland
+2117 Hornbake Bldg, South Wing
+College Park, MD 20742
+(301) 405-2769 (voice)
+hcil-info@cs.umd.edu
+Join Our Mailing List
+Stay up to date on seminars, job openings, or the latest news
+Name *Email *CommentSubmit

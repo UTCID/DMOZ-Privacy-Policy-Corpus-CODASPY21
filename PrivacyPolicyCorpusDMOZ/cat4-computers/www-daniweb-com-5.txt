@@ -1,0 +1,108 @@
+http://www.daniweb.com/hardware-and-software/information-security/threads/521590/4ir-data-privacy
+4IR Data privacy
+Home
+Hardware and Software Forum
+Information Security Forum
+Discussion / Question
+Hi DW.
+Well I'm very much interested in the data protection and also giving the best privacy to the public where we protect your passwords. I've seen something that Firefox had introduced to their browsers with also their Apps. This is called LockWise which is a tool to sync your passwords with your other devices.
+Now as we are in the 4IR I personally think that such information shouldn't be shared purely with other devices because what will happen when you are not in front of those devices?
+Worst of them all we all know that browsers don't encrypts the passwords so this to me opens a very huge security loophole because a person with access to let say your computer can see and copy your passwords as the browsers saves the actual passwords.
+With that in mind check BRIWPED on YouTube see the demonstration on this live. I think as we are in the 4IR the only person should know the actual password is the owner only. I don't see a reason why would we still submit the actual password over the internet whereas we can only use the encryption systems like BRIWPED to ensure that only the salts is sent and on the server the encryption MD5 or encrypted RSA1 or any encryption is used so that even on the server there will be no actual user password is received but rather the MD5, RSA1 or any other.
+This will make it more harder to hack provided that the user also have AV installed to his computer.
+Tools like BRIWPED makes it easy to share like LockWise but not the actual password is shared but the salts which there can be verification to ensure that if the login is to be granted to a site or App but it from the actual user.
+What also nice with BRIWPED is that they also have an App that gives you instant notification when there is a login activity and with the App you can instant stop that login.
+It can also be used on any website. As we are in the 4IR sensitive information like your passwords should be kept secure and private at all times so only you yourself knows it and not even your browsers or server because what if your browsers or your server gets hacked?
+What do you think of this, do you agree that such services and tools like LockWise and I also saw a video on YouTube with the smart key which also carries your passwords and you don't have to type the passwords on the browsers because these keys automatically submit or type it to the browser for you.
+We've also seen what had happened to the contactless on the smart cards where hackers now target it and hack it without even touching you. So such things with also happen with the passwords if they are not encrypted at all times.
+What is your view on these security issues that are within the 4IR?
+data
+encryption
+security
+ssl-certificate
+0
+0
+Share
+1
+Contributor
+forum
+0
+Replies
+1,258
+Views
+Facebook
+Like
+Twitter
+Tweet
+add_comment
+Be the first to reply
+Be a part of the DaniWeb community
+We're a friendly, industry-focused community of
+1.20 million developers, IT pros, digital marketers,
+and technology enthusiasts learning and sharing knowledge.
+Sign Up — It's Free!
+Related Topics
+Data Privacy Is Confusing, And It Will Stay That Way For A While
+3
+Discussion ~ MS Data Collecting
+1
+Unabel to install Malware-Bytes or run recommended utilities
+14
+Top 10 Data Recovery FAILS
+9
+Privacy Settings Change With Updates
+7
+IE Home Page set to http://flex.host-care.com/suspended.page/
+12
+How do you delete data from broken hardware?
+49
+"We only lose what we don't backup" and some folk today.
+1
+Help! HJT log can't access internet anymore
+15
+Fastest method to transfer database
+15
+Daniweb Account found and accessed on Darkweb
+8
+Windows Safe Mode Virus
+17
+Need Help! IPhone Glitch?
+2
+Change PW via RDP
+3
+I have a virus which means i cant access ANY antivirus websites please help
+3
+How secure your user sessions are?
+2
+If my website gets hacked and the hacker(s) put malware on my links...
+3
+How AR Will Change Digital Marketing
+4
+Open and read a tab delimited file from html using python cgi
+3
+Generate randomized 256MB files onto your drive.(C++)
+1
+Not what you need?
+Reach out to all the awesome people in our information security community by starting your own topic.
+We equally welcome both specific questions as well as open-ended discussions.
+Start New Topic
+Topics Feed
+add_comment
+Reply to this Topic
+This topic is old!
+No one has contributed to this discussion in over 10 months.
+Are you sure you have something valuable to add to revive the existing conversation?
+Consider starting a new topic instead.
+Otherwise, please be thoughtful, detailed and courteous, and adhere to our posting rules.
+Edit
+Preview
+Message
+H1
+H2
+Post Reply
+Insert Code Block
+Insert Code Block
+Share Post
+Permanent Link
+Facebook
+Twitter

@@ -1,0 +1,75 @@
+http://www.base-search.net/about/en/legal_notice.php
+BASE - Bielefeld Academic Search Engine | Legal notice
+Skip to header navigation
+Skip to content
+Skip to footer navigation
+Login
+Logged in as Log Out
+English
+Deutsch
+Set
+Basic search
+Advanced search
+Browsing
+Search history
+Legal notice
+The Imprint of Bielefeld University Library and the Privacy Policy of Bielefeld University apply.
+Please note the following additional Privacy Policy:
+General
+This Privacy Policy applies to the search engine BASE (Bielefeld Academic Search Engine), operated by Bielefeld University Library.
+Registration
+The BASE search engine offers users the possibility of creating a user account. The use of this service is expressly voluntary. Full search functionality is available without creating a user account.
+To create a user account with BASE, a one-time registration is required. During registration, the following data is collected and stored in the BASE database:
+Mandatory information:
+– First name and surname (for personalization of e-mail traffic and, if necessary, for matching with ORCID data)
+– E-mail, login, password, consent to privacy policy, and date of registration (for use of the service)
+Voluntary information:
+– Country (for statistical use)
+Search requests
+In order to be able to offer the "Search history" feature, search queries are stored in the database for a maximum of 24 hours. In order to detect misuse of BASE data by bots, crawlers, etc., the IP address of the user is also temporarily stored during the search.
+As an exception, search queries can be saved permanently by logged-in users themselves. The user's IP address is irrevocably removed from the database in this case.
+Other user-specific data
+The logged in users have the possibility to save further data in the BASE database in addition to the search queries. These include: favorites (optionally publicly accessible), publications (see section "Claiming/ORCID/DNB"), tags and comments.
+Claiming/ORCID/DNB
+BASE offers logged in users the possibility to create their own publication list from the BASE database (by means of a process known as "claiming") and to export the selected records to ORCID (details include title, author(s), URL, DOI etc.).
+For using the claiming function, a one-time authentication and authorization with ORCID is necessary. In this step, BASE is granted the read and write permissions required for exporting the publications. The details transmitted by ORCID (ORCID iD, name of the user and authorization token) are permanently stored in the BASE database so that repeated authentication and authorization procedures with ORCID can be avoided.
+As part of a cooperation with the German National Library (DNB), BASE also offers users the option of transmitting their own ORCID iD to this institution. For this purpose, the BASE user's GND ID in the publicly accessible Integrated Authority File (GND) is determined and stored in BASE.
+A special regulation applies to the data received from ORCID about users who access BASE via ORCID's "Search & Link wizard". In the event that there is no registration with BASE, and no ORCID iD forwarding to DNB is desired, this data will be deleted permanently after 24 hours.
+Metadata enriched with ORCID iDs are shown in the search results and will be transferred from BASE to third parties (repositories, libraries, etc.) for subsequent use for the purpose of worldwide dissemination of this author identifier.
+In order to avoid misuse, BASE reserves the right to perform plausibility checks on claimed publications and to remove them from the BASE and ORCID user account if necessary.
+Session cookie
+In order to be able to offer some services (such as user account, language selection, etc.), a session cookie is created which remains valid only during the session (until the browser is closed).
+Deletion of personal data
+The function "Delete account" enables the deletion of the BASE user account including all associated user data. The data is removed from the system within 24 hours and cannot be restored.
+The publications already exported from BASE to ORCID remain in the ORCID account after the deletion of the BASE account. These publications can be deleted on the ORCID.org website.
+Contact and Suggestion forms
+All personal data transmitted via the contact and suggestion forms are used exclusively for the processing of enquiries in the BASE context.
+Revocation
+Consent for the processing and use of personal data is voluntary and can be revoked at any time with effect for the future. The revocation must be made in writing via the contact form.
+Quick access
+Help
+FAQ
+Add content provider
+About BASE
+What is BASE?
+Content sources
+Statistics
+Team
+Contact
+Legal notice
+Services / How To
+Suggest source
+Golden Rules
+Validate source (OVAL)
+Add ORCID iD
+Interfaces: HTTP /
+OAI
+Further tools
+Further information
+Help
+FAQ
+Twitter
+BASE Blog
+OAI Blog
+Logos / Downloads
+© by Bielefeld University Library 2004-2020 | Powered by SolrCloud & VuFind

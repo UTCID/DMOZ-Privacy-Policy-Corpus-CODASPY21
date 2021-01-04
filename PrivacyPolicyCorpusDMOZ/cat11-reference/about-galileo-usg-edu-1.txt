@@ -1,0 +1,241 @@
+https://about.galileo.usg.edu/governance/policies#privacy_policy_for_galileo_2.1
+Policies List
+GALILEO Access Policies and Information 1.1 Privacy Policy for GALILEO 2.1 Institutional Use of GALILEO Express Links Policy 3.1 GALILEO Logo Use Guidelines and Style Guide 4.1 GALILEO Screen Captures Policy 5.1 Discover GALILEO Branding Policy 6.1 USG Copyright Policy
+GALILEO Access Policies and Information 1.1
+Authorized Users
+USG Retiree Access
+Password Distribution for Libraries and Users
+Responsible Use of Passwords
+Password Notification and Change Schedules
+GALILEO produces and provides many databases that are available to any Web user, including the Digital Library of Georgia. GALILEO controls access to other databases through user authentication, as required by contracts with the databases’ vendors. The GALILEO system handles this authentication by validating the IP addresses of computers at all participating GALILEO institutions, and also by issuing passwords to these institutions for remote users.
+All GALILEO participating libraries, whether public or private, excluding schools (K-12), must provide some kind of access to GALILEO for the public, whether through open access to all library facilities, limited access to designated workstations, waiting lists, or other means. In this way, participating libraries fulfill the vision of GALILEO and reciprocate the sharing spirit in which it was created.
+Authorized Users
+GALILEO’s user communities in Georgia include K-12 schools, public libraries, University System of Georgia institutions, technical colleges and institutes, and colleges and universities in the Georgia Private Academic Libraries (GPALS) and Atlanta-Macon Private Academic Libraries (AMPALS) consortia. The Georgia General Assembly funds a core group of databases for all of these communities except AMPALS and GPALS, which provide their own funding for the same core resources. In addition to these databases, each community also has the option to purchase access to additional databases of its choice.
+All current students, registered borrowers, and full- and part-time faculty and staff at participating GALILEO institutions are eligible for access to GALILEO’s authenticated resources. All citizens of Georgia are eligible for access to GALILEO’s authenticated resources through their local public libraries.
+Only educational institutions are eligible to participate in GALILEO. Current contracts do not allow access to licensed databases for alumni, non-enrolled students, federal-government-affiliated research sites, and medical and special libraries not affiliated with degree-granting institutions.
+Provision of Library Services to University System of Georgia (USG) Retirees
+Retirees of the University System of Georgia are dedicated supporters of the institutions from which they have retired and wish to continue that support in retirement. Many retirees continue research, publishing, and presenting in their retirement, and their works bring value and honor to the USG community of scholarship.
+The following three standard library services will be provided to all USG retirees who come to a USG library in person. The three services are:
+1) check out of library materials (with the caveat that the library has discretion over circulating equipment or other special classes of materials);
+2) access to electronic resources while in the library; and
+3) reference help, including the navigation of any location-specific policies or agreements affecting these and other services.
+Emeritus/a faculty at USG institutions will be provided full library access (the same as active faculty), including remote access to electronic resources. Emeritus/a faculty should contact their institution’s library for details and credentials for remote access to electronic resources.
+As it relates to the above access and services policies, information will be kept up to date, as needed, on USG library and campus websites.
+Approved January 9, 2020 by the USG Regents Academic Committee on Libraries and the University System of Georgia Retiree Council
+Password Distribution for Libraries and Users
+GALILEO distributes passwords by e-mail to designated contacts at each institution. At colleges, universities, technical institutes, and public libraries, these contacts are library directors and any additional faculty and staff designated by these directors. Media center staff serve as GALILEO’s password contacts at K-12 schools. GALILEO does not give passwords directly to students, library patrons, or other faculty or staff.
+GALILEO password recipients whose e-mail addresses change should report these changes to GALILEO Support Services, and library directors or their designees should inform GALILEO when password recipients leave their institutions or new recipients should be added. All K-12 media center staff may submit their e-mail addresses to receive passwords. Please use GALILEO’s Contact Us feature to request these additions or changes.
+Students, library patrons, faculty, and staff should contact their library reference departments or media centers to receive their current GALILEO passwords. Students, faculty, and staff at University System of Georgia institutions can use the Your Account section of GIL to retrieve their current passwords online.
+GALILEO Support Services will gladly change an institution’s assigned password at the request of the institution’s library director or, in the case of K-12 school systems, the head of media or head of school. Please use the Contact Us feature to request password changes.
+Responsible Use of Passwords
+Library staff should not distribute passwords on open websites, in public newsletters or mailings, or over an open telephone message. An institution may provide a mechanism for online or telephone password distribution only if that mechanism requires all users to verify their affiliation with that institution before receiving the password. Each library is responsible for the distribution of passwords to verified students, faculty, staff, and patrons only. Users should not distribute their institutions’ passwords to other people.
+Password Notification and Change Schedules
+To ensure security, passwords change several times a year.
+For University System of Georgia institutions, password changes occur on these dates:
+January 8
+May 11
+August 17
+For GPALS institutions, password changes occur on these dates:
+January 8
+May 18
+August 24
+For AMPALS institutions, password changes occur on these dates:
+January 8
+May 18
+August 24
+For Technical Colleges, password changes occur on these dates:
+January 8
+May 18
+August 6
+For Public Libraries, password changes occur on these dates:
+January 8
+August 6
+For K-12 schools, password changes occur on these dates:
+January 8
+June 30
+August 6
+Approximately one month before each scheduled change, the GALILEO system automatically selects a new password for each institution and e-mails that upcoming password to the designated contacts listed in the GALILEO Institution Database.
+GALILEO staff will review these dates annually and adjust to avoid weekend change dates.
+Communities are welcome to request a different change date via the GALILEO Steering Committee representative for that community.
+Please submit any access-related questions not answered on this page to GALILEO Support Services through the Contact Us feature.
+Privacy Policy for GALILEO 2.1
+General Principles
+As an information provider to institutions and individuals in the state of Georgia, GALILEO adheres to the Code of Ethics of the American Library Association and the Board of Regents of the University System of Georgia Data Privacy Policy.
+GALILEO authenticates users to licensed content using OpenAthens. GALILEO and OpenAthens comply with the General Data Protection Regulation (GDPR).
+Information / data GALILEO collects on consortial groups and institutions:
+GALILEO collects contact information from its member libraries, institutions, and consortia groups for relevant staff (for policy questions, reference service, technical contacts); technical data (IP addresses, identity provider information, etc.). Note: this does not include any personal information on individual non-staff users.
+Information / data GALILEO collects on individual users:
+IP or institutional affiliation via password, platform, server, browser, email address, session ID.
+Users of GALILEO are individual patrons of member libraries and institutions. Maintaining the accuracy of user data remains the responsibility of those member institutions.
+GALILEO authentication allows users to access licensed content, and certain information about the user (“attributes”) is required to support that business function. Typically, GALILEO collects minimal attributes (e.g., firstname, lastname, unique identifier, e-mail) from member institutions to support these business functions.
+In some cases, institutions may pass additional information in order to customize or personalize services (e.g., school, program of study, year of study).
+All such information is encrypted in transit.
+Some specific applications (e.g., submitting a support request) may require the user to submit additional information for diagnostic purposes to support those business functions.
+Use of that information:
+Data are collected in order to conduct the business of the GALILEO project and deliver services to participating institutions and their users.
+Maintaining personal information: GALILEO complies with GDPR rules for maintaining personal information. Unless the user’s library or institution deletes information sooner, GALILEO maintains personal information for one year after last access. All personal data is then deleted from GALILEO maintained systems.
+Access to that information: Non-public information is available only to authorized GALILEO and Board of Regents staff, and to third parties as required to provide access to licensed content to support business functions.
+Information /data GALILEO’s third-party service providers collect (on consortial groups, institutions, and/or individual users):
+Contracts with third-party service providers may specify constraints on the use, life, and access to user information such that individual users’ data is protected and not shared. However, aggregate data may be used by the service providers for the administration of their business and to document use of their product. Please contact the helpdesk if you need additional information about these third-party contracts.
+If you suspect your sensitive personal data has been exposed to unauthorized access, or if you would like to exercise “…the right to access, rectify incorrect data or erase personal data, restrict or object to processing, and the right to data portability” as provided by GDPR, please contact the Help Desk at helpdesk@usg.edu. Note: Exercising of these rights is a guarantee to be afforded a process and not the guarantee of an outcome.
+Otherwise, general questions concerning GDPR can be forwarded to GDPR@usg.edu.
+Updated December 2019.
+Institutional Use of GALILEO Express Links Policy 3.1
+Express Links
+GALILEO provides users and institutions the ability to use “Express Links” (persistent URLs) to access GALILEO databases and database menus without going through the GALILEO homepage. Express Links can be created through the blue map pins that appear on database menu entries and database menus. GALILEO authentication is built into the Express Links so that on-site access is seamless and off-site users receive a password prompt. Links open with a GALILEO Banner. Based on the database vendor, some links may open with a primary window for the search screen and secondary window with a GALILEO Banner and database menu.
+Requirements for Use of Express Links on Institutional Websites
+Institutions who participate in GALILEO may provide direct links from their websites to any GALILEO resource, but are required by the GALILEO Steering Committee to provide attribution in one of two ways:
+Links on library websites must be legibly annotated with the text:
+Part of the Database Offerings in GALILEO, Georgia’s Virtual Library
+Links on library websites must be branded with the small GALILEO logo provided for this purpose:
+Libraries may also want to participate in the GALILEO Local Resources Integration Project, which provides libraries a mechanism to integrate their local resources into the GALILEO menu for seamless integration. Interested libraries can request more information about participation through the Contact Us form.
+GALILEO Logo Use Guidelines and Style Guide 4.1
+The trademark of the GALILEO logo was affirmed and renewed in June 2003 with a single standardized logo that replaced various forms of the logo that had been developed over the years. The new logo must be used according to the following usage guidelines in order to preserve the trademark. Any other use or modification of the GALILEO logo must be approved by GALILEO and the Board of Regents of the University System of Georgia Office of Legal Affairs.
+General Guidelines
+The primary logo itself consists of the graphic image of a half globe, the word “GALILEO,” and the trademark symbol “©.”
+The graphic must always be used in conjunction with the slogan “Georgia’s Virtual Library” and tagline “An Initiative of the Board of Regents of the University System of Georgia” both on the web and in print, except as noted below.
+The slogan “Georgia’s Virtual Library” should be placed above the word “GALILEO” in the graphic and the tagline “An initiative of the Board of Regents of the University System of Georgia” should be centered directly beneath the graphic. The exception to this usage is on the GALILEO homepage, where the slogan appears beside the logo and tagline in the GALILEO banner frame.
+Exceptions under which the logo graphic may be used without the slogan and the tagline: The logo graphic may be used without the tagline and slogan on small, non-paper printed materials in which the text size would be too small to be legible. Due to size and space constraints, the small Express Link web graphic may be used for annotation of GALILEO menu items in GALILEO and institutional websites without the slogan and tagline.
+Detailed Guidelines
+Colors and Fonts
+The use of color in graphics and fonts in the GALILEO web pages must adhere to the official GALILEO color palette below in order to be consistent with the logo.
+The use of color and font in print materials for GALILEO, when emulating the GALILEO logo or components of the GALILEO website, must adhere to the official GALILEO color palette below in order to maintain consistency both between web and print and among printed materials.
+The following colors are the required GALILEO blues for use in logos and fonts and other graphic elements in web and print. Please note that the print color is not a direct translation of the web color, but a color selected to best emulate the web color under print conditions.
+Item
+Example
+Font Face
+Hexidecimal color
+RGB color
+Print color (CMYK/Pantone)
+GALILEO Logo Text
+Optima
+#333399
+Red - 51
+Green - 51
+Blue - 153
+C - 100%
+M - 56%
+Y - 0%
+K - 34%
+Pantone Coated 295
+Slogan and Tagline Text
+Lucida Sans Unicode
+#333399
+Red - 51
+Green - 51
+Blue - 153
+C - 100%
+M - 56%
+Y - 0%
+K - 34%
+Pantone Coated 295
+Globe Image: The GALILEO
+globe is created using two sets of gradients - a blue gradient for
+water and a tan gradient for land.
+Blue gradient
+NA
+NA
+Position 1 -
+location 100%
+Red - 51
+Green - 51
+Blue - 153
+Position 2 -
+location 78.53%
+Red - 63
+Green - 71
+Blue - 174
+Position 3 -
+location 28.25%
+Red - 164
+Green - 187
+Blue - 236
+Position -
+location 100%
+C - 100%
+M - 56%
+Y - 0%
+K - 34%
+Position 2 -
+location 69.49%
+C - 80%
+M - 52.16%
+Y - 0%
+K - 0%
+Position 3 - location 33.9%
+C - 38.04%
+M - 14.51%
+Y - 0%
+K - 0%
+Tan gradient
+NA
+NA
+NA
+Position 1 -
+location 94.94
+Pantone 465 CV, 100% transparency
+Position 2 -
+location: 0.56%
+Pantone 465 CV, 17% transparency
+The default font-face for GALILEO web pages is Lucida Grande for Apple OS X and Verdana for Microsoft Windows.
+Logo Versions
+Different image file formats are provided for web and print use with appropriate color and resolution. Only print resolution (300 dpi or greater) logos should be used for print purposes; web logos captured from the GALILEO system should not be used for print purposes, as the resolution and colors will not be correct.
+Download Logos
+Logo
+Description
+Low resolution (Web, screen)
+gal_color_web_2003.jpg (72 dpi, 17.8 KB)
+Hi-resolution CMYK color (4-color printing)
+gal_color_print_2003.tif (300 dpi, 1.75 MB)
+Hi-resolution RGB color (use with Microsoft Products and RGB-only applications)
+gal_color_print_2003_RGB.tif (300 dpi, 139 KB)
+Low resolution (Web, screen)
+gal_color_web_2003_sm.jpg (72 dpi, 5.9 KB)
+Hi-resolution CMYK color (4-color printing)
+gal_color_print_2003_sm.tif (300 dpi, 446 KB)
+Hi-resolution RGB color (use with Microsoft Products and
+RGB-only applications)
+gal_color_print_2003_RGB_sm.tif (300 dpi, 83 KB)
+Low resolution (Web, screen)
+gal_line_2003.jpg (72 dpi, 13.1 KB)
+Hi-resolution
+gal_line_2003.tif (300 dpi, 49.5 KB)
+Low resolution (Web, screen)
+gal_line_2003_sm.jpg (72 dpi, 4.5 KB)
+Hi-resolution
+gal_line_2003_sm.tif (300 dpi, 21 KB)
+GALILEO Express Links Logos:
+Full Color Express Links logo
+express_link.gif (72 dpi, .69 KB)
+Outline Express Links logo
+express_link_line.gif (72 dpi, .5 KB)
+To download GALILEO logos:
+Right-click on the link and select ‘Save Link/Target As’
+A ‘Save As’ box will appear. Choose a destination folder for your file, then click save.
+Instructions for adding a New Georgia Encyclopedia link and the NGE logo to a Web page are available in the New Georgia Encyclopedia FAQ.
+GALILEO Screen Captures Policy 5.1
+Educational Use
+Images and screens from GALILEO may be freely used for educational purposes by non-profit institutions participating in the GALILEO initiative. Examples of such GALILEO images and screens are the homepage, menus, icons, lists of citations, search screens, scope and help screens, and Guide to Internet Resources. Examples of appropriate use would be screen captures incorporated in library instructional materials (handouts, web pages, PowerPoint presentations, etc.).
+Permission to use screens of text or images that are not under USG copyright must be requested from the copyright holder. Images and text that are not under USG copyright include those from the many licensed resources accessible through GALILEO. Use of such content may be subject to additional terms and conditions of contracts, vendors, and publishers. Examples would be text and images from EBSCOhost databases, OCLC FirstSearch databases, ProQuest databases, Cambridge Scientific Abstracts databases, etc. For more information about educational use, see Policy on the Use of Copyrighted Works in Education and Research.
+Commercial Use
+Authors or organizations wishing to include GALILEO images or screens in a work for commercial publication must submit a written request for permission. Such requests will be considered on a case-by-case basis by the Executive Director for Library Services. If approved, permission will be granted by the University System of Georgia for materials for which it holds the copyright.
+Requests specifying the proposed publication, list of GALILEO images, screens, or text for which permission is sought, and contact information should be sent to:
+Executive Director, Library Services
+Office of Information & Instructional Technology
+Board of Regents, University System of Georgia
+2500 Daniells Bridge Road
+Building 300
+Athens, GA 30606-3539
+If the request is approved, the Executive Director will forward authorization documents to the Office of Legal Affairs for signature by the designated signatory for University System contracts and agreements.
+If the request is not approved, the Executive Director will so notify the requester.
+Discover GALILEO Branding Policy 6.1
+Discover GALILEO must display the GALILEO logo or text brand, both in the EBSCO interface and on the institutional and library website.
+Must be branded with the GALILEO logo both within the EDS service and on library websites
+Libraries may request that GALILEO add a co-branded logo to the EDS service. The logo will then be available for use on the library website.
+GALILEO @ Institution: Co-branded logo is either a combination of the GALILEO and institution logo or of the GALILEO logo and text of the institution name.
+Guidelines reflect the options that EBSCO provides as well as GALILEO; EBSCO offers specific and limited options for customization. Therefore, both technical and administrative constraints may apply.
+Review the guidelines and complete the request form.
+Find more information in the Discover GALILEO Branding Policy document.
+Adopted, GALILEO Steering Committee, August 2012
+USG Copyright Policy
+The University System of Georgia maintains a policy on use of copyrighted works in education and research. Visit the website at http://www.usg.edu/copyright/.

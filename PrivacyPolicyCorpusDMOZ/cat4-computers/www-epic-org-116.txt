@@ -1,0 +1,96 @@
+http://www.epic.org/privacy/junk_mail/spam/authcomments.html
+[By e-mail authenticationsummit@ftc.gov] September 28, 2004 Email Authentication Summit-Comments
+Secretary
+Federal Trade Commission
+Room 159—H (Annex V)
+600 Pennsylvania Ave.
+Washington, DC 20580 To The Commission: EPIC applauds the Federal Trade Commission for its continuing efforts to
+address spam, unsolicited commercial e-mail.  In our comments below on the
+E-mail Authentication Summit,[1] we urge the Commission to clearly define the
+differences between identification and authentication; to recognize that anonymous
+e-mail is not necessarily spam and may have important political value, and
+that consumers would benefit from attempts to identify companies that spam
+or that employ spammers.
+The Commission's current orientation on e-mail authentication could endanger
+Internet privacy.  The Commission risks jeopardizing one of the most consumer-friendly
+aspects of the Internet—the ability to communicate anonymously—in order to
+address a problem that is not caused by a lack of identification.  Pursued
+to its logical conclusion, the Commission risks weakening anonymity while
+making it easier for so called "legitimate" marketers to enter the
+spam field.  This is an approach that could have been copied out of a Direct
+Marketing Association playbook.  It is the worst case scenario for consumers,
+the putative constituency of the Commission, who don't want spam, whether
+it hails from the disreputable or the reputable. The Notice Confuses Identification and Authentication As Professor Roger Clarke explains, identification is "the association
+of data with a particular human being."[2]
+Authentication, on the other hand, is:
+…the process whereby a degree of confidence is established about the truth
+of an assertion…[3]
+In this context, the degree of confidence being established concerns eligibility
+to access a service, specifically, sending e-mail.  This does not necessarily
+involve identification of a person.  As Professor Clarke explains:
+[One] approach is the authentication of attributes, credentials or eligibility.
+In this case, it is not the person's identity that is in focus, but rather
+the capacity of that person to perform some function, such as being granted
+a discount applicable only to tradesmen or club-members, or a concessional
+fee only available to senior citizens or school-children, or entry to premises
+that are restricted to adults only.[4]
+While the Commission has titled this meeting as an "Email Authentication
+Summit," the notice frequently discusses identification and may not clearly
+discern the differences between identification and authentication.  For instance:
+To remove this cloak of anonymity, ISPs and others involved with the email
+system have proposed domain-level authentication systems—systems that would
+enable a receiving mail server to verify that an email message actually
+came from the sender’s purported domain.[5]
+This part of the text describes a removal of a cloak of anonymity, suggesting
+that a sender actually has to provide identity.  However, identification is
+not necessarily required in authentication.  Rather, a form of distributed
+authentication could be employed, one where ISPs can determine that one has
+a right to access the server to send e-mail, and relays that fact to others.
+In fact, there are even situations where an ISP could have an anonymous subscriber
+who has the authority to send e-mail. The Notice Improperly Attributes Spam to a Lack of Identification
+The notice reads in part as follows:
+By failing to require accurate sender identification, SMTP allows spammers
+to send email without accountability, often disguised as personal email.[6]
+Anonymously sent e-mail is not necessarily spam.  The definition of spam
+is unsolicited commercial e-mail.  Not anonymously sent e-mail.  Anonymously
+sent mail can be high-value political expression that is simply more important
+than even well-identified spam from a mainstream company.
+Question 22 raises the most important aspect of e-mail authentication: will
+standards endorsed by industry or the Commission impact on the ability of
+individuals to engage in anonymous political speech? Anonymity is a core First Amendment value that enables the expression of
+political ideas, participation in the political process, membership in political
+associations, and the practice of religious belief without fear of government
+intimidation or public retaliation. The Supreme Court has recognized the significant
+role that anonymity plays in the publication of unpopular ideas.
+Anonymity is a necessary component in people's ability to form ideas outside
+the watchful eye of their neighbors, as well as the government. Anonymity
+is central to the flourishing of a pluralistic society, because it permits
+engagement in ideas and beliefs outside of the mainstream without fear of
+retribution. As such, any authentication scheme considered by the Commission
+should not force senders of high-value speech to identify themselves.
+The Commission Should Focus its Efforts on Identifying Spam Businesses
+and the Companies that Employ Them Rather than erode anonymity of individual Internet users, the Commission
+should focus on identifying spam businesses and the companies that employ
+them.  The major purpose of spam is to sell products, and many spams have
+links to products marketed by companies in the United States.  The Commission
+should focus on identifying these purveyors of spam to facilitate ISP, attorney
+general, and Commission enforcement.
+Respectfully Submitted,
+Chris Jay Hoofnagle
+Associate Director
+[1] Email Authentication Summit, 69 Fed. Reg. 55632
+(Sept. 15, 2004).
+[2] Roger Clarke, Human Identification in Information
+Systems: Management Challenges and Public Policy Issues, Information
+Technology & People 7,4 (December 1994), available at http://www.anu.edu.au/people/Roger.Clarke/DV/HumanID.html.
+[3] Id.
+[4] Roger Clarke, Introduction to Dataveillance and
+Information Privacy, and Definitions of Terms, Sept. 16, 1999, available
+at http://www.anu.edu.au/people/Roger.Clarke/DV/Intro.html.
+[5] 69. Fed. Reg. at 55634.
+[6] 69. Fed. Reg. at 55633.
+EPIC Privacy Page | EPIC
+Home Page
+Last Updated:
+September 28, 2004
+Page URL: http://www.epic.org/privacy/junk_mail/spam/authcomments.html

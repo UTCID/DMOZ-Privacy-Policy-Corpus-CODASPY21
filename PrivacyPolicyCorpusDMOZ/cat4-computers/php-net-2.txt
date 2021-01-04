@@ -1,0 +1,117 @@
+http://php.net/privacy.php
+Downloads
+Documentation
+Get Involved
+Help
+Getting Started
+Introduction
+A simple tutorial
+Language Reference
+Basic syntax
+Types
+Variables
+Constants
+Expressions
+Operators
+Control Structures
+Functions
+Classes and Objects
+Namespaces
+Errors
+Exceptions
+Generators
+Attributes
+References Explained
+Predefined Variables
+Predefined Exceptions
+Predefined Interfaces and Classes
+Context options and parameters
+Supported Protocols and Wrappers
+Security
+Introduction
+General considerations
+Installed as CGI binary
+Installed as an Apache module
+Session Security
+Filesystem Security
+Database Security
+Error Reporting
+Using Register Globals
+User Submitted Data
+Magic Quotes
+Hiding PHP
+Keeping Current
+Features
+HTTP authentication with PHP
+Cookies
+Sessions
+Dealing with XForms
+Handling file uploads
+Using remote files
+Connection handling
+Persistent Database Connections
+Command line usage
+Garbage Collection
+DTrace Dynamic Tracing
+Function Reference
+Affecting PHP's Behaviour
+Audio Formats Manipulation
+Authentication Services
+Command Line Specific Extensions
+Compression and Archive Extensions
+Cryptography Extensions
+Database Extensions
+Date and Time Related Extensions
+File System Related Extensions
+Human Language and Character Encoding Support
+Image Processing and Generation
+Mail Related Extensions
+Mathematical Extensions
+Non-Text MIME Output
+Process Control Extensions
+Other Basic Extensions
+Other Services
+Search Engine Extensions
+Server Specific Extensions
+Session Extensions
+Text Processing
+Variable and Type Related Extensions
+Web Services
+Windows Only Extensions
+XML Manipulation
+GUI Extensions
+Keyboard Shortcuts?
+This help
+j
+Next menu item
+k
+Previous menu item
+g p
+Previous man page
+g n
+Next man page
+G
+Scroll to bottom
+g g
+Scroll to top
+g h
+Goto homepage
+g s
+Goto search(current page)
+/
+Focus search box
+Privacy Policy
+This privacy policy covers php.net and its associated mirrors.
+Email
+We will not give away your email address to anyone, who is not related to
+the operations of php.net. We will also never ask you to send us any of
+your passwords via email.
+Logfiles
+Most mirrors maintain standard logs of the requests that reach the web servers,
+but we do only use those files for statistical purposes.
+And to improve your search experience, we store anonymised search terms that
+are submitted to the site.
+Cookies
+php.net uses cookies to keep track of user preferences. Unless
+you login on the site, the cookies will not be used to store personal information and
+we do not give away the information from the cookies.

@@ -1,0 +1,472 @@
+https://gesterling.wordpress.com/category/legal/
+Screenwerk
+Greg Sterling’s Thoughts on Online and Offline Media
+Archive for the ‘Legal’ Category
+« Older Entries
+Free Speech & Defamation in Local Reviews
+May 31, 2010
+A new sushi place opened in my neighborhood recently. I was pretty excited; we’ve had only a mediocre Japanese place that mysteriously remains in business despite its low quality. I’ve often thought it must a front for criminal activity, how else could it survive?
+Initially the new restaurant got very favorable reviews on Yelp but then a second wave of unfavorable reviews appeared and dragged down its overall rating from almost five stars to three. I was surprised but when I looked more closely the critics seemed to be complaining about two main things: it took too long to get a table and the fish wasn’t as good as expected — likely based on the earlier reviews.
+In other words, positive reviews had helped create the crowds, which the second wave of reviewers complained about. It also created very high expectations that the second group came to dinner with. There’s something strange and even vaguely unfair about that; the early success fueled wait times and expectations that were disappointed. (I haven’t yet been there so I can’t comment on the quality of the experience or the food.)
+I admit I felt frustration and event a tinge of anger. This second group was threatening to kill the place before it really had a chance to get going or before I’d had a chance to get there myself. I empathized with the business owner and was able to feel in a vicarious sort of way the resentment some SMBs have of amateur reviewers.
+While there’s often valuable feedback in reviews, most people writing them have little or no idea what’s involved in running a small business. In addition some of the most frequent Yelpers, for example, are often writing for one another (sometimes with a heavy helping of snark) rather than objectively reviewing the restaurant or other local business in question. There’s often only limited thought given to the potential impact on the business itself.
+I am very glad that Yelp had established its Small Business Advisory Council. I think this will only be good for the site in the long run. It also addresses and redresses the perception of imbalance and unfairness that is partly responsible for fueling the litigation Yelp is now defending against.
+Of course, one could argue that a well-run business will ultimately garner more favorable reviews than negative and everything will take care of itself. And there’s truth in that argument.
+Some businesses that believe they’ve been wronged by negative reviews (mostly unwisely) take legal action against online critics. This should only be done where it’s entirely justified and only in the most extreme cases.
+The New York Times has a nice article on this subject, When Online Gripes Are Met With a Lawsuit. It frames the issue in the larger context of defamation vs. free speech and Slapp, “strategic lawsuit against public participation.” The article’s hook is a defamation suit brought by a towing company against a guy who set up a Facebook page against the company after his car was incorrectly towed:
+After a towing company hauled Justin Kurtz’s car from his apartment complex parking lot, despite his permit to park there, Mr. Kurtz, 21, a college student in Kalamazoo, Mich., went to the Internet for revenge.
+Outraged at having to pay $118 to get his car back, Mr. Kurtz created a Facebook page called “Kalamazoo Residents against T&J Towing.” Within two days, 800 people had joined the group, some posting comments about their own maddening experiences with the towing company.
+T&J filed a defamation suit against Mr. Kurtz, claiming the site was hurting business and seeking $750,000 in damages.
+Is this a business that has been wronged or is it a company using strong-arm tactics to silence a critic. In this case it’s almost certainly the latter. The article goes on to discuss various anti-Slapp laws and pending federal legislation that would make it harder for litigation to be brought against consumers simply voicing their opinions and experiences online.
+One of the more interesting discussions in the article is about a tactic that some doctors are using to control negative reviews about them online:
+Recognizing that lawsuits can bring more unwanted attention, one organization has taken a different tack. The group Medical Justice, which helps protect doctors from meritless malpractice suits, advises its members to have patients sign an agreement that gives the doctor copyright over a Web posting if the patient mentions the doctor or practice.
+Dr. Jeffrey Segal, chief executive of Medical Justice, said about half of the group’s 2,500 members use the agreement.
+Presumably then the doctor can simply contact the directory — InsiderPages for example — and say it owns the critical review in question and ask for its removal. I’m not so sure, however, that these agreements are legal. Patients probably don’t understand that they’re signing away their right to criticize the doctor. It probably also qualifies as an illegal prior restraint on free speech. And then there are the review sites’ fine print, which often assert they own the review copyright as well. So there’s a tangle of legal issues that have yet to be sorted out by a court.
+Given how influential reviews can be SMBs need some way to respond. Yelp and other review sites do provide mechanisms, to comment upon and clarify the context of a review and/or to contact the unhappy individual and try to make good on the problem or bad experience. But on balance the system as it currently stands is far from perfect — and most SMBs simply have to do their best and hope that people are basically fair and honest.
+Posted in Legal, Local Search, Small Business, User-generated content |
+4 Comments »
+Regulation Is Here, Internet Professionals
+May 5, 2010
+I’ve been saying it for well over a year and Facebook may have been the final straw. The concern over privacy and user control raised in the wake of the Facebook “Open Graph” and Social Plugins initiative, as well as ongoing questions over behavioral targeting and online data mining, have created a kind of perfect storm that are all but certain to bring new regulation to data collection online.
+New draft privacy legislation in Congress has already been proposed and circulated:
+No consent is required to collect and use
+operational or transactional data – the routine web logs or session
+cookies that are necessary for the functioning of the website – or to
+use aggregate data or data that has been rendered anonymous.
+Companies need an individual’s express opt-in
+consent to knowingly collect sensitive information about an individual,
+including information that relates to an individual’s medical records,
+financial accounts, Social Security number, sexual orientation,
+government-issued identifiers and precise geographic location
+information.
+Some version of this Boucher bill (.pdf) will pass in Congress. On the surface and at the highest level it may not be that different from IAB “self-regulation” schemes or best practices employed today. What may be different is that the legislation empowers the FTC to make more rules and enforce the law. The state attorneys general are also empowered to enforce these rules and punish offenders through civil litigation. They can accordingly seek injunctions and civil damages against the offending companies.
+This would also open the door to a wave of private and class action lawsuits against companies perceived to have deep pockets that violated the law. It effectively puts the burden on publishers, ad networks and others to very strictly comply with the rules and disclosure requirements or face punishment in the form of damages.
+By playing “fast and loose” with privacy, being arrogant, naive, manipulative and aggressive about data collection and ad targeting online firms have brought this on themselves.
+Google and then Yahoo have developed relatively clear pages that enable consumers to exercise some control over data collection and privacy (JumpTap has done a version of this in mobile). But this model has not been widely followed by others. Regulation might have been avoided if there were a more sincere and pervasive effort to do something similar across the Internet.
+Any “self regulation” efforts now put forth are too little too late. Federal privacy regulation is coming. Indeed it’s almost here.
+___
+The IAB doesn’t like the bill of course, while consumer groups think it’s too lenient.
+Posted in Legal, Privacy, Regulatory issues |
+5 Comments »
+Facebook Won’t ‘Like’ FTC Inquiry on Privacy
+April 26, 2010
+Some people believe that with Social Plug-ins and the “Open Graph,” Facebook  is overreaching. One of those people is now NY Senator Charles Schumer.
+For quite some time I’ve been saying and speculating that if “the industry” isn’t careful the regulators will spring into action. Today Senator Schumer called on the FTC to create guidelines and regulate social networking privacy, motivated apparently by Facebook’s Open Graph announcements last week.
+Here’s an excerpt from Schumer’s letter:
+Today,
+U.S. Senator Charles E. Schumer urged the Federal Trade Commission (FTC)
+to provide guidelines for social networking sites, like Facebook,
+Myspace, and Twitter on how private information submitted by online
+users can be used and disseminated. Schumer’s call to the FTC comes on
+the heels of recent reports that Facebook has decided to provide user
+data to select third party websites and has begun sharing personal
+profile information that users previously had the ability to restrict
+access to. These recent changes by Facebook fundamentally change the
+relationship between the user and the social networking site.
+Previously, users had the ability to determine what information they
+chose to share and what information they wanted to keep private. Recent
+policy changes are fundamentally changing that relationship and there is
+little guidance on what social networking sites can and cannot do and
+what disclosures are necessary to consumers.
+Under new policies, users
+must go through a complicated and confusing opt-out process to keep
+private information from being shared with third party websites.
+Additionally, Facebook has also created a new system whereby ‘interests’
+listed by users on their personal profiles are automatically aggregated
+and shared as massive web pages. Users used to have the ability to keep
+this information private if they chose. These new common interest pages
+are a gold mine of marketing data that could use by used for spam and
+potentially scammers, intent on peddling their wares.
+Schumer and his staff may or may not fully understand what Facebook is trying to do or the benefits the company asserts it’s providing to users and publishers. But this should be taken seriously and could be the beginning of a long-anticipated move into online privacy regulation by the feds.
+The IAB (and Facebook itself) should head this off at the pass with voluntary moves and clearer disclosures.
+Posted in Legal, Local Search, Privacy, User-generated content |
+3 Comments »
+Yelp Forms SMB Advisory Board
+April 14, 2010
+This has been a long time coming. Matt McGee on his Small Business SEM blog details Yelp’s new small business advisory board that was announced (near the end of the post) last Wednesday:
+Additionally, in an effort to more formally integrate feedback from the business community, we’ve created a Small Business Advisory Council whose members will provide Yelp management with guidance and perspective regarding the concerns of small business owners.
+Here’s an excerpt from the note Matt received:
+YSBAC will be composed of 10 members representing diverse geographies and industries. The group will serve for an annual term. In addition to regular correspondence with Yelp’s executive team, the council will be relied upon to provide valuable input on changes to Yelp. We hope you’re as excited about this development as we are, and if you have some ideas for how Yelp can better serve the business community, we hope you’ll consider applying.
+This is a very good idea for the company with no downside that I can see.
+Posted in Legal, Local Search, Small Business |
+8 Comments »
+Yelp: We Were Sued Because of Funding
+April 12, 2010
+As the various Yelp class actions proceed and rumors about sales practices swirl he company is making stepped up efforts, using the unfortunate phrase, to “open the kimono.” We’re seeing more PR outreach and visibility from Yelp, now a major Internet brand.
+Yelp executives have been speaking at more conferences and there have been many more news articles, in part driven by the controversy, about the company. When Yahoo dropped out of the “local search engines” panel at SMX West at the last minute it was logical to replace them with Yelp, given the stature of the company.
+In a piece appearing on the CNN Money website the argument is made that Yelp is being sued by lawyers who want a piece of the company’s recent $100 million funding:
+The lawsuits, [Corp. Communications VP Vince] Sollitto points out, came after Yelp’s $500 million
+dalliance with a Google buyout fell through, leading to a new $100
+million investment from Elevation Partners earlier this year. Yelp
+believes it’s dollar signs, not business practices, which brought out
+the attorneys. “Lawsuits often come to companies around financing
+rounds, that is a fact of life,” says Sollitto.
+While it’s the financial prize that undoubtedly caused some lawyers to find the plaintiffs to bring the various suits, the confusion and frustration animating them were building for some time — partly a result of some early arrogance on Yelp’s part. Now that the company has “grown up,” as the article headline asserts, it has taken a much more balanced view and made greater outreach to local businesses recognizing that it much educate them in order to get their ad dollars.
+As I’ve said before I tend to be very skeptical of the review manipulation claims but the facts will out.
+____
+I like how Yelp CEO and co-founder Russell Simmons look less like startup execs than members of an indie rock band in the photo associated with the CNN Money article:
+Credit: David Yellen
+Posted in Legal, Local Search, Small Business, User-generated content |
+2 Comments »
+Apple vs. Google: Who Is Obi Wan?
+March 5, 2010
+“The circle is now complete. When I left you I was but the learner, now I am the master.”
+“Only a master of evil Darth.”
+Posted in Legal, Silly Fun |
+Comments Off on Apple vs. Google: Who Is Obi Wan?
+Lawyers Smell ‘Blood in the Water’ with Yelp
+March 4, 2010
+According to a new blog post by Yelp CEO Jeremy Stoppelman, another suit, “virtually identical” to the earlier “class action,” has been filed against the company:
+These misconceptions are also fueled by lawyers, who may have heard about Yelp’s recent financing round and may be seeking a share. So it’s no surprise that today another lawyer has filed a virtually identical lawsuit making the same inaccurate claims. (Don’t worry; they’re still not true.)
+These copy cat suits get filed in what is known as a “race to the courthouse,” where lawyers jockey to be named the lead lawyer of the case and take the biggest share of legal fees; being among the first to file a suit increases the chance of being put in charge of the case.
+The new case, also an intended class action, apparently involves the disappearance of reviews that the plaintiff had solicited from customers. The plaintiff claims these reviews were deleted in retaliation for not purchasing advertising on Yelp.
+Yelp doesn’t like the practice and tends to view solicited reviews as bogus and thus often “suppresses” them, as Yelp’s Dylan Swift explained on the Ask the Local Engines panel at SMX West. But businesses sometimes get upset and angry about this (as indicated by the lawsuit), not understanding Yelp’s policy or how its algorithm works.
+The lawyers, looking for what they may believe is a relatively easy settlement and/or PR, smell blood in the water. And there’s probably also no shortage of would-be plaintiffs: SMBs frustrated with or ignorant about how Yelp works.
+There’s an irony in that these attorneys are likely soliciting plaintiffs in the same way that some of the local businesses have solicited reviews from their customers.
+In all seriousness, Yelp is fighting against a rising tide of advice that argues “get your customers to write positive reviews” (to rank better). AlikeList, for example, is encouraging SMBs to ask customers to “like” or list them on the site. But lots of local SEOs argue in favor of review solicitation. In a way you can’t blame them; it’s a way for the business to try and have some control over the UGC phenomenon.
+Yelp wants reviews to be “organic” but a host of SMB advice givers is now preaching review solicitation. It’s a tough battle Yelp is fighting.
+Posted in Legal, Local Search, Small Business, User-generated content |
+19 Comments »
+A Look at the Claims and ‘Facts’ in Yelp Case
+March 1, 2010
+On Twitter, Mike Blumenthal points to the complaint (.pdf) filed in the Yelp action. Here’s the plaintiff’s Yelp listing (a veterinary hospital) and below are relevant, verbatim excerpts from the complaint:
+One method Yelp uses to control content (and thereby raise or lower a business’s rating), is to promise to remove a business’s negative reviews or relocate them to the bottom of a listing page where fewer searchers will read them if the business agrees to purchase a costly monthly advertising subscription from Yelp. Yelp thus capitalizes on the presumed integrity of the Yelp.com ratings system to extort business owners to purchase advertising.
+The complaint  discusses and describes a couple of “defamatory reviews” that appeared amid the otherwise largely positive set of reviews for the business. It then goes on to discuss a sequence of alleged events that form the factual basis for the legal claims in the action:
+Soon after the appearance of these negative reviews, Dr. Perrault and Mr. Vargas began receiving frequent, high-pressure calls from Yelp advertising employees, who promised to manipulate Cats and Dogs’ Yelp.com listing page in exchange for Cats and Dogs purchasing an advertising subscription.
+For example, on or about January 5, 2010, Cats and Dogs received a Yelp sales call from “Kevin.” Kevin said that Cats and Dogs could advertise with Yelp for a minimum payment of $300 per month, with a minimum 12-month commitment. Kevin stated that if  Cats and Dogs purchased a one-year advertising subscription from Yelp:
+a. Yelp would hide negative reviews on the Cats and Dogs Yelp.com listing page, or place them lower on the listing page so internet users “won’t see” them;
+b. Yelp would ensure negative reviews will not appear in Google and other search engine results;
+c. Yelp would allow Cats and Dogs to decide the order that its reviews appear in on its Yelp.com listing page; and
+d. Cats and Dogs could choose its “tagline,” i.e., the first few lines of a single review shown on every search result page in which Cats and Dogs appears (for instance, “Veterinarian in Long Beach”).
+Dr. Perrault declined the offer, saying that he wanted to track referrals from Yelp for three months without ads, but might thereafter be willing to test Yelp’s advertising potential. Within a week of denying Kevin’s advertising offer, the negative review from Chris R. reappeared on the Cats and Dogs Yelp.com listing page. Soon after, “Kay K.” posted a second negative review. This review was added on January 6, 2010, one day after Kevin’s sales call.
+On or about January 12, 2010, Mr. Vargas contacted Yelp to protest the reappearance of the “Chris R.” review and the highly negative, inflammatory “Kay K.” reviews.
+On January 13, 2010, Mr. Vargas received via email the following response from Yelp:
+We wanted to let you know that we’ve taken a close look at the reviews by Chris R and Kay K, and after careful evaluation, we have decided to leave both intact. Because we don’t have first hand knowledge of a reviewer’s identity or personal experience, we are not in a position to verify your claims that these reviewers are the same person, or that they are connected to the recent vandalism at your hospital. If a review appears to reflect the personal opinion and experiences of the reviewer while adhering to our review guidelines [link], it is our policy to allow the reviewer to stand behind his or her review.
+There’s a clear suggestion that Yelp retaliated by not removing the review(s) in question as a result of the vet’s decision not to advertise; the implication is that they would have been removed otherwise. There’s also a clear suggestion that Yelp may have fabricated the review that followed the decision, because of the alleged timing in the factual sequence above.
+The complaint offers a single legal claim, violation of California Unfair Competition Law, Bus. & Prof. Code § 17200, which seeks to broadly prevent unfair or deceptive business practices. The complaint relies very heavily on the East Bay Express article published  last year and cites comments made in response to the article to argue that the alleged practices are widespread.
+The complaint basically seeks to certify as a class all business owners on Yelp and/or all that have every been solicited for advertising by Yelp.
+The factual issues are:
+Are bullets “a” – “c” above accurately reported? Bullet “d” if true doesn’t violate anything
+If so, how widespread is/was this behavior by Yelp salespeople?
+Is there any relationship between the decision not to advertise and: a) the appearance of subsequent negative reviews and/or b) the decision not to remove negative reviews? (Yelp would say “none” of course.)
+There are quite a few small business owners who are frustrated with the lack of control they feel over the process at Yelp as well as Yelp’s power in the marketplace. There are also business owners who don’t understand why some reviews on Yelp are removed and others are not.
+The allegations above must be proven with evidence. As I’ve said before I’m skeptical that there was any “quid pro quo” or pattern accordingly. But the depositions in this case — and there will have to be many — will start to establish whether there is any meat to these claims or whether it’s just frustration boiling over together with some opportunistic attorneys who may have solicited the action after reading the negative press coverage and wondering if there was a viable lawsuit in the making.
+____
+Update: Here’s another post from Yelp CEO Jeremy Stoppelman responding to some of the allegations and describing the company’s local ads sales process.
+Posted in Legal, Local Search, Small Business |
+4 Comments »
+Yelp CEO Responds to Lawsuit
+February 26, 2010
+Yelp CEO Jeremy Stoppelman has drafted a blog post that responds to the allegations in the class action lawsuit filed earlier in the week:
+There has been a long history of people accusing Yelp of monkeying around with reviews in exchange for money. The allegations are disappointing, not only because they are false, but because they ignore empirical evidence in favor of conspiracy theories.
+You can see for yourself: thousands of businesses that advertise on Yelp have both negative and positive reviews. Despite these counter–examples to the contrary (virtually no advertiser on Yelp has a perfect reputation), extensive media explorations that end inconclusively, and the absence of any actual evidence to support this theory, this unfortunate and untrue meme has taken on a life of its own.
+He goes on to deny there’s any merit to the suit . . .
+Separately Yelp has replaced Yahoo! on the Ask the Local Search Engines panel (also featuring Google and Microsoft) at next week’s SMX West show in Santa Clara. I’ll be moderating the panel and look forward to a very interesting and satisfying discussion.
+Posted in Legal, Local Search, Small Business, User-generated content |
+16 Comments »
+Yelp Hit with Class Action for ‘Extortion’
+February 24, 2010
+I’ve written up the details of the litigation over at Search Engine Land . . .
+Two class action law firms have filed suit in Los Angeles federal court claiming that Yelp has attempted to “extort” money from small businesses by offering to remove negative reviews in exchange for payment. The suit contends:
+Yelp runs an extortion scheme in which the company’s employees call businesses demanding monthly payments, in the guise of “advertising contracts,” in exchange for removing or modifying negative reviews appearing on the website.  The plaintiff, a veterinary hospital in Long Beach, California, asked that Yelp remove a false and defamatory review from the website.  In response, as set forth in the lawsuit, Yelp refused to take down the review.  Instead, the company’s sales representatives repeatedly contacted the hospital and demanded a roughly $300 per-month payment in exchange for hiding or removing the negative review.
+This kind of allegation has been out in the media in the past. Most notably in an article that appeared in weekly publication the East Bay Express almost exactly a year ago. The article was called Yelp and the Business of Extortion 2.0 . . .
+It was all I could do to keep myself from saying the action was total bullshit. You’ve got a frustrated plaintiff who may have had an anomalous experience or misunderstood what was going on and a couple of opportunistic attorneys seeking national PR.
+Evidence could prove me wrong but I just don’t believe it.
+Posted in Legal, Local Search, Small Business, User-generated content |
+27 Comments »
+Sensis Loses Copyright Control of Listings
+February 14, 2010
+Ever since Feist Publications, Inc. v. Rural Telephone Service Company, decided by the US Supreme Court in 1991, the law in the US has been that directory listings (construed as “facts”: name, address, phone) are not entitled to copyright protection. This decision opened the door for data aggregators and for competitive print and, later, online directories.
+Copyright protection for incumbent directories outside the US has been broader and more enduring as a general matter.
+However Telstra in Australia, the parent of directory publisher and online search provider Sensis, has now lost that protection apparently according to a recent court decision. The logic of the Australian court’s decision appears to be the same as the US Supreme Court’s in Feist.
+It’s not clear to me if there’s any further legal review or recourse available to Telstra. If not the Australian directory and local search market will shortly mirror the US. However top brands will likely still prevail; it’s just that the market will become increasingly competitive.
+While I agree with the core notion that facts are not subject to copyright, there’s unfairness in permitting third parties to “piggyback” on the publisher’s compilation of those “facts” by simply sending phone books to low-cost labor markets to have listings keyed in verbatim to an electronic database.
+As a related matter, the doctrine of “fair use” is probably being abused by “aggregators” online in the US. I know this is an “old” and apparently “settled” issue. But the case above made me think about it this morning again.
+There have been various cases around the question of fair use and its application to the Internet; however most of those (with a few specific exceptions) have ruled in favor of defendants for policy reasons. Courts have been reluctant to find against search engines and others for fear of “impeding the development of the Internet.” Indeed, as a practical matter, Google and other search engines’ continued existence is to a large degree predicated on liberal interpretation of the “fair use exception” to US copyright law.
+Here’s what the federal statute says about “fair use”:
+Section 107 contains a list of the various purposes for which the reproduction of a particular work may be considered fair, such as criticism, comment, news reporting, teaching, scholarship, and research. Section 107 also sets out four factors to be considered in determining whether or not a particular use is fair:
+The purpose and character of the use, including whether such use is of commercial nature or is for nonprofit educational purposes
+The nature of the copyrighted work
+The amount and substantiality of the portion used in relation to the copyrighted work as a whole
+The effect of the use upon the potential market for, or value of, the copyrighted work
+This four-pronged test means that each case must be decided on its own facts; there can be no hard and fast rules or “bright lines” in terms of what does or doesn’t qualify as fair use.
+On its face search engine and other types of data and Internet content indexing would, in my mind, fall outside fair use because the overall objective and existence of most of these companies is explicitly commercial. Lawyers for defendants might cite items 3 and 4 in arguing against that. The industry and search engine response has also been to argue any party may request removal from the database/index. As a practical matter, however, that has come to represent a kind of commercial suicide given the way that consumers now rely on search and content aggregators to find information online.
+It’s been more than a decade since I stopped practicing law and I have not followed the development of the case law in this area so take those qualifiers as caveats for all of this. However here’s my view on an early Sunday morning:
+Much of the indexing and presentation of content in search engines and elsewhere online (e.g., news aggregators that index headlines and portions of articles) almost certainly fails the original idea behind the “fair use exception” (technically an affirmative defense to a copyright infringement claim). These practices, however, have been allowed to continue by courts because to narrowly construe fair use would potentially “limit the development and growth of the Internet.” That’s probably true  — a more restrictive interpretation would limit the dissemination of information online — and it is beneficial for consumers to have access to vast amounts of information via search engines.
+But that liberal, policy driven interpretation of fair use has created categories of winners and losers on the Internet and in the media more generally.
+Posted in General online advertising, Internet Yellow Pages, Legal, Local Search, Traditional media |
+2 Comments »
+No More Censorship: Google’s China Turnaround
+January 12, 2010
+Google has said, after an attempted and potentially government sponsored hack into dissidents’ GMail accounts, that it will no longer comply with government censorship guidelines in China. Danny Sullivan has an extensive write-up at SEL.
+There’s also a Google Blog post explaining:
+In mid-December, we detected a highly sophisticated and targeted attack on our corporate infrastructure originating from China that resulted in the theft of intellectual property from Google. However, it soon became clear that what at first appeared to be solely a security incident–albeit a significant one–was something quite different.
+First, this attack was not just on Google. As part of our investigation we have discovered that at least twenty other large companies from a wide range of businesses–including the Internet, finance, technology, media and chemical sectors–have been similarly targeted. We are currently in the process of notifying those companies, and we are also working with the relevant U.S. authorities.
+Second, we have evidence to suggest that a primary goal of the attackers was accessing the Gmail accounts of Chinese human rights activists. Based on our investigation to date we believe their attack did not achieve that objective.
+Here’s the key paragraph:
+These attacks and the surveillance they have uncovered–combined with the attempts over the past year to further limit free speech on the web–have led us to conclude that we should review the feasibility of our business operations in China. We have decided we are no longer willing to continue censoring our results on Google.cn, and so over the next few weeks we will be discussing with the Chinese government the basis on which we could operate an unfiltered search engine within the law, if at all. We recognize that this may well mean having to shut down Google.cn, and potentially our offices in China.
+Bravo Google!
+This act of fortitude and integrity deserves a standing ovation. It also should be a model for other US companies doing business in China.
+Stepping back, it also changes the narrative about Google instantly.  It transforms Google from the “unstoppable, monopolistic juggernaut,” the “steamrolling giant” back into the “different kind of company” that people fell in love with years ago.
+Let me be clear: I don’t think that Google has done this for any other reasons than it’s stating. Should it “hold,” this is a move that people will cheer and celebrate for some time.
+Posted in China, General search, Legal |
+6 Comments »
+Google Patent Points toward Ads in Street View
+January 12, 2010
+I wrote about a range of ways that Google may be considering placing place ads on Maps and in Street View last week. Now RWW focuses on a patent application in which Google suggests it may replace billboards and movie poster images in Street View with new ads:
+In this patent, Google describes // how it plans to identify buildings, posters, signs and billboards in these images and give advertisers the ability to replace these images with more up-to-date ads. In addition, Google also seems to plan an advertising auction for unclaimed properties.
+In Google’s example, the software could identify the marquis and individual window posters on a theater property and replace them with new information. Through this, a theater could promote a new play in Street View, even if the actual Street View image is completely out of date.
+The RWW post also raises the legal question of what happens when a Clear Channel outdoor ad (e.g., for Subway) is replaced in Street View with one for McDonald’s? This is a question that hasn’t been addressed by courts. But if Google were ever to implement such a system it would likely result in a legal challenge.
+Posted in Legal, Local Search, Mapping |
+2 Comments »
+Craisglist v. eBay: What’s at Stake?
+December 7, 2009
+The Craigslist vs. eBay trial going on over the alleged dilution of eBay’s ownership interest in the site is happening this week. There’s a provocative BusinessWeek article that spins out various scenarios and potential outcomes:
+Craigslist wins, nothing changes
+eBay wins and 1) forces Craigslist to charge money for listings across categories making eBay’s Kijiji, eBay itself and other classifieds purveyors more competitive with CL and/or 2) paving the way for an eventual acquisition by eBay
+Here’s the most provocative nugget of the piece:
+From the time eBay purchased a 28.4% stake in 2004, the larger company has considered fuller ownership, court documents indicate. The idea was “to take out the free player,” says Jeffrey Lindsay, an analyst at Sanford C. Bernstein.
+Here’s what I wrote in July, 2007 when eBay’s Kijiji entered the US market:
+Having a board seat on a company you’re directly competing with would seem to be a direct violation of eBay’s fiduciary obligations to Craigslist. In one sense the ultimate expression of Kijiji’s success would be to take Craigslist’s business — which by the way I don’t think it will be able to do. Google Base didn’t kill Craigslist or eBay, Kijiji won’t kill Craigslist.
+My belief is that eBay bought a stake in Craigslist so it could “go to school” on the site. From the beginning I think eBay’s motives were to secure an acquisition or to glean enough “learnings” so that it could more effectively compete with CL. eBay, a “Web 1.0 company,” is under pressure to find new sources of growth, which are not coming from its core business; PayPal is one of those potential areas as an aside.
+I was never a securities lawyer and so I don’t know the nuances of the law here. It may be that CL acted improperly and in violation of eBay’s rights as a director and part owner of CL in diluting the auction site’s interest. However there are some major “unclean hands” on eBay’s part. I suspect we’ll see some sort of settlement before the trial concludes. But maybe not . . . in which case there could be appeals, etc.
+But unlike the BusinessWeek piece suggests I don’t think we’re going to see some major change in the competitive landscape or pricing of online classifieds regardless of the outcome.
+Posted in Classifieds, Legal |
+3 Comments »
+Google Scholar Gets a Law Degree
+November 18, 2009
+Google Scholar has introduced full-text legal opinions. According to the Google Blog:
+Starting today, we’re enabling people everywhere to find and read full text legal opinions from U.S. federal and state district, appellate and supreme courts using Google Scholar. You can find these opinions by searching for cases (like Planned Parenthood v. Casey), or by topics (like desegregation) or other queries that you are interested in.
+And now for the inflammatory headlines such as: Google Squeezes LexisNexis and Westlaw Hard. The aforementioned services are subscription-based and cost quite a bit for lawyers and law firms. Google Scholar is free by contrast. But no lawyer is going to rely exclusively on Google Scholar for legal research. It might even be borderline malpractice to do so.
+What Google has done is make legal opinions more accessible to educators and students, interested casual readers and maybe those trying to represent themselves in court or during a lawsuit (maybe).
+Most people are going to be bored to death reading legal opinions. They’re typically long, often poorly written and obscure or ambiguous in many respects. I should know I spent almost 10 years as an attorney and litigator. Still this is a great service to students and student of the law.
+Few people understand how the judiciary shapes public policy or affects politics and social issues, beyond a few high profile debates like abortion. The courts play a massive role in our daily lives but it’s generally all behind the scenes. This helps interested people gain easier access to legal information and court opinions.
+Posted in Culture, Legal |
+1 Comment »
+HelpHive Controversy: One Pissed Plumber
+November 5, 2009
+Seattle plumber Evan Conklin is very angry at HelpHive. He made his feelings plain in a comment on one of my posts about the company. Now the Seattle blog TechFlash posts that part of Conklin’s anger is about call tracking:
+That was until last Friday when Conklin stumbled upon HelpHive, a Seattle online directory of local service providers. Conklin couldn’t believe what he saw. His business listing on HelpHive included a phone number, but it wasn’t the one he’d used for the past 30 years. It was a new number generated and controlled by HelpHive, a proxy number of sorts that the Internet upstart had set up to track calls it was passing on to the plumber.
+Conklin was appalled with the idea that a third-party Web site could create a new phone number for his business, thinking that it was simply a way to get between him and his customer and to eventually start charging him for leads. “They have no right to do that,” said Conklin.”These guys are like vampires, sitting behind laptops siphoning off business.”
+The questions this dispute raises (again) are:
+Who owns SMB data? (facts are public in the US and cannot be copyrighted)
+Can companies swap in things like call tracking numbers (very widespread) or other similar lead capture devices without the consent of the business itself?
+We’ll see if Conklin goes so far as to file a suit against HelpHive. If he were to, does anyone know of cases in this area that may have resolved the question of whether call-tracking or similar devices can be used without an SMB’s prior consent?
+Posted in Call Tracking, Data quality, Internet Yellow Pages, Legal, Local Search, Small Business |
+36 Comments »
+Local.com’s Patents Reviewed
+October 11, 2009
+This past week Local.com announced that it was awarded a patent for Enhanced Directory Assistance, tied to advertising services. The press release summarizes the patent this way:
+[T]he patent describes a system and method
+for maintaining a dynamic index for a telephone directory assistance
+system. The system enables advertisers to dynamically control whether a
+listing – and/or one or more of a keyword index, a localization index,
+and a position control index – associated with the advertiser is
+included in an EDA request, and in what position the associated listing
+is returned in response to the request.
+This is associated with another ad-supported directory assistance-related patent previously issued in 2007 to Local.com (“methods and system for enhanced directory assistance using wireless
+messaging protocols”).
+Despite some bullish predictions, the ad-supported directory assistance model has failed to live up to its promise. However the traditional DA business is in decline and carriers are seeking to squeeze more revenues from it. Accordingly there may be another round of effort to monetize conventional DA that may fall within the orbit of these Local.com patents.
+Somewhat ironically carriers initially set up ad-supported competitors to their own DA businesses (i.e., Verizon’s 800-THE-INFO, AT&T’s 800-Yellowpages) but they have largely failed to promote them — due to their own corporate ambivalence about “cannibalizing” traditional DA. (See also this discussion of the impact of smartphones on 411 usage.)
+In addition to the above, Local.com received a much broader patent regarding local search (“indexing web pages of a web site for geographical
+searchine based on user location”) but that “art” appears to be on a collision course with several others making similar, sweeping claims. At some point there will be litigation, but for now Local.com is building its portfolio and could, if successful, develop a healthy IP licensing business over time. The company is already licensing its IP to a number of companies. There are many “ifs” between here and there of course.
+Posted in Directory assistance, Legal, Local Search, Mobile |
+Comments Off on Local.com’s Patents Reviewed
+More Bad News for Behavioral Targeting
+September 30, 2009
+I’ve argued many times now, there’s momentum toward some sort of regulation of behavioral targeting. And now in my best “Yoda” voice: regulation is coming, prepared must you be. More support for regulation comes in the form of a new survey reported in the NY Times:
+About two-thirds of Americans object to online tracking by advertisers — and that number rises once they learn the different ways marketers are following their online movements, according to a new survey from professors at the University of Pennsylvania and the University of California, Berkeley.
+The professors say they believe the study, scheduled for release on Wednesday, is the first independent, nationally representative telephone survey on behavioral advertising.
+Here’s what the report itself says:
+Contrary to what many marketers claim, most adult Americans (66%) do not want marketers to tailor advertisements to their interests. Moreover, when Americans are informed of three common ways that marketers gather data about people in order to tailor ads, even higher percentages—between 73% and 86%–say they would not want such advertising.
+Even when they are told that the act of following them on websites will take place anonymously, Americans’ aversion to it remains: 68% “definitely” would not allow it, and 19% would “probably” not allow it.
+A majority of Americans also does not want discounts or news fashioned specifically for them, though the percentages are smaller than the proportion rejecting ads.
+69% of American adults feel there should be a law that gives people the right to know everything that a website knows about them.
+92% agree there should be a law that requires “websites and advertising companies to delete all stored information about an individual, if requested to do so.”
+63% believe advertisers should be required by law to immediately delete information about their Internet activity.
+Americans mistakenly believe that current government laws restrict companies from selling wide-ranging data about them. When asked true-false questions about companies’ rights to share and sell information about their activities online and off, respondents on average answer only 1.5 of 5 online laws and 1.7 of the 4 offline laws correctly because they falsely assume government regulations prohibit the sale of data.
+Signaling frustration over privacy issues, Americans are inclined toward strict punishment of information offenders. 70% suggest that a company should be fined more than the maximum amount suggested ($2,500) “if a company purchases or uses someone’s information illegally.”
+When asked to choose what, if anything should be a company’s single punishment beyond fines if it “uses a person’s information illegally,” 38% of Americans answer that the company should “fund efforts to help people protect privacy.” But over half of Americans adults are far tougher: 18% choose that the company should “be put out of business” and 35% select that “executives who are responsible should face jail time.”
+People are saying very explicitly that they don’t want targeted (read: relevant) ads. Also, look that the punitive attitudes in the bullets at the end.
+There’s a clear difference between attitudes and behavior. People don’t want to be tracked but the do respond to targeted ads and deal offers, etc.
+This survey will be taken as conclusive proof of the need for regulation — conclusive. The only question will be about the burdensomeness, the disclosure requirements, etc. Search advertising will be largely unaffected (although data retention will be an issue for search engines). It’s display that will suffer as a result.
+Who disagrees with me?
+___
+Thanks Kevin Lee for pointing me to the IAB self-regulation statement. But as George Bush the first might have said, “That’s not goin’ ta do it.”
+Posted in Culture, Demographics, Legal, Privacy |
+19 Comments »
+Google Books: DOJ Likes Concept, Not Terms
+September 19, 2009
+The US Department of Justice filed its statement and reaction to the Google Books Search Settlement and came down somewhere in the middle. The US supports the concepts behind the settlement but raises a bunch of concerns and issues surrounding the specifics (emphasis added):
+The United States strongly supports a vibrant marketplace for the electronic distribution of copyrighted works, including in-print, out-of-print, and so-called “orphan” works.
+The Proposed Settlement has the potential to breathe life into millions of works that are now effectively off limits to the public.
+By allowing users to search the text of millions of books at no cost, the Proposed Settlement would open the door to new research opportunities.
+Users with print disabilities would also benefit from the accessibility elements of the Proposed Settlement, and, if the Proposed Settlement were approved, full text access to tens of millions of books would be provided through institutional subscriptions.
+Finally, the creation of an independent, transparently-operated Book Rights Registry (the “Registry”) that would serve to clarify the copyright status and copyright ownership of out-of-print works would be a welcome development.
+Nonetheless, the breadth of the Proposed Settlement – especially the forward-looking business arrangements it seeks to create – raises significant legal concerns.  As a threshold matter, the central difficulty that the Proposed Settlement seeks to overcome – the inaccessibility of many works due to the lack of clarity about copyright ownership and copyright status – is a matter of public, not merely private, concern.  A global disposition of the rights to millions of copyrighted works is typically the kind of policy change implemented through legislation, not through a private judicial settlement.  If such a significant (and potentially beneficial) policy change is to be made through the mechanism of a class action settlement (as opposed to legislation), the United States respectfully submits that this Court should undertake a particularly searching analysis to ensure that the requirements of Federal Rule of Civil Procedure 23 (“Rule 23”) are met and that the settlement is consistent with copyright law and antitrust law.  As presently drafted, the Proposed Settlement does not meet the legal standards this Court must apply.
+The papers spend a bunch of time discussing how the proposed settlement fails to comply with Federal Rule of Civil Procedure 23, a set of procedural guidelines that govern class actions. In terms of the anti-trust question and whether the settlement potentially violates the law (as some of the opponents allege), the DOJ says this (emphasis added):
+The Department of Justice has opened an investigation into the competitive impact of the Proposed Settlement.  That investigation is not yet complete, and future modifications of the Proposed Settlement in response to comments filed in the instant proceeding may bear on the conclusions of that investigation.  For these reasons, the United States cannot now state with certainty whether the Proposed Settlement violates the antitrust laws in any respect.  Nevertheless, the Department’s views on certain core issues are sufficiently well developed that articulating them now may be beneficial to the Court in its consideration of the Proposed Settlement and to the parties in their continuing negotiations regarding possible modifications.
+In the view of the Department, the Proposed Settlement raises two serious issues.  First, through collective action, the Proposed Settlement appears to give book publishers the power to restrict price competition.  Second, as a result of the Proposed Settlement, other digital distributors may be effectively precluded from competing with Google in the sale of digital library products and other derivative products to come. These problems are evident on the face of the Proposed Settlement and the concerns they raise have not to this point been convincingly addressed by the parties.  The parties have indicated, however, a willingness to consider modifications that would address at least some of the concerns set forth below.
+In conclusion the DOJ says:
+This Court should reject the Proposed Settlement in its current form and encourage the parties to continue negotiations to modify it so as to comply with Rule 23 and the copyright and antitrust laws.
+Bottom line: The DOJ is probably doing the right thing here, supporting the concept of what Google is doing (as inevitable) but identifying the terms that require modification, along the lines of the paragraph immediately above. There may be some additional class notice requirements to comply with FRCP Rule 23.
+Gary Price has rounded up the coverage here. The NY Times is here. Danny Sullivan also pours through the filing and has some thoughtful comments. More at Techmeme.
+___
+Related: NY Times discusses the parties’ ongoing negotiations to address all the concerns raised in the filings. October 7 is the hearing date for approval of the settlement. But as the article points out, the deadline is likely to be extended.
+Posted in Legal, Regulatory issues |
+Comments Off on Google Books: DOJ Likes Concept, Not Terms
+FTC-Sears Deal Points toward BT Regulation
+September 12, 2009
+The US FTC has approved a settlement with Sears regarding online tracking that requires it to destroy data collected from consumers, who were paid $10 to download software that monitored their online behavior. According to MediaPost, the Sears program sent “pop-up ads to 15 of every 100 visitors that asked for their email addresses. Respondents were then invited by email to download software that would track ‘online browsing,’ and promised $10 if they kept the software for at least one month.”
+The settlement between the FTC and Sears was originally announced in June by the government agency. Here’s the FTC’s summary of the case and the remedy:
+The FTC charges that the software would also monitor consumers’ online secure sessions – including sessions on third parties’ Web sites – and collect information transmitted in those sessions, such as the contents of shopping carts, online bank statements, drug prescription records, video rental records, library borrowing histories, and the sender, recipient, subject, and size for web-based e-mails. The software would also track some computer activities that were not related to the Internet. The proposed settlement calls for Sears to stop collecting data from the consumers who downloaded the software and to destroy all data it had previously collected.
+According to the FTC’s complaint, Sears invited certain consumers visiting the sears.com and kmart.com Web sites to become members of the “My SHC Community.” Sears solicited these consumers to “participate in exciting, engaging, and on-going interactions – always on your terms and always by your choice.” Sears paid consumers $10 to participate. As part of this process, Sears asked consumers to download “research” software that it said would confidentially track their “online browsing.” Only in a lengthy user license agreement, available to consumers at the end of a multi-step registration process, did Sears disclose the full extent of the information the software tracked, according to the complaint. The complaint charges that Sears’ failure to adequately disclose the scope of the tracking software’s data collection was deceptive and violates the FTC Act.
+Under the proposed settlement, in addition to destroying information previously collected, if Sears advertises or disseminates any tracking software in the future, it must clearly and prominently disclose the types of data the software will monitor, record, or transmit. This disclosure must be made prior to installation and separate from any user license agreement. Sears must also disclose whether any of the data will be used by a third party.
+In this case we already are seeing the future of online data collection going forward. Here are the most interesting and relevant bits from the excerpt above:
+Only in a lengthy user license agreement, available to consumers at the end of a multi-step registration process, did Sears disclose the full extent of the information the software tracked, according to the complaint. The complaint charges that Sears’ failure to adequately disclose the scope of the tracking software’s data collection was deceptive and violates the FTC Act.
+Under the proposed settlement, in addition to destroying information previously collected, if Sears advertises or disseminates any tracking software in the future, it must clearly and prominently disclose the types of data the software will monitor, record, or transmit. This disclosure must be made prior to installation and separate from any user license agreement. Sears must also disclose whether any of the data will be used by a third party.
+(Emphasis added.)
+I think these provisions point the way toward future FTC rules that will govern all of online advertising and behavioral targeting in particular. Here’s what I think the regulation will look like:
+Prominent disclosure requirements (what is being tracked and by whom)
+Prominent ability to opt-out of tracking
+Data retention (disclosure that tells people how long their information will be stored)
+If I’m correct this could throw a big monkey wrench in the works for BT because if people see prominent disclosures that they’re being tracked they’re likely opt-out, wouldn’t you? The “benefits” of behavioral targeting are highly abstract to consumers, though very real to marketers. However Google, with its “interest based ads,” may be something of a model for the future. Here’s Google’s discussion of the privacy controls in the program:
+Transparency – We already clearly label most of the ads provided by Google on the AdSense partner network and on YouTube. You can click on the labels to get more information about how we serve ads, and the information we use to show you ads. This year we will expand the range of ad formats and publishers that display labels that provide a way to learn more and make choices about Google’s ad serving.
+Choice – We have built a tool called Ads Preferences Manager, which lets you view, delete, or add interest categories associated with your browser so that you can receive ads that are more interesting to you.
+Control – You can always opt out of the advertising cookie for the AdSense partner network here. To make sure that your opt-out decision is respected (and isn’t deleted if you clear the cookies from your browser), we have designed a plug-in for your browser that maintains your opt-out choice.
+The Ad Preferences Manager is a kind of dashboard for consumers to convey their “interests” and opt-out:
+Make no mistake, regulation and enhanced disclosure requirements are coming. Marketers and publishers should be preparing for this inevitability.
+___
+Related (from AdAge): The Ad-Tracking Debate: Where Should Disclosure Live?:
+A more perfect (and not much harder) solution would put links to disclosure both in the ads and on the page or site. As proposed by industry groups, there should be a recurring icon in or around ads that consumers can come to associate with tracking and learning about why any particular targeted ad was served to them.
+But if consumers want to look into their privacy options on that site more generally, a link on every page should take them to one place with all of the privacy information they need.
+Posted in General online advertising, Legal, Privacy, Regulatory issues |
+1 Comment »
+« Older Entries
+Search:
+Pages
+About Greg Sterling
+Get All My Posts on Twitter
+Internet2Go
+Click Icon to Subscribe
+An error has occurred; the feed is probably down. Try again later.
+Recent Comments
+Yahoos Say Microsoft… on More Random Thoughts on…DoublePositve = 1 Bi… on Is Twitter Worth $1 Billi…And So It Begins… Go… on Google Mortgage Search?Local 1.0 | Your Sus… on The End of SMB WebsitesThis Week’s Ma… on ServiceMagic’s Reviews Q…
+Categories
+Acquisitions
+Ad Networks
+Australia
+Blog related
+Brand and branding
+broadband
+Call Tracking
+Canada
+China
+Classifieds
+Click fraud
+Conferences
+Coupons
+Culture
+Data quality
+Demographics
+Directory assistance
+Domains
+E-commerce
+Earnings
+Email
+Enterprise
+Europe
+Events
+Forecasts
+General online advertising
+General search
+Guest columns
+Hardware
+IM
+Internet Yellow Pages
+Legal
+Local Search
+Location tech
+Mapping
+Media fragmentation
+Metaverses
+Mobile
+Newspapers
+Online shopping
+People search
+Personalization
+Politics
+PPCall
+PPClick
+Privacy
+Public relations
+Radio
+Regulatory issues
+Reputation management
+Revenues
+Sales channel issues
+Search market share
+Security
+SEO
+Shopping
+Silly Fun
+Small Business
+Social networks
+Social search/community
+Toolbars
+Trademark
+Traditional media
+Traffic issues
+Uncategorized
+User-generated content
+Venture capital
+Verticals
+Video
+VoIP
+Blogroll
+Ask Blog
+Comparison Engines
+David Dalka
+Future of Real Estate Marketing
+GigaOm
+Internet2Go
+John Battelle’s Searchblog
+Local Search Source
+Local Visibility
+LocalSEOGuide
+Lost Remote Video
+Marchex LocalPoint
+Mark Potts
+MarketingShift
+MarketingVOX
+Matt McGee: Hyperlocal Blogger
+MSN Search Blog
+Official Google Blog
+Paid Content
+Pete Blackshaw’s CGM Blog
+Poynter E-Media Blog
+Praized
+Read/Write Web
+Reprise Media’s SearchViews
+ResourceShelf
+Search Engine Journal
+Search Engine Land
+Search Engine Watch
+Seeing Forests
+SeekingAlpha
+Sonia Carreno
+State of Local Blog
+The Kelsey Group
+The Local Onliner
+Traffick
+Urban Mapping Blog
+VentureBeat
+Yahoo! Buzz Index
+Yahoo! Search Blog
+Blog at WordPress.com.
+Entries (RSS) and Comments (RSS).
+Post to
+Cancel
+Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.
+To find out more, including how to control cookies, see here:
+Cookie Policy

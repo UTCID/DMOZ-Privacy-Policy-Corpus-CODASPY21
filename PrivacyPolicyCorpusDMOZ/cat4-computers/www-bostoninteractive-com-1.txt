@@ -1,0 +1,70 @@
+http://www.bostoninteractive.com/blog/what-you-need-know-about-california-consumer-privacy-act-ccpa
+Skip to main content
+What you Need to Know About the California Consumer Privacy Act (CCPA)
+View More Articles
+August 11, 2020
+Activation
+Author
+Casey Cardon
+The California Consumer Privacy Act (CCPA), inspired by the European GDPR, is the newest online privacy legislation to go into effect in the US. This new legislation has far reaching implications and will likely set the tone for up and coming consumer privacy laws and how advertisers adapt to them. The CCPA has been a long time in the works, yet there is still some ambiguity around its application and the impact it will have on advertisers. For many advertisers, since they are not based in California, they might assume they are not affected by this act, but that may not be the case. With strict fines and vague restrictions, as a business you could be at risk and not even know it. We have compiled some tips to help you make adjustments to your data collection and advertising strategy and better comply with the CCPA. Our deep dive into this new legislation will also help you decide if this is something that you need to adjust for sooner rather than later.
+What is the CCPA?
+It is a state-level privacy act that came about as a result of the GDPR that allows users to opt-out of having businesses track and use their data and information from cookies. Currently the CCPA is only applicable to California users at the moment, but the expectation is more states will adopt a similar privacy measure sooner than later. The basic rules of the CCPA are:
+o   Information being collected must be transparent about what they collect, the purpose, and who else it is shared with
+o   If requested by the user, the business must delete the data
+o   Consumers can opt-out of having their data sold
+o   CA authorities can fine for violations from $2500-7500 per instance
+o   Businesses are allowed to offer incentives for users allowing to collect their data
+Who does it apply to?
+The CCPA applies to any business matching these criteria, with site viewers in California in the past year:
+1) Businesses that have an annual gross revenue of more than $25 million USD
+2) Businesses that annually buy, sell, or share for “commercial purposes”, the personal information of 50,000 or more California consumers, households, or devices.
+3) Businesses that derive 50% or more of its annual revenue from selling California consumers personal information.
+Do I have to do anything if my business is not in California?
+Yes, the CCPA applies to all businesses that target residents of California, regardless of where the business is located. If your business markets to California residents on any advertising platform you must be in compliance or you could be opening your business to potential liability.
+The full impact will be felt more by businesses who have a consumer base that is skewed predominantly toward California based residents. However, many advertisers also agree that the CCPA will not be a one-off situation, it is more than likely that other states will jump in and follow suit on a similar act in the future. In order to better prepare your business for future regulations it is important to begin to understand and plan how to adapt to a similar scenario.
+Who does this affect most and how have advertising platforms responded?
+Any business that markets on advertising platforms that match the CCPA criteria listed above and currently advertises in California is directly affected by this. What this means is that if you are advertising to California residents through large platforms like Facebook or Google this legislation applies to you.
+As of August, all of the major advertising platforms have released a statement on the CCPA.  The two largest advertising platforms, Google and Facebook have both established themselves as service providers, which means that the responsibility to comply with the CCPA lies with the business.
+You may have heard Facebook being mentioned in the news about the CCPA more than other platforms. While Facebook in the broad scheme of things didn’t make any significant changes to the way that it collects and shares data, they did create a Limited Date Use (LDU) flag to be used on their tracking pixel. This is very different from the approaches being taken by other advertising platforms.
+The LDU flag limits how Facebook uses partner data by directing Facebook to act as a service provider by default when processing info from California users. The key benefit of the LDU flag as a business is that you are not at risk of breaching the CCPA when advertising through Facebook if you have the LDU enabled. The LDU flag was enabled automatically on July 1st, with a transition phase that can be extended from August 1st until October 20th, 2020. While extending the transition phase does remove legal liability for the time being, some businesses advertising on Facebook are finding a decrease in performance from the LDU flag for July, especially businesses who have a majority of their core audiences in California.
+How can I continue advertising to my customers with the CCPA?
+If your business does not meet any of the criteria in the article then you are in luck and do not have to make any of the following adjustments – that is until similar legislation is passed in a state, you do conduct business in. If you are one of the hundreds of thousands of businesses that do advertise to users in California, we have identified some ways to continue advertising effectively with this recent change.
+For advertisers on Facebook there are several immediate workarounds. The safest workaround is extending the transition phase of the LDU flag on your tracking pixel. This will allow you until October 20th to make the necessary adjustments to your website workflows and tracking techniques. This option is recommended for businesses who do not have an abundantly large segment of California prospects in their campaigns. If a large aspect of your marketing strategy is remarketing, it is important to know that extending the transition phase of the LDU flag will exclude all California users from any remarketing lists that you currently are using in your campaigns.
+The second workaround is more pertinent for businesses seeing more significant decreases in campaign performance in July. If a significant segment of your audience is in California using the LDU flag is likely not a feasible option. For these companies the best possible workaround is to exclude California in location targeting from your campaigns for the time being, until you have created a permanent workflow. Once you have excluded California from location targeting you are good to turn off the LDU flag. Companies using this method on Facebook saw an increase in conversion rates and a decrease in cost per action in their overall July advertising performance.
+For businesses that market to users in California on platforms other than Facebook, you must make sure that you are in compliance with the CCPA come August 1st. There are a variety of different ways that businesses have become CCPA compliant so far, but almost all of them consist of the same few steps. If you have any landing pages that are potentially visible to California users, you must have an option for users to opt-out of having their data collected by your business. This is being referred to by some website developers as a “Don’t Sell My Data” call to action. For an example of what the “Don’t Sell My Data” CTA could look like, check out the clothing company Stio’s page on the CCPA.
+There are several ways to set up an opt out that complies with the CCPA, but it is most commonly a form that a user can get to through a visible call to action on the landing page.  Once you have the form created, the next step is to create a HTML tag in Google Tag Manager to set a cookie that is unique for users that have submitted the opt-out form. After creating this tag, a variable in Google Tag Manager must be built to grab this specific cookie. What you do next depends on the data that you have been using for users that did not choose to opt-out. You will have to update your variables for users that have opted out, making sure that if someone did opt-out, you are not collecting their data. Once you have updated those variables and created a workflow in the HTML for users who do opt-out, the last step is adding it to each tag for each advertising platform that you currently are using on your site. Once this workflow has been implemented in your tracking tags HTML you are finally CCPA compliant!
+Understanding the CCPA
+We hope that our deep dive into the CCPA helped you become familiar with the legislation, allowed you to determine if you need to take action, and gave you some helpful tips to do so. The Boston Digital team is here to help you stay up to date on the latest legislation and help you orient your digital marketing for not only compliance, but growth and success.
+Website RFP Template
+Download now
+Insights
+7 Min Read
+How Do You Stack Up? Competitor Analysis
+December 08, 2020
+Read More
+Insights
+5 Min Read
+Survey Says Telehealth is Here to Stay
+October 27, 2020
+Read More
+Insights
+4 Min Read
+Demand Generation vs. Lead Generation
+October 05, 2020
+Read More
+Insights
+6 Min Read
+How to Simplify Your MarTech Stack
+September 23, 2020
+Read More
+Insights
+4 Min Read
+Winning in the Digital Normal. Part 4: Activation for Impulse
+September 16, 2020
+Read More
+Insights
+6 Min Read
+What to Expect When Digital Comes to Campus
+August 24, 2020
+Read More
+Let's trade

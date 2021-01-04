@@ -1,0 +1,31 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch16s05.html#websec2-CHP-16-SECT-5.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Using PHP SecurelyPHP is a widely used and loved server-side scripting language
+for building web pages. Originally called Personal Home Page, and then
+PHP3, PHP now stands for PHP Hypertext Preprocessor. The web site for
+PHP development is http://www.php.org/
+. PHP is an official project of The Apache
+Foundation.[176]Introduction to PHPAlthough originally developed under Unix with the Apache web
+server, PHP now runs on Unix and Windows and with both Apache and
+Microsoft’s IIS. Some of the key advantages of PHP include:It is easy to use and very fast. Even though PHP scripts
+are interpreted at runtime, the interpreter is built into the
+web server. As a result, PHP pages can run significantly faster
+(more than 10 times faster is not uncommon) than the equivalent
+Perl/CGI web pages.[177]Unlike CGI scripts, PHP pages do not need to be made
+“executable” or placed in special directories to run: if PHP is
+enabled in the web server, all you need to do is to give an HTML
+file a .php or .php3 extension and the PHP system
+will automatically run.The PHP interpreter shows errors directly on the web page,
+not in a log file.PHP can cache connections to the MySQL database system. As
+a result, PHP pages that are fed from information in a database
+can display dramatically faster than database-driven pages using
+other systems.PHP is extremely powerful. Scripts written in PHP can open
+files, open network connections, and execute other
+programs.All of these factors combine to make PHP very popular. ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

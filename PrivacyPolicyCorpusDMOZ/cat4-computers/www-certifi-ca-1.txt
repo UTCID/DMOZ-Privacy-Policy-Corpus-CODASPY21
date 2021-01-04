@@ -1,0 +1,53 @@
+http://www.certifi.ca/_privacy.html
+Certifi.ca Secure OpenID provider
+Home
+Get a Cert
+Privacy policy
+This privacy policy outlines our commitment to certifi.ca users.
+Profile information added by you is private. We will not
+sell or distribute your private information without your knowledge and
+consent.
+Profile information is shared with sites you trust.
+certifi.ca supports the Simple
+Registration Extension for OpenID. When logging in to a site for the first
+time, you can decide which private information to share with the
+your OpenID.
+Updated information is passed to trusted sites each time you
+log in. If you update your profile in certifi.ca, that updated
+information will be passed to your trusted sites each time you log
+in.
+Certifi.ca cannot control your private information after you've
+shared it with a trusted site. Once you've shared private info
+with another site, it's up to that other site to protect it.
+You can change your trust relationships at any time. If you
+choose not to trust another site, or to change what information you
+want to share, you can delete that trust relationship. The next time
+you log in to the site, you will be asked to set a new trust level.
+Your OpenID page is public. If you have an OpenID account
+with certifi.ca, the page at the endpoint of your OpenID URL is
+public. Other people and programs can read that page and any
+information on it, including your username.
+You control what information appears on your OpenID page.
+We will eventually support sharing hCard information on
+OpenID pages. Except for your username, which is shown by default, you
+will control what private information appears on your OpenID page.
+Administrators may contact you for problems with your
+account. If you have registered an email for use with certifi.ca,
+administrators may contact you by email if there are problems with
+your account.
+Administrators will use digitally-signed email.
+Adminstrators will use S/MIME digitally-signed email when contacting
+you. If you are contacted by someone not signing their email, they
+do not represent certifi.ca.
+Private information may be published in aggregate for
+analysis. We may publish publicly, or share privately, information
+about numbers and percentages of users with certain profile
+characteristics. Example: "14% of certifi.ca members come from
+the UK".
+We will comply with court orders to share your private
+data. When compelled by applicable courts, we will share the
+registration data requested. Unless prevented by law, we will try to notify
+you of this activity.
+Privacy policy
+Certifi.ca
+admin@certifi.ca

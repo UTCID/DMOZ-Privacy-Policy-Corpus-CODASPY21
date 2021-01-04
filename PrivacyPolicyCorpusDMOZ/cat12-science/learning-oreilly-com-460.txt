@@ -1,0 +1,31 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch16s02.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Rules to Code By
+Most security-related bugs in computer programs are
+simply that: bugs. For whatever reason, these faults keep your program
+from operating properly.General Principles for Writing Secure ScriptsOver the years, we have developed a list of general
+principles by which to code. What follows is an excerpt from that
+list, edited for its particular relevance to CGI and API
+programs:Carefully design the program before you start. Be certain
+that you understand what you are trying to build. Carefully
+consider the environment in which it will run, the input and
+output behavior, files used, arguments recognized, signals
+caught, and other aspects of behavior. List all of the errors
+that might occur, and how your program will deal with them.
+Write a code specification in English (or your native language)
+before writing the code in the computer language of your
+choice.Show the specification to another person. Before you start
+writing code, show the specification that you have written to
+another programmer. Make sure they can understand the
+specification and that they think it will work. If you can’t
+convince another programmer that your paper design will work,
+you should go back to the design phase and make your
+specification clearer. The time you spend now will be repaid
+many times over in the future.Write and test small sections at a time. As you start to write your program, start small and test frequently. When you test your sections, test them with both expected data and ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

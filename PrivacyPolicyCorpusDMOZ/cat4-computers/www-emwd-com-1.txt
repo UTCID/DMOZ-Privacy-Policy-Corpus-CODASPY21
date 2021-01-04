@@ -1,0 +1,141 @@
+https://www.emwd.com/terms-of-service/
+EMWD, Inc. with Headquarters at Mount Airy, NC 27030 hereinafter “EMWD” agrees to provide services to the Subscriber, subject to the following Terms of Service
+1. Term & Jurisdiction
+EMWD’s Terms of Service (“ToS”) describe the proper kinds of conduct and prohibited uses of EMWD’s hosting services (the “Services”). This ToS is not exhaustive and EMWD reserves the right to modify this ToS at any time, effective upon posting of the modified ToS at www.emwd.com. By registering for and using the Services, and thereby accepting the terms and conditions of this ToS, you agree to abide by these conditions as modified from time to time. Any violation of the ToS may result in the immediate suspension or termination of your account or such other action as EMWD deems appropriate.
+3. Prohibited Content
+IRC, bots or clients on shared servers
+Pornographic content
+Illegal content
+Copyright infringement, trademark infringement
+Warez, cracks, software serial numbers
+Content that is deemed by EMWD, in its sole discretion, to be harmful to EMWD.
+Material that exploits children under 18 years of age
+Scripts or systems that cause server performance issues.
+Collection of personal information for illegal purposes.
+Collection of personal information without users permission.
+4. Abuse of EMWD’s personnel
+EMWD operates its day to day communications with its clients, with courtesy, respect, and professionalism. EMWD expects the same type of communication to be returned to all employees, officers, and owner(s) of EMWD. EMWD will not tolerate any abusive, vulgar, inflammatory, profane, and insulting communications to its employees, officers, and owner(s) via email, telephone, fax, and postal mail. Such actions will result in the termination of the business relationship between client and EMWD. This termination will result in the closing down of client’s account within 30 days and the forfeiture of any prepaid funds.
+6a. Prohibited Mailing Activities
+Unsolicited bulk or commercial messages (“spam”). This includes, but is not limited to, bulk mailing of commercial advertising, informational announcements, charity requests, petitions for signatures, and political tracts. Such messages may only be sent to those who have explicitly requested it from your domain.
+Forging, altering or removing electronic mail headers is prohibited. Any domain sending stealth spam will be terminated without warning and without refund.
+Sending numerous copies of the same or substantially similar message with the intent to disrupt a server or account (“mail bombing”).
+Mail may not be used to harass or intimidate others. Harassment, whether through language, frequency of messages, or size of messages, is prohibited. Sending a single unwelcome message may be considered harassment. If a recipient asks to stop receiving e-mail, you must not send that person any further messages.
+Providing spamware (software used to send bulk email or software used to harvest email addresses) or links to sites providing spamware is strictly prohibited and subject to immediate removal or account cancellation.
+Running Unconfirmed Mailing Lists. Subscribing email addresses to any mailing list without the express and verifiable permission of the email address owner is prohibited. All mailing lists run by EMWD customers must be Closed-loop (“Confirmed Opt-in”). The subscription confirmation message received from each address owner must be kept on file for the duration of the existence of the mailing list. Purchasing lists of email addresses from 3rd parties for mailing to or from any EMWD.-hosted domain, or referencing any EMWD account, is prohibited.
+Ineffective Bounce Policy. Mailman comes with a bounce processor. Its sole purpose is to remove invalid email addresses from a list. Using your list to send your lists posts to a large amount of invalid email addresses will have an adverse impact on our sending IP address reputation. Therefore, we require all mailman lists to use a bounce policy that will keep their membership roster current. EMWD reserves the right to adjust a list’s bounce policy so that it is effective at removing invalid email addresses. Anyone found using an ineffective bounce policy will be warned once. A repeat offense will result in immediate account suspension.
+Note: If you use the services of another provider (including but not limited to the use of address lists obtained from a third party vendor or provider) to promote a web site hosted by or through EMWD (spamvertising), then the provisions of the above Policy shall apply as if the spam were sent through our servers.
+7. Running Outdated Scripts
+Many of our clients utilizes 3rd party scripts such as WordPress, Drupal and many others on their hosting accounts. Due to the inherit security risks of running 3rd party scripts, it is essential that our clients run the latest version of such scripts. This applies to plugins, modules, components, add-ons, etc.of a particular script/application. Running outdated 3rd party scripts poses a security risk to our server and network environments. EVERY malicious file we have found on our server has been placed there by an outdated and insecure 3rd party script/application. Therefore it is against this AUP to run outdated 3rd party scripts on any of our servers and we reserve the right to suspend an account, remove the outdated script and any other actions that we deemed essential in maintaining the integrity of our server and network environments. We will also make an effort at notifying a client of any actions taken on and/or discovery of the use of an outdated script that is found on our servers.
+8b. In-store Credit Balances
+In the event that your client area account contains an in-store credit balance, you may apply any available credit balance to any future EMWD offered service. In the event that your client area account contains an in-store credit balance, you hereby authorize EMWD to apply any available credit balance to any outstanding administrative fees, chargebacks or other fees related to your service/account. In the event that your default Payment Method fails for an automated billing in connection with the processing of any Service renewals, EMWD may utilize any available in-store credit balance if there are enough funds to cover the entire transaction. Regardless of the amount of in-store credit available in your account, EMWD is not responsible for the loss of products resulting from an inability to collect funds from your default Payment Methods or the in-store credit. In-store credits will be applied based on the currency selected in the shopping cart at the time of purchase (or renewal). If you have more than one in-store credit, then the credits will be processed according to the age of the credit, with the oldest in-store credit being applied first. If additional funds are required to complete the purchase or renewal, credits held in a non-selected currency will be converted using EMWD’s daily exchange rate based on the age of the credit (oldest to newest) until (i) enough funds are allocated to complete the transaction, or (ii) there is no available balance left in your account. You understand and agree that at the time of conversion, EMWD may also impose an additional administrative fee to compensate for the risks and costs associated with providing currency conversion services.
+You can verify your available in-store credit balance at any time by logging into your client area account. You acknowledge that in-store credit balances are non-transferable, may only be used in the client area account in which they were acquired and may expire. Complimentary in-store credits will expire two years after issuance. In the event that EMWD terminates your service/account or your client area account becomes inactive, you acknowledge and agree that any remaining available in-store credit balance will be forfeited.
+You also acknowledge that funds available in your in-store credit balance will be held by EMWD and will not accrue or pay interest for your behalf. To the extent any interest may accrue, you understand and agree that EMWD shall be entitled to receive and keep any such amounts to cover costs associated with supporting the in-store credit balance functionality.
+11. Password Policy
+It is against EMWD policy to use easy to guess passwords on any of of our services, including but not limited to: email, mailing list, mysql, cpanel, ftp, ssh, and password protection on directories. All passwords must utilize a random string of upper/lower case letters, numbers, and symbols and the password should be a minimum of 7 characters in length. No password should ever contain a dictionary word, date, or name.
+If a service is compromised due to a client’s password being cracked, then that particular service will be either suspended or removed entirely. EMWD reserves the right to terminate the client’s account if a history of such security compromises related to the use of weak passwords are discovered.
+13. Disclaimer
+EMWD WILL NOT BE RESPONSIBLE FOR ANY DAMAGES YOUR BUSINESS MAY SUFFER. EMWD MAKES NO WARRANTIES OF ANY KIND, EXPRESSED OR IMPLIED FOR SERVICES WE PROVIDE. EMWD DISCLAIMS ANY WARRANTY OR MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THIS INCLUDES LOSS OF DATA RESULTING FROM DELAYS, NON-DELIVERIES, WRONG DELIVERY, AND ANY AND ALL SERVICE INTERRUPTIONS CAUSED BY EMWD AND ITS EMPLOYEES. EMWD RESERVES THE RIGHT TO REVISE ITS POLICIES AT ANY TIME.
+2. Server Abuse
+Any attempt to undermine or cause harm to a server, or customer, of EMWD is strictly prohibited.
+EMWD will strongly react to any use or attempted use of an Internet account or computer without the owner’s authorization. Such attempts include “Internet scamming” (tricking other people into releasing their passwords), password robbery, security hole scanning etc.
+Any unauthorized use of accounts or servers by an EMWD customer, whether or not the attacked account or computer belongs to EMWD, will result in action against the attacker. Possible actions include warnings, account suspension or cancellation, and civil or criminal legal action, depending on the seriousness of the attack.
+Shared server accounts are limited in use of the amount of server resources. Shared server resource abuse includes any process or service usage that affects normal shared server operation, resources or connectivity, and which causes a server to become overloaded. Shared server resources include CPU and memory usage, number of concurrent processes, number of concurrent port or database connections and total bandwidth. Possible causes of server resource abuse include, but are not limited to, the use of: CGI, Perl, Sendmail, mySQL, PHP, ASP, HTTP, SMTP, POP3 and FTP. If server resource abuse is detected, possible actions include, but are not limited to: disabling of the offending script or scripts, disabling of the specific service, disabling of the entire account or account cancellation. If server overload is a result of server resource abuse, these actions will be taken without prior notice or warning.
+5. Abuse of Traffic
+To maintain the integrity of our shared hosting service the following limitations apply:
+Sites with banners, graphics or cgi scripts running from their domain used on other domains.
+Sites using more than 30% of system resources for longer than 60 seconds.
+6b. Unsolicited Email (Spam) and Mailing Lists
+Definition of SPAM All Unsolicited Bulk Email or “UBE”, email which is both unsolicited and bulk, is hereby defined in this AUP as spam. Unsolicited means the recipient did not give verifiable, deliberate, explicit, and revocable permission for the message to be sent. Bulk means the message was sent to multiple recipients with substantively identical content and, therefore, the recipient’s personal identity and context are irrelevant because the email is equally applicable to multiple recipients. Spam is an issue of consent, not content. No other definition of spam including, without limitation, Title 15 USC Chapter 103 Controlling the Assault of Non-Solicited Pornography and Marketing § 7702 et. al or “CAN-SPAM Act” applies to the definition of spam as used in this ToS.
+EMWD takes a zero-tolerance approach to spam originating from our servers or for spam advertising of domains hosted on our servers.
+6c. Opt-In Mailing Lists
+Mailing lists must be true opt-in which requires you to provide to the recipient either a confirmation email or a confirmation web page whereby the recipient must have replied with a confirmation email having a unique tracking number or must have clicked a hyperlink in the confirmation email having a unique tracking number maintained in your web server log file or must have clicked the hyperlink in the confirmation web page having a unique tracking number maintained in your web server log file thereby granting verifiable, deliberate, explicit, and revocable permission to be added to the specific opt-in email list at the specific site both of which must be hosted on the network of EMWD and under your administrative control. You are required to provide the confirmation email reply with unique tracking number or the web server log file line having the unique tracking number as evidence that the recipient did, indeed, opt-in to the email list. You are also required to provide at least one simple method to opt out of the email list which must be honored immediately.
+8a. Payment Policies
+All accounts are set up on a pre-pay basis. All pricing is guaranteed for the term of pre-payment. EMWD reserves the right to change prices at any time, unless other terms have been agreed upon. Any account not brought current within a week (7 days) of e-mail notice or exceeding this time frame in any way is subject to suspension. The customer is responsible for all money owed on the account from the time it was established to the time that the customer notifies EMWD at billing@emwd.com to request for termination of services. All payment is in U.S. currency. EMWD will bill each client $25.00 per returned check, and per credit card chargeback received. All EMWD accounts are setup on anniversary billing cycles. Your particular billing cycle corresponds to the contract length that was initially chosen at setup. Your account will automatically renew at this length. There is no fee to change to a shorter billing cycle at the end of the current cycle. Please contact the billing department at our support ticket system should you wish to change your anniversary billing cycle. EMWD reserves the right to either accept or decline the request to change the billing cycle. All taxes, fees and governmental charges relating to the Services provided hereunder (other than income taxes of EMWD) shall be paid by Customer. EMWD accepts credit cards, PayPal, and checks drawn on U.S.  banks from customers for payment of web hosting services and fees associated with your account.
+9. Cancellation
+EMWD reserves the right to cancel service at any time. All fees paid in advance of cancellation will be pro-rated and paid by EMWD if EMWD institutes its right of cancellation. Any violation of policies which results in extra costs will be billed to the customer (i.e. transfer, space etc.)
+Subscribers may cancel service at any time using the appropriate links within their client area or by submitting a support ticket request from their client area. Accounts are cancelled upon confirmation with you by this ticket system. Cancellation of a service does not relieve Subscriber of responsibility for the payment of all accrued charges. Accounts can not be confirmed Cancelled until all due invoices have been settled. Non confirmation of the cancelation may result in charges continuing to be levied.
+No refunds are given for any Service lasting longer than 30 days.
+If the Service expires or is cancelled for any reason, EMWD is not liable to you because of the expiration or cancellation for compensation, reimbursement or damages on account of the loss of prospective profits, anticipated sales, goodwill or on account of expenditures, investments, leases or commitments in connection with your business, or for any other reason whatsoever flowing from the termination or expiration. If you terminate this Agreement, EMWD will not relieve you of any obligations to pay fees and costs accrued before the termination date or any other amounts you owe to EMWD under this Agreement.
+10. Backup Policy
+EMWD performs backups on all of our shared hosting and mailman servers. We do not provide any backup services for any cloud vps service unless arrangements has been made between Client and EMWD.
+No guarantees are made of any kind, either expressed or implied, as to the integrity of these backups. Backups are made for server restoration purposes only. It is the client’s responsibility to maintain local, current copies of their web content and any information on their account including but not limited to client website, email, databases, mailing lists, and archives.
+Hosting accounts that exceed 20 gigabytes of disk usage on a shared hosting service will not be backed up and will automatically be migrated to a cloud VPS. You will need to arrange a backup service for any cloud VPS as we do not provide the same backup service to a VPS account as we do to a shared hosting account.
+12. Indemnification
+CUSTOMER AGREES THAT IT SHALL DEFEND, INDEMNIFY, SAVE AND HOLD EMWD HARMLESS FROM ANY AND ALL DEMANDS, LIABILITIES, LOSSES, COSTS AND CLAIMS, INCLUDING REASONABLE ATTORNEY’S FEES ASSERTED AGAINST EMWD, ITS AGENTS, ITS CUSTOMERS, OFFICERS AND EMPLO YEES, THAT MAY ARISE OR RESULT FROM ANY SERVICE PROVIDED OR PERFORMED OR AGREED TO BE PERFORMED OR ANY PRODUCT SOLD BY CUSTOMER, IT’S AGENTS, EMPLOYEES OR ASSIGNS. CUSTOMER AGREES TO DEFEND, INDEMNIFY AND HOLD HARMLESS EMWD AGAINST LIABILITIES ARISING OUT OF; (1) ANY INJURY TO PERSON OR PROPERTY CAUSED BY ANY PRODUCTS SOLD OR OTHERWISE DISTRIBUTED IN CONNECTION WITH EMWD’S SERVER; (2) ANY MATERIAL SUPPLIED BY CUSTOMER INFRINGING OR ALLEGEDLY INFRINGING ON THE PROPRIETARY RIGHTS OF A THIRD PARTY; ( 3) COPYRIGHT INFRINGEMENT AND (4) ANY DEFECTIVE PRODUCTS SOLD TO CUSTOMER FROM EMWD’S SERVER.
+Privacy Policy
+1. Introduction
+We at EMWD, Inc. respect your right to privacy and comply with our obligations that satisfy United States regulations. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this website, systems and apps (*.emwd.com) . Naturally, if you are not happy with this Website Privacy Policy you should not use this website.
+By visiting this website, you are accepting the terms of this Website Privacy Policy. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites.
+3. Purposes for which we hold your Information
+We use the Non-Personal Data gathered from visitors to our website in an aggregate form to get a better understanding of where our visitors come from and to help us better design and organise our website.
+We will process any Personal Data you provide to us for the following purposes:
+to provide you with the goods or services you have ordered
+to contact you if required in connection with your order or to respond to any communications you might send to us
+to keep you informed of updates to our services
+5. Sale of Business
+We reserve the right to transfer information (including your Personal Data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company provided that the third party agrees to adhere to the terms of the Website Privacy Policy and provided that the third party only uses your Personal Data for the purposes that you provided it to us. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt-out.
+7. Updating, Verifying and Deleting Personal Data
+You may inform us of any changes in your Personal Data, and in accordance with our obligations to satisfy United States regulations we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please email us at support@emwd.com. Any such data subject requests may be subject to the prescribed fee.
+2. Types of Information Collected
+We retain two types of information:
+a. Personal Data
+This is data that identifies you or can be used to identify or contact you and may include your name, address, email address, telephone number and billing information.
+b. Non-Personal Data
+Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This Non-Personal Data comprises information that cannot be used to identify or contact you, such as demographic information, browser types and other anonymous statistical data involving the use of our website.
+4. Disclosure of Information to Third Parties
+We may provide Non-Personal Data to third parties, where such information is combined with similar information of other users of our website. For example, we might inform third parties regarding the number of unique users who visit our website, the demographic breakdown of our community users of our website, or the activities that visitors to our website engage in while on our website. The third parties to whom we may provide this information may include commercial partners, sponsors, licensees, researchers and other similar parties.
+We will not disclose your Personal Data to third parties unless you have consented to this disclosure or unless the third party is required to fulfil your order (in such circumstances, the third party is bound by similar data protection requirements). We will disclose your Personal Data if we believe in good faith that we are required to disclose it in order to comply with any applicable law, a summons, a search warrant, a court or regulatory order, or other statutory requirement.
+6. Security
+Your Personal Data is held on secure servers hosted by EMWD. The nature of the Internet is such that we cannot completely guarantee or warrant the security of any information you transmit to us via the Internet. No data transmission over the Internet can be guaranteed to be fully 100% secure. However, we will take all reasonable steps (including appropriate technical and organisational measures) to protect your Personal Data at all times.
+8. Changes to the Website Privacy Policy
+Any changes to this Website Privacy Policy will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Website Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.
+Facebook
+Twitter
+Skype
+Pinterest
+Gplus
+HostingCloud Hosting
+Email Hosting
+Mailman Hosting
+Shared Hosting
+WordPress Hosting
+ServicesEcommerce Service
+Redesign
+Web Design
+WordPress Maintenance
+EmpowermentSecure Your WordPress WebsiteNovember 17, 2020 - 4:41 pmcPanel Website BuilderApril 30, 2020 - 6:14 amAffinity – A Mailman 3 Admin InterfaceApril 29, 2020 - 3:37 pm
+Scroll to top
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.OKCookie and Privacy Settings
+How we use cookies
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website.
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+Essential Website Cookies
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refuseing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+Check to enable permanent hiding of message bar and refuse all cookies if you do not opt in. We need 2 cookies to store this setting. Otherwise you will be prompted again when opening a new browser window or new a tab.
+Click to enable/disable essential site cookies.
+Google Analytics Cookies
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+Click to enable/disable Google Analytics tracking.
+Other external services
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Click to enable/disable Google Webfonts.
+Google Map Settings:
+Click to enable/disable Google Maps.
+Google reCaptcha Settings:
+Click to enable/disable Google reCaptcha.
+Vimeo and Youtube video embeds:
+Click to enable/disable video embeds.
+Other cookies
+The following cookies are also needed - You can choose if you want to allow them:
+Click to enable/disable _ga - Google Analytics Cookie.
+Click to enable/disable _gid - Google Analytics Cookie.
+Click to enable/disable _gat_* - Google Analytics Cookie.
+Privacy Policy
+You can read about our cookies and privacy settings in detail on our Privacy Policy Page.
+Terms of Service
+Accept settingsHide notification only

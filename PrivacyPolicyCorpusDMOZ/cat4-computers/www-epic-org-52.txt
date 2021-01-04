@@ -1,0 +1,263 @@
+http://www.epic.org/privacy/google/purchase-tracking/default.html
+Defend Privacy. Donate Now.
+Policy Issues
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Program
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+All Policy Issues
+Our Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+Privacy Campaigns
+Congressional Testimony
+EPIC Publications
+Spotlight on Surveillance
+Press
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+Events
+EPIC Blog
+EPIC Bookstore
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+Public Voice Fund
+Contact EPIC
+Support EPIC
+Google Purchase Tracking
+Background |
+Privacy Issues |
+EPIC's Interest |
+Documents |
+Additional Resources |
+News
+Introduction
+On May 23rd, 2017, Google announced a new program within its online advertising system, AdWords, that it claims will enable companies to track whether online advertisements translate into in-store sales. Google claims that by tracking credit and debit card transactions in stores through third party partnerships it will be able to determine whether online marketing campaigns influence buyers to make purchases in stores. This new program is called 'Store Sales Measurement.' Google claims that it can simultaneously track offline payments and protect the privacy of the individual buyers by using a "double-blind" encryption process. The double-blind encryption process is described as using two filters. The first filter aims to hide the details of the monetary transactions (sourced by third parties) from Google and the second filter aims to hide the Google user’s data from the third party sources. Google has not released the details of the algorithms underlying the proposed filters.
+Background
+Online Advertising
+In recent years, spending on online advertising approached the amount spent on television commercials. This is principally due to large firms such as Google and Facebook, who together control 60% of the online market and have concentrated their efforts on promoting more tailored and targeted marketing. Experts predict that by 2018, spending on internet advertising will exceed spending on television advertising for the first time. Amid this increase in online advertising, marketing companies have developed of new methods to track and filter their audiences and deliver their messages to specific demographics. Google's proposed Store Sales Measurement product would introduce a new method to enable advertisers who pay for Google's service to track the impact of their advertisements.
+Google offers several distinct advertising services including AdWords, Analytics, and DoubleClick search to its marketing customers. These services enableimplementation and analysis of advertisers’ marketing campaigns. Google relies heavily on advertising as a source of revenue. In the first quarter of 2017, advertising revenue made up 87% of Google parent company Alphabet Inc.'s total revenue. Although Google does not release statistics on advertiser numbers, Macquarie Research estimates that Google has around 4 million advertiser customers as of February 2015.
+Google has announced plans to release Store Sales Management in the Fall of 2018, at a time of decreasing confidence in Google’s advertising products. Earlier this year Google faced heavy criticism from advertisers for placing advertisements on YouTube alongside videos showing extremist content.
+Google's Data Tracking
+Google collects large quantities of information on its users and uses this information to generate advertising revenue. Google has accessed and collected geo-location and Wi-Fi network data from android phones since 2014 and also currently analyzes web-browsing data and search history from connected services including YouTube, Gmail, and the Google Play Store. This data is used to match advertisements with consumers based on demographic categories and locations. Previously, Google used location data to measure changes in in-store traffic caused by advertisements. Now this in-store traffic metric will now be supplemented by measuring credit and debit card transactions.
+Schemes similar to Google Store Sales Measurement that connect purchases to individuals have existed before, but have not been as widespread. It is much easier for vendors to attribute purchases to customers participating in loyalty schemes because they identify themselves at the point of purchase. Vendors can then make this data available to Google for analytical purposes. Google Store Sales Measurement would gather this same purchasing data, but from third-party sources who have access to a consumer’s credit and debit card transactions, and on a much greater scale.
+The Product and the Technology
+Google Store Sales Measurement operates by looking at sales in stores to track the impact of online advertisements in two ways:
+If a consumer offers his or her email address at the point of transaction, the vendor can automatically import this data into the AdWords platform. This service is a version of loyalty scheme tracking. Facebook and other online advertising platforms also offer this service.
+Otherwise, Google will identify users who are exposed to ads by their Google account information and then reach out to third parties to collect transaction information related to the ad they viewed.
+In the second method, because of double-blind encryption, Google claims that it will not have access to specific transactions made by certain individuals. Instead, it will receive the transactions in an aggregated and anonymized form, which it will then pass on to advertisers. Thus, Google claims that it and its advertisers will not be able to see which individuals purchased what products, only the total money spent in a particular time period at a particular store. Google also claims that third parties who collect the transaction data will not have access to a specific user's account information. Google claims that it will have access through its third-party partners to around 70% of credit and debit card transactions in the US.
+According to Jerry Dischler, the Vice President of Product Management at Google, the double-blind encryption is modeled after research done by MIT scientists in 2011. The research, which was partially funded by Google, developed CryptDB, "a system that provides practical and provable confidentiality in the face of . . . attacks for applications backed by SQL databases." According to its designers, CryptDB allows data operations and queries to be performed on encrypted data and uses chained encryption keys so that "a database administrator never gets access to decrypted data, and even if all servers are compromised, an adversary cannot decrypt the data of any user who is not logged in."
+Figure 1 shows a simplified version of the interactions between the user, the DB server (which contains the information) and the attacker.
+Figure 2 shows a more in-depth display of the interactions between the different users. The shaded boxes represent new systems introduced by CryptDB. CryptDB UDFs perform operations in the Unmodified Database Management System (Unmodified DBMS). Threat 1 represents a “curious administrator” and Threat 2 represents a malicious adversary. Curious administrators are prevented from accessing decrypted data and malicious adversaries with control of the hardware and software are prevented from accessing the data of logged-out users (User 2).
+This type of encryption, in which functions are performed on encrypted information to give correct answers in an encrypted form, is called "homomorphic encryption." One of the claimed benefits of CryptDB is that it allows homomorphic encryption to be used practically and in a reasonable amount of time by combining multiple systems of encryption in different layers.
+European Law
+As of early June, 2017, Google Store Sales Measurement is only available to US customers. It is unclear whether there are plans to extend the program overseas. The recently enacted General Data Protection Regulation (GDPR) in the European Union is much stricter than both pre-existing European policies and US policies and may prevent Google from engaging in similar tracking in Europe.
+Privacy Issues
+Google
+claims that it obtains information in a "secure and privacy-safe" way. But Google has not released any information on how its double-blind encryption works and refuses to do so due to its pending efforts to patent the algorithm. If Google is not willing to release information on the mechanisms of the double blind encryption then the robustness and effectiveness of that algorithm cannot be verified. Encryption that is not robust may leave individuals' information accessible to hackers, and encryption that is not effective may leave this information available to Google and its advertisers.
+In addition to not releasing information about the mechanisms of double blind encryption, Google says that it does not have any plans to release information about its third-party partners. This means that when consumers make credit and debit card transactions in stores, they are unable to distinguish between transactions that may be recorded and transactions that will not.
+It is also unclear how or whether consumers can avoid having their data used for advertising purposes. Google users are able to opt out of location tracking on their Account Settings Page but Store Sales Measurement extends beyond location tracking. Google requires its Store Sales Measurement partners to have the rights to individuals’ transaction data but the details on how, or whether, individuals choose to give or not give these rights has not been disclosed.
+EPIC's Interest
+On July 31, 2017, EPIC filed a complaint with the FTC asking the Commission to investigate Google's tracking of in-store purchases.
+EPIC alleged that Google is engaging in unfair and deceptive trade practices by using a secret, proprietary algorithm to track purchases, by not revealing the identities of its third-party partners, and by making misleading claims about consumers' ability to opt out of Google's tracking. EPIC's complaint asks the FTC to stop Google's tracking of in-store purchases and determine whether Google adequately protects consumer privacy.
+Documents
+EPIC: Complaint, July 31, 2017.
+EPIC: Letter to FTC, May 7, 2018
+Additional Resources
+MIT CSAIL: CryptDB
+Raluca Ada Popa, Catherine M. S. Redfield, Nickolai Zeldovich, and Hari Balakrishnan, Cyrpt DB: Protecting Confidentiality with Encrypted Query Processing, October 2011
+General Data Protection Regulation Portal
+Google, Powering ads and analytics innovations with machine learning, May 23, 2017
+Google Ads, Analytics and DoubleClick Announcements Keynote, May 23, 2017
+Mary Meeker, Internet Trends 2017, May 31, 2017
+News
+Does Google own the digital you?, American Enterprise Institute, August 10, 2017
+FTC Asked to Investigate Google’s Matching of “Bricks to Clicks”, National Law Review, August 8, 2017
+Feds warned Google now tracking in-store purchases, World Net Daily, August 7, 2017
+Google wants to track you in real life – EPIC says, ‘No way!’, Naked Security, August 4, 2017
+EPIC Claims Google Violates Consumer Privacy in FTC Complaint , TechNewsWorld, August 2, 2017
+More news
+Editorial: Privacy concerns grow as Google tracks us offline, San Francisco Chronicle, August 2, 2017
+Google asked to explain how it tracks what you buy in stores, CNET, August 2, 2017
+Google Is Matching Your Offline Buying With Its Online Ads, But It Isn’t Sharing How, Slate, August 2, 2017
+Dems won’t re-file lawsuit, but still want Idaho voter data withheld from Trump panel, The Spokesman-Review (Idaho), August 2, 2017
+EPIC Says Google Shopper Tracking Program Violates Privacy, Law360, August 1, 2017
+Google’s Tracking Of Offline Spending Sparks Call For Federal Investigation, Consumerist, August 1, 2017
+EPIC Files Complaint Over Google Tracking In-Person Purchases, NPR, August 1, 2017
+Google’s new scheme to connect online to offline shopping scrutinized, Ars Technica, August 1, 2017
+EPIC's FTC Complaint About Google, POLITICO Morning Tech, July 31, 2017
+Google told to come clean on how it tracks what you buy offline, ZDNet, July 31, 2017
+EPIC Wants FTC To Probe Google's In-Store Tracking Program, MediaPost, July 31, 2017
+EPIC asks FTC to investigate Google's offline shopping tracker, The Hill, July 31, 2017
+Group Files Complaint Over Google's Tracking of In-Store Purchases, NBC New York, July 31, 2017
+EPIC files complaint against Google’s new program that tracks your brick-and-mortar purchases, 89.3 KPCC, July 31, 2017
+Google’s new program to track shoppers sparks a federal privacy complaint, Washington Post, July 30, 2017
+Google Will Track Offline Card Purchases to Keep Advertisers Happy, The Merkle, May 25, 2017
+Google Expands Ad Tracking in the Real World, CNN, May 23, 2017
+Google Helps Advertisers Track Spending in Physical Stores, The New York Times, May 23, 2017
+Google Now Knows When Its Users Go to the Store and Buy Stuff, The Washington Post, May 23, 2017
+Google Ads, Analytics and DoubleClick Announcements Keynote, May 23, 2017
+Google and Facebook build digital ad duopoly, Financial Times, March 14, 2017
+An MIT Magic Trick: Computing On Encrypted Databases Without Ever Decrypting Them, Forbes, December 19, 2011
+Share this page:
+Subscribe to the EPIC Alert
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+EPIC Alert archive »
+Electronic Privacy Information Center
+1519 New Hampshire Avenue NW
+Washington, DC 20036
+202.483.1140
+info[at]epic[dot]org
+© 1994 - 2020 EPIC, all rights reserved.
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+EPIC Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+Electronic Privacy Information Center1519 New Hampshire Avenue NW Washington, DC 20036More info
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+FOIA Documents
+EPIC FOIA Notes
+EPIC Former Secrets
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+EPIC Bookstore
+Support EPIC

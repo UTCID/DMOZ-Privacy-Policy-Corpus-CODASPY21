@@ -1,0 +1,51 @@
+https://www.nist.gov/news-events/news/2019/11/stopping-fentanyl-border-can-chemical-detectors-help
+Skip to main content
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A lock (
+LockA locked padlock
+) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+https://www.nist.gov/news-events/news/2019/11/stopping-fentanyl-border-can-chemical-detectors-help
+UPDATES
+Stopping Fentanyl at the Border: Can Chemical Detectors Help?
+NIST Scientists test the effectiveness of chemical screening at points of entry.
+November 21, 2019
+Share
+Facebook
+Linkedin
+Twitter
+Email
+Credit:
+Arthur Greenberg/Shutterstock
+Vehicles lined up for US immigration and customs processing at the border entry point from Tijuana, Mexico.
+Large quantities of the synthetic drug fentanyl flow into the country at ports of entry along the Southwest border, according to the Drug Enforcement Agency. As this drug drives a nationwide overdose epidemic, law enforcement agencies are considering technologies that might help stem the flow.
+Now, scientists at the National Institute of Standards and Technology (NIST) have tested whether a chemical detection technology called ion mobility spectrometry, or IMS, can be used to screen vehicles for fentanyl. Their results, recently published in the journal Analyst, show that IMS can be effective for this purpose and include sensitivity levels, error rates and other metrics that can help authorities weigh the costs and benefits.
+IMS is already used to keep explosives off airplanes and narcotics out of prisons. But the performance of IMS varies depending on the substances being targeted and the chemicals present in the environment where the screening takes place. Those chemicals, which scientists refer to as background clutter, can sometimes confuse IMS instruments. This research is the first to test the ability of IMS to distinguish fentanyl from the background clutter that might be expected at a border crossing.
+The researchers conducted their tests at a loading dock at a federal facility—an environment that, because it is full of vehicles and cargo, is likely to have background clutter similar to that found at border crossings. To defend against truck bombs, security officers there screen vehicles for explosives. Anyone who has been handling explosives will likely leave invisible traces of chemical residue on the surfaces they touch, so the officers run swabs across steering wheels, door handles and other parts of the vehicle. They then test those swabs in an IMS instrument for trace amounts of explosives.
+IMS instruments record a history of data from past tests, providing the researchers with a convenient archive of the chemical signals from background clutter at the loading dock. None of the records in the archive contained an obvious signal indicating the presence of fentanyl.
+To see what the data would look like if the instruments had encountered fentanyl or related drugs, the researchers treated swabs with drugs in amounts varying from single nanograms, or billionths of a gram, up to 100 nanograms. Those would all be invisible traces—for comparison, a single grain of table salt weighs about 60,000 nanograms. They did this with fentanyl and 12 variants, or analogues, of fentanyl, as well as heroin and a synthetic opioid called U-47700. Fentanyl and its analogs are so potent that accidental exposure can be hazardous, so the researchers used laboratory safety equipment when treating the swabs. They then ran the swabs through the instruments used at the loading dock to see how the instruments responded.
+“We found plenty of background clutter in that environment, but the amount is generally low enough that the signal from the drugs comes through clearly,” said Thomas Forbes, a NIST scientist and lead author of the study.
+An IMS instrument is not 100 percent accurate—it is just a screening device that indicates whether a vehicle should be searched. If a search does turn up something suspicious, further tests would be needed to confirm which, if any, drugs are present. In addition, IMS might not be able to distinguish between a vehicle being driven by a drug user and one that is smuggling bulk quantities of illegal drugs. Again, a search would be needed.
+Unnecessary searches would slow border operations and negatively impact innocent drivers, so the number of false positives—when an instrument says that drugs are present, but none are—needs to be minimized. Using a statistical technique called receiver operating characteristic (ROC) curves, the researchers calculated that the instruments would have achieved a two percent false positive error rate (two percent of positive results would be false) with a sensitivity that would detect drug traces in the ten nanogram range. The exact sensitivity varied slightly from one drug to the next.
+The IMS instruments at the loading dock were specifically designed to detect explosives, but manufacturers sell other models designed to detect narcotics. The NIST researchers found that narcotics-specific instruments were about ten times more sensitive to the drugs than the explosives instruments, but the explosives instruments were sensitive enough for screening purposes.
+Because the loading dock has slightly different background clutter than border crossings, the results at the border would be slightly different as well. But the authors showed how anyone can use ROC curves to calculate expected error rates and sensitivity levels from their own IMS data. “This study provides a roadmap for getting a customized analysis for your particular environment,” said NIST scientist and coauthor Jennifer Verkouteren.
+Border agents already screen vehicles with a different type of chemical sensor that is among the most sensitive known to modern science. So why also use IMS? Because dogs have to take frequent breaks and can be killed if they inhale fentanyl directly.
+“It’s not either or,” Verkouteren said. “You want a variety of tools in the toolbox.”
+Paper: T. Forbes, J. Lawrence, J. Verkouteren, R.M. Verkouteren. Discriminative potential of ion mobility spectrometry for the detection of fentanyl and fentanyl analogues relative to confounding environmental interferents. Analyst. Published online Sept. 27, 2019. DOI: 10.1039/c9an01771b.
+Forensic Science, Drugs and toxicology, Trace evidence, Public safety and Law enforcement
+Media Contact
+Rich Press
+richard.press@nist.gov
+(301) 975-0501
+Organizations
+NIST HeadquartersLaboratory ProgramsMaterial Measurement LaboratoryLaboratory ProgramsSpecial Programs Office
+Related News
+A Safer Way for Police to Test Drug Evidence
+Data-Sharing Website May Speed Response to New Illegal Drugs
+Free Software Can Help Spot New Forms of Fentanyl and Other Illegal Drugs
+Fentanyl Can Sicken First Responders. Here’s a Possible Solution.
+Related Links
+Forensics @ NIST
+Sign up for updates from NIST
+Released November 21, 2019

@@ -1,0 +1,371 @@
+http://www.cromwell-intl.com/cybersecurity/privacy-policy.html
+This site does not track you
+That's about as simple as I can make it.
+This site has no forms where
+you could enter your name.
+This server does not set cookies.
+I maintain no mailing lists.
+Follow me on Twitter
+if you want to know when I update content.
+This site does include Google AdSense ads,
+and they can set and use cookies.
+The ads on my pages may reflect your recent browsing
+and Google searches if you haven't disabled Google AdSense
+tracking.
+In order to make ads what
+Google calls "more useful to you",
+they have to track who you are.
+Put another way: If you let them track who you are,
+then they can customize the ads to show what their automated
+system thinks will be interesting to you.
+I also have Amazon ads on my pages.
+As an Amazon Associate I earn small commissions
+from qualifying purchases.
+Controlling Ad Personalization
+Why am I seeing these specific ads?
+Click on the small right-pointing triangle at the upper
+right of any Google AdSense ad on my pages.
+That will take you to a page explaining why that ad
+appeared for you.
+I'll put an ad here as an example,
+adding a 5-pixel-wide red border so you see where it is:
+If you have turned off ad tracking, as I recommend,
+it will explain that the ad selection was based simply on
+page content and your apparent general location
+as based on your network address.
+If you have not turned off ad tracking,
+it will explain that Google will use cookies to track your
+web browsing and Google search history to show some ads
+more related to that, rather than just the content and
+apparent themes of this page.
+Ads Settings
+Turn off ad tracking:
+You should go to Google's
+Ads Settings
+page and turn off ad tracking.
+If you are not signed in to Google in your browser
+session or on an Android phone, you can still personalize
+ad behavior for that browser and device only:
+If you set these preferences when you are signed in,
+either on an Android phone or within a Chrome session
+on a tablet or computer, then the settings apply across
+all signed-in sessions.
+Block pop-up ads:
+The Chrome browser blocks pop-up ads by default.
+Here is how to turn that protection off and back on:
+Block or allow pop-up ads in Chrome
+As for privacy on the Internet in general
+All unencrypted communication by Internet,
+telephone, and fax is subject to interception
+and archiving.
+Belief otherwise is folly.
+Belief that stern corporate announcements will force people
+to delete your misdirected e-mail messages is arrogant folly.
+Judging by the silly disclaimers that so many
+corporations require at the ends of outgoing
+messages, arrogant folly is awfully common.
+Governmentsurveillance
+of all
+communication
+It is easy for governments to intercept traffic because
+Internet and telephone traffic must pass through
+a limited number of backbone interconnection points.
+The governments simply obligate the
+telecommunications companies to provide access,
+or even to do the data collection on behalf of
+the government.
+Yes, this process was greatly expanded in the U.S.
+during the Cheney/Bush administration,
+but it had already been underway for many years.
+See, for example:
+The Puzzle Palace,
+James Bamford, 1982,
+a detailed and early description of the NSA.
+Body of Secrets,
+James Bamford, 2001,
+an update to The Puzzle Palace
+The Shadow Factory: The NSA from 9/11 to the Eavesdropping on America,
+also by James Bamford.
+A February 16, 2007 report on PBS.
+An article in Wired magazine.
+An article at cryptome.org.
+Chatter,
+Patrick Radden Keefe, 2006,
+more general in scope than Bamford's books.
+See my information security pages
+and especially my
+Just Enough Crypto page
+for details on cryptographic protection of
+Internet traffic.
+See my page on
+government surveillance of Internet traffic
+and other communications
+for details on government violation of your privacy.
+For anonymous browsing, you could try using an
+anonymizer
+web proxy, although that only obscures
+the server's view of things.
+Your ISP still sees exactly what you're doing
+unless the anonymizer also uses
+SSL/TLS.
+TOR (The Onion Router)
+can provide much better protection
+if used very carefully.
+What this server logs,
+and how to accomplish this
+I used to use the
+Apache
+web server.
+My configuration file
+/usr/local/etc/apache24/httpd.conf
+contained the following logging directives.
+[... many lines deleted ...]
+LoadModule log_config_module libexec/apache24/mod_log_config.so
+#LoadModule log_debug_module libexec/apache24/mod_log_debug.so
+#LoadModule log_forensic_module libexec/apache24/mod_log_forensic.so
+LoadModule logio_module libexec/apache24/mod_logio.so
+[... many lines deleted ...]
+# ErrorLog: The location of the error log file.
+ErrorLog "/usr/local/www/logs/httpd-error.log"
+[... many lines deleted ...]
+<IfModule log_config_module>
+# The following directives define some format nicknames for use with
+# a CustomLog directive (see below).
+LogFormat "%h %l %u %t \"%r\" %>s %b \"%{Referer}i\"" combined
+LogFormat "%h %l %u %t \"%r\" %>s %b" common
+# Define some things *not* to log: images, CSS style files,
+# JavaScript, and TTF font files:
+SetEnvIf Request_Method "^OPTIONS$" no_log
+SetEnvIf Request_URI ".(jpg|jpeg|png|css|gif|ico|js|ttf)" no_log
+<IfModule logio_module>
+# You need to enable mod_logio.c to use %I and %O
+LogFormat "%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-Agent}i\" %I %O" combinedio
+</IfModule>
+# The location and format of the access logfile (Common Logfile Format).
+# If you do not define any access logfiles within a <VirtualHost>
+# container, they will be logged here.
+Contrariwise, if you *do*
+# define per-<VirtualHost> access logfiles, transactions will be
+# logged therein and *not* in this file.
+CustomLog "/usr/local/www/logs/httpd-access.log" combined env=!no_log
+</IfModule>
+[... many lines deleted ...]
+Security and performance:
+HTTP/2 and TLS v1.3
+with Nginx
+Now I use the Nginx
+web server.
+See my page on
+setting up Nginx
+for the full details.
+The logging section of my configuration file
+/usr/local/nginx/conf/nginx.conf
+contains this:
+[... lines deleted ...]
+log_format main '$remote_addr - $remote_user [$time_local] "$request" '
+'$status $body_bytes_sent "$http_referer" '
+'$ssl_protocol $ssl_cipher';
+access_log
+/var/www/logs/httpd-access.log
+main;
+error_log
+/var/www/logs/httpd-error.log;
+[... lines deleted ...]
+# HTTPS server
+server {
+listen
+443 ssl http2;
+server_name
+cromwell-intl.com;
+keepalive_timeout 65;
+location / {
+root
+html;
+}
+error_page 404 /ssi/404page.html;
+underscores_in_headers on;
+####################################################################
+## Logging and cache control for images, CSS, JavaScript, fonts
+####################################################################
+location ~* \.(jpg|jpeg|png|gif|ico|css|js|ttf)$ {
+############################################################
+# Logging
+############################################################
+# Don't log bulky data.
+access_log off;
+############################################################
+# Caching
+############################################################
+# Tell client to cache bulky data for 7 days, which is
+# the Google Pagespeed recommendation / requirement.
+expires 7d;
+add_header Cache-Control "public, no-transform";
+add_header Vary "Accept-Encoding";
+}
+[... lines deleted ...]
+# Include the TLS protocol version and negotiated cipher
+# in the HTTP headers, so we can capture them in the logs.
+add_header X-HTTPS-Protocol $ssl_protocol;
+add_header X-HTTPS-Cipher $ssl_cipher;
+[... lines deleted ...]
+Through the magic of
+PHP
+embedded within this page and executing on the server
+before serving up this page, it sees that
+your IP address is
+72.182.10.230
+and time at the server is
+06:18:59 on 11 Dec 20
+and so a line similar to the following just got added to
+/var/www/logs/access_log because of your request:
+72.182.10.230 - - [11/Dec/2020:06:18:59 +0000] "GET /cybersecurity/privacy-policy.html HTTP/2.0" 200 28178 "https://cromwell-intl.com/" TLSv1.3 TLS_AES_256_GCM_SHA384
+The string after the GET is the requested resource.
+The URL is the referrer.
+In the above example, the client clicked on the
+"Privacy Policy" link at the bottom of the main page.
+In this example, the client negotiated the TLS v1.3 protocol,
+with the TLS_AES_256_GCM_SHA384 key exchange and cipher.
+If you reached this page by asking a search engine to find it,
+the referer string is more complicated but still readable.
+Here's a real example of someone
+at IP address 122.57.185.236, which resolves to
+122-57-185-236.jetstream.xtra.co.nz
+(this looks like a customer of a New Zealand ISP)
+loading
+an Internet radio page of mine
+through a search for:
+vladivostok radio
+at
+Google's New Zealand search interface:
+122.57.185.236 - - [27/May/2018:02:31:17+0000] "GET /radio/internet-radio.html HTTP/2.0" 200 28178 "https://www.google.co.nz/search?q=vladivostok+radio&hl=en&start=100&sa=N" TLSv1.3 TLS_AES_256_GCM_SHA384
+Here, someone
+at IP address 89.132.217.153, which resolves to
+catv-89-132-217-153.catv.broadband.hu
+(so they're a customer of UPC Magyarország Kft.,
+a Budapest-based provider of cable television and
+broadband Internet connectivity)
+loaded
+a GSM telephone construction page of mine
+through a search for:
+telephone interface to gsm
+at
+Google's Hungarian search interface:
+89.132.217.153 - - [26/May/2018:11:54:02 +0000] "GET /steampunk/gsm-soviet-telephone.html HTTP/2.0" "http://www.google.hu/search?hl=hu&q=telephone+interface+to+gsm&btnG=Keres%C3%A9s&meta=" TLSv1.3 TLS_AES_256_GCM_SHA384
+Some of the referrer entries are empty.
+Sometimes that's because the client was behind a
+corporate firewall that functions as an invisible web proxy.
+To the client, it appears that it connects
+directly to my server.
+Really, the corporate firewall intercepts the connection
+attempt, decides whether it is allowed or not, and if so,
+makes the connection on behalf of the client but with
+the referrer information stripped out.
+In that case, I don't get to see what page referred you
+to mine.
+However, your corporation has logged
+your Internet activity.
+This server runs HTTPS but...
+My server listens for connections to both HTTP (TCP/80)
+and HTTPS (TCP/443).
+That way, you can enter an HTTP URL or follow an HTTP link
+and reach the desired page.
+The server then redirects the browser as needed to connect
+via HTTPS and to drop "www." from the hostname.
+My nginx.conf file contains this:
+# HTTP Server
+server {
+listen
+80;
+server_name
+cromwell-intl.com;
+# Don't log bulky data, even HTTP requests that will be redirected.
+location ~* \.(jpg|jpeg|png|gif|ico|css|js|ttf)$ {
+access_log off;
+}
+# Whether original had "www." or not, redirect without it.
+return 301 https://cromwell-intl.com$request_uri;
+}
+If you're using Apache, your .htaccess file
+could contain this:
+# Remove "www." and redirect to HTTPS
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+However, if you connect with an HTTP URL,
+all the monitoring nodes between your client
+and my server can read the requested URL.
+Once the client is redirected to use HTTPS, someone monitoring
+traffic could see that you are connecting to my server,
+sending small requests and getting data of specific sizes.
+They wouldn't be able to tell which pages you were requesting.
+But, if you started with an insecure HTTP URL,
+they already saw what you were going to ask for.
+Google AdSense and cookies
+I have Google AdSense ads on my pages.
+See the little box of links to the right of the
+previous paragraph.
+Also see the banner across the top of the page,
+and the banner about 3 paragraphs above that.
+To make that "link unit" appear, this page just had a single
+line of PHP:
+<?php include($_SERVER['DOCUMENT_ROOT'].'/ads/link-unit-180x90.html'); ?>
+That directed the server to replace that PHP code with
+the following block of JavaScript code
+before sending the page to your browser:
+<div style="float: right; margin-left: 12px; margin-bottom: 10px;">
+<script type="text/javascript">
+<!-- google_ad_client = "pub-5845932372655417";
+/* Link Unit 180x90 */
+google_ad_slot = "8066800540";
+google_ad_width = 180;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+If your browser has JavaScript enabled, then it made a
+request for /pagead/show_ads.js from the Google server
+pagead2.googlesyndication.com with those specific
+"ad client" and "ad slot" parameters set to give me the
+credit for showing you the ad (maybe about US$ 0.0001),
+and if you happened to click on the ad, the credit for
+sending you to the advertisement
+(anywhere from US$ 0 to maybe 2.00, but generally at the very
+low end of that range).
+Google used to serve up ads based only on their search
+index's notion of what this page is about.
+But in April 2009 Google announced a plan to use cookies
+to try to figure out what your interests are as
+opposed to just using what this page seems to be about.
+These would be "id" cookies from doubleclick.net.
+If you notice a cookie transaction when loading any of
+my pages, it is because of Google AdSense.
+I certainly don't care what other sites you look at.
+What little I see in looking at the referer log data once
+in a great while is far more than enough information
+along those lines for me.
+Remember that you can go to Google's
+Ads Settings
+page to opt out of the cookie tracking.
+Then AdSense ads will still appear, but they will be based
+only on the page contents and not Google's notion of
+your interests.
+What is the PHP trick to show
+client IP address and server time?
+It's pretty simple.
+The HTML code for that paragraph looks like this:
+<p>
+Through the magic of
+<a href="http://www.php.net/">PHP</a>
+embedded within this page and executing on the server
+before serving up this page, it sees that
+<b>your IP address is <?php echo $_SERVER['REMOTE_ADDR']; ?> </b>
+and <b>time at the server is
+<?php echo(date("H:i:s") . " on " . date("d M y")); ?> </b>
+and so something like the following just got added to
+<code>/var/www/logs/access_log</code> because of your request:
+</p>
+To the cyber security page

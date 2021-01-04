@@ -1,0 +1,60 @@
+http://www.clipperz.com/privacy_policy/
+Features
+Security
+Open source
+Blog
+About
+Clipperz does not collect or share personal information.
+That is our privacy policy in a nutshell.
+The rest of this page tries to explain the details and why you should care.
+At Clipperz we recognize that privacy is important. We will be a transparent and open company. We will communicate openly and freely with our users. We will be quick to relay news, both good and bad.
+Information we collect
+Clipperz does not require visitors and users to provide personally identifying information such as names, email addresses, and phone numbers. NEVER. And never will!
+Account data
+Free accounts - When you sign up for an account, we just ask you to select a username and a passphrase. However, thanks to the special authentication protocol we use (SRP), Clipperz does not record neither your username nor your passphrase.
+Paid accounts - When paid plans will be launched, new accounts will expire after the trial period is over, unless you select one of Clipperz paid plans.
+User communications
+If you voluntarily provide personal information to Clipperz by emailing us or through any other communication channel (forum, twitter, …) we will retain contact information in order to keep the conversation going. As an example: if you send us an email or post something in the Clipperz forum, your name and email address will be included in our list of contacts. We reserve the right to contact you on these very same channels for service updates and other customer care needs.
+Still the data you encrypted using Clipperz password manager and digital vault cannot be associated to your name, email address or any other personal information.
+Cookies
+When you visit the Clipperz website at https://clipperz.is, we send one or more cookies to your computer that uniquely identifies your browser. We use cookies to improve the quality of our website by storing user preferences and tracking user trends. (as an example your browser will receive Google Analytics cookies)
+When you login to Clipperz password manager application, we just send your browser a single cookie to keep alive your SRP session. That’s all.
+Please note that most browsers are initially set up to accept cookies, but you can change the settings of your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Clipperz features may not function properly if cookies are disabled.
+Server logs
+Clipperz servers log each visit to each web page. A log entry can contain information typically found in the “header” of your web browser’s request such as the browser type you used, your Internet Protocol address, and the date and time of day. This log information is important for security, audit, quality improvement, as well as for monitoring the health of our service.
+How we treat your information
+It should now clear that Clipperz knows very little about you. Ideally we would like to know nothing. Therefore we encourage you to take any measure to achieve this goal. (e.g.: you could access Clipperz using anonymizing tools like TOR)
+Nonetheless we will never share collected information with third parties outside of Clipperz, not even as aggregated non-personal data.
+Will Clipperz hand over my data to authorities?
+We know almost nothing about users’ identities and absolutely nothing about the encrypted data they store with Clipperz. Most important we are unable to locate your specific data among the whole set of encrypted records saved on our servers. We even ignore the username you chose.
+On the other hand, we are certainly willing to oblige and satisfy any applicable law, regulation, legal process or enforceable request by governments and other authorities.
+But we can only provide these authorities with a complete dump of Clipperz encrypted database.
+Will Clipperz introduce backdoors for authorities?
+Never. We’d rather shut the service down.
+Changes to this policy
+If we make any significant changes to this policy, we will notify you by posting a notice of such changes on all available communication channels (blog, forum, twitter, application login page, …).
+Feedback
+This privacy policy was written by Marco and Giulio, founders of Clipperz. We are not lawyers. If you have any questions, suggestions or concerns, please contact us.
+Clipperz reloaded
+Clipperz is returning to be "just" a great free password managerRead more …
+Make a donation
+If you like Clipperz, its openness and its view of cryptography as a powerful tool for liberty, then you may consider making a donation.Send your donation now!
+From the blog
+Moved
+Moving schedule
+Moving …
+Updates.
+Boringly reliable; almost.
+Get the RSS feed
+Latest tweets from @clipperz
+Follow us on TwitterNews about web crypto, privacy, security and Clipperz service updates.
+Forum
+Go to Clipperz forum
+Github repos
+Clipperz password manager
+Clipperz Javascript Crypto Library
+Features
+Security
+Open source
+Blog
+About

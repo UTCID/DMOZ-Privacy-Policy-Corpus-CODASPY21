@@ -1,0 +1,89 @@
+https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy
+Skip to main content
+Microsoft Edge support
+Products
+Microsoft 365
+Office
+Outlook
+Microsoft Teams
+OneDrive
+OneNote
+Windows
+Microsoft Edge
+more ...
+Devices
+Surface
+PC accessories
+Mobile
+Xbox
+HoloLens
+Hardware warranties
+Import favorites
+Browse InPrivate
+Add extensions
+More support
+Community forums
+Admins
+Developer
+Education
+Small business
+Report a support scam
+Microsoft Edge, browsing data, and privacy
+Privacy Microsoft Edge Windows 10 More...Less
+Note: This article is for the new Microsoft Edge . Get help for the legacy version of Microsoft Edge .
+The new Microsoft Edge  helps you browse, search, shop online, and more. Like all modern browsers, Microsoft Edge lets you collect and store specific data on your device, like cookies, and lets you send information to us, like browsing history, to make the experience as rich, fast, and personal as possible.
+Whenever we collect data, we want to make sure it’s the right choice for you. Some people worry about their web browsing history being collected. That’s why we tell you what data is stored on your device or collected by us. We give you choices to control what data gets collected. For more information about privacy in Microsoft Edge, we recommend reviewing our Privacy Statement.
+What data is collected or stored, and why
+Microsoft uses diagnostic data to improve our products and services. We use this data to better understand how our products are performing and where improvements need to be made.
+Microsoft Edge collects a set of required diagnostic data to keep Microsoft Edge secure, up to date and performing as expected. Microsoft believes in and practices information collection minimization. We strive to gather only the info we need, and to store it only for as long as it’s needed to provide a service or for analysis. In addition, you can control whether optional diagnostic data associated with your device is shared with Microsoft to solve product issues and help improve Microsoft products and services.
+As you use features and services in Microsoft Edge, diagnostic data about how you use those features is sent to Microsoft. Microsoft Edge saves your browsing history—information about websites you visit—on your device. Depending on your settings, this browsing history is sent to Microsoft, which helps us find and fix problems and improve our products and services for all users. You can manage the collection of optional diagnostic data in the browser by selecting Settings and more  > Settings  > Privacy, search, and services  and turning on or off  Help improve Microsoft products by sending optional diagnostic data about how you use the browser, websites you visit, and crash reports. This includes data from testing new experiences. To finish making changes to this setting, restart Microsoft Edge.
+Turning this setting on allows this optional diagnostic data to be shared with Microsoft from other applications using Microsoft Edge, such as a video streaming app that hosts the Microsoft Edge web platform to stream the video. The Microsoft Edge web platform will send info about how you use the web platform and sites you visit in the application to Microsoft.  This data collection is determined by your optional diagnostic data setting in Privacy, search, and services settings in Microsoft Edge.
+On Windows 10, these settings are determined by your Windows diagnostic setting. To change your diagnostic data setting, select Start > Settings  > Privacy  > Diagnostics & feedback . On all other platforms, you can change your settings in Microsoft Edge by selecting Settings and more  > Settings  > Privacy, search, and services . In some cases, your diagnostic data settings might be managed by your organization.
+When you’re searching for something, Microsoft Edge can give suggestions about what you’re searching for. To turn on this feature, select Settings and more  > Settings  > Privacy, search, and services  > Address bar and search, and turn on Show me search and site suggestions using my typed characters. As you start to type, the info you enter in the address bar is sent to your default search provider to give you immediate search and website suggestions.
+When you use InPrivate browsing or guest mode, Microsoft Edge collects some info about how you use the browser depending on your Windows diagnostic data setting or Microsoft Edge privacy settings, but automatic suggestions are turned off and info about websites you visit is not collected. Microsoft Edge will delete your browsing history, cookies, and site data, as well as passwords, addresses, and form data when you close all InPrivate windows. You can start a new InPrivate session by selecting Settings and more on a computer or Tabs on a mobile device.
+Microsoft Edge also has features to help you and your content stay safe online. Windows Defender SmartScreen automatically blocks websites and content downloads that are reported to be malicious. Windows Defender SmartScreen checks the address of the webpage you're visiting against a list of webpage addresses stored on your device that Microsoft believes to be legitimate. Addresses that aren't on your device’s list and the addresses of files you're downloading will be sent to Microsoft and checked against a frequently updated list of webpages and downloads that have been reported to Microsoft as unsafe or suspicious.
+To speed up tedious tasks like filling out forms and entering passwords, Microsoft Edge can save info to help. If you choose to use those features, Microsoft Edge stores the info on your device. If you’ve turned on sync for form fill like addresses or passwords, this info will be sent to the Microsoft cloud and stored with your Microsoft account to be synced across all your signed-in versions of Microsoft Edge. You can manage this data from Settings and more  > Settings  > Profiles .
+To protect some video and music content from being copied, some streaming websites store Digital Rights Management (DRM) data on your device, including a unique identifier (ID) and media licenses. When you go to one of these websites, it retrieves the DRM info to make sure you have permission to use the content.
+Microsoft Edge also stores cookies, small files that are put on your device as you browse the web. Many websites use cookies to store info about your preferences and settings, like saving the items in your shopping cart so you don't have to add them each time you visit. Some websites also use cookies to collect info about your online activity to show you interest-based advertising. Microsoft Edge gives you options to clear cookies and block websites from saving cookies in the future.
+Microsoft Edge will send Do Not Track requests to websites when the Send Do Not Track requests setting is turned on. Websites may still track your activities even when a Do Not Track request is sent, however.
+How to clear data collected or stored by Microsoft Edge
+To clear browsing info stored on your device, like saved passwords or cookies:
+In Microsoft Edge, select Settings and more
+> Settings
+> Privacy, search, and services .
+Under Clear browsing data, select Choose what to clear.
+Under Time range, choose a time range.
+Select the check box next to each data type you’d like to clear, and then select Clear now.
+If you’d like, you can select Choose what to clear every time you close the browser and choose which data types should be cleared.
+Learn more about what gets deleted for each browser history item.
+To clear browsing history collected by Microsoft:
+To see your browsing history associated with your account, sign in to your account at account.microsoft.com. In addition, you also have the option of clearing your browsing data that Microsoft has collected using the Microsoft privacy dashboard.
+To delete your browsing history and other diagnostic data associated with your Windows 10 device, select Start  > Settings  > Privacy > Diagnostics & feedback , and then select Delete under Delete diagnostic data.
+To clear individual passwords stored by Microsoft Edge on your device:
+In Microsoft Edge, select Settings and more
+> Settings  > Profiles , and then select Passwords.
+Under Saved passwords, select More actions  next to a website name, and then select Delete to clear the password saved for that site.
+How to manage your privacy settings in Microsoft Edge
+To change your level of tracking prevention, clear your browsing data, help improve Microsoft Edge, and more, select Settings and more > Settings
+> Privacy, search, and services .
+To choose if websites can ask for permission to use your location, camera, microphone, and more, select Settings and more > Settings
+> Site permissions.
+To choose what types of data are synced across your devices, or to turn off syncing entirely, select Settings and more  > Settings  > Profiles
+> Sync .
+To learn more about privacy in Microsoft Edge, read the Microsoft Edge privacy whitepaper.
+Need more help?
+Join the discussion
+Ask the community
+Get support
+Contact Us
+Was this information helpful?
+Yes
+No
+Great! Any other feedback? The more you tell us, the more we can help.
+How can we improve? The more you tell us, the more we can help.
+Send
+No thanks
+Thank you for your feedback!
+Thank you for your feedback! It sounds like it might be helpful to connect you to one of our Office support agents.
+Contact Support
+×

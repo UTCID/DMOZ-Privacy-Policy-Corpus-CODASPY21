@@ -1,0 +1,447 @@
+http://www.vortex.com/privacy/priv.09.19
+PRIVACY Forum Archive Document
+PRIVACY Forum Home Page
+PFIR - "People For Internet Responsibility" Home Page
+Vortex Technology Home Page
+PRIVACY Forum Digest
+Saturday, 2 September 2000
+Volume 09 : Issue 19
+(http://www.vortex.com/privacy/priv.09.19)
+Moderated by Lauren Weinstein (lauren@vortex.com)
+Vortex Technology, Woodland Hills, CA, U.S.A.
+http://www.vortex.com
+===== PRIVACY FORUM =====
+-------------------------------------------------------------------
+The PRIVACY Forum is supported in part by
+the ACM (Association for Computing Machinery)
+Committee on Computers and Public Policy,
+Cable & Wireless USA, Cisco Systems, Inc.,
+and Telos Systems.
+- - -
+These organizations do not operate or control the
+PRIVACY Forum in any manner, and their support does not
+imply agreement on their part with nor responsibility
+for any materials posted on or related to the PRIVACY Forum.
+-------------------------------------------------------------------
+CONTENTS
+PFIR Statement on Internet Hoaxes and Misinformation
+(Lauren Weinstein; PRIVACY Forum Moderator)
+The ":CueCat" -- Balancing Function and Privacy Can Be a Challenge
+(Lauren Weinstein; PRIVACY Forum Moderator)
+Privacy2000 Press Release 9/1 (Sol Bermann)
+AG Reilly Praises Decision to Keep Toysmart From Selling
+Consumers' Personal Information (Monty Solomon)
+Book Announcement: "Trust and Risk in Internet Commerce"
+(Jud Wolfskill)
+*** Please include a RELEVANT "Subject:" line on all submissions! ***
+*** Submissions without them may be ignored! ***
+-----------------------------------------------------------------------------
+The Internet PRIVACY Forum is a moderated digest for the discussion and
+analysis of issues relating to the general topic of privacy (both personal
+and collective) in the "information age" of the 1990's and beyond.
+The
+moderator will choose submissions for inclusion based on their relevance and
+content.
+Submissions will not be routinely acknowledged.
+All submissions should be addressed to "privacy@vortex.com" and must have
+RELEVANT "Subject:" lines; submissions without appropriate and relevant
+"Subject:" lines may be ignored.
+Excessive "signatures" on submissions are
+subject to editing.
+Subscriptions are via an automatic list server system;
+for subscription information, please send a message consisting of the word
+"help" (quotes not included) in the BODY of a message to:
+"privacy-request@vortex.com".
+Mailing list problems should be reported to
+"list-maint@vortex.com".
+All messages included in this digest represent the views of their
+individual authors and all messages submitted must be appropriate to be
+distributable without limitations.
+The PRIVACY Forum archive, including all issues of the digest and all
+related materials, is available via anonymous FTP from site "ftp ftp.vortex.com",
+in the "/privacy" directory.
+Use the FTP login "ftp" or "anonymous", and
+enter your e-mail address as the password.
+The typical "README" and "INDEX"
+files are available to guide you through the files available for FTP
+access.
+PRIVACY Forum materials may also be obtained automatically via
+e-mail through the list server system.
+Please follow the instructions above
+for getting the list server
+"help" information, which includes details
+regarding the "index" and "get" list server commands, which are used to access
+the PRIVACY Forum archive.
+All PRIVACY Forum materials are available through the Internet Gopher system
+via a gopher server on site "gopher.vortex.com/".
+Access to PRIVACY Forum
+materials is also available through the Internet World Wide Web (WWW) via
+the Vortex Technology WWW server at the URL: "http://www.vortex.com";
+full keyword searching of all PRIVACY Forum files is available via
+WWW access.
+-----------------------------------------------------------------------------
+VOLUME 09, ISSUE 19
+Quote for the day:
+"Thing, you're a handful!"
+-- Morticia Addams (Anjelica Huston)
+"The Addams Family" (Paramount; 1991)
+----------------------------------------------------------------------
+Date:
+Sat, 02 Sep 2000 16:24:12 PDT
+From:
+lauren@vortex.com (Lauren Weinstein; PRIVACY Forum Moderator)
+Subject: PFIR Statement on Internet Hoaxes and Misinformation
+Greetings.
+A new People For Internet Responsibility statement,
+on the topic of misinformation and hoaxes on the Internet,
+is now available.
+It also includes some initial discussion
+(which will be elaborated in future statements) on the conflicting
+complexities of "anonymity" in the Internet environment.
+The statement is at:
+http://www.pfir.org/statements/hoaxes
+Thanks very much.
+--Lauren--
+Lauren Weinstein
+lauren@pfir.org or lauren@vortex.com or lauren@privacyforum.org
+Co-Founder, PFIR - People For Internet Responsibility - http://www.pfir.org
+Moderator, PRIVACY Forum - http://www.vortex.com
+Member, ACM Committee on Computers and Public Policy
+------------------------------
+Date:
+Sat, 02 Sep 2000 12:25:01 PDT
+From:
+lauren@vortex.com (Lauren Weinstein; PRIVACY Forum Moderator)
+Subject: The ":CueCat" -- Balancing Function and Privacy Can Be a Challenge
+Greetings.
+As most regular readers of the PRIVACY Forum know, privacy issues
+can be very complex, and attaining an appropriate balance between
+functionality and related privacy concerns can be a tricky task.
+Sometimes a
+situation that looks like a major problem may turn out to be
+less serious than might be initially anticipated, especially when the
+developers of the associated systems are open to advice regarding these
+matters.
+Such is the case in today's Digest.
+You've probably heard the phrase "There's no free lunch" -- meaning that you
+very rarely ever get something of value for nothing.
+So when a major
+campaign, backed by major corporate enterprises, begins to distribute free
+Web scanning hardware devices, promoted as enhancing users' Web browsing
+experiences, it seems appropriate to be at least a little bit wary.
+This
+was the situation when I first heard about a new device called the ":CueCat,"
+from developer Digital:Convergence Corp. of Texas
+(http://www.digitalconvergence.com).
+Millions of these devices will be provided to users for free at Radio Shack
+stores or will be available by mail for a shipping and handling charge.
+The
+units are small bar code scanners which can read the universal product codes
+and other bar-type codes found on products, and which will also be printed in
+magazine advertisements, catalogs, and other materials.
+The devices
+interface with personal computers via a keyboard cable in-line connection.
+An array of major companies will apparently be aligning themselves with this
+system, to allow users to simply scan a bar code and be taken directly to
+the associated Web sites and often deeply-linked pages.
+The cuteness factor
+is assured by the device actually resembling a somewhat stylized feline.
+(Since I'm a cat lover, this wins a few brownie points regardless of other
+factors...)
+So far so good -- sounds pretty nifty doesn't it?
+When you think about it
+though, such a device can't work unless there is a linkage between the units
+and a database that points to the appropriate Web pages.
+That's in fact how
+the :CueCat works.
+Each unit has an individual ID (serial number).
+When a
+code is scanned, the unit interrogates a central server which returns
+the appropriate Web page URL, which is then displayed by your normal
+browser.
+The transmitted unit serial number is linked to the data that you provide to
+the system via a Web site when the unit is first initialized for use.
+While
+some of their earlier software apparently asked for a fairly wide variety of
+demographic data, I've been told that the newer releases have dropped all
+but the more basic of questions (name, e-mail address to return the
+registration info, the serial number of the unit, age range, gender,
+zipcode).
+Obviously, users will make their own choices about whether or not
+they wish to answer even those questions with accurate information.
+Zipcode
+data in particular is apparently used to return geographically relevant
+pages when possible.
+Digital:Convergence strongly asserts that only aggregated statistical data
+are made available to their clients, and that specific non-aggregated data
+is never made available.
+In fact, they have told me that as the data is
+processed at intervals, the linkages to individual serial numbers are
+discarded, making it impossible for retrospective links to be established
+after that time, even internally.
+There's another aspect to their system as well -- their ":CRQ" software which
+supports the :CueCat environment.
+A cable can be used to connect computers
+with a television, radio, or virtually any other audio source, to pick up
+special encrypted cue tone bursts ("See Our Cue"?) that will automatically
+transfer Web browsers to particular Web pages as specified within the
+program or broadcast, either immediately or on a delayed basis (e.g., if the
+user is offline at the time).
+No need to rely on those pesky users to
+manually decide to enter a URL -- this system does it automatically and
+apparently without the need for human interaction.
+While this could have
+significant positive applications (follow along with photos and details
+during a newscast or other program, for example), the ramifications of this
+sort of "remote control" over a user's computer are significant and
+potentially far-reaching, even with the control mechanisms built into the
+software.
+This will be an area that will bear watching as it develops and
+is deployed.
+Digital:Convergence posts an extensive privacy policy on their associated
+Web sites, addressing a variety of important issues.
+However, perhaps my
+greatest concern as I first looked into these products, was the question of
+how many people would hook these devices into their computers without
+realizing that they actually do feed certain data back to a central
+system.
+If history and human nature are any guide, the vast majority of
+people will never even think to look at the :CueCat privacy policy at their
+Web sites or bother to read any click-through license agreements.
+I broached this issue with Digital:Convergence's chief technical officer
+during a lengthy phone call.
+In a rather stark contrast to the usual
+defensive posture that many corporate executives take in such situations, he
+instead immediately offered to implement my suggestion of an additional
+pop-up box during the software installation process to make these
+privacy-related points clearer, and in fact he composed the text and offered
+several versions for my comments and suggestions during the course of our
+call.
+The new pop-up will apparently be implemented in the downloadable
+version of their software very shortly, and in the units distributed through
+stores (on CD-ROMS) as soon as possible.
+The :Cuecat system seems to be an excellent example of the many conflicting
+elements that can come into play and that need to be brought into some sort
+of harmony, when dealing with the integration of various technologies and the
+Internet, especially when privacy concerns are in the mix.
+There are far
+more ways to do such things wrong than right, and the good intentions of the
+developers of such systems, combined with a willingness to accept and act
+upon outside input in the case of potential problems, can be paramount.
+Proper, meaningful advance notification and realistic informed consent are
+crucial in Web environments (and the physical world), both to avoid actual
+abuses and the appearance of abuse.
+While the :CueCat and :CRQ systems do
+carry the potential for privacy problems, this does not necessarily mean
+that such problems will actually come to pass.
+In this case, and for now at
+least, I believe that Digital:Convergence deserves the benefit of the doubt
+with these products.
+Time will tell, and I'll keep you informed.
+--Lauren--
+Lauren Weinstein
+lauren@pfir.org or lauren@vortex.com or lauren@privacyforum.org
+Co-Founder, PFIR - People For Internet Responsibility - http://www.pfir.org
+Moderator, PRIVACY Forum - http://www.vortex.com
+Member, ACM Committee on Computers and Public Policy
+------------------------------
+Date:
+Fri, 01 Sep 2000 09:11:50 EDT
+From:
+Sol Bermann <bermann@osc.edu>
+Subject: Privacy2000 Press Release 9/1
+NEWS FROM OSC
+August 31, 2000
+FOR IMMEDIATE RELEASE
+PRIVACY2000:
+Are Privacy and the Free Flow of Information Incompatible?
+COLUMBUS, Ohio: As a flood of personal data is collected over the Internet,
+privacy has become a critical topic of discussion for businesses, consumers,
+advocates and the government. The Technology Policy Group and OSC will host
+Privacy2000, October 31-November 1 in Columbus, Ohio to address the needs of
+these groups.
+PRIVACY2000 draws from all sides of the privacy debate and allows participants
+the opportunity to interact with experts, learn best practices, and form their
+own privacy solutions.
+Whether discussing business planning, policy making or advocacy, Privacy2000
+will have experts on hand to help participants achieve their privacy goals.
+But not all experts will agree on the best solution.
+Businesses can gain consumer trust by adopting privacy measures even as they
+improve the customer's shopping experience through effective personalization.
+In the hyper-competitive world of the Internet, the added convenience created
+by personalization can be a key differentiator, said Jeff Harbison, CEO of
+Elity Systems and a member of the Personalization Consortium.
+However, Ari Schwartz, senior policy analyst for the Center for Democracy and
+Technology, warns that "Privacy on the Internet can only be insured through
+work in three areas: baseline legislation incorporating fair information
+practices; self-regulatory models that encourage responsible industry
+practices and promote public education; and privacy enhancing technologies
+that will help users turn the tide on privacy invasive technologies."
+The issue of privacy will be one of the most controversial areas of public and
+private policy over the next decade.
+Some have asked, "If you have nothing to hide, why be so concerned about
+privacy? said George Trubow, Director of the Center for Information Technology
+& Privacy Law, John Marshall Law School.
+I answer, "it's not that I have
+something to hide, it's that I have something to protect, which is my own
+persona and personal dignity --that's what privacy is about.
+Numerous speakers will join Mr. Harbison, Mr. Schwartz, and Mr. Trubow in
+sharing their views on privacy during the two-day PRIVACY2000 conference.
+October 31 is designed for business leaders and policy makers who need to
+know the privacy playing field, and will offer a hands-on approach to
+learning about and coping with the legal, technological and practical issues
+related to the protection of personal data and the free flow of
+information.
+The day will conclude with a televised roundtable, followed by
+a networking reception.
+November 1 is designed for decision makers on the front lines of implementing
+policy and technology solutions, and will offer a unique, highly informative
+and interactive workshop, which will go from "soup to nuts" on how to create
+and implement a privacy policy.
+PRIVACY2000 is held at the Adam's Mark Hotel in Columbus, Ohio.
+For more information about PRIVACY2000, contact Sol Bermann, Legal Project
+Manager, Technology Policy Group, at (614) 688-4578, or bermann@osc.edu or go
+to www.privacy2000.org/.
+------------------------------
+Date:
+Sun, 20 Aug 2000 20:38:24 EDT
+From:
+Monty Solomon <monty@roscom.com>
+Subject: AG Reilly Praises Decision to Keep Toysmart
+From Selling Consumers' Personal Information
+http://www.ago.state.ma.us/toystoys.asp
+Office of Attorney General Tom Reilly
+NEWS RELEASE
+FOR IMMEDIATE RELEASE
+AUGUST 17, 2000
+CONTACT:
+MARSHA COHEN
+(617) 727-2543
+A.G. REILLY PRAISES DECISION TO KEEP TOYSMART FROM SELLING CONSUMERS'
+PERSONAL INFORMATION
+BOSTON -- Attorney General Tom Reilly praised the fact that a decision by a
+federal bankruptcy judge will keep a bankrupt online toy store from selling
+consumers' personal information for now.
+United States Bankruptcy Court Judge Carol Kenner today denied a motion by
+Toysmart.com to approve a settlement it had reached with the Federal Trade
+Commission (FTC) to sell its customer list as an asset to a third party.
+Toysmart.com is an educational on-line toy store based in Waltham. Judge
+Kenner put off a final decision on whether the customer list can be sold in
+the future and, if so, whether restrictions will be imposed. The list cannot
+be sold as long as there is no buyer, which means that the rights of
+Toysmart's customers remain protected.
+"This decision is a victory for consumers and everyone interested in
+Internet privacy," said AG Reilly. "For now, the Attorneys General have
+achieved their goal by preserving the privacy rights of Toysmart's
+customers."
+"When this issue comes up again, and we expect that it could in this case,
+we will continue to fight for the highest standard when it comes to
+protecting the personal information consumers give over the internet," AG
+Reilly added. "I am proud that Massachusetts led this effort to protect the
+privacy rights of unsuspecting consumers and to keep their very personal
+information out of the hands of the highest bidder."
+AG Reilly led 43 other states and two territories, and the District of
+Columbia in objecting to the settlement, saying it did not go far enough to
+adequately protect the privacy rights of consumers, and urging that the
+customer list should not be sold without consumers first agreeing.
+Toysmart had posted on its website a policy pledging that the company would
+never share its customers' personal information with third parties.
+However, after financial problems forced Toysmart to file for bankruptcy,
+the company did seek permission to sell the customer list that contained
+consumers' names, addresses, billing information, credit card numbers and
+browsing and purchasing histories as part of its assets. This effort was
+opposed by the states and initially by the FTC.
+Recently, the FTC settled its concerns with Toysmart, and filed the
+stipulation in Bankruptcy Court that required Judge Kenner's approval.
+The other states and territories joining Attorney General Reilly in the case
+are Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware,
+Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky,
+Louisiana, Maine, Maryland, Michigan, Minnesota, Mississippi, Missouri,
+Montana, Nevada, New Hampshire, New Jersey, New Mexico, North Carolina,
+North Dakota, Northern Mariana Islands, Ohio, Oklahoma, Oregon,
+Pennsylvania, Rhode Island, South Carolina, Tennessee, Utah, Vermont,
+Virgin Islands, Virginia, Washington, West Virginia, Wisconsin, and Wyoming,
+and the District of Columbia.
+Assistant Attorney General Pamela Kogut of AG Reilly's Consumer Protection
+and Antitrust Division handled the case.
+Click here to read the Bankruptcy Court filing...
+http://www.ago.state.ma.us/oppositi.pdf
+[ Amazon.com (http://www.amazon.com) has recently changed their
+privacy policy to explicitly state that they consider customer
+data to be an asset subject to being bought or sold:
+"As we continue to develop our business, we might sell or buy
+stores or assets.
+In such transactions, customer information
+generally is one of the transferred business assets. Also, in
+the unlikely event that Amazon.com, Inc., or substantially all
+of its assets are acquired, customer information will of course
+be one of the transferred assets."
+Since for many businesses (Internet-based or "stone and mortar"),
+their customer data may be among their most valuable assets
+(sometimes their only real assets), this whole area is very much an
+open question worthy of rigorous study and debate.
+By the way, the Amazon.com privacy policy also acknowledges that
+they often attempt to determine when you open e-mail sent to you
+from Amazon.com.
+That is, they apparently are using an e-mail/Web
+server "bug" technique (such as "invisible" images) within at
+least some of their html-based e-mail.
+-- PRIVACY Forum Moderator ]
+------------------------------
+Date:
+Mon, 24 Jul 2000 16:35:51 EDT
+From:
+Jud Wolfskill <wolfskil@MIT.EDU>
+Subject: Book Announcement: "Trust and Risk in Internet Commerce"
+The following is a book which readers of this list might find of
+interest.
+For more information please visit
+http://mitpress.mit.edu/promotions/books/CAMTHF99
+Trust and Risk in Internet Commerce
+L. Jean Camp
+As Internet-based commerce becomes commonplace, it is important that we
+examine the systems used for these financial transactions. Underlying
+each system is a set of assumptions, particularly about trust and risk.
+To evaluate systems, and thus to determine one's own risks, requires an
+understanding of the dimensions of trust: security, privacy, and
+reliability.
+In this book Jean Camp focuses on two major yet frequently overlooked
+issues in the design of Internet commerce systems--trust and risk.
+Trust and risk are closely linked. The level of risk can be determined
+by looking at who trusts whom in Internet commerce transactions. Who
+will pay, in terms of money and data, if trust is misplaced? When the
+inevitable early failures occur, who will be at risk? Who is "liable"
+when there is a trusted third party? Why is it necessary to trust this
+party? What exactly is this party trusted to do? To answer such
+questions requires an understanding of security, record-keeping,
+privacy, and reliability.
+The author's goal is twofold: first, to provide information on trust
+and risk to businesses that are developing electronic commerce systems;
+and second, to help consumers understand the risks in using the
+Internet for purchases and show them how to protect themselves. Rather
+than propose a single model of an Internet commerce system, the author
+provides the information and insights needed by merchants and consumers
+as they develop the Internet for commerce.
+L. Jean Camp is Assistant Professor at Harvard University's Kennedy
+School of Government.
+6 x 9, 292 pp., 25 illus., cloth ISBN 0-262-03271-6
+--------------------------------------------------------------
+Jud Wolfskill
+Associate Publicist
+Phone:
+(617) 253-2079
+MIT Press
+Fax:
+(617) 253-1709
+Five Cambridge Center
+E-mail: wolfskil@mit.edu
+Cambridge, MA
+02142-1493
+http://mitpress.mit.edu
+------------------------------
+End of PRIVACY Forum Digest 09.19
+************************
+PRIVACY Forum Home Page
+Vortex Technology Home Page
+Copyright © 2005 Vortex Technology.
+All Rights Reserved.

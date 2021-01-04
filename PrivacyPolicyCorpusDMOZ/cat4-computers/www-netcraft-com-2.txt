@@ -1,0 +1,117 @@
+https://www.netcraft.com/privacy/
+Fair Use: Please note that use of the Netcraft site is
+subject to our Fair Use and Copyright policies.
+For more information,
+please visit https://www.netcraft.com/terms,
+or email info@netcraft.com.
+Warning! You are using an unsupported browser, which means some features may not work as expected. Netcraft recommends upgrading for a better experience.
+Who we are
+We are Netcraft Limited (“we”, “our”, “us”) and operate under the name of Netcraft. This privacy policy explains how we use any personal information we collect about you when using our services (“services”):
+Netcraft owned websites (“sites”);
+Netcraft’s Report service (report.netcraft.com);
+Netcraft’s apps and extensions for browsers/mobiles and mail clients (“apps”).
+If you have any queries or requests concerning your personal information, please contact us at webmaster@netcraft.com.
+What information about you do we collect?
+Contact Information
+When you complete a contact form on our sites, you may provide the following information:
+Name;
+Email address;
+Contact telephone number;
+Company name.
+Your name and email address may also be shared with us when you install the apps through a store such as Google Play or Microsoft AppSource.
+Hostnames
+During use of the apps for browser/Android we will collect the following information from you:
+The website hostnames (not full URLs) you visit whilst browsing the web with protection enabled. These are used to identify malicious URLs (e.g. /fake-bank-login.html) that should be blocked within the hostname being visited. We do not collect details of the URLs that you are visiting, as these are only checked locally on your device. For example, if you visit “www.example.com/page/home", we will collect “www.example.com”. For the Android app, a list of supported apps installed on your device can be found under “Your supported apps” in the app’s settings;
+Where a web site loads malicious JavaScript, or where a credential leak is detected, the URL of the web site is also collected to aid analysis of the attack. We do not collect personal information which can identify the browsing habits of individual users. You can opt-out of sending these reports.
+Some versions of the apps provide an SMS protection feature. These versions can be identified by a “SMS Protection” checklist item in the app’s home screen. These versions of the app collect hostnames (e.g. www.netcraft.com) contained within incoming SMS messages that you receive while the “Scan SMS messages” option is enabled. These are used to identify malicious URLs (e.g. /fake-bank-login.html) within the SMS message. These URLs are only checked locally on your device. If we detect a malicious URL within an SMS, then we will also collect the timestamp, caller-id of the sender, cryptographic hash of the message body (the message itself is not readable), and a list of the phishing URLs found.
+Malicious Site Reports
+When reporting a malicious site through the apps or on report.netcraft.com, the following information is provided to us:
+The URL of the site to report as malicious. These URLs may be visited by an automated process to check for malicious content and in some scenarios may visit sites that contain personal information. For instance the URL may contain your email address;
+If you opt to provide an email address, we will store it on your device. Whenever you submit a malicious URL via the app, this email address will be included in the report so that you can track your submissions.
+Malicious Email Reports
+When reporting a malicious email through the mail extensions or by forwarding to scam@netcraft.com, the following information is sent to us:
+Email address of the sender;
+Subject;
+Message content;
+Email address of the recipient(s).
+Analytics
+Websites
+Our sites use Google Analytics and Facebook Pixel to monitor the activity of users, so that we can make improvements to provide a better user experience. This information is not personally identifiable.
+You can opt out of these analytics at any time by clicking the buttons below:
+Opt-out
+Browser extension
+Analytics information is provided to us when an attempt to visit a URL is blocked by the Netcraft Browser Extension in versions 1.16.0 onwards. This is collected to improve the quality of the feed and aid in the identification of false positives. The following information is sent to us:
+The URL that was blocked
+The reason the site was blocked
+The version of the extension that you are using
+Country that the page was visited
+Information about your device, such as operating system and browser
+We do not collect personal information which can identify the browsing habits of individual users. You can opt out by disabling “Allow analytics” in the options page of the extension.
+Advertising
+Our sites use Facebook and Google analytics to generate audience lists for re-marketing adverts. This means that after visiting our site you might see our adverts on other sites in Facebook’s audience network or Google’s content network.
+By opting out of analytics above you can exclude yourself from being added to our audience lists in future. You can also configure your Google or Facebook settings to prevent these adverts:
+https://support.google.com/ads/answer/2662922
+https://www.facebook.com/help/568137493302217
+You may still occasionally see our adverts around the web, but they won’t have been personally targeted.
+Cookies
+Our sites make use of cookies to improve the experience and allow us to monitor its usage. You may see the following cookies in use:
+Cookie
+Name
+Purpose
+Cookie Preference
+cookiesConsented
+This cookie remembers your preference as to whether you’d like to store cookies in your browser
+Analytics opt-out
+analyticsOptOut
+This cookie is set when you choose to opt out of recording Google Analytics measurements as you browse this site
+Facebook Pixel
+_fbp
+These cookies are used by Facebook Pixel to collect site usage information and generate audience lists for advertising. This information is anonymised so cannot be used to personally identify you
+Google Analytics
+_ga_gid_gat_gat_allSites
+These cookies are used by Google Analytics to collect site usage information and generate audience lists for advertising. This information is anonymised so cannot be used to personally identify you
+Google Analytics (legacy)
+__utma__utmb__utmz__utmc__utmt__utmv__utmt_b
+These cookies were used by an older version of Google Analytics and have been replaced with the ones above.
+Webserver Logs
+When you browse our sites or use our APIs, information will be received in our webserver logs containing:
+Your IP address;
+Information about your device (such as operating system and browser);
+The URL you requested;
+The referring page from which the request was made.
+Why have we collected information?
+Under the General Data Protection Regulation (GDPR), the lawful bases we rely on for processing this information are:
+Contract
+Some data collected is required by us to provide the service which you have requested, such as:
+Using a website hostname to detect whether malicious content is being hosted there;
+Responding to a query/request which you have submitted;
+Notifying you via email when new articles are posted on the mailing list;
+Providing you with information about a site.
+Legal Obligation
+We may share data with, if required, government bodies and law enforcement agencies.
+Legitimate Interest
+We process some data for particular legitimate business purposes, such as:
+Monitoring how our services are used through logs, in order to determine their effectiveness and make improvements where necessary;
+Troubleshooting issues with and maintaining security of our services by using webserver logs;
+Aggregating hostname data from users of our apps in order to determine the busiest websites and other statistics, as well as using them as candidates for inclusion in our monthly Web Server Survey;
+Notifying you via email when the status of a malicious site submission has been updated. If you do not want to receive these updates, we provide an unsubscribe link in every email sent to you concerning your reports, which can be used to stop any further email updates regarding any and all of your reports.
+How will we use your information?
+Your data is used to allow us to provide our services. On occasion, we may share malicious mails that you forward to us with our customers, if the malicious content in the mail pertains to that customer. Otherwise, your personal data will never be shared with any third parties except successors in title to our business and, if required, government bodies and law enforcement agencies. We may aggregate data from our users to produce reports that may be shared; this data is anonymised and cannot be associated with specific users.
+What are your rights?
+Under data protection law, you have rights including:
+Your right of access - You have the right to ask us for copies of your personal information;
+Your right to rectification - You have the right to ask us to rectify information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete;
+Your right to erasure - You have the right to ask us to erase your personal information in certain circumstances;
+Your right to restriction of processing - You have the right to ask us to restrict the processing of your information in certain circumstances;
+Your right to object to processing - You have the the right to object to the processing of your personal data in certain circumstances;
+Your right to data portability - You have the right to ask that we transfer the information you gave us to another organisation, or to you, in certain circumstances;
+You are not required to pay any charge for exercising your rights. If you make a request, we have one month to respond to you.
+Please contact us at
+webmaster@netcraft.com
++44 (0) 1225 447500
+2 Belmont, Bath, BA1 5DZ, United Kingdom
+if you wish to make a request.
+This page was last updated on Tuesday, Aug 4, 2020.
+This website makes use of cookies to improve your experience and supply you with relevant advertising around the web. Read our privacy policy for more information
+Reject
+Accept

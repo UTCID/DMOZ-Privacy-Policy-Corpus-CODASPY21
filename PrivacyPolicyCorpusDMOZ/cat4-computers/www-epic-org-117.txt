@@ -1,0 +1,406 @@
+http://www.epic.org/privacy/drivers/edr_comm81304.html
+Before the
+NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION
+Washington, D.C. 20590
+Docket No. NHTSA-2004-18029
+COMMENTS OF THE ELECTRONIC PRIVACY INFORMATION CENTER
+August 13, 2004
+The Electronic Privacy Information Center (EPIC) respectfully
+submits these comments on the proposed rulemaking by the National Highway
+Traffic Safety Administration (NHTSA) to standardize the data format of event
+data recorders (EDRs), or "black boxes," in passenger vehicles.[1]
+Our comments focus on the privacy implications of EDR technology.
+The NHTSA should protect the privacy of vehicle owners and drivers
+with respect to their EDR data in order to effectively meet the goals of NHTSA.
+The primary mission of NHTSA is to increase the safety of motor vehicles,
+reduce deaths and injuries from motor vehicle crashes, and to research driver
+and traffic safety. In order to ensure public acceptance of EDR data collection
+and its use for NHTSA purposes, such as in centralized, statistical research
+databases,[2] basic privacy protections must be provided and clearly communicated
+to the public.
+Many privacy risks develop incrementally, and to address these
+risks, it is important to preemptively establish privacy protections. EDRs
+present serious privacy issues that have been developing incrementally. Just
+two months ago, NHTSA claimed that it did not intend to require manufacturers
+to install EDRs. Now, the National Transportation Safety Board has called
+for mandatory EDR installation following the investigation of the 2003 accident
+involving an elderly driver that resulted in ten deaths.[3] Requiring EDR
+installation together with standardizing the EDR data format as detailed in
+this proposed rulemaking would create a vast government-mandated data collection
+regime that demands privacy protection. And because EDRs are following the
+pattern of an incremental privacy risk, it is important to protect drivers'
+data now before the devices are routinely connected to communications systems
+that will allow remote access or periodic data transfer. Privacy involves a series of rights and responsibilities in personal
+information known as Fair Information Practices (FIPs), upon which our federal
+privacy statutes are based. Furthermore, other government agencies, corporations,
+and foreign government organizations have adopted FIPs when creating privacy
+laws and policies. These guidelines would provide an effective framework for
+addressing the privacy issues surrounding EDRs because they provide strong,
+privacy rules. FIPs incorporate eight core principles:
+Collection Limitation Principle: There should be limits to the collection
+of personal data and any such data should be obtained by lawful and fair
+means and, where appropriate, with the knowledge or consent of the data
+subject.
+Data Quality Principle: Personal data should be relevant to the purposes
+for which they are to be used, and, to the extent necessary for those purposes,
+should be accurate, complete and kept up-to-date.
+Purpose Specification Principle: The purposes for which personal data
+are collected should be specified not later than at the time of collection
+and the subsequent use limited to the fulfillment of those purposes or such
+others as are not incompatible with those purposes and as are specified
+on each occasion of change of purpose.
+Use Limitation Principle: Personal data should not be disclosed, made
+available or otherwise used for purposes other than those specified in accordance
+with Purpose Specification Principle except: (a) with the consent of the
+data subject; or (b) by the authority of law.
+Security Safeguards Principle: Personal data should be protected by reasonable
+security safeguards against such risks as loss or unauthorized access, destruction,
+use, modification or disclosure of data.
+Openness Principle: There should be a general policy of openness about
+developments, practices and policies with respect to personal data. Means
+should be readily available of establishing the existence and nature of
+personal data, and the main purposes of their use, as well as the identity
+and usual residence of the data controller.
+Individual Participation Principle: An individual should have the right:
+(a) to obtain from the a data controller, or otherwise, confirmation of
+whether or not the data controller has data relating to him;
+(b) to have communicated to him, data relating to him within a reasonable
+time; at a charge, if any, that is not excessive; in a reasonable manner;
+and in a form that is readily intelligible to him;
+(c) to be given reasons if a request made under sub-paragraphs (a) and (b)
+is denied, and to be able to challenge such denial; and
+(d) to challenge data relating to him and, if the challenge is successful,
+to have the data erased, rectified, completed or amended.
+Accountability Principle: A data controller should be accountable for
+complying with measures, which give effect to the principles stated above.
+EPIC Recommendations
+The NHTSA has addressed only one of the principles of Fair Information
+Practices in the proposed rule while generally ignoring the others. Only "notice"
+is provided, a right deriving from the Openness Principle. We think it irresponsible
+to focus solely on the issue of notice and disclosure. In proposing the EDR
+data standards, the NHTSA is creating a new industry-wide data collection
+regime and must take responsibility for the privacy implications created.
+The NHTSA claims that it "do[es] not have authority over
+such areas as who owns the information that has been recorded."[4] However,
+avoiding this issue not only abdicates the responsibility that comes with
+creating a powerful new data collection regime, but as mentioned, potentially
+endangers the mission of the NHTSA. Therefore, we recommend that the proposed rule be amended as follows
+in order to protect the privacy of vehicle owners and drivers and to advance
+the mission of the NHTSA:
+The vehicle owner should be explicitly recognized as the owner of the
+EDR data.
+Consent of the vehicle owner should be required for the disclosure of
+EDR driving data to the NHTSA or any other government or commercial organization,
+including automotive insurance companies. Such consent should be fully consensual,
+meaning for example that automotive insurance contracts should not be conditioned
+upon access to EDR data.
+For EDRs that use communications systems – such as OnStar, which
+uses wireless phone networks – the EDR should not initiate communication
+unless an accident is detected or if the driver uses a manual feature to
+initiate communications for purposes of transmitting driving data.
+The vehicle identification number (VIN) should be partially collected
+because it contains useful information for NHTSA and researchers. However,
+the unique serial number portion of the VIN – a personal identifier
+– should not be collected. The NHTSA should create a website aimed at educating the public on EDR
+technology, its uses, and which organizations may gain access to EDR data. In order to maintain the accuracy of EDR information, the vehicle owner
+should be instructed to have the EDR inspected if the vehicle has been involved
+in an accident, flooding or fire.
+While most of the foregoing recommendations involve changes to the proposed
+EDR notice in the vehicle owner manual, the NHTSA should craft companion
+regulations consistent with these recommendations to fully protect the privacy
+rights of vehicle owners and drivers.
+Many other "customers" for EDR driving information are planning
+to gain access to the increasing amounts of EDR data being generated. In particular,
+the automotive insurance industry has begun to seek and use EDR data. Its
+motivation to continue to do so will increase as the amount and availability
+of EDR data grows, benefiting from the NHTSA standardization initiative. While
+some insurance uses are legitimate and required, others such as risk-based
+pricing driven by the collection and analysis of EDR present other serious
+issues. While such issues may fall outside the mandate of the NHTSA in this
+proposed rulemaking, the NHTSA has the responsibility to provide basic privacy
+protections and clearly communicate to the public how EDR technology will
+be used.
+By ignoring the issue of real time collection of EDR data –
+a feature not yet widely implemented – the NHTSA is creating another
+serious privacy risk. Although the feature is not provided on the majority
+of EDR systems installed today, it will certainly become widely prevalent
+well before the date that the proposed rule will become effective in 2008
+and should therefore be addressed in this rulemaking.
+If these privacy risks are not addressed in a serious manner,
+other organizations – both government and private – will successfully
+gain access to EDR data in violation of individual privacy rights. The resulting
+legal and political challenges from the huge class of affected people –
+all vehicle owners and drivers – will undoubtedly endanger the primary
+purpose of EDR data: for the NHTSA and other Department of Transportation
+agencies to improve vehicle and roadway safety. NHTSA Studies of EDR Privacy Implications The NHTSA and other Department of Transportation agencies have
+long recognized the importance of protecting individual privacy in the EDR
+context. Specifically, the NHTSA has consistently maintained that the vehicle
+owner also owns the EDR data, although it fails to include this finding in
+the proposed rulemaking.[5] In other reports the NHTSA said, "It is the
+National Highway Traffic Safety Administration’s (NHTSA) position that
+the owner of the subject vehicle owns the data from the Event Data Recorder
+(EDR). In order to gain access to the data the government would have to receive
+a release for the data from the owner of the vehicle."[6] Additionally,
+in a 2001 report to Congress, the Federal Motor Carrier Safety Administration
+found that the vehicle owner "at any time should own the EDR data."[7]
+Rather than requiring a short notice buried in vehicle owners'
+manuals, NHTSA should embrace its own findings and recommendations in protecting
+driver privacy in EDR data. (Recommendation One) The proposed notice at §
+563.11 "Information in owner's manual" should be amended to include
+the following statement: "The EDR data belongs to the vehicle owner."
+(Recommendation Two) The proposed notice at § 563.11 "Information
+in owner's manual" should be amended to include the following statements:
+"Your consent is required for the data to be disclosed to the National
+Highway Traffic Safety Administration – a federal agency that gathers
+information about traffic accidents to improve vehicle and road safety –
+or any other government or private organization, including automotive insurance
+companies."
+Advances in EDR Data Collection As the NHTSA begins the important task of regulating the collection
+of driving information through EDRs, the rapid advances of EDR technology
+demand that the NHTSA seriously analyze the privacy implications of these
+new features. In the majority of EDR systems, the data is not collected in
+real time but rather after an accident or traffic law violation. However,
+an increasing number of EDR systems allow for data collection in real time.
+Additionally, newer EDR systems allow for data collection over
+communications networks rather than via a manual device. The first generation
+of these systems is called automatic collision notification (ACN) systems,
+which automatically transmit driving information to an emergency response
+center when an accident is detected. These systems include the OnStar system,
+available on vehicles from the many automotive manufacturers including Acura,
+Audi, General Motors, Isuzu, Subaru and Volkswagon. High-end European manufacturers
+use similar ACN-enabled EDRs from ATX Technologies, including BMW, Mercedes-Benz,
+and Rolls-Royce. (Recommendation Three) The proposed notice at § 563.11
+"Information in owner's manual" should be amended to include the
+following statements (for vehicles that contain ACN or EDR that are otherwise
+connected to a communications network): "The event data recorder is connected
+to a communication system capable of automatically contacting emergency services
+when it detects an accident. The event data recorder will only initiate communication
+in the event of an accident or if the driver uses the manual feature to initiate
+communication with either emergency services or the communications provider
+(e.g. for a service that provides driving directions from an operator)." Even more advanced systems continue to be developed such as the
+MACBox (Mobile Accident Camera) – thus far only used in research studies
+– which automatically uploads driving information over wireless phone
+networks, including trip length, trip duration, route choice and second-by-second
+speed and acceleration.[8] Other advances in EDR technology include video
+recording. Another MACbox model, not yet widely used in passenger vehicles,
+would record video and automatically uploads this and other driving information
+to a central database.[9]
+ACN-enabled EDRs have already been used as a law enforcement surveillance
+tool and such use will increase as more vehicles become so equipped. In 2003,
+the FBI procured a wiretap order requiring an ACN provider to remotely configure
+the system to go into "listen mode," allowing audio surveillance
+of those in the vehicle.[10] Because this strategy interfered with the emergency
+features of the system, the Court of Appeals for the Ninth held that the order
+was not proper.[11] However, the Court held that generally an ACN provider
+is a "telecommunications carrier," and therefore required by statute
+to assist law enforcement with carrying out such orders.[12] The extent to
+which ACN-enabled EDR systems can accommodate such surveillance without interfering
+with the emergency features is unknown, although engineering the systems to
+accommodate the dual-use would be straightforward. The trend towards these advanced EDR features – location
+data, video data, real time collection and law enforcement access –
+will undoubtedly continue. In 2001, the Federal Communications Commission
+mandated that wireless phone carriers upgrade their communications network
+for the Enhanced 911 (E911) system. E911 relays the Global Positioning System
+(GPS) location data of the wireless caller to increase the effectiveness of
+emergency police and medical services. These features are still under implementation
+but are scheduled for completion in December 2005. ComCARE – a large
+national coalition of organizations (health care, emergency medical services,
+wireless providers, law enforcement) – is working to establish ACN systems
+using the E911 system. Third-Party Access to EDR Data Vehicle owners and drivers of vehicles must be notified and assured
+that EDR data will not be released or made available to third parties without
+their consent. Rather than requiring a short notice in vehicle owners' manuals,
+NHTSA should embrace its own findings and recommendations in protecting driver
+privacy in EDR data. (Same as Recommendation Two) The proposed notice at §
+563.11 "Information in owner's manual" should be amended to include
+the following statement: "Your consent is required for the data to be
+disclosed to the National Highway Traffic Safety Administration – a
+federal agency that gathers information about traffic accidents to improve
+vehicle and road safety – or any other government or private organization,
+including automotive insurance companies." EDRs are primarily represented and marketed as a technology to
+improve the safety of vehicles and roadways. But all of the stakeholders realize
+the significant secondary uses, some of which may eventually overshadow the
+original goals. For example, NHTSA lists the following groups as "customers"
+of EDR data: insurance companies, vehicle manufacturers, government, law enforcement,
+plaintiffs, defense attorneys, judges, juries, courts, prosecutors, human
+factors research, state insurance commissioners, parents groups, fleets and
+drivers, medical injury guideline data usage, vehicle owner, and transportation
+researchers and academics.[13]
+The automotive insurance industry has been identified as one of
+the major future customers of EDR data. While it has some legitimate needs
+to access and use EDR data, basic privacy protections must be included in
+the NHTSA proposed rule to protect the personal privacy of vehicle owners
+and drivers. Economic opportunities have already arisen for supplying EDR
+data to insurance companies in a semi-automated fashion. One such product
+is "EDR InSight," a product that "... offers access to a network
+of service providers throughout the United States who are equipped with the
+Vetronix Crash Data Retrieval (CDR) system to harvest the "black box"
+information and a secure data vault for these providers to transmit and store
+the information for secure viewing by the claims professional."[14] If
+commercial data brokers, such as Choicepoint, purchase access to such databases,
+EDR driving data could become part of the driving history report held on consumers
+by such data brokers. As EDR technology continues advance, the specter of centralized
+databases automatically populated by communication-enabled EDR systems –
+such as ACN – becomes a reality. If such databases are built, insurance
+companies will likely gain access to them. According to NHTSA, insurance companies
+have maintained that "an argument can be made that the existing standard
+policy language may allow the insurance company access to data from the EDR."[15]
+Such centralized databases are envisioned by EDR manufacturers: "The
+cumulative data stored in the security vault could then be made available
+to the public, government agencies, auto manufacturers, insurance companies
+and other authorized entities as needed."[16]
+Finally, a recent Rutgers Computer & Technology Law Journal
+article finds, as did the NHTSA, that the vehicle owner also owns his or her
+EDR driving information. "There are somewhat conflicting views as to
+who owns the EDR and the data collected by it. However, the prevailing view
+is that the owner of the vehicle ultimately owns the information contained
+within the EDR."[17]
+Vehicle Identification Numbers
+The proposed rulemaking does not include the Vehicle Identification
+Number (VIN) as part of the required data standard even though identifying
+the make, model and manufacturing origin of the vehicle – each encoded
+in the VIN – is important information for NHTSA researchers. The first
+eleven of the seventeen digits includes the useful information: country of
+manufacture (digit one), manufacturer (digit two), vehicle type or manufacturing
+division (digit three), vehicle features (digit four through eight), model
+year (digit ten) and assembly plant (digit eleven). The remaining digits (twelve
+though seventeen) are the unique identifier of the vehicle – and the
+vehicle owner. Vehicle owners and drivers should be notified and assured that
+the full VINs will not be collected by EDRs. The primary use of EDR identified
+by NHTSA – the research of and improvement of vehicle safety –
+only requires collection of the non-serial portion of the VIN. Therefore,
+we recommend that the EDR data format include collection of the VIN but only
+the first eleven digits. (Recommendation Four) The proposed notice at §
+563.11 "Information in owner's manual" should be amended to include
+the following statements: "Only the part of your vehicle identification
+number (VIN) that includes information about the make and model of your vehicle
+will be collected by the event data recorder. The unique serial number portion
+of the VIN will not be collected." While not traditionally considered personally identifiable information,
+the VIN has increasingly become personally identifiable. Obviously people
+other than the owner can drive a particular vehicle, but often the owner and
+the driver are one in the same. With the increased availability of commercial
+data brokering services, determining who owns a car identified by the VIN
+is simple. For example, the ChoicePoint "Vehicle Identification Number
+Services Plus" offers "detailed information about registered vehicles"
+when a VIN is queried.[18]
+Although the VIN is not included in the proposed NHTSA data format,
+it is often included in actual EDR systems. For example, the OnStar system
+stores and transmits the VIN over wireless networks.[19]
+The Public is Concerned about EDR and Could Benefit From
+Awareness Efforts EDR devices have been in use in passenger automobiles since 1994
+and their installation and use in new cars continues to increase. However,
+the public is largely unaware of EDR systems, how they operate, and who has
+access to the driving information they record. (Recommendation Five) NHTSA
+should, as part of the proposed rulemaking, mandate the creation of an EDR
+information website to educate the public about: (a) EDR technology and how
+it is used; (b) what types of government agencies and private companies may
+gain access to their EDR driving information and under what circumstances;
+(c) and what privacy rights vehicle owners have with respect to their EDR
+data.
+Sixty-five to ninety percent of model year 2004 passenger cars
+and other light record driving information data.[20] An estimated twenty-five
+million cars in the United States are already monitored by EDR systems.[21]
+However, the public remains uninformed about this form of data
+collection. According to the president of the Automotive Coalition for Traffic
+Safety – a group funded by the automakers – "If vehicle owners
+are not made aware of these systems, then potentially we have problems. By
+and large, the public is unaware they are in their vehicles."[22] According
+to an insurance industry group, nearly two-thirds of people surveyed were
+not aware of the existence of EDR systems.[23] At the same time, the members
+of the public who are aware of EDR and its privacy implications are deeply
+concerned about the technology.[24] EDR Accuracy NHTSA should seriously consider the ramifications of setting low
+survivability standards for EDR. Proper functioning of EDR systems becomes
+more critical as third parties including, for example, insurance companies
+and prosecutors are provided access to the collected driving data for their
+use. (Recommendation Six) The proposed notice at § 563.11 "Information
+in owner's manual" should be amended to include the following statements:
+"If your vehicle has been involved in a serious accident or has been
+subject to flooding or fire, your event data recorder may have been damaged.
+If it was involved in one of these situations, please have your event data
+recorder inspected by an authorized dealer."
+Problems with EDR reliability are likely to develop. As the Federal Highway
+Administration noted, "The EDR's [sic] cannot necessarily be expected
+to operate flawlessly and continuously given the technical and cost restraints
+and practical issues such as the possibility of damage to the EDR in the accident,
+unavailability of electrical power after the accident, and the likely degree
+of inattention of motorists to the EFT over the life of the vehicle, among
+other factors."[25]
+While the evidentiary reliability of the data continues be examined by courts,
+NHTSA must determine the survivability requirements in this proposed rulemaking.
+The proposal only calls for a "basic level of survivability," not
+including protection from, for example, fluid immersion.[26]
+Respectfully Submitted,
+Chris Jay Hoofnagle
+Associate Director
+Patrick Mueller
+IPIOP Clerk
+[1] Event Data Recorders, 69 Fed. Reg. 32932, Jun. 14, 2004, to be codified
+at 49 CFR Part 563.
+[2] Such databases include: (a) The National Automotive Sampling System (NASS)
+is the mechanism through which NHTSA collects nationally representative data
+on motor vehicle traffic crashes. (b) Special Crash Investigations (SCI) are
+conducted by NHTSA on crashes that are of special interest to NHTSA such as
+fatal and seriously injured children and adults in minor or moderately severe
+crashes involving an air bag. NHTSA Event Data Recorder Working Group, Privacy
+Concerns for the National Highway Traffic Safety Administration (1999).
+[3] See Associated Press, Black Boxes Recommended For Cars, Chicago Sun-Times,
+August 4, 2004, and John Crawley, U.S. Safety Board Wants Mandatory Auto Recorders,
+Reuters, August 3, 2003.
+[4] NHTSA, Notice of Proposed Rulemaking ("Event Data Recorders")
+32945 (2004).
+[5] NHTSA EDR Working Group, Event Data Recorders: Summary of Findings 53
+(2001).
+[6] NHTSA EDR Working Group, Privacy Concerns for the National Highway Traffic
+Safety Administration (1999).
+[7] Federal Motor Carrier Safety Administration, A Report to Congress on Electronic
+Control Module Technology for Use in Recording Vehicle Parameters During a
+Crash (2001).
+[8] Jane Sanders, Speed Racers, Research Horizons, February 9, 2002.
+[9] John Mackey et. al., Digital Eye-Witness Systems, International Symposium
+on Transportation Recorders, May 3-5, 1999.
+[10] Company v. United States, 349 F.3d 1132, 1146 (9th Cir. 2003).
+[11] The concern was that if the car was in an accident and the FBI was not
+listening to the line, the EDR would be unable to automatically contact emergency
+services. Id.
+[12] Id. at 1137-1144.
+[13] NHTSA, Using EDR Safety Data, available at http://www-nrd.nhtsa.dot.gov/edr-site/safety.html
+(last visited July 29, 2004).
+[14] Injury Sciences, "EDR InSight: Thinking Inside the Box," available
+at http://www.injurysciences.com/Products/Data_Harvesting.asp (last accessed
+July 30, 2004).
+[15] NHTSA EDR Working Group, Event Data Recorders: Summary of Findings 54
+(2001).
+[16] NHSA EDR Working Group, Event Data Recorders: Summary of Findings 55
+(2001) (emphasis added).
+[17] David Katz, Privacy in the Private Sector, 29 Rutgers Computer &
+Techn. L.J. 163, 164 (2003).
+[18] Vehicle Identification Number Services Plus, available at http://www.choicepoint.com/business/pc_ins/us_8.html
+(last accessed July 29, 2004); See also Chris Hoofnagle, Big Brother's Little
+Helpers: How ChoicePoint and Other Commercial Data Brokers Collect and Package
+Your Data for Law Enforcement, 29 N.C.J. Int'l L. & Com. Reg. 595.
+[19] Roger Allen, How GPS and OnStar Work, Electronic Design, March 31, 2003,
+available at http://www.elecdesign.com/Articles/ArticleID/2825/2825.html (last
+visited July 29, 2004).
+[20] NHTSA, Notice of Proposed Rulemaking ("Event Data Recorders")
+32933 (2004).
+[21] Ralph Vartabedian, Black Boxes Prompt Big Brother Objections, Los Angeles
+Times, November 5, 2003.
+[22] Cindy Skrzycki, Data Recorders in Cars Might Open Pandora's Black Box,
+Washington Post, July 27, 2004.
+[23] Matthew Fordahl, 'Black Box' For Cars a Surprise, Washington Times, July
+2, 2003.
+[24] See Cindy Skrzycki, Data Recorders in Cars Might Open Pandora's Black
+Box, Washington Post, July 27, 2004, and Ralph Vartabedian, Black Boxes Prompt
+Big Brother Objections, Los Angeles Times, November 5, 2003, and Don Oldenburg,
+The Snoop in Your Coupe; Data Recorders Interest Parents, Police, Washington
+Post, September 9, 2003, and Christopher Jensen, 'Black Box' in Cars an Invasion
+of Privacy?, Seattle Times, August 15, 2003, and Jeffrey Selingo, It's the
+Cars, Not the Tires, That Squeal, New York Times, October 25, 2001.
+[25] NHSA EDR Working Group, Potential Legal Issues for Federal Highway Administration
+(1998).
+[26] NHTSA, Notice of Proposed Rulemaking ("Event Data Recorders")
+32943 (2004).
+EPIC Privacy Page | EPIC
+Home Page
+Last Updated:
+August 13, 2004
+Page URL: http://www.epic.org/privacy/drivers/edr_comm81304.html

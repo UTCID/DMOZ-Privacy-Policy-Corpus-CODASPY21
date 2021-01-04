@@ -1,0 +1,42 @@
+https://www.lifewire.com/definition-of-wired-equivalent-privacy-816575
+Home Networking
+Wi-Fi & Wireless
+The Wireless Connection
+Routers & Firewalls
+Network Hubs
+ISP
+Broadband
+Ethernet
+Installing & Upgrading
+Tweet
+Share
+Email
+WEP (wired equivalent privacy) is a standard network protocol that adds security to Wi-Fi and other 802.11 wireless networks. WEP was designed to give wireless networks the same level of privacy protection as a comparable wired network, but technical flaws greatly limit its usefulness. Newer, stronger protection standards have replaced WEP as the default for most modern networks.
+How WEP Works
+WEP uses a data encryption scheme that is based on a combination of user- and system-generated key values. The original implementations of WEP supported encryption keys of 40 bits plus 24 additional bits of system-generated data, leading to keys of 64 bits in total length. To increase protection, these encryption methods were later extended to support longer keys, including 104-bit (128 bits of total data), 128-bit (152 bits total), and 232-bit (256 bits total) variations.
+When deployed over a Wi-Fi connection, WEP encrypts the data stream using these keys so that it is no longer human-readable but can be processed by receiving devices. The keys are not sent over the network but are stored on the wireless network adapter or in the Windows registry.
+WEP and Home Networking
+Consumers who purchased 802.11b/g routers in the early 2000s had no practical Wi-Fi security options available other than WEP. It served the basic purpose of protecting a home network against login by neighbors.
+Home broadband routers that support WEP commonly allow administrators to enter up to four different WEP keys into the router console so that the router can accept connections from clients set up with any one of these keys. Although this feature does not improve the security of any individual connection, it gives administrators added flexibility in distributing keys to client devices. For example, a homeowner may designate one key to be used only by family members and another key for visitors. With this feature, visitor keys can be changed or removed without modifying the family's devices.
+Why WEP Is Not Recommended for General Use
+WEP was introduced in 1999. Within a few years, several security researchers discovered flaws in its design. The "24 additional bits of system-generated data" is technically known as the initialization vector and proved to be a critical protocol flaw. With simple and readily available tools, a hacker can determine the WEP key and use it to break into an active Wi-Fi network.
+Vendor-specific enhancements to WEP such as WEP+ and dynamic WEP attempted to patch some of the shortcomings of WEP, but these technologies have proved unworkable.
+Replacements for WEP
+WPA replaced WEP in 2004, and WPA2 replaced WPA. Although running a network with WEP enabled is better than running with no wireless encryption protection at all, the difference is negligible from a security perspective.
+More from Lifewire
+What is a WEP Key?
+What's the Best Encryption to Secure My Wi-Fi Network?
+What Is Network Encryption?
+What Are WEP, WPA, and WPA2? Which Is Best?
+How to Set up Wi-Fi on Nintendo DSi
+Introduction to Wi-Fi Network Security
+What Is Wi-Fi Protected Access (WPA)?
+An Overview of Wireless Protected Access 2 (WPA2)
+Mastering the Use of Wi-Fi Network Security Keys
+How to Fix It When Nintendo Switch Won't Connect to Wi-Fi
+What Is a Wireless Key?
+The 9 Best Secure Routers of 2020
+How to Build a Wireless Home Network
+What Is a Network Security Key and How Do You Find It?
+How to Enable WEP or WPA Encryption to Protect Your Wireless Network
+What Is WPA3 Wi-Fi?

@@ -1,0 +1,503 @@
+http://www.hallnet.co.uk/terms-and-conditions
+Standard Terms & Conditions
+Last Updated: February 2016
+The following Terms and Conditions document is a legal agreement between ‘the Contractor’, and ‘the Client’ for the purposes of website, application or software development and/or related ongoing services. These Terms and Conditions set forth the provisions under which the Client may use the services supplied.
+1
+Definitions & Interpretations
+1.1 In these Terms, unless the context otherwise requires, the following expressions have the following meanings:
+“Application”
+means the Client's web site, application or software to be developed and/or serviced by the Contractor;
+“Agreement”
+is a written or electronic agreement between the Client and the Contractor for the Contractor to implement the Deliverables and Services subject to these Terms and including, where applicable, a description of the Deliverables and Services to be performed by the Contractor for the Client along with pricing and billing information and estimated schedules,
+“Client”
+The Client wishes to engage the Contractor to perform programming and/or related technical services;
+"Code"
+means all computer programming code (both object and source, unless otherwise specified), as modified or enhanced from time to time by the Contractor, including, without limitation, all interfaces, navigational devices, menus, menu structures or arrangements, icons, help, operational instructions. script, commands, syntax HTML, design, templates, and the literal and nonliteral expressions of ideas that operate, cause, create, direct, manipulate, access or otherwise affect the Content whether created or licensed from third parties by the Contractor including without limitation, any Intellectual Property Rights in such material;
+"Confidential Information"
+means in relation to either party any information which is disclosed to that party by the other party (whether or not developed by the other) and identified in writing as being Confidential Information, including, without limitation (a) the preparation and Specifications of the Deliverables and Services, (b) pre-existing or new information that relates to all ideas, designs, methods, discoveries, improvements, products or other results of consulting services, (c) trade secrets, (d) product data, (e) proprietary rights, (f) business and financial affairs, (g) product developments, and (h) customer and employee information;
+"Content"
+means all text, graphics, animation, audio and/or digital video components and all other components of the Deliverables and the selection and arrangement thereof, other than the Code whether created by the Contractor or provided by the Client for purposes of developing the Deliverables, including without limitation any Intellectual Property Rights therein;
+“Contractor”
+The Contractor carries on business providing programming and related technical services;
+“Dedicated Hosting”
+means that the server(s) hosting the system will not contain other Applications or systems belonging to other Clients;
+"Deliverables"
+means all Code other than source code, Content & materials to be provided by the Contractor for the Client;
+“Framework”
+means the software providing the fundamental structure that the system is built upon;
+“Framework Plugin”
+means a software component that adds a specific feature or set of features to the Framework;
+“Guaranteed Daily Resource”
+means, where the Client has not exceeded the Guaranteed Monthly Time Allocation, the total number of hours, as stated in the Work Statement, that the Contractor can guarantee to allocate to the Client on a working day;
+“Guaranteed Monthly Time Allocation”
+means the total number of hours, as stated in the Agreement, that the Contractor can guarantee to allocate to the Client each calendar month, for the duration of the Term, for the purpose of performing ad-hoc updates to the Application if such updates are requested and are subject to billing on a time & materials basis;
+“Hallnet Partner Hosting”
+means a hosting infrastructure supplied by a provider of the Contractors choosing and where the Contractor has full access;
+"Intellectual Property Rights"
+means any patent, copyright, trademark and design rights (in either case registered or unregistered) format rights, topography rights, trade secrets, moral right, right of attribution or integrity right to confidentiality know-how or other intellectual or industrial property rights or proprietary rights arising under the laws of any jurisdiction (including, without limitation, all claims and causes of action for infringement, misappropriation or violation thereof and all rights in any registrations and renewals);
+“Live Environment”
+means the location of the delivered Application where it may be used for the intended purpose;
+"Nonconformity”
+means a problem, issue, deficiency or bug that prevents an Application from being usable and/or from providing the expected functionality outlined in the Specifications
+Examples of issues which are considered Nonconformities:
+i.
+a page rendering incorrectly in a supported browser;
+ii. a Deliverable that has failed to be delivered;
+Examples of issues which are not considered Nonconformities:
+a.
+an Application interface or feature rendering incorrectly or functionality that is not working as expected as a result of:
+i. usage of the Application in any browser, browser version or device which is, at the date of the Agreement, not listed in the current version of the the Contractor’s Supported Browser & Device List;
+ii. usage of the Application in a browser that has been updated or released after the deliverable was delivered;
+iii. a third party browser extension or plugin;
+iv. a change or defect in an external system;
+v. a change made either by the Client or a 3rd party such as an additional Contractor;
+vi. external issues with the Client’s or end users hardware or software;
+vii. hardware that the Contractor has not agreed to support within the Work Statement;
+viii. non-standard use cases that the Contractor did not not agree to support in the Work Statement
+(such as display within an iframe);
+ix. non-default browser/device settings or non-default network settings;
+x. issues introduced through device/browser manufacturer or retailer modifications or settings;
+xi. known or unknown operating system and/or browser defects;
+xii. issues with any integrated 3rd party tools or software;
+xiii. server migration, unless the Client can demonstrate that the issue did not exist; prior to migration activities carried out by the Contractor;
+b.
+any issue that the Client cannot either demonstrate to the Contractor or provide the steps to enable the Contractor to replicate the issue;
+c.
+any issue relating to a solution and/or feature that the Contractor did not create or modify;
+d.
+any ‘How do I...’ or similar help requests from the Client;
+e.
+requests for Application modification;
+“Patch”
+means a non major version and non minor version update available from Framework or Framework Plugin provider for the purpose of fixing known bugs and/or security vulnerabilities;
+"Pre-existing Work"
+means any pre-existing original works of authorship contained in the Content and may be identified in a Work Statement;
+“Scheduled Downtime”
+means any period of time where the system is unavailable to all end users and where the Contractor and/or Client expected this;
+“Services"
+means services, specified as such in the Agreement, provided by the Contractor for the Client, including without limitation, ongoing services such as hosting, support and maintenance;
+“Shared Hosting”
+means that the server(s) hosting the system may contain systems belonging to third parties;
+"Specifications"
+means the requirements for the development of the Deliverables and/or Services, including operational and functional capabilities and performance;
+“Support Contact”
+means a mutually agreed representative of the Client that may log Support Requests;
+“Support Request”
+means a notification or question to the Contractor from a Support Contact of the Client, relating to a Nonconformity or request for assistance, via the Contractor’s dedicated support email address or support ticketing system. Requests for additional user training, information/statistics/reports, on-site callouts, assistance with setup/use of/problems with third party email clients on any devices, assistance with problems due to internet connection or equipment or assistance with any other issue beyond the control of the Contractor are not considered Support Requests;
+"Term"
+means the period of the Agreement subject to earlier termination in accordance with these Terms.
+The period of the Agreement shall be until a time that all Deliverables have been delivered by the Contractor or the Client has otherwise confirmed project acceptance in writing.
+Where the Agreement includes Services including, but not limited to, Hallnet Shared Hosting, ‘Retainer’ and/or ‘Ongoing Support & Maintenance’, the Term for these services will be stated in the Agreement;
+“Unscheduled Downtime”
+means any period of time where a system is unavailable to all end users and where the Contractor did not expect this or notify the Client in advance;
+1.2 Unless the context otherwise requires, each reference in these Terms to:
+1.2.1
+"writing", and any cognate expression, includes a reference to any communication effected by electronic transmission, facsimile transmission or similar means;
+1.2.2
+a "working day" is a reference to any day other than Saturday or Sunday which is not a bank or public holiday in the territory of either party;
+1.2.3
+“working hours” is a reference to the hours within the period of 09:30 to 17:30 GMT on any day other than Saturday or Sunday which is not a bank or public holiday in the territory of either party;
+1.2.4
+a statute or a provision of a statute is a reference to that statute or provision as amended or re-enacted at the relevant time;
+1.2.5
+"these Terms" is a reference to these Terms and each of the Annexes or Exhibits as amended or supplemented at the relevant time;
+1.2.6
+"the Agreement" is a reference to the Agreement, subject to these Terms and each of the Annexes or Exhibits as amended or supplemented at the relevant time;
+1.2.7
+a clause or paragraph is a reference to a Clause of these Terms
+1.3 In these Terms:
+1.3.1
+any reference to the parties includes a reference to their respective personal representatives, heirs, successors in title and permitted assignees;
+1.3.2
+any reference to a person includes any body corporate, unincorporated association, partnership or any other legal entity;
+1.3.3
+words importing the singular number include the plural and vice versa; and
+1.3.4
+words importing either gender include the other gender.
+1.4 The headings in these Terms are for convenience only and shall not affect its interpretation.
+2
+Scope
+2.1 The Contractor shall produce the Deliverables and other Services in accordance with the Agreement.
+2.2 The Contractor will use reasonable care and skill to complete the Deliverables and Services in a timely manner unless the obligations are subject to delays caused by unforeseen circumstances, by any voluntary action of the Client or of any third parties beyond the control of the Contractor. The Client agrees to notify the Contractor promptly of any event coming to its attention that may affect the Contractor's ability to meet the requirements of the Deliverables or Services, or that is likely to cause any material delay in delivery of the Deliverables or Services.
+2.3 Changes in Deliverables or Services shall become effective only upon written agreement of the parties. The Contractor shall accept any reasonable Deliverable change requests made by the Client that reduce the cost of performance; provided, however, that an equitable adjustment in compensation is made for the out of pocket costs of any performance or preparation already undertaken, and that the total reduction shall not be more than fifty (50) percent of the amount originally agreed to by the parties for delivery of the Deliverables. The Contractor shall make reasonable efforts to accommodate (but shall not be required to accept) any change requests made by the Client that increase the cost or magnitude of performance, provided that the proposed changes are reasonable in scope and the Client agrees to a commensurate increase in compensation.
+2.4 During a period of twenty-one (21) days following delivery of an Application to a Live Environment by the Contractor, the Contractor will endeavour to, at no cost the Client:
+(i) determine the root cause of Application issues, to identify if such issues are Nonconformities;
+(ii) rectify identified Nonconformities.
+After this period, these activities will be subject to standard billing and timescales may not be guaranteed.
+3
+Services - Ongoing - Hosting
+3.1 Where the Agreement does not state that the Application is to be located on ‘Hallnet Partner Hosting’, the Contractor is not liable for any Scheduled Downtime, Unscheduled Downtime, poor performance, loss of data and/or any issue caused by, but not limited to, changes on servers, insufficient disk space or application of updates (or lack thereof) or any changes resulting from security violations.
+3.2 Where the Agreement states that the Application is to be located on ‘Hallnet Partner Hosting’, for the duration of the Term of ‘Hallnet Partner Hosting’:
+3.2.1
+the Contractor is not liable for any Unscheduled Downtime caused by the Client or a third party, nor is the Contractor liable for any Scheduled Downtime however, if any instance of Unscheduled Downtime is determined to be caused by the Contractor's actions, the Contractor will reduce the hosting element of the Client's next invoice by:
+ten (10) percent of the Client’s monthly fee for hosting (in cases where Unscheduled Downtime caused by the Contractor in the month is more than than zero point zero five (0.05) percent but less than one (1) percent), or;
+thirty (30) percent of the Client’s monthly fee for hosting (in cases where the Unscheduled Downtime caused by the Contractor in the month is more than one (1) percent;
+3.2.2
+where the Contractor is to provide ‘Disk Space Monitoring’, the Contractor will, once per month, monitor available disk space on the server(s) hosting the Client’s Application in order to make recommendations to the Client where deemed necessary, however the Contractor is not liable for any issue caused by insufficient disk space;
+3.2.3
+where the Contractor is to provide ‘Automated Daily Backups’, the Contractor will, each night, run an automated script that takes a point-in-time snapshot of the contents of the server(s) hosting the Client’s Application, however, as this is not intended to provide a failsafe solution, the Contractor is not liable for any issue caused by this backup system, or failure thereof;
+3.2.4
+where the Contractor is to provide ‘Server Maintenance’, the Contractor will, once per month, apply to the server(s) hosting the Client’s Application available updates distributed by the server operating system provider. In the case of Shared Hosting this activity may include operating system version updates. In the case of Dedicated Hosting, this activity will not include operating system version updates. The decision of whether or not to apply any specific update is at the sole discretion of the Contractor. The Contractor is not liable for any issue caused by application, or lack of application, of any specific update;
+3.2.5
+the Contractor is not liable for any poor performance, loss of data and/or any issue caused by changes on server(s) by the Client or a third party.
+4
+Services - Ongoing - Retainers
+4.1 Where the Contractor is to provide services on the basis of a ‘retainer’, for the duration of the Term of the ‘retainer’ and applicable only to any Application covered by that ‘retainer’ as stated in the Agreement, the following provisions shall apply:
+4.1.1
+where the Client has not exceeded their Guaranteed Monthly Time Allocation and requests a modification to the Application and the modification is to be subject to billing on a time and materials basis, the Contractor will, unless other modifications or updates are in progress for the Client, endeavour to commence on performing the modification on the next working day and, each working day until the modification is completed (or the Guaranteed Monthly Time Allocation in reached), dedicate no less than the number of hours of the Client’s Guaranteed Daily Resource to performing modifications;
+4.1.2
+the Client is solely responsible for ensuring that they do not exceed their Guaranteed Monthly Time Allocation in any given month, in the event that they not wish to do so. Unused Guaranteed Monthly Time Allocation cannot be rolled over to following months and so the Client is solely responsible for ensuring that their remaining Guaranteed Monthly Time Allocation can be feasibly allocated by the Contractor without exceeding the Client’s Guaranteed Daily Resource;
+4.1.3
+where the Client has not exceeded their Guaranteed Monthly Time Allocation and the Contractor is unable to fulfil their Guaranteed Daily Resource obligations, or the Contractor is unable to commence on performing a requested modification on the next Working Day, the Contractor will reduce the ‘retainer’ element of the Client’s next invoice by ten (10) percent of the Clients monthly ‘retainer’ fee unless the obligations are subject to delays caused by unforeseen circumstances, by other modifications or updates for the Client that are already requested or in progress, by any voluntary action of the Client or of any third parties beyond the control of the Contractor;
+4.1.4
+where the Contractor is to provide ‘Regular System Review’, the Contractor will, for only the Application(s) and at a frequency stated in the Agreement, endeavour to carry out a review of the Application(s) and supply the Client with findings and recommendations. All review activities and dates along with format of findings and recommendations are are at the sole discretion of the Contractor.
+4.1.5
+Modifications to be carried out on a fixed price basis will remain subject to standard billing.
+5
+Services - Ongoing - Support and Maintenance
+5.1
+Where the Contractor is to provide ‘ongoing support & maintenance’, for the duration of the Term of ‘ongoing support & maintenance’ and applicable only to any Application covered by ‘ongoing support & maintenance’ as stated in the Agreement, the following provisions shall apply:
+5.1.1
+the Contractor shall make reasonable efforts to acknowledge a Client’s Support Request within two working hours. In any instance in which the Contractor fails to acknowledge such a Support Request within this time period, the Contractor will reduce the ‘ongoing support & maintenance’ element of the Client’s next invoice by ten (10) percent of the Client’s monthly fee for ‘ongoing support & maintenance’, upto a maximum total reduction of eighty (80) percent of the Client’s monthly fee for ‘ongoing support & maintenance’;
+5.1.2
+where the Application was originally created by the Contractor, the Contractor will endeavour to determine the root cause of Application issues, to identify if such issues are Nonconformities, in a timely manner at no cost to the Client;
+5.1.3
+where the Application was originally created by the Contractor, the Contractor will endeavour to rectify identified Nonconformities in a timely manner at no cost to the Client;
+5.1.4
+the Contractor will apply to the Application updates necessary to support changes to any integrated third party service(s) that were, solely by the Contractor, selected for inclusion within the Application. The decision of whether or not to apply any specific update is at the sole discretion of the Contractor. The Contractor is not liable for any issue caused by application, or lack of application, of any update to support changes to any integrated third party service;
+5.1.5
+the Client may agree with the Contractor a maximum of three (3) Support Contacts at no additional cost and may, in agreement with the Contractor, add further Support Contacts at any time for an additional fixed monthly fee;
+5.1.6
+the Contractor reserves the right to vary the monthly fee for ‘ongoing support & maintenance’ at any time should:
+(i) due to future modifications or otherwise, any Application covered by ‘ongoing support & maintenance’ fall into a new pricing band in line with the Contractor's business rules in which case the Contractor will provide the Client with thirty (30) days written notice or;
+(ii) should the Client request for additional Applications to be covered by ‘ongoing support & maintenance’;
+5.2 Where the Contractor is to provide ‘Application Maintenance’, the Contractor will, once per month, apply to the Application available Patches distributed by the Framework provider and any Framework Plugin provider(s). The decision of whether or not to apply any specific Patch is at the sole discretion of the Contractor. The Contractor is not liable for any issue caused by application, or lack of application, of any specific Patch nor is the Contractor liable for any fees applied by Framework and/or Framework Plugin providers;
+5.3 Where the Contractor is to provide ‘New Browser Testing’, the Contractor will endeavour to test areas of the Application in new and updated major web browsers and devices as these become available. The areas to be tested, choice of browsers/devices to test in and frequency of these activities are all at the sole discretion of the Contractor and the Contractor has no responsibility to make the Client aware of any potential browser or device-related issue.
+6
+Services - Ongoing - Other
+6.1 Where the Contractor is to provide ‘Update Notifications’, the Contractor will, for the duration of the Term of ‘Update Notifications’, endeavour to monitor available third party provider update advisories and notify the Client of pending updates that may affect their Application, however the frequency of these activities are at the sole discretion of the Contractor and the Contractor has no responsibility to make the Client aware of any specific update.
+6.2 Where the Contractor is to provide ‘Uptime Monitoring’, the Contractor will, for the duration of the Term of ‘Uptime Monitoring’, set up a facility to notify themselves in the event that the Client’s Application does not respond to a particular automated script. As this is not intended to provide a failsafe solution, the Contractor is not liable for any issue caused by failure of this uptime monitoring system.
+6.3 Where the Contractor is to provide ‘Security Monitoring’, the Contractor will, for the duration of the Term of ‘Security Monitoring’, set up a facility to log unexpected code changes on the Client’s Application and notify the Contractor of any such event, however the Contractor is not liable for any issue caused by any such event.
+6.4 Where the Contractor is to provide ‘Error Monitoring’, the Contractor will, for the duration of the Term of ‘Error Monitoring’, set up a facility to log critical Application errors and notify them of any such event, however the Contractor is not liable for any issue caused by any such event.
+7
+Billing
+7.1 Unless otherwise agreed with the Client, all work carried out by the Contractor will be subject to the standard rate of sixty (60) pounds per hour (excluding VAT) to be paid by the Client.
+7.1.1
+Should the standard rate or the Client rate change, the Contractor will notify the Client in writing.
+7.2 If the Contractor quotes an unqualified and unconditional price for Deliverables or Services in the Agreement, the amount quoted shall be deemed a fixed price.
+7.3 With respect to Deliverables or Services for which the parties determine that payment on a fixed price basis is not appropriate, the Agreement may provide for payment on the basis of time and materials
+7.4 Any fixed price work to be carried out by the Contractor at the Client’s request will carry a minimum billing unit of one (1) hour.
+7.5 Where the Client requires any work to be started sooner than is quoted by the Contractor (and the Contractor agrees to this date) a rush fee of an additional 50% of the total price of the Deliverable(s) or Services will be agreed.
+7.6 Except as set forth in the Agreement, the Contractor shall bear all of its own expenses arising from its performance of its obligations under this Agreement, including (without limitation) expenses for facilities, work spaces, utilities, management, clerical and reproduction services, supplies, and the like.
+7.7 The Client shall reimburse the Contractor for all materials costs which are incurred in accordance with the Agreement unless otherwise agreed by the parties.
+7.8 Any meetings attended by the Contractor at the request of the Client may be chargeable at the discretion of the Contractor.
+7.9 The payment for all time, materials and other expenses of the Contractor associated with the production of the Deliverables or Services shall be as set out in the Agreement.
+7.10
+Unless otherwise stated in the Agreement, billing will take place as follows:
+7.10.1
+Billing for fixed price Deliverables and Services:
+7.10.1.1
+(i) fifty (50) percent of the fixed price will be billed to the Client in advance, prior to the Contractor commencing any work and;
+(ii) fifty (50) percent of the fixed price will be billed to the Client prior to the Contractor deploying the Deliverables to a Live Environment;
+7.10.2
+Billing for time & materials Deliverables and Services:
+7.10.2.1
+On the first working day of every month, the client will be billed for all hours worked since the date of the previous bill (or commencement of the work should the Client not have been billed previously);
+7.10.3
+Billing for Services - Retainer:
+7.10.3.1
+For the duration of the Term of the Retainer, on the first working day of each month, the Client will be billed for the retainer fee for the previous month. Any work performed on a time & materials basis that exceeds the Guaranteed Monthly Time Allocation in any month will be invoiced in line with clause 7.10.2;
+7.10.4
+Billing for Services - Ongoing Support & Maintenance Billing:
+7.10.4.1
+On the first working day day of every month, the Client will be billed for the Support & Maintenance fee in the previous month;
+7.10.5
+Billing for Services - Hosting:
+7.10.5.1
+On the first working day of every month, the Client will be billed for the Hosting fee for the following month;
+7.10.6
+The Client shall pay the Contractor for the work in accordance with the schedule set out in the Agreement. Each payment to the Contractor shall, unless for ongoing services, be contingent upon:
+(i) confirmation from the Client stating that the corresponding milestone set out in the Agreement has been satisfactorily completed and
+(ii) receipt of an invoice by the Client from the Contractor as provided in Section 8 below.
+8
+Invoicing
+8.1 The Contractor shall submit invoices to the Client for payments due. Invoices shall be payable on or before the due date specified on the invoice. Invoices shall be due thirty (30) days after the date the invoice is created.
+8.2 Where an invoice includes charges for time and materials, the invoice shall indicate the number of hours of work performed.
+8.3 In any month where the Client is to be invoiced a net total of between zero and one hour, the invoice net value will be automatically rounded up to one hour.
+8.4 Where one or more unpaid invoices contribute to an overdue balance and until a time that full payment of the overdue balance is received the Client shall incur interest at the rate of five (5) percent of the total value of overdue invoices, with such interest to be applied weekly,
+8.5 In the event of any non-payment of any invoice the Contractor reserves the right to:
+(i) refuse to carry out any further work for the Client,
+(ii) remove from the Client’s Application any feature for which payment has not been received,
+(iii) suspend the Client’s Application from a Live Environment,
+(iv) commence legal proceedings against the Client.
+9
+Term and Termination
+9.1 Either party may terminate the Agreement after the Deliverables and Services have been delivered by giving to the other not less than one (1) month written notice to the parties registered address.
+9.2 Either party may terminate the Agreement by giving written notice to the other party if:
+9.2.1
+any sum owing to that party by the other party is not paid within thirty (30) days of the due date for payment;
+9.2.2
+the other party commits any other breach of any of the provisions of the Agreement and, if the breach is capable of remedy, fails to remedy it within thirty (30) days after being given written notice giving full particulars of the breach and requiring it to be remedied;
+9.2.3
+an encumbrancer takes possession, or (where the other party is a company) a receiver is appointed, of any of the property or assets of that other party;
+9.2.4
+the other party makes any voluntary arrangement with his or its creditors or (being a company) becomes subject to an administration order (within the meaning of the Insolvency Act 1986);
+9.2.5
+the other party (being an individual or firm) has a bankruptcy order made against him or it or (being a company) goes into liquidation (except for the purposes of amalgamation or reconstruction and in such a manner that the company resulting therefrom effectively agrees to be bound by or assume the obligations imposed on that other party under these Terms);
+9.2.6
+anything analogous to any of the foregoing under the law of any jurisdiction occurs in relation to the other party;
+9.2.7
+the other party ceases, or threatens to cease, to carry on business; or
+9.2.8
+control of the other party is acquired by any person or connected persons not having control of that other party on the date of the Agreement.
+9.3 For the purposes of Clause 9.2.2, a breach shall be considered capable of remedy if the party in breach can comply with the provision in question in all respects other than as to the time of performance (provided that the time of performance is not of the essence).
+9.4 The rights to terminate the Agreement given by this Clause 9 shall not prejudice any other right to remedy of either party in respect of the breach concerned (if any) or any other breach.
+10
+Effects of Termination
+Upon the termination of the
+Agreement for any reason:
+10.1
+any sum owing by the Client to the Contractor under any of the provisions of the Agreement shall be immediately payable and the Client will pay the Contractor for all unpaid invoices and uncompensated staff time and expenses up to the date of termination; provided, however, that if the Deliverables are being provided on a fixed price billing basis, all staff time and expenses shall be paid as if on a time and material billing basis;
+10.2
+where the termination relates to Services including ‘ongoing support & maintenance’, ‘retainer’ or ‘Hallnet Partner Hosting’ the Client must pay the Contractor all remaining associated monthly fees for those Services upto the expiry of the respective Term.
+10.3
+each party shall forthwith cease to use, either directly or indirectly, any Confidential Information, and shall forthwith return to the other party any documents in its possession or control which contain or record any Confidential Information;
+10.4
+any provision of the Agreement which is expressed to continue in force after termination shall continue in full force and effect; and
+10.5
+subject as provided in this Clause 10, and except in respect of any accrued rights, neither party shall be under any further obligation to the other.
+11
+Client's Responsibilities
+11.1
+The Client shall
+(i) furnish information requested by the Contractor,
+(ii) provide adequate access to personnel of the Client, and
+(iii) maintain the accessibility and operability of the Application to the extent reasonably necessary for the Contractor to fulfil its responsibilities.
+Any delays attributable to the Client's failure to respond to reasonable requests by the Contractor will extend any and all estimated delivery dates.
+12
+Delivery and Acceptance of Deliverables
+12.1
+The Contractor shall aim to deliver the Deliverables at the times and in the manner specified in the Agreement.
+12.2
+The procedure for acceptance of any Deliverable shall be as follows:
+12.2.1
+The Client shall inspect and test each such Deliverable when received. Upon completion of such testing, the Client shall indicate acceptance or rejection of the Deliverables (provided that, in any event unless the Client has notified the Contractor of its rejection of any Deliverables within seven (7) days following submission for testing thereof, the same shall conclusively be deemed accepted).
+12.2.2
+The Client may only reject Deliverables for material failure to comply with the applicable Specifications. In the event of rejection, the Client shall give its reasons for rejection to the Contractor in reasonable detail. The Contractor shall then use reasonable care and skill to correct any Nonconformities from the applicable Specifications and resubmit the rejected items as promptly as reasonably possible until the Deliverables are accepted; provided, however, that upon the third and subsequent rejection the Contractor or Client may terminate the Agreement by thirty (30) days notice unless the Deliverables are accepted during the notice period.
+12.2.3
+Upon acceptance of any Deliverable by the Client, the Specifications for such Deliverables shall automatically be deemed to be amended to conform to the Deliverables as accepted by the Client.
+13
+Content
+13.1
+The Client shall be responsible for the maintenance, renewal, control and editorial content of their Application. The Contractor will not be responsible for reviewing the text, graphics, animation, audio and/or digital video components prior to uploading such content onto their Application. The Client shall ensure that the content shall be and remain fully compatible with their Application; provided, however, upon request from the Client, and at the Client's sole expense, the Contractor shall make commercially reasonable efforts to assist the Client in resolving any content related compatibility problem.
+13.2
+The Client shall be solely responsible for collecting any and all required sales, use and value added taxes and other governmental charges and duties from users of their Application.
+14
+Rights in Content and Software
+14.1
+All Code and/or Content delivered by the Contractor to the Client (other than those owned or licenced by a third party or the Contractor), and all Intellectual Property Rights associated with any of the foregoing (other than any items and materials owned by a third party or the Contractor), shall, unless otherwise stated, be owned exclusively by the Client once any sum owing by the Client to the Contractor under any of the provisions of the Agreement has been paid in full.
+14.1.1
+In the event that any Code, Content and/or Intellectual Property Rights are owned by the Contractor, the Client will be granted a licence for this project only.
+14.1.2
+In the event that any Code, Content and/or Intellectual Property Rights are owned by a third party, the client will be licenced in accordance with the owners licensing terms. In the event that the owners licensing terms change, the Contractor will not be liable for any implications.
+14.2
+In the event of a cancellation, the ownership of the Intellectual Property Rights associated with all Code and/or Content delivered by the Contractor to the Client (other than any items and materials owned by a third party), shall remain the property of the Contractor.
+14.3
+The Client's logos, trademarks, trade names, copyright materials and the Client's Pre-existing Work remain the Client's sole property. The Contractor agrees that the service mark, uniform resource locator ("URL") will be obtained by and remain the sole property of the Client. The Contractor agrees to identify the Client's trademarks, copyrights and other Intellectual Property Rights by including appropriate symbols and notices as reasonably requested by the Client.
+14.4
+Subject to the Agreement, each party (the "Owner") hereby grants the other a non-exclusive, non-transferable (except with written permission from the Owner), non-sub-licensable, worldwide license to use, reproduce and/or modify the Owner's property, solely in connection with delivering the Deliverables and Services.
+14.5
+Unless otherwise agreed in writing, the Contractor reserves the right to add, anywhere within the Application, content crediting the Contractor as the author. Such content may include the Contractor’s company name, company logo and additional text content at the sole discretion of the Contractor.
+15
+Confidentiality
+15.1
+Each party undertakes that, except as provided in Clause 15.2 or as authorised in writing by the other party, it shall, at all times during the continuance of the Agreement and for one year after its termination:
+15.1.1
+keep confidential all Confidential Information;
+15.1.2
+not disclose any Confidential Information to any other person;
+15.1.3
+not use any Confidential Information for any purpose other than as contemplated by and subject to the terms of the Agreement
+15.1.4
+not make any copies of, record in any way or part with possession of any Confidential Information; and
+15.1.5
+ensure that none of its directors, officers, employees, agents or advisers does any act which, if done by that party, would be a breach of the provisions of 15.1.1 to 15.1.4 above.
+15.2
+Either party may:
+15.2.1
+disclose any Confidential Information to:
+15.2.1.1
+any subcontractor or supplier of that party;
+15.2.1.2
+any governmental or other authority or regulatory body; or
+15.2.1.3
+any employee or officer of that party or of any of the aforementioned persons or bodies; to such extent only as is necessary for the purposes contemplated by the Agreement, or as required by law, and in each case subject to that party first informing the person in question that the Confidential Information is confidential and (except where the disclosure is to any such body as is mentioned in (ii) above or any employee or officer of any such body) obtaining and submitting to the other party a written undertaking from the person in question, as nearly as practicable in the terms of this Clause, to keep the Confidential Information confidential and to use it only for the purposes for which the disclosure is made; and
+15.2.2
+use any Confidential Information for any purpose, or disclosure it to any other person, to the extent only that it is at the date of the Agreement, or at any time after that date becomes, public knowledge through no fault of that party, provided that in doing so that party does not disclose any part of that Confidential Information which is not public knowledge.
+15.3
+Unless otherwise agreed in writing, the Contractor reserves the right to use the Client’s company name, company logo, a general overview of the Application purpose, selected Application screenshots and project outcomes/statistics for the purposes of a public case study and/or marketing materials.
+15.4
+The provisions of this Clause 15 shall continue in force in accordance with their terms, notwithstanding the termination of the Agreement for any reason.
+16
+Future Modifications
+16.1
+The Contractor shall use commercially reasonable efforts to develop and deliver to the Client modifications according to the Client's written specifications, which shall be subject to standard billing and agreed upon in writing, however the Contractor cannot guarantee to respond to, acknowledge, or action the Client's modification requests within a specific timescale.
+16.2
+Due to the rapidly evolving nature of web browsers and as older browsers continue to be deprecated over time, the Contractor will test future modifications against the then current version of the the Contractor’s ‘Supported Browser & Device List’, available on request.
+17
+Representations, Warranties, Limitations and Indemnity
+The following representations and warranties are provided solely for the benefit of the Client and the Contractor, and no other person or entity.
+17.1
+The Contractor warrants that
+(i) the Deliverables it creates or licenses to the Client shall perform reasonably and
+(ii) it will perform all work called for in the Agreement in compliance with applicable law.
+17.2
+The Contractor warrants that any part of the Client's system Content developed solely by the Contractor will not be defamatory to any third party or violate any third parties rights of privacy or publicity.
+17.3
+The Client warrants that no part of the Application, including all related materials and Content provided by the Client in the production of Deliverables:
+17.3.1
+infringes on any Intellectual Property Rights of others; or
+17.3.2
+is defamatory to any third party or violates any third parties rights of privacy or publicity.
+17.4
+The Client warrants that it is the owner of all rights in, or has obtained any written permission necessary to authorise the Contractor's use of, any part of their system, materials and content provided by the Client.
+17.5
+The Client shall be solely responsible for the adequacy and accuracy of all Content, information and data provided to the Contractor. The Client shall review the accuracy of all Content, information and data once the Contractor has included the same in the Client’s system. The Client shall be solely responsible for the Content and information within their system, and shall be responsible for all changes to the content of the system accordingly. The Contractor shall not be responsible for screening, policing, editing, or monitoring any content, or additional materials added by the Client or any third party to any Deliverable or included services. If notified of allegedly infringing, defamatory, damaging, obscene, illegal or offensive material, the Contractor's sole obligation will be to inform Client of such allegations.
+17.6
+The Client shall defend, indemnify and hold the Contractor harmless from all liability and expenses (including, but not limited to solicitors fees) arising from such claim unless said liability is due gross negligence or a wilful default by the Contractor in carrying out its obligations.
+17.7
+The Contractor will not create or change any pages of the Client’s system or the content therein without the Client's written authorisation, which shall be sent to the Contractor pursuant to Clause 22.
+17.8
+Each party has full power to enter into the Agreement, to carry out its obligations under the Agreement and to grant the rights described herein to the other party.
+17.9
+The Contractor does not warrant any Deliverables or Services against failure of performance due to failure of computer hardware or communication systems for whatever reason other than the Contractor's default. Except as specifically provided in this Clause, the Contractor hereby disclaims and the Client hereby waives all other warranties, express or implied, with respect to Deliverables and all Services provided hereunder, arising by law or otherwise, including without limitation:
+17.9.1
+any implied warranty of merchantability, fitness for a particular purpose non-infringement or arising from course of dealing, course of performance or usage of trade; and
+17.9.2
+any obligation, liability, right, remedy, claim in tort, notwithstanding any fault, negligence, strict liability or product liability of the Contractor (whether active, passive or imputed).
+18
+Remedies
+18.1
+In addition to its rights of termination, the Client's exclusive remedies for the Contractor's default hereunder shall be to obtain the repair, replacement or correction of the defective services, software or equipment to the extent warranted under an Agreement. If such remedy is not economically or technically feasible or effective, then the Client may obtain an equitable partial or full credit or refund of amounts paid with respects to the defective services or Deliverable, subject to the limitation set forth immediately below.
+19
+Liability
+19.1
+The Contractor shall not be liable to the Client or any third party, whether in contract, tort (including negligence) or otherwise for:
+19.1.1
+any amount in excess of the amount paid by the Client to the Contractor for any services during the six (6) months prior to the event giving rise to the alleged claim;
+19.1.2
+any loss of revenue, business contracts, anticipated savings or profits, or any loss of use of facilities;
+19.1.3
+any special indirect or consequential loss howsoever arising;
+19.1.4
+express guarantees (including any relating to the period of a project), agreements to use more than reasonable care and skill, contractual penalties or liquidated damages which are beyond the Contractor's liability at common law.
+19.1.5
+defective workmanship in the installation, repair or maintenance of computers and ancillary equipment other than software.
+19.1.6
+fines, penalties and punitive damages.
+19.1.7
+the following internet-related liabilities: managing the means of payment; obscene, blasphemous or pornographic material; third party material contributed to bulletin boards, interactive forums or newsgroups
+19.1.8
+claims brought in North America.
+19.1.9
+previous claims or circumstances.
+19.1.10
+damage to your documents caused by hacking.
+19.1.11 security breaches and/or transmission or impact of any virus.
+19.1.12 inherent defects in products supplied by a third party or failure of a third party to supply a service.
+19.1.13 failure to take back-up copies of material in electronic format at reasonably frequent intervals or to maintain software to protect against unauthorised use or access.
+19.1.14 any claim arising out of the infringement of any patent.
+19.1.15 terrorism.
+19.1.16 consequential damages relating to omission of any feature not expressly requested in writing by the Client
+19.1.17 Nonconformity as a result of a new major web browser version emerging before the Deliverables have been delivered.
+19.2
+in clause 19.1.2 "anticipated savings" means any expense which either party expects to avoid incurring or to incur in a lesser amount than would otherwise have been the case by reason of the use of the services and facilities provided by the Contractor.
+20
+Force Majeure
+20.1
+For the purposes of these Terms, "Force Majeure" means in relation to either party, any circumstances beyond the reasonable control of that party (including, without limitation, acts of god, industrial action, civil disturbances, disruption of telecommunications, power or other utilities or interruption or termination of the Internet access provider being used by the Contractor to link its services to the Internet).
+20.2
+If any Force Majeure occurs in relation to either party which affects or may affect the performance of any of its obligations under the Agreement, it shall forthwith notify the other party as to the nature and extent of the circumstances in question.
+20.3
+Neither party shall be deemed to be in breach of the Agreement, or shall otherwise be liable to each other, by reason of any delay in performance, or the non-performance, of any of its obligations under, to the extent that the delay or nonperformance is due to any Force Majeure of which it has notified the other party, and the time for performance of that obligation shall be extended accordingly.
+20.4
+If the performance by either party of any of its obligations under the Agreement is prevented or delayed by Force Majeure for a continuous period in excess of six months, the parties shall enter into bona fide discussions with a view to alleviating its effects, or to agreeing upon such alternative arrangements as may be fair and reasonable.
+21
+Independent Contractors: Authority of the Contractor
+21.1
+The Contractor has the sole right and obligation to supervise, manage, contract, direct, procure, perform or cause to be performed all work to be carried out by the Contractor unless otherwise provided. The Contractor may, at the Contractor's own expense, employ such assistants as is deemed necessary to produce Deliverables or Services. The Client may not control, direct or supervise the Contractor's assistants or employees, and each party shall be responsible for its own taxes or any withholding or benefits on behalf of its employees.
+22
+Notices and Service
+22.1
+Any notice or other information required or authorised to be given by either party to the other shall be given by sending it by electronic transmission, facsimile transmission or comparable means of communication; to the other party
+22.2
+Any notice or information sent by electronic transmission, facsimile transmission or comparable means of communication shall be deemed to have been duly given on the date of transmission.
+22.3
+Service of any document for the purposes of any legal proceedings concerning or arising out of the Agreement shall be effected by either party by causing it to be delivered to the other party at its registered or principal office, or to such other address as may be notified to it by the other party in writing from time to time.
+23
+Miscellaneous
+23.1
+Each party shall from time to time do all such acts and execute all such documents as may be reasonably necessary in order to give effect to the provisions of the Agreement.
+23.2
+The parties shall bear their own costs of and incidental to the preparation, execution and implementation of the Agreement.
+23.3
+Neither party shall make or procure or permit any other person to make any press or other public announcement concerning any aspect of the Agreement without first obtaining the agreement to the other party to the text of that announcement.
+23.4
+The Agreement may be executed in a number of counterparts and shall come into force once each party has executed such a counterpart in identical form and exchanged the same with the other party.
+23.5
+At its own discretion, the Contractor reserves the right to refuse to carry out any specific requirement for the Client where such a requirement is outside of the scope of the Deliverables or Services or the requirement is deemed by the Contractor to be unethical, unlawful and/or detrimental to functionality, in which case the Contractor may provide the Client with reasons and/or recommendations.
+23.6
+Unless otherwise stated in the Agreement, for the purposes of data protection the Client is considered the Data Controller and the Contractor is considered the Data Processor.
+24
+Applicable Law and Jurisdiction
+24.1
+The laws of England and Wales shall apply to the whole of this Agreement.
+25
+Complaints, Dispute Resolution & Arbitration
+25.1
+Formal complaints should be initially provided to the Contractor in writing at the Contractor's registered address.
+25.2
+Subject to Clause 25.3, any dispute, difference or disagreement between the parties arising out of or in connection with these Terms, unless satisfactorily resolved through mutual agreement between the parties,
+shall be referred to the arbitration of a single arbitrator appointed by agreement between the parties and in default of agreement to be appointed by the President for the time being of the Law Society for England and Wales.
+25.3
+Clause 25.2 shall not:
+25.3.1
+apply to any dispute, difference or disagreement in respect of which the provisions of these Terms specify the consequences; or
+25.3.2
+preclude the making of an application to the Court for injunctive relief.
+26
+Disaster Recovery / Business Continuity
+26.1
+Processes relating to disaster recovery and business continuity are subject to the terms outlined in the document ‘Hallnet Disaster Recovery / Business Continuity Plan’, available on request.
+27
+Contractor Information
+27.1
+Registered Address: Hallnet Ltd, Lowton Business Park, Newton Road, Warrington. WA3 2AP
+27.2
+Contact Telephone Number: 01942 418919
+27.3
+Default Email Address: enquiries@hallnet.co.uk
+27.4
+Registered in England No. 03592955
+27.5
+VAT Registration Number: 757621020
+Home
+More Resources
+Privacy & Cookie Policy
+Standard Terms & Conditions
+Ongoing Services
+Supported Browsers & Devices
+Work For Us
+Home
+Our Services
+Why Hallnet?
+Recent Results
+Hallnet By Numbers
+Client Comments
+Team Profiles
+Our Philosophy
+Our Approach
+Common Questions
+From the Blog
+Contact Us
+Vision / About Us

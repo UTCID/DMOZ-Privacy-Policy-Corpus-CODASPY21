@@ -1,0 +1,24 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch12s02.html#websec2-CHP-12-SECT-2.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Helper Applications and Plug-ins With all of these documented examples (and more) of the
+damage that downloaded programs can do, why do people continue to
+download and run programs? One reason is that the web sites that
+people visit frequently require the downloads. Many web sites are
+authored with so-called “rich media”—animations, interactive graphics,
+broadcast audio, streaming video clips—that can only be viewed by
+using a particular program called a helper
+application or a plug-in. Although
+these programs are widely used, they are not without their
+risks.The History of HelpersThe original web browsers could only display a limited number
+of media types, such as HTML, ASCII text, GIFs, and XBM files. When
+a web server attempted to download files with an unrecognized MIME
+type, the web browsers would save the file to the computer’s hard
+disk and launch a registered helper application
+to process the downloaded data.Helper applications proved to be a simple and clean way to extend the functionality of web browsers. When you click on a link to hear a song using RealAudio, for instance, your web browser downloads a small file and then gives this file to the RealAudio player. The file contains a pointer to another URL on the Internet from which the RealAudio player should actually download the song. Without this level of indirection, it would be necessary to either have the web browser download the entire song before playing it (as was common practice before the introduction of RealAudio), ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

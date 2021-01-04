@@ -1,0 +1,190 @@
+http://mozilla.gunnars.net/firefox_help_firefox_cookie_tutorial.html
+You are
+here:  gunnars.net
+- Firefox Help -  Firefox Cookie Tutorial
+Firefox
+Help:  Firefox's
+Cookie Options
+Table of contents:
+- What are
+cookies
+and what do they do?
+- Firefox's Cookie
+Options
+- Firefox's Cookie
+Manager
+- Firefox's
+Cookie Exceptions Dialog
+- Advanced cookie
+options using 'about:config'
+People have various
+reasons for choosing Firefox, be it that they want to try a "different"
+browser, they like Firefox's features such as tabbed browsing or
+because
+they appreciate Firefox's privacy and security features such as the
+Cookie Manager, encryption of saved data,  and much more.
+Firefox and Mozilla are in my opinion very secure browsers, even
+in their "out of the box" state. Still, with the right settings, you
+can make them even better at preserving your privacy and security while
+you are surfing the Net. This tutorial will show you how to choose the
+right settings for cookies.
+Please note
+that there probably is not such a thing as perfect security, i.e. there
+may be security-related bugs that have not yet been discovered. Plus,
+safe use of the internet is always also the individual user's
+responsibility.
+Note: If you are using the Mozilla Suite or Netscape 7.x, please refer
+to the Privacy and Security Tutorial. Their cookie options (among other
+things) are covered there.
+Keeping the Cookie Monster
+in check
+What are cookies and
+what do they do?
+Cookies are small bits of information your browser remembers for a web
+site. Your browser saves your cookies in a text file on your harddrive.
+Cookies by themselves pose no security risk: They cannot contain a
+computer virus, nor can they be used to spy on you by reading your
+harddrive's content. They can be very useful and make surfing the
+Internet easier when used properly by making sites remember who you are
+and in some cases what you like. However, some companies use cookies to
+track you across various websites, thus recording your user behavior.
+What makes it worse is that often those are companies you never
+directly dealt with, which means that you neither gave them the
+permission to track you, nor do you know what you get out of the
+deal.
+With older browsers such as Internet Explorer 5.x or Netscape 4.x, you
+only had the choice of either completely disabling cookies, losing
+their benefits, allowing all cookies or having to say "Yes" or "No" to
+endless alert windows asking you if site "x" was allowed to set a
+cookie. Fortunately, newer browsers like Firefox, the Mozilla Suite,
+Opera 7
+and to some degree Internet Explorer 6 give you the option to
+selectively allow and disallow sites to set cookies.
+Firefox saves cookies in a file called cookies.txt, which is part of
+your Firefox Profile.
+Firefox's
+Cookie Options
+Firefox has several cookie-related options that give you control over
+who can and who cannot set cookies. To access Firefox's cookie options,
+select Tools -> Options -> Privacy.
+IMHO, the ideal setting is to check Allow
+Sites to set cookies and select Ask me
+every time from the "Keep Cookies" drop-down menu (which is a
+somewhat confusing placement of this option). This will make you answer
+"yes" or "no" to quite a few cookie dialogs in the beginning, but with
+Firefox you only
+have to do it once per site. Simply make sure Use
+my choice for all cookies from this site is checked (please see
+screen shot below).
+Firefox's Cookie dialog
+There are several aditional alternatives, depending how you surf the
+web:
+If you don't visit sites that need
+to remember who you are,
+or if you don't care for that feature, but you visit sites who only
+allow you to enter with cookies enabled, check
+Allow sites to set cookies and
+select until I close Firefox.
+This way, Firefox will accept all cookies but they are automatically
+deleted once your session is over (i.e. you close Firefox).
+As an alternative to the general
+recommendation, you can also check for the
+originating website only. This should work in most
+cases and especially with larger sites, but it may not work properly
+with all sites.
+Firefox's
+Cookie Manager
+Firefox's cookie manager allows you to easily see which sites have
+already set cookies and what the respective cookie's details are.
+Please note that cookie name and cookie content don't usually convei
+much useful (to you, the user) information.
+Opening Firefox's Cookie Manager
+Open Firefox'sCookie Manager by clicking on the View Cookies button,
+which will show you all cookies that are currently set.
+Another advantage of Firefox's Cookie Manager is that it allows you to
+easily remove cookies that you do not want (e.g. tracking cookies from
+advertisers) either temporarily, i.e. until they are set again, or
+permanently, i.e. Firefox will block the respective cookie(s) in the
+future.
+Firefox's Cookie Manager
+To remove a cookie, select it from the 'Stored Cookies' list in Cookie
+Manager and click on the Remove Cookie
+button. If you also check
+Don't allow sites that set removed
+cookies to set future cookies
+Firefox will automatically block cookies from that site/domain.
+Note 1: This setting only applies to the sites whose
+cookies were
+removed while this option was checked.
+Note 2: It is possible to mark multiple sites while
+holding down the
+Shift or Ctrl key.
+Firefox's
+Cookie Exceptions (cookie sites) dialog
+If you have accidentally blocked or
+allowed cookies from a site, you
+can easily change that by using Firefox's Cookie Exceptions dialog.
+To configure site permissions
+("Cookie sites") in Firefox, i.e. to (un-) block cookies for specific
+sites, click on the Exceptions
+button.
+This will open Firefox's site permissions dialog. To add a site, simply
+enter the site's URL (address) into the field that has been marked in
+orange.
+Then select:
+Block -
+to block the specified site from setting cookies
+Allow for session - to
+allow cookies from the specified site for a session only, i.e. Firefox
+will delete these cookies when you close the program.
+Allow - to allow all
+cookies from the specified site.
+If you want to remove a site from the list, select it and click on Remove Site. If you want to delete the
+entire cookie sites list, simply click on Remove
+all Sites.
+Advanced
+Cookie options using 'about:config'
+If you previously used the Mozilla Suite or Netscape 7, you may miss a
+few cookie options. These additional options are still available for
+Firefox, they can, however, only be accessed using 'about:config'.
+Please note that I have not verified if these options still work for
+Firefox, but they should.
+The following advanced cookie options are available:
+Accept cookies for x number of days
+(cookie lifetime policy) - this
+option will make Firefox keep all cookies for a defined number of days.
+Cookies that are older than this will automatically be deleted. To
+activate this option, edit the following preferences:
+network.cookie.lifetimePolicy -
+set this to 3. In addition, set network.cookie.lifetime.days to
+the number of days you want cookies to
+be kept for.
+Allow cookies based on privacy (P3P)
+settings - this option will make
+Firefox automatically decide whether to accept a cookie or not based on
+the site's P3P privacy policy. If third-party sites (like e.g.
+advertising banners) want to set cookies, their privacy policies are
+also taken into account. To activate this preference, edit the
+following preferences:
+network.cookie.cookieBehavior -
+set this preference to 3. To set the
+privacy level, change
+network.cookie.p3plevel
+/ network.cookie.p3p to:
+0 / afafaaaa
+for low, 1 / ffffaaaa for medium or 2 / frfradaa
+for high.
+Please see the screenshot of Netscape 7's P3P cookie preferences dialog
+below for more information:
+Remove Internet
+Explorer, Outlook Express and other Windows components with
+98 and 2000/XP Lite.
+Note: Please allow the
+site to set cookies. This way, referred sales can be attributed to
+the Firefox
+Help Site.
+$2,300.25 that were generated by 98 and 2000/XP Lite sales
+through this site have been donated to the Mozilla Foundation
+so far.
+Read more about using 98 and 2000/XP lite in this FAQ question.
+disclaimer     contact     about     links

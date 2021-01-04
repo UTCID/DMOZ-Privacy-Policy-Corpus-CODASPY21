@@ -1,0 +1,12 @@
+https://gking.harvard.edu/presentations/statistically-valid-inferences-privacy-protected-data-google-inc
+Skip to main content
+Main MenuUtility MenuSearch
+HARVARD.EDU
+GARY KING
+Bio & C.V.WritingsResearch AreasSoftwareDataverseResearch GroupTeachingContactSearch
+HOME / PRESENTATIONS /
+Presentation Date: Friday, September 18, 2020Presentation Slides:  Slides
+Unprecedented quantities of data that could help social scientists understand and ameliorate the challenges of human society are presently locked away inside companies, governments, and other organizations, in part because of worries about privacy violations. We address this problem with a general-purpose data access and analysis system with mathematical guarantees of privacy for individuals who may be represented in the data, statistical guarantees for researchers seeking insights from it, and protection for society from some fallacious scientific conclusions. We build on the standard of "differential privacy'' but, unlike most such approaches, we also correct for the serious statistical biases induced by privacy-preserving procedures, provide a proper accounting for statistical uncertainty, and impose minimal constraints on the choice of data analytic methods and types of quantities estimated. Our algorithm is easy to implement, simple to use, and computationally efficient; we also offer open source software to illustrate all our methods.
+Based on joint work with Georgie Evans, Meg Schwenzfeier, and Abhradeep Thakurta. A copy of our paper is available at GaryKing.org/dp.
+Copyright © 2020 The President and Fellows of Harvard College
+| Accessibility | Digital Accessibility | Report Copyright Infringement

@@ -1,0 +1,76 @@
+https://nextcloud.com/blog/breaking-news-ecj-rules-us-cloud-services-fundamentally-incompatible-with-eu-privacy-laws/
+Products
+Nextcloud HubContent collaboration platform
+Nextcloud FilesFile Sync and Share
+Nextcloud TalkCalls, chat and web meetings
+Nextcloud GroupwareCalendar, Contacts & Mail
+Nextcloud at homeFor families, students & you
+Nextcloud EnterpriseFor mission-critical use
+Industry solutionsOptimized for your enterprise
+Outlook integration
+Collabora online office
+ONLYOFFICE online office
+Support
+Enterprise support
+Community support
+FAQ
+Pricing
+Documentation
+White papers
+Migration
+App Store
+Community
+How to contribute
+Code on GitHub
+Report a bug
+Developer program
+Code of Conduct
+Nextcloud Include
+Nextcloud Podcast
+Security information
+About
+About us
+Blog
+Security
+Team
+Partners
+Events
+Jobs
+Comparison with others
+Search our site
+Get Nextcloud
+Get Nextcloud
+Server packagesFor self-hosting on your server
+Desktop & mobile appsWindows, macOS, Linux, Android, iOS, …
+Sign up nowGet a free account at a provider
+DevicesBuy hardware with Nextcloud
+Enterprise solutionFor mission-critical use
+Demo
+GDPR
+Deutsch
+English
+Français
+BREAKING NEWS: ECJ rules US Cloud services fundamentally incompatible with EU Privacy laws
+July 16, 2020
+posted in blog, news, security by Jos Poortvliet
+The US "culture of surveillance" received a major EU push back today, with the European Court of Justice ruling against the legitimacy of the EU's Standard Contractual Clauses as a way of transferring data to legal regimes outside of the Union. As we wrote 2 years ago, the Austrian Max Schrems, responsible for the previous dismissal of the 'Safe Harbour' agreement between the US and EU, stated that its successor "Privacy Shield goes down as soon as EU Courts deliberate". It seems he was right.
+As covered yesterday at Euroactiv:
+Schrems’ concern is that Section 702 of the US Foreign Intelligence Surveillance Act (FISA), permits the National Security Agency to collect foreign intelligence belonging to non-Americans located outside the US, by way of obtaining their data stored with electronic communications services providers, such as Facebook.
+The European Court of Justice in session (image via Court of Justice of the European Union)
+Indeed, regulations like the Cloud Act have already resulted in US cloud companies giving up the fight for privacy, prompting European cloud giants to team up and provide an alternative.
+Ruling today: no more "Privacy Shield"
+Today, the CJEU Judgement invalidates "Privacy Shield" in a US Surveillance case. The first statement from Max Schrems' NOYB organization on the CJEU ruling can be read here.
+Their statement notes that the EU Commission gave in to US pressure, not undertaking a deep assessment of US surveillance laws but quickly passing Privacy Shield to protect the business of US businesses to the detriment of the privacy and security of EU citizens. Quoting Herwig Hofmann, law professor at the University of Luxembourg and one of the lawyers arguing the Schrems cases before the CJEU:
+The CJEU has invalidated the second Commission decision violating EU fundamental data protection rights. There can be no transfer of data to a country with forms of mass surveillance. As long as US-law gives its government the powers to vacuum-up EU data transiting to the US, such instruments will be invalidated again and again. The Commission’s acceptance of US surveillance laws in the Privacy Shield decision left them without defence.
+Many German Data Protection Authorities have already concluded at various points that the use of Office 365 in schools is illegal and use of foreign-hosted chat and video communication services poses compliance problems, recommending Nextcloud Talk instead. The Swedish and Dutch have come to the same conclusion repeatedly. The CJEU rules that DPA's have a duty to take action and not bow under political pressure, as has happened repeatedly already. Just looking away is not a solution.
+Consequence: US cloud services not GDPR compliant
+US cloud firms like Microsoft are already regularly shown to flaunt European privacy laws, as was shown again recently in an extensive Data Protection Impact Assessment of Office 365
+by the Dutch government exposing dozens of GDPR violations.
+With this latest ruling, the ECJ puts another major roadblock in the way of US cloud services, challenging the basic premise that they are a viable solution for use with any privacy-sensitive data. Businesses, schools and government organizations putting data from their employees, customers, students and citizens on Office 365, Google G Suite or one of the dozens of other US-based SaaS services now risk massive fines under the GDPR.
+DPIA commisioned by the Dutch government mid 2020 shows a series of issues in Office 365
+Post navigation
+Previous post: Nextcloud Conference 2020: Save the date!Next post: First 19 update, plus 18.0.7 and 17.0.8
+Start the discussion at 								The Nextcloud forums
+You have javascript disabled. We tried to make sure the basics of our website work but some functionality will be missing.
+This website is using cookies. By visiting you agree with our privacy policy. That's Fine
+2020 Nextcloud GmbH

@@ -1,0 +1,95 @@
+https://www.raintreeinc.com/web-api-terms-of-use
+Skip to content
+Web API Terms Of UseTim Mcelroy2019-02-28T18:21:26+00:00
+Terms of Use
+Last updated Tuesday, October 2, 2018
+Raintree App registration is available to you to submit FHIR API-based patient-facing Apps for use at healthcare organizations using Raintree (referred to as “Community Members”). Community Members are third-party beneficiaries under these Terms and Conditions. Apps submitted to Raintree will be able to connect to U.S.-based Community Members that are using the Raintree 2015 or later release and have chosen to enable APIs for this purpose. Apps that use any other APIs, have other users such as providers, or are developed for a particular Community Member will follow a different process and different terms may apply. You may use Raintree documentation of Raintree’s support of FHIR APIs (referred to as the “Materials”) to develop Apps and submit them to Raintree as long as you follow these rules:
+1.	You agree to indemnify, hold harmless and defend Raintree, its subsidiaries, and Community Members and their affiliates, and all of the employees, officers, directors, contractors and other personnel of any of them from and against any claim arising out of or relating to, directly or indirectly, you, any of your Apps, or any use of any of your Apps.
+2.	Raintree will issue a unique client identifier for each App you submit to keep track of which Apps use Raintree’s FHIR APIs. Raintree or a Community Member might need to suspend or revoke an App’s client identifier if there are issues, concerns, or things are otherwise not going well with one of your Apps. If this happens, your App will not be able to communicate with Community Member systems until the concern is resolved and the suspended client identifier is restored. Contact Raintree or the Community Member in question to work on resolving the problem that led to the App’s client identifier being suspended. Because it is possible that your app will be suspended, you will clearly inform users of your app that it might not always be available to them and that they should not rely on it in an emergency.
+3.	Direct access to Raintree’s software is not required to develop or test your products. Testing can be done via the Raintree sandbox, or by working with a Community Member to test against a particular system. Your receipt of the Materials does not give you permission to access Raintree’s software, and does not give you permission to access a Community Member’s Raintree system. Your access to Raintree’s software can only be granted by Raintree.
+4.	You and Apps you submit on Raintree must follow the Raintree FHIR App Development Guidelines, including documenting compliance to the ONC Certification Criteria.
+________________________________________
+Developer Guidelines
+As an App developer, you are obligated to be familiar with principles for responsible healthcare App development and usage. As part of those responsibilities, you and Apps you submit to Raintree must follow all of the below guidelines. If you or your Apps fail to follow these guidelines or misbehave in any other way, Raintree or Community Members may take action on your App, including notifying users of your App’s non-compliance, or suspending your App until the issue can be resolved. If you have reason to suspect your App is not following the guidelines or is misbehaving and would like Raintree to suspend use of your App until the issue is resolved, you can contact us.
+1.	Transparency. Your pricing and marketing materials must be clear and consistent. You and your App must provide to users and Community Members understandable financial and licensing terms that will apply to the use of your Apps. All information you provide about yourself and your products must be accurate and truthful.
+2.	Safety. Your App must be designed and implemented to not put patients or your users at risk of harm. You may not use the Materials for any activities that could lead to death, personal injury, or damage to property. Your application must adhere to usability standards, specifically safety-enhanced design and accessibility-centered design.
+3.	Security. Your App must not pose a direct risk or otherwise increase the risk of a security breach in any system it connects to. Data exchange between your App and Raintree’s APIs and between your App and any other third-party system must be secured with industry standard encryption while in transit, and use authentication and authorization protocols. Your App must secure all data on an end-user’s device, and enforce inactivity time-outs. You and your App must not introduce any code of a destructive nature into any system you or your App connect to. Your App’s client identifier is given to you for your use only for a single App. You agree to keep your App’s client identifier confidential, and will not disclose it to any third party, or use it for any other purpose. Raintree will provide a log of the activity of your App at connected Community Member locations for their review.
+4.	Privacy. Your App must provide clear and understandable consent for use and give users the ability to decline consent. Raintree exclusively supports OAuth 2.0 as the mechanism for authenticating access to patient data, and your App must not circumvent the display of any authentication or consent mechanisms from Raintree or Community Members. You will provide and follow a privacy policy for your App that clearly, accurately, and truthfully describes to your users what data your App collects, and how you use and share this data. Your App must not access, use, or disclose protected health information (PHI) or other confidential information in violation of any law or in any manner other than that which the owner of the information has given its informed consent.
+5.	Sharing. You may not share the data collected by your App with any third party without the explicit consent of the user of the App and the patient whose data is being shared, and without notifying the Community Member where the data originated. When sharing data, document what was shared, when, with whom, and for what purpose, and provide your users access to that documentation upon request. Your App must provide the means for a user to export, transfer, or remove his or her data from application.
+6.	Reliability. Your App must be properly tested and must be stable, predictable, and not negatively impact clinical operations or patient safety for users or Community Members. Development of your App must be documented and managed in a Quality Management System (QMS) and complaints and defects reported about your App must be managed in a complaint tracking system. If you identify a patient-safety, security, data breach, or privacy issue with one of your Apps, you must follow your documented complaint process to notify all users, and proactively contact Raintree to disable your App’s usage at Community Member sites until you resolve the issue.
+7.	Efficiency. Your App is not permitted to generate excessive load on a user’s systems or a Community Member’s systems, or to cause other systems to behave inaccurately or unexpectedly.
+8.	Data Integrity. You and Your Apps must not corrupt or otherwise cause material inconsistencies in any data used by your Apps.
+9.	Verifiability. Raintree or Community Members may inspect or test your App to verify your compliance with these guidelines and the FHIR API Terms of Use.
+10.	Reciprocity. You will provide FHIR API-based Access to any data you and your App collect or derive to your users on the same terms as provided in these Development Guidelines.
+Required ONC Certification Criteria
+To ensure minimum standards for safe and effective healthcare software, you and your Apps must meet the below list of ONC certification criteria.
+For each App you submit, you must provide one of the following for Raintree, Community Members, and users to review:
+•	Public documentation that your App has been certified to the below specified ONC criteria.
+•	Public documentation of equivalent functionality in lieu of formal certification.
+•	Public documentation describing why specific criteria aren’t applicable for your App.
+Raintree or Community Members may review documentation supplied by you at any time to ensure you meet these criteria. If documentation you supply is missing or inaccurate, Raintree or Community Members may take action on your App, including notifying users of your App’s non-compliance, or suspending your App until the issue can be resolved.
+45 CFR 170.315 (b)(6) (Data Export): “A user can configure the technology to create export summaries using the Continuity of Care Document document template.”
+45 CFR 170.315 (d)(1) (Authentication, Access Control, Authorization): “Verify against a unique identifier(s) (e.g., username or number) that a user seeking access to electronic health information is the one claimed; and […] establish the type of access to electronic health information a user is permitted based on the unique identifier(s) provided”
+45 CFR 170.315 (d)(2) (Auditable Events and Tamper-resistance): “The health IT records actions pertaining to electronic health information […] when health IT is in use; changes to user privileges when health IT is in use; and records the date and time [each action occurs]. […] The health IT records the audit log status […] when the audit log status is changed and records the date and time each action occurs. […] The health IT records the information […] when the encryption status of locally stored electronic health information on end-user devices is changed and records the date and time each action occurs.
+45 CFR 170.315 (d)(3) (Audit Report(s)): “Enable a user to create an audit report for a specific time period and to sort entries in the audit log according to each of the data.”
+45 CFR 170.315 (d)(5) (Automatic Access Time-out): “Automatically stop user access to health information after a predetermined period of inactivity. […] Require user authentication in order to resume or regain the access that was stopped.”
+45 CFR 170.315 (d)(7) (End-user Device Encryption): “Technology that is designed to locally store electronic health information on end-user devices must encrypt the electronic health information stored on such devices after use of the technology on those devices stops [or] technology is designed to prevent electronic health information from being locally stored on end-user devices after use of the technology on those devices stops.”
+45 CFR 170.315 (d)(8) (Integrity): “Verify […] upon receipt of electronically exchanged health information that such information has not been altered.”
+45 CFR 170.315 (d)(9) (Trusted Connection): “Health IT needs to provide a level of trusted connection using either 1) encrypted and integrity message protection or 2) a trusted connection for transport.”
+45 CFR 170.315 (d)(11) (Accounting of Disclosures): “Record disclosures made for treatment, payment, and health care operations.”
+45 CFR 170.315 (g)(3) (Safety-enhanced Design): “User-centered design processes must be applied to each capability technology.”
+45 CFR 170.315 (g)(4) (Quality Management System): “For each capability that a technology includes and for which that capability’s certification is sought, the use of a Quality Management System (QMS) in the development, testing, implementation, and maintenance of that capability must be identified.”
+45 CFR 170.315 (g)(5) (Accessibility-centered Design): “The use of a health IT accessibility-centered design standard or law in the development, testing, implementation and maintenance of that capability must be identified.”
+45 CFR 170.315 (g)(7) (Application Access – Patient Selection): ” The technology must be able to receive a request with sufficient information to uniquely identify a patient and return an ID or other token that can be used by an application to subsequently execute requests for that patient’s data.”
+45 CFR 170.315 (g)(8) (Application Access – Data Category Request): “Respond to requests for patient data (based on an ID or other token) for each of the individual data categories specified in the Common Clinical Data Set and return the full set of data for that data category (according to the specified standards, where applicable) in a computable format.”
+45 CFR 170.315 (g)(9) (Application Access – All Data Request): “Respond to requests for patient data (based on an ID or other token) for all of the data categories specified in the Common Clinical Data Set at one time and return such data (according to the specified standards, where applicable) in a summary record formatted […] following the CCD document template.”
+45 CFR 170.523 (k)(1) (Pricing Transparency): “Any additional types of costs that an EP, EH, or CAH would pay to implement the Complete EHR’s or EHR Module’s capabilities in order to attempt to meet meaningful use objectives and measures.”
+45 CFR 170.523 (n) (Complaint Process): “Submit a list of complaints received to the National Coordinator on a quarterly basis each calendar year that includes the number of complaints received, the nature/substance of each complaint, and the type of complainant for each complaint.”
+Additional Proposed Suspension Criteria
+In the future, ONC certification intends to also determine whether HIT modules are:
+•	Contributing to a patient’s health information being unsecured and unprotected in violation of applicable law;
+•	increasing medical errors;
+•	decreasing the detection, prevention, and management of chronic diseases;
+•	worsening the identification and response to public health threats and emergencies; leading to inappropriate care;
+•	worsening health care outcomes;
+•	or undermining a more effective marketplace, greater competition, greater systems analysis, and increased consumer choice.
+See Federal Register Vol. 81, No. 41, pg 11064 (3)
+You will want to be mindful of these goals as you develop your App.
+Copyright © 2018 Raintree Systems Corporation. All rights reserved. EU Privacy Policy Terms and Conditions (951) 252-9400
+HL7, CDA, CCD, FHIR, and the FHIR [FLAME DESIGN] are the registered trademarks of Health Level Seven International.
+ONC CERTIFIED HIT® is a registered trademark of HHS.
+Physical Therapy (PT, OT, ST)
+Pediatric Therapy
+Rheumatology
+Behavioral & Mental Health
+Raintree RCM
+Billing Service Software
+Pain Medicine
+Pulmonology
+Solutions
+About Us
+Partners
+Contact Us
+Privacy Policy
+Raintree webAPI Specifications
+Terms & Conditions
+Certifications
+Raintree API Terms of Use
+Sitemap
+Careers
+Blog
+Events
+Customer Portal
+User Groups Site
+Raintree FAQ
+Toggle Sliding Bar Area
+Welcome To Raintree Systems Thanks for stopping by.
+Raintree makes Practice Management and EMR Solutions for specialty medical practices.
+Our solutions are built from the ground up to make your job easier.
+We know that you have a lot to do on a daily basis so our software helps you get more done, increase accountability in your office and streamline your operation.
+Let us show you the Raintree Difference.
+Don’t Settle For “Good Enough” Raintree Systems is recognized as the best EMR solution for specialty medical practices like Physical Therapy, Pediatric Physical Therapy, Rheumatology, Surgery Centers and Mental Health.
+Our clients value the power of Raintree because our products give them unrivaled control over their practice- regardless of size.
+Take a look around our site.
+We think that you see why our clients love Raintree software.
+We look forward to working with you!

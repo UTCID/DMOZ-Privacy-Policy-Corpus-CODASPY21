@@ -1,0 +1,127 @@
+https://thedarktrumpet.com/blog/security/privacy/2020/07/25/privacy-matters/
+TheDarkTrumpet.com
+About Me
+Resume
+Hobbies
+Articles
+Programming
+Security
+Privacy
+SQL Server
+GTD/Productivity
+All Categories
+Home
+Why Privacy Matters
+July 25, 2020
+Reading time ~6 minutes
+Home
+Articles
+Programming
+Security
+Privacy
+SQL Server
+GTD/Productivity
+All Categories
+About Me
+Resume
+Hobbies
+Defining Why Privacy Matters, The Actors, and Defining Privacy
+When we talk about the term Privacy, we often times think we know what we’re talking about, but the definition can be fuzzy.
+This gets more confusing when we talk about the actors and what our privacy expectations are for each.
+For example, the Constitution doesn’t give us much in terms of explicit privacy protections, but does give us some.
+The Constitution applies primarily for what the government can do, and doesn’t apply to private corporations.
+To even further muddy the problem of privacy is the definition of data ownership. The “Third-party doctrine” more or less states that when we voluntarily give information out, that any reasonable expectation of privacy is lost [1].
+So, if you make a phone call, you’re giving up your privacy because your voice conversation, and the metadata associated with it is voluntarily given given to the cell providers.
+Facebook, Twitter, Whatsapp [2]? Same deal.
+To make matters worse, there’s a bill being pushed through that is receiving very little media attention called the EARN-IT act [3].
+And, while the motive of this act is honorable, the likelihood that it’ll be used for other purposes is not only likely, but near guaranteed to be the case [4].
+We only need to look at the Patriot Act, and the total erosion of privacy online.
+And, this now has the likelihood of damaging communication privacy.
+But, it’s not the government only that we have to talk about when we talk about privacy.
+Companies are also invading privacy as well.
+There are plenty of stories about how people would search for something, and start seeing ads pop up on all the sites they frequent.
+Also, many apps on cell phones have sketchy privacy, and often times the permissions aren’t granular enough to keep them in check [6] [7]
+So, to help, lets define privacy.
+I’m going to use livescience’s definition [8] for this, which states:
+The right to privacy refers to the concept that one’s personal information is protected from public scrutiny
+The actors involved in privacy include, but are not limited to:
+Our ISPs - From a legal standpoint, they have to capture information about what you do online.
+Our Government - Tied to the ISPs, they also capture quite a bit about what people do online.
+Social Media Companies - They provide a service, for free, in exchange for our data.
+Companies in General - They want to sell us goods, so by understanding who the consumer is helps them better sell goods.
+Society as a Whole - Neighbors/people may not want to sell us stuff, but generally can’t help themselves but to be interested in what others are doing.
+It’s also worth noting that Privacy is not the same as Security.
+While Privacy techniques implemented may help with your Security, they aren’t the same.
+Protecting Your Privacy - Introduction
+A few simple steps can really help enable a more private experience online, but without extreme work, it’s unlikely that one would ever achieve a fully anonymous online experience.
+That said, this doesn’t mean that you should abandon all hope when it comes to privacy.
+I will warn the readers, though, in that Privacy is something that requires constant vigilance.
+Methods of Tracking - Introduction
+There are many ways in which your information can leak.
+This list won’t be a fully exhaustive list, but hopefully will give an indication of at least what’s possible.
+DNS Queries
+DNS is essentially a lookup server for what we want to query.
+When you go to say, www.google.com, your system queries what’s called a “Name Server” (The D stands for Domain), and asks for the server which has an entry of “www.google.com”.
+That server then returns an IP address.
+Your system then makes another call to that server requesting the information you want.
+In the above image (right click on image above, and open in new tab to see both documentation, and image), we have a lot going on.
+This is a standard query set when I went to “yahoo.com”.
+The first few lines is the initial query to get information about Yahoo, but the other responses below that are specific subsequent queries for subdomains related to content from the index page.
+What does this mean?
+While you may not know what page I went to from the https encrypted content, you can get a general idea of the page I’m viewing based off the types of calls I’m making.
+For example, in the above query we see some video, some finance, some shopping, and some news.
+It’s not a large guess that I’m at the index page of Yahoo given the variety of content.
+Cookies
+Many websites you visit likely include Facebook/Twitter/etc type share buttons, comments, and so on.
+If you’re logged into one of these social media companies, you may even see your profile image and all on the page you’re visiting.
+It’s important to remember - social media companies are providing you with a ‘free’ service - but nothing in life is free.
+In the case of social media companies, cookies show that you’re logged in (through use of a ‘widget’) to a site.
+This can also have unintended side effects where you “like” a page, and it gets posted to Facebook (get reference)
+For Ad companies, it’s a bit more complicated.
+They use a number of strategies to track your movement online.
+Cross-site cookies are one of the very common.
+In this case, to show ads on a website, a call is made to an Ad agency (e.g. google), the ad being displayed isn’t the only thing that happens.
+Cookies get set from that agency, and given how the ‘widget’ is pulled in, the agency knows what site you’re requesting ads for.
+They can read/write to that cookie, and track sites you visit.
+Another way to think of this, as proof, is to think about ads you see on various sites.
+Are they very different ads, or are they similar ads you’ve seen before - on other sites?
+How do they know what to show you?
+The answer to the above is ads tend to customize, over time, based off our browsing habits.
+If you look up a health query in one location (e.g. visiting WebMD), you may be shown supplements in other websites.
+Browser Fingerprinting
+When the browser requests information from a website, a lot of information is sent in the request.
+A lot of this information was once more important than it is now days.
+Information such as your browser type/version, plugins you have installed, screen resolution, operating system language, and so on is sent along.
+This presents a problem because, while one may not think it, there’s enough variables present in people’s browsing setup that can create a fairly unique guess.
+For example, lets say you live in a household with other people.
+Each person has their own, personal, setup.
+One person may be using a laptop, another person a desktop, and another person using their phone.
+Each system has their own set of screen resolutions.
+This information is provided when a request is made for a web page, and is stored in the web server logs.
+This information can at least distinguish who is browsing what.
+This, alone, isn’t a huge privacy issue because the information and logs are stored on the server which is accessed.
+I’d have be combined with other logs to start gathering a picture for peole’s browsing habits.
+That said, it’s still worth mentioning.
+Closing Thoughts
+The topic of Privacy, for each of the parts in the actors section can make up a post of their own.
+So to keep this post from being too large, I will create a series out of it - talking about each one, and how to mitigate the threat.
+References
+1: https://en.wikipedia.org/wiki/Third-party_doctrine
+2: https://www.forbes.com/sites/thomasbrewster/2017/01/22/whatsapp-facebook-backdoor-government-data-request/
+3: https://www.congress.gov/bill/116th-congress/senate-bill/3398/text
+4: https://www.theverge.com/interface/2020/3/12/21174815/earn-it-act-encryption-killer-lindsay-graham-match-group
+6: https://newatlas.com/computers/facebook-not-secretly-listening-conversations/
+7: https://www.usatoday.com/story/tech/columnist/komando/2019/02/14/your-smartphone-tracking-you-how-stop-sharing-data-ads/2839642002/
+8: https://www.livescience.com/37398-right-to-privacy.html
+About the Author
+David Thole
+Applicaton Developer, SQL Server DBA.
+Reads/studies a lot and enjoys all things technology
+Follow @thedarktrumpet
+Read More
+GTD With Hobonichi
+# What's Hobonichi?Hobonichi \[[1](#references)\] is a brand of journal/planner, made in Japan, that I've been using for a few years now....… Continue reading
+Black Box Performance Analytics - SQL Server Profiler
+Published on October 03, 2020
+Privacy and Security, Defined
+Published on August 03, 2020

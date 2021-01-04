@@ -1,0 +1,499 @@
+http://mtechit.com/password-manager/features/password-policy-enforcement.html
+Français
+Sitemap
+Contact Us
+Hitachi ID Systems
+Home
+Solutions
+Industry
+Education
+Finance
+IAM as a Service
+Products
+Hitachi ID Bravura Security Fabric
+Hitachi ID Bravura Discover
+Hitachi ID Bravura Group
+Hitachi ID Bravura Identity
+Solutions
+Group Management
+Slow Onboarding
+Unreliable Deactivation
+Complex Access Requests
+Obsolete Access Rights
+Policy Violations
+Costly Audits
+No Accountability for Changes
+Costly Security Administration
+Features
+Group Lifecycle Management
+Peer Groups
+Automated Onboarding and Deactivation
+Access Request Portal
+Self-service Profile Updates
+Delegated Access Administration
+Robust Approvals Process
+Access Reviews and Remediation
+Segregation of Duties Policy Enforcement
+Role-based Access Control
+Risk Scores
+History of Requests and Entitlements
+Find Orphan and Dormant Accounts
+Actionable Analytics
+Screen Shots and Video
+Videos
+Concept Animations
+Screen Shots
+Benefits
+Faster SLA to Grant Access
+Complete and Reliable Deactivation
+Link Access Rights to Business Context
+Prevent Fraud and Minimize Risk
+Compliance with Regulations
+Empower Auditors to Answer Their Own Queries
+Technology
+Components and Policy Tables to Customize IAM Processes
+Auto-discovery of Identities and Entitlements
+Relationship-based Access Controls
+Privacy Protection
+Implementers Workflow
+Intercept 'Access Denied' Dialogs
+Compare User Entitlements
+Automated and Self-service ID Mapping
+Robust Workflow for Human Stake-holders
+Role Mining and Entitlement Analytics
+Reports, Dashboards and Analytics
+Library
+Hitachi ID Bravura Pass
+Solutions
+Too Many Passwords
+Users Locked Out of Their PCs
+High IT Support Call Volume
+Weak Authentication into SaaS Apps
+Uneven Support Call Volume
+Weak Passwords
+Off-hours IT Support
+Too Many Privileged Users
+Features
+Password Synchronization
+Transparent Password Synchronization
+Web Browser Password Synchronization
+Self-service Password Reset
+Self-service, Anywhere
+Managed User Enrollment
+Unlock PC with Drive Encryption
+Federated Access
+Password Policy Enforcement
+Password Expiration
+Personal Password Vault
+Assisted Password Reset
+Telephone Access to Self-service
+RSA SecurID Token Management
+Smart Card PIN Reset
+Download Contacts to Mobile Phone
+Reports and Analytics
+Screen Shots and Video
+Videos
+Concept Animations
+Screen Shots
+Benefits
+Stronger Security
+Lower IT Support Cost
+Improved User Service
+Technology
+Target System Connectors
+Other Integrations
+Flexible Authentication
+Send E-mails
+Ticket Integration
+Embed in Web Portals
+Telephony (IVR)
+Access to Self-service
+Help Locked Out Users
+Self-service for Off-site Users
+Map User IDs
+Bravura Pass Scalability
+Telephone Access
+Bravura Pass Language Support
+On-premises Runtime Requirements
+Library
+Hitachi ID Bravura Privilege
+Solutions
+Static Passwords
+Secure Credential Storage
+Administrator Accountability
+Reliable Authentication
+Pre-authorized Access
+One-time Access
+Stop Disclosing Passwords
+Forensic Audits
+Scaling Up
+Secure Windows Service Accounts
+Secure Embedded Accounts
+Features
+Randomize Privileged Account Passwords
+Flexible Access Disclosure Mechanisms
+Direct Connection
+VDI Proxy
+Web Proxy
+Account Sets
+Group Sets
+Temporary SSH Trust
+Secure Credential Vault
+Policy to Control Access
+Risk Scoring Access Requests
+Session Recording
+SSH Key Management
+Secure and Monitor Vendor Access
+Change Windows Service Account Passwords
+Secure Application-to-Application Passwords
+Reports, Dashboards and Analytics
+Screen Shots and Video
+Videos
+Concept Animations
+Screen Shots
+Benefits
+Risk Management
+Workforce Flexibility
+Technology
+Network Architecture
+Rendering SSH and RDP Sessions in a Browser
+Network Path to Managed Systems
+Emergency Access
+Included Connectors
+Infrastructure Auto-discovery
+Bravura Pass Scalability
+Granular Access Control
+Privacy Protection
+Authenticating Applications
+Segregation of Duties
+Flag Unusual Requests
+Library
+Hitachi ID Mobile Access
+Suite 11.0
+Suite 11.1
+Start Free Trial
+Services
+Solution Delivery
+Methodology
+Education
+Partner Training Courses
+Partner Training Courses Detailed Steps
+Customer Training Courses
+Customer Training Courses Detailed Steps
+AWS Virtual Machine Contents and Environment
+Administrator Required Skills
+Hitachi ID Bravura Identity
+Hitachi ID Bravura Pass
+Hitachi ID Bravura Privilege
+Upgrades
+AdMax Program
+Managed IAM
+Technology
+Network Architecture
+SaaS Network Architecture
+Active-Active Network Architecture
+On-premises Runtime Requirements
+100+ Included Connectors
+Active Directory
+LDAP Directories
+SaaS Applications
+SAP ECC, HCM, GRC and HANA
+Oracle eBusiness Suite, PeopleSoft and JD Edwards
+Z/OS with RAC/F, ACF/2 or TopSecret
+iSeries (AS/400)
+Databases
+Drive Encryption
+RSA SecurID
+Service Catalog / Ticketing Systems
+Mobile App and Access from BYOD
+Web Services and APIs
+Localization
+2FA for Everyone
+Library
+Documents
+Savings Calculator
+Independent Reviews
+Certifications
+Support
+Support for Older Releases
+Portal Login
+Company
+News & Events
+Upcoming Events
+Press Releases
+Press Coverage
+Archived Webinars
+Customers
+North America Customers
+Europe Customers
+South Pacific Customers
+Customer Referral
+Customer Portal
+Partners
+All Partners
+Partner Portal Login
+New Partner Sign-up
+Opportunity Registration
+Careers
+Contact Us
+Blog
+Case Studies
+Free Trial
+Request Demo
+»
+Features
+»
+Password Policy Enforcement
+Password Policy Enforcement
+Require users to choose hard-to-guess passwords, preventing password reuse and forcing regular password changes.
+When users select a new password with Hitachi ID Bravura Pass -- either using its
+web portal or by changing their password natively on a system that has
+been configured to trigger transparent password synchronization,
+Bravura Pass applies a site-defined set of password quality rules.
+Users are not allowed to select passwords that violate this policy.
+The policy mechanism supports over 50 types of rules, including an
+unlimited-length history, word and permutation checks against various
+dictionaries and checks against the user ID and its permutations.
+Regular expression matching is also supported so that Hitachi ID Systems customer
+can define its own rules if they are not supported in Bravura Pass.
+When using the Bravura Pass web portal, password policy rules are
+displayed to the user on the screen where users are prompted to select
+a new password.
+Rule violations, if any, are detailed on the subsequent
+screen.
+On most systems, where transparent password synchronization is
+configured, there is no way for Bravura Pass to display either password
+composition rules or informative messages about why a given password
+was rejected to the user.
+This is due to limitations in the native OS
+or application mechanism available to Bravura Pass to intercept password
+changes, rather than a limitation in Bravura Pass itself.
+Messages about
+why a given password was rejected can still be communicated, but only
+via a side channel, such as e-mail or SMS.
+Learn more about the
+password strength rules
+that Bravura Pass can enforce.
+A Global Policy
+Bravura Pass is normally configured to enforce a uniform
+password policy across all systems, to ensure that any new password
+will be acceptable to every integrated system. This provides the most
+clear and understandable experience to users. Bravura Pass is configured
+such that it will never accept or propagate a password that will not
+meet this global password policy.
+For instance, in the case of an organization that has both Windows
+Active Directory (AD) and z/OS passwords, where users may enter
+very long passwords on AD but only 8 characters on the mainframe,
+Bravura Pass can require that passwords be exactly 8 characters long.
+Alternately, Bravura Pass can support longer passwords, but truncate them
+when it updates the mainframe (users generally prefer a fixed
+length, as it is easier to understand).
+All systems enforce two types of password rules:
+Complexity requirements ensure that users do not select
+easily-guessed passwords. Example rules are: disallowing
+any permutation of the user's login ID, password history,
+requiring mixed letters and digits, forbidding dictionary
+words, etc.
+Character set and length limits on what can be physically stored
+in the password field on a given system.
+A global password policy is normally created by combining and
+strengthening the best-of-breed complexity requirements from each
+system affected by the policy. Bravura Pass then combines these with the
+most restrictive storage constraints.
+This forces users
+to select strong, secure passwords on every system.
+The alternative, of defining different password policies for
+every target system or for groups of target systems, is less
+user friendly.
+To update their passwords, users must select a
+system, choose a password, wait for the password update to complete,
+choose another system, select and input a different
+password, etc.
+Users must then remember multiple passwords and will
+continue to experience many password problems.
+It has been shown that
+users with many passwords have a strong tendency to write down their
+passwords.
+Support for Incompatible Policies
+Normally, it is desirable to have a single, global password policy.
+This makes the user experience much simpler and encourages high
+user adoption.
+In some cases, it is impossible to formulate a single, consistent
+password policy that works across two different systems.
+Typically this
+happens when one system requires strong security and complex passwords,
+while another system simply cannot support complex passwords.
+Examples of weak systems include legacy applications that use very
+short passwords or numeric PINs, voice mail passwords, etc.
+Systems with a moderate password complexity capability typically
+include mainframes and database servers.
+Systems with a strong password complexity capability typically include
+Active Directory, LDAP directories and modern implementations of Unix.
+If some systems have mutually exclusive password complexity
+capabilities, they can be grouped into mutually-compatible sets,
+and each set of systems is configured in its own Bravura Pass target group.
+Note that multiple Bravura Pass target groups can co-exist on a single
+Bravura Pass instance and do not require separate maintenance.
+Configuration
+is just a few minutes.
+Each Bravura Pass target group can support its own set of
+password policies, as well as policies regarding transparent
+password synchronization.
+When users choose to change their passwords, they must first
+select a target group in the Bravura Pass user interface.
+Subsequently,
+appropriate policy information is displayed and enforced.
+Clearly, it is preferable to formulate a single password policy
+for all systems whenever possible, to eliminate the password complexity
+which Bravura Pass is designed to address in the first place.
+List of Rules
+Following is a list of password strength rules that can be
+enforced by Bravura Pass:
+Rule name
+Type
+Description
+Minimum length
+Req/Warn
+The smallest number of characters that a legal password can contain.
+Maximum length
+Req/Warn
+The largest number of characters that a legal password can contain.
+Require mixed case?
+Req/Warn
+Enable if passwords should contain both uppercase and lowercase
+characters.
+Maximum no. of lower-case letters
+Req/Warn
+The largest number of lower-case letters that a legal password
+can contain.
+Maximum no. of upper-case letters
+Req/Warn
+The largest number of upper-case letters that a legal password
+can contain.
+Minimum no. of punctuation marks
+Req/Warn
+The smallest number of punctuation marks that a legal password
+can contain.
+Maximum no. of punctuation marks
+Req/Warn
+The largest number of punctuation marks that a legal password can
+contain.
+Minimum no. of inside punctuation marks
+Req/Warn
+Same as minimum punctuation marks, but not counting the first or
+last character of the password.
+Minimum no. of letters
+Req/Warn
+The smallest number of letters that a password can contain.
+Start with a letter?
+Req/Warn
+Enable to require all passwords to start with a letter.
+Useful for
+compatibility with some systems.
+Minimum no. of digits
+Req/Warn
+The smallest number of digits that a legal password can contain.
+Minimum no. of digits inside
+Req/Warn
+Same as minimum digits, but not counting the first or last character
+of the password.
+No words from the (provided) dictionary
+Req/Warn
+The password, stripped
+of non-letter characters, may not match a word (consisting of
+four or more letters) from the dictionary.
+This is case-insensitive.
+No exact word match from the dictionary.
+Req/Warn
+A password may not exactly match a dictionary word consisting of
+four or more letters.
+This is case-insensitive.
+No words from dictionary contained within password
+Req/Warn
+A password, stripped of non-letter characters, may not contain
+a dictionary word.
+This is case-insensitive.
+No rearranged words from this dictionary
+Req/Warn
+A password, stripped of non-letter characters, may not be a dictionary
+word with the letters rearranged.
+This is case-insensitive.
+Not the user name?
+Req/Warn
+The user's name may not be used as the new password.
+Not the user name backwards?
+Req/Warn
+Same as above, but with the letters in the name reversed.
+Does not contain the user name?
+Req/Warn
+The user's name may not form part of the new password.
+Does not contain the user name backwards?
+Req/Warn
+Same as above but with the letters in the name reversed.
+Not a rearranged user name?
+Req/Warn
+Same as above but with the letters in the name rearranged in any way.
+Does not match the first N characters of the user name?
+Req/Warn
+The new password may not contain the specified number of characters
+that begin the user name
+Offer the user N random passwords
+Req/Warn
+Display N randomly-selected passwords, as suggestions or (if required)
+the user must choose one of them.
+Maximum number of character pairs
+Req/Warn
+The maximum number of pairs of the same character appearing
+consecutively in new, legal password values.
+Require password to be approved by this plug-in
+On/Off
+An external program is called, to verify that a password is
+acceptable.
+Warn if the password was not approved by this plug-in
+On/Off
+An external program is called, to verify that a password is desirable
+or not.
+Mainframe compatible (8 chars; alpha/num or @$#)
+Req/Warn
+Intended for mainframe compatibility.
+Password rules apply to the first N characters of the password
+On/Off
+Apply all other rules to a truncated version of the password typed
+by the user.
+Record old passwords - never reuse them (password history)
+Req/Warn
+New passwords may not be the same as passwords that appear in a
+history file.
+Store new password hash in history on successful change/reset
+Req/Warn
+Enforce password history by storing hashes of old passwords.
+Users will not be able to reuse old passwords.
+Allow old passwords after N days
+Req/Warn
+When enforcing no-reuse of passwords, disregard older passwords.
+Prompt users to change passwords every N days
+Req/Warn
+Prompt the user to change passwords every N days, based on most
+recent Bravura Pass password change.
+Typically via e-mail -- see
+notification configuration.
+Regular expressions
+Req/Warn
+Passwords may (not) match string patterns.
+Quick Links
+Start free trial
+Download free, full-featured, time-expired evaluation software.
+Savings calculator
+Find out how much Hitachi ID Bravura can save your organization.
+Please call me
+Get more information about our solutions and services.
+Request demo
+Take a guided personalized tour with our IAM experts.
+Privacy Policy
+Terms of Use
+Hitachi ID Systems LinkedIn page
+Hitachi ID Systems Facebook page
+Hitachi ID Systems Twitter page
+Hitachi ID Systems YouTube page
+©
+Hitachi ID Systems, Inc.

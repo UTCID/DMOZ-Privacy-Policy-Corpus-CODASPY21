@@ -1,0 +1,180 @@
+https://www.r-wipe.com/maintain-computer-privacy-SSD-storage-device.html
+We are committed to providing fast, efficient, and affordable software solutions that set new standards in the software development industry.
+PRODUCTS
+FREEWARE
+R-Undelete Home
+R-Photo
+R-Linux
+FOR COMMERCIAL USE
+R-Studio Technician for Data Recovery Services
+R-Drive Image for Backup and Deployment Services
+FOR PERSONAL AND BUSINESS USE
+PRO Data Recovery:
+R-Studio for Windows
+R-Studio for Mac
+R-Studio for Linux
+Backup and System Restore:
+R-Drive Image
+R-Drive Image Technician
+PC Privacy and Security:
+R-Wipe & Clean
+R-Wipe & Clean for Mac
+R-Crypto
+File Repair:
+R-Mail
+R-Word
+R-Excel
+BUY ONLINE
+Quote
+Get Invoice
+Sales FAQ
+Sales Policy
+SUPPORT
+Technical Support
+Customer Support
+FAQ
+Knowledge Base
+R-TT Forum
+DISTRIBUTION
+Affiliate Program
+Resellers
+Regional Distributors
+Login
+MY ORDER
+SSD Storage Devices and Computer Privacy
+SSD storage devices are becoming more and more common in modern computers. They've already become the de facto standard storage devices for laptops, and many modern PCs have them, too. Moreover, many Windows tablets utilize eMMC memory for data storages, which function similarly to SSD devices.
+A common conception regarding SSD devices is that there's no need to take much care of possible undesirable recovery of files deleted from an SSD.. If a file gets deleted from an SSD device, it becomes irrecoverable - even without special wiping - if the TRIM command is enabled. And this is the default setting for the most systems. Therefore, there's no need to have a special wiping and cleaning program in a system with an SSD device.
+However, this is a common misconception and nothing is further from the truth. There are several important points to having such a program on a computer with an SSD storage device. This article will explain why, using R-Wipe&Clean as an example.
+But before we begin, there's one important note: SSD devices are incredibly fast in processing files. Therefore, the operations described below won't take much time to complete.
+* Disk cleanup to free up disk space.
+SSD devices are relatively small. Their capacity starts from 128 GB, while it's hard to find a modern HDD with less than 0.5 TB. As such, free storage space is always scarce for SSD devices. At the same time, Windows and certain programs, like web browsers, can store a lot of temporary and garbage data on the system disk. That includes various temporary files, caches, logs, etc. Those files can be easily deleted without affecting system performance.
+R-Wipe&Clean does that quietly, seamlessly, and automatically. Just click the Simple Disk Cleanup button on Trace Selection Helper on the program main panel and then the Wipe & Clean Now button. R-Wipe&Clean will start the cleanup process. Moreover, you can create special tasks to delete temp files from every specific program and run it automatically upon its closure.
+Fig.1. R-Wipe&Clean main panel with selected Simple Disk Cleanup in Trace Selection Helper
+Click image to enlarge
+You may read more about disk cleanup in our article Disk Cleanup: How to free up disk space.
+* Removing traces of deleted files from the system
+Although it's true that it might be impossible to recover a file once it's been deleted from an SSD, some traces of the file still remain in the system if the system's standard procedures have been used. For example, its full filename may be stored for a while in the records of a disk's file system, and such names may contain sensitive information. This information is at risk of being discover and analyzed by hackers.
+When a file is deleted using R-Wipe&Clean, the program automatically removes such information for deleted files from the system records. Moreover, if the system contains both SSD and HDD storage devices, R-Wipe&Clean distinguishes between the two formats and wipes files on them accordingly - deleting files and wiping file records on SSDs and wiping both file content and file records on HDDs. Moreover, R-Wipe&Clean determines whether the TRIM command is enabled for the SSD, and if not (either because TRIM is disabled or because this is an external USB SSD device where TRIM doesn't work), it will wipe all file content on such SSD devices.
+Fig.2. File Wipe Settings for SSD and HDD
+Click image to enlarge
+R-Wipe&Clean can delete files from shortcut menus of the system file explorer and many third-party file management programs.
+R-Wipe&Clean also removes traces for files deleted through standard Windows file deletion procedures while cleaning free space on storage devices.
+Fig.3. Cleaning free space for SSD and HDD storage devices.
+Click image to enlarge
+Once again, R-Wipe&Clean distinguishes SSDs from HDDs and cleans free space on them accordingly. It wipes only file records on SSDs and wipes both file records and free space on HDDs.
+Wiping free space can be set as a task and run manually or automatically at a specified time/event. You may read more about setting and scheduling a task on R-Wipe&Clean online help: Wiping Tasks and Scheduler.
+The remaining points pertain both to SSDs and HDDs.
+* Removing traces of your activity
+Even if a file has already been deleted, its name might remain in various lists like Recent Documents, Jump Lists, thumbnail caches of File Explorer, and many others. Moreover, your system keeps track of the files you've deleted, too. R-Wipe&Clean allows you to easily clear those traces. You don't have to know much about internals of your system to do so, just use Trace Selection Helper for clearing Internet activity traces, User's Activity traces, and System's activity traces to remove most essential traces.
+Fig.4. R-Wipe&Clean main panel with selected User's Activity Traces in Trace Selection Helper.
+Click image to enlarge
+Advanced users can use R-Wipe&Clean to clear various traces. You may read more about removing traces of your activity in our article Computer Privacy and Identity Theft Protection.
+* Deleting temp and scratch files from third-party programs.
+Many programs use temp and scratch files to speed up their operation. Even if you delete a file, the program might keep its temp files that will reveal the contents of the file.
+R-Wipe&Clean wipes files and removes traces from many third-party programs and MS Store games. Those include Microsoft/Open/Libre Office/Adobe Acrobat documents, and many others. Keep in mind that this list is constantly expanding as new programs and games are released.
+Fig.5. Removing LibreOffice traces.
+Click image to enlarge
+Once again, you may opt to clear those traces manually or to create a task and remove them automatically upon the program closure.
+If necessary, you can create wipe lists for your own program if R-Wipe&Clean doesn't already support it. You may read about wipe lists in our article Wipe lists in R-Wipe&Clean for more details.
+This allows you to check, test, and verify all these points by yourself. Download and install R-Wipe&Clean and enjoy its fully functional operation for the current trial period of one month.
+Keep in mind that if you don't register R-Wipe&Clean within the trial period, it will turn into R-Wipe&Clean Light, a free version that is capable of clearing most essential traces. You may still register this free version at any time, and it will turn back into the fully functional version of R-Wipe&Clean.
+Data Recovery Articles
+Data Recovery Guide
+Why R-Studio?
+R-Studio for Forensic and Data Recovery Business
+R-STUDIO Review on TopTenReviews
+File Recovery Specifics for SSD devices
+How to recover data from NVMe devices
+Predicting Success of Common Data Recovery Cases
+Recovery of Overwritten Data
+Emergency File Recovery Using R-Studio Emergency
+RAID Recovery Presentation
+R-Studio: Data recovery from a non-functional computer
+File Recovery from a Computer that Won't Boot
+Clone Disks Before File Recovery
+HD Video Recovery from SD cards
+File Recovery from an Unbootable Mac Computer
+The best way to recover files from a Mac system disk
+Data Recovery from an Encrypted Linux Disk after a System Crash
+Data Recovery from Apple Disk Images (.DMG files)
+File Recovery after Re-installing Windows
+R-Studio: Data Recovery over Network
+How To Use R-Studio Network Package
+Data Recovery from a Re-Formatted NTFS Disk
+Data Recovery from a Re-Formatted exFAT/FAT Disk
+Data Recovery from an Erased HFS Disk
+Data Recovery from an Erased APFS Disk
+Data Recovery from a Re-Formatted Ext2/3/4FS Disk
+Data Recovery from a Simple NAS
+Specifics of File Recovery After a Quick Format
+Data Recovery After Partition Manager Crash
+File Recovery vs. File Repair
+Data Recovery from Virtual Machines
+Emergency Data Recovery over Network
+Data Recovery over the Internet
+Creating a Custom Known File Type for R-Studio
+Finding RAID parameters
+Recovering Partitions on a Damaged Disk
+NAT and Firewall Traversal for Remote Data Recovery
+Data Recovery from an External Disk with a Damaged File System
+File Recovery Basics
+Default Parameters of Software Stripe Sets (RAID 0) in Mac OS X
+Data Recovery from Virtual Hard Disk (VHD) Files
+Data Recovery from Various File Container Formats and Encrypted Disks
+Automatic RAID Parameter Detection
+IntelligentScan Data Recovery Technology
+Backup Articles
+Backup with Confidence
+Computer Recovery and System Restore
+Disk Cloning and Mass System Deployment
+Accessing Individual Files or Folders on a Backed Up Disk Image
+Creating a Data Consistent, Space Efficient Data Backup Plan for a Small Business Server
+Undelete Articles
+Get Deleted Files Back
+Free Recovery from SD and Memory cards
+R-Undelete: Video Recovery
+Recovery from an External Device with a Damaged File System
+File recovery from a non-functional computer
+Free File Recovery from an Android Phone Memory Card
+Free Photo and Video File Recovery Tutorial
+PC Privacy Articles
+Computer Privacy and Identity Theft Protection
+Disk Cleanup: How to free up disk space
+Clear Browser Cache, History, and Other Data
+Wipe lists in R-Wipe&Clean
+SSD Storage Devices and Computer Privacy
+PC Privacy Feedback
+18
+feedbacks
+Rating:
+4.7
+/
+5
+Assuming 5 is the best rating. New R-Wipe&Clean is fabulous. The new interface is very robust, easy to navigate, and a pleasure to use. Great job R-Tools!
+Sam Maggio
+I choose this way to quickly convey a suggestion regarding R-Wipe&Clean. ¡¡¡¡BTW I do rate it at 5 stars!!!!
+R-W&C has a feature that I really could learn to appretiate while looking for ways to speed-up family and friends pc`s: the wiping of the MFT. There is a reduction of the MFT size and an a quite noticeable increase in system response time due to that. Many times I would like to ONLY do the MFT, but alas as it is a secondary option of the Unused Space option, I always loose a lot of time wiping a ...
+Roberto Petitpas (home user)
+What is the big delay
+on getting the great r-wipe&clean
+windows 8 ready
+you guys get the
+thing way before its realease so that this
+does not happen , what s ahame firs webroot let the great window washer slip, now you are such a shame why dont you sell the rights of the programe if your not bothered dont let a good programe die!!!
+mark (pc 1)
+I must congratualate you upon a Excellent product. I downloadedthe the Trial product and after first use I imediately purchased it.Two points though,1, I cannot see how
+I can update R- Wipe& Clean.2,I would like to purchase other products and I suggest discounts forfurther purchases.Well done a SUPERB PRODUCT
+Frank Treanor
+Hi,for some time I`ve been using your Wipe & Clean program. I find it excellent. There is one question I`d like to ask though. Wouldn`t it be a good idea to change the cleaning routine that the program runs through? I was wondering if scrubbing the filetable and the empty diskspace would make more sense after cleaning all the other traces then before.Wondering what you might think about this.Kind regards,Vokt
+Vokt Bef
+Technology articles
+Web directory
+Terms of Use
+Privacy Policy
+Contact Us
+Feedback
+Site Map
+R-TT Forum
+© Copyright 2000-2020 R-Tools Technology Inc.
+We use cookies to ensure you get the best experience on our website.   Read more
+Got It

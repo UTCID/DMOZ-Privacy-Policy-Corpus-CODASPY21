@@ -1,0 +1,101 @@
+https://pacificcoastproducers.com/cookie-policy/
+COVID-19 UPDATE Read more
+Home » Cookie Policy
+Cookie Policy
+This Cookie Policy explains what cookies are and how we use them. You should read this policy to understand what cookies are, how we use them, the types of cookies we use i.e, the information we collect using cookies and how that information is used and how to control the cookie preferences. For further information on how we use, store and keep your personal data secure, see our Privacy Policy.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+What are cookies ?
+Cookies are small text files that are used to store small pieces of information. The cookies are stored on your device when the website is loaded on your browser. These cookies help us make the website function properly, make the website more secure, provide better user experience, and understand how the website performs and to analyze what works and where it needs improvement.
+How do we use cookies ?
+As most of the online services, our website uses cookies first-party and third-party cookies for a number of purposes. The first-party cookies are mostly necessary for the website to function the right way, and they do not collect any of your personally identifiable data.The third-party cookies used on our websites are used mainly for understanding how the website performs, how you interact with our website, keeping our services secure, providing advertisements that are relevant to you, and all in all providing you with a better and improved user experience and help speed up your future interactions with our website.
+What types of cookies do we use ?
+Essential: Some cookies are essential for you to be able to experience the full functionality of our site. They allow us to maintain user sessions and prevent any security threats. They do not collect or store any personal information. For example, these cookies allow you to log-in to your account and add products to your basket and checkout securely.Statistics: These cookies store information like the number of visitors to the website, the number of unique visitors, which pages of the website have been visited, the source of the visit etc. These data help us understand and analyze how well the website performs and where it needs improvement.
+Marketing: Our website displays advertisements. These cookies are used to personalize the advertisements that we show to you so that they are meaningful to you. These cookies also help us keep track of the efficiency of these ad campaigns.
+The information stored in these cookies may also be used by the third-party ad providers to show you ads on other websites on the browser as well.
+Functional: These are the cookies that help certain non-essential functionalities on our website. These functionalities include embedding content like videos or sharing contents on the website on social media platforms.
+Preferences: These cookies help us store your settings and browsing preferences like language preferences so that you have a better and efficient experience on future visits to the website.
+Cookies may be either persistent cookies or session cookies. A persistent cookie consists of a text file sent by a web server to a web browser, which will be stored by the browser and will remain valid until its set expiry date (unless deleted by the visitor before the expiry date). A session cookie, on the other hand, will expire at the end of the visitor session, when the web browser is closed.
+Below is our current cookie list. You acknowledge that this information may contain inaccuracies or errors and is subject to change without notice. We expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
+Cookie Provider
+Cookie Name
+Cookie Purpose
+Cookie Duration
+Category
+Native
+has_js
+Whether user has JavaScript enabled in their browser
+Native
+wordpress_logged_in_[hash]
+Store your authentication details (only used for Administrators or folks that log into the site)
+Native
+wp-settings-<userid>
+Used to customize your view of admin interface, and possibly also the main site interface.
+Native
+wp-settings-time-<userid>
+Used to customize your view of admin interface, and possibly also the main site interface.
+Native
+weird_get_top_level_domain
+Detects the root domain on the page.
+Native
+wordpress_test_cookie
+Testing cookie capabilities
+NewRelic/Pantheon
+JSESSIONID
+Server-related performance information recorded at host
+CrazyEgg
+1. _ceir, is_returning: Crazy Egg / 5 years Track whether a visitor has visited the site before
+2. _CEFT: Crazy Egg / 1 year Store page variants assigned to visitors for A/B performance testing
+3. _ceg.s: Crazy Egg / 3 months Track visitor sessions
+4. _ceg.u: Crazy Egg / 3 months Track visitors on your site
+5. s: Crazy Egg / 3 months Track visitor sessions
+6. u: Crazy Egg / 3 months Track visitors on your site
+7. cer.s: Crazy Egg / Session (expires when the browser is shut down) Visitor activity recording session unique ID, tracking host and start time
+8. cer.v: Crazy Egg / Up to 31 days (expires on the first of the month) Visitor activity recording unique ID, visit time and visit count
+Tracking website usage including heat maps and click data
+5 years
+Analytics
+Google Analytics
+1. _ga 2 years Used to distinguish users.
+2. _gid 24 hours Used to distinguish users.
+3. gat 1 minute Used to throttle request rate. If Google Analytics is deployed via Google Tag Manager, this cookie will be named _dc_gtm<property-id>.
+4. AMP_TOKEN 30 seconds to 1 year Contains a token that can be used to retrieve a Client ID from AMP Client ID service. Other possible values indicate opt-out, inflight request or an error retrieving a Client ID from AMP Client ID service.
+5. gac<property-id> 90 days Contains campaign related information for the user. If you have linked your Google Analytics and Google Ads accounts, Google Ads website conversion tags will read this cookie unless you opt-out. Learn more.
+Used to distinguish users
+2 years
+Analytics
+Google Analytics / Tag Manager
+_gat_gtag_UA_XXXXXX
+Used to collect analytics data users
+OptinMonster
+1. _omappvp: used for determining new vs. returning visitors. Expires in 11 years.
+2. _omappvs: used to determine when a new visitor becomes a returning visitor.
+3. om-global-cookie / omGlobalSuccessCookie: used to prevent any future OptinMonster campaigns from showing on your site. Disabled by default, can be edited in the Site settings.
+4. om-interaction-cookie / omGlobalInteractionCookie: used to determine if a visitor has interacted with any campaign on your site. Default is 30 days, can be edited or disabled.
+5. om-{id} / om-{campaignSlug}: used to determine if a visitor has interacted with a campaign ID of {id} / {campaignSlug} on your site. No expiration date.
+6. omSeen-{campaignSlug}: used to determine if a visitor has been shown a campaign by the slug. No expiration date.
+7. om-success-{id} / omSuccess-{campaignSlug}: used to determine if a visitor has successfully opted in to a campaign with the ID of {id} / {campaignSlug} on your site. No expiration date.
+8. om-success-cookie / omSuccessCookie: used to determine if a visitor has successfully opted in to any campaign on your site. Default is 365 days, can be edited or disabled.
+9. om-{id}-closed / omSlideClosed-{campaignSlug}: used specifically with slide-in campaigns {id} / {campaignSlug} to determine if it has been closed or not by a visitor. No expiration date.
+10. omCountdown-{campaignSlug}-{elementId}: used for countdown elements {elementId} in campaigns {campaignSlug} to determine when it should complete.
+11. omSessionStart: used to determine the current session time of the visitor on your site. Expires with the session.
+12. omSessionPageviews: used to determine the number of pages seen by a visitor during their browsing session on your site. Expires with the session.
+Used for determining new vs. returning visitors.
+11 years
+Marketing
+MixPanel
+_mp_xxxxx_mixpanel
+Used for site analytics to better understand user behavior
+Did You Know?
+Canned fruits and tomatoes are packed within just a few hours of being harvested at the peak of ripeness.
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies. Read our Cookie Policy.Cookie settingsACCEPTPrivacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+Necessary
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.

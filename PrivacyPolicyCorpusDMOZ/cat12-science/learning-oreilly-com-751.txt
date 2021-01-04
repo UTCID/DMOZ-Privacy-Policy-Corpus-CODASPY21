@@ -1,0 +1,31 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/apc.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Appendix C. P3P: The Platform for Privacy Preferences ProjectThis appendix was contributed by Lorrie Cranor of
+AT&T Labs—Research. It is copyright AT&T and reprinted with
+permission. The Platform for Privacy Preferences Project (P3P), introduced
+in Chapter 24, provides a standard
+way for web sites to communicate about their data practices. Developed
+by the World Wide Web Consortium (W3C), P3P includes a machine-readable
+privacy policy syntax as well as a simple protocol that web browsers and
+other user agent tools can use to fetch P3P privacy policies
+automatically. P3P-enabled browsers can allow users to do selective
+cookie blocking based on site privacy policies, as well as to get a
+quick “snapshot” of a site’s privacy policies.This appendix provides an overview of how P3P works and how you
+can obtain and use it. For more information about P3P, see http://www.w3.org/P3P/. That site
+includes pointers to the complete P3P specification, lists of P3P
+software and P3P-enabled web sites, and more detailed instructions for
+using P3P on your web site. For a complete discussion of P3P and how you
+can use it to best advantage, see the forthcoming book,
+P3P, by Lorrie Cranor.How P3P WorksThe P3P specification includes a standard
+vocabulary for describing a web site’s data
+practices, a set of base data elements
+that web sites can refer to in their P3P privacy
+policies, and a protocol for requesting and transmitting web site
+privacy policies.The P3P protocol is a simple extension to the ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

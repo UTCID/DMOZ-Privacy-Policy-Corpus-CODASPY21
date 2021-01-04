@@ -1,0 +1,33 @@
+http://www.passionatepinky.com/privacy-policy/
+passionatepinky.com
+This domain is registered for one of our customers.
+If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
+Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
+* Do you know what the Wildcard record is?
+Suggested article: What is Wildcard record?
+The Wildcard DNS record is a record that answers DNS requests for subdomains you haven't already defined. It is specified by using a "*" as the leftmost label (part) of a domain name, e.g., *.example.com.
+* When you set a wildcard record, that record does not override any existing subdomain records in the zone.
+How to add a Wildcard record?
+Wildcard Record is useful when you wish to redirect all visitors to your website regardless of what subdomain they access your website through. This is also useful when someone mistypes www, for example, and writes ww.example.com.
+If you are interested in Wildcard DNS records, check this article!
+About ClouDNS
+DNS Services
+Free DNS
+Dynamic DNS
+Managed DNS
+Anycast DNS
+Reverse DNS
+Secondary DNS
+Enterprise DNS
+Domain parking
+Services
+Premium DNS
+DDoS Protected DNS
+GeoDNS
+Private DNS servers
+Domain names
+SSL certificates
+DDoS Protected VPS
+© ClouDNS
+Terms of service
+Privacy policy

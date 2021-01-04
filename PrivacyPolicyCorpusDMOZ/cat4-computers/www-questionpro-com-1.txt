@@ -1,0 +1,382 @@
+http://www.questionpro.com/help/
+Getting started
+Create survey
+arrow_right
+Creating surveys
+Survey templates
+Adding questions to survey
+Standard theme
+Survey logic
+Distribute survey
+arrow_right
+Distribution options
+Sending survey via email
+Manage email list
+Share on social media
+Analyze survey
+arrow_right
+Responses - raw data
+Data segmentation and filtering
+Cross-tabulation
+Open-ended text analysis
+Word cloud
+Export data
+Survey design and settings
+Creating surveys
+arrow_right
+Media library
+Question limits
+Creating a survey from MS Word doc
+How to edit live surveys
+Survey block randomizer
+Question randomization
+Survey blocks
+Scale Library
+What is monadic testing?
+What is sequential monadic testing?
+What is comparison testing?
+Custom validation messages
+Question types
+arrow_right
+Standard question types
+Advanced question types
+Multiple choice question type
+Text question- comment box
+Matrix multi-point scales question type
+Rank order question
+Smiley-rating question
+Image question type
+Date and time question type
+CAPTCHA question type
+Net Promoter Score question type
+Van Westendorp's price sensitivity question
+Choice modelling questions
+Side-By-Side matrix question
+Homunculus question type
+Predictive answer options
+Presentation text questions
+Multiple choice: select one
+Multiple choice: select many
+Page timer
+Contact information question
+Matrix multi-select question
+Matrix spreadsheet question
+Closed card sorting question
+Flex Matrix
+Text Slider Question Type
+Graphical Rating Scales
+Rank Order - Drag and Drop
+Bipolar Matrix - Slider
+Bipolar Matrix Likert Scale
+Gabor Granger
+Verified Digital Signature
+Verified Digital Signature
+Question settings
+arrow_right
+Answer type
+Reorder questions
+Question tips
+Text box next to question
+Text question settings
+Adding other option
+Matrix question settings
+Image rating question settings
+Scale options for numeric slider question
+Constant sum question settings
+Budget scale question settings
+Setting default answer option
+Exclusive option for multiple choice questions
+Validate question
+Bulk validation settings
+Remove validation message
+Question separators
+Question Code
+Page breaks in survey
+Survey introduction with acceptance checkbox
+RegEx Validation
+Question Library
+Embed Media
+Slider Start Position
+Answer Display - Alternate Flip
+Matrix - Auto Focus Mode
+Text validations
+Numeric Input Settings- Spreadsheet
+Answer Groups
+Design & branding
+arrow_right
+Add logo to survey
+Custom Themes
+Display options
+Auto-advance
+Progress bar
+Automatic question numbering option
+Enabling social network toolbar
+Browser Title
+Print or download survey
+Survey logic
+arrow_right
+Branching - Skip Logic
+Compound Branching
+Compound or delayed branching
+Dynamic quota control
+Dynamic text or comment boxes
+Extraction logic
+Show or hide question logic
+Dynamic show or hide
+Scoring logic
+Net promoter scoring model
+Piping text
+Survey chaining
+Looping logic
+Branching to terminate survey
+Logic operators
+Selected N of M logic
+JavaScript Logic Syntax Reference
+Block Flow
+Block Looping
+Scoring Engine: Syntax Reference
+Custom variables
+arrow_right
+Custom variables
+Update custom variables
+Custom variable mapping
+Custom variable quota control
+Geo location
+Restricting multiple responses using custom variables
+Data pre-population
+Mapping custom variables to Salesforce.com
+Multilingual surveys
+arrow_right
+Create multilingual surveys
+Supported langauages
+Multilingual surveys reporting
+Importing language translations
+Language translation service
+Survey settings
+arrow_right
+Survey settings
+Save & continue
+Anti Ballot Box Stuffing (ABBS) - disable multiple responses
+Deactivate survey
+Admin confirmation email
+Action alerts
+Survey timeout
+Finish options
+Spotlight report
+Print survey response
+Search and replace
+Compact view
+Survey Timer
+Allowing multiple respondents from the same device
+Text Input Size Settings
+Admin Confirmation Emails
+Survey Close Date
+Rewards and incentives
+arrow_right
+Adding rewards
+Starbucks gift card
+Amazon gift card
+Tango gift card
+Global virtual VISA reward
+Random winner
+Manage & organize surveys
+arrow_right
+Copy survey
+Editing shared surveys
+Sharing survey
+Share folder
+Search survey
+Email List Sharing
+Survey security
+arrow_right
+Survey authentication
+Global password protect
+Authentication using email invites only
+Email and password protect
+Participant ID authentication
+Username/password authentication
+SSL security
+Authentication using Facebook login
+Authentication using single sign-on
+Distribution
+Ways to distribute
+arrow_right
+Live survey URL
+Customize survey URL
+Create email invitation
+Personalizing emails
+Email invitation settings
+Email list filter
+Survey reminders
+Export batch
+Email status
+Spam index
+Send surveys via SMS
+Phone & paper
+Adding responses manually
+SMS Pricing
+Embedding Question In Email
+Deleting Email Lists
+Multilingual Survey Distribution
+Response tracking
+arrow_right
+Tracking respondents
+Survey Distribution History
+Mobile and offline app
+arrow_right
+Offline app themes
+Loop survey
+Mobile app
+Kiosk mode
+Synchronize app data
+Print PDF on offline app
+Device audit
+Device Variables
+Manual Sync
+Device Hardware
+Face detection on kiosk mode
+Offline App - Text to speech
+Push Notification
+Survey audience
+arrow_right
+Audience for surveys
+Request Respondents - Generic Sample
+EDU Answers
+Reports & analytics
+Analyzing your data
+arrow_right
+Survey Dashboard - Report
+Overall participant statistics
+Dropout analysis
+Banner tables
+Turf analysis
+Trend analysis
+Correlation analysis
+Survey comparison
+Gap analysis
+Mean calculation
+Weighted mean
+Spider chart
+Cluster Analysis
+Dashboard filter
+Datapad
+Download Options - Dashboard
+HotSpot analysis
+Heatmap analysis
+Text analysis
+arrow_right
+Text analysis- categorization
+Search text data
+Sentiment analysis
+Text Highlighter [BETA Release]
+Choice modeling
+arrow_right
+Conjoint analysis designs
+Conjoint part worths calculation
+Conjoint calculations and methodology
+Conjoint attribute importance
+Conjoint profiles
+Market segmentation simulator
+Conjoint brand premium and price elasticity
+What is MaxDiff scaling
+MaxDiff settings
+Anchored
+MaxDiff Analysis [BETA Release]
+MaxDiff FAQ
+MaxDiff- Interpreting Results
+Manage & export data
+arrow_right
+Automatic email report
+Data quality - Patterned responses
+Data quality - gibberish words
+Import external data
+Download center
+Consolidate report
+Delete survey data
+Data quality - All checkboxes selected
+Exporting data to Word or Powerpoint
+Scheduled reports
+Datapad
+Notification Group
+Integration
+CRMs
+arrow_right
+Salesforce sandbox
+Salesforce integration via survey object
+MS Dynamics authentication
+MS Dynamics field mapping
+Salesforce Integration
+Marketing
+arrow_right
+Marketo integration
+Hubspot integration
+Analysis tools
+arrow_right
+Tableau integration
+Google Analytics integration
+Google Sheets integration
+IVR integration
+Qualtrics data import
+API & Webhooks
+arrow_right
+Generate API key
+Real time post
+Zapier integration
+Webhook
+Account & billing
+Account management
+arrow_right
+Update user details
+Update time zone
+Business units
+Add Users
+Usage dashboard
+Single user license
+License restrictions
+Troubleshooting login issues
+Software support package
+Welcome Email
+User Roles & Permissions
+Bulk Add Users
+Two-Factor Authentication
+SAML Authentication: SP Initiated SSO
+Network Access
+Billing
+arrow_right
+Upgrade account
+30 days money back
+Pricing
+Invoice and receipts
+Update credit card details
+Buy SMS credit
+Cancel account
+Security & privacy
+Legal
+arrow_right
+Terms of use
+Privacy policy
+Integration privacy policy
+Data retention policy
+Email abuse policy
+Anti-spam policy
+System Audit Logs
+Registered Devices Logs
+QuestionPro Privacy Policy
+Compliance
+arrow_right
+CAN-SPAM Compliance Tool
+GDPR Compliance
+SAS 70 Type II Security
+Respondent anonymity assurance
+Security
+CCPA Compliance
+GDPR - Right to be Forgotten
+Authentication
+SSO
+arrow_right
+OneLogin- Survey Authentication SAML SSO
+Okta- Survey Authentication SAML SSO
+Still have questions?
+Webinar
+Free Training
+Support

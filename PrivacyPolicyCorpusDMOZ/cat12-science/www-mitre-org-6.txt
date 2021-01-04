@@ -1,0 +1,158 @@
+http://www.mitre.org/publications/systems-engineering-guide/se-lifecycle-building-blocks/requirements-engineering/special-considerations-for-conditions-of-uncertainty-prototyping-and-experimentation
+MITRE
+AboutCorporate OverviewOur HistoryMission and ValuesVisiting MITRELeadershipExecutive TeamBoard of TrusteesFellowsTechnical FellowsVisiting FellowsAwards and RecognitionCorporate Social ResponsibilityBuilding a Foundation for the FutureMITRE Staff Cultivates Los Angeles' Science EcosystemBringing Real World STEM to StudentsBuilding Partnerships and Diversity, One Engineering Conference at a TimeHow a Can of Soda Changed a Cafeteria DesignHow to Grow Computer Scientists? Start with KindergartnersMITRE Participates in Outside the Box DayA Conference Dedicated to Women's LeadershipNurturing Under-Represented Engineering StudentsYoung Women and EngineeringConnecting with Our Sponsor CommunitiesStudent Cadets Learn What It Takes to "Play at Work All Day"A Fishing Experience for Disabled VetsThe Undersea World of Frank LewisPromoting a Culture of Health and WellnessA Clothing Drive That Never EndedEnriching the Communities Where We LiveFighting Polio in Africa, Thanks to MITRE's Civic Leave ProgramBuilding a Better World, One Home at a TimeOur Green BuildingsRolling Up Their SleevesCulture of Knowledge SharingLocations and DirectionsContact UsGeneral InquiriesCentersWe Operate FFRDCsSpecial Access for Cities and StatesNational Security Engineering CenterWho We AreHistory and AwardsWhere We FocusDelivering Mission-Critical CapabilitiesSolving Global Information ChallengesIntegrating Solutions Across GovernmentCreating Transformational TechnologiesWho We HireWhat's NewCenter for Advanced Aviation System DevelopmentWho We AreHistoryAwardsWhere We FocusTransforming the National Airspace System (NextGen)Improving National Airspace System PerformanceAviation SafetyGlobal AviationAviation Research and DevelopmentTransforming TransportationParticipate in Aviation ResearchWho We HireWhat's NewCenter for Enterprise ModernizationWho We AreWhere We FocusTax, Revenue & Financial System TransformationFraud, Compliance & Financial IntegrityEconomic Infrastructure Modernization & ProtectionVeterans Health & Benefits ModernizationWho We HireWhat's NewHomeland Security Systems Engineering and Development InstituteWho We AreThe HSSEDI DifferenceEngage With UsWhere We FocusPrevent TerrorismSecure and Manage BordersEnforce and Administer Immigration LawsSafeguard and Secure CyberspaceStrengthen National Preparedness and ResilienceMature and Strengthen Homeland SecurityWho We HireWhat's NewJudiciary Engineering and Modernization CenterWho We AreWhere We FocusWhat's NewCMS Alliance to Modernize HealthcareWho We AreWhere We FocusWho We HireWhat's NewNational Cybersecurity FFRDCWho We AreWhere We FocusCapabilitiesOverviewMITRE LabsTechnical FellowsSystems EngineeringMITRE’s Systems Engineering RoleFellowship FAQsOverviewSE ResourcesCollaborationsMITRE Systems Engineering Fellowship Program for Federal EmployeesFellowship ExperienceEligibility and ApplicationFellowship FAQsSystem of Systems Engineering Collaborators Information ExchangeCybersecurityOverviewCyber Connections and DirectionsThinking ForwardThinking Forward: Cyber DefenseThinking Forward: CyberPhysicalHuman WorldCybersecurity ResourcesAwareness & TrainingStandardsToolsWhat's NewCyber Threat IntelligenceSituation AwarenessResiliencySecuring Civil SpaceThreat-based DefensePartnershipOperational InnovationAcquisition EffectivenessOverviewAcquisition ManagementCost AnalysisContractingAcquisition InitiativesAffordability Engineering FrameworkContinuous CompetitionAgile AcquisitionChallenge Based AcquisitionThe Science of AcquisitionEnhanced Scenario Based MethodAdvanced TechnologiesOverviewInformation SystemsCloud ComputingPrivacyService-Oriented ArchitectureSocial Software & CollaborationSignal ProcessingMobile TechnologiesData Science and AnalyticsSymphony™ Automated Secure PlatformSymphony in ActionMission PacksResearchOverviewWhat's NewMission-focused ResearchAgile Connected GovernmentAviation and TransportationCyberDecision ScienceNudge LabNudge Studies in ActionNudge FAQsHealthClinical Analytics for HealthcareNational Security NextNanotechnologyResearch and DevelopmentNanosystems Student ProgramsSensing, Processing, and ExploitationTechnology FuturesTechnology TransferTechnology LicensingSocial Radar TechnologiesFastLicensePatentsOpen Source SoftwarePartnerships & CollaborationMITRE ChallengeMITRE Challenge Eligibility VerificationEligibility Verification FAQsMITRE Challenge IoTIoT LeaderboardIoT FAQsMITRE Challenge UASUAS Challenge FinalistsUAS Challenge Eligibility OverviewUAS Challenge ComponentsUAS Challenge DetailsUAS Challenge Submission DetailsUAS FAQsSurface to SpaceResearch and Related
+NewsSurface to Space ArchitectureSpace Policy PodcastCenter for Technology & National SecurityCenter for Data-Driven PolicyCareersWorking at MITREValuing DiversityCollaboration and InnovationBenefitsProfessional DevelopmentWork-Life BalanceEmployee VoicesOur Hiring ProcessJob OpeningsAdvanced SearchStudent ProgramsEarly High School InternshipsSummer InternshipCampus EventsCo-ops & InternsRecent GraduatesStudent VoicesMilitary to MITREAcademic EngagementSE FellowshipPublicationsAll PublicationsProject StoriesTechnical PapersSystems Engineering GuideAbout the SEGThe Evolution of Systems EngineeringThe Essence of MITRE’s Systems EngineeringSEG Table of ContentsEnterprise EngineeringComprehensive ViewpointSystems ThinkingSystems Engineering Strategies for Uncertainty and ComplexityTools to Enable a Comprehensive ViewpointEnterprise Planning and ManagementIT GovernancePortfolio ManagementHow to Develop a Measurement CapabilityEnterprise Technology, Information, and InfrastructureIT Infrastructure EngineeringIT Service ManagementInformation and Data ManagementRadio Frequency Spectrum ManagementEngineering Information-Intensive EnterprisesArchitectures FederationDesign PatternsComposable Capabilities on Demand (CCOD)Open Source SoftwarePrivacy EngineeringPrivacy Requirements Definition and TestingSystems of SystemsEngineering Systems in the Context of Systems of SystemsTreating Systems of Systems as SystemsSystems Engineering Life-Cycle Processes as Applied to Systems of SystemsSystems Engineering for Mission AssuranceCyber Mission AssuranceCrown Jewels AnalysisCyber Threat Susceptibility AssessmentCyber Risk Remediation AnalysisSecure Code ReviewSupply Chain Risk
+ManagementTransformation Planning and Organizational ChangePerforming Organizational AssessmentsFormulation of Organizational Transformation StrategiesStakeholder
+Assessment and ManagementEffective Communication and InfluencePlanning for Successful User AdoptionEnterprise GovernanceCommunity of Interest and/or Community of PracticeStandards Boards and BodiesPolicy AnalysisMITRE FFRDC Independent AssessmentsPlanning and Managing Independent AssessmentsSE Life-Cycle Building BlocksConcept DevelopmentOperational Needs AssessmentConcept of OperationsOperational RequirementsHigh-Level Conceptual DefinitionRequirements EngineeringEliciting, Collecting, and Developing RequirementsAnalyzing and Defining RequirementsSpecial Considerations for Conditions of Uncertainty: Prototyping and ExperimentationSystem ArchitectureArchitectural Frameworks, Models, and ViewsApproaches to Architecture DevelopmentArchitectural PatternsSystem Design and DevelopmentDevelop System-Level Technical RequirementsDevelop Top-Level System DesignAssess the Design's Ability to Meet the System RequirementsSystems IntegrationIdentify and Assess Integration and Interoperability (I&I) ChallengesDevelop and Evaluate Integration and Interoperability (I&I) Solution StrategiesAssess Integration Testing ApproachesInterface ManagementTest and EvaluationCreate and Assess Test and Evaluation StrategiesAssess Test and Evaluation Plans and ProceduresVerification and ValidationCreate and Assess Certification and Accreditation StrategiesImplementation, O & M, and TransitionOther SE Life-Cycle Building Blocks ArticlesSpanning the Operational Space: How to Select Use Cases and Mission ThreadsAcquiring and Incorporating Post-Fielding Operational Feedback into Future DevelopmentsTest and Evaluation of Systems of SystemsVerification and Validation of Simulation ModelsAffordability, Efficiency, and EffectivenessAcquisition Systems EngineeringAcquisition Program PlanningAnalyses of AlternativesAcquisition Management MetricsAssessing Technical MaturityTechnology PlanningLife-Cycle Cost EstimationIntegrated Master Schedule (IMS)/Integrated Master Plan (IMP) ApplicationPerformance EngineeringComparison of Investment AnalysesSource Selection Preparation and EvaluationPicking the Right ContractorRFP Preparation and Source SelectionProgram Acquisition Strategy FormulationAgile Acquisition StrategyEvolutionary Acquisition"Big Bang" AcquisitionContractor EvaluationData Driven Contractor Evaluations and Milestone ReviewsEarned Value ManagementCompetitive PrototypingRisk ManagementRisk Management Approach and PlanRisk IdentificationRisk Impact Assessment and PrioritizationRisk Mitigation Planning, Implementation, and Progress MonitoringRisk Management ToolsConfiguration ManagementHow to Control a Moving BaselineConfiguration Management ToolsIntegrated Logistics SupportReliability, Availability, and MaintainabilityManaging Energy EfficiencyQuality Assurance and MeasurementEstablishing a Quality Assurance Program in the Systems Acquisition or Government Operational OrganizationHow to Conduct Process and Product Reviews Across BoundariesContinuous Process ImprovementImplementing and Improving Systems Engineering Processes for the Acquisition OrganizationMatching Systems Engineering Process Improvement Frameworks/Solutions with Customer NeedsNewsPress ReleasesCOVID-19 Insights & ImpactCEO LetterFocal PointsPromoting EquityPandemic ResponseCritical InfrastructureAerospace and TransportationAI and Machine LearningCommunity and BelongingCOVID-19Great Power CompetitionHealth OutcomesElection IntegrityExperimentation and ResearchMITRE Focal Points NewsletterIn the NewsMedia ResourcesCorporate EventsMITRE ExchangeMITRE Newsletter
+About the SEG
+SEG Table of Contents
+Enterprise Engineering
+SE Life-Cycle Building Blocks
+Acquisition Systems Engineering
+Special Considerations for Conditions of Uncertainty: Prototyping and Experimentation
+Print
+Definition: Prototyping and experimentation are two closely related methods that can help systems engineers (SEs) drive requirements uncertainty out of the requirements process.
+Keywords: CONOPS, experimentation, exploration, prototyping, requirements, uncertainty
+MITRE SE Roles and Expectations: MITRE systems engineers (SEs) are expected to identify uncertainty in requirements and actively take steps to mitigate it, including considering uncertainty in associated areas such as operational concepts and others (see the SEG's Concept Development topic). MITRE SEs are expected to understand the range and styles of prototyping and experimentation, and the potential impact of each when applied during requirements engineering. SEs are expected to understand the value in having MITRE execute a prototyping activity as opposed to (or inconjunction with) a contractor. They are also expected to be aware of experimental venues, events, and laboratories that exist to support these activities.
+Background
+Successfully developing systems or capabilities to meet sponsors' needs requires the ability to manage uncertainty when defining requirements. For example, how will analytical assessments of performance or functional requirements match the reality of their implementation when the system or capability is fielded? What unintended technical, operational, or performance issues are likely to occur? Will technology essential to meeting a requirement perform as expected when using realistic user data, or when injected? And what new concepts of operation are possible given new technical capabilities in operational environments and contexts? Prototyping and experimentation are two methods that can help address these issues.
+Prototyping
+Prototyping is a practice in which an early sample or model of a system, capability, or process is built to answer specific questions about, give insight into, or reduce uncertainty or risk in many diverse areas, including requirements. This includes exploring alternative concepts and technology maturity assessments as well as requirements discovery or refinement. It is a part of the SE's toolkit of techniques for managing requirements uncertainty and complexity and for mitigating their impact.
+The phase of the systems engineering life cycle and the nature of the problem the prototype is intended to address influence the use and type of prototyping. Prototyping may be identified immediately after a decision to pursue a material solution to meet an operational need. In this situation, prototypes are used to examine alternative concepts as part of the analysis of alternatives to explore the requirements space to determine if other approaches can better meet the requirements. Prototyping to explore and evaluate the feasibility of high-level conceptual designs may be performed early in technology development as part of government activities to assess and increase technology maturity, discover or refine requirements, or develop a preliminary design. A prototype may even be developed into a reference implementation—a well-engineered example of how to implement a capability, often based on a particular standard or architecture—and provided to a commercial contractor for production as a way of clarifying requirements and an implementation approach.
+For more information on prototyping, see the SEG article Competitive Prototyping.
+Experimentation
+Experimentation adds a component of scientific inquiry to the preceding, often supported by realistic mission/domain context. Performing experiments with realistic context allows the evaluator to assess and evaluate hypotheses about concepts of operations (CONOPS), feasibility of technology, integration with other systems, services, and data, and other concepts that support requirements refinement. Experimentation environments—laboratories—allow acquisition personnel, operators, and technologists to collaboratively evaluate concepts and prototypes using combinations of government, open source, and commercial off-the-shelf products. In these environments, stakeholders can evolve concepts and approaches—in realistic mission contexts—and quickly find out what works and what doesn't, ultimately reducing risks by applying what they've learned to the acquisition process.
+It is useful to consider three broad stages of experimentation, which form a pipeline (see Figure 1):
+Lightweight Exploration: Driven by operator needs, this activity is distinct for its quick brainstorming and rapid assembly of capabilities with light investment requirements. It allows for a "first look" insight into new concepts and newly integrated capabilities. MITRE's ACME (Agile Capability Mashup Environment) Lab is an example of a lightweight experimentation venue.
+Low/Medium Fidelity Experimentation: These experiments involve significant engagement with users, operators, and stakeholders and are typified by human-in-the-loop simulations with experimental design and attempts to control independent variables. MITRE's Collaborative Experimentation Environment (CEE) and iLab-based "Warfighter Workshops" are two examples of low/medium fidelity experimentation venues. These venues allow concept exploration and alternative evaluation that can support requirements clarification.
+High-Fidelity Experimentation: These experiments are planned in conjunction with sponsors to refine existing concepts of operation or to develop and test new techniques, tactics, and procedures. They often feature highly realistic models and simulations of entities, timing, sensors, and communication networks along with some real-world applications. MITRE's Naval C4ISR Experimentation Lab (NCEL) is an example of a high-fidelity experimentation venue.
+Prototype solutions from any of the preceding experimental stages can be used to support the requirements management process. Generally the products from the lightweight end of the venue spectrum support the early stages of requirements management (CONOPS, concept development, etc.), whereas those at the high-fidelity end tend to support refinement of relatively mature requirements.These solutions can also be transitioned, given appropriate circumstances, to operators in the field, to industry, or to other parties for evaluation or use.
+Best Practices and Lessons Learned
+Be opportunistic. The acquisition process is structured, linear, and can, in some circumstances, seem to stifle innovation. Embrace requirements uncertainty as an opportunity to inject innovation and think freely.
+Act early in the acquisition life cycle. Prototyping early in the acquisition life cycle serves as a method to reduce cost and technical and schedule risks and may be of interest to program managers attempting to avoid late-acqusition-life-cycle design (scope) change, especially if there is requirements uncertainty.
+Seek early/frequent collaboration among the three critical stakeholders. Purely technical prototyping risks operational irrelevance. It is vital to involve technologists, operators, and acquirers early and often in prototyping and experimentation dialogs. Operator involvement is particularly critical yet often deferred or neglected. Three of the four recommendations from the 2007 Department of Defense Report to Congress on Technology Transition address this collaboration [1]:
+…early and frequent collaboration is required between the developer, acquirer, and user. This early planning can then serve to mitigate the chasm between TRL 5 and TRL 7 by identifying technical issues, resource requirements/sources, avoiding unintended consequences, and ultimately gaining the most yield for the S&T investment.
+…if the PM were to conduct early and frequent communication with the developer about user requirements and companion acquisition plans, much of the development risk could be addressed earlier in the process.
+…the pace at which new technologies are discovered/innovated/developed/deployed in the private sector is staggering, and at odds with the linear, deliberate nature of some military acquisitions. Finding ways to include these innovators in our process could serve both the military and America’s economic competitiveness in the world market.
+Use realistic data. Prototypes using unrealistic data often result in failure to address the requirements uncertainty or complexity they were designed to examine. MITRE SEs should take every opportunity to capture real data from their work and help build a repository of this data that can be used across MITRE's activities.
+Use loose couplers and open standards to isolate requirements changes. Providing loosely coupled data integration points across components in the prototype allows for changes in one area to explore some aspects of the requirements space, while controlling others. Use open standards, including RESTful services, whenever possible. (See the SEG's Design Patterns, Composable Capabilities on Demand (CCOD), and Open Source Software articles.)
+Develop scalable prototypes. Consider the intended operational or systematic use of the prototype being developed. Does the technology scale? Does the operator workload scale? The performance? Do the results collected from the prototype provide the necessary insight to ensure that modifications to requirements are appropriate for the actual full-scale system?
+Capture and document assumptions. To keep both contributors and stakeholders on the same page, the objectives, constraints, expected use cases, and dependencies of a prototype or experiment should be clearly defined, documented, and articulated. This will have the additional benefit of lowering the likelihood that an immature prototype is used beyond its intent.
+Develop sustainable prototypes. Does the technology or platform have sufficient momentum in the marketplace to support long-term investment by the sponsor? If cutting-edge technologies are involved, this can be more difficult—what is the early adoption momentum among key industry stakeholders?
+Prefer rapid increments. Execute quick experimental iterations or spirals of prototype capability development with operator involvement to ensure adequate feedback flow and requirements refinement for future spirals.
+Look beyond MITRE for resources. MITRE resources on any given program are limited. If the MITRE project resources cannot support a prototyping or experimentation activity by MITRE staff, look to other mechanisms such as the SBIR process, willing industry participants, and others.
+Look beyond MITRE for venues. Consider holding an experiment on-site at a contractor facility, in an operational setting, at a sponsor training facility, or at other locations to reduce real or perceived barriers to participation and to promote awareness of particular stakeholder contexts and points of view.
+References and Resources
+Deputy Under Secretary of Defense (Advanced Systems and Concepts), July 2007, DoD Report to Congress on Technology Transition.
+All Publications
+Project Stories
+Technical Papers
+Systems Engineering GuideAbout the SEGThe Evolution of Systems Engineering
+The Essence of MITRE’s Systems Engineering
+SEG Table of Contents
+Enterprise EngineeringComprehensive ViewpointSystems Thinking
+Systems Engineering Strategies for Uncertainty and Complexity
+Tools to Enable a Comprehensive Viewpoint
+Enterprise Planning and ManagementIT Governance
+Portfolio Management
+How to Develop a Measurement Capability
+Enterprise Technology, Information, and InfrastructureIT Infrastructure Engineering
+IT Service Management
+Information and Data Management
+Radio Frequency Spectrum Management
+Engineering Information-Intensive EnterprisesArchitectures Federation
+Design Patterns
+Composable Capabilities on Demand (CCOD)
+Open Source Software
+Privacy Engineering
+Privacy Requirements Definition and Testing
+Systems of SystemsEngineering Systems in the Context of Systems of Systems
+Treating Systems of Systems as Systems
+Systems Engineering Life-Cycle Processes as Applied to Systems of Systems
+Systems Engineering for Mission AssuranceCyber Mission Assurance
+Crown Jewels Analysis
+Cyber Threat Susceptibility Assessment
+Cyber Risk Remediation Analysis
+Secure Code Review
+Supply Chain Risk
+Management
+Transformation Planning and Organizational ChangePerforming Organizational Assessments
+Formulation of Organizational Transformation Strategies
+Stakeholder
+Assessment and Management
+Effective Communication and Influence
+Planning for Successful User Adoption
+Enterprise GovernanceCommunity of Interest and/or Community of Practice
+Standards Boards and Bodies
+Policy Analysis
+MITRE FFRDC Independent AssessmentsPlanning and Managing Independent Assessments
+SE Life-Cycle Building BlocksConcept DevelopmentOperational Needs Assessment
+Concept of Operations
+Operational Requirements
+High-Level Conceptual Definition
+Requirements EngineeringEliciting, Collecting, and Developing Requirements
+Analyzing and Defining Requirements
+Special Considerations for Conditions of Uncertainty: Prototyping and Experimentation
+System ArchitectureArchitectural Frameworks, Models, and Views
+Approaches to Architecture Development
+Architectural Patterns
+System Design and DevelopmentDevelop System-Level Technical Requirements
+Develop Top-Level System Design
+Assess the Design's Ability to Meet the System Requirements
+Systems IntegrationIdentify and Assess Integration and Interoperability (I&I) Challenges
+Develop and Evaluate Integration and Interoperability (I&I) Solution Strategies
+Assess Integration Testing Approaches
+Interface Management
+Test and EvaluationCreate and Assess Test and Evaluation Strategies
+Assess Test and Evaluation Plans and Procedures
+Verification and Validation
+Create and Assess Certification and Accreditation Strategies
+Implementation, O & M, and Transition
+Other SE Life-Cycle Building Blocks ArticlesSpanning the Operational Space: How to Select Use Cases and Mission Threads
+Acquiring and Incorporating Post-Fielding Operational Feedback into Future Developments
+Test and Evaluation of Systems of Systems
+Verification and Validation of Simulation Models
+Affordability, Efficiency, and Effectiveness
+Acquisition Systems EngineeringAcquisition Program PlanningAnalyses of Alternatives
+Acquisition Management Metrics
+Assessing Technical Maturity
+Technology Planning
+Life-Cycle Cost Estimation
+Integrated Master Schedule (IMS)/Integrated Master Plan (IMP) Application
+Performance Engineering
+Comparison of Investment Analyses
+Source Selection Preparation and EvaluationPicking the Right Contractor
+RFP Preparation and Source Selection
+Program Acquisition Strategy FormulationAgile Acquisition Strategy
+Evolutionary Acquisition
+"Big Bang" Acquisition
+Contractor EvaluationData Driven Contractor Evaluations and Milestone Reviews
+Earned Value Management
+Competitive Prototyping
+Risk ManagementRisk Management Approach and Plan
+Risk Identification
+Risk Impact Assessment and Prioritization
+Risk Mitigation Planning, Implementation, and Progress Monitoring
+Risk Management Tools
+Configuration ManagementHow to Control a Moving Baseline
+Configuration Management Tools
+Integrated Logistics SupportReliability, Availability, and Maintainability
+Managing Energy Efficiency
+Quality Assurance and MeasurementEstablishing a Quality Assurance Program in the Systems Acquisition or Government Operational Organization
+How to Conduct Process and Product Reviews Across Boundaries
+Continuous Process ImprovementImplementing and Improving Systems Engineering Processes for the Acquisition Organization
+Matching Systems Engineering Process Improvement Frameworks/Solutions with Customer Needs
+Download the SEG
+MITRE's Systems Engineering Guide
+Download for EPUBDownload for Amazon KindleDownload a PDF
+Questions?
+Contact the SEG Team
+Privacy
+Terms
+Contact
+Remote Access
+Partnership Network
+MITRE is proud to be an equal opportunity employer. MITRE recruits, employs, trains, compensates, and promotes regardless of age, color, race, disability, marital status, national and ethnic origin, political affiliation, religion, sexual orientation, gender identity, veteran status, family medical or genetic information, and other protected status.
+MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a reasonable accommodation for any part of MITRE’s employment process, please contact MITRE’s Recruiting Help Line at 703-983-8226 or email at recruitinghelp@mitre.org
+Copyright © 1997-2020, The MITRE Corporation. All rights reserved.
+MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied and distributed with permission only.

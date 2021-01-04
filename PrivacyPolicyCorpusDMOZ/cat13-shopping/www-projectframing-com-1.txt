@@ -1,0 +1,27 @@
+https://www.projectframing.com/privacy_policy.php
+Privacy Policy
+".$img1."";
+echo "".$img2."";
+echo "";
+echo "".cleaninput($a1['Description'],"ss|hd|tr")."";
+}
+else
+{
+echo "".cleaninput($a1['Description'],"ss|hd|tr")."";
+}
+?>
+INFORMATION
+About Us
+Delivery
+Returns
+FAQs
+USEFUL GUIDES
+Choosing the right art
+Hanging art the right way
+Taking care of your art
+Art print and Canvas art explained
+LEGAL
+Terms of Use
+Terms and Conditions
+Privacy Policy
+NEWSLETTER

@@ -1,0 +1,234 @@
+http://www.epic.org/privacy/peterson/
+Defend Privacy. Donate Now.
+Policy Issues
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Program
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+All Policy Issues
+Our Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+Privacy Campaigns
+Congressional Testimony
+EPIC Publications
+Spotlight on Surveillance
+Press
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+Events
+EPIC Blog
+EPIC Bookstore
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+Public Voice Fund
+Contact EPIC
+Support EPIC
+Peterson v. NTIA
+Privacy for Domain Name Holders
+Latest News |
+Introduction |
+EPIC's Interest |
+Legal Documents |
+Related Resources
+Latest News
+Fourth Circuit Affirms Lower Court's Denial of Injunction. The Fourth Circuit Court of Appeals has affirmed (pdf) a lower court's decision (pdf) to deny Peterson's motion for a preliminary injunction. The Fourth Circuit found that the plaintiff lacked standing, because he voluntarily revealed his identity and therefore suffered no harm under a National Telecommunications and Information Administration rule. The NTIA required public disclosure of personal information of any individual who registers an Internet domain on the .us country code top-level domain. EPIC's friend-of-the-court brief (pdf) argued that the policy for .us diverges wildly from international policy and the policies of other countries' top-level domains. (Feb. 28, 2007)
+EPIC Brief Supports Privacy for Domain Name Owners. EPIC has filed a friend-of-the-court brief (pdf) supporting the rights of domain name holders not to publish their personal information on the Internet. Domain name holders have their information publicly listed in the WHOIS database. To protect user privacy, some companies provide "proxy services," which list the company's contact information instead. In 2005, the U.S. Department of Commerce, which administers the .us country code top-level domain, banned users who registered .us domains from using proxy services. EPIC's brief supports one user who is trying to block the government policy. The brief argues that the policy for .us diverges wildly from international policy and the policies of other countries' top-level domains. (Apr. 25, 2006)
+Introduction
+In Peterson v. NTIA, the holder of a .US domain name is challenging a policy of the National Telecommunications and Information Association (NTIA) that will publish his personal contact information, and the contact information of anyone with a .US domain, on the Internet.
+When an individual decides to register a domain name, he goes to a company called a "registrar." To get the domain name, he must provide to the registrar his name, mailing address, email address, telephone and fax number. In addition to this personal information, the registrant must also provide the information for a technical contact and an administrative contact. All of this information then becomes publicly available in a database called WHOIS.
+Proxy registration services allow individual registrants to instead enter the contact information for a third party, who can forward communications to the domain holder. The domain holder thus retains his privacy by not having his contact information published in the WHOIS database. Registrars commonly offer this service for generic top-level domains such as .com and .net.
+The NTIA, a branch of the U.S. Department of Commerce, administers the .US country code top-level domain (ccTLD) through the private contractor Neustar. In 2005, the NTIA instructed Neustar that registrars could not offer proxy services to individuals registering domain names.
+Robert Peterson, who runs a website called "Point-CounterPoint City, US," had registered the domain pcpcity.us for his site. Since Peterson's site dealt with a lot of controversial political and social issues, he didn't want to have his personal contact information listed in WHOIS. Because of the NTIA policy, Peterson was faced with either taking down his site or revealing his contact information. Peterson thus filed for a temporary restraining order that would prevent NTIA from enforcing its policy against proxy registration.
+District Court Judge Gerald Lee denied Peterson's request to block the new policy, stating that Peterson had not shown that he would be harmed, and that the NTIA's policy was a content-neutral time, place, and manner restriction. Peterson has filed an appeal with the Fourth Circuit Court of Appeals. EPIC filed a "friend of the court" brief in support of Peterson on April 24, 2006.
+On February 27, 2007, the Fourth Circuit Court of Appeals upheld (pdf) the district court's decision. The Fourth Circuit found that the plaintiff lacked standing, because he voluntarily revealed his identity and therefore suffered no harm under a National Telecommunications and Information Administration rule.
+EPIC's Interest
+The case is important because it underscores the need for privacy protections for Internet speakers. EPIC's brief assisted in making this argument by showing how NTIA's policy is contrary to international standards, as well as the policies of other ccTLDs around the world.
+NTIA's Policy Against Proxies Contradicts the Opinions of International Organizations Expert in Communications PrivacySeveral international organizations have addressed the issue of WHOIS privacy, and these experts are in consensus that registrants should not be compelled to disclose personal information. These organizations include the International Working Group on Data Protection in Telecommunications, the Article 29 Working Party, and the Directorate General of Internal Markets for the European Commission. Each of these organizations criticized the mandatory publication of users' personal information, and noted that WHOIS should be used only for its original, technical purposes.
+NTIA's Policy is Contrary to the Policies of Other CountriesA comparison with other ccTLDs around the world shows that the NTIA's policy is far less protective of privacy. Some countries, like Australia, Germany, Canada, and Ireland, restrict the information published in WHOIS. Others, like the United Kingdom and the Netherlands, allow individual domain name holders to opt out of having their contact information published in the WHOIS database. Of 4.5 million .uk domains held by individuals, nearly a million have made use of the opt-out. Canada is also proposing to create an opt-out system for non-individual domain name holders.
+Even those countries that do not automatically restrict publication of WHOIS data or provide opt-outs will allow, and in some cases, encourage, domain name registrants to use proxy services. Finland's .fi domain, for instance, provides registrants with an easy-to-use form to fill out that designates a proxy contact whose information will be shown on WHOIS in lieu of the individual's. Switzerland also promotes the use of proxy services in its policy.
+The NTIA has claimed that treaties between the U.S. and countries like Australia require that personal addresses be published in WHOIS. However, the treaties state only that the countries need to provide access to reliable and accurate contact information for domain-name registrations." Nowhere do the treaties require that the individual's personal information be public (as opposed to the technical or administrative contacts, or even a proxy for the individual). In fact, Australia's ccTLD, .au, will not publicize the phone number or postal address of registrants. Chile, another country that NTIA cites as a treaty signatory, has a ccTLD administrator that provides even less information via WHOIS. No personal email addresses, postal addresses, or phone numbers are publicly available, though the public is free to contact the administrative and technical contacts via a web-based form.
+Furthermore, most other countries have data protection laws that require that individuals be able to control the use of their personal information. In the absence of such established protections, registrations by proxy are necessary for registrants to protect their privacy. The European Union, for instance, requires a legal framework that ensures that when personal information is collected, it is used only for its intended purpose. Since personal information in WHOIS is used for other purposes and ICANN's policy keeps the information public and anonymously accessible, the database could be found illegal according to many data protection laws, including the European Data Protection Directive. However, NTIA, instead of creating regulations that will protect individuals' privacy, is attempting to remove even this market-based solution to the problem of retaining privacy on the Internet.
+NTIA's Policy is Contrary to the Purpose of WHOIS
+WHOIS originated as a way for network administrators to find and fix technical problems with minimal hassle in order to maintain the stability of the Internet. ICANN recently affirmed this narrow scope of the service in when it adopted the following definition of the purpose of WHOIS:
+The purpose of the gTLD WHOIS service is to provide information sufficient to contact a responsible party for a particular gTLD domain name who can resolve, or reliably pass on data to a party who can resolve, issues related to the configuration of the records associated with the domain name within a DNS nameserver.
+This means that, for WHOIS to fulfill its purpose, only the contact information for the technical (and possibly, the administrative) contact is needed. Providing the personal information of a registrant via WHOIS is not only unnecessary, it exposes anyone who owns a domain name to the risks of identity theft, spam, stalking, and harassment.
+Legal Documents
+U.S. District Court for the Eastern District of Virginia
+Peterson's Motion for a Restraining Order (pdf)
+NTIA's Reply Brief (pdf)
+Judge's Opinion (pdf)
+4th Circuit Court of Appeals
+Peterson's Appeal (pdf)
+EPIC's Amicus Brief(pdf)
+NTIA's Reply Brief (pdf)
+Peterson's Reply Brief (pdf)
+Court's Opinion (pdf)
+Related Resources
+EPIC WHOIS Page
+EPIC Identity Theft Page
+Internationa Working Group on Data Protection on WHOIS
+Article 29 Working Party on Data Protection on WHOIS (pdf)
+EC Internal Market Directorate-General on WHOIS (pdf)
+Share this page:
+Subscribe to the EPIC Alert
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+EPIC Alert archive »
+Electronic Privacy Information Center
+1519 New Hampshire Avenue NW
+Washington, DC 20036
+202.483.1140
+info[at]epic[dot]org
+© 1994 - 2020 EPIC, all rights reserved.
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+EPIC Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+Electronic Privacy Information Center1519 New Hampshire Avenue NW Washington, DC 20036More info
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+FOIA Documents
+EPIC FOIA Notes
+EPIC Former Secrets
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+EPIC Bookstore
+Support EPIC

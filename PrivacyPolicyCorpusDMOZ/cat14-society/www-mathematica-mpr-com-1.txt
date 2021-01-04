@@ -1,0 +1,71 @@
+http://www.mathematica-mpr.com/commentary/ready-to-sprint-leveraging-advanced-analytics-to-help-colleges-and-universities-get-back-on-campus
+Ready to Sprint? Leveraging Advanced Analytics to Help Colleges and Universities Get Back on Campus
+Blog
+Ready to Sprint? Leveraging Advanced Analytics to Help Colleges and Universities Get Back on Campus
+Sep 22, 2020
+Ravi Goyal
+and Andrew Hurwitz
+Human Services
+Education
+College and Career Readiness
+The pandemic has fundamentally affected our higher education institutions. In March, students and faculty at universities and colleges suddenly found themselves finishing the spring semester with remote instruction.
+Hopeful about a fall 2020 reopening, many institutions prepared different approaches for mitigating the threat of the pandemic, including limiting dorm capacity, implementing hybrid instruction, and establishing quarantined dorms on campus in case students tested positive for COVID-19. Unfortunately, despite these noble attempts, several colleges and universities experienced virus outbreaks upon reopening and were required to revisit their strategies.
+Every day, the news brings stories of colleges and universities struggling with COVID-19. Notre Dame suspended classes for two weeks after totaling 147 positive cases on campus, and Michigan State halted the return of undergraduates to campus for the entire semester. Towson University also moved to online classes for an indefinite period after 55 students tested positive. Worse yet, some small liberal arts colleges are facing an existential crisis and might have to permanently close their doors because of revenue lost from students not being able to return to campus.
+Although there is certainly no single approach that will work for every institution, new tools can help guide colleges and universities through difficult reopening decisions. At Mathematica, we’re using agent-based modeling to do just that. These models can act as a test lab for experimenting with potential institution policy decisions, such as investigating the impact of increased student, staff, and faculty testing to combat COVID-19. Agent-based modeling techniques are ideally suited for modeling the spread of pathogens as they account for and focus on the interactions between and among individuals (that is, students, faculty, and staff). This contrasts with conventional statistical modeling methods, such as regression analysis, which require an explicit functional form and assume that observations in the model are independent of each other (that is, individuals’ behaviors and outcomes do not impact others—clearly false in a pandemic). In an agent-based model, individual agents’ characteristics and interactions are defined explicitly, but the interconnection of those individual interactions builds organically into a powerful, complex predictive system that would be too arduous to explicitly define.
+Applied to universities and colleges addressing the COVID-19 crisis, this means the following:
+Building an understanding of the agent-to-agent and agent-to-environment interactions that take place between students, faculty, and staff in lecture halls, classrooms, labs, dormitories, and other campus venues.
+Constructing algorithms that account for the state of each agent within the system and establishing mathematical rules that govern each type of interaction.
+Applying these rules and algorithms across millions of interactions through time-based simulation under different reopening policies—for example, implementing mixed in-person and virtual classes, limiting dorm capacity, and so on—to make predictions, draw conclusions, and provide guidance and recommendations to schools as to which approach might best fit their needs.
+Our intuitive, easy-to-use approach enables higher education decision makers to understand the effectiveness of various reopening strategies, not in a hypothetical scenario but based on the actual characteristics of their particular institution. Changes to inputs like school type, class size, classes per academic year, and data on community spread and campus demographics all help paint a detailed picture of which specific approaches lead to the best potential outcomes for a particular institution.
+Our models prioritize quality and speed to help rapidly guide reopening decisions. Our typical sprint engagement lasts three weeks and enables institutions to answer different questions based on their priorities.
+In the first week of the engagement, Mathematica meets with officials from the institution to assess which questions they are interested in modeling and to obtain the necessary data for developing the agent-based model.
+In the second week, Mathematica prepares the data for analysis and develops the model.
+In the third and final week, Mathematica delivers to key officials the institution-specific, data-driven insights required to inform a strategic reopening plan for the institution.
+This approach results in a sound process for officials to be confident in their decisions. We have collaborated with the University of California, San Diego (UCSD) to help guide their reopening, including preparing briefings for the university’s executive team on our findings. We are proud of this partnership and pleased that we could support UCSD in adopting an evidence-based framework to guide their reopening.
+Mathematica’s mission is to improve public well-being, and we do so through the relentless pursuit of objective evidence. As the pandemic continues, educators need to not only prepare for ongoing challenges associated with COVID-19 but also quickly adapt to changing conditions. New approaches to data analysis like agent-based modeling can help lead the way.
+About the Authors
+Ravi Goyal
+Senior Statistician
+View More by this Author
+Andrew Hurwitz
+Data Scientist and Deputy Director, Health Program Improvement and Analytics
+View More by this Author
+More like this from Mathematica
+Featured News
+New Models Highlight How Different Approaches to Education During the COVID-19 Pandemic Could Affect Students, Teachers, and Learning
+Sep 16, 2020
+Human Services
+Education
+COVID-19
+News
+Mathematica Addresses COVID-19 Pandemic in Diverse Projects
+Sep 10, 2020
+Health
+COVID-19
+Education
+Blog Post
+Amid Widespread Remote Learning, Educators Can Adapt Through Data and Evidence
+Jun 01, 2020
+Mikia Manley
+Human Services
+Education
+COVID-19
+Blog Post
+Instruction in the Age of COVID-19: Exploring the Evidence on Remote Learning
+May 28, 2020
+Felicia Hurwitz
+and Steven Malick
+Human Services
+REL Mid-Atlantic
+Education
+Podcast
+Shift to At-Home and Online Learning Underscores the Importance of Culturally Responsive Education Practices in Schools
+Apr 08, 2020
+J.B. Wogan
+Human Services
+Education
+COVID-19
+Your Privacy
+Our website uses cookies.
+Please click the “Accept” button or continue to use our website if you agree to our use of cookies, as detailed in our privacy and cookie policy.
+Accept

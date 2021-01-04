@@ -1,0 +1,32 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch03s02.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Symmetric Key AlgorithmsSymmetric key algorithms are for the bulk encryption of data or
+data streams. These algorithms are designed to be very fast and have a
+large number of possible keys. The best symmetric key algorithms offer
+excellent secrecy; once data is encrypted with a given key, there is
+no fast way to decrypt the data without possessing the same
+key.Symmetric key algorithms can be divided into two categories:
+block and stream. Block algorithms
+encrypt data a block (many bytes) at a time, while
+stream algorithms
+encrypt byte-by-byte (or even bit-by-bit).Cryptographic Strength of Symmetric AlgorithmsDifferent encryption algorithms are not equal. Some
+systems are not very good at protecting data, allowing encrypted
+information to be decrypted without knowledge of the requisite key.
+Others are quite resistant to even the most determined attack. The
+ability of a
+cryptographic system to protect information from
+attack is called its strength. Strength depends
+on many factors, including:The secrecy of the key.The difficulty of guessing the key or trying out all
+possible keys (a key search). Longer keys
+are generally more difficult to guess or find.The difficulty of inverting the encryption algorithm
+without knowing the encryption key
+(breaking the encryption algorithm).The existence (or lack) of back doors
+, or additional ways by which an encrypted file
+can be decrypted more easily without knowing the key.The ability to decrypt an entire encrypted message if you know the ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

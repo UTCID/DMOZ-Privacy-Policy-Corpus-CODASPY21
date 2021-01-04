@@ -1,0 +1,68 @@
+https://www.zoneedit.com/terms-of-service/
+Updated Feb 4, 2016
+The following terms and conditions constitute a contract between
+Zoneedit and you, the Applicant.
+The Zoneedit Terms of Service
+(Now in Plain English)
+It is important to understand that this is an agreement between Zoneedit and its customers. What constitutes a violation of this Agreement is at the sole discretion of Zoneedit.
+Breach of these terms can (and usually does) result in the following:
+Termination of services
+Closure of the account
+Discovery and closure of any “related” accounts (“Guilt-by-association”)
+Forfeiture of any fees paid
+You can report network abuse to abuse@zoneedit.com
+For Zoneedit members, these are the basic rules of the system:
+Zones operate on a credit system: See the current "pricing" page for services and credits. Credits are deducted from your credit balance and are considered "past due" when your credit balance hits zero.
+Most domain fees are paid in advance: domain registration, domain renewals and SSL certs are examples of this. Zoneedit won't register a domain until it's been paid for. This means if you send a cheque, we wait until we receive cheque until we register it (we don't wait for it clear, we assume it won't bounce.) If you pay via Bitcoin we wait for 2 confirmations.
+Unpaid fees and Credit balances of zero: results in things like the following happening:
+New domains don't get registered, leaving them open to somebody else grabbing them.
+Existing domains don't get renewed, leading to domains expiring as per the Domain Expiration Cycle (see below)
+Your DNS gets cut off, in the case of DNS usage fees or what we call "Service Only" domains - that means a domain for which we are only the DNS host, not the Registrar. We typically send 4 email reminders that your account balance is at zero, after which we suspend DNS.
+Overage fees and quotas:
+Free Domains: Are allotted 250,000 queries per month (more than adequate for most non-enterprise domans). Overage will be billed at the rate of 2 credits per million queries.
+Premium Domains: Are allotted 1 million queries per month, overage at 1 credit per million queries.
+Your domains and websites are your problem. You assume responsibility for all repercussions your domains, websites and content have "out there" in the world. You indemnify and hold us harmless from all possible consequences your domains have in the world.
+Network Abuse: We are fascists when it comes to net abuse and we know it when we see it. Zoneedit is not a refuge for criminal or abusive activity, and we co-operate with Law Enforcement Agencies when we find net abuse on our system.Domains found to be engaged in any of the following:
+spam
+phishing
+C&C nodes, botnets
+DDoS attacks of any kind
+net abuse of any kind
+will have all services terminated and we will share everything we know about you with LEA
+Fraud. Do we need to say it? If you pay with a stolen credit card, or cracked paypal account, rubber cheque, etc. We terminate everything we can lay our hands on that belongs to you and we give all data we have on you over to the police.
+Guilt-by-Association: not only do we terminate any domains or websites which violate our policies, we ferret out every other domain you have on the system under different names, accounts, etc and we terminate those too (don't worry, we can tell). There is no appeal.
+Provide valid contact data. If you don't want your details published in the whois database, use whois privacy, but fake contact data in your account is a huge red flag here and it violates both the ICANN and CIRA policies on providing valid whois data.
+Keep Your Account Data Up-To-Date! We use that to contact you in the event of a problem, if we can't contact you, we make decisions without your input. This can go so far to include account termination.
+Yes, we will send you email. We typically send out things like: renewal notices, and invoices. We may also send you occasional emails about new products or services.
+Free Users: Using Zoneedit constitutes a "business relationship" with you, thus making any  promotional email we send you compliant under all known email marketing laws, including CANSPAM and CASL.
+Free Users: can not "opt-out" of receiving email from Zoneedit. Delete your account, remove your domains, problem solved. Otherwise if you expect us to provide you services for free, then getting the occasional email from us is not an unreasonable requirement. Besides, you might actually want to hear what we have to say (it happens).
+Paid Users: Can disable promotional emails from their account settings, or via the 1-click "unsubscribe" accompanying all promo emails.
+Additional Requirements for Free Users: Free users are subject to a period account verification process consisting of confirming receipt of emails from Zoneedit. Failure to verify an account is grounds for suspension.
+Contracts of Adhesion. Because of our Status as an ICANN Accredited Registrar, part of our contract with ICANN makes it a requirement that we bind you to ICANN through the following contracts of adhesion (sorry). This applies for domain registrations and transfers only.
+the ICANN udrp (Uniform Dispute Resolution Policy)
+the Master Registration Agreement
+Don't Break The Law! Things like HYIPs and ponzis are expressly prohibited here.
+Are you a service provider? Do you publish user contributed content? If you run infrastructure for downstream users, then you need to action any abuse complaints your users generate within 24 hours of us notifying you of them. Having said that We Are NOT Your Abuse Desk! If people are complaining to us because you don't answer the phone or reply to emails then we're going to get fed up pretty quick and solve the problem by terminating your service. Staff your abuse desk and take care of problems before we have to take care of them for you. You probably won't like it if we do.
+Filesharing or Bittorrent sites? You need to action all copyright removal requests. If they start piling up here because you do not reply to these requests, we will terminate your service. Again We are not your abuse desk!
+Online Pharmacies: Any website / domain shipping drugs over the internet must fulfill at least one of the following conditions:
+possess a valid pharmacy license on demand for any country they are shipping to, OR
+be approved by PharmacyChecker
+be approved by LegitScript
+be approved by the Canadian International Pharmacy Association
+We are NOT a DDoS Mitigation Service. Yes, we have a lot of DDoS mitigation in place. No, this isn't here so that you can get cheap DDoS mitigation. You cannot use any services here if you are, have been or think you may be the direct target of a DDoS attack. Contact us instead for a referral to a real DDoS mitigation company. If you come on this system knowingly bringing a DDoS on your heels we shut down service (we may also wildcard your DNS to localhost and set the TTL on your zone out to a year. You've been warned).
+Domain Expiration Cycle: Your rights to any domain name lapse on the date the domain expires in the registry. After expiry there is a "grace period" (30 to 45 days) during which you can still renew the domain at the regular price, during this period the domain may also be direct transferred to another party who is willing to take over the registration.At the end of the grace period, it goes into another state called "redemption period". It can still be renewed for another 40 - 45 days but now it costs more. The registry charges a lot more to pull a domain out of redemption than to renew it during the grace period - that's why redemption fees typically run over $100 per domain. After redemption period, it goes "pending-delete" for 5 days. Then it's too late. Nothing can pull the domain back, it's going to get dropped by the registry and if it has any marginal value whatsoever, the "drop catchers" are going to grab it in about a millisecond after it becomes available again.
+Zombie Domains: Zoneedit reserves the right to redirect traffic, park domains, blackhole traffic or otherwise shape, mine or resell traffic in any manner for domains that have been deemed "abandoned" on system nameservers."Abandoned" includes:
+domains that are not associated with any user account but delegated to our nameservers,
+domains within an account that is past due on services
+domains delegated to a vanity nameserver record that ultimately resolves back to our nameservers but is otherwise defunct
+Get an advanced DNS management
+CREATE FREE ACCOUNT
+Get an advanced DNS management
+Your email is safe. Read our Privacy Policy
+X
+Privacy Policy
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignis qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+X
+FeaturesPricingFree DNSDomainsHostingHelpLoginSign Up

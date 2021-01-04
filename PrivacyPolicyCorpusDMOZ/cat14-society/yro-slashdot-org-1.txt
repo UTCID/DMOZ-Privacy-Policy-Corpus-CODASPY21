@@ -1,0 +1,201 @@
+http://yro.slashdot.org/index2.pl?fhfilter=privacy
+Slashdot
+Stories
+Firehose
+All
+Popular
+Polls
+Deals
+Apparel
+Submit
+Search Slashdot
+Login
+or
+Sign up
+Topics:
+Devices
+Build
+Entertainment
+Technology
+Open Source
+Science
+YRO
+Follow us:
+RSS
+Facebook
+Google+
+Twitter
+Newsletter
+Please create an account to participate in the Slashdot moderation system
+Nickname:
+Password:
+Public Terminal
+Forgot your password?
+Close
+binspamdupenotthebestofftopicslownewsdaystalestupid
+freshfunnyinsightfulinterestingmaybe
+offtopicflamebaittrollredundantoverrated
+insightfulinterestinginformativefunnyunderrated
+descriptive
+typodupeerror
+Slashdot Apparel is back! SHOP NOW!. | Do you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly and easily with this tool and take advantage of SourceForge's massive reach. Check out all of SourceForge’s improvements. | Follow Slashdot on LinkedIn
+×
+139824134
+story
+An anonymous reader quotes a report from Ars Technica: Brave Software, maker of the Brave Web browser, is introducing a news reader that's designed to protect user privacy by preventing parties -- both internal and third party -- from tracking the sites, articles, and story topics people view. Brave Today, as the service is called, is using technology that the company says sets it apart from news services offered by Google and Facebook. It's designed to deliver personalized news feeds in a way that leaves no trail for Brave, ISPs, and third parties to track. The new service is part of Brave's strategy of differentiating its browser as more privacy-friendly than its competitors'.
+Key to Brave Today is a new content delivery network the company is unveiling. Typically, news services use a single CDN to cache content and then serve it to users. This allows the CDN or the service using it to see both the IP address and news feed of each user, and over time, that data can help services build detailed profiles of a person's interests. The Brave Today CDN takes a different approach. It's designed in a way that separates a user's IP address from the content they request. One entity offers a load-balancing service that receives TLS-encrypted traffic from the user. The load balancer then passes the traffic on to the CDN that processes the request.
+The load balancer knows the user's IP address but, because the request is encrypted, has no visibility into the content the user is seeking. The CDN, meanwhile, sees only the request but has no way of knowing the IP address that's making it. Responses are delivered in reverse order. To prevent the data from being combined, Brave says that it will use one provider for load balancing and a different one for content delivery. To prevent the load-balancing provider from using the size of the requests and responses to infer the contents of the encrypted data, the service will also use a technique called padding, which adds characters to the plaintext before it's encrypted. The CDN uses several other techniques to preserve the anonymity of users. Among them: stripping out various headers that could be used to identify the person making the request. Furthermore, Brave is also taking steps to shield user information from its own employees. "... [T]he company has configured its account with the load-balancing provider to restrict access to its logging resources," reports Ars. "The load-balancing provider also doesn't provide the ability for customers to use the proxy protocol to inject the requester's IP address into outgoing requests. In case that changes, however, Brave has also entered into a contract with the load balancer that restricts access to logs or use of the protocol, even if Brave asks."
+139774008
+story
+At Chrome Dev Summit 2020 today, Google announced it will change how extensions access data and how extension permissions work in 2021. On January 18, a day before the release of Chrome 88, Google will require that every extension publicly display its privacy practices and will limit what developers can do with the data they collect. From a report: The first change means that Chrome users next year will determine which websites an extension can access when they browse the web. Once you grant an extension permission to access a website's data, that preference can be saved for that domain. Today, the extension makes that call. In 2021, you will still be able to grant an extension access to all the websites you visit, but that won't be the default. Google outlined the second change last month: "each extension's detail page in the Chrome Web Store will show developer-provided information about the data collected by the extension, in clear and easy to understand language." The company also updated its user data privacy policy with an addition to how extension developers use data they collect.
+139713978
+story
+Engineers at Cloudflare and Apple say they've developed a new internet protocol that will shore up one of the biggest holes in internet privacy that many don't know even exists. Dubbed Oblivious DNS-over-HTTPS, or ODoH for short, the new protocol makes it far more difficult for internet providers to know which websites you visit. From a report: [...] Recent developments like DNS-over-HTTPS (or DoH) have added encryption to DNS queries, making it harder for attackers to hijack DNS queries and point victims to malicious websites instead of the real website you wanted to visit. But that still doesn't stop the DNS resolvers from seeing which website you're trying to visit. Enter ODoH, which decouples DNS queries from the internet user, preventing the DNS resolver from knowing which sites you visit. Here's how it works: ODoH wraps a layer of encryption around the DNS query and passes it through a proxy server, which acts as a go-between the internet user and the website they want to visit. Because the DNS query is encrypted, the proxy can't see what's inside, but acts as a shield to prevent the DNS resolver from seeing who sent the query to begin with. "What ODoH is meant to do is separate the information about who is making the query and what the query is," said Nick Sullivan, Cloudflare's head of research.
+139495404
+story
+An anonymous reader shares a report: Privacy concerns in Europe have led to some of the world's toughest restrictions on companies like Facebook and Google and the ways they monitor people online. The crackdown has been widely popular, but the regulatory push is now entangled in the global fight against child exploitation, setting off a fierce debate about how far internet companies should be allowed to go when collecting evidence on their platforms of possible crimes against minors. A rule scheduled to take effect on Dec. 20 would inhibit the monitoring of email, messaging apps and other digital services in the European Union. It would also restrict the use of software that scans for child sexual abuse imagery and so-called grooming by online predators. The practice would be banned without a court order. European officials have spent the past several weeks trying to negotiate a deal allowing the detection to continue. But some privacy groups and lawmakers argue that while the criminal activity is abhorrent, scanning for it in personal communications risks violating the privacy rights of Europeans.
+"Every time things like these unbelievable crimes are happening, or there is a terrorist attack, it's very easy to say we have to be strong and we have to restrict rights," said Birgit Sippel, a German member of the European Parliament. "We have to be very careful." Of the more than 52 million photos, videos and other materials related to online child sexual abuse reported between January and September this year, over 2.3 million came from the European Union, according to the U.S. federal clearinghouse for the imagery. If the regulation took effect, the rate of reports from Europe would drop precipitously, because automated scanning is responsible for nearly all of them. Photo- and video-scanning software uses algorithms to compare users' content with previously identified abuse imagery. Other software targeted at grooming searches for key words and phrases known to be used by predators. Facebook, the most prolific reporter of child sexual abuse imagery worldwide, said it would stop proactive scanning entirely in the E.U. if the regulation took effect. In an email, Antigone Davis, Facebook's global head of safety, said the company was "concerned that the new rules as written today would limit our ability to prevent, detect and respond to harm," but said it was "committed to complying with the updated privacy laws."
+139447588
+story
+The personal information of more than 243 million Brazilians, including alive and deceased, has been exposed online after web developers left the password for a crucial government database inside the source code of an official Brazilian Ministry of Health's website for at least six months. From a report: The security snafu was discovered by reporters from Brazilian newspaper Estadao, the same newspaper that last week discovered that a Sao Paolo hospital leaked personal and health information for more than 16 million Brazilian COVID-19 patients after an employee uploaded a spreadsheet with usernames, passwords, and access keys to sensitive government systems on GitHub. Estadao reporters said they were inspired by a report filed in June by Brazilian NGO Open Knowledge Brasil (OKBR), which, at the time, reported that a similar government website also left exposed login information for another government database in the site's source code. Since a website's source code can be accessed and reviewed by anyone pressing F12 inside their browser, Estadao reporters searched for similar issues in other government sites.
+139392930
+story
+The American Civil Liberties Union is suing federal authorities over their alleged use of cellphone location data -- particularly in immigration enforcement. From a report: The nonprofit organization today filed a lawsuit against the Department of Homeland Security, U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement to force the agencies to release records about purchasing cellphone location data for immigration enforcement and other purposes. The lawsuit follows multiple news reports earlier this year about the Trump administration buying access to commercial databases that track cellphone locations and then using that data to detect people who might be entering the country illegally.
+"It's critical we uncover how federal agencies are accessing bulk databases of Americans' location data and why," Nathan Freed Wessler, senior staff attorney with the ACLU's Speech, Privacy, and Technology Project, said in a statement. "There can be no accountability without transparency." Senate Democrats, such as privacy advocate Sen. Ron Wyden (D-Ore.), had written a letter to DHS asking for more information on how such data was being used. On Wednesday morning, they disclosed that the department's inspector general would take up the matter.
+139356786
+story
+An anonymous reader quotes a report from TechCrunch: Massachusetts lawmakers have voted to pass a new police reform bill that will ban police departments and public agencies from using facial recognition technology across the state. The bill was passed by both the state's House and Senate on Tuesday, a day after senior lawmakers announced an agreement that ended months of deadlock.
+The police reform bill also bans the use of chokeholds and rubber bullets, and limits the use of chemical agents like tear gas, and also allows police officers to intervene to prevent the use of excessive and unreasonable force. But the bill does not remove qualified immunity for police, a controversial measure that shields serving police from legal action for misconduct, following objections from police groups. Critics have for years complained that facial recognition technology is flawed, biased and disproportionately misidentifies people and communities of color. But the bill grants police an exception to run facial recognition searches against the state's driver license database with a warrant. In granting that exception, the state will have to publish annual transparency figures on the number of searches made by officers. "The Massachusetts Senate voted 28-12 to pass, and the House voted 92-67," notes the report. "The bill will now be sent to Massachusetts governor Charlie Baker for his signature."
+139346030
+story
+Microsoft says it will make changes in its new Productivity Score feature, including removing the ability for companies to see data about individual users, to address concerns from privacy experts that the tech giant had effectively rolled out a new tool for snooping on workers. From a report: "Going forward, the communications, meetings, content collaboration, teamwork, and mobility measures in Productivity Score will only aggregate data at the organization level -- providing a clear measure of organization-level adoption of key features," wrote Jared Spataro, Microsoft 365 corporate vice president, in a post this morning. "No one in the organization will be able to use Productivity Score to access data about how an individual user is using apps and services in Microsoft 365." The company rolled out its new "Productivity Score" feature as part of Microsoft 365 in late October. It gives companies data to understand how workers are using and adopting different forms of technology. It made headlines over the past week as reports surfaced that the tool lets managers see individual user data by default. As originally rolled out, Productivity Score turned Microsoft 365 into a "full-fledged workplace surveillance tool," wrote Wolfie Christl of the independent Cracked Labs digital research institute in Vienna, Austria. "Employers/managers can analyze employee activities at the individual level (!), for example, the number of days an employee has been sending emails, using the chat, using 'mentions' in emails etc."
+139296718
+story
+One of the original founders of The Pirate Bay, Peter Sunde, is warning against the power American corporations have on the internet. After several copyright industry groups reported Sunde's domain registration service Njalla to the U.S. Trade Representative (USTR), branding it a "notorious market," Sunde wrote a letter to the USTR, not to defend Njalla but to warn against the threat major U.S. corporations present to the Internet. TorrentFreak reports:
+"Being mentioned, both by name, and also through some of my earlier performance pieces, I felt it would be justified that I also bring a comment for the good of the discourse," Sunde writes in his letter. Pirate Bay, one of my more known art pieces," Sunde notes, adding that the 'artwork' was exhibited at prestigious festivals, inspiring millions of artists and fans around the world.
+Over the years Sunde has launched several projects to support Internet freedom, freedom of speech, and online privacy. At the same time, however, he watched major U.S. companies use their powers to centralize the Internet and restrict the free flow of information. As a result, the established differences in the physical world are more and more reflected online. Those with power and money, have the most influence and control. "This is something that is very much the fault of a few Central North American companies and their lobbying efforts," Sunde writes. "We're now living in a world with fake news and trolls as presidents. We can't take the rights to information for granted. We should not centralize the control over information, in any shape or form."
+While powerful industry groups may claim to represent artists, Sunde believes that power and money are the true drivers here. "The same organizations that promise to protect artists and culture are the ones screwing them over; always fiscally (like with Hollywood Accounting), sometimes physically (Harvey Weinstein is not the first nor last one)." This comes at the expense of the public at large, who see their power and control over information diminish rapidly. "These organizations are willingly putting our global democracy in jeopardy. The legislation brought forward by their lobbying, to protect one business model affected by the internet, is also being used for stopping people in opposition from overthrowing dictators. "As long as these mafia-esque organizations are allowed free reign over the immaterial rights discourse, they will never relinquish their power nor money to the intended recipients," he warns.
+139264224
+story
+In an eloquent essay, Scottish-American historian Niall Ferguson argues that "We are living through a monetary revolution so multifaceted that few of us comprehend its full extent."
+The technological transformation of the internet is driving this revolution. The pandemic of 2020 has accelerated it...
+Covid-19 has been good for Bitcoin and for cryptocurrency generally. First, the pandemic accelerated our advance into a more digital word: What might have taken 10 years has been achieved in 10 months. People who had never before risked an online transaction were forced to try, for the simple reason that banks were closed. Second, and as a result, the pandemic significantly increased our exposure
+to financial surveillance as well as financial fraud. Both these trends have been good for Bitcoin....
+What is happening is that Bitcoin is gradually being adopted not so much as means of payment but as a store of value. Not only high-net-worth individuals but also tech companies are investing. In July, Michael Saylor, the billionaire founder of MicroStrategy, directed his company to hold part of its cash reserves in alternative assets. By September, MicroStrategy's corporate treasury had purchased bitcoins worth $425 million. Square, the San Francisco-based payments company, bought bitcoins worth $50 million last month. PayPal just announced that American users can buy, hold and sell bitcoins in their PayPal wallets.
+This process of adoption has much further to run...
+Some economists, such as my friend Ken Rogoff, welcome the demise of cash because it will make the management of monetary policy easier and organized crime harder. But it will be a fundamentally different world when all our payments are recorded, centrally stored, and scrutinized by artificial intelligence — regardless of whether it is Amazon's Jeff Bezos or China's Xi Jinping who can access our data...
+Rather than seeking to create a Chinese-style digital dollar, Joe Biden's nascent administration should recognize the benefits of integrating Bitcoin into the U.S. financial system — which, after all, was originally designed to be less centralized and more respectful of individual privacy than the systems of less-free societies.
+139238912
+story
+Remember when Microsoft was criticized for enabling "workplace surveillance" over "productivity scores" in its Microsoft 365 office software which gave managers highly detailed profiles of each individual employee's activity.
+Long-time Slashdot reader theodp writes:
+The Microsoft 365 Productivity Score apparently has roots in another Microsoft patent application for Systems, Methods, and Software for Implementing a Behavior Change Management Program, which also lays out plans for as yet unimplemented features to automatically schedule hundreds of employees for months of productivity re-education, including preventing employees from scheduling meetings with others if the service deems it counter-productive. So, could the HAL 9000's "I'm sorry Dave, I'm afraid I can't do that" be considered prior art?
+But Microsoft "has even bigger ideas for using technology to monitor workers in the interest of maximizing organizational productivity," reports GeekWire:
+Newly surfaced Microsoft patent filings describe a system for deriving and predicting "overall quality scores" for meetings using data such as body language, facial expressions, room temperature, time of day, and number of people in the meeting. The system uses cameras, sensors, and software tools to determine, for example, "how much a participant contributes to a meeting vs performing other tasks (e.g., texting, checking email, browsing the Internet)."
+The "meeting insight computing system" would then predict the likelihood that a group will hold a high-quality meeting. It would flag potential challenges when an organizer is setting the meeting up, and recommend alternative venues, times, or people to include in the meeting, for example...
+A patent application made public Nov. 12 notes, "many organizations are plagued by overly long, poorly attended, and recurring meetings that could be modified and/or avoided if more information regarding meeting quality was available."
+The approach would apply to in-person and virtual meetings, and hybrids of the two...
+The filings do not detail any potential privacy safeguards. A Microsoft spokesperson declined to comment on the patent filings in response to GeekWire's inquiry.
+To be sure, patents are not products, and there's no sign yet that Microsoft plans to roll out this hypothetical system. Microsoft has established an internal artificial intelligence ethics office and a companywide committee to ensure that its AI products live by its principles of responsible AI, including transparency and privacy. However, the filings are a window into the ideas floating around inside Microsoft, and they're consistent with the direction the company is already heading.
+139151708
+story
+A threat actor is currently selling passwords for the email accounts of hundreds of C-level executives at companies across the world. From a report: The data is being sold on a closed-access underground forum for Russian-speaking hackers named Exploit.in, ZDNet has learned this week. The threat actor is selling email and password combinations for Office 365 and Microsoft accounts, which he claims are owned by high-level executives occupying functions such as: CEO, COO, CFO, CMO, CTO, President, VP, Exec Assistant, Finance Manager, Accountant, and Director. Access to any of these accounts is sold for prices ranging from $100 to $1,500, depending on the company size and user's role.
+139086504
+story
+Microsoft has been criticised for enabling "workplace surveillance" after privacy campaigners warned that the company's "productivity score" feature allows managers to use Microsoft 365 to track their employees' activity at an individual level. From a report: The tools, first released in 2019, are designed to "provide you visibility into how your organisation works," according to a Microsoft blogpost, and aggregate information about everything from email use to network connectivity into a headline percentage for office productivity. But by default, reports also let managers drill down into data on individual employees, to find those who participate less in group chat conversations, send fewer emails, or fail to collaborate in shared documents. "This is so problematic at many levels," tweeted the Austrian researcher Wolfie Christl, who raised alarm about the feature. "Employers are increasingly exploiting metadata logged by software and devices for performance analytics and algorithmic control," Christl added. "MS is providing the tools for it. Practices we know from software development (and factories and call centres) are expanded to all white-collar work."
+139047082
+story
+In a blog post, hCaptcha announced that its bot detector is running on about 15% of the internet, adding they they "took most of this market share directly from Google reCAPTCHA." From the post:
+Competing with Google and other Big Tech companies seems like a tall order: their monopolistic market power, platform effects and army of highly paid developers are generally considered too powerful to tackle for anyone but other tech giants such as Facebook or Amazon. Our story shows that it doesn't have to be that way -- you can beat Big Tech by focussing on privacy. Consider Google reCAPTCHA, which consumes enormous amounts of behavioral data to determine whether web users are legitimate humans or bots. At hCaptcha, we have deliberately taken a very different approach, using privacy-preserving machine learning techniques to identify typical bot behaviors at high accuracy, all while consuming and storing as little data as possible.
+Google is an ad company, and their security products look very much like their ad products: they track user behavior on every page of a website and across the web. We designed hCaptcha to be as privacy-friendly as possible from day one. This led to a completely different approach to the problem. As it turns out, tracking users across the web and tying their web history to their identity is completely unnecessary for achieving good security. The many companies that have switched over to hCaptcha often report equal or better performance in bot detection and mitigation despite our privacy focus.
+A growing number of critics have pointed out that Google's disregard for user privacy should concern customers looking to protect their websites and apps. At the same time, stopping bots from accessing publisher sites can reveal ad fraud, pitting Google's reCAPTCHA product directly against their ad business, which produces over 80% of their revenue. Every bot Google detects should be earning zero ad dollars. Google's company incentives are thus poorly aligned with the users of their security services, and this may be one explanation for the poor performance of their reCAPTCHA security offering.
+139040912
+story
+An anonymous reader quotes a report from Motherboard: The IRS was able to query a database of location data quietly harvested from ordinary smartphone apps over 10,000 times, according to a copy of the contract between IRS and the data provider obtained by Motherboard. The document provides more insight into what exactly the IRS wanted to do with a tool purchased from Venntel, a government contractor that sells clients access to a database of smartphone movements. The Inspector General is currently investigating the IRS for using the data without a warrant to try to track the location of Americans. "This contract makes clear that the IRS intended to use Venntel's spying tool to identify specific smartphone users using data collected by apps and sold onwards to shady data brokers. The IRS would have needed a warrant to obtain this kind of sensitive information from AT&T or Google," Senator Ron Wyden told Motherboard in a statement after reviewing the contract. [...]
+One of the new documents says Venntel sources the location information from its "advertising analytics network and other sources." Venntel is a subsidiary of advertising firm Gravy Analytics. The data is "global," according to a document obtained from CBP. Venntel then packages that data into a user interface and sells access to government agencies. A former Venntel worker previously told Motherboard that customers can use the product to search a specific area to see which devices were there, or follow a particular device across time. Venntel provides its own pseudonymous ID to each device, but the former worker said users could try to identify specific people. The new documents say that the IRS' purchase of an annual Venntel subscription granted the agency 12,000 queries of the dataset per year.
+"In support of Internal Revenue Service (IRS) Criminal Investigation's (CI) law enforcement investigative mission, the Cyber Crimes Unit (CCU) requires one (1) Venntel Mobile Intelligence web-based subscription," one of the documents reads. "This allows tracing and pattern-of-life analysis on locations of interesting criminal investigations, allowing investigators to trace locations of mobile devices even if a target is using anonymizing technologies like a proxy server, which is common in cyber investigations," it adds.
+139039504
+story
+An anonymous reader quotes a report from ZDNet: Security researchers have discovered a major security flaw in cPanel, a popular software suite used by web hosting companies to manage websites for their customers. The bug, discovered by security researchers from Digital Defense, allows attackers to bypass two-factor authentication (2FA) for cPanel accounts. These accounts are used by website owners to access and manage their websites and underlying server settings. Access to these accounts is critical, as once compromised, they grant threat actors full control over a victim's site.
+On its website, cPanel boasts that its software is currently used by hundreds of web hosting companies to manage more than 70 million domains across the world. But in a press release today, Digital Defense says that the 2FA implementation on older cPanel & WebHost Manager (WHM) software was vulnerable to brute-force attacks that allowed threat actors to guess URL parameters and bypass 2FA -- if 2FA was enabled for an account. While brute-forcing attacks, in general, usually take hours or days to execute, in this particular case, the attack required only a few minutes, Digital Defense said today. Exploiting this bug also requires that attackers have valid credentials for a targeted account, but these can be obtained from phishing the website owner. The good news is that Digital Defense has privately reported the bug, tracked as SEC-575, to the cPanel team, which has already released patches last week.
+139034786
+story
+A US court has ordered Google to hand over the personal emails of the son of a Russian oligarch as part of a bitter $601 million divorce case. From a report [Editor's note: the link may be paywalled; alternative source]: Judge Virginia DeMarchi in California told the US tech group to surrender Temur Akhmedov's emails for use as evidence in a lawsuit brought by his mother, Tatiana Akhmedova, the wife of an ally of President Vladimir Putin. Ms Akhmedova has gone to court in the US and the UK in an attempt to force her ex-husband, Farkhad Akhmedov, to pay the world's largest-ever divorce settlement. Google said the order was a breach of its customer's privacy. The divorce case, which is being funded by litigation financier Burford Capital, has led to a legal battle over assets including a helicopter, a private jet and a superyacht called the Luna that used to belong to Chelsea Football Club owner Roman Abramovich. Google sought to block the order to give up the emails this week on the basis that to do so would infringe Mr Akhmedov's right to privacy because he had not given consent to share them. Ms DeMarchi said Google's concern for the "privacy and security of its account holders' communications" was "commendable" but ruled the request did not breach the US Stored Communications Act, which governs voluntary and compelled disclosure of emails. The information from the emails will be used to learn whether Temur assisted his father in the fraudulent transfer of assets, and if so, to win a judgment against him, Tatiana Akhmedova said in a filing.
+138973196
+story
+India is not done banning Chinese apps. The world's second largest internet market, which has banned over 175 apps with links to the neighboring nation in recent months, said on Tuesday it was banning an additional 43 such apps. From a report: Like with the previous orders, India cited cybersecurity concerns to block these apps. "This action was taken based on the inputs regarding these apps for engaging in activities which are prejudicial to sovereignty and integrity of India, defence of India, security of state and public order," said India's IT Ministry in a statement. The ministry said it issued the order to block these apps "based on the comprehensive reports received from Indian Cyber Crime Coordination Center, Ministry of Home Affairs." The apps that have been banned include popular short video service Snack Video, which had surged to the top of the chart in recent months, as well as e-commerce app AliExpress, delivery app Lalamove, and shopping app Taobao Live. At this point, there doesn't appear to be any Chinese app left in the top 500 apps used in India.
+138970192
+story
+Two Android applications belonging to Chinese tech giant Baidu were removed from the official Google Play Store at the end of October after they were caught collecting sensitive user details. From a report: The two apps -- Baidu Maps and Baidu Search Box -- were removed after Google received a report from US cyber-security firm Palo Alto Networks. Both apps had more than 6 million downloads combined before being removed. According to the US security firm, the two apps contained code that collected information about each user's phone model, MAC address, carrier information, and IMSI (International Mobile Subscriber Identity) number. The data collection code was found in the Baidu Push SDK, used to show real-time notifications inside both apps. Palo Alto Networks security researchers Stefan Achleitner and Chengcheng Xu, who identified the data collection code, said that while some of the collected information is "rather harmless," some data like the IMSI code "can be used to uniquely identify and track a user, even if that user switches to a different phone." The research team said that while the collection of personal user details is not specifically forbidden by Google's policy for Android apps after they reported the issue to Google, the Play Store security team confirmed their findings and "identified [additional] unspecified violations" in the two Baidu apps, which eventually led to the two apps being removed from the official store on October 28.
+138930706
+story
+A trove of more than two dozen internal Amazon reports reveal in stark detail the company's obsessive monitoring of organized labor and social and environmental movements in Europe, particularly during Amazon's "peak season" between Black Friday and Christmas. From a report: The reports, obtained by Motherboard, were written in 2019 by Amazon intelligence analysts who work for the Global Security Operations Center, the company's security division tasked with protecting Amazon employees, vendors, and assets at Amazon facilities around the world. The documents show Amazon analysts closely monitor the labor and union-organizing activity of their workers throughout Europe, as well as environmentalist and social justice groups on Facebook and Instagram. They also reveal, and an Amazon spokesperson confirmed, that Amazon has hired Pinkerton operatives -- from the notorious spy agency known for its union-busting activities -- to gather intelligence on warehouse workers. Internal emails sent to Amazon's Global Security Operations Center obtained by Motherboard also reveal that all the division's team members around the world receive updates on labor organizing activities at warehouses that include the exact date, time, location, the source who reported the action, the number of participants at an event (and in some cases a turnout rate of those expected to participate in a labor action), and a description of what happened, such as a "strike" or "the distribution of leaflets." Other documents reveal that Amazon intelligence analysts keep close tabs on how many warehouse workers attend union meetings; specific worker dissatisfactions with warehouse conditions, such as excessive workloads; and cases of warehouse-worker theft, from a bottle of tequila to $15,000 worth of smart watches.
+« Newer
+Older »
+Slashdot Top Deals
+396 comments
+YouTube Waits Until a Month After the Election To Act on False Claims of Election Fraud
+256 comments
+SpaceX's Successful Starship High-Altitude Flight Ends In a Fiery Explosion
+150 comments
+UK Warns People With Serious Allergies To Avoid Pfizer Vaccine
+147 comments
+Wall Street Begins Trading Water Futures as a Commodity
+133 comments
+Samsung Plans To Ditch Power Adapters Just 3 Months After Mocking Apple Over the Same
+Re:Ha ha indeed. There is such bill. What actually
+(5 points, Informative)
+by Knightman
+on Thursday December 10, 2020 @09:01PM
+attached to
+Proposed US Law Could Slap Twitch Streamers With Felonies For Broadcasting Copyrighted Material
+Re:Content Delivery Network
+(5 points, Informative)
+by Aqualung812
+on Thursday December 10, 2020 @02:31PM
+attached to
+Weather Service Faces Internet Bandwidth Shortage, Proposes Limiting Key Data
+There's no shortage
+(5 points, Informative)
+by hawguy
+on Thursday December 10, 2020 @01:35PM
+attached to
+Weather Service Faces Internet Bandwidth Shortage, Proposes Limiting Key Data
+Whither Walled Gardens?
+(5 points, Interesting)
+by Pibroch(CiH)
+on Thursday December 10, 2020 @01:29PM
+attached to
+Original Jailbreak App Store Cydia Sues Apple for its Monopoly
+Re:50 Shades of Success
+(5 points, Informative)
+by Striek
+on Thursday December 10, 2020 @07:00AM
+attached to
+SpaceX's Successful Starship High-Altitude Flight Ends In a Fiery Explosion
+2012
+Outrage At Microsoft Offshoring Tax In the UK, Google Caught Avoiding US Taxes
+768 comments
+2011
+The Condescending UI
+980 comments
+2007
+Online Sex Offender Database Leads To Murder?
+1001 comments
+2006
+Why Do Computers Take So Long to Boot Up?
+975 comments
+2003
+New Battlestar Galactica - Worth a Series?
+1057 comments
+TrueType core fonts 2.2B downloads
+Notepad++ Plugin Mgr 1.5B downloads
+VLC media player 899M downloads
+eMule 686M downloads
+MinGW 631M downloads
+Powered By
+sf
+Economics is extremely useful as a form of employment for economists.
+-- John Kenneth Galbraith
+Close
+Working...

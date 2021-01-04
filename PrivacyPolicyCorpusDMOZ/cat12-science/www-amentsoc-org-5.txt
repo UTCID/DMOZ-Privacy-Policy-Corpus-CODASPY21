@@ -1,0 +1,70 @@
+http://www.amentsoc.org/help/feeds.html
+Skip to content
+Amateur Entomologists' Society
+Home
+About us
+Membership
+Bug Club
+Publications
+Events
+Insects
+Shop
+Members
+Search:
+Help
+Copyright
+Site map
+Accessibility
+Privacy & Cookies
+Conditions of use
+News feeds
+You are: Home >
+Help >
+News feeds
+News feeds
+The AES provides feeds of information that can be included, free of charge, on your own Web site.
+What content is available?
+What format do the feeds use?
+How can I include the content on my Web site?
+Other resources
+What content is available?
+The AES feeds currently on offer are:
+Society news:
+This feed announces new activities of the AES and also highlights new resources on the Web site. The ten most current items are listed in the feed.
+RSS feed location: https://www.amentsoc.org/about/news/feed
+Upcoming events:
+Upcoming events of interest to entomologists and those with a wider interest in natural history. The next ten events are listed in the feed. Three different RSS feeds are available:
+Events from all organisations:https://www.amentsoc.org/events/feed
+Events from the AES:https://www.amentsoc.org/events/feed/aes
+Events from the AES and events organised by other groups that the AES plans to attend:https://www.amentsoc.org/events/feed/aes-attend
+Entomologists' Glossary:
+This feed lists terms most recently added to the Entomologists' Glossary. The five most current terms are listed in the feed.
+RSS feed location: https://www.amentsoc.org/insects/glossary/terms/rss
+[Top]
+What format do the feeds use?
+The AES feeds are in RSS format. RSS (Rich Site Summary or RDF Site Summary) is a way of sharing/syndicating content from a Web site. RSS feeds are text files and are easy to produce. RSS feeds are an excellent way of providing up-to-date subject-targeted information that can be used to encourage people to regularly visit a Web site.
+In general the RSS feed comprises a series of news headlines and a snippet of information related to the headline but they can also provide a means to perform a search on the remote site.
+[Top]
+How can I include the content on my Web site?
+There are a number of different ways to incorporate news feeds in your Web site but one of the easiest is to use JavaScript. The process requires about 10-15 minutes to set up and then requires no maintenance. Every time someone visits a Web page containing the JavaScript the news feed is displayed. You don't need to know how to program in JavaScript as there are online tools to generate the code for you:
+The service described below is available through UKOLN (see: http://rssxpress.ukoln.ac.uk/lite/include/).
+Copy and paste the RSS feed location (from the list of AES feeds above) in to the form available at http://rssxpress.ukoln.ac.uk/lite/include/?t=1 or select a feed from the listing in the blue box on the right-hand side of the page on the UKOLN Web site. Press the "Get Script" button.
+You will now see a box containing the code to include the RSS feed, copy the code from the grey box and paste it between the <body> tags of your Web page where you want the feed to appear.
+Save the changes to your Web page and then view it in a Web browser. The news feed should now be displayed within your Web page.
+You can alter the appearance of the feed as outlined in 'step 3' of the page containing the JavaScript code snippet.
+You are welcome to use the data within our RSS feeds in other ways but must ensure that the links back to the AES site are not removed or obfuscated. For example, if you extract data from the RSS feed programmatically and present the events on your Web site then you must still provide the link back to the specific event listing on the AES site.
+[Top]
+Other resources
+A list of UK feeds maintained by the RSSxpress service at UKOLN - http://rssxpress.ukoln.ac.uk/
+A list of international feeds maintained by Syndic8 http://www.syndic8.com
+You can also follow the AES on twitter.
+Contact us
+Site map
+Help
+Privacy & Cookies
+Conditions
+News feeds
+Links directory
+The Amateur Entomologists' Society, PO Box 8774, London, SW7 5ZG https://www.amentsoc.org Registered charity no. 267430
+Copyright © 1997-2020 Amateur Entomologists' Society
+This website uses cookies, if you want to use our site without cookies or would like to know more, please see Privacy & Cookies. If you continue to use this site we'll assume that you're happy with this.

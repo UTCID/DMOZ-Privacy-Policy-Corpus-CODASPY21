@@ -1,0 +1,40 @@
+http://www.pinnbank.com/legal
+Skip to content
+ATM LIVE is an automated teller machine which also gives the customer the ability to speak with a teller via the screen.
+picture of a doctor and a patient
+Account Login
+Access ID
+Username
+Password
+Personal Login
+Business Login
+Cancel
+First Time Login
+Online Banking Sign Up
+Business Banking Sign Up
+Legal and Privacy
+Whether it's protecting your privacy, or outlining our Funds Availability Policy, you'll find all our legal and privacy notices here.
+picture of a doctor and a patient
+Legal and Privacy
+Whether it's protecting your privacy, or outlining our Funds Availability Policy, you'll find all our legal and privacy notices here.
+Privacy Policy and Legal Notices
+COPPA Notice
+Do Not Call Policy
+Funds Availability Policy
+Patriot Act Notice
+Privacy Policy
+Social Media Policy
+Terms of Use
+UIGEA
+Share
+Warning
+You are leaving our website. The site you have chosen is independent from Pinnacle Bank/Bank of Colorado. We do not control external sites, and we cannot guarantee the accuracy, completeness, efficacy or timeliness of the information contained therein.
+Go Back
+Continue
+// Begin Rocket Fuel Universal Pixel
+(function () {
+var cachebust = (Math.random() + "").substr(2);
+var protocol = "https:" == document.location.protocol ? 'https:' : 'http:';
+new Image().src = protocol+"//20667325p.rfihub.com/ca.gif?rb=1763&ca=20667325&ra="+cachebust;
+})();
+// End Rocket Fuel Universal Pixel

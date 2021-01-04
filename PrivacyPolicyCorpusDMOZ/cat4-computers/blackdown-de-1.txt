@@ -1,0 +1,67 @@
+https://blackdown.de/articles/category/privacy/
+Jürgen Kreileder
+Software Engineer and Consultant
+AboutArticlesPhotographyContact
+Search this website:
+Archive for the ‘Privacy’ Category
+Google SSL Search Plug-In for Firefox
+As of today Google finally supports searching over SSL.
+Expectedly, you can use it via https://www.google.com/.
+Firefox’s built-in search capabilities still use the unencrypted search, though.
+To remedy this I built an OpenSearch plug-in which makes Firefox use the HTTPS-based search:
+Install Google Secure Search Plug-In
+(Read more about Google’s SSL Search here)
+2010-05-23 (posted)
+2016-10-29 (modified)
+by Jürgen Kreileder
+MozillaPrivacySecurity
+Comments Closed
+Stop Facebook From Tracking You on Third-Party Sites
+If you are using Firefox with the Adblock Plus add-on, it is quite easy to stop Facebook from tracking you on third-party sites via its Facebook Connect program or by other means.
+Just add these four rules to Adblock Plus:
+||facebook.com$third-party
+||facebook.net$domain=~facebook.com,third-party
+||fbcdn.com$domain=~facebook.com,third-party
+||fbcdn.net$domain=~facebook.com,third-party
+Instead of adding the rules manually, you can subscribe to this Adblock Plus filter subscription: Facebook Connect Opt-Out.
+2010-05-20 (posted)
+2016-10-29 (modified)
+by Jürgen Kreileder
+MozillaPrivacy
+4 Comments
+Identity
+Facebook
+Flickr
+Google+
+Last.fm
+LinkedIn
+Polanoid
+Twitter
+XING
+Categories Apple (7)
+Blackdown (6)
+Config (14)
+Debian (15)
+GNOME (14)
+Java (6)
+Linux (44)
+Linux Kernel (11)
+Mozilla (5)
+Music (12)
+Network (5)
+Offline Life (1)
+OS X (3)
+Privacy (2)
+Security (24)
+Ubuntu (14)
+Windows (1)
+WordPress (7)
+Reading
+bild und ton.
+Cecilia Colombara
+Christoph Kreileder
+Dimiskovska GmbH & Co. KG – Handelsagentur, Schulung, Service & Dienstleistung in Bielefeld
+Julia Schliewe
+Wendy van der Waal
+© 2005-2020 Jürgen Kreileder — Imprint
+Entries (RSS) and Comments (RSS)

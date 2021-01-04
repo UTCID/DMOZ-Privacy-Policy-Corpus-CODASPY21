@@ -1,0 +1,88 @@
+http://www.hyperic.com/help/privacy.html
+Products
+vRealize Hyperic
+vRealize Hyperic
+Overview
+Spotlight
+Features
+TECH SPECS
+Resources
+Find a Partner
+Contact Sales
+Download Free Trial
+VMware is announcing the End of Availability (EOA) of VMware vRealize Hyperic, effective July 1, 2020. After this date, VMware vRealize Hyperic will no longer be available for purchase. VMware will continue to support this product through January 31, 2021 (End of General Support). Please refer to product lifecycle matrix for the latest updated dates.
+We recommend that customers migrate to VMware vRealize Operations Enterprise Edition or vRealize Operations Cloud service—which offers consistent operations and application monitoring capabilities for the modern multi-cloud datacenter.
+For more information, please refer to KB #78911. If you have additional any questions, please contact your VMware account team or VMware Partner.
+Application Monitoring Across All Environments with vRealize Hyperic
+Manage the performance and availability of a broad range of operating systems, middleware, and applications running in your physical, virtual, and cloud environments with VMware vRealize Hyperic, a vRealize Operations component.
+What vRealize Hyperic Does
+Infrastructure and OS Application Monitoring
+Understand availability, performance, utilization, events, logs and changes across every layer of your virtualization stack, from the vSphere hypervisor to guest operating systems.
+vRealize Operations Integration
+Gain comprehensive visibility and unified management of all of your infrastructure, middleware and applications from a single interface through integration with vRealize Operations Manager.
+Middleware and Application Monitoring
+Collect a vast range of performance data—as many as 50,000 metrics across more than 70 application technologies—and easily extend the data to monitor any component in your application and middleware stack.
+SPOTLIGHT
+vRealize Hyperic monitors any application, anywhere in your enterprise.
+Native Monitoring Across Your Stack
+vRealize Hyperic collects 50,000 metrics across 75 application technologies out of the box and, with a fully extensible framework, can easily monitor any component in your application stack.
+Read the Datasheet
+vRealize Hyperic Community
+Ask questions and participate in discussions with vRealize Hyperic product experts and users.
+Join the Conversation
+VMware Cloud Management Blog
+Get the latest news about vRealize Hyperic as well as expert insights into managing your data center.
+Read the Blog
+FEATURES
+Infrastructure and OS Monitoring
+Complete run-book deployment automation, including copying and reusing monitoring configurations and alert policies, to quickly bring resources under management. Conduct root cause analysis (RCA) based on comprehensive monitoring of performance, configuration and security changes.
+Middleware and Application Monitoring
+Automatically discover more than 120 popular middleware and applications instantly. Accelerate monitoring setup with preconfigured best-practice collection for key performance indicators (KPIs).
+Alerts and Remediation Workflows
+Reduce duplicate and irrelevant alerts and false alarms by setting precise alert condition definitions on a wide range of performance metrics. Assign problems to the correct IT specialists with role-based alerting and schedule administrative actions with calendar alerts. Automate problem remediation across the data center with Hyperic Control Actions.
+Dashboards and Reporting
+Demonstrate compliance with service level agreements (SLAs), operating level agreements (OLAs) and undermining contracts with easy-to-use dashboards and reports targeting specific owners and IT management.
+Extensibility
+Access all vRealize Hyperic features through the universally extensible API, which aggregates all subsystem-specific functionality in one simple programming interface. Build custom plugins to manage any type of server with the Hyperic Plugin Framework. Create custom user interfaces to present business-specific performance data with the HQU Plugin Framework.
+TECH SPECS
+vRealize Hyperic
+vRealize Hyperic manages a broad range of products including application servers, Web servers, databases, operating systems, hypervisors, messaging servers and directory servers. vRealize Hyperic uses the native management capabilities of the managed products.
+Operating Systems
+Linux, Windows, Solaris, HP/UX, Free BSD, NetBSD, OpenBSD, Mac OS X, Cisco IOS, PIXOS
+Application Servers
+Tomcat, WebLogic, WebSphere, .NET, tc server, Geronimo, Caucho Resin, Glassfish, JBoss, Jetty, JOnAS, JRun, ColdFusion, Oracle Application Server, Zope
+Virtualization
+VMware vSphere, vCenter, VMware Cloud Director, VI3, GSX, Xen VM
+Application Platforms
+Spring, JEE, J2EE, LAMP, .NET, JMX, MX4J, Sun JVM
+Databases
+PostgreSQL, Informix, Sybase Adaptive Server, CouchDB, GemFire, iAnywhere
+Web and Proxy Servers
+Apache, IIS, Memcached, GemFire, lighttpd, Nginx, Squid, SunONE/iPlanet
+Messaging Middleware
+ActiveMQ, IBM MQ Series, MSMQ, RabbitMQ, Hadoop
+Network Management
+NetScaler, Samba, Vyatta, WxGoos, ZXTM
+Directory Services
+Microsoft Active Directory, OpenLDAP
+Email Servers
+Microsoft Exchange, Zimbra, Sendmail, Postfix, qmail, IBM Lotus Domino
+Agentless Monitoring
+SNMP, HTTP, DHCP, DNS, FTP, IMAP, LDAP, NTP, Ping, POP3, RPC, SMTP, SSH,   TCP, SQL Queries, Selenium synthetic transactions
+Other Software
+Bugzilla, Wordpress, Alfresco, Bind, Mule ESB, Asterisk, Sensatronics, Microsoft
+Terminal Services
+Monitoring Tool Integrations
+Nagios, OpenNMS, SNMP to OpenView, Tivoli, Patrol, Unicenter
+See All
+RESOURCES
+Learn & Evaluate
+vRealize Hyperic Datasheet
+Application Monitoring and Dashboard Use Case
+Join the Community
+vRealize Hyperic Community
+vRealize Operations on Twitter
+vRealize Operations on LinkedIn
+Install & Configure
+vRealize Hyperic Installation
+vRealize Hyperic Documentation

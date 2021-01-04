@@ -1,0 +1,27 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/pt01.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Part I. Web TechnologyThis part of the book examines the underlying technology that
+makes up today’s World Wide Web and the Internet in general.Chapter 1 looks at the basics
+of web security—the risks inherent in running a web server, in using the
+Web to distribute information or services, and finally, the risks of
+being a user on the Internet.Chapter 2 is a detailed
+exploration of computers, communications links, and protocols that make
+up the Web. It provides a technical introduction to the systems that
+will be discussed throughout the rest of the book and that underlie web
+security concepts.Chapter 3 introduces the
+science and mathematics of cryptography, with a particular emphasis on
+public key encryption.Chapter 4 specifically looks
+at the encryption algorithms that are used on the Web today.Chapter 5 looks more closely
+at the Secure Sockets Layer (SSL) and the Transport Layer Security (TLS)
+system that are used by “secure” web servers.Chapter 6 introduces the
+topic of authentication and gives an overview of several classes of
+authentication systems in use on the Internet.Chapter 7 focuses on the use
+of digital certificates for authentication and introduces certification
+authorities (CAs) and the public key infrastructure (PKI).
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

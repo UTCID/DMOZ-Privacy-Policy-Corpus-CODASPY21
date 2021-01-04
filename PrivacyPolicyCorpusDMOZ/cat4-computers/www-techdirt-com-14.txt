@@ -1,0 +1,117 @@
+http://www.techdirt.com/articles/20200922/17314945362/need-robust-critical-community-content-policy.shtml
+Sign In
+Register
+Preferences
+Techdirt
+Techdirt
+Greenhouse
+Tech & COVID
+Free Speech
+Deals
+Jobs
+Support Techdirt
+FBI Tracks Down Cop Car Firebomber Using Info The FBI Claims Is Way Less Useful Than An Encryption Backdoor
+If Patents Are So Important To Innovation, Why Do Innovative Companies Keep Opening Up Their Patents Rather Than Enforcing Them?
+The Need For A Robust Critical Community In Content Policy
+Policy
+from the it's-coming-one-way-or-the-other deptThu, Sep 24th 2020 12:17pm —
+Chris Riley
+Over this series of policy posts, I’m exploring the evolution of internet regulation from my perspective as an advocate for constructive reform. It is my goal in these posts to unpack the movement towards regulatory change and to offer some creative ideas that may help to catalyze further substantive discussion. In that vein, this post focuses on the need for "critical community" in content policy -- a loose network of civil society organizations, industry professionals, and policymakers with subject matter expertise and independence to opine on the policies and practices of platforms that serve as intermediaries for user communications and content online. And to feed and vitalize that community, we need better and more consistent transparency into those policies and practices, particularly intentional harm mitigation efforts.
+The techlash dynamic is seen in both political parties in the United States as well as in a broad range of political viewpoints globally. One reason for the robustness of the response is that so much of the internet ecosystem feels like a black box, thus undermining trust and agency. One of my persistent refrains in the context of artificial intelligence, where the “black box” feeling is particularly strong, is that trust can’t be restored by any law or improved corporate practice operating in isolation. (And certainly, the answer isn’t just "
+I’m using the term "critical community" as I see it used in community psychology and social justice contexts. For example, this talk by Professor Silvia Bettez offers a specific definition of critical community as "interconnected, porously bordered, shifting webs of people who through dialogue, active listening, and critical question posing, assist each other in critically thinking through issues of power, oppression,and privilege." While in the field of internet policy the issues are different, the themes of power, oppression, and privilege strike me as resonant in the context of social media platform practices.
+I wrote an early version of this community-centric theory of change in a piece last year focused specifically on recommendation engines. In that piece, I looked at the world of privacy, where, over the past few decades, a seed of transparency offered voluntarily in the form of privacy policies helped to fuel the growth of a professional community of privacy specialists who are now able to provide meaningful feedback to companies, both positive and critical. We have a rich ecosystem in privacy with institutions ranging from IAPP to the Future of Privacy Forum to EPIC.
+The tech industry has a nascent ecosystem built around specifically content moderation practices, which I tend to think of as a (large) subset of content policy focused specifically on moderation -- policies regarding the permissible use of a platform and actions taken to enforce those policies for specific users or pieces of content. (The biggest part of content policy not included within my framing of content moderation is the work of recommendation engines to filter information and present users with an intentional experience.) The Santa Clara Principles and extensive academic research have helped to advance norms around moderation. The new Trust & Safety Professionals Association could evolve into a IAPP or FPF equivalent. Content moderation was the second Techdirt Greenhouse topic after privacy, reflecting the diversity of voices in this space. And plenty of interesting work is being done beyond the moderation space as well, such as Mozilla’s "YouTube Regrets" campaign, to illustrate online harm arising from recommendation engines steering permissible and legal content to poorly chosen audiences.
+As the critical community around content policy grows, regulation races ahead. The Digital Services Act consultation submissions closed this month; here’s my former team’s post about that. The regulatory posture of the European Commission has advanced a great deal over the past couple of years, shifting toward a paradigm of accountability and a focus on processes and procedures. The DSA will prove to be a turning point on a global scale, just as the GDPR was for privacy. Going forward, platforms will expect to be held accountable. Just as it’s increasingly untenable to assume that an internet company can collect data and monetize it at will, so, too will it be untenable to dismiss harms online through tropes like “more speech is a solution to bad speech.” While the First Amendment court challenges in the U.S. legal context will be serious and difficult to navigate, the normative reality will more and more be set: tech companies must confront and respond to the real harms of hate speech, as Brandi Collins-Dexter’s Greenhouse post so well illustrates.
+The DSA has a few years left in its process. The European Commission must adopt a draft law, the Parliament will table hundreds of amendments and put together a final package for vote, the Council will produce its own version, trialogue will hash out a single document, and then, finally, Parliament will vote again -- a vote that might not succeed, restarting some portions of the process. Yet, even at this early stage, it seems virtually certain that the DSA legislative process will produce a strong set of principles-based requirements without specific guidance for implementing practices. To many, such an outcome seems vague and hard to work with. But it’s preferable in many ways to specifying technical or business practices in law which can easily result in outdated and insufficient guidance to address evolving harm, not to mention restrictions that are easier for large companies to comply with, at least facially, than smaller firms.
+So, there’s a gap here. It’s the same gap seen in the PACT Act. As both a practical consideration in the context of American constitutional law and in the state of collective understanding of policy best practices, the PACT Act doesn’t specify exactly what practices need to be adopted. Rather, it requires transparency and accountability to those self asserted practices. The internet polity needs something broader than just a statute to determine what “good” means in the context of intermediary management of user-generated content.
+Ultimately, that gap will be filled by the critical community in content policy, working collectively to develop norms and provide answers to questions that often seem impossible to answer. Trust will be strongest, and the norms and decisions that emerge the most robust and sustainable, if that community is diverse, well resourced, and with broad and deep expertise.
+The impact of critical community on platform behavior will depend on two factors: first, the receptivity of powerful tech companies to outside pressure, and second, sufficient transparency into platform practices to enable timely and informed substantive criticism. Neither of these should be assumed, particularly with respect to harm occurring outside the United States. Two Techdirt Greenhouse pieces (by Aye Min Thant and Michael Karanicolas) and the recent Buzzfeed Facebook expose illustrate the limitations of both transparency and influence to shape international platform practices.
+I expect legal developments to help strengthen both of these. Transparency is a key component of the developing frameworks for both the DSA and thoughtful Section 230 reform efforts like the PACT Act. While it may seem like low-hanging fruit, the ability of transparency to support critical community is of great long-term strategic importance. And the legal act of empowering of a governmental agency to adopt and enforce rules going forward will, hopefully, help create incentives for companies to take outside input very seriously (the popular metaphor here is to the “sword of Damocles”).
+We built an effective critical community around privacy long ago. We’ve been building it on cybersecurity for 20+ years. We built it in telecom around net neutrality over the past ~15 years. The pieces of a critical community for content policy are there, and what seems most needed right now to complete the puzzle is regulatory ambition driving greater transparency by platforms along with sufficient funding for coordinated, constructive, and sustained engagement.
+Thank you for reading this Techdirt post. With so many things competing for everyone’s attention these days, we really appreciate you giving us your time. We work hard every day to put quality content out there for our community.
+Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis.
+While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising, we have always kept Techdirt open and available to anyone. But in order to continue doing so, we need your support. We offer a variety of ways for our readers to support us, from direct donations to special subscriptions and cool merchandise — and every little bit helps. Thank you.
+–The Techdirt Team
+Filed Under: civil society, content policy, critical community, internet regulation, policy, reform
+2 Comments | Leave a Comment
+If you liked this post, you may also be interested in...
+GOP Confirms Unqualified Simington to FCC With Eye On Crippling Biden FCC
+Techdirt Podcast Episode 261: How Would You Regulate The Internet?
+Your Problem Is Not With Section 230, But The 1st Amendment
+The Silver Lining Of Internet Regulation: A Regulatory Impact Assessment
+Welcome To The Techdirt Tech Policy Greenhouse: Content Moderation Edition
+Reader Comments
+Subscribe: RSS
+View by: Time | Thread
+Anonymous Coward, 24 Sep 2020 @ 1:27pm
+This may be helpful and even useful to the EU and other regions that do not have the US' 1st Amendment but it's not very relevant to what happens in the US. The 1st Amendment prevents the government from interfering with speech, including that of corporations. Twitter, Facebook and the whole cadre of social networking sites and services exercise that speech in the form of what they do and do not allow the public to post on them. This cannot be regulated. Neither can the speech of the public who posts on these services. Therefore, this entire topic is nothing more than a thought experiment at best within the borders of the US.
+There is certainly value to be found to benefit the EU and others. Perhaps for that reason the discussion should continue but with a focus on those non-US environments. Outside of that restriction we're just wasting time.[ reply to this | link to this | view in chronology ]
+McKay (profile), 9 Oct 2020 @ 9:33am
+Bug in HTML At the end of the second paragraph, it looks like there's supposed to be a link with the text "build better ai", but the target attribute of the anchor tag isn't properly closed. It's also repeated, which makes me think it's something in your article software that's causing the problem.[ reply to this | link to this | view in chronology ]
+Add Your Comment
+Close
+Add A Reply
+Have a Techdirt Account? Sign in now. Want one? Register here
+Subscribe to the Techdirt Daily newsletter
+this is for spambots, do not use this
+Comment Options:
+Use markdown.
+Use plain text.
+Remember name/email/url (set a cookie)
+FBI Tracks Down Cop Car Firebomber Using Info The FBI Claims Is Way Less Useful Than An Encryption Backdoor
+If Patents Are So Important To Innovation, Why Do Innovative Companies Keep Opening Up Their Patents Rather Than Enforcing Them?
+Follow Techdirt
+Techdirt Daily Newsletter
+Special Affiliate Offer
+Essential Reading
+New To Techdirt?
+Explore some core concepts:
+The Grand Unified Theory On The Economics Of Free
+Saying You Can't Compete With Free Is Saying You Can't Compete Period
+Advertising Is Content; Content Is Advertising
+read all »
+Trending Posts
+TSA Oversight Says Agency's Suspicionless Surveillance Program Is Worthless And The TSA Can't Prove It Isn't
+Tillis Release Details Of His Felony Streaming Bill; A Weird Gift To Hollywood At The Expense Of Taxpayers
+Dot Com Millionaire to Give Away Most of His Money
+Techdirt Insider Chat
+Join the Insider Chat
+Recent Stories
+Thursday19:52
+Nintendo Hates You: DMCA Takedowns Of Game Music Continue While Nintendo Offers No Legit Way To Listen (3)15:35
+Tillis Release Details Of His Felony Streaming Bill; A Weird Gift To Hollywood At The Expense Of Taxpayers (25)13:48
+As A Parting Shot, Tulsi Gabbard Teams Up With Paul Gosar To Introduce Yet Another Unconstitutional Attack On Section 230 (51)12:23
+AZ GOP Goes Full Bullshit: Claims It took Down Violence-Inciting Tweet Over Copyright Concerns (28)10:50
+New Report Shows Cellphone Encryption Isn't Really Stopping Cops From Searching Phones (8)10:47
+Daily Deal: The Complete Web Developer Coding Bundle (0)09:37
+Not This Again: Senator Tillis Tries To Slide Dangerous Felony Streaming Bill Into Must Pass Government Funding Bill (29)06:17
+Stupid Cable TV Retrans Feuds And Blackouts Make Their Way To Streaming TV (13)03:14
+TSA Oversight Says Agency's Suspicionless Surveillance Program Is Worthless And The TSA Can't Prove It Isn't (8)Wednesday19:55
+Nintendo Plays 'Control Inception', Cancelling Splatoon Broadcast After Teams Protest Canceling Smash Bros. Tourney (18)
+More
+Tools & Services
+Twitter
+Facebook
+RSS
+Podcast
+Research & Reports
+Company
+About Us
+Advertising Policies
+Privacy
+Contact
+Help & Feedback
+Media Kit
+Sponsor/Advertise
+Submit a Story
+More
+Copia Institute
+Insider Shop
+Support Techdirt
+Brought to you by Floor64
+CA Advertising Privacy Preferences
+This site, like most other sites on the web, uses cookies. For more information, see our privacy policy.
+Got it
+Close
+Email This
+This feature is only available to registered users. Register or sign in to use it.

@@ -1,0 +1,44 @@
+https://dev.twitter.com/web/overview/privacy
+Privacy
+What information does Twitter collect through Twitter for Websites and how is that information used?
+When you view Twitter content or Twitter products integrated into other websites using Twitter for Websites, Twitter may receive information including the web page you visited, your IP address, browser type, operating system, and cookie information. This information helps us to improve our products and services, including personalized suggestions and personalized ads. Learn more about the information we receive and how we use it in our privacy policy and cookies use.
+How long do you keep this information?
+To protect privacy, we never associate this web browsing history with users’ names, email addresses, phone numbers, or Twitter handles, and we delete, obfuscate, or aggregate it after no longer than 30 days, as explained in our Privacy Policy.
+What privacy options do website publishers have?
+You may choose whether Twitter widgets on your site help to tailor content and suggestions for Twitter users. You can opt out of having information from your website used for personalization by following the instructions below.
+Include the following snippet within the <meta> and <link> elements on your pages that include Twitter for Websites widgets:
+<meta name="twitter:dnt" content="on">
+You may also opt-out of this data use for a specific widget, and can do so by setting the optional data-dnt parameter to be true, as shown in the example below:
+<a
+class="twitter-share-button"
+href="https://twitter.com/share"
+data-dnt="true">
+Tweet</a>
+<script async defer
+src="//platform.twitter.com/widgets.js"
+charset="utf-8">
+</script>
+What privacy options do users have?
+In addition to the choices websites have regarding personalizing content on Twitter, we remain committed to providing users with simple and meaningful privacy choices about how their information is used to improve their Twitter experience. For more information about those choices, please see the links below:
+Personalization based on where you see Twitter content across the web
+Your privacy controls for personalized ads
+Twitter’s use of cookies and similar technologies
+Twitter Privacy Policy
+Was this document helpful?
+Thank you for the feedback. We’re really glad we could help!
+Thank you for the feedback. How could we improve this document?
+This page is missing information.
+The information was hard to follow or confusing.
+There is inaccurate information.
+There is a broken link or typo.
+Specific Feedback
+Submit feedback
+Skip
+Thank you for the feedback. Your comments will help us improve our documents in the future.
+Read Previous
+Read Next
+By using Twitter’s services you agree to our Cookies Use. We use cookies for purposes including analytics, personalisation, and ads.
+OK
+This page and certain other Twitter sites place and read third party cookies on your browser that are used for non-essential purposes including targeting of ads. Through these cookies, Google, LinkedIn and Demandbase collect personal data about you for their own purposes. Learn more.
+Accept
+Decline

@@ -1,0 +1,126 @@
+http://www.securitymagazine.com/articles/93428-reexamining-data-privacy-and-protection-amid-covid-19
+This website requires certain cookies to work and uses other cookies to help you have the best experience.
+By visiting this website, certain cookies have already been set, which you may delete and block. By closing this message or continuing to use our site, you agree to the use of cookies. Visit our updated privacy and cookie policy to learn more.
+This Website Uses CookiesBy closing this message or continuing to use our site, you agree to our cookie policy. Learn More
+This website requires certain cookies to work and uses other cookies to help you have the best experience.
+By visiting this website, certain cookies have already been set, which you may delete and block.
+By closing this message or continuing to use our site, you agree to the use of cookies. Visit our updated privacy and cookie policy to learn more.
+Security Magazine logo
+MagazineDigital Edition
+This Month's Issue
+ArchivesNewsSecurity Newswire
+COVID-19TechnologiesSecurity Blog
+NewsletterWeb Exclusives
+ColumnsCareer Intelligence
+Security TalkThe Corner Office
+Leadership & ManagementCyber Tactics
+Overseas and SecureThe Risk MatrixManagementLeadership Management
+Enterprise Services
+Security Education & Training
+MorePhysicalAccess Management
+Video Surveillance
+Identity Management
+MoreCyberSectorsEducation: University
+Hospitals & Medical Centers
+Critical Infrastructure
+MoreExclusivesSecurity 500 ReportMost Influential People in Security
+Top Guard and Security Officer CompaniesThe Security Leadership Issue
+Annual Innovations, Technology, & Services Report
+EventsIndustry Events
+Webinars
+Solutions by SectorSecurity 500 ConferenceResourcesVideos
+ISC West 2019Photo GalleriesPolls
+Classifieds & Job Listings
+White Papers
+Mobile App
+StoreSponsor Insights Continuing EducationCall for Entries InfoCentersESRMContactEditorial GuidelinesAdvertise
+Home » Reexamining data privacy and protection amid COVID-19
+TechnologiesManagementCyberSecurity Enterprise ServicesSecurity Leadership and ManagementLogical SecuritySecurity & Business ResilienceSecurity Education & TrainingCyber Security News
+Reexamining data privacy and protection amid COVID-19
+As proposed legislation unfolds, security and privacy professionals should prepare to face the implications of greater responsibility and risk when it comes to data privacy.
+September 23, 2020
+Ed Holmes
+KEYWORDS cyber security
+/
+data security
+/
+privacy concerns
+/
+privacy regulations
+Order Reprints
+No Comments
+The COVID-19 pandemic has forced companies to restructure many areas of operation, including their approach to cybersecurity and data privacy. The spotlight has been placed on healthcare data and how it can and should be used to combat the spread of the virus. As security and privacy professionals, our attention is honed in on the debate surrounding contact tracing and the collection of COVID-19 health data because it will set a precedent for data collection and impact future privacy laws.In response to the global pandemic, a group of senators introduced the COVID-19 Consumer Data Protection Act, which would regulate the collection and use of personal data amid the current coronavirus crisis. Now, months after it was introduced, the COVID-19 Consumer Data Protection Act doesn’t stand alone as a piece of privacy legislation—it was followed by the Public Health Emergency Privacy Act and the Exposure Notification Privacy Act. Although each aims to tackle the issue of data privacy in a slightly different way, all three mark an important shift in perspectives and have the potential to reshape the United States’ standard for how to handle and share data during a national health crisis.
+Below are four aspects that security and privacy professionals need to consider to ensure the balance of privacy and safety in data regulations.
+Recognize the Implications of Newly Introduced Privacy Legislation
+The COVID-19 Consumer Data Protection Act kicked off a nationwide discussion around the significant privacy risks and repercussions of COVID-19 response technology (e.g. contact tracing apps). The proposed bill, along with other proposed privacy legislation, indicates the need for an in-depth awareness of how data is shared and protected. With that knowledge as a foundation, a standard model of data security can be established – one that holds organizations accountable for the highest level of data protection.Currently, many organizations follow the National Institute of Standards and Technology (NIST) Privacy Framework, which helps organizations identify and manage privacy risk to build innovative products and services while protecting individuals’ privacy. The Framework was modeled after the NIST Cybersecurity Framework to provide guidance on managing privacy risk among different roles, establishing and improving privacy programs, and strengthening organizational accountability. Whether the Framework is used in all or some of those ways, it is ultimately designed to be flexible and to complement existing business operations. It provides a clear example of best practices and guidelines when it comes to data privacy and should be referenced when building future privacy legislation.
+Understand Data Sharing Limits
+The United States faces a significant challenge when it comes to protecting the data collected through contact tracing, one that the COVID-19 Consumer Data Protection Act aims to address. Gathering and sharing virus information – on age, comorbidity, location – is essential to effectively combat the virus. Without this information, tracking the spread of the virus and its effects is impossible. However, there are limits to what data needs to be shared and who should have access to it, especially when it comes to Personal Identifiable Information (PII).Both manual or app-based contact tracing methods have their challenges. For manual contact tracing, it’s an issue of manpower. One report by John Hopkins states that an additional 100,000 employees would be needed to make manual contact tracing efforts effective across the United States. In short, it’s not the most practical solution.When discussing app-based contact tracing, one must consider the individual’s agency over their own data. As outlined by the COVID-19 Data Protection Act, contact tracing technology requires voluntary participation. The effectiveness of contact tracing technology rests on this main point – if a critical mass of individuals don’t opt into these apps, they lose effectiveness. The key will be to find a balance between protecting a patient's health and maintaining their privacy—while also protecting the health of the larger population.
+It’s important to note that when it comes to contact tracing technology, there is still a lot to be done in terms of putting security measures in place to prevent information from being mapped back to an individual. These include: anonymizing data upon collection, protecting individuals’ phones from access through contact tracing apps, and preventing the data (once collected) from being shared and used outside of its intended purpose.
+Invest in Adaptable Security Solutions
+With today’s environment rapidly evolving, the privacy and security industry has the responsibility to adapt to meet the demands of data sharing in a timely, effective and secure manner.  A challenging aspect of privacy legislation is ensuring that the policies enacted during this pandemic don’t outlast their necessity or work against existing privacy laws. For example, the COVID-19 Consumer Data Protection Act restricts data usage to within the declared COVID-19 public health emergency time period.Although proposed legislation has time frame limits, it’s crucial that the security solutions implemented now are set up to combat security risks past the pandemic. As previously discussed, future legislation needs to work hand-in-hand with guidelines like the NIST framework in order for organizations to successfully and completely protect individuals’ privacy.
+Prepare for Change
+It’s easy to identify the benefits of healthcare data sharing for the purposes of handling a pandemic. The issue lies in balancing the benefits with potential detriments. The industry should prepare for the new challenges that contact tracing technology and its successors will present. If legislation like the COVID-19 Consumer Data Protection Act comes into effect, privacy and security professionals will need to educate themselves on the vulnerabilities of technologies introduced during the pandemic, as well as their responsibility to their customers in handling their data in the new environment.The current circumstances of the pandemic demand a reaffirmation of the importance of data privacy, but also a rethinking of the ways we share data. Companies should evaluate their data storage methods and identify the ways their current structure may be affected by increased data sharing. By reassessing how, where, and what data is collected, companies can prepare for an uncertain future. Security and privacy professionals can also position their companies strategically by investing in security programs that address security needs as they evolve.When it comes to proposed privacy legislation the stakes are high but the need is great and pressing. As a nation, we need to think carefully, and collectively arrive at a solution that strikes the important balance of protecting civil liberties and containing the spread of the virus.
+I want to hear from you. Tell me how we can improve.
+BNP Media Owner & Co-CEO, Tagg Henderson
+Ed Holmes, CEO of FairWarning, is a seasoned technology leader and has directed many companies in a variety of growth stages. The integral focus of his career has been on delivering value to customers and he is delighted to lead an executive team that shares that dedication. He is committed to building on FairWarning’s reputation as a privacy company delivering robust and innovative data protection and security solutions and expert services. Ed was previously the CEO of Peoplenet, a leading provider of cloud software for the staffing industry, until its acquisition by Bullhorn in 2017, at which time he became the SVP of Workforce & Revenue Cloud at Bullhorn. Ed has spent his career in software and technology applications that serve Fortune 500 companies, including roles as both CIO and CEO.
+Related Articles
+Senators to Introduce COVID-19 Consumer Data Protection Act
+Bipartisan Group of Senators Proposes Privacy Bill for COVID-19 Contact-Tracing Apps
+Third-Party Risk Management amid COVID-19
+Cybersecurity claims trends amid COVID-19
+You must login or register in order to post a comment.
+Report Abusive Comment
+Thank you for helping us to improve our forums. Is this comment offensive? Please tell us why.
+Subscribe For Free!
+Digital Edition SubscriptionsSecurity eNewsletter & Other eNews AlertsOnline RegistrationMobile AppSubscription Customer Service
+More Videos
+Sponsored Content
+Sponsored Content is a special paid section where industry companies provide high quality, objective, non-commercial content around topics of interest to the Security audience. All Sponsored Content is supplied by the advertising company. Interested in participating in our Sponsored Content section? Contact your local rep.
+Close
+Sponsored By
+SureView Operations
+How command centers are responding to COVID-19
+In recent months, I’ve had many different conversations with our customers about how the COVID pandemic has impacted their security operations—from global companies with hundreds of thousands of employees to much smaller organizations with control rooms responsible for local operations and campuses. The overwhelming feedback is that everyone has needed, in one way or another, to change their processes, and expect to continue having to do so for the foreseeable future.
+Popular Stories
+FEMA announces Grants Outcomes (FEMA GO) System Trainings
+The top 10 data breaches of 2020
+Preparing for riots and looting
+The cult of the search in open-source intelligence
+Plaza Hotel & Casino in Downtown Las Vegas uses threat detection platform
+Events
+June 23, 2020
+AppSec Managers Are Becoming Extinct. Get Ready to Embrace DevSecOps.
+ON DEMAND: DevSecOps creates an environment of shared responsibility for security, where AppSec and development teams become more collaborative. With the right training and tools, developers can become more hands-on with security and, with that upskilling, stand out among their peers... however, they need the security specialists on-side, factoring them into securing code from the start and championing this mindset across the company.
+September 24, 2020
+Pandemics, Recessions and Disasters: Insider Threats During Troubling Times
+ON DEMAND: The insider threat—consisting of scores of different types of crimes and incidents—is a scourge even during the best of times. But the chaos, instability and desperation that characterize crises also catalyze both intentional and unwitting insider attacks. Learn how your workers, contractors, volunteers and partners are exploiting the dislocation caused by today's climate of Coronavirus, unemployment, disinformation and social unrest.
+View All
+Submit An Event
+Poll
+Workplace Safety and COVID-19
+Which new safety and security protocols are now in use at your enterprise to protect employees from COVID-19 exposure?
+A. Masks provided/required
+B. Monitoring employees’ temperatures
+C. Plexi-glass dividers between workstations
+D. 6-foot social distancing markers on floors
+E. Increased building disinfecting
+F. Continued remote work for employees
+G. Staggered shifts
+H. Health screenings
+I. Some of the above
+J. All of the above
+View Results
+Poll Archive
+Products
+Effective Security Management, 7th Edition
+Effective Security Management, 5e, teaches practicing security professionals how to build their careers by mastering the fundamentals of good management. Charles Sennewald brings a time-tested blend of common sense, wisdom, and humor to this bestselling introduction to workplace dynamics.
+See More Products
+Security Magazine
+2020 December
+This month, Security magazine brings you the 2020 Guarding Report - a look at the ebbs and flows security officers and guarding companies have weathered in 2020, including protests, riots, the election, a pandemic and much more. Industry experts discuss access management and security challenges during COVID-19, GSOC complacency, the cybersecurity gap, end-of-year security career reflections and more!
+View More
+Create Account
+MoreMarket ResearchCustom Content & Marketing ServicesSecurity Group
+Editorial GuidelinesPrivacy PolicySurvey And SampleWant MoreSubscribeConnectPartnersPrivacyPRIVACY POLICYTERMS & CONDITIONSDO NOT SELL MY PERSONAL INFORMATIONPRIVACY REQUESTACCESSIBILITY
+Copyright ©2020. All Rights Reserved BNP Media.
+Design, CMS, Hosting & Web Development :: ePublishing

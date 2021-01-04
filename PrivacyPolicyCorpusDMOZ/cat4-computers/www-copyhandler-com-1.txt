@@ -1,0 +1,41 @@
+http://www.copyhandler.com/privacy-policy
+Skip to main content
+Privacy policy for website, forum and the software itself
+Website and forum
+This privacy policy document states what kind of information are collected by us, how do we process, share and protect them.
+Information we collect
+Standard we browsing information
+From the visitors of this website www.copyhandler.com we do collect the information related to the visiting as reported by the users' browser to the web server hosting the website. It includes the following information:
+IP address,
+date and time of visit,
+browser Agent string (see Wikipedia article),
+Sample log entry of the information collected:
+aa.bb.cc.ss - - [01/Apr/2016:19:23:09 +0200] "GET /sites/default/modules/languageicons/flags/en.png HTTP/1.0" 200 461 "http://www.copyhandler.com/download" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0"
+Information collected from visitors of forum.copyhandler.com includes the same information as collected from the website (above).
+Additionally, forum allows users to register themselves as members, allowing them to discuss issues with other registered users. From such registered users we collect their e-mail address and username. We do not encourage using the real names there.
+Cookies
+This website (www.copyhandler.com) uses Drupal CMS which may set cookies. One example where drupal sets the cookie is session tracking. For more information, see Drupal website
+The forum uses the Simplemachines forum script, which may also set up cookies. Typical usage includes session tracking. See SMF website for additional information.
+Information collected through the 3rd party vendors
+Google AdSense
+The Copy Handler website uses Google AdSense advertisements. Please see additional information.
+Google Analytics
+Both website and forum might use Google Analytics to gather additional information about visitors (like location, system and browser information among others). Please see Analytics cookie information.
+How do we use the information
+Information collected directly are used only for logging purposes - i.e. to diagnose the problems if they occur.
+Information collected by 3rd parties are used to get better understanding of the Copy Handler intended audience and to tune the program according to those information (that includes the user country, screen resolution, operating system among others).
+In addition, there are other information gathered about the user through the advertisements displayed on the website. See above for the details on Google AdSense and Google Analytics information.
+How do we share those information
+The information that we collect directly are not shared with anyone.
+The information collected through 3rd parties are available to them and are used according to their privacy policies.
+Copy Handler software
+Copy Handler has a feature allowing to check for the new versions. That feature contacts the server where Copy Handler is hosted to request the new versions information.
+This request contains the following information:
+IP address of the user,
+Copy Handler version information,
+operating system version,
+Those information are not shared with anyone and are (or might be) used to:
+determine operating system usage (to be able to tell if the specific Windows support is still needed),
+determine user language (to be able to prioritize the translation support),
+Donate
+Sponsored Links

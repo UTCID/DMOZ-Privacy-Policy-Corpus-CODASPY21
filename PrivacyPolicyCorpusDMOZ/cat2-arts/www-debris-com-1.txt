@@ -1,0 +1,90 @@
+http://www.debris.com/journal/privacy
+DEBRIS.COMgood for a laugh, or possibly an aneurysm
+Thursday, December 28th, 2006
+no RFID for me
+Back in September, security guru and common-sense advocate Bruce Schneier recommended that US citizens renew their passports before the end of the year. The reason? To avoid the risks of the new RFID passports, initially slated to be rolled out by January 1.Schneier described potential consequences of carrying around a radio transmitter in one’s passport:The risk to you is the possibility of surreptitious access: Your passport information might be read without your knowledge or consent by a government trying to track your movements, a criminal trying to steal your identity or someone just curious about your citizenship.I called the Passport Agency earlier this month to ask whether they’d begun issuing RFID passports yet. I was told that the main Passport center in Philadelphia — the one that all mailed-in renewal requests go to — had a warehouse full of the old, non-electronic passport jackets that they would need to use up before rolling out the RFID model.That’s good news in at least two respects, the less obvious one being that the government had avoided sending tens, maybe hundreds of thousands of perfectly useful passport jackets into the local landfill.The Agency representative couldn’t tell me how long their stock of radio-free passport jackets would last, but she speculated that they’d still be issuing them for at least a few weeks, and likely past the first of January. So, despite the fact that my old passport wouldn’t expire for four years, I sent in a renewal request two weeks ago.Today I got my new, radio-free passport in the mail. RFID hax0rz can kiss my analog butt, at least for 10 more years.If you want to avoid the frog-march of progress, start at the passport renewal page at the Dept. of State website. You’ll need a pair of passport photos; I recommend Fedex Kinko’s. Most offer Passport photo services. You’ll probably also want to pay the extra $60 for “expedited” processing, to jump your application to the head of the line.But you may want to call the Passport Agency first, because at this point your attempt to be one of the last people to get an old passport might lead to being one of the first to get a new one. Call 1-877-487-2778 and ask to speak to a passport agent.
+Tags: passport, rfid, tsaposted to channel: Privacyupdated: 2006-12-29 17:23:18
+Friday, April 21st, 2006
+junk mail from OneStepAhead
+Having a baby has done nothing to cure me of my mail-order lifestyle. In the past two years I’ve used the web to research — and purchase — hundreds of varieties of diapers, strollers, cribs, toys, and, as a new but somewhat aging father, hair-replacement products. We don’t order from companies that don’t have reasonable privacy policies. And we always opt out of list-sharing and affiliate solicitations at the time of the order.Nonetheless, recent weeks have brought a spate of unfamiliar catalogs pimping thousands of overwraught, battery-powered kid toys, e.g. the “John Deere® Real Sounds Lawn Mower.” Why? Why? Why?I always call. I always have my name removed from the mailing list. I always ask where they got my name in the first place — although unfortunately 90% of vendors are unable or unwilling to tell me; customer acquisition generally happens in a dark room staffed by marketing trolls who have had their tongues removed lest they divulge the sekrit source of potential future revenues.But today, a helpful operator at Sensational Beginnings revealed that they’d purchased my name and address from One Step Ahead, a catalog and website vendor we previously trusted. The privacy policy at OneStepAhead.com reads:We use third party companies to help us provide our products and services to you. Some of these companies are given access to some, or all, of the information you provide to us and may use cookies on our behalf. These companies are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available on our site. For more information, including how to opt out, please go to: http://www.coremetrics.com/info_eluminate2.html. Occasionally, we allow other carefully screened companies to mail their catalog to our customers’ physical addresses. If you do not wish to be included, please let us know by email at questions@onestepahead.com.What One Step Ahead doesn’t mention is that these “carefully screened companies” in turn sell OneStepAhead’s customers’ addresses too. This is not a temporary list rental, as the above policy implies.So, if you’ve purchased something from One Step Ahead, you’ll soon receive a few catalogs from the “carefully screened” companies One Step Ahead sold your address to. Then, a few months later, you’ll receive a few more catalogs from companies who purchased your name from the companies One Step Ahead sold your address to. “And they told two friends, and they told two friends, and they told two friends,” like the old shampoo commercial. You may not mind the full mailbox, but you might mind the waste: more dead trees, more toxic chemicals from paper bleaching, more heavy metal dyes from printing, more toxic truck exhaust from hauling extra weight to your mailbox, more glossy pages blowing around the local landfill. And for what? So OneStepAhead can make an extra ten cents from your account. Feh.Here’s a good deed for Earth Day: stop doing business with One Step Ahead.
+Tags: privacy, onestepahead, sensationalbeginnings, catalogs, mailorder, earthdayposted to channel: Privacyupdated: 2006-04-24 16:21:02
+Thursday, July 28th, 2005
+surveillance nation
+The EFF reports that color laser printer output contains trackable digital watermarks. I doubt this “feature” is listed on the outside of the box. (“New and improved! The government can identify every page you print!”)The EFF’s work follows a PC World article from last Fall, which had escaped my notice until now, perhaps because I’ve been busy composing notes of encouragement and support to your President by arranging letters cut from random magazines and gluing them onto scraps of paper rescued from the recycle basket at distant Kinko’s: Government Uses Color Laser Printer Technology to Track DocumentsSo until somebody slips tiny RFID molecules into my glue stick, I guess I’m still anonymous.
+Tags: posted to channel: Privacyupdated: 2005-07-29 21:53:35
+Wednesday, June 29th, 2005
+the illegal Pentagon database
+According to WorkingForCharge:Last month, the Pentagon announced that since 2002 it has secretly been compiling a database containing the personal information of tens of millions of Americans as young as 16 years of age. The database includes information such as Social Security numbers, height, weight, ethnicity, grade-point averages, e-mail addresses and phone numbers.The custody and maintenance of this database has been contracted out to a private firm named BeNow. BeNow has no privacy policy posted to its website, nor a privacy or security officer listed on its management team.The Defense Department now proposes a wide range of “routine uses” for this database, including disclosure of records contained in the database for functions wholly unrelated to recruitment. Although individuals can opt-out of recruitment solicitations, there is no way to opt-out of this enormous database as a whole.Compilation of this database is not only a spooky invasion of our families’ privacy, it’s also a violation of the law. The Federal Privacy Act requires that government agencies accept public comment before new records systems are created — a requirement that was blatantly ignored in this case.So, how long until this database gets compromised?All it will take is a stolen laptop, or a misplaced backup tape, or a dishonest employee, or a couple of identity thieves posing as real customers, and the next thing you know there will be another headline about a few million names and addresses and social security numbers being made available to the highest bidder.This sentence should make you nervous: “The custody and maintenance of this database has been contracted out to a private firm…” Love it or hate it, the military seems to be pretty good at maintaining security and keeping secrets. Sure, there are exceptions… but on the whole I have a lot less confidence in the ability of BeNow, a self-described “marketing services” company, to secure its assets.There’s some great information on the Privacy Act of 1974, and the BeNow database, at the Electronic Privacy Information Clearinghouse site.
+Tags: posted to channel: Privacyupdated: 2005-07-01 05:11:52
+Sunday, June 26th, 2005
+Opting out, redux
+A recent piece of Cingular junkmail contained something I’ve never seen before: an opt-out notice. In boxed, boldface type, on the front page of the letter, it declares:You can choose to stop receiving “prescreened” offers of credit from this and other companies by calling toll-free 1 (888) 567-8688. See PRESCREEN & OPT-OUT NOTICE on the other side for more information about prescreened offers.What would possess a multinational telecom firm that relies (at least in part) on buying personal contact information to send out unsolicited and generally unwanted junkmail offers, to allow its victims to request that they stop? I have no idea, but I approve.The telephone number belongs to the credit reporting agencies’ automated opt-out mechanism, which can also and probably more easily be accessed here: http://www.optoutprescreen.comThey’re now offering a lifetime opt-out. My fuzzy recollection is that in years past they offered only a 5-year term.In any case, as despicable as I find it that these folks trade my personal information like kids trade baseball cards, I’m grateful they allow me to opt out at all, even if I have to keep doing it for every imaginable variation of my name, my wife’s name, the previous residents’ names, etc.I’m also grateful that the junkmailers of the world have not yet discovered that we have a baby. (Sshhhh!)
+Tags: posted to channel: Privacyupdated: 2005-06-27 20:39:22
+Older 5 items(no newer entries)
+Search this site
+<
+December 2020
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Channels
+Conservation
+Automotive
+Recycling
+Solar Blog
+Music
+Drumming
+Food & Cooking
+Bread
+Photos
+Photoshop
+Gallery
+Privacy
+Travel
+Web
+Personal
+Colophon
+Media Reviews
+Movies
+Cookbooks
+Fiction
+Non-Fiction
+Misc.
+About Matt McGlynn
+About Debris.com
+Favorites
+Source
+JAR (MP3 music)
+Contact
+via email
+via web form
+Syndication
+Validation

@@ -1,0 +1,131 @@
+http://reliableanswers.com/privacy/
+Reliable Answers - News and Commentary
+Online Privacy
+Where did it go?
+Online Privacy | Microsoft Registry profile | Yahoo! ID exploit (*)
+Here you will find some privacy concerns of mine.
+There is absolutely *no warranty*, express or implied for any content on this site.
+Any files you download or any actions you perform after reading any of this site are
+*At Your Own Risk* and neither I (Shawn K. Hall) nor any site,
+business, or individual associated with me will be held responsible if it does not
+work as described or otherwise does not suit your needs.
+Microsoft "User Information": MSReg.asp - The sample
+demonstrates the exposure & availability of Microsoft's user information section for registered
+Microsoft software, which is stored in the registry, freely available to any application you run.
+Yahoo! 'YahooID' exposure: Yahoo.asp - any web site or HTML
+email message has the capacity to read your YahooID and with it any information stored within your
+Yahoo! profile or associated with it. Including email address (ie; spammer-owned websites won't have
+to ask for your email address - they've got it!) or
+DoubleClick - this company has advertisements on a *lot* of websites. They use beacons
+within the advertisements displayed to track the graphics that you see. This is 'borderline' behaviour
+in my opinion, because they enable you to OPT OUT. They
+claim that your 'unique identifier' will be overwritten when you opt out, however, this is NOT always
+the case. Other information is stored within the cookie that may be used to track you uniquely that
+though they say they will not does not demonstrate proper respect for privacy.
+...other 'opt-out' and online spam deterrent/avoidance links here: /R/?/Ref/Spam
+After you've 'opted out' of a site's program (like double-click) you should check your cookie value to
+verify that it has indeed been nullified. You can do that by using this script:
+javascript:if(document.cookie.length<1){alert('No cookie for this site.')}else{alert('Cookie for this site:'+document.cookie)}
+This script was obtained from www.bookmarklets.com.
+There's a *lot* more at the site if you found this one interesting. In order to use it save the link
+to your favorites somewhere (right click and "add shortcut to favorites" under IE). Then
+navigate to the site that you want to check and run the link. It will run in the current browsers
+context so it will determine the cookie for the current site. If you click it you'll see the cookie
+for this site, which shoud be some strange long number starting with "ASPSESSIONID" -
+that's because I'm running an IIS server and Active Server Pages.
+Here is a link to my site's privacy policy, in case you're worried.<g>
+Privacy
+Online Privacy
+MS Registry Profile
+Yahoo! Privacy Violation!
+Development
+Visual Basic
+Visual Basic Samples
+JavaScript Tools
+Content Type Database
+eXposed Services
+Editorials
+About RA
+Annette's Kitchen
+Edible News
+Non-GMO Shopping
+Spaetzle Maker Saga
+General Section Index
+Noteworthy News
+RA Tool Bar Tutorial
+Sex Offenders
+Homeschooling
+Find Support Groups
+Liberty's Kids
+Nationwide Resources
+Virtual Geography
+Wildlife Dissection
+Kidjacked
+Jacked UP Blog
+Family Rights News
+Legal Resources
+Medical
+Medical News
+Drug Safety
+Homemade Formula
+What is Laser Therapy?
+Soy Alert
+Patriot
+Freedom News
+RAnts of RA - Blog
+Retail Bandit
+Seasonal Archive
+Antarctica Wildlife
+Mountain Lion Country
+Twain Harte Times
+Features & Services
+Discussion Lists
+Document Services
+Employment
+Employment News
+ERU tutorial
+Freeware
+Privacy
+Virus Information
+Virus News
+Home Education
+What's New?
+Education News Beat
+Nationwide Resources
+Educational Research
+Homeschool Scuttle
+Legislation News
+Local Support Groups
+Medical Skills
+Virtual Geography
+Links / News
+Annette's Favorites
+Shawn's Favorites
+Edible News Issues
+Education News Beat
+Education Research
+Election 2016 News
+Employment News
+Family Rights News
+Freedom News
+General News
+Immunization News
+Legislation News
+Medical News
+Nature News
+Political News
+Security News
+Software Feed
+Technology News
+Twain Harte Times News
+Virus News
+Multimedia
+Children's Games
+My Music
+Project Dogwaffle
+Poetry / Lyrics
+Carschooling
+Your Ad Here?Contact our Marketing department for information about advertising on this domain.
+We invite youto visit:
+Reliable Answers.com/privacy
+© 1998-2020 Reliable Answers.comLast Updated: 6/24/2012PO Box 1306,Twain Harte, CA 95383(209) 565-12PDContact Webmaster

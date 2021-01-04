@@ -1,0 +1,432 @@
+http://www.foreignpolicy.com/2020/06/26/data-governance-privacy-surveillance-covid-ai-encryption-technology-internet-power-map/
+Power Maps
+By identifying key players, quantifying relative influence, and assessing the competitive landscape, FP Analytics breaks down complex foreign policy issues by mapping out spheres of influence and the risks and opportunities these topics present for Insiders. LEARN MORE
+Global Data Governance
+Part Two: Evolving Government Data Collection Practices
+PUBLISHED: June 26, 2020
+In Part I of FP Analytics' Data Governance Power Map, we detailed global issues concerning private-sector collection and use of personal data, catalogued emerging regulatory responses and data privacy laws, and broke down critical comprehensive data privacy legislation and global regulatory trends. However, data governance as it pertains to governments themselves is quite distinct. In Part II of this series, we explore evolving government data collection practices by cataloguing key regulations that expand government data collection authority and illustrating how a multibillion-dollar private surveillance industry is enhancing the sophistication of governments’ data collection across both the developed and developing world. Further, we explore how artificial intelligence (AI) is making government data collection more efficient and ubiquitous, and how the onset of the coronavirus is ushering in a new era of monitoring and surveillance.
+Read Executive Summary
+Thank you for your interest. Please enjoy the Executive Summary below.
+Power Maps are an exclusive benefit of the FP Insider subscription. For full access to Data Governance, contact us at insider@foreignpolicy.com.
+Executive Summary
+National governments are rapidly expanding their data collection capabilities, driven by domestic security interests, private industry, and new enabling technologies. Globally, nearly all governments are increasing their efforts to collect and access data by monitoring private citizens, gaining permission to use data collected by corporations, or gathering intelligence on foreign governments. This mass accumulation of data can have transformative impacts on societies, raising questions about what uses are, in fact, in the public’s interest.
+Many national governments have crafted exemptions to their data privacy laws, empowering them to build up massive data collection infrastructure. A recent wave of legislation to bypass encryption could radically enhance governments’ access to user data, while also weakening general data protections. To date, at least twenty-five countries have passed some form of legislation limiting encryption. This carries broad implications for businesses, organizations, and individuals by potentially exposing sensitive data to bad actors and infringing on civil liberties.
+Private industry plays a major role in the global build-up of governments’ data collection and monitoring capabilities, particularly in the developing world. Today, most nations possess similar data collection and monitoring capabilities, thanks to a multibillion-dollar data collection and surveillance industry. For the last two decades, British, American, French, and German companies have been the primary exporters of this technology to Middle East and African nations, but China and Japan have recently emerged as major global exporters as well—with advanced surveillance systems’ capabilities amplified by artificial intelligence.
+The outbreak and spread of COVID-19 have created an enabling environment for governments’ adoption of data collection and surveillance measures. Despite the potential for public health benefits, without adequate safeguards there is real potential for the pandemic to significantly expand the scope of data collection and surveillance measures long after the virus is contained. As legislation struggles to keep pace with unfolding events and technological innovations surrounding government data collection, nuanced understanding of current trends and explicit policy measures are critical for businesses to thrive in this increasingly complex environment.
+Part II of FP Analytics’ Data Governance Power Map series breaks down key issues surrounding government data collection by:
+Pinpointing evolving government data collection trends and cataloguing specific laws;
+Mapping encryption policies around the world;
+Charting the global sales of data collection and surveillance technology; and,
+Exploring the risks and implications for businesses and individuals.
+FP Analytics’ Data Governance Power Map provides one of the most comprehensive assessments and mapping of government data collection regulations and trends to date and is a tool for businesses and others seeking to understand how these evolving data governance trends are shaping our digital world.
+Subscribe to FP Insider below or contact us at insider@foreignpolicy.com for full access to Data Governance.
+PART ONE OF TWOEmerging Data Governance Practices
+PART TWO OF TWOEvolving Government Data Collection Practices
+Introduction
+Part 1: The Scope and Impacts of Government Data Collection
+Part 2: The Role of the Private Sector in Government Data Collection and Surveillance
+Part 3: Artificial Intelligence, the Coronavirus, and the Future of Data Governance
+Introduction
+Unlike the increasingly restrictive data privacy laws applied to private consumer-facing companies, such as Google and Baidu, governments largely benefit from a range of exceptions. In addition, at least thirty-eight countries have
+laws that allow governments notably more access to citizens’ and private companies’ data than private-sector actors are able to obtain. These expansive and increasing data collection capabilities carry wide-ranging implications for economic growth and social innovation in the digital age —from more efficient public works and smarter cities to breakthroughs in medicine and beyond. However, increased government access to data is also enabling widespread monitoring and surveillance capability—presenting myriad risks for privacy and civil liberties, with some tools being used for a range of political purposes, including the repression of minorities, silencing of opposition movements, and quelling of political dissent. While the harnessing and utilization of big data will undoubtedly drive future economic and social development, Part II of our Data Governance series focuses on the latter—issues that are exceptionally pressing given mounting concerns around privacy, policing, and governments’ consolidation of power around the world.
+Part 1
+The Scope and Impacts of Government Data Collection
+National governments are rapidly expanding their data collection capabilities, driven by a range of security concerns and policy objectives. Whether a national government sees international terrorism, domestic extremism, popular uprisings, or foreign powers as its primary threat (or threats), nearly all governments in the world are increasing their efforts to collect and access data by monitoring private citizens, gaining permission to use data collected by corporations, or gathering intelligence on foreign governments. The efforts are producing an integrated digital infrastructure enabling mass surveillance within and across borders.
+Key Takeaways
+The Issue
+Government data collection and monitoring capabilities are rapidly increasing beyond the scope of existing data privacy regulations. In some instances, governments can bypass laws pertaining to the collection and monitoring of data on individuals, and they can compel companies to share individuals' data.
+The Reaction
+To boost their data collection capacity, many governments are moving to limit or bypass encryption by establishing their legal authority to access encrypted data or end the practice completely. Banning or weakening encryption puts companies’ and individuals’ sensitive data at risk, enabling it to be accessed by governments and potential bad actors.
+What’s at Stake
+Since governments often include certain exclusions and exemptions in their own data privacy laws, companies and citizens are often unaware of the scope of data that is collected as well as how it accessed and used within a country, carrying implications for other nations’ national security, companies’ competitiveness, and civil liberties.
+The Breakdown
+Global Government Data Collection Laws and Surveillance
+Governments are seeking exemptions to domestic data privacy laws, and many are seeking to weaken or bypass encryption – one of the primary means of safeguarding sensitive data.
+GRAPHIC 1: Global Government Data Collection Laws
+GRAPHIC 2: Map of Global Encryption Policies
+Click to expand
+The range of legal and regulatory measures pertaining to data access, protection, and transfer within the country and beyond its borders create the contours of a country’s data governance regime. For individuals and organizations to protect their data and effectively navigate the global data governance landscape, understanding the measures governing both private company and government data collection is critical. Governments’ collection of citizens’ data is certainly nothing new, but technological developments over the last few decades have dramatically increased the scope and scale of this collection. Growing reservoirs of data are strengthening governments’ ability to make more informed, efficient, and strategic decisions across the board. However, the extent of data collection remains largely unknown and inaccessible to the public, and the proliferation of novel technologies enabling governments to collect an array of data raises questions regarding which applications are, in fact, in the public’s interest. Notably, mass-scale data collection is enabling the development of widespread surveillance technology and the corresponding investment of foundational infrastructure to operate the technology by governments throughout the world. Many governments now deploy highly effective surveillance infrastructure, and attempt to access data private companies hold on individuals through either formal requests or legal pressure. Increasingly, national governments are establishing the legal authority that exempts their government data collection practices from some of their own data privacy laws.
+In 2019, the U.S., along with other governments around the world, made 157,435 requests for user data from Google, more than double the 76,042 requests made in 2015. While, in the first half of 2019 alone, Facebook had a total of 128,617 requests to access user data, and Twitter had 7,300 from the U.S. government and others around the world. This increase mirrors the overall trend of governments seeking greater access to data held by private companies. Such access is enabled by legislation, notably China’s Cybersecurity Law. Early drafts of the law would have required companies to disclose source code for Chinese government review. However, after protests from the U.S. and other nations, this language was removed. The final version of the law contains modified, vague language granting the Chinese government the authority to access data held within its borders that it considers ‘relevant to national security.’ Further, the UK’s Investigatory Powers Act includes measures that weaken and circumvent the data protection practice of encryption, with other governments also pursuing means to access private company data held inside and outside its borders. If the country a company operates in weakens encryption standards through legislation, then operating within that country’s borders also puts the company’s data at heightened risk from outside attacks. When a government weakens encryption, companies that are conducting sensitive research, or holding valuable intellectual property, cannot guarantee that their data is secure from foreign governments while operating overseas. It also limits everyone’s ability to communicate privately.
+Technological advancements, such as real-time location tracking, voice analysis, and facial recognition, significantly enhance governments’ capacity to monitor the communications of entire groups, companies, and nations on a mass scale, posing new challenges for operating within certain countries and given data governance regimes. Reforms to government data collection laws over the past two decades are granting increased government access to data, and they often circumvent new or existing privacy legislation. This trend is occurring in democratic countries with relatively strong checks and balances, as well as non-democratic and authoritarian systems, thus increasing risks of doing business and potentially having a corrosive impact on civil liberties in both.
+Graphic 1
+Global Government Data Collection Laws
+Government data collection is regulated by different laws than those for private companies. Seven major components found in government data collection laws are catalogued for thirty-eight of the world’s largest economies below.
+DIG DEEPER: Explore FP Analytics’ Global Data Governance policy database that provides a comprehensive regional and country-level breakdown of global data governance practices in 111 countries worldwide.
+Filter by Government Data Collection Laws
+Select a law below to filter the country list below
+View all
+Intelligence services operate surveillance programs to protect national security
+Intelligence services are authorized to conduct surveillance for economic purposes
+Data subjects are notified of surveillance by intelligence services
+Data subjects have the right to court review of surveillance measures taken by intelligence services
+There have been public cases of national intelligence services violating surveillance laws
+Intelligence services can compel companies to provide access to data.
+Companies can challenge orders to provide personal data to law enforcement authorities
+Click + below to expand country laws
+Argentina
+Intelligence services operate surveillance programs to protect national security
+Data subjects have the right to court review surveillance measures taken by intelligence services
+There are public cases of national intelligence services violating surveillance laws
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+Australia
+Intelligence services operate surveillance programs to protect national security
+Data subjects have the right to court review surveillance measures taken by intelligence services
+There are public cases of national intelligence services violating surveillance laws
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+Austria
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+Brazil
+Intelligence services operate surveillance programs to protect national security
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Intelligence services can compel companies to provide access to data
+There are public cases of national intelligence services violating surveillance laws
+Companies can challenge orders to provide personal data to law enforcement authorities
+Canada
+Intelligence services operate surveillance programs to protect national security
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+Chile
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+China
+Intelligence services operate surveillance programs to protect national security
+Intelligence services are authorized to conduct surveillance for economic purposes
+Intelligence services can compel companies to provide access to data
+Colombia
+Intelligence services operate surveillance programs to protect national security
+There are public cases of national intelligence services violating surveillance laws
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+Czech Republic
+Intelligence services operate surveillance programs to protect national security
+Intelligence services are authorized to conduct surveillance for economic purposes
+Data subjects are notified of surveillance by intelligence services
+Intelligence services can compel companies to provide access to data
+Denmark
+Intelligence services operate surveillance programs to protect national security
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Companies can challenge orders to provide personal data to law enforcement authorities
+Intelligence services can compel companies to provide access to data
+Finland
+Intelligence services operate surveillance programs to protect national security
+Data subjects are notified of surveillance by intelligence services
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+France
+Intelligence services operate surveillance programs to protect national security
+Intelligence services are authorized to conduct surveillance for economic purposes
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Intelligence services can compel companies to provide access to data
+There are public cases of national intelligence services violating surveillance laws
+Companies can challenge orders to provide personal data to law enforcement authorities
+Germany
+Intelligence services operate surveillance programs to protect national security
+Intelligence services are authorized to conduct surveillance for economic purposes
+Data subjects are notified of surveillance by intelligence services
+Data subjects have the right to court review surveillance measures taken by intelligence services
+There are public cases of national intelligence services violating surveillance laws
+Intelligence services can compel companies to provide access to data
+Hungary
+Intelligence services operate surveillance programs to protect national security
+There are public cases of national intelligence services violating surveillance laws
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+India
+Intelligence services operate surveillance programs to protect national security
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Companies can challenge orders to provide personal data to law enforcement authorities
+Intelligence services can compel companies to provide access to data
+There are public cases of national intelligence services violating surveillance laws
+Indonesia
+Intelligence services operate surveillance programs to protect national security
+Intelligence services are authorized to conduct surveillance for economic purposes
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Intelligence services can compel companies to provide access to data
+Ireland
+Intelligence services operate surveillance programs to protect national security
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Intelligence services can compel companies to provide access to data
+There are public cases of national intelligence services violating surveillance laws
+Israel
+Intelligence services operate surveillance programs to protect national security
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Companies can challenge orders to provide personal data to law enforcement authorities
+Intelligence services can compel companies to provide access to data
+Italy
+Intelligence services operate surveillance programs to protect national security
+Intelligence services are authorized to conduct surveillance for economic purposes
+Intelligence services can compel companies to provide access to data
+Japan
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+Luxembourg
+Intelligence services are authorized to conduct surveillance for economic purposes
+There are public cases of national intelligence services violating surveillance laws
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+Malaysia
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+Mexico
+Intelligence services operate surveillance programs to protect national security
+Intelligence services are authorized to conduct surveillance for economic purposes
+Data subjects have the right to court review surveillance measures taken by intelligence services
+There are public cases of national intelligence services violating surveillance laws
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+Norway
+Intelligence services operate surveillance programs to protect national security
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Intelligence services can compel companies to provide access to data
+There are public cases of national intelligence services violating surveillance laws
+Companies can challenge orders to provide personal data to law enforcement authorities
+Paraguay
+Intelligence services operate surveillance programs to protect national security
+Intelligence services can compel companies to provide access to data
+Peru
+Intelligence services operate surveillance programs to protect national security
+There are public cases of national intelligence services violating surveillance laws
+Intelligence services can compel companies to provide access to data
+Portugal
+Data subjects are notified of surveillance by intelligence services
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Companies can challenge orders to provide personal data to law enforcement authorities
+Intelligence services can compel companies to provide access to data
+There are public cases of national intelligence services violating surveillance laws
+Russia
+Companies can challenge orders to provide personal data to law enforcement authorities
+Intelligence services are authorized to conduct surveillance for economic purposes
+Data subjects have the right to court review surveillance measures taken by intelligence services
+There are public cases of national intelligence services violating surveillance laws
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+Singapore
+Intelligence services operate surveillance programs to protect national security
+Intelligence services can compel companies to provide access to data
+South Africa
+Intelligence services operate surveillance programs to protect national security
+Data subjects have the right to court review surveillance measures taken by intelligence services
+There are public cases of national intelligence services violating surveillance laws
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+South Korea
+Intelligence services operate surveillance programs to protect national security
+Intelligence services are authorized to conduct surveillance for economic purposes
+Data subjects are notified of surveillance by intelligence services
+Intelligence services can compel companies to provide access to data
+There are public cases of national intelligence services violating surveillance laws
+Spain
+Intelligence services operate surveillance programs to protect national security
+Intelligence services are authorized to conduct surveillance for economic purposes
+There are public cases of national intelligence services violating surveillance laws
+Companies can challenge orders to provide personal data to law enforcement authorities
+Intelligence services can compel companies to provide access to data
+Taiwan
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+Thailand
+Intelligence services operate surveillance programs to protect national security
+Intelligence services are authorized to conduct surveillance for economic purposes
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Intelligence services can compel companies to provide access to data
+Companies can challenge orders to provide personal data to law enforcement authorities
+Turkey
+Intelligence services operate surveillance programs to protect national security
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Companies can challenge orders to provide personal data to law enforcement authorities
+Intelligence services can compel companies to provide access to data
+United Kingdom
+Intelligence services operate surveillance programs to protect national security
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Intelligence services can compel companies to provide access to data
+There are public cases of national intelligence services violating surveillance laws
+United States
+Intelligence services operate surveillance programs to protect national security
+Data subjects have the right to court review surveillance measures taken by intelligence services
+Companies can challenge orders to provide personal data to law enforcement authorities
+Intelligence services can compel companies to provide access to data
+There are public cases of national intelligence services violating surveillance laws
+Vietnam
+Intelligence services operate surveillance programs to protect national security
+Intelligence services are authorized to conduct surveillance for economic purposes
+Intelligence services can compel companies to provide access to data
+SOURCE: Baker McKenzie – Global Surveillance Law Comparison
+Increasing Government Access to Data Through Weakening and Bypassing Encryption
+A wave of legislation to bypass encryption could radically enhance governments’ access to user data. Defined simply, encryption is a commonly used method of encoding communications (or information or data) so that only the intended recipient can read or understand them. Encryption can be used to secure data stored on devices, to send data between devices (known as “end-to-end encryption”), or to store data remotely. It is essential to securing banking and e-commerce transactions and to preventing unauthorized access to companies’ proprietary data and intellectual property. For most businesses and individuals, the use of encryption is the cheapest and easiest means of securing data and is commonly used for personal data storage and on messaging applications such as WhatsApp. However, government concerns over malevolent and criminal activity may diminish or dismantle these key protections. Several national governments are establishing legal workarounds with potentially harmful, unintended consequences.
+Efforts to end encryption have been steadily mounting over time. In 1993, Colombia banned mobile communications encryption, and in 2011, Pakistan prohibited all Internet service providers and mobile phone companies from allowing users to send encrypted information. Twenty-five countries have already enacted measures that weaken encryption standards. China, Russia, and Australia have all effectively banned encryption by mandating government backdoors to encrypted communications, while Pakistan has banned encryption outright. In 2016, Russia passed the Yarovaya Law, an anti-terrorism measure mandating that Internet firms provide backdoor access to encrypted communications for the FSB (the Russian intelligence agency and successor to the KGB). In 2019, China passed a similar encryption law (the Cryptography Law of the People’s Republic of China), which places further restrictions on encryption in addition to the mandated government access to encrypted data that already existed under the Cybersecurity Law. This trend is also reflected in Western countries, with measures in the UK’s 2016 Investigatory Powers Act and Australia’s 2018 Assistance and Access Act already in place to weaken encryption standards by mandating government backdoors. The U.S. is seeking to enact similar legislation, with the U.S. EARN IT Act of 2020, currently being debated in Congress.
+While defense interests are largely advancing these measures in the interest of national security, weakening or dismantling the ability to encrypt messages and stored data carries broad implications for businesses, organizations, and individuals by potentially exposing sensitive data to bad actors, thus enabling surveillance or infringement of civil liberties. As the map below shows, there are currently no countries that support the general right to encryption without any additional restrictions or ways for governments to access encrypted data.
+Graphic 2
+Map of Global Encryption Policies
+Governments around the world are enacting a range of policies to limit or weaken encryption. They can set limits on the strength of encryption, require licensing for encryption use, ban the export or import of encryption technologies, and legally mandate that companies or individuals turn over encryption data to authorities. The countries that have implemented these measures are mapped below.
+Encryption Levels
+Click titles below to change encryption level
+General right to encryption
+Mandatory minimum or maximum encryption strength
+Licensing/registration requirements
+Import/export controls
+Obligations on providers to assist authorities
+Obligations on individuals to assist authorities
+Other restrictions
+SOURCE: Global Partners Digital – World Map of Encryption Policies
+DIG DEEPER: Explore FP Analytics’ Global Data Governance policy database that provides a comprehensive regional and country-level breakdown of global data governance practices in 111 countries worldwide.
+Part 2
+The Role of the Private Sector in Government Data Collection and Surveillance
+Governments’ exceptions to data privacy laws are further enabled by a well-established, but relatively unknown, surveillance industry in the U.S., the UK, France, Germany, and Israel that is exporting data collection technology, which can be used to enable surveillance in the rest of the world. Sophisticated data collection software and equipment developed by private companies and sold to governments (foreign and domestic) is enabling officials to circumvent data privacy laws that apply to companies and other groups. The utilization of these services is effectively allowing governments unregulated access to data beyond what private companies are permitted to collect.
+Key Takeaways
+The Issue
+Global mass surveillance infrastructure is enabled by an opaque multibillion-dollar surveillance industry that supplies surveillance technology platforms to governments around the world. Eighty-seven percent of suppliers are located in OECD countries. While there is a market globally, the technology is predominantly sold to governments in the developing world, with the Middle East and Africa being the largest importing regions.
+The Reaction
+The private surveillance industry is able to sidestep data privacy regulations by selling underlying surveillance technologies directly to governments. By not operating the technology and merely selling the tools, these companies are not subjected to the data privacy laws that apply to companies such as Google and Baidu. This industry is largely self-regulated, with minimal restrictions such as those imposed by sanctions or trade controls.
+What’s at Stake
+The unregulated sale of data collection technologies to governments of developing countries has been used to strengthen existing autocratic regimes in Africa, the Middle East, and Southeast Asia, while simultaneously boosting data collection capabilities elsewhere around the world. Notably, this industry is a key contributor to the rapid improvement in data collection capabilities throughout the developing world.
+The Breakdown
+The Private Surveillance Industry Drives the Global Increase in Government Data Access
+The multibillion-dollar private surveillance industry is playing a major role in the global build-up of governments’ data collection and monitoring capabilities.
+GRAPHIC 3: Types of Surveillance Technology
+GRAPHIC 4: Number of Monitoring and Surveillance Companies Created Each Year
+GRAPHIC 5: Global Monitoring and Surveillance Technology Sales
+Click to expand
+In the 1970s, more developed nations generally held an edge in their data collection and surveillance capabilities, due to their increased technological capabilities. However, in the decades since then, this gap has been rapidly shrinking. Today, most nations possess similar data collection and monitoring capabilities, thanks to a multibillion-dollar private industry that sells data collection and surveillance technology to governments all around the world. These technologies are developed in a handful of developed countries—predominantly the U.S., the UK, France, Germany, and Israel (and, more recently, China and Japan)—and exported to the developing world, with the Middle East and Africa being the largest importing regions, as noted above. Throughout the Cold War, these industries developed and sold prevailing data collection technology, such as wiretaps and audio-monitoring equipment, but are now harnessing location and Internet monitoring, biometric tracking and other sophisticated data analysis tools. The industry remains largely opaque, but some key events have given new insight into the industry.
+In December of 2010, as the Arab Spring swept across North Africa and the Middle East, the public became aware of the data collection and surveillance infrastructure being used by regimes within the region. Governments across the region were using a wide array of sophisticated data collection tools to monitor their populations, including Internet- and phone-monitoring technologies—many of which were developed and manufactured by private European and U.S. firms. In some cases, governments repurposed the technology they had purchased. This was the case with McAfee software, which is sold as an Internet security platform in the U.S. but was used for mass Internet censorship in the United Arab Emirates. These platforms have been connected to incidents of human rights abuses and political oppression, including individuals having their personal communications read to them while being tortured in Bahrain and opposition activists’ communications infiltrated and monitored in Ecuador. Such incidents are not limited to a few developing countries. In 2013, the whistleblower Edward Snowden leaked documents detailing the extent of surveillance activities of the U.S. and allies, revealing the widespread use of this type of data collection infrastructure for mass surveillance.
+Graphic 3
+Types of Monitoring and Surveillance Technology
+The private surveillance industry is responsible for manufacturing and selling a range of data collection and monitoring technologies that are in use around us every day.
+Click + below to expand
+Audio Surveillance
+Can range from simple uses such as recording and transmitting audio, to more sophisticated techniques such as comparing voice samples to identify speakers. For example, militaries worldwide have deployed acoustic vector systems developed by Microflown Technologies that can pinpoint the sound of a gunshot or a drone, or pick out and record one specific conversation in a crowd.
+Video Surveillance
+When combined with artificial intelligence technology, cameras can employ facial recognition and can be used to track citizens in real time. In Nairobi, a Huawei smart city system deploys 1,800 HD cameras and 200 HD traffic surveillance systems.
+Phone Monitoring
+Phone monitoring can be used to listen in on conversations in real time, as well as track the location of the caller. Phone monitoring technology developed by the Israeli company the NSO Group was infamously used by the Saudi government to monitor the recordings of slain journalist Jamal Khashoggi.
+Location Monitoring
+Location can be monitored through cellphone and Bluetooth signals and from GPS devices. Location monitoring is being used extensively by governments during the COVID-19 pandemic. The location data sent from cellphones is currently in use for contact-tracing apps, enforcing quarantines, data analytics to track people’s movement patterns, and hot-spot mapping, which uses location data to send public health warnings to people in areas with higher risks of infection.
+Internet Monitoring
+Gathers information from ISPs. Internet monitoring is popular for both governments and private-sector actors. For example, the company Veriato makes Internet monitoring equipment that can be used to track employees’ online activity within large companies.
+Monitoring Center
+Combines surveillance technologies into one integrated suite. For example, in 2014, Colombia launched its “Platform for Unified Monitoring and Analysis,” a monitoring center that allows authorities to monitor both telecommunications and IP traffic in one place, enabling them to actively monitor a total of 20,000 means of telecommunications.
+Forensics & Analysis
+Can extract and visualize device data when attached to an external device. This technology is usually sold in software packages that allow large data sets to be analyzed for patterns and relationships. In 2018, the FBI used forensic analysis of log data from servers and other networking tools to determine that an Apple engineer, Xiaolang Zhang, was stealing trade secrets. The data forensics and analysis software enabled the FBI to build a case, and Xiaolang Zhang was convicted of theft.
+Intrusion
+Remotely installed on devices to extract data or control functions, the most common form of intrusion technology is commercial spyware. NSO’s Pegasus, for example, allows an operator to surreptitiously activate a target’s phone camera and microphone, turning the device into a ready-to-deploy monitoring and recording device.
+Biometrics
+Identifies individuals based on physiological or behavioral characteristics. The most common use of biometric software is facial recognition. For example, CLEAR, uses iris and fingerprint data to identify airline passengers, allowing them to pass through airport security checkpoints.
+Counter-surveillance
+Technology to detect and counter surveillance measures. This can come in the form of installable software or services that physically sweep locations to monitor for bugs. For example, the company TSCM America conducts comprehensive sweeps of C-suite meeting rooms and government offices to detect potential telecommunications bugging, cellular based bugging, concealed video cameras, or audio devices.
+Equipment
+Vehicles in which surveillance technology can be installed, usually used to closely monitor specific surveillance targets and not general populations. Since 2001, drones have been one of the preferred forms of government surveillance equipment. The U.S. government uses drone surveillance to enforce the U.S.-Mexico border, but as of 2018 drones had led to only 0.5 percent of border apprehensions, at a cost of $32,000 per arrest.
+SOURCE: Privacy International – The Global Surveillance Industry
+Graphic 4
+Number of Monitoring and Surveillance Companies Created Each Year
+Since the late 1970s, there has been uneven, yet significant, growth in the number of private surveillance companies created each year.
+SOURCE: Privacy International – The Global Surveillance Industry
+How Loose Regulation and Lack of Transparency Benefit the Global Surveillance Industry
+The full extent to which national governments and the private surveillance industry collaborate is impossible to quantify, given governments’ lack of disclosure. However, data on the sales and exports of data collection and surveillance technology provides some insight. Recent data shows 152 imports into North Africa and the Middle East, and a total of 528 different companies currently in operation. These companies are overwhelmingly based in developed economies, with 87 percent of suppliers based in Organisation for Economic Co-operation and Development (OECD) states. Of the 528 companies, 75 percent have their headquarters within North Atlantic Treaty Organization (NATO) states. Conversely, the countries importing the largest volume of technologies are all in the developing world. Overall, government data collection capability is outpacing privacy legislation, to which most governments have crafted exemptions, and is empowering states across all regimes to build up massive data collection infrastructure.
+This growth in data collection and surveillance capabilities is going largely unregulated, with the private surveillance industry largely avoiding regulation and public disclosure by transacting directly with governments. To date, a handful of EU states have attempted to reign in this industry through sanctions, trade controls, and of legal amendments. In 2012, for example, the EU embargoed the transfer of surveillance technologies as part of “Restrictive Measures” against Syria and Iran. In May of 2015, the Swiss Federal Council added an amendment to its export regulations to compel export control authorities to deny all license applications for Internet- and phone-monitoring technology if there is “a reason to believe” that the export may be used “as a means of repression.” Three months later, Germany unilaterally announced a federal amendment to its laws seeking “to stop the use of [surveillance] technology for internal repression in countries of destination.” That was five years ago. While these regulatory efforts are slowly gaining traction, they haven’t significantly slowed the spread of data collection and surveillance equipment throughout the developing world.
+Graphic 5
+Global Monitoring and Surveillance Technology Sales
+Data collection and monitoring technology has predominantly originated from the U.S., the EU, and Israel and has been sold to governments across North Africa and the Middle East. Some of the largest exporters and importers of these technologies are below.*
+*Data compiled from publicly available reports on sales as of 2016–2017. Total quantity of sales remains unknown as most information on this industry is not made public.
+Imports
+Number of purchases
+Exports
+Sales in billions of dollars
+SOURCE: Privacy International – The Global Surveillance Industry
+Part 3
+Artificial Intelligence, the Coronavirus, and the Future of Data Governance
+While data collection technologies have been steadily evolving, artificial intelligence (AI) technologies are making data collection and processing exponentially more effective and are enabling the collection of new types of data through facial recognition software, geo-locating applications and sensors, and predictive algorithms. These technologies are revolutionizing the way, and the degree to which, governments and private companies can access data.
+Key Takeaways
+The Issue
+Artificial intelligence (AI) technology is making the global surveillance industry significantly more effective. Chinese and U.S. companies lead the world in exporting global AI surveillance technology, including facial recognition, predictive policing, and sensors enabling 24/7 monitoring of digital and physical infrastructure as well as public spaces, which are currently in use across seventy-five countries.
+The Reaction
+The coronavirus pandemic is accelerating AI’s use for data collection and population monitoring. Pandemic-related public health concerns are expanding global demand for AI-based applications that are able to track and collect citizens’ information, while governments are simultaneously putting laws in place limiting privacy.
+What’s at Stake
+The coronavirus pandemic is quickening the adoption rate of new AI-driven technologies, heightening concerns over user privacy and lack of legislative safeguards. While AI technologies and applications are helping to tackle the coronavirus, they are also increasing companies’ and governments’ access to sensitive biometric and location data. Without oversight and robust safeguards in place, unrestricted access to this data could continue long after the virus is controlled.
+The Breakdown
+AI’s Role in Augmenting Global Government Data Collection
+Artificial intelligence and the spread of COVID-19 are accelerating government data collection capabilities, making them both more effective and widespread.
+GRAPHIC 6: Global Sales of AI Monitoring and Surveillance Technology
+GRAPHIC 7: Industry Leaders in Global AI Surveillance Technology Sales
+GRAPHIC 8: Increased Data Collection and Monitoring due to COVID-19
+Click to expand
+The private surveillance industry has largely contributed to the spread of sophisticated data collection technology, and the recent application of AI-driven technology to data collection technologies is making them significantly more efficient and effective. These powerful technologies are currently being adopted across industry and government, from stock exchanges to smart energy metering. However, a growing number of states are deploying advanced AI data collection tools to boost surveillance efforts and to monitor, track, and surveil citizens to accomplish a range of policy and political objectives.
+While AI is used for a wide range of data collection, monitoring, and analysis activities, there are three main types of comprehensive data collection and surveillance systems quickly proliferating around the world. “Smart city” platforms are among the most common. In addition to improving resource allocation, reducing traffic congestion, and boosting energy efficiency, these systems are also drastically increasing surveillance capabilities in urban spaces. Using an interconnected system of cameras and sensors to actively monitor activity across cities, facial recognition systems compile citizens’ images into a database, thus
+enabling officials to use it to identify and locate citizens through facial images, and smart policing systems use predictive algorithms to calculate where crime is most likely to occur and then concentrate a greater number of law enforcement officers in those areas. At least seventy-five countries globally have been documented using one or more of these AI systems, with fifty-six countries deploying “smart city” platforms, sixty-four countries using facial recognition, and fifty-two countries using predictive policing.
+Similar to technologies supplied through the private surveillance industry, AI-driven monitoring technology is primarily produced in a handful of countries and then exported to the rest of the world. China is the world’s largest supplier of AI data collection and surveillance technology. AI-monitoring technology linked to Chinese companies is in at least sixty-three countries worldwide, with Huawei alone responsible for providing AI-based surveillance technology to at least fifty countries. The next largest non-Chinese supplier of AI surveillance technology is Japan’s NEC Corporation, whose technology is present in fourteen countries. France, Germany, Japan, and the United States are major exporters of AI technology in this sector as well. U.S.-based companies are the second-largest providers. AI data collection and surveillance technology developed in the U.S. is present in thirty-two countries. Despite having some public benefits, the rapid proliferation of this technology and its use in citizen surveillance and monitoring is also enabling ethnic and racial profiling, including the well-documented utilization of AI-surveillance technology by Chinese authorities to profile and track the ethnic minority Uighurs in Xianjing. These powerful tools are also imperfect; they have misidentified individuals with serious ramifications. The risks of these technologies’ misuse have come to the fore in the wake of George Floyd’s murder and amplified concerns over racial profiling in policing, with technology giants such as IBM raising the alarm and calling on the U.S. Congress for a national dialogue on the responsible use of technology in policing. On June 10, 2020, Amazon put a one-year pause on the sale of facial recognition software to police departments, stating that it hoped the moratorium would give Congress enough time to put in place appropriate rules.
+Graphic 6
+Global Sales of AI Data Collection and Monitoring Technology
+AI data collection and monitoring technology is currently in use in seventy-five countries. The type of technology in use and its country of origin are mapped below.
+Type of Technology
+Click titles below to change technology type
+Smart City
+Facial Recognition
+Predictive Policing
+Country of Origin
+Click titles below to change country of origin
+Chinese Technology
+U.S. Technology
+Japanese Technology
+SOURCE: Carnegie Endowment – AI Global Surveillance Index
+Graphic 7
+Industry Leaders in Global AI Data Collection and Monitoring Technology Sales
+Huawei leads in AI surveillance technology sales, but both the U.S. and China are home to three leading AI surveillance companies.
+SOURCE: Carnegie Endowment – AI Global Surveillance Index
+The Coronavirus Pandemic Is Accelerating the Adoption of AI use for Government Data Collection
+The outbreak and continued spread of COVID-19 is accelerating governments’ adoption of data collection and surveillance measures, highlighting how such technology can be leveraged in the public’s interest. Those with infrastructure already in place have deployed it to mitigate the spread of the virus. China has used drones to monitor the quarantined, while countries such as Taiwan, Israel, South Korea, and Singapore have slowed the spread of the virus by using a combination of location data, video camera footage, and credit card information to track infected citizens. AI-based technologies are enhancing contact-tracing and location-tracking capabilities and enabling the collection of biometric information on citizens. The technology has proven to be a powerful tool for containing the virus’s spread, but, due to the current public health emergency, many of these technologies are being adopted at a faster pace and without public input, regulatory oversight, or implementation of legal safeguards, such as sunset clauses or data-anonymization measures.
+Since the outbreak of COVID-19, at least thirty-four countries have implemented some form of increased surveillance measures, with the most common measures being state access to cellphone data (used in twenty-eight countries), or downloadable contact-tracing apps (used in thirty countries). Current data on COVID-19 is inconclusive as to whether surveillance measures have been the most fruitful method to combat the spread of the disease. Some of the best-performing countries, in terms of containing the spread of the disease and limiting the death toll, have used extensive tracking and surveillance measures, such as South Korea and Taiwan. While other leaders, such as New Zealand - did not use extensive surveillance, instead relying on early action, strict lockdown policies, and expansive testing. Most notably, the country with the most success combating the coronavirus and the least reported deaths as of this publishing, Vietnam relied mostly on human intelligence-gathering networks and extensive police enforcement of lockdowns.
+Despite the mixed success of surveillance measures, without adequate safeguards there is real potential for the coronavirus outbreak to permanently increase data collection and surveillance infrastructure long after the virus is contained. Some countries have committed to ceasing surveillance measures after the pandemic (however, without explicit legal guarantees), such as South Korea, or anonymizing the data they collect, such as Austria. Other countries have written explicit sunset clauses into the COVID-19 legislation they have passed, such as the UK and France. However, many countries have implemented extensive surveillance measures without any safeguards in place, such as Russia and India. Additionally, a number of governments have outsourced varying degrees of their COVID-19 response to the private sector, particularly for the development of tracing apps. This raises additional privacy concerns, as private companies are now collecting and holding citizens’ sensitive health information, which under other circumstances users would likely be more reticent to share. Brazil, for example, collaborates extensively with private start-up firms to track citizens’ movements, and Apple and Google have developed contact-tracing technology that is currently being released in twenty-three countries. While sunset clauses can serve as safeguards against current surveillance measures becoming permanent, they are far from a guarantee. The USA Patriot Act, which significantly expanded the data collection and monitoring capabilities of the federal government, has a sunset clause originally for February 2006, but as of today the law is still in effect.
+The urgency of COVID-19 containment may help to normalize the adoption of data collection and monitoring technologies. South Korea’s coronavirus contact-tracing app was the sixth most downloaded app in the country. Sentiment in Germany, which has some of the strictest data privacy laws in the world, seems to be changing; by April of 2020 over half the population was in favor of using cellphone data to track the spread of COVID-19, despite public outcry when the idea was originally pitched a month earlier. The longer the pandemic persists, the more likely it is that increased government data collection and monitoring will be accepted. While these practices provide a valuable resource to help fight the pandemic, the current environment risks accelerating the most troublesome surveillance trends.
+Graphic 8
+Increased Data Collection and Monitoring due to COVID-19
+Cell-phone carrier data access and downloadable contact-tracing apps represent the two primary ways in which governments have worked with companies to increase surveillance during the pandemic. The countries putting these measures in place are mapped below.
+SOURCES: Privacy International – Telecommunication Data and COVID-19, Privacy International – Apps and COVID-19
+DIG DEEPER: Explore FP Analytics’ Global Data Governance policy database that provides a comprehensive regional and country-level breakdown of global data governance practices in 111 countries worldwide.
+Looking Ahead
+Both governments and private companies are rapidly expanding their data collection capabilities, unleashing potential for transformative public benefits and more concerning impacts on civil liberties. In Part I of our series, Emerging Data Governance Practices, we chronicled how private-sector data collection methods have faced recent public backlash, resulting in the widespread adoption of data privacy laws and data localization measures. Though the proliferation of regulations is restricting companies’ and organizations’ access to user data (and increasing operational costs), it are not imposing similar limits on governments, many of which are moving to expand their legal authority to collect data and monitor citizens’ activities through legislation aimed at limiting or ending encryption. These efforts are being further enabled by the private surveillance industry, new developments in AI technology, and the COVID-19 pandemic. Together, these forces are shaping data governance regimes globally, carrying immense implications for accessing, monetizing, and analyzing data in the digital age.
+While many monitoring technologies have transformational potential for society, to date, the lack of government accountability, and limited ability of the public, the private sector, or research institutions to access this data remains controversial, thus underscoring the need for multi-stakeholder engagement on, and development of, legal frameworks ensuring greater transparency and accountability. Open-government data legislation, such as the U.S.’s Open Government Data Act, which gives the public access to “non-sensitive” government data, is one effort that could help ensure that data is used responsibly and for public benefit. Such legislation allows private companies, research institutions, and other organizations or individuals to benefit from government data on matters such as weather, traffic, the census, and national budgets.
+International efforts are also underway. To date, over 100 governments and global experts have signed on to the International Open Data Charter, a collaborative effort to make government data more accessible to the public. In 2017 (the latest year full data sets are available), there were ninety-four countries that shared at least some data from government databases. But that was three years ago, and a wide disparity still exists as Taiwan, for example, shared 90 percent of the data it collects, while Myanmar shared only 1 percent. While there is still significant work to be done, the push toward open data holds promise to move government data collection more in the direction of public benefit. As the digitization of the global economy continues, it will require continual efforts by all stakeholders to ensure that its full potential is realized.
+EXPLORE FP ANALYTICS’ GLOBAL DATA GOVERNANCE POLICY DATABASE
+Written by Christian Perez. Edited by Allison Carlson. Copyedited by David Johnstone. Design by Andrew Baughman and Jon Benedict. Development by Andrew Baughman. Art direction by Lori Kelley. Graphics by Remie Geoffroi for Foreign Policy.
+Learn more about how FP Analytics can enable your organization to act strategically through data-driven insights at ForeignPolicy.com/FP-Analytics.
+[ related articles heading here ]:
+References
+Australia data encryption laws explained. (2018, December 7). Retrieved June 3, 2020, from https://www.bbc.com/news/world-australia-46463029
+Bajak, F., & Satter, R. (2015, August 7). Correction: Ecuador-Hacking the Opposition story. Retrieved May 27, 2020, from https://apnews.com/6f41d49888174b45857d34511fda1caf/apnewsbreak-email-leak-suggests-ecuador-spied-opposition
+Buchanan, B. (2019, October 6). Bypassing encryption: 'Lawful hacking' is the next frontier of law enforcement technology. Retrieved May 28, 2020, from https://theconversation.com/bypassing-encryption-lawful-hacking-is-the-next-frontier-of-law-enforcement-technology-74122
+Chin, J., & Dou, E. (2016, November 07). China's New Cybersecurity Law Rattles Foreign Tech Firms. Retrieved June 25, 2020, from https://www.wsj.com/articles/china-approves-cybersecurity-law-1478491064
+Eggers, W. (n.d.). Ai-Augmented Government (pp. 1–28). Deloitte.
+Gönen, S. (2020, April 24). Digital surveillance gains increasing popularity worldwide. Retrieved June 2, 2020, from https://www.dailysabah.com/world/europe/digital-surveillance-gains-increasing-popularity-worldwide
+Hengesbaugh, B. (2019, July 16). A Short Guide to Global Data Privacy & Security Regulation and Enforcement: Insight: Baker McKenzie. Retrieved May 27, 2020, from https://www.bakermckenzie.com/en/insight/publications/2019/07/global-data-privacy-and-enforcement
+Hollingsworth, J. (2020, April 28). New Zealand says it has 'eliminated' the virus. Here's how the country did it. Retrieved May 29, 2020, from https://www.cnn.com/2020/04/28/asia/new-zealand-coronavirus-outbreak-elimination-intl-hnk/index.html
+Hosein, G., & Nyst, C. (n.d.). Aiding Surveillance (pp. 1–77). London: Privacy International.
+Hruska, J. (2018, December 10). Australia Becomes First Western Nation to Ban Secure Encryption. Retrieved June 2, 2020, from https://www.extremetech.com/internet/281991-australia-becomes-first-western-nation-to-ban-secure-encryption
+IBM quits facial-recognition market over police racial-profiling concerns. (2020, June 9). Retrieved June 8, 2020, from https://www.theguardian.com/technology/2020/jun/09/ibm-quits-facial-recognition-market-over-law-enforcement-concerns
+Kareem Fahim, M.J.K. (2020, May 2). Cellphone monitoring is spreading with the coronavirus. So is an uneasy tolerance of surveillance. Retrieved May 25, 2020, from https://www.washingtonpost.com/world/cellphone-monitoring-is-spreading-with-the-coronavirus-so-is-an-uneasy-tolerance-of-surveillance/2020/05/02/56f14466-7b55-11ea-a311-adb1344719a9_story.html
+Karsten, J., & West, D. M. (2016, July 29). A brief history of U.S. encryption policy. Retrieved May 22, 2020, from https://www.brookings.edu/blog/techtank/2016/04/19/a-brief-history-of-u-s-encryption-policy/
+Lin, L., & Martin, T. W. (2020, April 15). How Coronavirus Is Eroding Privacy. Retrieved June 2, 2020, from https://www.wsj.com/articles/coronavirus-paves-way-for-new-age-of-digital-surveillance-11586963028
+Luo, Y., Carlson, E., & Yu, Z. (2019, October 31). China Enacts Encryption Law. Retrieved May 25, 2020, from https://www.insideprivacy.com/data-security/china-enacts-encryption-law/
+Maddern, K. (2020, March 17). 'Blind over-reliance' on AI technology to manage international migration could lead to serious breaches of human rights. Retrieved May 25, 2020, from https://www.eurekalert.org/pub_releases/2020-03/uoe-oo031720.php
+Martineau, M. (2019, February 5). It's Official: The OPEN Government Data Act is Now the Law of the Land. Retrieved June 4, 2020, from http://blog.cleargov.com/2019/02/05/its-official-the-open-government-data-act-is-now-the-law-of-the-land/
+Molloy, S. (2020, May 11). COVID-19, Emergency Legislation and Sunset Clauses. Retrieved May 28, 2020, from https://www.politicalsettlements.org/2020/04/14/covid-19-emergency-legislation-and-sunset-clauses/
+Newman, L.H. (2018, December 7). Australia's Encryption-Busting Law Could Impact Global Privacy. Retrieved May 27, 2020, from https://www.wired.com/story/australia-encryption-law-global-impact/
+O'Neill, P.H. (2020, June 2). A flood of coronavirus apps are tracking us. Now it's time to keep track of them. Retrieved June 5, 2020, from https://www.technologyreview.com/2020/05/07/1000961/launching-mittr-covid-tracing-tracker/
+O'Neill, P.H. (2020, May 20). Apple and Google's covid-tracing tech has been released to 23 countries. Retrieved May 27, 2020, from https://www.technologyreview.com/2020/05/20/1002001/apple-and-googles-covid-tracing-tech-has-been-released-to-22-countries/
+Ogée, A., & Pineda, M. (2019, December 4). Encryption is under threat - this is how it affects you. Retrieved May 22, 2020, from https://www.weforum.org/agenda/2019/12/encryption-cybersecurity-privacy-explainer/
+Sharma, M. (2019, June 12). AI driven Innovation: Why Cross-Border Data Flow and Privacy are Critical. Retrieved June 2, 2020, from https://becominghuman.ai/ai-driven-innovation-why-cross-border-data-flow-and-privacy-are-critical-56d38c27e782
+Singer, N., & Sang-hun, C. (2020, March 23). As Coronavirus Surveillance Escalates, Personal Privacy Plummets. Retrieved June 2, 2020, from https://www.nytimes.com/2020/03/23/technology/coronavirus-surveillance-tracking-privacy.html
+Stein, S. (2020, March 31). How to restore data privacy after the coronavirus pandemic. Retrieved May 29, 2020, from https://www.weforum.org/agenda/2020/03/restore-data-privacy-after-coronavirus-pandemic/
+Sulzbacher, M., & Al-Youssef, M. (2020, March 17). Austria: Telco A1 gives government location data to test movement restrictions. Retrieved May 28, 2020, from https://privacyinternational.org/examples/3432/austria-telco-a1-gives-government-location-data-test-movement-restrictions
+Thiagarajan, K. (2020, April 12). An Indian State Tells Quarantined Folks: 'A Selfie An Hour Will Keep The Police Away'. Retrieved June 5, 2020, from https://www.npr.org/sections/goatsandsoda/2020/04/12/828843214/an-indian-state-tells-quarantined-folks-a-selfie-an-hour-will-keep-the-police-aw
+Tracking the state of open government data. (n.d.). Retrieved May 28, 2020, from https://index.okfn.org/
+Turner-Lee, N., & Roberts, J. (2020, April 22). Managing health privacy and bias in COVID-19 public surveillance. Retrieved May 29, 2020, from https://www.brookings.edu/blog/techtank/2020/04/21/managing-health-privacy-and-bias-in-covid-19-public-surveillance/
+Walsh, K., Budington, B., Schwartz, A., & Hancock, A. (n.d.). COVID-19 and Digital Rights. Retrieved May 27, 2020, from https://www.eff.org/issues/covid-19
+Watson, I., & Jeong, S. (2020, February 28). Coronavirus mobile apps are surging in popularity in South Korea. Retrieved May 29, 2020, from https://www.cnn.com/2020/02/28/tech/korea-coronavirus-tracking-apps/index.html
+Weise, K., & Singer, N. (2020, June 10). Amazon Pauses Police Use of Its Facial Recognition Software. Retrieved June 11, 2020, from https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.html?smid=nytcore-ios-share
+Wong, J. I. (2016, February 19). Here's how often Apple, Google, and others handed over data when the US government asked for it. Retrieved May 28, 2020, from https://qz.com/620423/heres-how-often-apple-google-and-others-handed-over-data-when-the-us-government-asked-for-it/
+Wright, N. (2020, April 13). Coronavirus and the Future of Surveillance. Retrieved May 29, 2020, from https://www.foreignaffairs.com/articles/2020-04-06/coronavirus-and-future-surveillance
+Zargar, A. (2020, May 27). Privacy, security concerns as India forces virus-tracing app on millions. Retrieved May 28, 2020, from https://www.cbsnews.com/news/coronavirus-india-contact-tracing-app-privacy-data-security-concerns-aarogya-setu-forced-on-millions/
+Back to top

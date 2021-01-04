@@ -1,0 +1,24 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/apcs02.html#websec2-APP-C-SECT-2.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Deploying P3P Some of the first questions webmasters ask when they are
+considering deploying P3P on their sites are “How long is this going
+to take?” and “How difficult is this going to be?” The answers to
+these questions, of course, depend on the details of each particular
+web site. A small company that already has a privacy policy posted on
+its site should be able to deploy P3P in a few hours—the technical
+work may even take less than 15 minutes. A large company may need to
+have their attorneys spend time reviewing their P3P policy, and they
+may need to figure out the best way to deploy P3P on a large number of
+servers around the world. Companies that provide “third-party” web
+services, such as advertising agencies and content distribution
+networks, may have some more complicated decisions to make as
+well.To help you estimate how much work it will be for you to deploy
+P3P on your web site, here is an outline of the basic steps
+involved.Create a privacy policy.The privacy policy needs to include enough details to be able to use it to create a P3P policy. If you have already created a detailed policy for your site, you may still have a few questions that you have to revisit when you create your P3P policy, but you will have already done most of the difficult work. If you don’t yet have a privacy policy or your policy does not go into much detail about the kinds of data your site collects or how this data is used, you will probably have to get your company’s lawyers or policy makers ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

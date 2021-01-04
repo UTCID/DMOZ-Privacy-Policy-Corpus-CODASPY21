@@ -1,0 +1,330 @@
+http://mtechit.com/identity-manager/technology/privacy-protection.html
+Français
+Sitemap
+Contact Us
+Hitachi ID Systems
+Home
+Solutions
+Industry
+Education
+Finance
+IAM as a Service
+Products
+Hitachi ID Bravura Security Fabric
+Hitachi ID Bravura Discover
+Hitachi ID Bravura Group
+Hitachi ID Bravura Identity
+Solutions
+Group Management
+Slow Onboarding
+Unreliable Deactivation
+Complex Access Requests
+Obsolete Access Rights
+Policy Violations
+Costly Audits
+No Accountability for Changes
+Costly Security Administration
+Features
+Group Lifecycle Management
+Peer Groups
+Automated Onboarding and Deactivation
+Access Request Portal
+Self-service Profile Updates
+Delegated Access Administration
+Robust Approvals Process
+Access Reviews and Remediation
+Segregation of Duties Policy Enforcement
+Role-based Access Control
+Risk Scores
+History of Requests and Entitlements
+Find Orphan and Dormant Accounts
+Actionable Analytics
+Screen Shots and Video
+Videos
+Concept Animations
+Screen Shots
+Benefits
+Faster SLA to Grant Access
+Complete and Reliable Deactivation
+Link Access Rights to Business Context
+Prevent Fraud and Minimize Risk
+Compliance with Regulations
+Empower Auditors to Answer Their Own Queries
+Technology
+Components and Policy Tables to Customize IAM Processes
+Auto-discovery of Identities and Entitlements
+Relationship-based Access Controls
+Privacy Protection
+Implementers Workflow
+Intercept 'Access Denied' Dialogs
+Compare User Entitlements
+Automated and Self-service ID Mapping
+Robust Workflow for Human Stake-holders
+Role Mining and Entitlement Analytics
+Reports, Dashboards and Analytics
+Library
+Hitachi ID Bravura Pass
+Solutions
+Too Many Passwords
+Users Locked Out of Their PCs
+High IT Support Call Volume
+Weak Authentication into SaaS Apps
+Uneven Support Call Volume
+Weak Passwords
+Off-hours IT Support
+Too Many Privileged Users
+Features
+Password Synchronization
+Transparent Password Synchronization
+Web Browser Password Synchronization
+Self-service Password Reset
+Self-service, Anywhere
+Managed User Enrollment
+Unlock PC with Drive Encryption
+Federated Access
+Password Policy Enforcement
+Password Expiration
+Personal Password Vault
+Assisted Password Reset
+Telephone Access to Self-service
+RSA SecurID Token Management
+Smart Card PIN Reset
+Download Contacts to Mobile Phone
+Reports and Analytics
+Screen Shots and Video
+Videos
+Concept Animations
+Screen Shots
+Benefits
+Stronger Security
+Lower IT Support Cost
+Improved User Service
+Technology
+Target System Connectors
+Other Integrations
+Flexible Authentication
+Send E-mails
+Ticket Integration
+Embed in Web Portals
+Telephony (IVR)
+Access to Self-service
+Help Locked Out Users
+Self-service for Off-site Users
+Map User IDs
+Bravura Pass Scalability
+Telephone Access
+Bravura Pass Language Support
+On-premises Runtime Requirements
+Library
+Hitachi ID Bravura Privilege
+Solutions
+Static Passwords
+Secure Credential Storage
+Administrator Accountability
+Reliable Authentication
+Pre-authorized Access
+One-time Access
+Stop Disclosing Passwords
+Forensic Audits
+Scaling Up
+Secure Windows Service Accounts
+Secure Embedded Accounts
+Features
+Randomize Privileged Account Passwords
+Flexible Access Disclosure Mechanisms
+Direct Connection
+VDI Proxy
+Web Proxy
+Account Sets
+Group Sets
+Temporary SSH Trust
+Secure Credential Vault
+Policy to Control Access
+Risk Scoring Access Requests
+Session Recording
+SSH Key Management
+Secure and Monitor Vendor Access
+Change Windows Service Account Passwords
+Secure Application-to-Application Passwords
+Reports, Dashboards and Analytics
+Screen Shots and Video
+Videos
+Concept Animations
+Screen Shots
+Benefits
+Risk Management
+Workforce Flexibility
+Technology
+Network Architecture
+Rendering SSH and RDP Sessions in a Browser
+Network Path to Managed Systems
+Emergency Access
+Included Connectors
+Infrastructure Auto-discovery
+Bravura Pass Scalability
+Granular Access Control
+Privacy Protection
+Authenticating Applications
+Segregation of Duties
+Flag Unusual Requests
+Library
+Hitachi ID Mobile Access
+Suite 11.0
+Suite 11.1
+Start Free Trial
+Services
+Solution Delivery
+Methodology
+Education
+Partner Training Courses
+Partner Training Courses Detailed Steps
+Customer Training Courses
+Customer Training Courses Detailed Steps
+AWS Virtual Machine Contents and Environment
+Administrator Required Skills
+Hitachi ID Bravura Identity
+Hitachi ID Bravura Pass
+Hitachi ID Bravura Privilege
+Upgrades
+AdMax Program
+Managed IAM
+Technology
+Network Architecture
+SaaS Network Architecture
+Active-Active Network Architecture
+On-premises Runtime Requirements
+100+ Included Connectors
+Active Directory
+LDAP Directories
+SaaS Applications
+SAP ECC, HCM, GRC and HANA
+Oracle eBusiness Suite, PeopleSoft and JD Edwards
+Z/OS with RAC/F, ACF/2 or TopSecret
+iSeries (AS/400)
+Databases
+Drive Encryption
+RSA SecurID
+Service Catalog / Ticketing Systems
+Mobile App and Access from BYOD
+Web Services and APIs
+Localization
+2FA for Everyone
+Library
+Documents
+Savings Calculator
+Independent Reviews
+Certifications
+Support
+Support for Older Releases
+Portal Login
+Company
+News & Events
+Upcoming Events
+Press Releases
+Press Coverage
+Archived Webinars
+Customers
+North America Customers
+Europe Customers
+South Pacific Customers
+Customer Referral
+Customer Portal
+Partners
+All Partners
+Partner Portal Login
+New Partner Sign-up
+Opportunity Registration
+Careers
+Contact Us
+Blog
+Case Studies
+Free Trial
+Request Demo
+»
+Technology
+»
+Privacy Protection
+Privacy Protection
+Safely manage sensitive or personally identifying data, such as termination dates or SSNs.
+Hitachi ID Bravura Identity attaches access rights not to sets of users but
+to types of relationships, using user classes.
+This is essential
+to privacy protection, as illustrated by the following example:
+Consider a very sensitive profile attribute -- scheduled termination
+date.
+This may be mundane as it applies to contractors, representing
+the end of an engagement.
+It may also be very sensitive, indicating when
+an employee is due to be terminated.
+Who can access this data depends on relationships.
+For example,
+HR users should be able to access this data for all users -- except
+themselves.
+Managers should be able to access this data for their
+direct and indirect subordinates, but not themselves or other people
+who do not report to them.
+The Bravura Identity access control model allows organizations to define
+types of relationships, such as "recipient in HR, recipient and
+requester are not the same person." or "recipient reports to
+requester."
+Access rights are linked to types of relationships, as above.
+The search engine provided through Bravura Identity respects these access
+rights, to protect against data leakage.
+For example, a manager
+might search for all users who are scheduled for near-term
+termination and will only see those who report to him -- but not
+himself or others.
+Using relationships makes it easy to define various user support
+models.
+For example, users in a country-specific help desk can
+reset passwords for other users in the same country, or managers
+in some regions may be allowed to reset passwords for their
+direct (or indirect) reports.
+Using this access control model makes it practical to manage highly
+sensitive or privacy-related data using the Bravura Identity request portal
+and approvals workflow.
+Personal data such as date of birth, social
+security number, student or employee number, enrollment and deactivation
+dates, healthcare classification and more are all safe to manage using
+Bravura Identity.
+Hitachi ID Systems higher education customers leverage this security
+model to allow users to control what, if any, of their profile
+information is published to members of the campus community:
+Some profiles and attributes may be made visible to certain
+groups.
+For example, all user profiles for students should
+be visible to the admissions office; all user profiles for
+staff should be visible to HR, etc.
+Some profile attributes may be made visible within their
+department (requester and recipient share a department affiliation).
+Some profile attributes may be visible only if the requester has
+set another attribute that acts as a gatekeeper.
+For example,
+requester can see recipient's phone number if recipient.phone-visible
+is set to true, etc.
+Note that access controls in Bravura Identity extend even into search
+results.
+For example, a competitor Identity and access management (IAM) system might not
+display a user's age or contact information to another user,
+but might allow for search on these or other attributes,
+whereby the searcher could infer attribute values.
+The
+Bravura Identity access control system protects against this
+type of search-and-infer attack against user privacy.
+Quick Links
+Start free trial
+Download free, full-featured, time-expired evaluation software.
+Savings calculator
+Find out how much Hitachi ID Bravura can save your organization.
+Please call me
+Get more information about our solutions and services.
+Request demo
+Take a guided personalized tour with our IAM experts.
+Privacy Policy
+Terms of Use
+Hitachi ID Systems LinkedIn page
+Hitachi ID Systems Facebook page
+Hitachi ID Systems Twitter page
+Hitachi ID Systems YouTube page
+©
+Hitachi ID Systems, Inc.

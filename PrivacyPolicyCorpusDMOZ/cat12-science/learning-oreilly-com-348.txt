@@ -1,0 +1,29 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch14.html#websec2-CHP-14-SECT-1.3
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Chapter 14. Physical Security for Servers
+“Physical security” is almost everything that happens
+before you start typing commands on the keyboard. It’s the alarm system
+that calls the police department when a late-night thief tries to break
+into your building. It’s the key lock on your computer’s power supply
+that makes it harder for unauthorized people to turn off the machine.
+It’s the locked computer room with the closed-circuit camera that
+prevents unauthorized physical access to your servers and communications
+infrastructure. And it’s the uninteruptable power supply and power
+conditioners that help to isolate your computers from the vagaries of
+the power grid.This chapter discusses basic approaches to physical security. It
+is written for people who think that this type of security is of little
+or no concern—unfortunately, the majority of system administrators.
+Despite the fact that physical security is often overlooked, it is
+extraordinarily important. You may have the best encryption and security
+tools in place, and your systems may be safely hidden behind a firewall.
+However, if a janitor working late at night for your cleaning service
+decides to steal a laptop or server that’s been left out on a table in
+somebody’s cubicle, those other fancy defenses aren’t going to be much
+help.Planning for the Forgotten ThreatsSurprisingly, many organizations do not consider physical security to be of the utmost concern. As an example, one New York investment house was spending tens of ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

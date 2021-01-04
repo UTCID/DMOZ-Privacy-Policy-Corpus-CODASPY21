@@ -1,0 +1,404 @@
+http://mtechit.com/password-manager/technology/helping-locked-out-users.html
+Français
+Sitemap
+Contact Us
+Hitachi ID Systems
+Home
+Solutions
+Industry
+Education
+Finance
+IAM as a Service
+Products
+Hitachi ID Bravura Security Fabric
+Hitachi ID Bravura Discover
+Hitachi ID Bravura Group
+Hitachi ID Bravura Identity
+Solutions
+Group Management
+Slow Onboarding
+Unreliable Deactivation
+Complex Access Requests
+Obsolete Access Rights
+Policy Violations
+Costly Audits
+No Accountability for Changes
+Costly Security Administration
+Features
+Group Lifecycle Management
+Peer Groups
+Automated Onboarding and Deactivation
+Access Request Portal
+Self-service Profile Updates
+Delegated Access Administration
+Robust Approvals Process
+Access Reviews and Remediation
+Segregation of Duties Policy Enforcement
+Role-based Access Control
+Risk Scores
+History of Requests and Entitlements
+Find Orphan and Dormant Accounts
+Actionable Analytics
+Screen Shots and Video
+Videos
+Concept Animations
+Screen Shots
+Benefits
+Faster SLA to Grant Access
+Complete and Reliable Deactivation
+Link Access Rights to Business Context
+Prevent Fraud and Minimize Risk
+Compliance with Regulations
+Empower Auditors to Answer Their Own Queries
+Technology
+Components and Policy Tables to Customize IAM Processes
+Auto-discovery of Identities and Entitlements
+Relationship-based Access Controls
+Privacy Protection
+Implementers Workflow
+Intercept 'Access Denied' Dialogs
+Compare User Entitlements
+Automated and Self-service ID Mapping
+Robust Workflow for Human Stake-holders
+Role Mining and Entitlement Analytics
+Reports, Dashboards and Analytics
+Library
+Hitachi ID Bravura Pass
+Solutions
+Too Many Passwords
+Users Locked Out of Their PCs
+High IT Support Call Volume
+Weak Authentication into SaaS Apps
+Uneven Support Call Volume
+Weak Passwords
+Off-hours IT Support
+Too Many Privileged Users
+Features
+Password Synchronization
+Transparent Password Synchronization
+Web Browser Password Synchronization
+Self-service Password Reset
+Self-service, Anywhere
+Managed User Enrollment
+Unlock PC with Drive Encryption
+Federated Access
+Password Policy Enforcement
+Password Expiration
+Personal Password Vault
+Assisted Password Reset
+Telephone Access to Self-service
+RSA SecurID Token Management
+Smart Card PIN Reset
+Download Contacts to Mobile Phone
+Reports and Analytics
+Screen Shots and Video
+Videos
+Concept Animations
+Screen Shots
+Benefits
+Stronger Security
+Lower IT Support Cost
+Improved User Service
+Technology
+Target System Connectors
+Other Integrations
+Flexible Authentication
+Send E-mails
+Ticket Integration
+Embed in Web Portals
+Telephony (IVR)
+Access to Self-service
+Help Locked Out Users
+Self-service for Off-site Users
+Map User IDs
+Bravura Pass Scalability
+Telephone Access
+Bravura Pass Language Support
+On-premises Runtime Requirements
+Library
+Hitachi ID Bravura Privilege
+Solutions
+Static Passwords
+Secure Credential Storage
+Administrator Accountability
+Reliable Authentication
+Pre-authorized Access
+One-time Access
+Stop Disclosing Passwords
+Forensic Audits
+Scaling Up
+Secure Windows Service Accounts
+Secure Embedded Accounts
+Features
+Randomize Privileged Account Passwords
+Flexible Access Disclosure Mechanisms
+Direct Connection
+VDI Proxy
+Web Proxy
+Account Sets
+Group Sets
+Temporary SSH Trust
+Secure Credential Vault
+Policy to Control Access
+Risk Scoring Access Requests
+Session Recording
+SSH Key Management
+Secure and Monitor Vendor Access
+Change Windows Service Account Passwords
+Secure Application-to-Application Passwords
+Reports, Dashboards and Analytics
+Screen Shots and Video
+Videos
+Concept Animations
+Screen Shots
+Benefits
+Risk Management
+Workforce Flexibility
+Technology
+Network Architecture
+Rendering SSH and RDP Sessions in a Browser
+Network Path to Managed Systems
+Emergency Access
+Included Connectors
+Infrastructure Auto-discovery
+Bravura Pass Scalability
+Granular Access Control
+Privacy Protection
+Authenticating Applications
+Segregation of Duties
+Flag Unusual Requests
+Library
+Hitachi ID Mobile Access
+Suite 11.0
+Suite 11.1
+Start Free Trial
+Services
+Solution Delivery
+Methodology
+Education
+Partner Training Courses
+Partner Training Courses Detailed Steps
+Customer Training Courses
+Customer Training Courses Detailed Steps
+AWS Virtual Machine Contents and Environment
+Administrator Required Skills
+Hitachi ID Bravura Identity
+Hitachi ID Bravura Pass
+Hitachi ID Bravura Privilege
+Upgrades
+AdMax Program
+Managed IAM
+Technology
+Network Architecture
+SaaS Network Architecture
+Active-Active Network Architecture
+On-premises Runtime Requirements
+100+ Included Connectors
+Active Directory
+LDAP Directories
+SaaS Applications
+SAP ECC, HCM, GRC and HANA
+Oracle eBusiness Suite, PeopleSoft and JD Edwards
+Z/OS with RAC/F, ACF/2 or TopSecret
+iSeries (AS/400)
+Databases
+Drive Encryption
+RSA SecurID
+Service Catalog / Ticketing Systems
+Mobile App and Access from BYOD
+Web Services and APIs
+Localization
+2FA for Everyone
+Library
+Documents
+Savings Calculator
+Independent Reviews
+Certifications
+Support
+Support for Older Releases
+Portal Login
+Company
+News & Events
+Upcoming Events
+Press Releases
+Press Coverage
+Archived Webinars
+Customers
+North America Customers
+Europe Customers
+South Pacific Customers
+Customer Referral
+Customer Portal
+Partners
+All Partners
+Partner Portal Login
+New Partner Sign-up
+Opportunity Registration
+Careers
+Contact Us
+Blog
+Case Studies
+Free Trial
+Request Demo
+»
+Technology
+»
+Help Locked Out Users
+Help Locked Out Users
+Enable users who forgot or locked out their PC login password to access self-service.
+When users forget their OS login password or trigger an intruder lockout,
+they are in a Catch-22 situation: they cannot log into their computer
+and open a web browser but cannot open a web browser to fix their
+password and make it possible to log in.
+Hitachi ID Bravura Pass includes a variety of mechanisms to address the problem of
+users locked out of their PC login screen.
+Each of these approaches
+has its own strengths and weaknesses, as described below:
+* Edge must be used in Desktop Mode
+Option
+Pros
+Cons
+1
+Ask a neighbor:
+Use someone else's web browser to access self-service password reset.
+Inexpensive, no client software to deploy.
+Users may be working alone or at odd hours.
+No solution for local passwords or mobile users.
+Wastes time for two users, rather than one.
+May violate a security policy in some organizations.
+2
+Hitachi ID Login Assistant:
+Extends the login screen of Windows systems
+User friendly, intuitive access to self-service.
+Can be configured to assist mobile users who forgot their
+cached domain password (by automatically establishing a temporary
+VPN connection).
+Works on Windows Terminal Server and Citrix Presentation Manager.
+Deployment of client software to every PC.
+3
+Secure kiosk account (SKA):
+Sign into any PC with a generic ID such as "help"
+and no password.
+This launches a kiosk-mode web browser
+directed to the password reset web page.
+Simple, inexpensive deployment, with no client software
+component.
+Users can reset both local and network passwords.
+Introduces a "generic" account on the network, which may
+violate policy, no matter how well it is locked down.
+One user can trigger an intruder lockout on the "help" account,
+denying service to other users who require a password reset.
+Does not help mobile users.
+4
+Hitachi ID Mobile Access:
+Deploy a mobile app, combined with a proxy server in the cloud,
+to allow users to access the password reset system from their
+smart phone.
+Secure and convenient.
+Does not help with passwords cached on the user's PC, which
+are not affected when the user's domain password is changed
+without connection to the PC.
+5
+Telephone password reset:
+Users call an automated system, identify themselves using
+touch-tone input of a numeric identifier, authenticate with
+touch-tone input of answers to security questions or with
+voice print biometrics and select a new password.
+Simple deployment of centralized infrastructure.
+No client software impact.
+May leverage an existing interactive voice response (IVR)
+system.
+Helpful for remote users who need assistance connecting to the
+corporate VPN.
+New physical infrastructure is usually required.
+Users generally don't like to "talk to a machine"
+so adoption rates are lower than with a web portal.
+Does not help mobile users who forgot their cached domain password.
+Does not help unlock PINs on smart cards.
+Watch a Movie
+Self Service Anywhere™
+Play movie
+Content:
+A user forgot his primary Windows login password.
+The user is away from the office and the corporate AD password
+is cached locally.
+The video shows how the user can reset
+the forgotten password -- from the PC login screen, over WiFi+VPN
+and get back to work.
+Key concepts:
+Users are increasingly mobile.
+Mobile users sign into their corporate laptops with cached
+domain credentials.
+If a user forgets his Windows password while away from the corporate
+network, the IT help desk cannot help him, as they cannot access the
+cached password.
+Using Self-Service, Anywhere, Bravura Pass allows mobile users to reset
+forgotten passwords even while away, enabling them to get back to
+work before they return to the office.
+Without this technology, a remote user who forgot his password cannot
+use his PC until he returns -- a major business interruption.
+×
+Close
+Locked out Windows user resets own password (no software footprint)
+Play movie
+Content:
+A user has either forgotten his password or triggered an
+intruder lockout.
+The user's PC runs any version of Windows.
+The user wishes to unlock his account without calling the
+help desk.
+Key concepts:
+Access to SSPR is available using a secure kiosk account.
+This approach eliminates the need to install any software on the PC.
+The trade-off is a special domain account, typically called
+help which every user can sign into but which has minimal
+security entitlements.
+×
+Close
+Assisted password reset
+Play movie
+Content:
+The experience of a help desk analyst resetting passwords
+for a user who has forgotten his password or triggered
+a lockout.
+Key concepts:
+Help desk staff may be forced to authenticate callers,
+for example by prompting them with security questions and
+keying in their answers.
+Help desk staff may be empowered or required to cause
+new passwords to be immediately expired.
+“Behind the scenes,” a help desk ticket is normally
+created to record the service incident.
+×
+Close
+User unlocks Windows password with self-service telephone call
+Play movie
+Content:
+User locks out Windows login password.
+User accesses self-service password reset via telephone.
+User enters his network login ID using touch-tone input.
+User gives numeric answers to security questions.
+User selects one of several random password.
+User signs into Windows with the new password.
+Key concepts:
+Access to self-service password reset despite being locked out of Windows.
+User interaction via telephone, no client footprint.
+×
+Close
+Quick Links
+Start free trial
+Download free, full-featured, time-expired evaluation software.
+Savings calculator
+Find out how much Hitachi ID Bravura can save your organization.
+Please call me
+Get more information about our solutions and services.
+Request demo
+Take a guided personalized tour with our IAM experts.
+Privacy Policy
+Terms of Use
+Hitachi ID Systems LinkedIn page
+Hitachi ID Systems Facebook page
+Hitachi ID Systems Twitter page
+Hitachi ID Systems YouTube page
+©
+Hitachi ID Systems, Inc.

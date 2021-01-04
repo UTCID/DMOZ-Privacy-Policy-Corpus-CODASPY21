@@ -1,0 +1,963 @@
+http://www.irchighway.net/help
+Toggle Navigation
+IRCHighWayWebchatForumRulesIrcHighway RulesAcceptable Use PolicyNetwork Linking PolicyPrivacy PolicyVirtual Host PolicyHelpI'm New to IRCBotServ HelpChanServ HelpMemoServ HelpNickServ HelpvHost HelpOpers
+You are here:
+Home
+Help
+What to do If I'm banned from a channel?
+According to IRCHighWay's Acceptable Use Policy, channels founders are to do as they please. Generaly speaking, it means that the Network Staff does not and can not interfere with channels matters.
+Most of the times, it is therefore pointless to come around the official help channels, write to This email address is being protected from spambots. You need JavaScript enabled to view it. or anything of the sort; in order to get yourself unbanned from a channel. However, there are a few exceptions to this guideline that I will describe later on.
+But what can you do then? The best way to get a channel ban removed is to contact the channel operator that banned you in the first place. You can do this by the mean of a private message or a memo (please read /memoserv help for more information).
+If you have no idea who banned you, there is only one way to go: you have to contact the channel founder for assistance. Once again, this can be done by the mean of a private message or a memo.
+Of course, you may not know who is the founder of a channel you are banned from, there is a command that you can issue in order to find out his or her nick:
+/chanserv info <#channel>
+This command, once issued, will give you some information about the specified channel, including the founder's nickname.
+Keep in mind that the channel founder may not be around, patience is a virtue, and that he may or may not remove the ban that prohibits you from joining the channel. The founder is the law within a channel. There is no point discussing the decisions he or she makes. Basically, you could be banned from a channel just because the ops do not like you, that's perfectly legit and the Network Staff will not do anything.
+However, there are a few exceptions to the channel founder and ops almighty will; as I said earlier in this article.
+What are these exceptions?
+If the decision of a channel founder, admin or op is against the network's Acceptable Use Policy, the Network Staff is allowed to interefere and can therefore take action if they feel fit; upon the results of their investigation. It is only in such situations that you should go to the #abuse channel and submit a request for assistance.
+I think you should now be able to answer properly if you ever get banned from a channel on IRCHighWay. I wish you good luck and although you are now prepared, I hope you will never find yourself in such a situation ;)
+Have a nice week,
+Arbin.
+Additional note:
+If you are banned from a channel where you are an op, depending on the channel's settings, you may or may not be able to overwrite the ban or to invite yourself.
+Assuming that your access level is high enough:
+To unban yourself: /chanserv unban <#channel>To invite yourself: /chanserv invite <#channel>
+MemoServ Help
+HELPMemoServ is a utility allowing IRC users to send short messages to other IRC users, whether they are online at the time or not, or to channels(*). Both the sender's nickname and the target nickname or channel must be registered in order to send a memo. MemoServ's commands include:
+SEND
+Send a memo to a nick or channel
+CANCEL
+Cancel last memo you sent
+LIST
+List your memos
+READ
+Read a memo or memos
+DEL
+Delete a memo or memos
+SET
+Set options related to memos
+Type /msg MemoServ HELP command for help on any of the above commands.(*) By default, any user with at least level 10 access on a channel can read that channel's memos. This can be changed with the MemoServ LEVELS command.
+SENDSyntax: /msg MemoServ SEND {nick | channel} memo-textSends the named nick or channel a memo containing memo-text. When sending to a nickname, the recipient will receive a notice that he/she has a new memo. The target nickname/channel must be registered.
+CANCELSyntax: /msg MemoServ CANCEL {nick | channel}Cancels the last memo you sent to the given nick or channel, provided it has not been read at the time you use the command.
+LISTSyntax: /msg MemoServ LIST [channel] [list | NEW]Lists any memos you currently have. With NEW, lists only new (unread) memos. Unread memos are marked with a "*" to the left of the memo number. You can also specify a list of numbers, as in the example below:
+LIST 2-5,7-9
+Lists memos numbered 2 through 5 and 7 through 9.
+READSyntax: /msg MemoServ READ [channel] {num | list | LAST | NEW}Sends you the text of the memos specified. If LAST is given, sends you the memo you most recently received. If NEW is given, sends you all of your new memos. Otherwise, sends you memo number num. You can also give a list of numbers, as in this example:
+READ 2-5,7-9
+Displays memos numbered 2 through 5 and 7 through 9.
+DELSyntax: /msg MemoServ DEL [channel] {num | list | LAST | ALL}Deletes the specified memo or memos. You can supply multiple memo numbers or ranges of numbers instead of a single number, as in the second example below.If LAST is given, the last memo will be deleted.If ALL is given, deletes all of your memos.Examples:
+DEL 1
+Deletes your first memo.
+DEL 2-5,7-9
+Deletes memos numbered 2 through 5 and 7 through 9.
+SETSyntax: /msg MemoServ SET option parametersSets various memo options. option can be one of:
+NOTIFY
+Changes when you will be notified about new memos (only for nicknames)
+LIMIT
+Sets the maximum number of memos you can receive
+Type /msg MemoServ HELP SET option for more information on a specific option.
+SET NOTIFYSyntax: /msg MemoServ SET NOTIFY {ON | LOGON | NEW | OFF}Changes when you will be notified about new memos:
+ON
+You will be notified of memos when you log on, when you unset /AWAY, and when they are sent to you.
+LOGON
+You will only be notified of memos when you log on or when you unset /AWAY.
+NEW
+You will only be notified of memos when they are sent to you.
+OFF
+You will not receive any notification of memos.
+ON is essentially LOGON and NEW combined.
+SET LIMITSyntax: /msg MemoServ SET LIMIT [channel] limitSets the maximum number of memos you (or the given channel) are allowed to have. If you set this to 0, no one will be able to send any memos to you. However, you cannot set this any higher than <num>.
+INFOSyntax: /msg MemoServ INFO [channel]Displays information on the number of memos you have, how many of them are unread, and how many total memos you can receive. With a parameter, displays the same information for the given channel.
+SERVADMIN SET LIMITSyntax: /msg MemoServ SET LIMIT [user | channel] {limit | NONE} [HARD]Sets the maximum number of memos a user or channel is allowed to have. Setting the limit to 0 prevents the user from receiving any memos; setting it to NONE allows the user to receive and keep as many memos as they want. If you do not give a nickname or channel, your own limit is set.Adding HARD prevents the user from changing the limit. Not adding HARD has the opposite effect, allowing the user to change the limit (even if a previous limit was set with HARD).This use of the SET LIMIT command is limited to Services admins. Other users may only enter a limit for themselves or a channel on which they have such privileges, may not remove their limit, may not set a limit above <num>, and may not set a hard limit.
+SERVADMIN INFOSyntax: /msg MemoServ INFO [nick | channel]Without a parameter, displays information on the number of memos you have, how many of them are unread, and how many total memos you can receive.With a channel parameter, displays the same information for the given channel.With a nickname parameter, displays the same information for the given nickname. This use limited to Services admins.
+BotServ Help
+HELPBotServ allows you to have a bot on your own channel. It has been created for users that can't host or configure a bot, or for use on networks that don't allow users' bot. Available commands are listed below; to use them, type /msg BotServ command. For more information on a specific command, type /msg BotServ HELP command.BOTLIST Lists available bots ASSIGN Assigns a bot to a channel SET Configures bot options KICK Configures kickers BADWORDS Maintains bad words listOther commands: ACT INFO SAY UNASSIGNBot will join a channel whenever there is at least <num> user(s) on it.
+BOTLISTSyntax: /msg BotServ BOTLISTLists all available bots on this network.
+ASSIGNSyntax: /msg BotServ ASSIGN chan nickAssigns a bot pointed out by nick to the channel chan. You can then configure the bot for the channel so it fits your needs.
+UNASSIGNSyntax: /msg BotServ UNASSIGN chanUnassigns a bot from a channel. When you use this command, the bot won't join the channel anymore. However, bot configuration for the channel is kept, so you will always be able to reassign a bot later without have to reconfigure it entirely.
+INFOSyntax: /msg BotServ INFO {chan | nick}Allows you to see BotServ information about a channel or a bot. If the parameter is a channel, then you'll get information such as enabled kickers. If the parameter is a nick, you'll get information about a bot, such as creation time or number of channels it is on.
+SETSyntax: /msg BotServ SET channel option parametersConfigures bot options. option can be one of:
+DONTKICKOPS
+To protect ops against bot kicks
+DONTKICKVOICES
+To protect voices against bot kicks
+GREET
+Enable greet messages
+FANTASY
+Enable fantaisist commands
+SYMBIOSIS
+Allow the bot to act as a real bot
+Type /msg BotServ HELP SET option for more information on a specific option.Note: access to this command is controlled by the level SET.
+SET DONTKICKOPSSyntax: /msg BotServ SET channel DONTKICKOPS {ON|OFF}Enables or disables ops protection mode on a channel. When it is enabled, ops won't be kicked by the bot even if they don't match the NOKICK level.
+SET DONTKICKVOICESSyntax: /msg BotServ SET channel DONTKICKVOICES {ON|OFF}Enables or disables voices protection mode on a channel. When it is enabled, voices won't be kicked by the bot even if they don't match the NOKICK level.
+SET FANTASYSyntax: /msg BotServ SET channel FANTASY {ON|OFF}Enables or disables fantasy mode on a channel. When it is enabled, users will be able to use commands !op, !deop, !voice, !devoice, !kick, !kb, !unban, !seen on a channel (find how to use them; try with or without nick for each, and with a reason for some?).Note that users wanting to use fantaisist commands MUST have enough level for both the FANTASIA and another level depending of the command if required (for example, to use !op, user must have enough access for the OPDEOP level).
+SET GREETSyntax: /msg BotServ SET channel GREET {ON|OFF}Enables or disables greet mode on a channel. When it is enabled, the bot will display greet messages of users joining the channel, provided they have enough access to the channel.
+SET SYMBIOSISSyntax: /msg BotServ SET channel SYMBIOSIS {ON|OFF}Enables or disables symbiosis mode on a channel. When it is enabled, the bot will do everything normally done by BotServ on channels, such as MODEs, KICKs, and even the entry message.
+KICKSyntax: /msg BotServ KICK channel option parametersConfigures bot kickers. option can be one of:
+BOLDS
+Sets if the bot kicks bolds
+BADWORDS
+Sets if the bot kicks bad words
+CAPS
+Sets if the bot kicks caps
+COLORS
+Sets if the bot kicks colors
+FLOOD
+Sets if the bot kicks flooding users
+REPEAT
+Sets if the bot kicks users who repeat themselves
+REVERSES
+Sets if the bot kicks reverses
+UNDERLINES
+Sets if the bot kicks underlines
+Type /msg BotServ HELP KICK option for more information on a specific option.Note: access to this command is controlled by the level SET.
+KICK BOLDSSyntax: /msg BotServ KICK channel BOLDS {ON|OFF} [ttb]Sets the bolds kicker on or off. When enabled, this option tells the bot to kick users who use bolds. ttb is the number of times an user can be kicked before it get banned. Don't give ttb to disable the ban system once activated.
+KICK COLORSSyntax: /msg BotServ KICK channel COLORS {ON|OFF} [ttb]Sets the colors kicker on or off. When enabled, this option tells the bot to kick users who use colors. ttb is the number of times an user can be kicked before it get banned. Don't give ttb to disable the ban system once activated.
+KICK REVERSESSyntax: /msg BotServ KICK channel REVERSES {ON|OFF} [ttb]Sets the reverses kicker on or off. When enabled, this option tells the bot to kick users who use reverses. ttb is the number of times an user can be kicked before it get banned. Don't give ttb to disable the ban system once activated.
+KICK UNDERLINESSyntax: /msg BotServ KICK channel UNDERLINES {ON|OFF} [ttb]Sets the underlines kicker on or off. When enabled, this option tells the bot to kick users who use underlines. ttb is the number of times an user can be kicked before it get banned. Don't give ttb to disable the ban system once activated.
+KICK CAPSSyntax: /msg BotServ KICK channel CAPS {ON|OFF} [ttb [min [percent]]]Sets the caps kicker on or off. When enabled, this option tells the bot to kick users who are talking in CAPS. The bot kicks only if there are at least min caps and they constitute at least percent%% of the total text line (if not given, it defaults to 10 characters and 25%%). ttb is the number of times an user can be kicked before it get banned. Don't give ttb to disable the ban system once activated.
+KICK FLOODSyntax: /msg BotServ KICK channel FLOOD {ON|OFF} [ttb [ln [secs]]]Sets the flood kicker on or off. When enabled, this option tells the bot to kick users who are flooding the channel using at least ln lines in secs seconds (if not given, it defaults to 6 lines in 10 seconds).ttb is the number of times an user can be kicked before it get banned. Don't give ttb to disable the ban system once activated.
+KICK REPEATSyntax: /msg BotServ KICK #channel REPEAT {ON|OFF} [ttb [num]]Sets the repeat kicker on or off. When enabled, this option tells the bot to kick users who are repeating themselves num times (if num is not given, it defaults to 3). ttb is the number of times an user can be kicked before it get banned. Don't give ttb to disable the ban system once activated.
+KICK BADWORDSSyntax: /msg BotServ KICK #channel BADWORDS {ON|OFF} [ttb]Sets the bad words kicker on or off. When enabled, this option tells the bot to kick users who say certain words on the channels. You can define bad words for your channel using the BADWORDS command. Type /msg BotServ HELP BADWORDS for more information. ttb is the number of times an user can be kicked before it get banned. Don't give ttb to disable the ban system once activated.
+BADWORDSSyntax:/msg BotServ BADWORDS channel ADD word [SINGLE | START | END]/msg BotServ BADWORDS channel DEL {word | entry-num | list}/msg BotServ BADWORDS channel LIST [mask | list]/msg BotServ BADWORDS channel CLEARMaintains the bad words list for a channel. The bad words list determines which words are to be kicked when the bad words kicker is enabled. For more information, type /msg BotServ HELP KICK BADWORDS.The BADWORDS ADD command adds the given word to the badword list. If SINGLE is specified, a kick will be done only if an user says the entire word. If START is specified, a kick will be done if an user says a word that starts with word. If END is specified, a kick will be done if an user says a word that ends with word. If you don't specify anything, a kick will be issued every time word is said by an user.The BADWORDS DEL command removes the given word from the bad words list. If a list of entry numbers is given, those entries are deleted. (See the example for LIST below.)The BADWORDS LIST command displays the bad words list. If a wildcard mask is given, only those entries matching the mask are displayed. If a list of entry numbers is given, only those entries are shown; for example:
+BADWORDS #channel LIST 2-5,7-9
+Lists bad words entries numbered 2 through 5 and 7 through 9.
+The BADWORDS CLEAR command clears all entries of the bad words list.
+SAYSyntax: /msg BotServ SAY channel textMakes the bot say the given text on the given channel.
+ACTSyntax: /msg BotServ ACT channel textMakes the bot do the equivalent of a "/me" command on the given channel using the given text.
+SERVADMIN HELPThe following command is available to Services admins:BOT Maintains network bot list
+SERVADMIN BOTSyntax:/msg BotServ BOT ADD nick user host real/msg BotServ BOT CHANGE oldnick newnick [user [host [real]]]/msg BotServ BOT DEL nick BOT LISTAllows Services admins to create, modify, and delete bots that users will be able to use on their own channels.BOT ADD adds a bot with the given nickname, username, hostname and realname. Since no integrity checks are done for these settings, be really careful.BOT CHANGE allows to change nickname, username, hostname or realname of a bot without actually delete it (and all the data associated with it).BOT DEL removes the given bot from the bot list.BOT LIST is an alias of BOTLIST and just lists all bots available on the network.Note: if you create a bot that has a nick that is registered, it will be dropped. Also, if an user is currently using the nick, it will be killed.
+SERVADMIN SETThese options are reserved to Services admins:
+NOBOT
+Prevent a bot from being assigned to a channel
+PRIVATE
+Prevent a bot from being assigned by non IRC operators
+SERVADMIN SET NOBOTSyntax: /msg BotServ SET channel NOBOT {ON|OFF}This option makes a channel be unassignable. If a bot is already assigned to the channel, it is unassigned automatically when you enable the option.Limited to Services admins.
+SERVADMIN SET PRIVATESyntax: /msg BotServ SET bot-nick PRIVATE {ON|OFF}This option prevents a bot from being assigned to a channel by users that aren't IRC operators.Limited to Services admins.
+I'm New to IRC
+You don't even know what it does and what it is about? You only heard that it exists and want to try it out? Well then this document will give you the answers you need. Click on "read more" to read the whole article.
+Table of contents:
+1. What is IRC?2. The IRC Client mIRC3. Nickserv and registered nicks4. Finding a channel5. What you should know about channels6. Basic commands7. What is SSL
+1. What is IRC?
+The Internet Relay Chat (short IRC) is one of the most popular and interactive chat services on the internet. If you think this website is the "IRC" then you are mistaken. This site is just an online portal for our visitors to view news we provide and to share information, which can't be shared in the fast living world of IRC. Usually the IRC service consists of several servers, which are linked to a network. Everyone in the world can connect to one of the servers and chat with other users who are connected to the same network. If you want to use our IRC service you need a IRC client. There are many different like: mIRC X-Chat Zirc irssi HydraIRC BitchX and many more.
+2. The IRC Client mIRC
+The most popular IRC Client used by Windows users is "mIRC". And for that reason this HowTo will explain what you have to do if you want to connect to IRCHighWay using the mIRC Client. First of all: "Where do I get mIRC" This is easy. Visit http://www.mirc.com and download it from the download section there. The link to the download section is: http://www.mirc.com/get.html The download and the use of mIRC is free for the first 30 days. Then a startup screen appears to remind you to register it. But you will still be able to use it. Install and run it. On startup you should see a dialog called mIRC Options after a short startup screen, which appears only on the unregistered version. If this dialog doesn't pop up or you accidentally closed it then you can (re)open it by pressing the keys ATL + O or clicking on View-> Options Highlight the very first category Connect like you see in the link below: Nick settings The fields have the following meaning:
+Full Name: Don't use your real name here. Add something fake there but don't just smash your keyboard and add a bunch of random letters. There are no restrictions so you can use any chars (including spaces).
+Email Address: As in the full name don't add your real email address here - use your imagination. There are restrictions on what you can use on this field. You can use "a-z A-Z 0-9 - _ .". You can use other chars there since mIRC will allow this but you won't be able to connect to IRCHighWay.
+Nickname: Well this is kind of self explaining. Your nickname should not be longer than 30 chars and may contain the following characters: "a-z A-Z 0-9 _ - [ ] ` { } | ^ \"
+Alternative: If the Nickname you choose is used by someone else mIRC will try to log on using the alternative nickname you specify here.
+After this you need to specify the network you want to connect. Click on the category Servers. Server settings Do the following settings there:
+IRC Network: IRCHighway
+IRC Server: IRCHighway: Random serverThe next part is optional. Select the category Identd. Identd settings The Ident needs a closer explanation. You don't actually need to enable this feature but in some cases it is better if you have enabled it. When you connect the IRC Server sends a ident request on port 113. If you have enabled the Identd server and this port isn't blocked by any firewall or router then your mIRC will reply to that request. On some few IP ranges you might need, due heavy to spamming, a working Ident. Do the following settings:
+check Enable Identd server
+check Show Identd requests
+check only when connecting
+check Use ID from email address
+User ID: This will be ignored if you have checked Use ID from email address so you don't need to set anything here. Leave System and Port untouched. The other categories should be ok for now and the settings there should fit your needs. Close the mIRC Options by clicking OK. Then let's try to connect by typing /server or /server irc.irchighway.net or just by clicking the connect button located in the top left of the mIRC Window (see picture below). Connect Button After this a lot of text should appear in the Status Window and the mIRC Favorites should pop up (see link). mIRC Favorites You can safely uncheck Pop up favorites on connect and close this window by clicking OK. If that worked you are connected to IRCHighWay. Before I proceed in navigating on IRC we should have a look at Nickserv.
+3. Nickserv and registered nicks
+You may see some notices from Nickserv that the nick you use is already taken by someone else. The notice looks like this: Nickserv notice Well in this case you need to choose another nickname. You can do this easily by typing
+/nick nick_of_your_choice
+e.g.
+/nick john_doe
+.
+Nickserv will keep telling you this notice until you found a nick, which is not registered by someone else. If you want to use the same nick every time when you connect you may register it. The service called Nickserv handles the nicks of all registered users of the Network. The nick registration is free and you just need an email to confirm that you are a real person. To register the nick you currently use type
+/nickserv register password email
+e.g.
+/nickserv register supersecret This email address is being protected from spambots. You need JavaScript enabled to view it.
+Note: Your email address will be kept confidential. We will never send you spam mails or mails were we request private data (like passwords, banking accounts, etc). After this you will see a notice from nickserv telling you this:
+- NickServ - A passcode has been sent to This email address is being protected from spambots. You need JavaScript enabled to view it., please type /msg NickServ confirm <passcode> to complete registration
+Check your email account for new mails. Some email providers like hotmail may drop our mail sent by our services into your spamfolder. Open the mail and you will find a text like this:
+Hi, You have requested to register the following nickname some_nickname. Please type " /msg NickServ confirm JpayrtZSx " to complete registration. If you don't know why this mail is sent to you, please ignore it silently. PLEASE DON'T ANSWER TO THIS MAIL! irchighway.net administrators.
+Just copy and paste the part /msg NickServ confirm JpayrtZSx into your status window of you mIRC. Then press the enter key. A text like:
+- *NickServ* confirm JpayrtZSx - - NickServ - Nickname some_nickname registered under your account: *q@*.1413884c.some.isp.net -- NickServ - Your password is supersecret - remember this for later use.- * some_nickname sets mode: +r
+should appear after this. This means you finished your registration and the nick can only be used by you or you can force someone else if he/she uses your nick to give it back to you. If you disconnect then you need to tell nickserv that the nick is yours. you can do that by:
+/nickserv identify password e.g. /nickserv identify supersecret
+if the password is correct it should look like this:
+* some_nickname sets mode: +r - - NickServ - Password accepted - you are now recognized.
+In mIRC you can do the identification process automatically so you don't have to care about this anymore. Open the mIRC Options by pressing he key combination Alt + O then select the category Options and click on Perform you will see this dialog: Perform window
+Check Enable perform on connect and add: if ($network == irchighway) { /nickserv identify password } in the edit box called Perform commands Close the options by clicking OK. Now your mIRC will automatically identify you every time you connect to IRCHighway.
+4. Fining a channel
+Well now you have your nick registered and have identified for your nick but you don't see much of the actual IRC because you are in no channel right now. Channels are the rooms of a IRC network. Imagine if there are 15000 people connected and everyone see the text of each other.
+Well now the question may come up: How do I find a room? You can list the names of all rooms by typing /list. After you send this command a Window should pop up showing you the following information: for example: #help 55 :: IRCHighWay Helpdesk :: This is an IRC related ONLY help channel :: where:
+#help: the name of the channel
+55: the actual number of visitors of that channel
+:: IRCHighWay Helpdesk :: This is an IRC related ONLY help channel :: the topic of the channel where you can get a short information of what the channel is about. If you do just /list then a very long list will be shown and it would be a pain to find the channel you are searching for. Therefore you can search for a specific pattern in the channel name. For example if you look for a help channel type /list help. After this all channels with "help" in the name will pop up. You can join a channel by double-clicking on it's name or by typing: /join #channel-name e.g. /join #help.
+5. What you should know about channels
+Lets use the example with the channel #help. Type /join #help. A window pops up and you joined our official network help channel. The channel window looks like this: Channel window After you joined a channel you should always read the topic which you can find in the 2nd line after you joined a channel and maybe welcome notices like the one you see in our example sent by the nick "IRCHighWay" (the brown text). Topic and welcome notices usually give you information about the rules of the channel. On most channels you might be banned if you violate a rule which is shown in the topic. The nicknames you see at the left side of the channel window are the users which are currently in the channel. You might have noticed that some of them have tags like !, @, % or + in front of their nicks. This is the status of the nick in the Channel.
+! = channel admin
+@ = channel operator
+% = channel halfoperator
++ = voice
+The difference between these tags is the access the people have on the channel. But you can say for sure that all people with !, @ and % are somehow responsible for the channel.
+6. Basic commands
+I think the question of how to send some text to the channel is not relevant. You might have figured that out yourself by now. But there are several ways to send some text to another person besides the chat in the channel where other people can see what you type. These are called notices and private messages. As the name already says - these forms of messages can only read the person you sent it to. To send a notice do
+/notice nick text
+If you want to chat with someone in private then the "private message" would be the better choice. Just double click on a nick you want to chat with and a private message window will pop up. There you can chat with that person in private. However, if you don't have a nick to click on this will be a bit complicated so there exists a command for that. To open a private message window (short query) just type
+/query nick
+You might notice that if you double click into the query some weird information pop up in your status window like:
+Borg is This email address is being protected from spambots. You need JavaScript enabled to view it. * Borg
+Borg has identified for this nick
+Borg on #idlerpg @#vhost @#script !@#middle-earth !@#irchighway !@#help !@#abuse
+Borg using irc.irchighway.net The IRCHighWay Network
+Borg is using a secure connection (SSL)
+Borg is a Network Administrator
+Borg is a Services Administrator
+Borg is available for help
+Well this is called a /whois. A /whois nick shows you more or less useful information about a nick. There you can see:
+the hostmask of someone
+if the nick has identified for a registered nickname
+in what channels the nick joined
+what server the nick uses
+if the nick uses an encrypted connection.
+The last 3 lines have only people who are running the Network (IRCops). If you use our example of the #help channel then all admins / operators / halfoperators are IRCops. Well I think these commands are all you need for now but if you have questions about some specific things you can always ask patiently in #help.
+List of basic commands:
+/list: list all non secret channels which are currently in use/list pattern: list all non secret channels which match the pattern/join #channel: join #channel/part #channel: leave #channel/notice nick text: send a notice to a nick/msg nick text: send a private message to a nick/query nick: opens a private message window for the nick Actually one question might be already there and because this comes up relatively often.
+7. What is SSL?
+If you connect to IRCHighway like it's described above then the link to the server is a plain text connection. This means the data connection isn't secure and everyone who may be sniffing on your connection to the server may be able to read what you write. Therefore we provide a secure connection to our IRC Network. You can read how to set up SSL on your mIRC here
+ChanServ Help
+HELPChanServ allows you to register and control various aspects of channels. ChanServ can often prevent malicious users from "taking over" channels by limiting who is allowed channel operator priviliges. Available commands are listed below; to use them, type /msg ChanServcommand. For more information on a specific command, type /msg ChanServ HELP command.
+REGISTER
+Register a channel
+IDENTIFY
+Identify yourself with your password
+SET
+Set channel options and information
+AOP
+Modify the list of AOP users
+SOP
+Modify the list of SOP users
+ACCESS
+Modify the list of privileged users
+LEVELS
+Redefine the meanings of access levels
+AKICK
+Maintain the AutoKick list
+DROP
+Cancel the registration of a channel
+SENDPASS
+Help retrive lost passwords
+Other commands:
+BAN, CLEAR, DEOP, DEVOICE, GETKEY, INFO, INVITE, KICK, LIST, LOGOUT, OP, TOPIC, UNBAN, VOICE, VOP
+ULTIMATEThese commands are also available on this network: DEHALFOP, HALFOP, HOP
+EXPIRESNote that any channel which is not used for <num> days (i.e. which no user on the channel's access list enters for that period of time) will be automatically dropped.
+REGISTERSyntax: /msg ChanServ REGISTER channel password descriptionRegisters a channel in the ChanServ database. In order to use this command, you must first be a channel operator on the channel you're trying to register. The password is used with the IDENTIFY command to allow others to make changes to the channel settings at a later time. The last parameter, which must be included, is a general description of the channel's purpose.When you register a channel, you are recorded as the"founder" of the channel. The channel founder is allowed to change all of the channel settings for the channel; ChanServ will also automatically give the founder channel-operator privileges when s/he enters the channel. See theACCESS command (/msg ChanServ HELP ACCESS) for information on giving a subset of these privileges to other channel users.NOTICE: In order to register a channel, you must have first registered your nickname. If you haven't, /msg ChanServ HELP for information on how to do so.
+IDENTIFYSyntax: /msg ChanServ IDENTIFY channel passwordAuthenticates you to ChanServ as the founder of the given channel. Many commands require you to use this command before using them. The password should be the same one you sent with the REGISTER command.
+LOGOUTSyntax: /msg ChanServ LOGOUT channel nicknameThis command makes the selected nickname not identified anymore for the given channel. If you are the founder of the channel, you can log out anybody, else you can only log out yourself.
+DROPSyntax: /msg ChanServ DROP channelUnregisters the named channel. Can only be used by channel founder, who must use the IDENTIFY command first.
+SETSyntax: /msg ChanServ SET channel option parametersAllows the channel founder to set various channel options and other information.Available options:
+FOUNDER
+Set the founder of a channel
+SUCCESSOR
+Set the successor for a channel
+PASSWORD
+Set the founder password
+DESC
+Set the channel description
+URL
+Associate a URL with the channel
+EMAIL
+Associate an E-mail address with the channel
+ENTRYMSG
+Set a message to be sent to users when they enter the channel
+BANTYPE
+Set how Services make bans on the channel
+MLOCK
+Lock channel modes on or off
+KEEPTOPIC
+Retain topic when channel is not in use
+OPNOTICE
+Send a notice when OP/DEOP commands are used
+PEACE
+Regulate the use of critical commands
+PRIVATE
+Hide channel from LIST command
+RESTRICTED
+Restrict access to the channel
+SECURE
+Activate ChanServ security features
+SECUREOPS
+Stricter control of chanop status
+SECUREFOUNDER
+Stricter control of channel founder status
+SIGNKICK
+Sign kicks that are done with KICK command
+TOPICLOCK
+Topic can only be changed with TOPIC
+XOP
+Toggle the user privilege system
+Type /msg ChanServ HELP option for more information on a particular option.
+SET FOUNDERSyntax: /msg ChanServ SET channel FOUNDER nickChanges the founder of a channel. The new nickname must be a registered one.
+SET SUCCESSORSyntax: /msg ChanServ SET channel SUCCESSOR nickChanges the successor of a channel. If the founder's nickname expires or is dropped while the channel is still registered, the successor will become the new founder of the channel. However, if the successor already has too many channels registered (<num>), the channel will be dropped instead, just as if no successor had been set. The new nickname must be a registered one.
+SET PASSWORDSyntax: /msg ChanServ SET channel PASSWORD passwordSets the password used to identify as the founder of the channel.
+SET DESCSyntax: /msg ChanServ SET channel DESC descriptionSets the description for the channel, which shows up with the LIST and INFO commands.
+SET URLSyntax: /msg ChanServ SET channel URL [url]Associates the given URL with the channel. This URL will be displayed whenever someone requests information on the channel with the INFO command. If no parameter is given, deletes any current URL for the channel.
+SET EMAILSyntax: /msg ChanServ SET channel EMAIL [address]Associates the given E-mail address with the channel. This address will be displayed whenever someone requests information on the channel with the INFO command. If no parameter is given, deletes any current E-mail address for the channel.
+SET ENTRYMSGSyntax: /msg ChanServ SET channel ENTRYMSG [message]Sets the message which will be sent via /notice to users when they enter the channel. If no parameter is given, causes no message to be sent upon entering the channel.
+SET BANTYPESyntax: /msg ChanServ SET channel BANTYPE bantypeSets the ban type that will be used by services whenever they need to ban someone from your channel. bantype is a number between 0 and 3 that means:
+0:
+ban in the form *!user@host
+1:
+ban in the form *!*user@host
+2:
+ban in the form *!*@host
+3:
+ban in the form *!*user@*.domain
+SET KEEPTOPICSyntax: /msg ChanServ SET channel KEEPTOPIC {ON | OFF}Enables or disables the topic retention option for a channel. When topic retention is set, the topic for the channel will be remembered by ChanServ even after the last user leaves the channel, and will be restored the next time the channel is created.
+SET TOPICLOCKSyntax: /msg ChanServ SET channel TOPICLOCK {ON | OFF}Enables or disables the topic lock option for a channel. When topic lock is set, ChanServ will not allow the channel topic to be changed except via the TOPIC command.
+SET MLOCKSyntax: /msg ChanServ SET channel MLOCK modesSets the mode-lock parameter for the channel. ChanServ allows you to define certain channel modes to be always on, off or free to be either on or off.The modes parameter is constructed exactly the same way as a /MODE command; that is, modes followed by a + are locked on, and modes followed by a - are locked off. Note, however, that unlike the /MODE command, each use of SET MLOCK will remove all modes previously locked before setting the new!Warning: If you set a mode-locked key, as in the second example below, you should also set the RESTRICTED option for the channel (see HELP SET RESTRICTED), or anyone entering the channel when it is empty will be able to see the key!Examples:
+SET #channel MLOCK +nt-iklps
+Forces modes n and t on, and modes i, k, l, p, and s off. Mode m is left free to be either on or off.
+SET #channel MLOCK +knst-ilmp my-key
+Forces modes k, n, s, and t on, and modes i, l, m, and p off. Also forces the channel key to be "my-key".
+SET #channel MLOCK +
+Removes the mode lock; all channel modes are free to be either on or off.
+SET PEACESyntax: /msg ChanServ SET channel PEACE {ON | OFF}Enables or disables the peace option for a channel. When peace is set, an user won't be able to kick, ban or remove a channel status of an user that has a level superior or equal to his via ChanServ commands.
+SET PRIVATESyntax: /msg ChanServ SET channel PRIVATE {ON | OFF}Enables or disables the private option for a channel. When private is set, a /msg ChanServ LIST will not include the channel in any lists.
+SET RESTRICTEDSyntax: /msg ChanServ SET channel RESTRICTED {ON | OFF}Enables or disables the restricted access option for a channel. When restricted access is set, users who would normally be disallowed from having channel operator privileges (users with negative access levels and, if secure ops is set, users not on the access list) will instead be kicked and banned from the channel.
+SET SECURESyntax: /msg ChanServ SET channel SECURE {ON | OFF}Enables or disables ChanServ's security features for a channel. When SECURE is set, only users who have registered their nicknames with ChanServ and IDENTIFY'd with their password will be given access to the channel as controlled by the access list.
+SET SECUREOPSSyntax: /msg ChanServ SET channel SECUREOPS {ON | OFF}Enables or disables the secure ops option for a channel. When secure ops is set, users who are not on the userlist will not be allowed chanop status.
+SET SECUREFOUNDERSyntax: /msg ChanServ SET channel SECUREFOUNDER {ON | OFF}Enables or disables the secure founder option for a channel. When secure founder is set, only the real founder will be able to drop the channel, change its password, its founder and its successor, and not those who are IDENTIFY'd with ChanServ.
+SET SIGNKICKSyntax: /msg ChanServ SET channel SIGNKICK {ON | LEVEL | OFF}Enables or disables signed kicks for a channel. When SIGNKICK is set, kicks issued with ChanServ KICK command will have the nick that used the command in their reason.If you use LEVEL, those who have a level that is superior or equal to the SIGNKICK level on the channel won't have their kicks signed. See /msg ChanServ HELP LEVELS for more information.
+SET XOPSyntax: /msg ChanServ SET channel XOP {ON | OFF}Enables or disables the xOP lists system for a channel. When XOP is set, you have to use the AOP/SOP/VOP commands in order to give channel privileges to users, else you have to use the ACCESS command.Technical Note: when you switch from access list to xOP lists system, your level definitions and user levels will be changed, so you won't find the same values if you switch back to access system!You should also check that your users are in the good xOP list after the switch from access to xOP lists, because the guess is not always perfect... in fact, it is not recommended to use the xOP lists if you changed level definitions with the LEVELS command.Switching from xOP lists system to access list system causes no problem though.
+SET OPNOTICESyntax: /msg ChanServ SET channel OPNOTICE {ON | OFF}Enables or disables the op-notice option for a channel. When op-notice is set, ChanServ will send a notice to the channel whenever the OP or DEOP commands are used for a user in the channel.
+AOPSyntax:/msg ChanServ AOP channel ADD nick/msg ChanServ AOP channel DEL {nick | entry-num | list}/msg ChanServ AOP channel LIST [mask | list]/msg ChanServ AOP channel CLEARMaintains the AOP (AutoOP) list for a channel. The AOP list gives users the right to be auto-opped on your channel, to unban or invite themselves if needed, to have their greet message showed on join, and so on.The AOP ADD command adds the given nickname to the AOP list.The AOP DEL command removes the given nick from the AOP list. If a list of entry numbers is given, those entries are deleted. (See the example for LIST below.)The AOP LIST command displays the AOP list. If a wildcard mask is given, only those entries matching the mask are displayed. If a list of entry numbers is given, only those entries are shown; for example:
+AOP #channel LIST 2-5,7-9
+Lists AOP entries numbered 2 through 5 and 7 through 9.
+The AOP CLEAR command clears all entries of the AOP list.The AOP ADD and AOP DEL commands are limited to SOPs or above, while the AOP CLEAR command can only be used by the channel founder. However, any user on the AOP list may use the AOP LIST command.This command may have been disabled for your channel, and in that case you need to use the access list. See /msg ChanServ HELP ACCESS for information about the access list, and /msg ChanServ HELP SET XOP to know how to toggle between the access list and xOP list systems.
+HOPSyntax:/msg ChanServ HOP channel ADD nick/msg ChanServ HOP channel DEL {nick | entry-num | list}/msg ChanServ HOP channel LIST [mask | list]/msg ChanServ HOP channel CLEARMaintains the HOP (HalfOP) list for a channel. The HOP list gives users the right to be auto-halfopped on your channel.The HOP ADD command adds the given nickname to the HOP list.The HOP DEL command removes the given nick from the HOP list. If a list of entry numbers is given, those entries are deleted. (See the example for LIST below.)The HOP LIST command displays the HOP list. If a wildcard mask is given, only those entries matching the mask are displayed. If a list of entry numbers is given, only those entries are shown; for example:
+HOP #channel LIST 2-5,7-9
+Lists HOP entries numbered 2 through 5 and 7 through 9.
+The HOP CLEAR command clears all entries of the HOP list.The HOP ADD, HOP DEL and HOP LIST commands are limited to AOPs or above, while the HOP CLEAR command can only be used by the channel founder.This command may have been disabled for your channel, and in that case you need to use the access list. See /msg ChanServ HELP ACCESS for information about the access list, and /msg ChanServ HELP SET XOP to know how to toggle between the access list and xOP list systems.
+SOPSyntax:/msg ChanServ SOP channel ADD nick/msg ChanServ SOP channel DEL {nick | entry-num | list}/msg ChanServ SOP channel LIST [mask | list]/msg ChanServ SOP channel CLEARMaintains the SOP (SuperOP) list for a channel. The SOP list gives users all rights given by the AOP list, and adds those needed to use the AutoKick and the BadWords lists, to send and read channel memos, and so on.The SOP ADD command adds the given nickname to the SOP list.The SOP DEL command removes the given nick from the SOP list. If a list of entry numbers is given, those entries are deleted. (See the example for LIST below.)The SOP LIST command displays the SOP list. If a wildcard mask is given, only those entries matching the mask are displayed. If a list of entry numbers is given, only those entries are shown; for example:
+SOP #channel LIST 2-5,7-9
+Lists SOP entries numbered 2 through 5 and 7 through 9.
+The SOP CLEAR command clears all entries of the SOP list.The SOP ADD, SOP DEL and SOP CLEAR commands are limited to the channel founder. However, any user on the AOP list may use the SOP LIST command.This command may have been disabled for your channel, and in that case you need to use the access list. See /msg ChanServ HELP ACCESS for information about the access list, and /msg ChanServ HELP SET XOP to know how to toggle between the access list and xOP list systems.
+VOPSyntax:/msg ChanServ VOP channel ADD nick/msg ChanServ VOP channel DEL {nick | entry-num | list}/msg ChanServ VOP channel LIST [mask | list]/msg ChanServ VOP channel CLEARMaintains the VOP (VOicePeople) list for a channel. The VOP list allows users to be auto-voiced and to voice themselves if they aren't.The VOP ADD command adds the given nickname to the VOP list.The VOP DEL command removes the given nick from the VOP list. If a list of entry numbers is given, those entries are deleted. (See the example for LIST below.)The VOP LIST command displays the VOP list. If a wildcard mask is given, only those entries matching the mask are displayed. If a list of entry numbers is given, only those entries are shown; for example:
+VOP #channel LIST 2-5,7-9
+Lists VOP entries numbered 2 through 5 and 7 through 9.
+The VOP CLEAR command clears all entries of the VOP list.The VOP ADD, VOP DEL and VOP LIST commands are limited to AOPs or above, while the VOP CLEAR command can only be used by the channel founder.This command may have been disabled for your channel, and in that case you need to use the access list. See /msg ChanServ HELP ACCESS for information about the access list, and /msg ChanServ HELP SET XOP to know how to toggle between the access list and xOP list systems.
+ACCESSSyntax:/msg ChanServ ACCESS channel ADD nick level/msg ChanServ ACCESS channel DEL {nick | entry-num | list}/msg ChanServ ACCESS channel LIST [mask | list]/msg ChanServ ACCESS channel CLEARMaintains the access list for a channel. The access list specifies which users are allowed chanop status or access to ChanServ commands on the channel. Different user levels allow for access to different subsets of privileges; /msg ChanServ HELP ACCESS LEVELS for more specific information. Any nick not on the access list has a user level of 0.The ACCESS ADD command adds the given nickname to the access list with the given user level; if the nick is already present on the list, its access level is changed to the level specified in the command. The level specified must be less than that of the user giving the command, and if the nick is already on the access list, the current access level of that nick must be less than the access level of the user giving the command.The ACCESS DEL command removes the given nick from the access list. If a list of entry numbers is given, those entries are deleted. (See the example for LIST below.)The ACCESS LIST command displays the access list. If a wildcard mask is given, only those entries matching the mask are displayed. If a list of entry numbers is given, only those entries are shown; for example:
+ACCESS #channel LIST 2-5,7-9
+Lists access entries numbered 2 through 5 and 7 through 9.
+The ACCESS CLEAR command clears all entries of the access list.
+ACCESS LEVELSBy default, the following access levels are defined:
+Founder
+Full access to ChanServ functions; automatic opping upon entering channel. Note that only one person may have founder status (it cannot be given using the ACCESS command).
+10
+Access to AKICK command; automatic opping.
+5
+Automatic opping.
+3
+Automatic voicing.
+0
+No special privileges; can be opped by other ops (unless secure-ops is set).
+<0
+May not be opped.
+These levels may be changed, or new ones added, using the LEVELS command; type /msg ChanServ HELP LEVELS for information.
+AKICKSyntax:/msg ChanServ AKICK channel ADD mask [reason]/msg ChanServ AKICK channel STICK mask/msg ChanServ AKICK channel UNSTICK mask/msg ChanServ AKICK channel DEL mask/msg ChanServ AKICK channel LIST [mask]/msg ChanServ AKICK channel VIEW [mask]/msg ChanServ AKICK channel ENFORCE/msg ChanServ AKICK channel CLEARMaintains the AutoKick list for a channel. If a user on the AutoKick list attempts to join the channel, ChanServ will ban that user from the channel, then kick the user.The AKICK ADD command adds the given nick or usermask to the AutoKick list. If a reason is given with the command, that reason will be used when the user is kicked; if not, the default reason is "You have been banned from the channel".The AKICK STICK command permanently bans the given mask on the channel. If someone tries to remove the ban, ChanServ will automatically set it again. You can't use it for registered nicks.The AKICK UNSTICK command cancels the effect of the AKICK STICK command, so you'll be able to unset the ban again on the channel.The AKICK DEL command removes the given nick or mask from the AutoKick list. It does not, however, remove any bans placed by an AutoKick; those must be removed manually.The AKICK LIST command displays the AutoKick list, or optionally only those AutoKick entries which match the given mask.The AKICK VIEW command is a more verbose version of AKICK LIST command.The AKICK ENFORCE command causes ChanServ to enforce the current AKICK list by removing those users who match an AKICK mask.The AKICK CLEAR command clears all entries of the akick list.
+LEVELSSyntax:/msg ChanServ LEVELS channel SET type level/msg ChanServ LEVELS channel {DIS | DISABLE} type/msg ChanServ LEVELS channel LIST/msg ChanServ LEVELS channel RESETThe LEVELS command allows fine control over the meaning of the numeric access levels used for channels. With this command, you can define the access level required for most of ChanServ's functions. (The SET FOUNDER and SET PASSWORD commands, as well as this command, are always restricted to the channel founder.)LEVELS SET allows the access level for a function or group of functions to be changed. LEVELS DISABLE (or DIS for short) disables an automatic feature or disallows access to a function by anyone other than the channel founder. LEVELS LIST shows the current levels for each function or group of functions. LEVELS RESET resets the levels to the default levels of a newly-created channel (see HELP ACCESS LEVELS).For a list of the features and functions whose levels can be set, see HELP LEVELS DESC.
+INFOSyntax: /msg ChanServ INFO channel [ALL]Lists information about the named registered channel, including its founder, time of registration, last time used, description, and mode lock, if any. If ALL is specified, the entry message and successor will also be displayed.By default, the ALL option is limited to those with founder access on the channel.
+LISTSyntax: /msg ChanServ LIST patternLists all registered channels matching the given pattern. (Channels with the PRIVATE option set are not listed.)
+OPSyntax: /msg ChanServ OP [#channel [nick]]Ops a selected nick on a channel. If nick is not given, it will op you. If channel and nick are not given, it will op you on all channels you're on, provided you have the rights to.By default, limited to AOPs or those with level 5 access and above on the channel.
+DEOPSyntax: /msg ChanServ DEOP [#channel [nick]]Deops a selected nick on a channel. If nick is not given, it will deop you. If channel and nick are not given, it will deop you on all channels you're on, provided you have the rights to.By default, limited to AOPs or those with level 5 access and above on the channel.
+VOICESyntax: /msg ChanServ VOICE [#channel [nick]]Voices a selected nick on a channel. If nick is not given, it will voice you. If channel and nick are not given, it will voice you on all channels you're on, provided you have the rights to.By default, limited to AOPs or those with level 5 access and above on the channel, or to VOPs or those with level 3 and above for self voicing.
+DEVOICESyntax: /msg ChanServ DEVOICE [#channel [nick]]Devoices a selected nick on a channel. If nick is not given, it will devoice you. If channel and nick are not given, it will devoice you on all channels you're on, provided you have the rights to.By default, limited to AOPs or those with level 5 access and above on the channel, or to VOPs or those with level 3 and above for self devoicing.
+HALFOPSyntax: /msg ChanServ HALFOP [#channel [nick]]Halfops a selected nick on a channel. If nick is not given, it will halfop you. If channel and nick are not given, it will halfop you on all channels you're on, provided you have the rights to.By default, limited to AOPs and those with level 5 access and above on the channel, or to HOPs or those with level 4 and above for self halfopping.
+DEHALFOPSyntax: /msg ChanServ DEHALFOP [#channel [nick]]Dehalfops a selected nick on a channel. If nick is not given, it will dehalfop you. If channel and nick are not given, it will dehalfop you on all channels you're on, provided you have the rights to.By default, limited to AOPs and those with level 5 access and above on the channel, or to HOPs or those with level 4 and above for self dehalfopping.
+PROTECTSyntax: /msg ChanServ PROTECT [#channel [nick]]Protects a selected nick on a channel. If nick is not given, it will protect you. If channel and nick are not given, it will protect you on all channels you're on, provided you have the rights to.By default, limited to the founder, or to SOPs or those with level 10 and above on the channel for self protecting.
+DEPROTECTSyntax: /msg ChanServ DEPROTECT [#channel [nick]]Deprotects a selected nick on a channel. If nick is not given, it will deprotect you. If channel and nick are not given, it will deprotect you on all channels you're on, provided you have the rights to.By default, limited to the founder, or to SOPs or those with level 10 and above on the channel for self deprotecting.
+OWNERSyntax: /msg ChanServ OWNER [#channel]Gives you owner status on channel. If channel is not given, it will give you owner status on all channels you're on, provided you have the rights to.Limited to those with founder access on the channel.
+DEOWNERSyntax: /msg ChanServ DEOWNER [#channel]Removes your owner status on channel. If channel is not given, it will remove your owner status on all channels you're on, provided you have the rights to.Limited to those with founder access on the channel.
+INVITESyntax: /msg ChanServ INVITE channelTells ChanServ to invite you into the given channel.By default, limited to AOPs or those with level 5 and above on the channel.
+UNBANSyntax: /msg ChanServ UNBAN channelTells ChanServ to remove all bans preventing you from entering the given channel.By default, limited to AOPs or those with level 5 and above on the channel.
+KICKSyntax: /msg ChanServ KICK [#channel [nick [reason]]]Kicks a selected nick on a channel. If nick is not given, it will kick you. If channel and nick are not given, it will kick you on all channels you're on, provided you have the rights to.By default, limited to AOPs or those with level 5 access and above on the channel.
+BANSyntax: /msg ChanServ BAN [#channel [nick [reason]]]Bans a selected nick on a channel. If nick is not given, it will ban you. If channel and nick are not given, it will ban you on all channels you're on, provided you have the rights to.By default, limited to AOPs or those with level 5 access and above on the channel.
+TOPICSyntax: /msg ChanServ TOPIC channel [topic]Causes ChanServ to set the channel topic to the one specified. If topic is not given, then an empty topic is set. This command is most useful in conjunction with SET TOPICLOCK. See /msg ChanServ HELP SET TOPICLOCK for more information.By default, limited to those with founder access on the channel.
+CLEARSyntax: /msg ChanServ CLEAR channel whatTells ChanServ to clear certain settings on a channel. what can be any of the following:
+MODES
+Resets all modes on the channel (i.e. clears modes i,k,l,m,n,p,s,t).
+BANS
+Clears all bans on the channel.
+EXCEPTS
+Clears all excepts on the channel.
+OPS
+Removes channel-operator status (mode +o) from all channel operators.
+VOICES
+Removes "voice" status (mode +v) from anyone with that mode set.
+USERS
+Removes (kicks) all users from the channel.
+By default, limited to those with founder access on the channel.
+GETKEYSyntax: /msg ChanServ GETKEY channelReturns the key of the given channel. This is a command mainly intended to be used by bots and/or scripts, so the output is in the following way:KEY <channel> <key>key is "NO KEY" if no key is set.
+SENDPASSSyntax: /msg ChanServ SENDPASS channelSend the password of the given channel to the e-mail address set in the founder's nickname record. This command is really useful to deal with lost passwords.May be limited to IRC operators on certain networks.This command is unavailable when encryption is enabled.
+SERVADMIN HELPThe following commands are available to Services admins:
+GETPASS
+Retrieve the founder password for a channel (only if encryption is disabled).
+FORBID
+Prevent a channel from being used.
+SUSPEND
+Prevent a channel from being used preserving channel data and settings.
+UNSUSPEND
+Releases a suspended channel.
+STATUS
+Returns the current access level of a user on a channel.
+Services admins can also drop any channel without needing to identify via password, and may view the access, AKICK, and level setting lists for any channel.
+SERVADMIN LOGOUTSyntax: /msg ChanServ LOGOUT channel [nickname]This command makes the selected nickname not identified anymore for the given channel.If you are the founder of the channel, you can log out anybody, else you can only log out yourself.If you are a Services admin, you can log out anybody of any channel without having to be the founder of the channel. Also, you can omit the nickname parameter; this will log out all identified users from the channel.
+SERVADMIN DROPSyntax: /msg ChanServ DROP channelUnregisters the named channel. Only Services admins can drop a channel for which they have not identified.
+SERVADMIN SETServices admins can also set the option NOEXPIRE, with which channels can be prevented from expiring. Additionally, Services admins can set options for any channel without identifying by password for the channel.
+SERVADMIN SET NOEXPIRESyntax: /msg ChanServ SET channel NOEXPIRE {ON | OFF}Sets whether the given channel will expire. Setting this to ON prevents the channel from expiring.Limited to Services admins.
+SERVADMIN INFOServices admins can use the ALL parameter with any channel.
+SERVADMIN LISTSyntax: /msg ChanServ LIST pattern [FORBIDDEN] [SUSPENDED] [NOEXPIRE]Lists all registered channels matching the given pattern. Channels with the PRIVATE option set will only be displayed to Services admins. Channels with the NOEXPIRE option set will have a ! prepended to the channel name for Services admins.If the FORBIDDEN, SUSPENDED or NOEXPIRE options are given, only channels which, respectively, are FORBIDden, SUSPENDed or have the NOEXPIRE flag set will be displayed. If both options are given, both types of channels will be displayed. These options are limited to Services admins.
+SERVADMIN GETPASSSyntax: /msg ChanServ GETPASS channelReturns the password for the given channel. Note that whenever this command is used, a message including the person who issued the command and the channel it was used on will be logged and sent out as a WALLOPS/GLOBOPS.Limited to Services admins.
+SERVADMIN FORBIDSyntax: /msg ChanServ FORBID channel [reason]Disallows anyone from registering or using the given channel. May be cancelled by dropping the channel.Reason may be required on certain networks.Limited to Services admins.
+SERVADMIN SUSPENDSyntax: /msg ChanServ SUSPEND channel [reason]Disallows anyone from registering or using the given channel. May be cancelled by using the UNSUSPEND command to preserve all previous channel data/settings.Reason may be required on certain networks.Limited to Services admins.
+SERVADMIN UNSUSPENDSyntax: /msg ChanServ UNSUSPEND channelReleases a suspended channel. All data and settings are preserved from before the suspension.Limited to Services admins.
+SERVADMIN STATUSSyntax: /msg ChanServ STATUS channel nicknameReturns the current access level of the given nick on the given channel. The reply is of the form:STATUS channel nickname access-levelIf an error occurs, the reply will be in the form:STATUS ERROR error-messageLimited to Services admins.
+vHost Help
+To activate your Vhost after it's been approved, simply identify your nick.
+NickServ Help
+HELP
+NickServ allows you to "register" a nickname and
+prevent others from using it. The following
+commands allow for registration and maintenance of
+nicknames; to use them, type /msg NickServ command.
+For more information on a specific command, type
+/msg NickServ HELP command.
+REGISTER
+Register a nickname
+GROUP
+Join a group
+IDENTIFY
+Identify yourself with your password
+ACCESS
+Modify the list of authorized addresses
+SET
+Set options, including kill protection
+DROP
+Cancel the registration of a nickname
+RECOVER
+Kill another user who has taken your nick
+RELEASE
+Regain custody of your nick after RECOVER
+SENDPASS
+Forgot your password? Try this
+Other commands: GHOST, ALIST, GLIST, INFO, LIST, LOGOUT,
+STATUS
+NOTICE: This service is intended to provide a way for
+IRC users to ensure their identity is not compromised.
+It is NOT intended to facilitate "stealing" of
+nicknames or other malicious actions.
+Abuse of NickServ
+will result in, at minimum, loss of the abused
+nickname(s).
+REGISTER
+Syntax: /msg NickServ
+REGISTER password [email]
+Registers your nickname in the NickServ database.
+Once
+your nick is registered, you can use the SET and ACCESS
+commands to configure your nick's settings as you like
+them.
+Make sure you remember the password you use when
+registering - you'll need it to make changes to your nick
+later.
+(Note that case matters!
+EPONA, Epona, and
+epona are all different passwords!)
+Guidelines on choosing passwords:
+Passwords should not be easily guessable.
+For example,
+using your real name as a password is a bad idea.
+Using
+your nickname as a password is a much worse idea ;) and,
+in fact, NickServ will not allow it.
+Also, short
+passwords are vulnerable to trial-and-error searches, so
+you should choose a password at least 5 characters long.
+Finally, the space character cannot be used in passwords.
+The parameter email is optional and will set the email
+for your nick immediately. However, it may be required
+on certain networks.
+Your privacy is respected; this e-mail won't be given to
+any third-party person.
+This command also creates a new group for your nickname,
+that will allow you to register other nicks later sharing
+the same configuration, the same set of memos and the
+same channel privileges. For more information on this
+feature, type /msg NickServ HELP GROUP.
+GROUP
+Syntax: /msg NickServ
+GROUP target password
+This command makes your nickname join the target nickname's
+group. password is the password of the target nickname.
+Joining a group will allow you to share your configuration,
+memos, and channel priviledges with all the nicknames in the
+group, and much more!
+A group exists as long as it is useful. This means that even
+if a nick of the group is dropped, you won't lose the
+shared things described above, as long as there is at
+least one nick remaining in the group.
+You can use this command even if you have not registered
+your nick yet. If your nick is already registered, you'll
+need to identify yourself before using this command. Type
+/msg NickServ HELP IDENTIFY for more information. This
+last may be not possible on your IRC network.
+It is recommended to use this command with a non-registered
+nick because it will be registered automatically when
+using this command. You may use it with a registered nick (to
+change your group) only if your network administrators allowed
+it.
+You can only be in one group at a time. Group merging is
+not possible.
+Note: all the nicknames of a group have the same password.
+IDENTIFY
+Syntax: /msg NickServ
+IDENTIFY password
+Tells NickServ that you are really the owner of this
+nick.
+Many commands require you to authenticate yourself
+with this command before you use them.
+The password
+should be the same one you sent with the REGISTER
+command.
+LOGOUT
+Syntax: /msg NickServ
+LOGOUT
+This reverses the effect of the IDENTIFY command, i.e.
+make you not recognized as the real owner of the nick
+anymore. Note, however, that you won't be asked to reidentify
+yourself.
+DROP
+Syntax: /msg NickServ
+DROP [nickname]
+Drops your nickname from the NickServ database.
+A nick
+that has been dropped is free for anyone to re-register.
+You may drop a nick within your group by passing it
+as the nick parameter.
+In order to use this command, you must first identify
+with your password (/msg NickServ HELP IDENTIFY for more
+information).
+ACCESS
+Syntax: /msg NickServ
+ACCESS ADD mask
+ACCESS DEL mask
+ACCESS LIST
+Modifies or displays the access list for your nick.
+This
+is the list of addresses which will be automatically
+recognized by NickServ as allowed to use the nick.
+If
+you want to use the nick from a different address, you
+need to send an IDENTIFY command to make NickServ
+recognize you.
+Examples:
+ACCESS ADD anyone@*.bepeg.com
+Allows access to user anyone from any machine in
+the bepeg.com domain.
+ACCESS DEL anyone@*.bepeg.com
+Reverses the previous command.
+ACCESS LIST
+Displays the current access list.
+SET
+Syntax: /msg NickServ
+SET option parameters
+Sets various nickname options.
+option can be one of:
+DISPLAY
+Set the display of your group in Services
+PASSWORD
+Set your nickname password
+LANGUAGE
+Set the language Services will use when
+sending messages to you
+URL
+Associate a URL with your nickname
+EMAIL
+Associate an E-mail address with your nickname
+ICQ
+Associate an ICQ number with your nickname
+GREET
+Associate a greet message with your nickname
+KILL
+Turn protection on or off
+SECURE
+Turn nickname security on or off
+PRIVATE
+Prevent your nickname from appearing in a
+/msg NickServ LIST
+HIDE
+Hide certain pieces of nickname information
+MSG
+Change the communication method of Services
+In order to use this command, you must first identify
+with your password (/msg NickServ HELP IDENTIFY for more
+information).
+Type /msg NickServ HELP SET option for more information
+on a specific option.
+SET DISPLAY
+Syntax: /msg NickServ
+SET DISPLAY new-display
+Changes the display used to refer to your nickname group in
+Services. The new display MUST be a nick of your group.
+SET PASSWORD
+Syntax: /msg NickServ
+SET PASSWORD new-password
+Changes the password used to identify you as the nick's
+owner.
+SET LANGUAGE
+Syntax: /msg NickServ
+SET LANGUAGE number
+Changes the language Services uses when sending messages to
+you (for example, when responding to a command you send).
+number should be chosen from the following list of
+supported languages:
+SET URL
+Syntax: /msg NickServ
+SET URL url
+Associates the given URL with your nickname.
+This URL
+will be displayed whenever someone requests information
+on your nick with the INFO command.
+SET EMAIL
+Syntax: /msg NickServ
+SET EMAIL address
+Associates the given E-mail address with your nickname.
+This address will be displayed whenever someone requests
+information on the channel with the INFO command.
+SET ICQ
+Syntax: /msg NickServ
+SET ICQ number
+Associates the given ICQ number with your nickname.
+This
+number will be displayed whenever someone requests
+information on your nick with the INFO command.
+SET GREET
+Syntax: /msg NickServ
+SET GREET message
+Makes the given message the greet of your nickname, that
+will be displayed when joining a channel that has GREET
+option enabled, provided that you have the necessary
+access on it.
+SET KILL
+Syntax: /msg NickServ
+SET KILL {ON | QUICK | IMMED | OFF}
+Turns the automatic protection option for your nick
+on or off.
+With protection on, if another user
+tries to take your nick, they will be given one minute to
+change to another nick, after which NickServ will forcibly change
+their nick.
+If you select QUICK, the user will be given only 20 seconds
+to change nicks instead of the usual 60.
+If you select
+IMMED, user's nick will be changed immediately without being
+warned first or given a chance to change their nick; please
+do not use this option unless necessary.
+Also, your
+network's administrators may have disabled this option.
+SET SECURE
+Syntax: /msg NickServ
+SET SECURE {ON | OFF}
+Turns NickServ's security features on or off for your
+nick.
+With SECURE set, you must enter your password
+before you will be recognized as the owner of the nick,
+regardless of whether your address is on the access
+list.
+However, if you are on the access list, NickServ
+will not auto-kill you regardless of the setting of the
+KILL option.
+SET PRIVATE
+Syntax: /msg NickServ
+SET PRIVATE {ON | OFF}
+Turns NickServ's privacy option on or off for your nick.
+With PRIVATE set, your nickname will not appear in
+nickname lists generated with NickServ's LIST command.
+(However, anyone who knows your nickname can still get
+information on it using the INFO command.)
+SET HIDE
+Syntax: /msg NickServ
+SET HIDE {EMAIL | USERMASK | QUIT} {ON | OFF}
+Allows you to prevent certain pieces of information from
+being displayed when someone does a NickServ INFO on your
+nick.
+You can hide your E-mail address (EMAIL), last seen
+user@host mask (USERMASK), and last quit message (QUIT).
+The second parameter specifies whether the information should
+be displayed (OFF) or hidden (ON).
+SET MSG
+Syntax: /msg NickServ
+SET MSG {ON | OFF}
+Allows you to choose the way Services are communicating with
+you. With MSG set, Services will use messages, else they'll
+use notices.
+RECOVER
+Syntax: /msg NickServ
+RECOVER nickname [password]
+Allows you to recover your nickname if someone else has
+taken it; this does the same thing that NickServ does
+automatically if someone tries to use a kill-protected
+nick.
+When you give this command, NickServ will bring a fake
+user online with the same nickname as the user you're
+trying to recover your nick from.
+This causes the IRC
+servers to disconnect the other user.
+This fake user will
+will remain online for one minute to ensure that the other
+user does not immediately reconnect; after that minute, you
+can reclaim your nick.
+Alternatively, use the RELEASE
+command (/msg NickServ HELP RELEASE) to get the nick
+back sooner.
+In order to use the RECOVER command for a nick, your
+current address as shown in /WHOIS must be on that nick's
+access list, you must be identified and in the group of
+that nick, or you must supply the correct password for
+the nickname.
+RELEASE
+Syntax: /msg NickServ
+RELEASE nickname [password]
+Instructs NickServ to remove any hold on your nickname
+caused by automatic kill protection or use of the RECOVER
+command.
+By default, such holds last for one minute;
+this command gets rid of them sooner.
+In order to use the RELEASE command for a nick, your
+current address as shown in /WHOIS must be on that nick's
+access list, you must be identified and in the group of
+that nick, or you must supply the correct password for
+the nickname.
+GHOST
+Syntax: /msg NickServ
+GHOST nickname [password]
+Terminates a "ghost" IRC session using your nick.
+A
+"ghost" session is one which is not actually connected,
+but which the IRC server believes is still online for one
+reason or another.
+Typically, this happens if your
+computer crashes or your Internet or modem connection
+goes down while you're on IRC.
+In order to use the GHOST command for a nick, your
+current address as shown in /WHOIS must be on that nick's
+access list, you must be identified and in the group of
+that nick, or you must supply the correct password for
+the nickname.
+INFO
+Syntax: /msg NickServ
+INFO nickname [ALL]
+Displays information about the given nickname, such as
+the nick's owner, last seen address and time, and nick
+options. If you are identified for the nick you're
+getting information for and ALL is specified, you will
+be shown all the information; regardless of whether
+it's hidden or not.
+LIST
+Syntax: /msg NickServ
+LIST pattern
+Lists all registered nicknames which match the given
+pattern, in nick!user@host format.
+Nicks with the
+PRIVATE option set will not be displayed.
+Examples:
+LIST *!This email address is being protected from spambots. You need JavaScript enabled to view it.
+Lists all nicks owned by This email address is being protected from spambots. You need JavaScript enabled to view it..
+LIST *Bot*!*@*
+Lists all registered nicks with Bot in their
+names (case insensitive).
+LIST *!*@*.bar.org
+Lists all nicks owned by users in the bar.org
+domain.
+ALIST
+Syntax: /msg NickServ
+ALIST [level]
+Lists all channels you have access on. Optionally, you can specify
+a level in XOP or ACCESS format. The resulting list will only
+include channels where you have the given level of access.
+Examples:
+ALIST Founder
+Lists all channels where you have Founder
+access.
+ALIST AOP
+Lists all channels where you have AOP access
+or greater.
+ALIST 10
+Lists all channels where you have level 10
+access or greater.
+Channels that have the NOEXPIRE option set will be prefixed by
+an exclamation mark.
+GLIST
+Syntax: /msg NickServ
+GLIST
+Lists all nicks in your group.
+STATUS
+Syntax: /msg NickServ
+STATUS nickname...
+Returns whether the user using the given nickname is
+recognized as the owner of the nickname.
+The response has
+this format:
+nickname status-code
+where nickname is the nickname sent with the command, and
+status-code is one of the following:
+0 - no such user online or nickname not registered
+1 - user not recognized as nickname's owner
+2 - user recognized as owner via access list only
+3 - user recognized as owner via password identification
+Up to sixteen nicknames may be sent with each command; the
+rest will be ignored.
+No error message is generated if no
+nickname is given.
+SENDPASS
+Syntax: /msg NickServ
+SENDPASS nickname
+Send the password of the given nickname to the e-mail address
+set in the nickname record. This command is really useful
+to deal with lost passwords.
+May be limited to IRC operators on certain networks.
+This command is unavailable when encryption is enabled.
+SERVADMIN HELP
+The following commands are available to Services admins:
+GETPASS
+Retrieve the password for a nickname
+(only if encryption is disabled)
+FORBID
+Prevent a nickname from being used
+Services admins can also drop any nickname without needing
+to identify for the nick, and may view the access list for
+any nickname (/msg NickServ ACCESS LIST nick).
+SERVADMIN LOGOUT
+Syntax: /msg NickServ
+LOGOUT [nickname [REVALIDATE]]
+Without a parameter, reverses the effect of the IDENTIFY
+command, i.e. make you not recognized as the real owner of the nick
+anymore. Note, however, that you won't be asked to reidentify
+yourself.
+With a parameter, does the same for the given nick. If you
+specify REVALIDATE as well, Services will ask the given nick
+to re-identify. This use limited to Services admins.
+SERVADMIN DROP
+Syntax: /msg NickServ
+DROP [nickname]
+Without a parameter, drops your nickname from the
+NickServ database.
+With a parameter, drops the named nick from the database.
+You may drop any nick within your group without any
+special privileges. Dropping any nick is limited to
+Services admins.
+SERVADMIN SET
+Services admins can also set the option NOEXPIRE, with
+which nicknames can be prevented from expiring.
+Additionally, Services admins can set options for any
+nickname without entering a password, using the format
+SET nickname option parameters.
+SERVADMIN SET NOEXPIRE
+Syntax: /msg NickServ
+SET [nickname] NOEXPIRE {ON | OFF}
+Sets whether the given nickname will expire.
+Setting this
+to ON prevents the nickname from expiring.
+If no
+nickname is given, sets the no-expire flag for your nick.
+Limited to Services admins.
+SERVADMIN LIST
+Syntax: /msg NickServ
+LIST pattern [FORBIDDEN] [NOEXPIRE]
+Lists all registered nicknames which match the given
+pattern, in nick!user@host format.
+Nicks with the PRIVATE
+option set will only be displayed to Services admins.
+Nicks
+with the NOEXPIRE option set will have a ! prepended to the
+nickname for Services admins.
+If the FORBIDDEN or NOEXPIRE options are given, only nicks
+which, respectively, are FORBIDden or have the NOEXPIRE flag
+set will be displayed.
+If both options are given, both
+types of nicks will be displayed.
+These options are limited
+to Services admins.
+Examples:
+LIST *!This email address is being protected from spambots. You need JavaScript enabled to view it.
+Lists all registered nicks owned by This email address is being protected from spambots. You need JavaScript enabled to view it..
+LIST *Bot*!*@*
+Lists all registered nicks with Bot in their
+names (case insensitive).
+LIST * NOEXPIRE
+Lists all registered nicks which have been set to
+not expire.
+SERVADMIN ALIST
+Syntax: /msg NickServ
+ALIST [nickname] [level]
+With no parameters, lists channels you have access on. With
+one parameter, lists channels that nickname has access
+on. With two parameters lists channels that nickname has
+level access or greater on.
+This use limited to Services admins.
+SERVADMIN GLIST
+Syntax: /msg NickServ
+GLIST [nickname]
+Without a parameter, lists all nicknames that are in
+your group.
+With a parameter, lists all nicknames that are in the
+group of the given nick.
+This use limited to Services admins.
+SERVADMIN GETPASS
+Syntax: /msg NickServ
+GETPASS nickname
+Returns the password for the given nickname.
+Note that
+whenever this command is used, a message including the
+person who issued the command and the nickname it was used
+on will be logged and sent out as a WALLOPS/GLOBOPS.
+Limited to Services admins.
+This command is unavailable when encryption is enabled.
+SERVADMIN FORBID
+Syntax: /msg NickServ
+FORBID nickname [reason]
+Disallows a nickname from being registered or used by
+anyone.
+May be cancelled by dropping the nick.
+On certain networks, reason is required.
+Limited to Services admins.
+Login
+Username
+Password
+Remember Me
+Forgot your password?
+Forgot your username?
+Create an account
+Latest Forum
+Booted from #ebooks?
+In Public / Help and Support
+1 month 1 week ago
+[]
+#join ebooks
+In Public / General Chat
+3 months 4 weeks ago
+Webchat GUI Global Customization by Admins
+In Public / Suggestions
+5 months 5 days ago
+SSL certificate invalid
+In Public / Help and Support
+5 months 6 days ago
+connection refused
+In Public / Help and Support
+7 months 2 weeks ago
+Kunena Statistics
+Top Topics
+Hits
+[Solved] IRC says that my username is already used...
+15
+[]
+#join ebooks
+9
+Can't Connect to IRCHighway using MIRC and How to ...
+8
+[] Unable to connect to irchighway.net
+7
+OpenDNS blocking access to irchighway....suggestio...
+5
+Facebook

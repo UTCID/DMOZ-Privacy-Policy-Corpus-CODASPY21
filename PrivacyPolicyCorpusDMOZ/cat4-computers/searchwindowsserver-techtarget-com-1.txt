@@ -1,0 +1,178 @@
+https://searchwindowsserver.techtarget.com/tip/Shore-up-defenses-with-help-from-Office-365-logs
+Shore up defenses with help from Office 365 logs
+SearchWindowsServer
+Search the TechTarget Network
+Sign-up now. Start my free, unlimited access.
+Login
+Register
+Techtarget Network
+News
+Features
+Tips
+More Content
+Answers
+Buyer's Guides
+Definitions
+Essential Guides
+Opinions
+Photo Stories
+Podcasts
+Quizzes
+Tutorials
+Sponsored Communities
+Learn PowerShell
+SearchWindowsServer
+Topic
+Messaging and collaboration
+Career development
+Cloud and virtualization
+Server management
+Windows Server versions
+Storage management
+Windows systems and networks
+All Topics
+SubTopic
+Manage Office 365 and Microsoft SaaS
+Exchange Online admin
+Exchange Server management
+Legacy Exchange Server
+Manage Office 365 and Microsoft SaaS
+Outlook management
+Manage SharePoint
+All Subtopics
+Follow:
+Fotolia
+Get started
+Bring yourself up to speed with our introductory content.
+Shore up defenses with help from Office 365 logs
+Logging on Microsoft's productivity platform used in conjunction with other tools can form an effective shield from malicious actors looking to find a way into your organization.
+Share this item with your network:
+By
+Reda Chouffani,
+Biz Technology Solutions
+Published: 20 Aug 2020
+The COVID-19 pandemic and uptick of employees working from home resulted in bad actors doubling down on their efforts to target these users.
+Remote users working on purportedly less secure personal computers and networks make attractive targets. This is especially concerning to companies that host some of their workloads in the cloud, such as Office 365, where IT may not have full control or visibility on activities against the systems. To help IT in this area, Microsoft offers security components and continuously enhances these technologies to give administrators the tools and capabilities to self-manage and monitor their Office 365 tenant. What can administrators do to add Office 365 logs to their existing security information and event management (SIEM) setup? And what should be the top priority to monitor?
+SIEM is the go-to software for IT administrators to capture event and log information from multiple sources, including network devices, servers and workstations. SIEM centralizes different logs and events to give IT a comprehensive overview of the activity in their environment, which can help with threat detection. For companies that rely on a SaaS model for some of their systems, such as Office 365, having visibility over all the events and activities from the different components can be overwhelming. Microsoft addresses this need by giving administrators the option to use a SIEM product to connect to Office 365 logs via APIs for further analysis. Using SIEM without a strategy to respond to security incidents can be risky business, and this is pushing organizations to take steps to prepare for whatever situation comes their way.
+Understand what Microsoft tracks and how you access that data
+Office 365 is a collection of more than 20 cloud-based services, including SharePoint Online, Exchange Online, Microsoft Teams and OneDrive. With all these different services, IT must know how to investigate any reported issues and view events captured from each. The unified audit log is located in the Security section of Office 365's admin portal, which is also available directly at the URL protection.office.com/unifiedauditlog.
+Recorded events for most of the platform's services, including Exchange Online and Microsoft Teams, can take up to 30 minutes before they show up in the Office 365 logs, while, for others, such as Azure Active Directory, Dynamics 365 CRM and Power Apps, it can take up to 24 hours to record an event. Administrators can choose from more than 100 activities, such as elevation of privilege or failed logins, in the search options with a date range of up to 90 days.
+Always consider a SIEM tool for help with security events
+Despite the availability of an easy-to-use webpage to search Office 365 logs, IT administrators should consider adopting SIEM software for added features such as the ability to store event data and audit logs in one place to access a comprehensive view of monitoring and operations data.
+SIEM tools can help investigate any security event and provide a quick response to any alerts from monitoring identity, network traffic, infrastructure and general usage or consumption of services. SIEM tools assist with matching up any irregular activity in your infrastructure and Office 365 to detect any patterns.
+There are several popular products to choose from when it comes to SIEM platforms, including Splunk, LogRhythm, FireEye, SolarWinds and Rapid7.
+What Microsoft Azure Sentinel offers vs. other SIEM tools
+Several years ago, Microsoft introduced a SIEM platform called Microsoft Operations Management Suite (OMS), which it recently replaced with Azure Sentinel. This new offering is an affordable option that is hosted in the Azure cloud and can be set up within minutes by IT. Azure Sentinel offers several connectors to ingest data logs from services, including Office 365, Microsoft Defender Advanced Threat Protection and AWS, and also supports connectivity to appliances, such as Barracuda Web Application Firewall, F5 BIG-IP and Forcepoint Data Loss Prevention.
+Some features of Azure Sentinel include its artificial intelligence capabilities to detect abnormal activities from all the data captured in the system, which helps keep administrators from having to analyze each event. Azure Sentinel supports customizable automated responses or actions to specific events. Using the Azure Logic Apps, a commonly used workflow engine in Azure, administrators can develop different workflows for specific actions such as resetting a password after too many failed login attempts or creating a service ticket when a high-severity alert happens, as shown in screenshot below. As an added perk, Microsoft does not charge for ingestion of Office 365 logs.
+Administrators can design a Logic Apps playbook to execute automatically in response to certain alerts. In this example, an alert triggered a condition to add a help desk ticket automatically.
+During a time when many of their users are remote, IT workers should actively monitor the Office 365 environment and closely scrutinize security events. The use of Officer 365 logs and other alerts on the platform alone are not enough, but by integrating the platform with a SIEM tool or adopting a new platform, such as Azure Sentinel, will help streamline the monitoring process. Uncovering suspicious activities can reveal bad actors targeting their end users and systems can be detected and dealt with. But security goes beyond just the set of deployed tools, IT managers also need a response plan in place for different incidents. These must be living documents that are updated frequently, like the software used by the organization.
+Dig Deeper on Office 365 and Microsoft SaaS setup and management
+Microsoft unveils new DLP, 'Double Key Encryption' offerings
+By: Alexander Culafi
+Follow 3 key steps to improve multi-cloud monitoring
+By: Dave Shackleford
+Learn to configure Office 365 alerts and other security features
+By: Reda Chouffani
+Top 6 cloud security analytics use cases
+By: Dave Shackleford
+Sponsored News
+The Business Case for Embracing a Modern Endpoint Management Platform
+–Microsoft
+Why the Citrix-Microsoft Relationship Will Enhance Digital Workspace Solutions ...
+–Citrix
+With The Workplace Changing Quickly, It’s Time to Rethink Endpoint Security
+–Microsoft
+See More
+Related Content
+Azure Sentinel adds AI-driven SIEM for cloud security
+– SearchCloudComputing
+Azure Anomaly Detector service spots business data ...
+– SearchCloudComputing
+AWS security options grow with Amazon Detective
+– SearchCloudComputing
+Start the conversation
+0 comments
+Send me notifications when other members comment.
+Add My Comment
+Register
+I agree to TechTarget’s Terms of Use, Privacy Policy, and the transfer of my information to the United States for processing to provide me with relevant information as described in our Privacy Policy.
+Please check the box if you want to proceed.
+I agree to my information being processed by TechTarget and its Partners to contact me via phone, email, or other means regarding information relevant to my professional interests. I may unsubscribe at any time.
+Please check the box if you want to proceed.
+Login
+Forgot your password?
+Forgot your password?
+No problem! Submit your e-mail address below. We'll send you an email containing your password.
+Submit
+Your password has been sent to:
+Please create a username to comment.
+Oldest
+Newest
+Latest TechTarget resources
+Server Virtualization
+Cloud Computing
+SQL Server
+Enterprise Desktop
+Virtual Desktop
+SearchServerVirtualization
+QEMU 5.0 continues a legacy of emulation
+Admins looking for an alternative tool for emulating hardware should consider QEMU, which supports x86, PowerPC, ARM and SPARC ...
+VMworld 2020 news and conference coverage
+This year's VMworld conference runs virtually from Sep. 29 to Oct. 1. Read the latest news and announcements about and from the ...
+Compare VMware HA vs. DRS to prevent host failure
+VMware HA and DRS are vSphere tools that provide high performance and continuous operability. Understanding the different use ...
+SearchCloudComputing
+Put an IT succession plan in place for your cloud team
+IT is a small world. Before you leave your current company and role, make sure your successor has the right training, support and...
+How to approach a GCP-to-AWS migration
+Before you move your GCP workloads to AWS, you need a clear cloud migration plan in place and a framework to understand the ...
+Test your knowledge of microservices architectures
+Review microservices basics. Take this short quiz on microservices to find out how much you really know about this approach to ...
+SearchSQLServer
+SQL Server database design best practices and tips for DBAs
+Good database design is a must to meet processing needs in SQL Server systems. In a webinar, consultant Koen Verbeeck offered ...
+SQL Server in Azure database choices and what they offer users
+SQL Server databases can be moved to the Azure cloud in several different ways. Here's what you'll get from each of the options ...
+Using a LEFT OUTER JOIN vs. RIGHT OUTER JOIN in SQL
+In this book excerpt, you'll learn LEFT OUTER JOIN vs. RIGHT OUTER JOIN techniques and find various examples for creating SQL ...
+SearchEnterpriseDesktop
+Lenovo launching the first foldable PC, the ThinkPad X1 Fold
+Lenovo touted the ThinkPad X1 Fold as a unified experience for workers who use laptops and tablets. The company has started ...
+Jamf Pro Intune integration targets compliance, zero trust
+Find out how the new Jamf Pro integration with Microsoft Intune's conditional access can simplify the back-end management of user...
+Microsoft updating look, features in Outlook for macOS
+An improved search function, additional customization options and a newly revised aesthetic are among the Outlook for macOS ...
+SearchVirtualDesktop
+8 key VDI deployment best practices
+When IT plans for its VDI deployment, it must factor in best practices for the setup process, such as considering client options ...
+How to calculate VDI costs and keep them to a minimum
+When the true cost of VDI is hazy, it's a good idea to make a comprehensive calculation. Determine how to factor in costs related...
+VMware bolsters Workspace One security with Secure Access
+With the new Secure Access, VMware says remote workers will have a better and more secure way to use their Workspace One virtual ...
+About Us
+Meet The Editors
+Contact Us
+Advertisers
+Business Partners
+Media Kit
+Corporate Site
+Contributors
+Reprints
+Answers
+Definitions
+E-Products
+Events
+Features
+Guides
+Opinions
+Photo Stories
+Quizzes
+Tips
+Tutorials
+Videos
+All Rights Reserved,
+Copyright 2000 - 2020, TechTarget
+Privacy Policy
+Cookie Preferences
+Do Not Sell My Personal Info
+Close

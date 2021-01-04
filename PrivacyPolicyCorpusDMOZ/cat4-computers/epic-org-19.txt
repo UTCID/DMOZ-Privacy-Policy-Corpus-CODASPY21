@@ -1,0 +1,227 @@
+https://epic.org/privacy/ftc/airbnb/
+Defend Privacy. Donate Now.
+Policy Issues
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Program
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+All Policy Issues
+Our Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+Privacy Campaigns
+Congressional Testimony
+EPIC Publications
+Spotlight on Surveillance
+Press
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+Events
+EPIC Blog
+EPIC Bookstore
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+Public Voice Fund
+Contact EPIC
+Support EPIC
+In re Airbnb
+Background | Legal Documents | News
+Top News
+EPIC Files Complaint with FTC about Airbnb's Secret "Trustworthiness" Scores: EPIC has filed a complaint with the FTC, alleging that Airbnb has committed unfair and deceptive practices in violation of the FTC Act and the Fair Credit Reporting Act. Airbnb secretly rates customers “trustworthiness" based on a patent that considers such factors as “authoring online content with negative language.” The company’s opaque, proprietary algorithm also considers "posts on the person’s social network account" as well the individual's relationships with others, and adjusts the "trustworthiness" score based on the scores of those associations. EPIC said the company failed to comply with "established public policies" for AI decision-making, such as the OECD AI Principles and the Universal Guidelines for AI. EPIC has recently brought complaints to the FTC about the employment screening firm HireVue and the Universal Tennis Rating secret scoring technique. EPIC has also petitioned the FTC to conduct a rulemaking for "the use of artificial intelligence in commerce." The EPIC AI Policy Sourcebook includes the OECD AI Principles, the Universal Guidelines for AI, and other AI policy frameworks. (Feb. 27, 2020)
+EPIC has filed a complaint with the FTC, alleging that Airbnb has committed unfair and deceptive practices in violation of the FTC Act and the Fair Credit Reporting Act. Airbnb secretly rates customers “trustworthiness" based on a patent that considers such factors as “authoring online content with negative language.” The company’s opaque, proprietary algorithm also considers "posts on the person’s social network account" as well the individual's relationships with others, and adjusts the "trustworthiness" score based on the scores of those associations. EPIC said the company failed to comply with "established public policies" for AI decision-making, such as the OECD AI Principles and the Universal Guidelines for AI.
+Background
+Airbnb’s Use of Secret Algorithms to Screen Renters
+Airbnb offers lodging, homestays, and tourism services via websites and mobile applications. Airbnb’s privacy policy discloses that the company generates risk assessment scores for renters before their reservations are confirmed. Airbnb owns a patent (U.S. Patent US9070088B1) for “Determining trustworthiness and compatibility of a person.” The company uses this algorithm to score its customers’ “trustworthiness” based on personal information obtained third-parties, including: “web pages, information from databases, posts on the person’s social network account, posts on a blog or a microblog account of the person, a comment made by the person on a website, or a directory listing for a company or association.”
+Airbnb’s patent claims to identify “negative traits” including whether the individual “created a false or misleading online profile, provided false or misleading information to the service provider, is involved with drugs or alcohol, is involved with hate websites or organizations, is involved in sex work, perpetrated a crime, is involved in civil litigation, is a known fraudster or scammer, is involved in pornography, has authored online content with negative language, or has interests that indicate negative personality or behavior traits.”
+The Airbnb algorithm assigns personality traits to customers, including: “badness, anti-social tendencies, goodness, conscientiousness, openness, extraversion, agreeableness, neuroticism, narcissism, Machiavellianism, or psychopathy. Airbnb’s patent also claims that the algorithm evaluates the individual’s relationships with others, and adjusts the “trustworthiness” score based on the scores of those associations.
+FTC's Legal Authority
+Section 5 of the FTC Act (15 U.S.C. § 45) prohibits unfair and deceptive acts and practices and empowers the Commission to enforce the Act's prohibitions. A trade practice is unfair if it "causes or is likely to cause substantial injury to consumers which is not reasonably avoidable by consumers themselves and not outweighed by countervailing benefits to consumers or to competition." In determining whether a trade practice is unfair, the Commission is expected to consider "established public policies." The FTC is also charged with enforcing the Fair Credit Reporting Act (FCRA), which imposes duties upon consumer reporting agencies. FCRA requires consumer reporting agencies to disclose all information in the consumer’s file to the consumer upon request. FCRA requires consumer reporting agencies to disclose all information in the consumer’s file to the consumer upon request.
+Airbnb Has Engaged in Unfair Trade Practices
+Airbnb uses secret algorithms to purportedly assess the personality and behavior traits of prospective renters. The company’s use of secret algorithms to analyze prospective renters’ personal data violates widely adopted standards for the use of AI and is “unfair” within the meaning of the FTC Act. Airbnb’s algorithmic assessments of prospective renters are not transparent, cannot be evaluated or understood by the renters, and cannot be meaningfully challenged. Airbnb has not ensured the accuracy, reliability, or validity of its algorithmic assessments. And the company has not established that the assessments are free of unfair bias and impermissible discrimination. Airbnb should be held accountable for the proper functioning of its secret algorithmic assessments.
+Airbnb Has Violated the Fair Credit Reporting Act
+Airbnb is a consumer reporting agency because it “regularly engages in whole or in part in the practice of assembling or evaluating consumer credit information or other information on consumers for the purpose of furnishing consumer reports to third parties, and which uses any means or facility of interstate commerce for the purpose of preparing or furnishing consumer reports.” 15 U.S.C. § 1681(f). Airbnb’s “trustworthiness scores” are consumer reports under FCRA because they evaluate “character,” “general reputation,” and “personal characteristics.” 15 U.S.C. § 1681(d).
+Airbnb does not meet the FCRA accuracy requirement because the company does not “follow reasonable procedures to assure maximum possible accuracy of the information concerning the individual about whom the report relates.” 15 U.S.C. § 1681e(b). Airbnb does not provide an individual with a copy of their investigative consumer report upon request. 15 U.S.C. § 1681d(b).
+Airbnb has Violated Public Policy for the Use of Artificial Intelligence
+EPIC’s Complaint alleges that Airbnb fails to meet minimal standards for AI-based decision-making set out in the OECD AI Principles or the recommended standards set out in the Universal Guidelines for AI.
+In 2019, the member nations of the OECD, working also with many non-OECD members countries, promulgated the OECD Principles on Artificial Intelligence. The United States has endorsed the OECD AI Principles. EPIC alleged that HireVue violates the following principles:
+Human-Centered Values and Fairness
+Robustness, Security, and Safety
+Transparency and Explainability
+Accountability
+The Universal Guidelines for Artificial Intelligence (“UGAI”), a framework for AI governance based on the protection of human rights, were set out at the 2018 meeting of the International Conference on Data Protection and Privacy Commissioners in Brussels, Belgium. The UGAI have been endorsed by more than 250 experts and 60 organizations in 40 countries.
+Transparency
+Assessment and Accountability
+Accuracy, Reliability, and Validity
+Fairness
+The OECD Principles on Artificial Intelligence are “established public policies” within the meaning of the FTC Act. 15 U.S.C. § 45(n).
+Legal Documents
+EPIC’s FTC Complaint In re Airbnb (filed February 27, 2020)
+OECD AI Principles
+Universal Guidelines for AI
+EPIC’s Complaint in the News
+Airbnb ‘trustworthiness’ ratings lead to FTC complaint, POLITICO Pro (February 27, 2020
+Airbnb Has Secret ‘Trustworthy Scores’ and This Privacy Group Is Demanding to See Them, VICE (February 27, 2020)
+Related EPIC Work
+EPIC has recently brought complaints to the FTC about the employment screening firm HireVue and the Universal Tennis Rating secret scoring technique. EPIC has also petitioned the FTC to conduct a rulemaking for "the use of artificial intelligence in commerce." The EPIC AI Policy Sourcebook includes the OECD AI Principles, the Universal Guidelines for AI, and other AI policy frameworks.
+Share this page:
+Subscribe to the EPIC Alert
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+EPIC Alert archive »
+Electronic Privacy Information Center
+1519 New Hampshire Avenue NW
+Washington, DC 20036
+202.483.1140
+info[at]epic[dot]org
+© 1994 - 2020 EPIC, all rights reserved.
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+EPIC Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+Electronic Privacy Information Center1519 New Hampshire Avenue NW Washington, DC 20036More info
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+FOIA Documents
+EPIC FOIA Notes
+EPIC Former Secrets
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+EPIC Bookstore
+Support EPIC

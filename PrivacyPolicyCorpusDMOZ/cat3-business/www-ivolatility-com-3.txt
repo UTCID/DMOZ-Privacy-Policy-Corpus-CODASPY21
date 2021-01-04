@@ -1,0 +1,156 @@
+http://www.ivolatility.com/help/
+IVolatility
+search
+Historical Options/Futures Data
+Historical Options
+Historical Options Data
+US Intraday Equity Options
+US Intraday Futures Options
+Futures Options EOD
+US&Canada EOD
+Europe EOD
+Asian EOD
+Data Request Form
+Data Download
+Analytical Tools
+IVolLive Options
+IVolFutures
+Futures Analyzer and Tracker
+Futures Options Chain
+Futures Calculator
+Future Volatility Ranker(IV)
+Future Volatility Ranker(HV)
+Subscribe
+Get Data Now
+IV Data Cloud
+IV Data Cloud Overview
+IVolatility SDK
+News
+Contact Us
+More
+About Us
+Security
+Privacy Policy
+Services Disclaimer
+Awards
+Partners
+Knowledge Base
+Historical Options/Futures Data
+Historical Options
+Historical Options Data
+US Intraday Equity Options
+US Intraday Futures Options
+Futures Options EOD
+US&Canada EOD
+Europe EOD
+Asian EOD
+Data Request Form
+Data Download
+Analytical Tools
+IVolLive Options
+IVolFutures
+Futures Analyzer and Tracker
+Futures Options Chain
+Futures Calculator
+Future Volatility Ranker(IV)
+Future Volatility Ranker(HV)
+Subscribe
+Get Data Now
+IV Data Cloud
+IV Data Cloud Overview
+IVolatility SDK
+News
+More
+About Us
+Security
+Privacy Policy
+Services Disclaimer
+Awards
+Partners
+Contact Us
+Knowledge Base
+Searchsearch
+search
+IVolLive Getting Started Guide
+Thu, Dec 10, 2020 close
+Join free
+IVolatility
+search
+Searchsearch
+Join free
+Historical Options/Futures Data
+Historical Options Data
+US Intraday Equity Options
+US Intraday Futures Options
+Futures Options EOD
+US&Canada EOD
+Europe EOD
+Asian EOD
+Data Request Form
+Data Download
+Analytical Tools
+IVolLive Options
+IVolFutures
+Futures Analyzer and Tracker
+Futures Options Chain
+Futures Calculator
+Future Volatility Ranker(IV)
+Future Volatility Ranker(HV)
+Subscribe
+Get Data Now
+IV Data Cloud
+IV Data Cloud Overview
+IVolatility SDK
+News
+Contact Us
+More
+About Us
+Security
+Privacy Policy
+Services Disclaimer
+Awards
+Partners
+Knowledge Base
+Our response to COVID-19 outbreak
+March 30, 2020
+Dear IVolatility subscriber, we would like to give you an update on IVolatility's response to the COVID-19 outbreak.
+We implemented measures to safeguard our team and fully transitioned our workforce to work from home status as of two weeks ago.
+We can assure you that we will continue to operate our tools and services providing you and users around the world with crucial market volatility updates. Due to abnormal activity in the market, there is a strong technical overload on all data transmission channels, and we constantly monitor data services and adjust and split the data stream to process data without delays or interruptions. Further, our support and sales team are available as usual, and we are looking forward to hearing how we can help you!
+We want you to feel informed and confident when working with us. We have several initiatives we're deploying to help our clients in this complicated time, including free subscriptions to our live market tracker, discounts on data, and more that will be announced very soon. We understand these are volatile times, but together we'll get through it stronger than before.
+Take care of yourself and your family, safeguard your safety and wellbeing, and remember to wash your hands frequently.
+We appreciate your loyalty, and we look forward to serving you with the most accurate, consistent, and up-to-date volatility data available, since for options, we are Big Data!
+Thanks,
+IVolatility team
+Sales:
+sales@ivolatility.com
+Support: support@ivolatility.com
+Education
+IVolatility Jargon
+Calculators Help
+Questions About Options?
+Introduction to Volatility
+Ways to estimate volatility
+Analysis of options using volatility and other parameters
+Special indicators
+Advanced Topics
+Reference
+IVolatility Education
+Introduction to Volatility
+To get the basic idea of what volatility is please read the article Putting volatility to
+work written by Ravi Kant Jain and published in the Active Trader Magazine (April 2001).
+Here we will provide a description of what volatility is, why it is important in option trading and how one can estimate it. Also, well we will briefly cover the most significant related parameters and indicators used in conjunction with volatility in options analysis.
+Day-to-day market movements reflect the buying and selling decisions of millions of investors. Market prices change from one moment to the next. Volatility is defined as the variation of an asset's returns, and indicates the range of a return's movement. Large Volatility values mean that returns fluctuate in a wide range.
+Usually increased volatility is associated with falling stock prices. See the chart below, which shows historical and implied volatility for the IBM, and the underlying's price. As you can see, as a rule, jumps in volatility correspond to a falling stock price.
+But fast rising markets also have a high level of volatility. There periods of quiet trading when volatility is low, and aggressive trading when volatility is high. Periods of high volatility are often caused by an emotionally driven market. Emotions, such as greed and fear, can cause stocks to move higher or lower, and change the level of volatility.
+Chart: Volatility and price of IBM
+Note: those charts are available to Advanced Historical Data service subscribers.
+Increasing or falling volatility commonly is a result of changes in investor emotions and psychology in the marketplace. For example, corporations deliver earning results each quarter; when those earnings results disappoint investors, it can stimulate a landslide in a stock's price.
+Fear and greed have an important effect on volatility, because they are two primary factors causing stock prices to change. When important and relevant new information arises in the markets, volatility tends to rise. When information is unexpected, it will have the greatest impact on stock prices, as a result, a stock jumps dramatically higher or lower. The impact of a news event will vary based on its relative importance and the degree to which it surprises investors.
+Fundamental assumptions used in assets models are that returns follow a normal distribution and that underlying prices are lognormal distributed.
+For more information, see Price and Return's distribution.
+Thus, in a return's distribution, Volatility is the deviation of returns from their mean. If we assume the mean of returnsto be zero, then 10% yearly Volatility represents that in one year returns will be within [-10%; +10%] with 68.3% probability; within [2*10%; 2*10%], with 95.4% probability, and within [-3*10%; +3*10], with 99.7% probability (according to a normal distribution).
+The daily volatility for n-day term is calculated as deviation of daily returns, observed during n-day, from their mean, and can be normalized on any desired time interval
+(say, t day) by multiplying daily volatility by the square root from t.
+To compare volatilities calculated for different terms we can annualize them. The annualized n-day volatility is calculated from the daily volatility for n-day (i.e. calculated on the basis of n daily observations) by multiplying it by the square root of 252, since the average number of trading days in a year is 252. And vise versa to calculate daily volatility from the annualized volatility, you should to divide an annualized volatility by the square root of 252.
+There are many methods of measuring Volatility. It can be done using historical data, or option pricing models, or using models of forecasting volatility based on recorded values.
+We will cover the following popular methods: Historical Volatility as standard deviation, Parkinson Historical Volatility based on extreme values, Implied Volatility and Implied Volatility Index, and a forecasting volatility model using weighted past volatilities to estimate future values.

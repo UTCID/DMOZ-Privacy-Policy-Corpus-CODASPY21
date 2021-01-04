@@ -1,0 +1,46 @@
+http://www.ravenswood-wine.com/privacy-policy
+Skip to content
+Feedback
+You must be of legal drinkingage in your country to enter this site.Please enter your date of birth belowand press "Enter".
+Error: Please enter a valid Month / Day / Year
+Enter
+Are you
+years or older?
+Yes
+No
+OR
+Verify age via Facebook
+Sign Out
+Sign Up / Sign In
+With your existing account from...
+{* loginWidget *}
+Sign In
+Welcome back, {* welcomeName *}!
+{* loginWidget *}
+Use another account
+Deactivated Account
+Your account has been deactivated.
+A birthdate is required. Please provide your birthdate.
+{* #socialRegistrationForm *}
+{* birthday *}
+{* backButton *}
+{* /socialRegistrationForm *}
+{* mergeAccounts {"custom": true} *}
+{| rendered_current_photo |}
+{| current_displayName |}
+{| current_emailAddress |}
+{| foundExistingAccountText |} {| current_emailAddress |}.
+{| moreInfoHoverText |}
+{| moreInfoText |}
+{| rendered_existing_provider_photo |}
+{| existing_displayName |}
+{| existing_provider_emailAddress |}
+Created {| existing_createdDate |} at {| existing_siteName |}
+Connect with your {| existing_siteName |} account?
+{* backButton *}
+{| connect_button |}
+We support the Century Councils fight against underage drinking and drunk driving. To learn more, visit their website at: www.centurycouncil.org
+We will not share your information or post to your Facebook wall without your permission.
+Please enjoy our wines responsibly. ©
+Ravenswood Winery, Sonoma, CA
+Our Privacy Policy and Terms & Conditions have changed. By using this website, you agree to the Privacy Policy and Terms and Conditions of use.

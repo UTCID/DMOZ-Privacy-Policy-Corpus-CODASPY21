@@ -1,0 +1,257 @@
+http://www.e-leran.com/info/help-customized-product-offering
+Close
+Ready to Buy?
+Call us today at 1-888-820-6511 to set up your new account or create a web login for your existing account.
+If you need assistance, please
+contact us.
+Sign up for emails regarding the benefits, cost-savings, and solutions of being a Home Depot Pro customer.
+Preferences have been saved!
+* All fields are required.
+Email*
+First Name*
+Last Name*
+Company Name*
+Do you have an existing account?*
+If yes, please enter your account #:
+Sign-up for email updates.
+Thank You!
+We appreciate you signing up. Please check your email within a few hours for confirmation.
+Customer Credit Available
+Accelerate your business's options and take it the next level when you open a credit line with Home Depot Pro. Download our credit application to apply.
+Need Assistance?
+Visit our help center for useful tips on placing online orders, using web features, and more.
+Visit Help Center
+Privacy Policy
+Home
+Customized Product Offering
+Help Center
+Getting Started
+Register/Create a Website Login
+Logging In
+Reset Password
+Placing an Order
+Finding Products
+Add Products to Your Cart
+Promotional Codes
+Checking Out
+Website Icon Reference
+Video Tutorials
+Benefits of Ordering Online
+Basics of Web Ordering
+Productivity Tools
+Favorites Lists
+Order History
+Intro to Budgeting
+Intro to Work Flow Management
+Mobile Applications
+My Account
+Access Account Dashboard
+Order Approval Workflow
+Budgeting
+Customized Product Offering
+eShowroom
+Web Tools
+Favorites Lists
+Bin Labels
+Bulk Quick Add
+Custom Catalogs
+Reporting Tools
+Orders & Quotes
+Account History
+Track My Order
+My Quotes
+Special Orders
+Frequently Asked Questions
+Frequently Asked Questions
+Registering
+Logging In & Updating Your Account
+Ordering
+Product Information
+Technical Questions
+General Information
+Product Recalls
+Contact Us For Help.
+Call Us1-888-820-6511
+Email Us
+Customized Product Offering
+Please note that the Advanced
+Administrator Tools require special setup of your web profile as an Account
+Administrator. Please contact Customer Service to enable this role for you.
+The Customized
+Product Offering feature enables account
+Administrators to tailor product-level offerings to each account under their
+control. Administrators can upload a spreadsheet or select the products one by
+one. Up to 3,000 items can be included in the product offering.
+Follow the instructions below to set
+up your Customized Product Offering list.
+Turn
+on Customized Product Offering
+Select "Enable
+Customized Product Offerings"
+located under "Customized Product Offerings" in the
+"Administration" area of your Account Dashboard.
+On the "Manage Account Shopping
+Preferences" page, select "Yes" next to "Use Customized
+Product Offering."  Click
+"Update" to save your changes.
+After your Customized Product
+Offering is enabled, you have the option to turn on Customized Product Offering
+Approval Workflow. When workflow is enabled in this situation, any shopping
+cart that contains one or more items not included in the offering will need to
+be submitted as a quote for approval prior to checking out. For instructions on
+how to set up and use the workflow, please click here or
+scroll down to the "Customized Product Offering Approval Workflow"
+section below.
+Add
+Items to Your Customized Product Offering
+There are two ways to add items to
+the customized product offering.
+You can use the "Add to
+Customized Product Offering" icon  displayed in the button bar below the
+"Add to Cart" button in Search Results, Product Detail Pages, Quick
+Info and Favorites Lists.
+You can also upload a list of
+approved items from an Excel spreadsheet by following the directions below:
+Click "Upload Customized Product
+Offering List" under "Customized Product Offerings" on the
+"My Account Dashboard" screen. (Please note that this option will
+only appear after the Customized Product Offering is enabled. It is recommended
+to limit the Customized Product Offering upload to 3,000 items or less.) Click
+"Download the Excel Template" under "Use the Pre-Formatted
+Template." A small screen will appear asking you to "Open with
+Microsoft Excel" or "Save File." Select "Open with
+Microsoft Excel" and click "Ok."
+The template will open to an
+instructions page. Select the "My Product Offerings" tab located at
+the bottom of the spreadsheet.  Complete
+the template with item numbers in Column "B". Column "A"
+Description is optional and is for your informational use only.  When you have finished entering the product
+numbers you want added to your Customized Product Offering, save the
+spreadsheet to your local computer.
+Use the browse button on the
+"Bulk Customized Product Offering Builder" page to select your saved
+list.
+To replace all current products
+offered with the products you are uploading in the spreadsheet, select
+"Replace existing SKUs with items in spreadsheet." If not selected,
+the uploaded items will append to those already in the offering rather than
+replace them.
+Click "Upload List" to
+build your offering.
+*IMPORTANT! Your product offering
+will write to the database overnight and will be in effect the next morning.
+Edit
+Your Customized Product Offering
+If you wish to upload and replace an
+existing list of items with a list of new items, you can use the Excel template
+tool.
+You can also edit items individually
+by clicking on the "Remove from Customized Product Offering" icon
+located in the button bar under "Add to Cart" in Search Results,
+Product Detail Pages, Quick Info and Favorites Lists.
+Remove
+Your Customized Product Offering
+Remove the Customized Product
+Offering from an account by selecting "No" for "Use Customized
+Product Offering" on the "Manage Account Shopping Preferences" screen and clicking the "Update" button.
+Please note that if you have set up a Customized Product Offering Approval
+workflow, it will be disabled if you turn off the offering.
+Search
+for Items in Your Customized Product Offering
+As an account Administrator, you
+will still have the ability to see and order all items, including those not
+included in the offering. To search only items included in the offering, click
+"By Offering" next to the "Search" box to display results
+that only include items in your Customized Product Offering. All other
+non-Administrator users will only be able to search on items included in the
+offering.
+Customized Product Offering Approval Workflow
+When the optional Customized Product
+Offering Approval Workflow is enabled, any shopping cart that contains one or
+more items not included in the offering will need to be submitted as a quote
+for approval prior to checking out.
+After enabling the Customized
+Product Offering, click on "Click Here"
+on the "Manage
+Account Shopping Preferences"
+page to enable and assign approver(s) in the optional "Customized Product
+Offering Approval Workflow.”  You can
+also access the workflow setup page by clicking on "View or Edit Workflow
+Settings" in your Account
+Dashboard.
+Click "Customized Product
+Offering Approval" to begin the workflow setup.
+Click the red "+" button
+to add your first approval level.
+Enter the name you would like to use
+to define this level, or you can use the default name that appears of "New
+Approval Step (X), in the "Approval Level Name:" box.
+Next, set up a step timeout limit.
+This allows any quotes that do not get approved, in the timeframe assigned, to
+send an email stating the upcoming expiration. A notification is sent when the
+quote expires to the Admins and Submitter as well as 24 hours prior to the
+Admins, Submitter and Next Level Quote Approver. Also, if the quote is not
+approved within the "Step Timeout Days" it will be forwarded on to
+the next approval level in the workflow, if applicable. The "Step Timeout
+Days" can have a minimum of 2 days and a maximum of 14 days. You may elect
+to only select weekdays for this timeframe by checking the "Weekdays
+Only" box.
+Click the "Assign
+Approvers" dropdown and check the box next the user(s) that you want to
+become the approver for this level. If more than one approver is assigned at
+the same level, all will receive the notifications, but only one will need to
+approve the quote.
+To give another user approver
+privileges, first click on "Manage Approvers".  Find the user from the list on the left and
+then click the checkbox next to "Quote Approver" on the right to
+assign approver rights to that user. Click "Apply Changes."  This user will now appear in the "Assign
+Approvers" dropdown and can be selected and assigned vas an approver in
+the workflow.
+Once you have filled in all steps in
+the Add Approval Level screen, select "Apply Changes" to complete the
+setup.
+You will now return to the
+Customized Product Offering Workflow-Defined Steps screen. On this screen you
+may choose to add additional levels to your order approval workflow by clicking
+on the "+" button to repeat the process. Or, if complete, save your
+workflow by clicking on "Save Workflow."
+Click the "Enable"
+checkbox next to "Customized Product Offering Approval" to turn on
+the workflow. The workflow can be disabled at any time by unchecking the
+checkbox.
+Creating
+a Quote/Order with Customized Product Offering Workflow Enabled
+Buyer:
+Items that are not included in the
+Customized Product Offering will be clearly identified in the shopping cart.
+When workflow is enabled, users will be prompted to create a quote and submit
+it for approval if their cart contains one or more items not included in the
+offering. (While non-Administrator users cannot search/browse for items not
+included in the offering while logged in, they can use the Quick Add to enter
+in item numbers, including those not in the offering, that will then add to the
+cart.)
+Click on "Create a Quote"
+at the bottom of the shopping cart.  Give
+the quote a name and then click on "Save Quote."  User will be brought to the Quote Details
+Page. The quote can still be modified at this point. When ready, click the
+"Submit for Approval" button at the top of the page to submit the
+quote to the approver.
+Approver:
+The Quote Approver(s) will receive
+an immediate email stating that there is a quote that requires approval. The
+Approver can click on the link supplied in the email, or log in to the website
+and click on "My Quotes" under the "Orders & Quotes"
+dropdown menu in the header.
+On the "Quote Dashboard"
+page, click on the "Approval Queue" button and then again on the name
+of the quote to be reviewed.
+On the Quote Details Page the
+Approver will be able to review the quote. At this point, the quote can still
+be modified. Items can be added using the Quick Add on the page, quantities can
+be changed, or items removed. The Approver can then choose to accept or reject
+the quote by clicking on either the "thumbs up" or "thumbs
+down" button respectively under the "Offering Workflow Steps."
+Once the quote is approved by
+clicking on the "thumbs up" button, the "Check Out Now"
+buttons will appear, and the quote can now be turned in to an order. Click on
+"Check Out Now" or "Express Checkout" to place the order.

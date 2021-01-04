@@ -1,0 +1,126 @@
+http://linuxjournal.com/tag/privacy
+Skip to main content
+Privacy
+Tutanota Interviews Tim Verheyden, the Journalist Who Broke the Story on Google Employees Listening to People's Audio Recordings
+Google employees listen to you, but the issue of "ghost workers" transcends Google.
+Investigative journalist Tim Verheyden, who broke the story on how Google employees listen to people’s audio recordings, explains in an interview how he got hold of the story, why he is now using the encrypted contact form Secure Connect by Tutanota and why the growing number of "ghost workers" in and around Silicon Valley is becoming a big issue in Tech.
+Why Smart Cards Are Smart
+If you use GPG keys, learn about the benefits to storing them on a smart card.
+Facebook, Not Microsoft, Is the Main Threat to Open Source
+In the future, Facebook won't be a social-media site.
+WebAuthn Web Authentication with YubiKey 5
+A look at the recently released YubiKey 5 hardware
+authenticator series and how web authentication with the new
+WebAuthn API leverages devices like the YubiKey for painless website
+registration and strong user authentication.
+Open Source--It's in the Genes
+What happens when you release 500,000 human genomes as open source?
+This.
+DNA
+is digital. The three billion chemical bases that make up the human
+genome encode data not in binary, but in a quaternary system, using four
+compounds—adenine, cytosine, guanine, thymine—to represent four
+genetic "digits": A, C, G and T. Although this came as something of a
+surprise in 1953, when Watson and Crick proposed an A–T and C–G pairing as
+a "copying mechanism for genetic material" in their famous
+double helix paper, it's hard to see how hereditary information could
+have been transmitted efficiently from generation to generation in any
+other way. As anyone who has made photocopies of photocopies is aware,
+analog systems are bad at loss-free transmission, unlike digital encodings.
+Evolution of progressively more complex structures over millions of years
+would have been much harder, perhaps impossible, had our genetic material
+been stored in a purely analog form.
+Purism Launches Librem One, a Suite of Privacy-Protecting, No-Track, No-Ad Apps and Services
+Some time back, the folks from Purism sent me a question: "Would you like to record some voice-over for a little commercial we're making?"
+"Sure," I say. "Why not?"
+They give me a script, show me a rough cut of the footage, and I record a few lines. Easy peasy.
+The only problem? The commercial was for something that I think is a really great idea. And, the finished commercial gave me a serious case of the giggles. Yet I couldn't tell anyone about it. I was sworn to secrecy.
+Wizard Kit: How I Protect Myself from Surveillance
+Ever since the Electronic Frontier Foundation’s Panopticlick initiative in 2010, I’ve been sensitized to the risks and potential harms that come from adtech’s tracking of consumers. Indeed, in the years since, it has gotten far far worse. People are only now discovering the bad stuff that has been going on.
+Spy Games: the NSA and GCHQ Offer Their Software to the Open Source Community
+Spies worth their salt are generally expected to be good at keeping secrets. With dead drops, encryption, cyanide pills and the like, openly sharing useful information isn’t supposed to be a part of the job description.
+So it caught more than a few of us off guard when a couple years ago, some of the top spy agencies began contributing code to GitHub, making it available to the masses by open-sourcing some of their software.
+Privacy, Mine: the Right of Individual Persons, Not of the Data
+“For true, lasting privacy, we must shift from the ‘privacy policies’ of companies, which spring from data protection laws, to the ‘privacy’ of individual persons, as contemplated by human rights laws.”
+How do we accomplish this shift?
+TL;DR (in summary)
+A Line in the Sand
+There's a new side to choose. It helps that each of us is already on it.
+Linux Journal was born in one fight and grew through a series of others.
+Our first fight was for freedom. That began in 1993, when Phil Hughes started
+work toward a free
+software magazine. The fight for free software was still
+there when that magazine was born as Linux Journal in April 1994. Then a
+second fight began. That one was against all forms of closed and proprietary
+software, including the commercial UNIX variants that Linux would eventually
+defeat. We got in the fight for open source starting in 1998. (In 2005, I got a
+ribbon for my own small part in that battle.) And last year, we began our fight
+against what Shoshana Zuboff calls surveillance
+capitalism, and Brett
+Frischmann and Evan
+Selinger call re-engineering
+humanity.
+Data Privacy Year
+Today is Data Privacy Day, known in Europe as Data Protection Day.
+It's not new. Though created in 2006, it commemorates the Council of Europe treaty creating "the first binding international instrument which protects the individual against abuses which may accompany the collection and processing of personal data and which seeks to regulate at the same time the transfrontier flow of personal data." The treaty was signed on January 28, 1981, a date when the ancestors of today's PCs were still in the wombs of IBM and Apple. Hats off to Eurocrats who were decades ahead of a problem that's worse than ever.
+Clearly, a day isn't enough—not when most humans are still naked as newborns in the digital world, and not much better equipped to protect and project their privacy there.
+Is Privacy a Right?
+Good question.
+That's what people say when they don't have an answer yet.
+And such is the case with the question in the headline.
+I started wondering about it following  a tweeted response by Raouf Eldeeb (@raouf777) to Privacy is Personal:
+It is also a fundamental right, not a privilege to be bestowed on anyone. The individual should have the right to determine the extent of his privacy.
+Where There's No Distance or Gravity
+The more digital we become, the less human we remain.
+If Your Privacy Is in the Hands of Others Alone, You Don’t Have Any
+If you think regulations are going to protect your privacy, you’re wrong. In fact they can make things worse, especially if they start with the assumption that your privacy is provided only by other parties, most of whom are incentivized to violate it.
+Weekend Reading: Privacy
+Most people simply are unaware of how much personal data they leak on a
+daily basis as they use their computers. Enter this weekend's reading topic:
+Privacy.
+FOSS Project Spotlight: Tutanota, the First Encrypted Email Service with an App on F-Droid
+by Matthias Pfau
+FOSS Project Spotlight: Tutanota, the First Encrypted Email Service with an App on F-Droid
+Seven years ago, we started building Tutanota, an encrypted email service
+with a strong focus on security, privacy and open source. Long before the
+Snowden revelations, we felt there was a need for easy-to-use encryption that
+would
+allow everyone to communicate online without being snooped upon.
+As developers, we know how easy it is to spy on email that travels through the
+web. Email, with its federated setup is great, and that's why it has
+become the main form of online communication and still is. However, from a
+security perspective, the federated setup is troublesome—to say the
+least.
+Now Is the Time to Start Planning for the Post-Android World
+We need a free software mobile operating system. Is it eelo?
+Remember Windows? It was an operating system that was quite popular
+in the old days of computing. However, its global market share has
+been in decline for some time, and last
+year, the Age of Windows ended, and the Age of Android began.
+Engineers vs. Re-engineering
+In an age when people are being re-engineered into farm animals for AI
+ranchers, it's the job of engineers to save humanity through true personal
+agency.
+Let's Solve the Deeper Problem That Makes Facebook's Bad Acting Possible
+Finding that Facebook has "data sharing partnerships" with "at least sixty device makers" is as unsurprising as finding that there are a zillion ways to use wheat or corn. Facebook is in the data farming business.
+Remember that the GDPR didn't happen in a vacuum. Bad acting with personal data in the adtech business (the one that aims advertising with personal data) is the norm, not the exception.
+Data Privacy: Why It Matters and How to Protect Yourself
+When it comes to privacy on the internet, the safest approach is
+to cut your Ethernet cable or power down your device. But,
+because you can't really do that and remain somewhat productive, you
+need other options. This article provides a general overview of the situation, steps
+you can take to mitigate risks and
+finishes with a tutorial on setting up a virtual private network.
+Pagination
+Current page
+1
+Page
+2
+Page
+3
+Next page
+››
+Last page
+Last »
+Subscribe to Privacy
+×

@@ -1,0 +1,59 @@
+https://www.iab.org/documents/correspondence-reports-documents/2013-2/iab-response-to-iana-policies-user-instructions-25jun13/
+Home»Documents»IAB Correspondence, Reports, and Selected Documents»2013»IAB Response to ICANN Consultation on the Source of Policies & User Instructions for Internet Number Resource Requests
+The Internet Architecture Board (IAB) is an oversight body of the Internet Engineering Task Force (IETF). The IAB provides oversight of the architecture for the protocols and procedures used by the Internet. Policies and management of IANA functions, including Internet numbering resources, have a broad impact on that architecture.
+The IP addressing architecture is defined by the IETF. It is documented in the RFC series, most notably in RFCs 1122, 1918, 2050, 4291, 5771, and 6890. Note that RFC 2050 will soon be replaced by a document that was recently approved by the IESG. Global unicast addresses are a single (albeit large) component of the architecture. Addresses from this block are allocated to the RIRs. Several other address blocks exist, including broadcast, multicast, private address space, IPv6 anycast and special purpose address blocks. Allocation and usage of addresses in these blocks are specified in the relevant RFCs, including those listed above, and are administered in accordance with Section 4 of RFC 2860. Parts of address blocks are reserved by the IETF for future use as the Internet continues to evolve.
+While the solicitation itself notes these address blocks, the draft “User Instructions” does not provide any guidance on how these blocks are used or how to obtain allocations. Rather it largely limits guidance to unicast IP address blocks. We therefore suggest either that the title of the instructions be modified to indicate that the instructions are limited to global unicast addresses, or that a section be included that discusses these other address blocks, referring to appropriate IETF documents, including, but not limited to, RFC 5226 (see below) and the relevant RFCs out of those listed above.
+RFC 5226 specifies inter alia the means to establish new specialized addresses and address blocks that themselves may require different approaches to their management. The development of the above listed RFCs over the span of 25 years demonstrates that both the needs of Internet users and the capabilities of supporting organizations have evolved. It is fair, therefore, to conclude that they will continue to evolve.
+The IAB looks forward to working with ICANN to further develop user instructions, and we are grateful for the opportunity to comment.
+References
+ICANN Consultation on the Source of Policies & User Instructions for Internet Number Resource Requests
+Braden, R. Ed., “Requirements for Internet Hosts – Communication Layers” RFC 1122 (also STD 3), October 1989.
+Rekhter, Y., et. al, “Address Allocation for Private Internets”, RFC 1918 (also BCP 5), February 1996.
+Hubbard, K., et. al, “Internet Registry IP Allocation Guidelines”, RFC 2050 (also BCP 12), November, 1996.
+Carpenter, B., Baker, F., Roberts, M., “Memorandum of Understanding Concerning the Technical Work of the Internet Assigned Numbers Authority”, RFC 2860, June 2000.
+Hinden, R., Deering, S. “IP Version 6 Addressing Architecture”, RFC 4291, February 2006.
+Narten, T., Alvestrand, H., “Guidelines for Writing an IANA Considerations Section in RFCs”, RFC 5226 (Also BCP 26), May 2008.
+Cotton, M., et. al, “IANA Guidelines for IPv4 Multicast Address Assignments”, RFC 5771 (also BCP 51), March 2010.
+Cotton, M., et. al., “Special-Purpose IP Address Registries”, RFC 6890 (also BCP 153), April 2013.
+Contact Information
+For further information, please contact:
+Russ Housley
+IAB Chair
+iab-chair@iab.org
+16 July 2013
+Recent Posts
+IAB Reappoints Warren Kumari to the ICANN Technical Liaison Group
+Reappointment of Colin Perkins as IRTF Chair
+IAB Report to the Community for IETF 109
+Call for nominations: IETF appointment to the ISOC Board of Trustees
+Call for Feedback on the ICANN Technical Liaison Group Appointment
+Search for:
+IAB Work
+IAB Agenda
+IAB Minutes
+IAB Documents
+IAB Open Meetings
+IAB Wiki
+Technical Plenaries
+IAB Programs
+Evolvability, Deployability, and Maintainability Program
+IANA Program
+Internet Threat Model Program
+Liaison Oversight
+Plenary Planning Program
+RFC Editor Future Development Program
+RFC Editor Series Oversight Committee (RSOC)
+Related Organizations
+IETF Administration LLC
+RFC Editor
+IANA
+IRTF
+IETF Trust
+ISOC
+Privacy Statement
+IETF/IRTF/IAB Privacy Statement
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org

@@ -1,0 +1,967 @@
+https://reptile.openprivacy.org/
+Support
+Help Save Reptile!
+Navigation
+Essentials
+Overview
+News
+Use Reptile Now
+Installation
+Overview
+Release Notes
+HISTORY
+Download
+Portability
+Developers
+Actions
+Content Controls
+Database
+Libraries
+Parameters
+Settings
+Tasks
+Tomcat
+XML
+XSLT
+Notes
+P2P (content distribution)
+OCS and RSS
+Search Infrastructure
+Search
+Providers
+Search Service
+Services
+Search
+rss2html
+RSS Content Parsing
+Proposals
+JXTA
+P2P Protocol Handlers
+Next-Generation Subscriptions
+Rendezvous Nodes
+HTCache
+Publication
+Resources
+Download
+UML Class Diagrams (SVG)
+UML Class Diagrams (PNG)
+UML Class Diagrams (HTML)
+Javadoc
+The Reptile projects has moved over to the NewsMonster project.
+News
+Mark Pilgrim and Dave on blinks...
+Posted on Tue Sep 17 2002 07:36 PM
+Mark says :
+It's a "B-link". Well, Heather called it "currently reading". Michael Barrish
+calls his "choice cuts". Leslie simply calls hers "elsewhere". It's a link to
+a site, seemingly random, generally obscure, quirky, maybe not the sort of
+thing you'd expect a person to link to. (In Dean's case, what changes is not
+the link but the picture--of his dog, in this case. There are certainly other
+variations.) Regardless, it's set apart from the main content; it's its own
+thing really. A blog within a blog.
+Dave says :
+Based on a feature request by Mark Pilgrim, I designed my first RSS module
+today, called blogChannel. It was fun. Scripting News already supports it.
+This functionality has been available within RSS 1.0 for about 2 months now
+thanks to my mod_link
+and RSS mod_subscription
+specs.
+Of course mod_link goes above and beyond the call of duty and allows a lot of
+very complex link relationships.
+I am working with Ian Davis and Bill Kearney to possibly merge OCS and
+mod_subscription into an updated format to support mod verbose subscription
+relationships.
+Read More
+Print Article
+RSS 1.0 for scripting.com
+Posted on Tue Sep 17 2002 06:10 PM
+I created an RSS 1.0 feed for scripting.com... assuming anyone wants it :)
+Read More
+Print Article
+Example of my Offnews RSS Aggregator
+Posted on Sun Sep 15 2002 11:28 PM
+I just uploaded the recent output from my offline RSS aggregator named Offnews
+.
+On a machine with a large LCD panel it won't be very compelling but use
+your imagination and imagine this on a 240 x 320 LCD.
+Read More
+Print Article
+The Design of a Payment System over RSS
+Posted on Sun Sep 15 2002 05:23 PM
+I have been thinking the design of an RSS 1.0 module for the syndication of
+payment metadata which allow weblog users to discovery payment and donation
+systems.
+This module can be used to support ad hoc transfer of funds (possibly
+as a reward for positive behavior).
+This is specifically for the use of peer-to-peer exchange of small micro-payments
+within the weblog community.
+The system is based on the concept of a 'payment provider' such as Paypal or
+Amazon (with hopefully more to come).
+Users register that they support payments by using the 'payment:donation'
+element.
+This provides meta-info about the payment system and a description of
+why micro-payments are being used.
+The user then specifies which payment systems are supported (providers).
+Initially it would make sense to support both Paypal and Amazon.
+Both these
+systems are REST style services and should be easy for user agents to implement.
+Users can specify the cost for items with the 'payment:cost' element.
+We can
+also specify whether these are mandatory or simply requested payments.
+Descriptions are also supported here so that users can provide a reason for the
+payment.
+I don't know how we would enforce mandatory payments.
+I think this is going to
+have to be a dependent of the resource.
+Assuming it is a URL resolves to a web
+application we can then prompt for the mandatory payment and redirect to another
+location.
+I don't know it this is perfect but I don't want to head down the
+path of Digital Rights Management within RSS.
+I am also not sure how we would represent currency systems.
+How does one
+represent $10 US vs. HK?
+(I have to do more research here).
+The use of 'roles' can be used so that we can provide multiple individuals with
+ways to receive funds from one weblog.
+For example a blogger hosted weblog
+could receive funds with a 'developer' role and the author could receive funds
+with the 'author' role (note these will be URIs).
+Multiple individuals for the same role should be supported with descriptions of
+why each role is necessary.
+There are a number of security issues here.
+At the very minimum one could
+assume a man-in-the-middle attack (by someone like the mafia) which could be
+used to rewrite the RSS file so that the payment identity is changed to redirect
+money into a different accouunt.
+At the very minimum SSL needs to be used for the transfer of payment metadata.
+The only exception is if the user uses a well known identity
+(burton@peerfear.org) within the payment provider.
+The only problem here is
+that this is still open to attacks such as the recent unicode URL attack within
+Internet Explorer (using a different charset for a DNS name which looked the
+same as the original URL).
+If the site can not support SSL then it can not take advantage of payments.
+User agents are not going to use payment metainfo discovered through non-SSL
+mechanisms as this money could just be used by nefarious people (mafia,
+terrorists) instead of going to the intended recipient.
+Here are some examples of the format I was thinking about:
+http://www.peerfear.org/download/mod_payment/example-donation.xml
+http://www.peerfear.org/download/mod_payment/example-cost.xml
+Read More
+Print Article
+Blogwalking?
+Posted on Sat Sep 14 2002 12:36 AM
+Are these guys serious?
+Blogwalking?
+Do they actually own a Zaurus?
+Ha!
+The keyboard is totally unusable.
+I don't even want to type 'ifconfig' and I
+couldn't even imagine writing this blog entry on the Zaurus!
+Read More
+Print Article
+Offnews - Offline RSS Aggregator for PDAs
+Posted on Fri Sep 13 2002 05:27 PM
+I just released version 0.9.0 Offnews, an offline RSS aggregator for PDAs.
+Essentially, this is just a very thin version of Reptile with some glue to
+make it run and some different XSL to render very thin HTML designed for small
+LCD panels.
+It is pretty stable.
+There are some bugs with HTML export but about 70% of the
+available HTML looks just fine when exported.
+The HTML mod_content export code (RSSContentSerializer) has a few bugs (the
+algorithm is complicated) but I am working on fixing these for 1.0.
+Read More
+Print Article
+GUIDs and Public Key Crypto
+Posted on Wed Sep 11 2002 06:31 PM
+The other day I blogged about Secure GUIDs
+within RSS.
+The technique used here relied on a SHA1 hash of the URL(of the feed.) + triple
+after it was ran through XML canonicalization.
+This isn't a perfect scenario for providing 'secure' GUID generation.
+There are
+a number of attacks here including traffic redirection, man-in-the-middle, etc.
+Ideally we would sign the RDF triple with the private key of the peer (owner of
+the RSS channel) and then use the Base32 encoded value of this as the GUID.
+The reason this would work is that (assuming you have the correct public key of
+the peer) you can look at the signature and verify that it is indeed correct.
+With just a normal channel URL based hash someone could MiTM you and rewrite the
+content with new GUIDs (they are easy to generate) and you wouldn't be able to
+tell.
+With a public key mechanism you could look at the signature and it would
+fail to verify because the attacker would not posses the private key required to
+generate the correct signature.
+The only problem here is that we have to build out a public key distribution
+mechanism over RSS and I think that might be pushing the envelope a bit.
+If the hash mechanism is accepted within the community the same mechanism can be
+used with cryptographic signatures in the future when we have the technical
+capability and clients which can handle this.
+I am somewhat pessimestic about the potential here.
+We have needed cryto within
+mail readers for a long time now and it has never happened.
+I really wish we we could have a future with crypto deployed in all RSS
+readers. I really need this for my reputation system (in a perfect world).
+... time will tell.
+Also, supporting both mechanisms would allow for paranoid (and rightfully so)
+bloggers in 3rd world and politically sensitive situations (me!) to use
+signatures instead of the standard SHA1 hash.
+Read More
+Print Article
+My Dinner with Dave Winer
+Posted on Wed Sep 11 2002 12:08 AM
+One of the great things about living in San Francisco a lot of smart people live
+and work within the area (South Bay, Silicon Valley, East Bay, etc).
+This means that is very easy to randomly meet Internet and within computing
+circles.
+All you really have to do is have a few friends within the computer
+industry or hang out at the coffee shops and that is all you need.
+This happens all the time for me.
+I bump into someone online and realize that
+they live in San Francisco so I drop them a line and we meet up.
+Tonight I had dinner with about 30 friends and colleagues of mine.
+Past dinners
+have really fun with some great conversation.
+Tonight I show up and notice that Dave Winer is sitting at one of the tables.
+My initial thinking was that this could be a Good Thing.
+There has been a lot
+of recent talk about RSS 1.0 vs RSS 2.0 and future development and I figured
+this would be a good time to have a constructive talk.
+The only thing I was worried about was that maybe Dave would become defensive
+and not realize that I really wanted to have a constructive dialog.
+The first thing I did was introduce myself.
+I don't think he realized that
+"Kevin Burton" is the same "Kevin Burton (burtonator)" from the RSS 1.0 Working
+Group.
+I guess this is acceptable, after all what are the odds that we would
+randomly bump into each other while the (Userland?) RSS 2.0 spec was pending
+finalization.
+Right off the bat we started talking about RSS.
+I wanted to talk about "The End
+of RSS Innocence" article
+that I blogged about the other day and that he
+linked to from scripting.com
+The thesis of the article was that RDF integration within RSS was inevitable.
+I
+think I did a very good job proving this and I wanted to see what he would say.
+His basic response was just that RDF was a joke and the Semantic Web developers
+are doing a terrible job.
+I was somewhat offended by this statement and tried
+to clarify my position in that some of us (under rss-dev) are trying work to
+towards making the SW more usable and realistic.
+...
+The conversation kind of stopped at this point... I didn't want to go down this
+path, I wanted to keep everything constructive.
+...
+I decided to offer a few olive branches between RSS 1.0 and RSS 2.0.
+My
+thinking was that my mod_link [2] proposal and recent GUID ideas
+would be
+really nice within RSS 2.0.
+I certainly wouldn't have a problem seeing this
+happen.
+The second I mentioned rss-dev and mod_link Dave started to become visually
+agitated and said some very insulting things.
+Here are some choice quotes:
+"You took my work and put *your* name on it"
+"You hijacked my Intellectual Property"
+"They ripped off my ideas"
+"You guys are thieves."
+These were probably the least offensive things I can blog ...
+There really
+wasn't any profanity used but I certainly didn't find them friendly.
+...
+This was about 60 seconds into the conversation.
+At this point you have to remember that I have never met Dave Winer before.
+We
+talked for a few seconds a the Emerging Technology Conference when he "objected"
+to something a friend of mine said about Microsoft (objected is being polite).
+...
+After this I tried to make it clear to Dave that I really wanted to stay
+productive.
+This meant interrupting him in mid-sentence and explaining my
+situation at which point he again became visibly upset...
+This is about 90 seconds...
+...
+The conversation calmed down again (that is good). Then I tried to bring up my
+recent thoughts
+on secure GUIDs [5] and reification within RSS 1.0 and RDF
+(I think this is huge).
+You see RSS 2.0 has a GUID element based on the permalink/URL concept.
+My
+recent idea are that we need a better GUID implementation (read the blog entry
+for more info)
+Dave basically said "RSS 2.0 has GUIDs", and I said "but they are not secure and
+aren't really GUIDs".
+Dave basically said that "I don't care about security", and then I jokingly
+said "Yeah, who cares about security?!
+This is only the Internet!" (making it
+clear that this was a joke - at least that was my attempt).
+At this point Dave basically "lost control" (for lack of a better description)
+"How dare you!
+Who the hell are you to question me about security?!"
+At this point I basically ended the conversation and moved to the other table
+with my friends.
+I then heard Dave continue to briefly talk about the issue when I was sitting at
+the other table.
+I distinctly heard "That guy is an idiot!" ...
+Total elapsed time: around 5 minutes.
+...
+For the record (for people who have never met me in person), I am a very easy
+person to get along with.
+It is a rare occasion for me to be involved in a
+something like this.
+I am usually able to find a common ground with anyone so
+that constrictive communication can take place.
+...
+So what the heck happened Dave? I really wished we could have had a decent
+conversation.
+It would have been a great opportunity to interact and move
+forward and exchange ideas.
+I really tried to take the right path and stay
+constructive and I wish you would have done the same.
+3. http://www.purl.org/rss/1.0/modules/link
+Read More
+Print Article
+UUID/GUIDs Within RSS and RDF
+Posted on Mon Sep 09 2002 06:10 PM
+A number of people have suggested that RDF and RSS need to support GUIDs for
+RDF/RSS triples.
+RSS 0.94 has support for a GUID.
+Bill Kearney (Syndic8 creator/developer) has
+mentioned that he needs GUIDs for RSS.
+Reptile needs GUIDs to refer to RSS
+items.
+In short a lot of RDF/RSS software needs support for GUIDs.
+I would like to propose a method to support GUIDs within RDF/RSS that is:
+Secure.
+We don't have to trust hostile peer to include the correct GUID.
+These GUIDs are based on the SHA1 hash of the base content.
+No producer obligations.
+RSS producers are not required to produce GUIDs but
+they MAY include them if necessary.
+Portable.
+These GUIDs are portable within XML attributes and are supported
+within URIs and filenames.
+Compatible with previous versions of RSS and future (though downlevel) RSS
+versions (RSS 2.0).
+Mutable Statements.
+Produces immutable base elements within a triple but the
+triple as a whole is mutable (if you add additional non-base (optional)
+elements).
+Supports (distributed) reification.
+Basically just RDF/RSS statements about other RDF/RSS
+statements.
+In practice this would work to add descriptions of RDF produced
+which doesn't include descriptions.
+Explanation
+Why do we need GUIDs when we have URIs?
+Are these the same?
+<item>
+<title>foo</title>
+<link>http://www.foo.com</link>
+</item>
+<item>
+<title>foo</title>
+<link>http://www.foo.com</link>
+</item>
+(answer - yes)
+How about these:
+<item>
+<title>foo</title>
+<link>http://www.foo.com</link>
+</item>
+<item>
+<title>bar</title>
+<link>http://www.foo.com</link>
+</item>
+(answer - no... they use the different titles)
+The second set is not identical and using the link as an identifier will fail
+and result in unusual behavior when used within RSS aggregators and RDF agents.
+One could say "hash the whole item"... that may work.
+One would need to use the
+dsig canonicalization method.
+The only problem here is that what if the user adds metainfo:
+<item>
+<title>bar</title>
+<link>http://www.foo.com</link>
+<dc:description>
+Break the hash by adding new data.
+</dc:description>
+</item>
+This would break a hash if it were used as a GUID.
+This means we need a GLOBAL unique identifier.
+This has to be generated from
+the RSS source when publishing.
+The only problem is that humans are terrible at
+managing this GUIDs with the required amount of entropy:
+"Humans are incapable of securely storing high-quality cryptographic keys, and
+they have unacceptable speed and accuracy when performing cryptographic
+operations. (They are also large, expensive to maintain, difficult to manage,
+and they pollute the environment. It is astonishing that these devices continue
+to be manufactured and deployed. But they are sufficiently pervasive that we
+must design our protocols around their limitations.)"
+- Kaufman, Perlman, and
+Speciner quoted in Anderson's 'Security Engineering'
+I am using UUIDs in my peerfear.org feed :
+<item record:uuid="1030570664">
+One solution for this problem is to use the SHA1 message digest algorithm (hash)
+to compute the GUID.
+SHA-1( channel/rdf:about + item/rdf:about + item/title +? item/description )
+Of course this would need to happen on every RDF schema/vocabulary that exists
+(only a problem for vocabulary developers).
+The channel/rdf:about element is
+added to localize the GUID to a specific channel.
+This would allow GUID generation within user agents but wouldn't place the
+burden of management on the user.
+This would require the base (title, link, description) RDF triples and RSS items
+to be immutable.
+If one changed an RSS item at runtime it is essentially a new
+item (as far as aggregators that are using the GUID are concerned)
+The only problem with this proposal is that GUIDs would break if the user
+changed the channel rdf:about (channel URL).
+This would only be a situation if
+a peer were to get a handle on old RDF/RSS triples/items without having a handle
+on the old RDF channel link.
+In this situation we would need a mechanism for
+including the RDF channel link of the old RSS feed.
+It is recommended that the
+channel be duplicated in whole (including channel) when syndicating cached
+content.
+Security
+Security is very important with this mechanism.
+UUIDs (128 bit non-colliding
+IDs) and automatically generated URIs/URLs MUST NOT be used.
+This mechanism of
+GUID use is not secure and it would be possible for an attacking peer to us the
+GUID of another triple and convince a peer to use the GUID of an invalid item.
+The symptoms of an attack could range from invalid cached entries, broken
+reification, and even potentially harming the reputation of a producer (making a
+statement about a GUID that was incorrect (Alice (friend) is stupid).
+SHA1 hash based GUIDs avoid this problem by placing the burden of GUID
+calculation on RDF/RSS aggregators.
+Hashes can be validated locally by an RSS
+aggregator and easily generated for RSS channels (and RDF) that don't support
+GUIDs.
+No Producer Obligations
+RDF/RSS producers MAY include the GUID within their RSS feed via the rdf:ID
+attribute but are not REQUIRED to do so.
+Non-RDF vocabularies MUST NOT include
+GUIDs unless support is explicitly added.
+Note that the inclusion of GUIDs within an RSS feed will only bloat the RSS feed
+and should rarely be used in practice.
+There are a few scenarios where RSS
+aggregators may choose to use GUIDs explicitly so that they make it clear what
+GUID they are using within their own internal database.
+Portable
+The GUIDs generated are portable across RSS implementations, can be used within
+any XML and can be somewhat easily managed by humans (note that hashes are
+long and somewhat bulky)
+Compatible
+This method is compatible with all versions of RSS even if they do not support
+GUID generation.
+the only caveat is that if the version of rss in question does
+not support modules the GUID MUST NOT be included within the rss.
+It may only be
+computed by RSS aggregators.
+Mutable Statements
+Statements can be mutable except for the base elements.
+For example you can add
+Dublin Core metainfo, any RSS 1.0 module, additional XML and namespaces,
+additional RDF all without breaking the GUID.
+The only requirement is that the base elements not be modified.
+If they are
+this will generate a new GUID and a new triple (as far as a user of the GUID is
+concerned)
+Supports (distributed) Reification
+Since GUIDs can be calculated for any RDF triple we can support distributed
+reification.
+For example (remember GUIDs are verbose but optional and not
+required by producers):
+<item rdf:ID="urn:sha1:1b17864eeb6c68294c9b2db0324a2b773401f0da0537d82626c24a7850e15ef2d6c4265dcd5e85f1"
+rdf:about="http://www.cnn.com">
+<title>CNN</title>
+<link>http://www.cnn.com</link>
+</item>
+<item rdf:about="urn:sha1:1b17864eeb6c68294c9b2db0324a2b773401f0da0537d82626c24a7850e15ef2d6c4265dcd5e85f1">
+<dc:description>CNN is a cool website that is 0wned by a big company</dc:description>
+</item>
+The second triple adds a Dublin Core description to the first entry.
+Representation and Calculation
+All GUIDs are calculated with the following method:
+Canonicalizing the RDF triple (RSS item) via XML Canonicalization .
+This
+is required so that small whitespace doesn't break hash verification. (note that
+the RAW data isn't used because we want to include the semantic (qnames)
+representation).
+Base elements (required and commonly use elements) including rdf:about are
+concatenated together.
+The entire triple/item is now signed:
+sha1(item)
+The hash is then represented in base32 so that it is portable as a URI and
+within a attribute.
+If we didn't use base32 it would be binary.
+Base32 was
+chosen over base64 so that the hash can be portable and doesn't include
+breaking characters such as / ? etc.
+The GUID is then represented as:
+urn:sha1:base32(canon(rdf:about + BASE_CONTENT))
+Note that all RDF vocabulary and RSS modules are required to specify what is
+included as "base" content so that canonicalization can take place.
+Usually
+this is just going to be the required elements and high use optional elements.
+For RSS 1.0 this would be title, link, and description, and would support Dublin
+core metainfo as mutable additions.
+Note that it is possible for aggregators can use their own hashing algorithm but
+a HASH URI is required if someone wants to refer to a specific RSS item or RDF
+triple in a standardized manner.
+The burden is placed upon the GUID producer to use a hashing algorithm that is
+supported by the majority of others if GUIDs are included within the feed.
+The urn:sha1 hash mechanism MUST be supported by all aggregators that support
+GUID.
+Feedback
+I would like to officially request feedback on this idea.
+If RDF/RSS Working
+Group members think this is a good idea I would like to push this towards
+standardization and to develop much better documentation.
+Read More
+Print Article
+The End of RSS Innocence
+Posted on Fri Sep 06 2002 02:42 AM
+There has been a lot of RSS activity recently both on the public mailing lists
+(syndication, rss-dev, aggregators, etc) and with conversations I have been
+having with people within the industry.
+All of this is related around one central thread; RSS is growing, we are moving
+into new areas, and we are staring to experience some growing pains.
+The Present
+There seems to be a number of issues which desperately need some attention:
+The RSS 0.94 branch (it isn't a fork - I have participated in forks (emacs and
+a current pending fork of another OSS project) and they are a lot worse)
+Use of RDF and XML namespaces within RSS (this is controversial even among RSS
+1.0 developers)
+The RDF working group
+The RSS working group
+Future Development of the RSS 1.0 spec.
+These issues manifest themselves as follows:
+Some people consider the use of RDF and XML namespaces as confusing,
+unnecessary, and just way too much protocol overhead (the RSS 0.94 branch) to be
+used in the 'real world'.
+Some people think that this complexity is necessary both for future growth and
+realistic and practical design issues and are actually working on shipping
+products and real-world specifications (generally speaking this is represented
+by the rss-dev team).
+Some people think that the semantic web is the future and are still working on
+its development.
+These are essentially the Semantic Web developers over at the
+W3C working on RDF.
+In my opinion the RSS 1.0 and RDF Working Groups are correct.
+RSS 1.0 has lost
+its innocence and is turning into the first major implementation of the Semantic
+Web.
+The RDF nature of RSS 1.0 is very important.
+The major problem is that the
+current RDF Model and Syntax Specification
+is not meant to be ready to be
+used within a working SW implementation across all products and defined
+specifications; the format is very complex and hard to work with.
+This is acceptable.
+There have not been any major implementations of public RDF
+applications; like HTML 1.0, we still have a lot to learn.
+I have tried to condense some of my major criticisms into a Simple RDF format
+that is a lot easier to manage and supports integration with DOM, SAX,
+XPATH, etc. (RDF query specifications are still under development) and supports
+use within RSS 1.0 modules.
+I think SRDF goes a long way to simplify most of the developer criticism
+regarding the RSS 1.0 format.
+It also allows module implementations to support
+the popular Russian doll format popular by most developers but is not fully
+compatible with RDF.
+SRDF provides a compromise between the simplicity and readability of RSS and the
+semantics and knowledge management background that RDF provides.
+The power of RDF comes from the fact that the data isn't modeled as an ordinary
+XML hierarchy but is instead modeled as a graph (nodes connected by edges).
+You see the real power of Internet comes from the fact that it is just a large
+graph of nodes and edges that are connected.
+This is the same model that the
+weblog community uses, it isn't just an ordinary hierarchy.
+This is what RSS needs.
+We need to support a spec that supports a graph based data structure like RDF
+but at the same time realizes that people are actually building real world
+applications with this stuff.
+All of this functionality is not without a price.
+I have proposed the RSS 1.0
+Link
+mechanism which goes a long way towards keeping advanced RSS 1.0
+channels from becoming too bloated with additional modules and RDF.
+The Link module allows SRDF to link to external RDF files.
+When RDF is linked
+to an RSS channel instead of embedded it is much more readable and straight
+forward.
+An example can be seen in my RSS feed
+for peerfear.org which uses a link to
+my mod_subscription
+RDF file which represents my blogroll .
+The blogroll RDF doesn't bloat the original RSS file with additional markup and
+is also very simple to view and work with.
+(There has recently been some suggestion that these modules become 100% external
+modules within only link definitions.
+I will have to think about this some
+more.)
+More channel->module links are needed.
+The mod_content specification should be
+updated to reflect the use of mod_link for specifying external RDF files which
+contain the content of a given item.
+The Future
+The future clearly belongs with RSS Working Group and integration with the work
+being doing within the W3C RDF Working Group.
+The major difference being that the RSSWG is geared around implementing real
+products and real code and the RDFWG geared towards developing real
+specifications and pushing the technology forward.
+This is a very complementary
+relationship for both groups and should lead to some very interesting work.
+The Semantic Web will never be successful if there isn't a way to get a handle
+on all the data without bogging down the Internet.
+This is why the RSS model is
+very compelling.
+I would assert that the main reason why RSS has been very cool is that it acts
+as a 'datasource' into an ephemeral distributed database of knowledge.
+I realize that is a very complex statement so let me explain.
+If you are following the development of the Semantic Web you have probably read
+the Paul Ford article about "How Google beat Amazon and Ebay to the Semantic
+Web".
+The article does a good job at presenting the SW to people who were not
+able to fully grasp the RSS/RDF Zen in the past (and I admit that even I have
+been guilty of being somewhat stubborn).
+The major problem with RDF is that there is no scalable way to get a handle on
+all the data.
+This is where the RSS/RDF model comes into play.
+RSS acts as a way to allow RSS aggregators (agents) to obtain RDF triples
+(qualified and usable data) from a permanent and constantly updated datasource
+(data resource?).
+The data can then be used locally and archived to make some
+very compelling decisions (we will also see distributed RDF databases come into
+play for distributed RDF query and possibly implementations of keyword search
+over P2P networks).
+This is what is going to allow 'Google to beat Amazon'.
+If we were to ignore
+the RDF benefits of RSS and stay with a format that 'my mom' can create with
+'notepad' I think our society and the growth of weblog community would be
+significantly hurt.
+We need to move on.
+The innocence is over.
+RSS is going to be an RDF
+application with rich and complex modules that include RDF vocabulary.
+In short
+RSS is going to become complicated.
+This complexity isn't going to be forced on anyone.
+It isn't like the the powers
+that be are going to decide to create the most complicated spec imaginable.
+This is going to be driven be user and developer feature requests.
+People are
+going to realize that title, link and description elements are pretty basic.
+Future version of RSS will still probably support this but we are going to
+increasingly see people request new features.
+"I want to sell my guitar over my RSS channel so that people can automatically
+discover the price, model, manufacturer, age, quality and compare this
+information with other people within the community selling guitars."
+"I want rank other people within my RSS community and discovery articles based
+on reputation and past performance."
+(Did I mention I was working on a reputation system for RSS?)
+"I want to syndicate my blogroll so that other people can read my RSS channels
+(subscriptions) and automatically discover new channels."
+"I want to publish my calendar so that other people can subscribe to my schedule
+and do cool things like realize we are both going to the same conference on the
+same day, automatically realize that we are both free for dinner one night and
+automatically make a dinner reservation."
+... and did I mention that these people are doing to want to combine these use
+cases?
+"I want to sell my guitar so that people can discover when I will be giving a
+concert in their area so that they can hear what the guitar sounds like"
+Once we start to see these kind of requests we will see the end of simple title,
+link, description syndication and the use of RSS as a full blown RDF datasource.
+What needs to be done.
+"The art of progress is to preserve order amid change and to preserve change
+amid order.
+Alfred North Whitehead, Science and the Modern World"
+A lot of work needs to be done and we all have to work together.
+There are a lot of areas where RSS and RDF needs development.
+RDF (and RSS) needs better documentation for both end-users and developers.
+RSS 1.0 proposed modules need to be pushed into standardization.
+There are a
+lot modules that haven't' been updated in long time and are being used in the
+while (mod_annotation) as well newer modules that show real promise (mod_link).
+These need to be pushed towards real standard modules with feedback requested
+from other RSS and RDF developers.
+RDF (and RSS) is going to need GUIDs (128 bit global identifiers - example
+urn:uuid:5c494602-ec2f-4ba3-b1ce-943dddbd01c6).
+(Aaron seems to agree )If
+RDF is going to build out a decentralized database all RDF triples are going to
+need GUIDs for decentralized reference.
+IF we don't have these there is no way
+to support global reference of RDF within aggregators.
+There are a number of
+hacks including the hashing of the RDF data but these break down in practice.
+RDF needs a security model.
+There needs to be a lot of work done here.
+RDF/RSS needs integration with
+XMLDsig and a public key discovery and distribution mechanism.
+It isn't
+impossible but it really needs to be worked on by people within the RDFWG and
+pushed into RDF.
+If we don't have this RSS will never move past simple applications.
+RSS will move past the point where it should be edited by humans and we need
+solid applications (hopefully Open Source).
+These should include integration
+with basic publishing tools like Emacs , Mozilla, and platform specific tools
+for Windows and OSX.
+We need to move forward
+We have a lot of work to do.
+The 100 unread messages I have on rss-dev (from
+yesterday) are clearly a strong indication of this.
+It isn't going to be easy.
+Working on public standards with people who all have
+different interests and who can't meet each in person (very often) other is very
+hard.
+We all need to just keep at it.
+I personally think we are doing a very good
+job.
+The recent RSS 0.94 branch just provides us with another step towards the
+future.
+The seemingly endless work being doing on RSS 1.0 modularization and
+the ongoing discussion of an update to the RSS 1.0 core spec as well as work on
+an RSS 2.0 can't help but push us forward.
+The only thing I would ask is that people remain patient and try to listen to
+other peoples concerns about future growth in this area.
+Zen Mind, Beginners Mind == Open Mind!
+Read More
+Print Article
+History of the RSS Fork
+Posted on Fri Sep 06 2002 01:35 AM
+This is pretty comprehensive.
+"This is a brief history of RSS from July 2000 to November 2000, during which
+time RSS 0.9x and RSS 1.0 forked. I try to focus on specific people and
+conversations that document why the fork occurred. I was not involved in any of
+this, but much (not all) of the discussion has been publicly archived. So this
+is very much an 'outsider's' history, and like any history, it is necessarily
+biased, selective, and incomplete."
+I don't really consider this a fork.
+It isn't like RSS 1.0 is doing bad.
+Just
+the opposite, things are going very well.
+The RSS 0.9x branch is just a temporary diversion while people are still trying
+to grasp the semantic web.
+I am about to blog about the end of RSS innocense.
+RSS is going to grow and the
+RSS 0.9x people are probably not going to like it.
+Read More
+Print Article
+Rich Equivalents RSS 1.0 Module Posted (*yay*)
+Posted on Sat Aug 31 2002 04:25 PM
+"This module defines elements defining properties which are equivalent to the
+title and description properties defined by the core RSS1.0 Spec, but allowing
+for the use of xml elements as content."
+"RSS has always defined a title and description element. The RSS1.0 Spec defines
+these as containing Parsed Character Data (i.e. plain text), but authors have
+desired a way to use richer content, in particular HTML, in the rendering of
+these elements."
+"The 'solution' hit upon was to abuse the text-based nature of XML and HTML and
+to store the text of an XML fragment as the content of the element. "
+This is awesome.
+I have been waiting for this for a while. I have been working
+on a similar spec in relation to mod_content but I haven't had much time to work
+on it.
+The peerfear RSS feed should now support richequiv...
+Read More
+Print Article
+Bonita Status Update (RSS in Mozilla)
+Posted on Wed Aug 28 2002 02:37 PM
+Just a quick update.
+I have been working on this a lot.
+Right now I have a new code base (right now called Bonita) that:
+adds a mozilla protocol for a view-rss scheme.
+This can then allow the user
+to do view-rss:http://www.peerfear.org/rss/index.rss and have the bonita handle
+the rendering of the channel.
+added -bonita command line option
+added a handler for application/rss+xml media type.
+XUL application that has a tree for representing subscribed XUL similar to
+NetNewsLite (or Mozilla with a sidebar running).
+The important thing is that most of the plumming has been done to support RSS.
+We are also going to support pluggable RSS handling mechanisms:
+offload to server for external processing (HTML rendering)
+use the Mozilla transformix XSLT engine to process the HTML (this is slow)
+provide a XUL rendering of the RSS similar to Messenger (mark items read,
+forward items, etc).
+Provides the ability to use a native XSLT processor to deliver XUL/HTML to
+Mozilla once protozilla starts shipping with Mozilla (we could also attempt to
+detect this at runtime for Linux and Windows users)
+The major issues I have right now are that Mozilla is lacking in a decent
+infrastructure to handle XML (strange huh!)
+The DOM uses the GUI event thread to process so XSLT of RSS locks the GUI
+DOM serialization is slow.
+No SAX2 (that is a big one!)
+Transformix XSLT engine is slow.
+I also need to play with the RDF database in Mozilla as this might be a really
+cool way to handle the RSS.
+Anyway.. I am talking to the Blogzilla guys to make sure they don't mind me
+using this as the name of the project.
+After that I am going to register it
+with Mozdev.
+I would really love to get some more people involved in this project.
+We have
+a decent source base now.
+Also... I would really like to see this become the standard mechanism for
+handling RSS within Mozilla.
+Hopefully we can have a 1.0 released within a few
+months and have it ship standard with a future version of Mozilla.
+Read More
+Print Article
+Reptile receives $1000 grant from LinuxFund
+Posted on Wed Jul 17 2002 09:52 PM
+"Projects funded for the cycle ending June 1 were: OpenBIOS, Reptile and
+AnonNet. Thanks to all the LinuxFund.org applicants and we look forward to
+seeing more ideas from from everyone."
+This is really great!
+LinuxFund has given the Reptile project a $1000
+development grant.
+I am very excited.
+Right away I am going to use this money to upgrade the
+memory on my development machine to 768M (I have been wanting to do this for a
+while).
+I have plans for the rest of the money but still want to think about
+the best way to allocate the funds.
+Anyway... I took a picture of the check .
+Read More
+Print Article
+Ideas - Remote RSS Access
+Posted on Tue Jul 16 2002 02:33 PM
+Remote RSS Access from Reptile...
+This is the ability to give Reptile an RSS channel:
+http://kerneltrap.org/module.php?mod=node&op=feed
+And pull out the RSS from this channel.
+There are a number of reasons one would like to fetch this content from Reptile
+and not the original site.
+We can incorporate the history of the RSS feed so that we are not limited to
+the items currently within the RSS document.
+We can use Reptile's database to
+pull out 10, 15, 20, etc items.
+We can include additional Reptile stored metainfo such as the date an item
+was discovered.
+Reptile can attempt to automatically discover (and included withint the served
+RSS) <description> elements for the RSS content even if it is not within the RSS
+field.
+The only problem is that I didn't want to use an 'ugly' URL to serve the
+content.
+I also didn't want to use POST because one can't bookmark these URL
+types.
+The solution is just to append the URL onto the end of a Servlet and use
+PATH_INFO (via getPathInfo) to pull out the full URL.
+So instead of
+http://kerneltrap.org/module.php?mod=node&op=feed
+One would request:
+http://reptile.peerfear.org/reptile/servlet/reptile/http/kerneltrap.org/module.php?mod=node&op=feed
+Which I think is much more elegant than the alternative:
+http://reptile.peerfear.org/reptile/servlet/reptile?URL=ENCODED_GARBAGE
+Read More
+Print Article
+New Reptile website
+Posted on Tue Jul 09 2002 11:47 AM
+I just reworked the Reptile website so that all the news items I enter on
+http://www.peerfear.org are mirrored to http://reptile.openprivacy.org.
+This
+should make it MUCH easier to maintain news between the two sites.
+(I love
+RSS!)
+Read More
+Print Article
+IP banned on Slashdot
+Posted on Tue Jul 09 2002 09:05 AM
+It looks like I deployed Reptile on peerfear with a 5 minute retry time.
+It was
+hitting slashdot.org every 5 minutes and the IP banned me (67.112.30.210).
+This is really stupid.
+Slashdot kills a server every 5th time they post a link
+and they get mad because I request a 5k file every 5 minutes.
+Get a grip guys!
+Anyway... this is partly my fault.
+I need to make sure that Reptile stable is
+deployed with a 60 minute feed refresh time.
+Read More
+Print Article
+New startup infrastructure for Reptile
+Posted on Sat Jul 06 2002 12:04 AM
+It seems that all our portability issue with Reptile are related to JVM startup.
+Issues such as JAVA_HOME, CATALINA_HOME, bootstrap.jar (and etc) settings, valid
+configuration files, correct parameters passed to Tomcat, etc all lead to
+problems running on different Operating Systems.
+At one point in time Reptile was started via Ant.
+This was very portable but
+was kind of buggy (long story) and required about 3 additional threads and 10M
+more of system memory.
+We migrated away from this system due to the fact that we wanted Reptile to run
+on thinner client machines (around 64M or so).
+The solution was to reuse the
+catalina.sh|bat scripts provided by Tomcat.
+This still leaves us with directory and jar issues.
+I have not decided to refactor the startup mechanism one more time (hopefully
+the last) to yield a higher level of portability.
+Reptile will now be started with org.openprivacy.reptile.Startup
+and
+shutdown with org.openprivacy.reptile.Shutdown
+classes with the
+reptile-startup.sh (and etc) scripts staying the same.
+I think this should provide us with an almost zero configuration and setup
+mechanism for Reptile.
+Just download the distribution, uncompress, and click on
+reptile-startup.sh|bat.
+SUPPLEMENTAL: // created on Sat Jul 06 2002 03:33 PM
+Another good point to this is that we can run services without having them run
+within Tomcat.
+We can also load services without running within the Tomcat
+classloader (so they are persistent).
+Read More
+Print Article
+Reptile running on peerfear (early access)
+Posted on Tue Jul 02 2002 02:43 PM
+I just setup Reptile
+running under peerfear .
+This should be running for
+a while on port 8050
+and when it is stable I will probably try to set it up
+running under reptile.peerfear.org.
+I still have a few things I need to fix before a 0.6.0 release:
+Get JXTA support fully working.
+I am really close to getting this done but I
+having some problems with discovery.
+Export the SOAP service via a Servlet so that developers can use Reptile as a
+web service.
+Point Reptile to mysql to that we have better performance and reliability (we
+are still using hypersonic)
+Improve the performance of RSS feed updates
+Improve the XSLT so that it is more of a search style website instead of a P2P
+native client UI.
+Read More
+Print Article
+Reptile web service with HTML/SOAP/RSS interfaces.
+Posted on Mon Jun 24 2002 03:46 PM
+I an pondering setting Reptile up as a permanent service running under peerfear
+.
+It will have a an HTML interface for running searches with a web browser,
+SOAP interface
+for running queries from native code, and RSS interfaces for
+running new queries and getting the latest news.
+Most of the code base for this is already complete.
+I just need to deploy it on
+the new machine and setup mysql as the database.
+Any thought to what the name should be?
+I was thinking about putting it under
+reptile.peerfear.org but this doesn't seem like a good idea as I would like to
+put the main website there at some future date.
+Maybe aggregator.peerfear.org?
+Maybe some other name?
+SUPPLEMENTAL: // created on Mon Jun 24 2002 04:33 PM
+Maybe it should just be home.peerfear.org or reptile-home.peerfear.org?
+Read More
+Print Article
+Copyright © 2001-2003, OpenPrivacy.org

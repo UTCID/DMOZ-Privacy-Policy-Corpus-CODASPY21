@@ -1,0 +1,617 @@
+https://www.benedelman.org/topics/privacy/
+Skip to content
+Last week app developer Dan Nolan noticed that Google transaction records were giving him the name, geographic region, and email address of every user who bought an Android app he sold via Google Play. Dan’s bottom line was simple: "Under no circumstances should [a developer] be able to get the information of the people who are buying [his] apps unless [the customers] opt into it and it’s made crystal clear to them that [app developers are] getting this information." Dan called on Google to cease these data leaks immediately, but Google instead tried to downplay the problem.
+In this post, I examine Google’s relevant privacy commitments and argue that Google has promised not to reveal users’ data to developers. I then critique Google’s response and suggest
+appropriate next steps.
+Google’s Android Privacy Promise
+In its overarching Google Privacy Policy, Google promises to keep users’ data confidential. Specifically, at the heading "Information we share", Google promises that "We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances apply". Google then lists four specific exceptions: "With your consent", "With domain administrators", "For external processing", and "For legal reasons." None of these exceptions applies: users were never told that their information would be shared (not to mention "consent[ing]" to such sharing; Google shared data with app developers, not domain administrators; app developers do not process data for Google, and the data was never processed nor provided for processing; and no legal reason required the sharing of this information. Under Google’s standard privacy policy, users’ data simply should not have been shared.
+Users purchase Android apps via the Google Play service, so Google Play policies also limit how Google may share users’ information. But the Google Play Terms of Service say nothing about Google sharing users’ details with app developers. Quite the contrary, the Play TOS indicate that Google will not share users’ information with app developers. At heading 10, Magazines on Google Play, Google specifically notes the additional "Information Google Shares with Magazine Publishers": customer "name, email address, [and] mailing address." But Google makes no special mention of information shared with any other type of Google Play content provider. Notice: Google notes that it shares certain extra information with magazine publishers, but it makes no corresponding mention of sharing with other content providers. The only plausible interpretation is that Google does not share the listed information with any other kind of content provider.
+Users’ Google Play purchases are processed via Google Wallet, so Google Wallet policies also limit how Google may share users’ information. But the Google Wallet privacy policy says nothing about Google sharing users’ details with app developers. Indeed, the Google Wallet privacy policy is particularly narrow in its statement of when Google may share users’ personal information:
+Information we share We will only share your personal information with other companies or individuals outside of Google in the following circumstances:
+* As permitted under the Google Privacy Policy.
+* As necessary to process your transaction and maintain your account.
+* To complete your registration for a service provided by a third party.
+None of these exceptions applies to Google sharing users’ details with app developers. The preceding analysis confirms that the Google Privacy Policy says nothing of sharing users’ information with app developers, so the first exception is inapplicable. Nolan’s post confirms that app developers do not need users’ details in order to provide the apps users request; Google’s app delivery system already provides apps to authorized users. And app developers need not communicate with users by email, making it unnecessary for Google to provide an app developer with a user’s email address. Google might argue that it could be useful, in certain circumstances, for app developers to be able to email the users who had bought their apps. But this certainly is not "necessary." Indeed, Nolan had successfully sold apps for months without doing so. The third exception does not apply to any app that does not require "registration" (most do not). Even if we interpret "registration" as installation and perhaps ongoing use, Nolan’s experience confirms why the third exception is also inapplicable: Nolan was easily able to do everything needed to sell and service the apps he sold without ever using users’ email addresses.
+Even if it were necessary for Google to let
+developers contact the users who bought their apps, such communications do not require that Google provide developers with users’ email addresses. Quite the contrary, Google could provide remailer email addresses: a developer would write to an email address that Google specifies, and Google would forward the message as needed. Alternatively, Google could develop an API to let developers contact users. These suggestions are more than speculative: Google Checkout uses exactly the former technique to shield users’ email address from sellers. (From Google’s 2006 announcement: "To provide more control over email spam, Google Checkout lets shoppers choose whether or not to keep email addresses confidential or turnoff unwanted email from the stores where they shop") Similarly, Google Wallet creates single-use credit card numbers ("Virtual OneTime Card") to let users make purchases without revealing their payment details developers. Having developed such sophisticated methods to protect user privacy in other contexts, including more complicated contexts, Google cannot credibly argue that it was "necessary" to reveal users’ email addresses to app developers.
+Evaluating Google’s Defenses
+Siliconvalley.com quotes an unnamed Google representative defending Google’s approach:
+“Google Wallet shares the information necessary to process a transaction, which is clearly spelled out in the Google Wallet Privacy Notice."
+I emphatically disagree. First, it simply is not "necessary" to provide developers with access to customer names or email addresses in order to process customer transactions. Apple has long run a similar but larger app marketplace without doing so. Scores of developers, Nolan among many others, successfully provide apps without using (and often without even knowing they are receiving) customer names and email addresses. To claim that it is "necessary" to provide this information to developers, Google would need to establish that there is truly no alternative — a high bar, which Google has not even attempted to reach.
+Second, this data sharing is not "spelled out in the Google Wallet Privacy Notice" and certainly is not "clear[]" there. The preceding section analyzes the relevant section of the Google Wallet privacy policy. Nothing in that document "clearly" states that Google shares users’ email addresses with third-party developers. The only conceivable argument for such sharing is that such sharing is "necessary" — but that immediately returns us to the arguments discussed above.
+Resolution
+Google widely promises to protect users’ private information. Google makes these promises equally in mobile.
+Having promised protection and delivered the opposite, Google should not be surprised to find users angry.
+Some app developers
+defend Google’s decision to provide developers with customer details. For example, the Application Developers Alliance
+commented that "in the Google Play environment the app purchaser customer data (e.g., name and email address) belongs to the developer who is the seller" — arguing that it is therefore appropriate that Google provide this information to app developers. Barry Schwartz of Marketing Land added "I want to be able to service my customers" and indicated that sharing customer names and emails helps with support and refunds.
+Perhaps there are good reasons to provide customer data to developers. But these arguments offer no reason why Google did not tell users that their details would be sent to app developers. The Application Developers Alliance suggests that anyone uncertain about data sharing should "carefully review the Google Play and Google Wallet terms of service." But these documents nowhere state that users’ information is provided to app developers (recall the analysis above), and in fact the documents indicate exactly the opposite.
+Meanwhile, sharing users’ details with app developers risks significant harms. Nolan noted two clear problems: First, a developer could use customer contact details to track and harass users who left negative reviews or sought refunds. Second, an attacker could write malware that, running on app developers’ computers,
+logs into Google’s systems to collect user data. While one might hope app developers would keep their computers secure from such malware, there are tens of thousands of Android developers. Some are bound to have poor security on some local machines. Users’ data shouldn’t be vulnerable to the weakest link among these thousands of developers. An attacker could devise a highly deceptive attack with information about which users bought which apps when — yielding customized, accurate emails inviting users to provide passwords (actually phishing) or install updates (actually malware).
+Moreover, Google is under a heightened obligation to abide by its privacy commitments. For one, privacy policies have the force of contract, so any company breaching its privacy policy risks litigation by harmed consumers. Meanwhile, Google’s prior privacy blunders have put Google under higher scrutiny: Google’s Buzz consent order includes twenty years of FTC oversight of Google’s privacy practices. After Google violated the FTC consent order by installing special code to monitor Apple Safari users whose browser settings specifically indicated they did not want to be tracked, the FTC imposed a $22.5 million fine, its largest ever. Now Google has again violated its privacy policies. A further investigation is surely in order.
+A full investigation of Google’s activities in this area will confirm who knew what when. Though Nolan’s complaint was the first to gain widespread notice, at least three other developers had previously raised the same concern (1, 2, 3), dating back to June 2012 or earlier. An FTC investigation will confirm whether Google staff noted these concerns and, if they noticed, why they failed to take action. Perhaps some Google staff proposed updating or clarifying applicable privacy policies; an investigation would determine why such improvements were not made. An investigation would also confirm the allegation (presented in an update to News.com.au reporting on this subject) that prior to October 2012, Google intentionally protected users’ email addresses by providing aliases — letting app developers contact users without receiving users’ email addresses. Given the clear reduction in privacy resulting from eliminating aliases, an investigation would check whether and why Google made this change.
+Even before that investigation, Google can take steps to begin to make this right. First, Google should immediately remove users’ details from developers’ screens. Google should simultaneously contact developers who had impermissible access and ask them to destroy any copies that they made. If Google has a contractual basis to require developers to destroy these copies, it should invoke those rights. In parallel, Google should contact victim users to let them know that Google shared their information in a way that was not permitted under Google’s own policies. Google should offer affected users
+Google’s unqualified apologies as well as appropriate monetary compensation. Since Google revealed users’ information only after users purchased paid apps, users’ payments offer a natural remedy: Google should provide affected users with a full refund for any apps where Google’s privacy practices did not live up to Google’s commitments.
+I opined on Facebook’s shifting privacy promises and string of privacy breaches.
+Browse Facebook, and you wouldn’t expect Facebook’s advertisers to learn who you are. After all, Facebook’s privacy policy and blog posts
+promise not to share user data with advertisers except when users grant specific permission. For example, on April 6, 2010 Facebook’s Barry Schnitt promised: "We don’t share your information with advertisers unless you tell us to (e.g. to get a sample, hear more, or enter a contest). Any assertion to the contrary is false. Period."
+My findings are exactly the contrary:
+Merely clicking an advertiser’s ad reveals to the advertiser the user’s Facebook username or user ID. With default privacy settings, the advertiser can then see almost all of a user’s activity on Facebook, including name, photos, friends, and more.
+In this article, I show examples of Facebook’s data leaks. I compare these leaks to Facebook’s privacy promises, and I point out that Facebook has been on notice of this problem for at least eight months. I conclude with specific suggestions for Facebook to fix this problem and prevent its reoccurrence.
+Details of the Data Leak
+Facebook’s data leak is straightforward: Consider a user who clicks a Facebook advertisement while viewing her own Facebook profile, or while viewing a page linked from her profile (e.g. a friend’s profile or a photo). Upon such a click, Facebook provides the advertiser with the user’s Facebook username or user ID.
+Facebook leaks usernames and user IDs to advertisers because Facebook embeds usernames and user IDs in URLs which are passed to advertisers through the HTTP Referer header. For example, my Facebook profile URL is http://www.facebook.com/bedelman.
+Notice my username (yellow).
+Of course, it would be incorrect to assume that a person looking at a given profile is in fact the owner of that profile. A request for a given profile might reflect that user looking at her own profile, but it might instead be some other user looking at the user’s profile. However, when a user views her own profile page, Facebook automatically embeds a "profile" tag (green) in the URL:
+http://www.facebook.com/bedelman?ref=profile
+Furthermore,
+when a user clicks from her profile page to another page, the resulting URL still bears the user’s own user ID or username, along with the details of the later-requested page. For example, when I view a friend’s
+profile, the resulting URL is as shown below. Notice the continued reference to my username (yellow) and the fact that this is indeed my profile (green), along with an appendage naming the user whose page I am now viewing (blue).
+http://www.facebook.com/bedelman?ref=profile#!/pacoles
+Each of these URLs is passed to advertisers whenever a user clicks an ad on Facebook. For example, when I clicked a Livingsocial ad on my own profile page, Facebook redirected me to the advertiser, yielding the following traffic to the advertiser’s server. Notice the transmission in the Referer header (red) of my username (yellow) and the fact that I was viewing my own profile page (green).
+GET /deals/socialads_reflector?do_not_redirect=1&preferred_city=152&ref=AUTO_LOWE_Deals_ 1273608790_uniq_bt1_b100_oci123_gM_a21-99 HTTP/1.1
+Accept: */* Referer: http://www.facebook.com/bedelman?ref=profile
+…Host: livingsocial.com…
+The same
+transmission occurs when a user clicks from her profile page to a friend’s page. For example, I clicked through to a friend’s profile, http://www.facebook.com/bedelman?ref=profile#!/pacoles, where I clicked another Livingsocial ad. Again, Facebook’s redirect caused my browser to transmit in its Referer header (red)
+my username (yellow), the fact that that username reflects my personal profile
+(green). Interestingly, my friend’s username was omitted from the transmission because it occurred after a pound sign, causing it to be automatically removed from Referer transmission.
+GET /deals/socialads_reflector?do_not_redirect=1&preferred_city=152&ref=AUTO_LOWE_Deals_ 1273608790_uniq_bt1_b100_oci123_gM_a21-99 HTTP/1.1
+Accept: */* Referer: http://www.facebook.com/bedelman?ref=profile
+…
+Host: livingsocial.com
+…
+In further testing, I confirmed that the same transmission occurs when a user clicks from her profile page to a photo page, or to any of various other pages linked form a user’s profile.
+With a Facebook member’s username or user ID, current Facebook defaults allow an advertiser (and anyone else) to obtain a user’s name, gender, other profile data, picture, friends, networks, wall posts, photos, and likes. Furthermore, the advertiser already knows the user’s basic demographics, since the advertiser knows the user fits the profile the advertiser had requested from Facebook. For example, in grey highlighting above, the advertiser learned from Facebook my age, gender, and geographic location.
+Facebook’s Contrary Statements about User Privacy vis-a-vis Advertisers
+Facebook has made specific
+promises as to what information it will share with advertisers. For one, Facebook’s privacy policy
+promises "we do not share your information with advertisers without your consent" (section 5). Then, in section 7, Facebook lists eleven specific circumstances in which it may share information with others — but none of these circumstances applies to the transmission detailed above.
+Facebook’s recent blog postings also deny that Facebook
+shares users’ identities with advertisers. In an April 6, 2010 post, Facebook promised: "We don’t share your information with advertisers unless you tell us to (e.g. to get a sample, hear more, or enter a contest). Any assertion to the contrary is false. Period." Facebook’s prior postings were similar. July 1, 2009: "Facebook does not share personal information with advertisers except under the direction and control of a user. … You can feel confident that Facebook will not share your personal information with advertisers unless and until you want to share that information." December 9, 2009: "Facebook never shares personal information with advertisers except under your direction and control." As to all these claims, I disagree. Sharing a username or user ID upon a single click, without any disclosure or indication that such information will be shared, is not at a user’s direction and control.
+Facebook Has Been on Notice of This Problem for Eight Months
+AT&T Labs researcher Balachander Krishnamurthy and
+Worcester Polytechnic Instituteprofessor Craig Wills previously identified the general problem of social networks leaking user information to advertisers, including leakage through the Referer headers detailed above. In August 2009, their On the Leakage of Personally Identifiable Information Via Online Social Networks was posted to the web and presented at the Workshop on Online Social Networks (WOSN).
+Through Krishnamurthy and Wills’ research, Facebook eight months ago received actual notice of the data leakage at issue. A September 2009 MediaPost article confirms Facebook’s knowledge through it spokesperson’s response. However, Facebook spokesperson Simon Axten severely understated the severity of the data leak: Axten commented "The average Facebook user views a number of different profile pages over the course of a session …. It’s thus difficult for a tracking website to know whether the identifier belongs to the person being tracked, or whether it instead belongs to a friend or someone else whose profile that person is viewing.” I emphatically disagree. As shown above, when a user views her own profile, or a page linked from her own profile, the "?ref=profile" tag is added to the URL — exactly confirming the identity of the profile owner.
+What Facebook Should Do
+Since receiving actual notice of these data leaks, Facebook has implemented scores of new features for advertising, monetization, information-sharing, and reorganization. Inexplicably, Facebook has failed to address leakage of user information to advertisers. That’s ill-advised and short-sighted: Users don’t expect ad clicks to reveal their names and details, and Facebook’s privacy policy and blog posts promise to honor that expectation. So Facebook needs to adjust its actual practices to meet its promises.
+Preventing advertisers from receiving usernames and user IDs is strikingly straightforward: A modified redirect can mask referring URLs. Currently, Facebook uses a simple HTTP 301 redirect, which preserves referring URLs — exactly creating the problem detailed above. But a FORM POST redirect, META REFRESH redirect, or JavaScript redirect could conceal referring URLs — preventing advertisers from receiving username or user ID information.
+Instead, Facebook has partially implemented the pound sign method described above — putting some, but not all, sensitive information after a pound sign, with the result that sometimes this information is not transmitted as a Referer. If fully implemented across the Facebook site, this approach might prevent the data leakage I uncovered. However, in my testing, numerous within-Facebook links bypass the pound sign masking. In any event, an improved redirect would be much simpler to implement — requiring only a single adjustment to the ad click-redirect script, rather than requiring changes to URL formats across the Facebook site.
+Finally, Facebook should inform users of what has occurred. Facebook should apologize to users, explain why it didn’t live up to its explicit privacy commitments, and establish procedures — at least robust testing, if not full external review — to assure that users’ privacy is correctly protected in the future.
+Update – May 26, 2010
+On May 20, 2010, the Wall Street Journal reported
+the problem detailed above. On or about that same day, Facebook removed the ref=profile tags that were the crux of the data leak.
+I yesterday spoke with Arturo Bejar, a Facebook engineer who investigated this problem. Arturo told me that after Krishnamurthy and Wills’ article, he reviewed relevant Facebook systems in search of leakage of user information. At that time, he found none, in that Facebook revealed the URLs users were browsing when they clicked ads, but did not indicate whether the user clicking a given ad was in fact the owner of the profile showing that ad. However, in a subsequent Facebook redesign, beginning in February 2010, Facebook user home pages received a new "profile" button which carried the ref=profile URL tags I analyze above. Because this tag was added without a further privacy review, Arturo tells me that he and others at Facebook did not consider the interaction between this tag and the problem I describe above. Arturo says that’s why this problem occurred despite the prior Krishnamurthy and Wills article.
+Arturo also pointed out that the problem I describe did not affect advertisers whose landing pages were pages on Facebook (rather than advertisers’ own external sites).
+Meanwhile, Facebook’s May 24 "Protecting Privacy with Referrers" presents Facebook’s view of the problem in greater detail. Facebook’s posting offers a fine analysis of the various methods of redirects and Facebook’s choice among them. It’s worth a read.
+After discussing the problem with Arturo and reading Facebook’s new post, I reached a more favorable impression of Facebook’s response. But my
+view is
+tempered by Facebook’s
+ill-advised attempts to downplay the
+breach.
+Rather than affirmatively describing the specific design flaw, Facebook’s post describes what "could" "potentially" occur. Facebook’s post never gives a clear affirmative statement of the problem.
+Facebook says advertisers would need to "infer" a user’s username/ID. But usernames and IDs are sent directly, in clear and unambiguous URLs, hardly requiring complex analysis
+Facebook claims that the breach
+affected only "one case … if a user takes a specific route on the site" (WSJ quote). Facebook also calls the problem "a rarely occurring case" (posting). I dispute these characterizations. It is hardly "rare" for a user to view her own profile. To view her own profile and click an ad? There’s no reason to think that’s any less frequent than clicking an ad elsewhere. To view her own profile, click through to another page, and then click an ad? That’s perfectly standard. Furthermore, although Facebook told the Journal there is "one case" in which data is leaked improperly, in fact I’ve found many such cases including clicking from profile to ad, from profile to friend’s page to ad, and from profile to photo page to ad, to name three.
+Through transmission in HTTP Referer headers, usernames and IDs appears reach advertisers’ web servers in a manner such that default server log files would store this data indefinitely, and default analytics would tabulate it accordingly. Facebook says it has "no reason to believe that any advertisers were exploiting" the data breach I reported, but the fact is, this data ends up in a place where advertisers could (and, as to historic data, still can) access it easily, using standard tools, and at their convenience.
+Although Facebook’s post says the problem is "potential," I found that a user’s username/ID is sent with each and every click in the affected circumstances.
+So the problem was substantial, real, and immediate. Facebook errs in suggesting the contrary.
+Disclosure: I serve as co-counsel in unrelated litigation against Google, Vulcan Golf et al. v. Google et al. I also serve as a consultant to various companies that compete with Google. But I write on my own — not at the suggestion or request of any client, without approval or payment from any client.
+Run the Google Toolbar, and it’s strikingly easy to activate “Enhanced Features” — transmitting to Google the full URL of every page-view, including searches at competing search engines. Some critics find this a significant privacy intrusion (1, 2, 3). But in my testing, even Google’s bundled toolbar installations provides some modicum of notice before installing. And users who want to disable such transmissions can always turn them off – or so I thought until I recently retested.
+In this article, I provide evidence calling into question the ability of users to disable Google Toolbar transmissions. I begin by reviewing the contents of Google’s "Enhanced Features" transmissions. I then offer screenshot and video proof showing that even when users specifically instruct that the Google Toolbar be “disable[d]”, and even when the Google Toolbar seems to be disabled (e.g., because it disappears from view), Google Toolbar continues tracking users’ browsing. I then revisit how Google Toolbar’s Enhanced Features get turned on
+in the first place – noting the striking ease of activating Enhanced Features, and the remarkable absence of a button or option to disable Enhanced Features once they are turned on. I criticize the fact that Google’s disclosures have worsened over time, and I conclude by identifying changes necessary to fulfill users’ expectations and protect users’ privacy.
+"Enhanced Features" Transmissions Track Page-Views and Search Terms
+Certain Google Toolbar features require transmitting to Google servers the full URLs users browse. For example, to tell users the PageRank of the pages they browse, the Google Toolbar must send Google servers the URL of each such page. Google Toolbar’s “Related Sites” and “Sidewiki” (user comments) features also require similar transmissions.
+With a network monitor, I confirmed that these transmissions include the full URLs users visit – including domain names, directories, filenames, URL parameters, and search terms. For example, I observed the transmission below when I searched Yahoo (green highlighting) for "laptops" (yellow).
+GET /search?client=navclient-auto&swwk=358&iqrn=zuk&orig=0gs08&ie=UTF-8&oe=UTF-8&querytime=kV&querytimec=kV &features=Rank:SW:&q=info:http%3a%2f%2frds.yahoo.com%2f_ylt%3dA0oGkl32p1tLT2EB8ohXNyoA%2fSIG%3d18045klhr%2f
+EXP%3d1264384374%2f**http%253a%2f%2fsearch.yahoo.com%2fsearch%253fp%3dlaptops%2526fr%3dsfp%2526xargs%3d12KP
+jg1itSroGmmvmnEOOIMLrcmUsOkZ7Fo5h7DOV5CtdY6hNdE%25252DIfXpP0xZg6WO8T7xvSy7HBreVFdJGu277WVk0qfeG%25255FGOW%2
+5255F772GnNVme5ujWkF3s%25252DJ%25255F0%25252Dmdn4RvDE8%25252E%2526pstart%3d7%2526b%3d11&googleip=O;72.14.20
+4.104;226&ch=711984234986 HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; GoogleToolbar 6.4.1208.1530; Windows XP 5.1; MSIE 8.0.6001.18702)
+Accept-Language: en
+Host: toolbarqueries.google.com
+Connection: Keep-Alive
+Cache-Control: no-cacheCookie: PREF=ID=…
+HTTP/1.1 200 OK …
+Screenshots – Google Toolbar Continues Tracking Browsing Even When Users "Disable" the Toolbar via Its "X" Button
+Consistent with modern browser plug-in standards, the current Google Toolbar features an “X” button to disable the toolbar:
+I clicked
+the “X” and received a confirmation window:
+I chose the top option and pressed OK. The Google Toolbar disappeared from view, indicating that it was disabled for this window, just as I had requested. Within the same window, I requested the Whitehouse.gov site:
+Although I had asked that the Google Toolbar be "disable[d] … for this window " and although the Google Toolbar
+disappeared from view, my network monitor revealed that Google Toolbar continued to transmit my browsing to its toolbarqueries.google.com server:
+See also a screen-capture video memorializing these transmissions.
+These Nonconsensual Transmissions Affect Important, Routine Scenarios (added 1/26/10, 12:15pm)
+In a statement to Search Engine Land, Google argued that the problems I reported are "only an issue until a user restarts the browser." I emphatically disagree.
+Consider the
+nonconsensual transmission detailed in the preceding section: A user presses "x", is asked "When do you want to disable Google Toolbar and its features?", and chooses the default option, to "Disable Google Toolbar only for this window." The entire purpose of this option is to take effect immediately. Indeed, it would be nonsense for this option to take effect only upon a browser restart: Once the user restarts the browser, the "for this window" disabling is supposed to end, and transmissions are supposed to resume. So Google Toolbar transmits web browsing before the restart, and after the restart too. I stand by my conclusion: The "Disable Google Toolbar only for this window" option doesn’t work at all: It does not actually disable Google Toolbar for the specified window, not immediately and not upon a restart.
+Crucially, these nonconsensual transmissions
+target users who are specifically concerned about privacy. A user who requests that Google Toolbar be disabled for the current window is exactly seeking to do something sensitive, confidential, or embarrassing, or in any event something he does not wish to record in Google’s logs. This privacy-conscious user deserves extra privacy protection. Yet Google nonetheless records his browsing. Google fails this user — specifically and unambiguously promising to immediately stop tracking when the user so instructs, but in fact continuing tracking unabated.
+Google Toolbar Continues Tracking Browsing Even When Users "Disable" the Toolbar via "Manage Add-Ons"
+Internet Explorer 8 includes a Manage Add-Ons screen to disable unwanted add-ons. On a PC with Google Toolbar, I activated Manage Add-Ons, clicked the Google Toolbar entry, and chose Disable. I accepted all defaults and closed the dialog box.
+Again I requested the whitehouse.gov site. Again my network monitor revealed that Google Toolbar continued to transmit my browsing to its toolbarqueries.google.com server. Indeed, as I requested various pages on the whitehouse.gov site, Google Toolbar transmitted the full URLs of those pages, as shown in the second and third circles below.
+See also a screen-capture video memorializing these transmissions.
+In a further test, performed January 23, I reconfirmed the observations detailed here. In that test, I demonstrated that even checking the "Google Toolbar Notifier BHO" box and disabling that component does not impede these Google Toolbar transmissions. I also specififically confirmed that these continuing Google Toolbar transmissions track users’ searches at competing search engines. See screen-capture video.
+In my tests, in this Manage Add-Ons scenario, Google Toolbar transmissions
+cease upon the next browser restart. But no on-screen message
+alerts the user to the need for a browser-restart for changes to take effect, so the user has no reason to think a restart is required.
+Google Toolbar Continues Tracking Browsing
+When Users "Disable" the Toolbar via Right Click (added 1/26/10 11:00pm)
+Danny Sullivan asked me whether Google Toolbar continues Enhanced Features transmissions if users hide Google Toolbar via IE’s right-click menu. In a further test, I confirmed that Google Toolbar transmissions continue in these circumstances. Below are the four key screenshots: 1) I right-click in empty toolbar space, and I uncheck Google Toolbar. 2) I check the final checkbox and choose Disable. 3) Google Toolbar disappears from view and appears to be disabled.
+I browse the web. 4) I confirm that Google Toolbar’s transmissions nonetheless continue. See also a screen-capture video.
+Users May Easily or Accidentally Activate “Enhanced Features” Transmissions
+Google Toolbar invites users to activate Enhanced Features with a single click, the default.
+Also, notice self-contradictory statements (transmitting ‘site’ names versus full ‘URL’ adresses).
+The above-described transmissions occur only if a user runs Google Toolbar in its “Enhanced Features” mode. But it is strikingly easy for a user to stumble into this mode.
+For one, the standard Google Toolbar installation encourages users to activate Enhanced Features via a “bubble” message shown at the conclusion of installation. See the screenshot at right. This bubble presents a forceful request for users to activate Sidewiki: The feature is described as “enhanced” and “helpful”, and Google chooses to tout it with a prominence that indicates Google views the feature as important. Moreover, the accept button features bold type plus a jumbo size (more than twice as large as the button to decline). And the accept button has the focus – so merely pressing Space or Enter (easy to do accidentally) serves to activate Enhanced Features without any further confirmation.
+I credit that the bubble mentions the important privacy consequence of enabling Enhanced Features: “For enhanced features to work, Toolbar has to tell us what site you’re visiting by sending Google the URL.” But this disclosure falls importantly short. For one, Enhanced Features transmits not just “sites” but specific full URLs, including directories, filenames, URL parameters, and search keywords. Indeed, Google’s bubble statement is internally-inconsistent – indicating transmissions of “sites” and “URLs” as if those are the same thing, when in fact the latter is far more intrusive than the former, and the latter is accurate.
+The bubble also falls short in its presentation of Google Toolbar’s Privacy Policy. If a user clicks the Privacy Policy hyperlink, the user receives the image shown in the left image below. Notice that the Privacy Policy loads in an unusual window with no browser chrome – no Edit-Find option to let a user search for words of particular interest, no Edit-Select All and Edit-Copy option to let a user copy text to another program for further review, no Save or Print options to let a user preserve the file. Had Google used a standard browser window, all these features would have been available, but by designing this nonstandard window, Google creates all these limitations. The substance of the document is also inapt. For one, “Enhanced Toolbar Features” receive no mention whatsoever until the fifth on-screen page (right image below). Even there, the first bullet describes transmission of “the addresses [of] the sites” users visit – again falsely indicating transmission of mere domain names, not full URLs. The second bullet mentions transmission of “URL[s]” but says such transmission occurs “[w]hen you use Sidewiki to write, edit, or rate an entry.” Taken together, these two bullets falsely indicate that URLs are transmitted only when users interact with Sidewiki, and that only sites are transmitted otherwise, when in fact URLs are transmitted whenever Enhanced Features are turned on.
+Clicking the ‘Privacy Policy’ link yields this display. Note the lack of browser chrome — no options to search text, copy to the clipboard, save, or print. Note also the absence of any on-screen mention of the special privacy concerns presented by Enhanced Features.
+The first discussion of Enhanced Features appears five pages down.
+Furthermore, the text falsely indicates that ordinary transmission covers mere domain names, not full URLs. The text says "URL[s]" are transmitted "when you use Sidewiki" and indicates that URLs are not transmitted otherwise.
+Certain bundled installations make it even easier for users to get Google Toolbar unrequested, and to end up with Enhanced Features too. With dozens of Google Toolbar partners, using varying installation tactics, a full review of their practices is beyond the scope of this article. But they provide significant additional cause for concern.
+Enhanced Features: Easy to Enable, Hard to Turn Off
+The preceding sections shows that users can enable Google Toolbar’s Enhanced Features with a single click on a prominent, oversized button. But disabling Enhanced Features is much harder.
+Consider a user who changes her mind about Enhanced Features but wishes to keep Google Toolbar in its basic mode. How exactly can she do so? Browsing the Google Toolbar’s entire Options screen, I found no option to disable Enhanced Features. Indeed, Enhanced Features are easily enabled with a single click, during installation (as shown above) or thereafter. But
+disabling Enhanced Features seems to require uninstalling Google Toolbar altogether, and in any event disabling Enhanced Features certainly lacks any comparably-quick command.
+I’m reminded of The Eagles’ Hotel California: "you can check out anytime you like, but you can never leave." And of course, as discussed above, a user who chooses the X button or Manage Add-Ons, will naturally believe the Google Toolbar is disabled, when in fact it continues transmissions unabated.
+Google Toolbar Disclosures Have Worsened Over Time
+Google Toolbar’s historic installer provided superior notice
+I first wrote about Google Toolbar’s installation and privacy disclosures in my March 2004 FTC comments on spyware and adware. In that document, I praised Google’s then-current toolbar installation sequence, which featured the impressive screen shown at right.
+I praised this screen with the following discussion:
+I consider this disclosure particularly laudable because it features the following characteristics: It discusses privacy concerns on a screen dedicated to this topic, separate from unrelated information and separate from information that may be of lesser concern to users. It uses color and layout to signal the importance of the information presented. It uses plain language, simple sentences, and brief paragraphs. It offers the user an opportunity to opt out of the transmission of sensitive information, without losing any more functionality than necessary (given design constraints), and without suffering penalties of any kind (e.g. forfeiture of use of some unrelated software). As a result of these characteristics, users viewing this screen have the opportunity to make a meaningful, informed choice as to whether or not to enable the Enhanced Features of the Google Toolbar.
+I stand by that praise. But six years later, Google Toolbar’s installation sequence is inferior in every way:
+Now, initial Enhanced Features privacy disclosures
+appear not in their own screen, but in a bubble pitching another feature (Sidewiki). Previously, format (all-caps, top-of-page), color (red) and language ("… not the usual yada yada") alerted users to the seriousness of the decision at hand.
+Now, Google presents Enhanced Features as a default with an oversized button, bold type, and acceptance via a single keystroke. Previously, neither option was a default, and both options were presented with equal prominence.
+Now, privacy statements are imprecise and internally-inconsistent, muddling the concepts of site and URL. Previous disclosures were
+clear in explaining that acceptance entails "sending us [Google] the URL" of each page a user visits.
+The current feature name, "Enhanced Features," is less forthright than the prior "Advanced Features" label. The name "Advanced Features" appropriately indicated that the feature is not appropriate for all users (but is intended for, e.g., "advanced" users). In contrast, the current "Enhanced Features" name suggests that the feature is an "enhancement" suitable for everyone.
+Google’s Undisclosed Taskbar Button
+Google’s installer added this ‘Google’ button to my Taskbar without notice or consent.
+The Google Toolbar also added a “Google” button to my Taskbar, immediately adjacent to the Start button. The Toolbar installer added this button without any disclosure whatsoever in the installation sequence – not on the toolbar.google.com web page, not in the installer EXE, not anywhere else.
+An in-Taskbar button is not consistent with ordinary functions users reasonably expect when they seek and install a “toolbar.” Because this function arrives on a user’s computer without notice and without consent, it is an improper intrusion.
+What Google Should Do
+Google’s first step is simple: Fix the Toolbar so that X and Manage Add-Ons in fact do what they promise. When a user disables Google Toolbar, all Enhanced Features transmissions need to stop, immediately and without exception. This change must be deployed to all Google Toolbar users straightaway.
+Google also needs to clean up the results of its nonconsensual data collection. In particular, Google has collected browsing data from users who specifically declined to allow such data to be collected. In some instances this data may be private, sensitive, or embarrassing: Savvy users would naturally choose to disable Google Toolbar before their most sensitive searches.
+Google ordinarily doesn’t let users
+delete their records as stored on Google servers. But these records never should have been sent to Google in the first place. So Google should find a way to let concerned users request that Google fully and irreversibly delete their entire Toolbar histories.
+Even when Google fixes these nonconsensual transmissions, larger problems remain. The current Toolbar installation sequence suffers inconsistent statements of privacy consequences, with poor presentation of the full Toolbar Privacy Statement. Toolbar adds a button to users’ Taskbar unrequested. And as my videos show, once Google puts its code on a user’s computer, there’s nothing to stop Google from tracking users even after users specifically decline. I’ve run Google Toolbar for nearly a decade, but this week I uninstalled Google Toolbar from all my PCs. I encourage others to do the same.
+Upromise touts opportunities for college savings. When members shop at participating online merchants, dine at participating restaurants, or purchase selected products at retail stores, Upromise collects commissions which fund
+college savings accounts.
+Unfortunately, the Upromise Toolbar also tracks users’ behavior in excruciating detail. In my testing, when a user checked an innocuously-labeled box promising "Personalized Offers," the Upromise Toolbar tracked and transmitted my every page-view, every search, and every click, along with many entries into web forms. Remarkably, these transmissions included full credit card numbers — grabbed out of merchants’ HTTPS (SSL) secure communications, yet transmitted by Upromise in plain text, readable by anyone using a network monitor or other recording system.
+Proof of the Specific Transmissions
+I began by running a search at Google. The Upromise toolbar transmissions reported the full URL I requested, including my search provider (yellow) and my full search keywords (green).
+POST /fast-cgi/ClickServer HTTP/1.0
+User-Agent: upromise/3195/3195/UP23806818/0012
+Host: dcs.consumerinput.com
+Content-Length: 274Connection: Keep-Alive
+md5=ee593c14f70c1b7f8b3341a91c3e3639&ts=1264045792.140&bua=N%2FA&meth=get&eid=300&fid=NULL&bin=24af1f0&refererHeader=http%3A%2F%2Fwww%2Egoogle%2Ecom%2F&url=http%3A%2F%2Fwww%2Egoogle%2Ecom%2Fsearch%3Fhl%3Den%26source%3Dhp%26q%3Di%2Bfeel%2Bsick%26aq%3Df%26aql%26aqi%3Dg10%26oq
+HTTP/1.1 200 OK
+Date: Thu, 21 Jan 2010 03:49:51 GMT
+Server: Apache/2.2.3 (Debian) mod_python/3.3.1 Python/2.5.1 mod_ssl/2.2.3 OpenSSL/0.9.8c
+Connection: closeContent-Type: text/html; charset=UTF-8
+<capture><md5>ee593c14f70c1b7f8b3341a91c3e3639</md5><version>1.0</version></capture>
+I
+clicked a result — a page on Wikipedia. Transmissions included the full URL of my request (blue) as well as the web search provider (yellow) and keywords (green) that had referred me (red) to this site.
+POST /fast-cgi/ClickServer HTTP/1.0
+User-Agent: upromise/3195/3195/UP23806818/0012
+Host: dcs.consumerinput.com
+Content-Length: 304Connection: Keep-Alive
+md5=ee7e3174db149d0d97f51b10db9ac58d&ts=1264045931.921&bua=N%2FA&meth=get&eid=300&fid=NULL&bin=24af1f0&refererHeader=http%3A%2F%2Fwww%2Egoogle%2Ecom%2Fsearch%3Fhl%3Den%26source%3Dhp%26q%3Di%2Bfeel%2Bsick%26aq%3Df%26aql%3D%26aqi%3Dg10%26oq%3D&url=http%3A%2F%2Fen%2Ewikipedia%2Eorg%2Fwiki%2FI%5FFeel%5FSick
+HTTP/1.1 200 OK
+Date: Thu, 21 Jan 2010 03:52:11 GMT
+Server: Apache/2.2.3 (Debian) mod_python/3.3.1 Python/2.5.1 mod_ssl/2.2.3 OpenSSL/0.9.8c
+Connection: closeContent-Type: text/html; charset=UTF-8
+<capture><md5>ee7e3174db149d0d97f51b10db9ac58d</md5><version>1.0</version></capture>
+I browsed onwards to Buy.com (grey), where I added an item to my shopping cart and proceeded to checkout. When prompted, I entered a (made-up) credit card number. Buy.com appropriately secured the card number with HTTPS encryption. But, remarkably, Upromise extracted and transmitted the full sixteen-digit card number (yellow) — as well as my (also
+fictitious) CVV code (green), and expiration date (blue).
+POST /fast-cgi/ClickServer HTTP/1.0
+User-Agent: upromise/3195/3195/UP23806818/0012
+Host: dcs.consumerinput.com
+Content-Length: 1936Connection: Keep-Alive
+md5=352732ac9ee0d9e970f3c65d62ed03b1&ts=1264046115.702&bua=N%2FA&meth=post&eid=300&fid=NULL&bin=24af1f0&refererHeader=https%3A%2F%2Fssl%2Ebuy%2Ecom%2FCO%2FCheckout%2FpaymentOptions%2Easpx&url=https%3A%2F%2Fssl%2Ebuy%2Ecom%2FCO%2FCheckout%2FpaymentOptions%2Easpx%3F%5F%5FEVENTTARGET%26%5F%5FEVENTARGUMENT%26%5F%5FVIEWSTATE%3D%2FwEPDwUKMTQ1MjY3MzM2Mw9kFgQCAw9kFgQCAQ8PFgIeCEltYWdlVXJsBV1odHRwczovL2EyNDguZS5ha2FtYWkubmV0L2YvMjQ4Lzg0NS8xMGgvaW1hZ2VzLmJ1eS5jb20vYnV5X2Fzc2V0cy92Ni9oZWFkZXIvMjAwNi9idXlfbG9nby5naWZkZAICDw8WAh8ABXdodHRwczovL2EyNDguZS5ha2FtYWkubmV0L2YvMjQ4Lzg0NS8xMGgvaW1hZ2VzLmJ1eS5jb20vYnV5X2Fzc2V0cy92Ni9jb3JwL2NoZWNrb3V0X3Byb2Nlc3MvY2hlY2tvdXRfM19wYXltZW50X2dyZWVuLmdpZmRkAgUPZBYQAgUPZBYCZg9kFgRmDw8WBB8ABVNodHRwczovL2EyNDguZS5ha2FtYWkubmV0L2YvMjQ4Lzg0NS8xMGgvaW1hZ2VzLmJ1eS5jb20vYnV5X2Fzc2V0cy9jcy9pbWFnZXMvYm1sLmdpZh4HVmlzaWJsZWdkZAIBDw8WAh8ABWNodHRwczovL2EyNDguZS5ha2FtYWkubmV0L2YvMjQ4Lzg0NS8xMGgvaW1hZ2VzLmJ1eS5jb20vYnV5X2Fzc2V0cy9idXR0b25zLzIwMDgvYnV0dG9uX2NvbnRpbnVlMi5naWZkZAIHD2QWAmYPZBYKAgUPEA9kFgIeB29uY2xpY2sFKFNldFVuaXF1ZVJhZGlvQnV0dG9uKCdyZG9QYXltZW50cycsdGhpcylkZGQCBw8QD2QWAh4Ib25DaGFuZ2UFG2phdmFzY3JpcHQ6c2hvd0hpZGVDQyh0aGlzKWRkZAIJDw9kFgIfAgUfc3dpdGNoUmFkaW8oJ3Jkb05ld0NyZWRpdENhcmQnKWQCDQ8QZA8WDWYCAQICAgMCBAIFAgYCBwIIAgkCCgILAgwWDRAFBDIwMTAFBDIwMTBnEAUEMjAxMQUEMjAxMWcQBQQyMDEyBQQyMDEyZxAFBD%2A%2A%2A%2A%7B1422%7D%26%5F%5FEVENTVALIDATION%3D%2FwEWKQLNvonpCgKYm5r9BALB5eOPBALy2ZqvCQLv2ZqvCQLq2ZqvCQLu2ZqvCQLr2bavCQL28Nu2CwLDqZ7xDALDqZrxDALDqabxDALDqaLxDALDqa7xDALDqarxDALDqbbxDALDqfLyDALDqf7yDALcqZLxDALcqZ7xDALcqZrxDALrtZj9AgLrtaSgCQLrtbAHAuu13OoIAuu16NEPAuu19LQGAuu1gJgNAuu1rP8FAuu1%2BJcHAuu1hPsPAvai%2BtMMAvaihrcDAvaikpoKAt7CxckKAsqi76gMAva5sdkEAvLqvYoEAoaI4c0FArr3pYIHApibrtgNijCSRDzGArpVaF4m3bbOLp8yvUM%3D%26rdoPayments%3DrdoNewCreditCard%26lstCCType%3D9%26txtNewCCNumber%3D4412124112341234%26lstNewCCMonth%3D01%26lstNewCCYear%3D2010%26txtNewCVV2%3D222%26btnContinue2%2Ex%3D18%26btnContinue2%2Ey%3D19
+HTTP/1.1 200 OK
+Date: Thu, 21 Jan 2010 03:55:15 GMT
+Server: Apache/2.2.3 (Debian) mod_python/3.3.1 Python/2.5.1 mod_ssl/2.2.3 OpenSSL/0.9.8c
+Connection: closeContent-Type: text/html; charset=UTF-8
+<capture><md5>352732ac9ee0d9e970f3c65d62ed03b1</md5><version>1.0</version></capture>
+Upromise also transmitted my email address. For example, when I logged into Restaurant.com, Upromise’s transmission included my email (yellow):
+POST /fast-cgi/ClickServer HTTP/1.0
+User-Agent: upromise/3195/3195/UP23806818/0012
+Host: dcs.consumerinput.com
+Content-Length: 378Connection: Keep-Alive
+md5=26830cfab132bb3122fcf40d8cd0f2f9&ts=1264049936.327&bua=N%2FA&meth=post&eid=303&fid=NULL&bin=24af1f0
+&refererHeader=&url=https%3A%2F%2Fwww%2Erestaurant%2Ecom%2Fregister%2Dlogin%2Easp%3Fpurchasestatus%3DRE
+GISTER%2DLOGIN%26hdnButton%3DSignin%26txtMemberSignin%3Dedelman%40pobox%2Ecom%26radio%5Fcust%3Dcustomer%5Fexisting%26txtMemberPassword…
+HTTP/1.1 200 OK
+Date: Thu, 21 Jan 2010 04:58:56 GMT
+Server: Apache/2.2.3 (Debian) mod_python/3.3.1 Python/2.5.1 mod_ssl/2.2.3 OpenSSL/0.9.8c
+Connection: close
+Content-Type: text/html; charset=UTF-8
+<capture><md5>26830cfab132bb3122fcf40d8cd0f2f9</md5><version>1.0</version></capture>
+All
+the preceding transmission were made over my
+ordinary Internet connection just as shown above. In particular, these transmissions were sent in plain text — without encryption or encoding of any kind. Any computer with a network monitor (including, for users connected by Wi-Fi, any nearby wireless user) could easily read these communications. With no additional hardware or software, a nearby listener could thereby obtain, e.g., users’ full credit card numbers — even though merchants used HTTPS security to attempt to keep those numbers confidential.
+The Destination of Upromise’s Transmissions: Compete, Inc.
+As shown in the "host:" header of each of the preceding communications, transmissions flow to the consumerinput.com domain. Whois reports that this domain is registered to Boston, MA traffic-monitoring service Compete, Inc. Compete’s
+site promises clients access to "detailed behavioral data," and
+Compete says more than 2 million U.S. Internet users "have given [Compete] permission to analyze the web pages they visit."
+Upromise’s Disclosures Misrepresent Data Collection and Fail to Obtain Consumer Consent
+Upromise’s installation sequence does not obtain users’ permission for this detailed and intrusive tracking. Quite the contrary: Numerous Upromise screens discuss privacy, and they all fail to mention the detailed information Upromise actually transmits.
+The Upromise toolbar installation page
+touts the toolbar’s purported benefits at length, but mentions no privacy implications whatsoever.
+If a
+user clicks the prominent button to begin the toolbar installation, the next screen presents a 1,354-word license agreement that fills 22 on-screen pages and offers no mechanism to enlarge, maximize, print, save, or search the lengthy text. But even if a user did read the license, the user would receive no notice of detailed tracking. Meanwhile, the lower on-screen box describes a "Personalized Offers" feature, which is labeled as causing "information about [a user’s] online activity [to be] collected and used to provide college savings opportunities" But that screen nowhere admits collecting users’ email addresses or credit card numbers. Nor would a user rightly expect that "information about … online activity" means a full log of every search and every page-view across the entire web.
+The install sequence does link to Upromise’s privacy policy. But this page also fails to admit the detailed tracking Upromise performs. Indeed, the privacy policy promises that Personalized Offers data collection will be "anonymous" — when in fact the transmissions include email addresses and credit card numbers. The privacy policy then claims that any collection of personal information is "inadvertent" and that such information is collected only "potentially." But I found that the information transmissions described above were standard and ongoing.
+The privacy policy also limits Upromise’s sharing of information with third parties, claiming that such sharing will include only "non-personally identifiable data." But I found that Upromise was sharing highly sensitive personal information, including email addresses and credit card numbers.
+In addition, Upromise’s data transmissions contradict representation in Upromise’s FAQ. The top entry in the FAQ promises that Upromise "has implemented security systems designed to keep [users’] information safe." But transmitting credit card numbers in cleartext is reckless and ill-advised — specifically contrary to standard Payment Card Industry (PCI) rules, and the opposite of "safe." Indeed, in an ironic twist, Upromise’s FAQ goes on to discuss at great length the benefits of SSL encryption — benefits of course lacking when Upromise transmits users’ credit card numbers without such encryption.
+The Upromise toolbar
+offers an Options screen which again makes no mention of key data transmissions. The screen admits collecting "information about the web sites you visit." But it says nothing of collecting email addresses, credit card numbers, and more.
+The Scope and Solution
+The transmissions at issue affect only those users who agree to run Upromise’s Personalized Offers system. But until last week, that option was set as the default upon new Upromise toolbar installations — inviting users to initiate these transmissions without a second look.
+Even if Upromise ceased the most outrageous
+transmissions detailed above, Upromise’s installation disclosures would still give ample basis for concern. To describe tracking, transmitting, and analyzing a user’s every page-view and every search, Upromise’s install screen euphemistically mentions that its "service provider may use non-personally identifiable information about your online activity." This admission appears below a lengthy EULA, under a heading irrelevantly labeled "Personalized Offers" — doing little to draw users’ attention to the serious implications of
+Personalized Offers. I don’t see why Upromise users would ever want to accept this detailed tracking: It’s entirely unrelated to the college savings that draws users to the Upromise site. But if Upromise is to keep this function, users deserve a clear, precise, and well-labeled statement of exactly what they’re getting into.
+Upromise’s multi-faceted business raises other concerns that also deserve a critical look. The implications for affiliate merchants are particularly serious — a risk of paying affiliate commission for users already at a merchant’s site. But I’ll save this subject for another day.
+Upromise’s Response (posted: January 23, 2010)
+Upromise told PC Magazine’s Larry Seltzer that less than 2% of their 12 million members were affected. Though 2% of 12 million is 240,000 — a lot!
+Upromise staff also wrote to me. I replied with a few questions:
+1) How long was the problem in effect?
+2) How many users were affected?
+3) What caused the problem?
+4) I notice that the Upromise toolbar EULA has numerous firmly-worded defensive provisions. (See the entire sections captioned “Disclaimer of Warranty” and “Limitation of Liability” – purporting to disclaim responsibility for a wide variety of problems. And then see Governing Law and Arbitration for a purported limitation on what law governs and how claims may be brought.) For consumers who believe they suffered losses or harms as a result of this problem, will Upromise invoke the defensive provisions in its EULA to attempt to avoid or limit liability?
+I’m particularly interested in the answer to the final question. The EULA is awfully one-sided. I appreciate Upromise confirming the serious failure I uncovered. Upromise should also accept whatever legal liability goes with this breach.
+Upromise’s Response to My Questions (posted: January 25, 2010)
+Upromise replied to my four questions to indicate that the scope of the problem was "approximately 1% of our 12 million members." Upromise did not answer my questions about the duration of the problem, the cause of the problem, or the effect of Upromise’s EULA defenses.
+Want to know what a given customer has purchased from Sears? It’s surprisingly easy to find out. Here’s the
+procedure:
+1) Go to the Sears "Manage My Home" site, www.managemyhome.com . Create an account and sign in. Screenshot.
+2) On the Home menu, choose Home Profile. In the Search Purchase History section, choose Find Your Products. Screenshot.
+3) Enter the name, phone number, and street address of the customer whose purchases you wish to view. Press Find Products. Screenshot.
+Sears then displays all purchases its database associates with the specific customer — typically major appliances and other large purchases. See examples from Washington, DC, Brookline, Massachusetts, and Lincoln, Massachusetts.
+The information required to retrieve a customer’s purchase history
+A customer’s purchase history – showing specific items and purchase dates
+Sears Fails to Protect Customer Information
+Sears offers no security whatsoever to prevent a ManageMyHome user from retrieving another person’s purchase history by entering that person’s
+name, phone number, and address.
+To verify a user’s identity, Sears could require information known only to the customer who actually made the prior purchase. For example, Sears could require a code printed on the customer’s receipt, a
+loyalty card number, the date of purchase, or a portion of the user’s credit card number. But Sears does nothing of the kind. Instead, Sears only requests name, phone number, and address — all information available in any White Pages phone book.
+Neither does Sears even include any special instructions or obligations in its signup agreement with users: The ManageMyHome Terms of Use say nothing about what information users may access. Indeed, while Sears includes a small-type link to its Terms of Use, Sears never asks users to affirmatively accept the Terms.
+These Disclosures Are Contrary to Sears’s Explicit Promises
+Sears violates its privacy policy when it discloses users’ purchases to the general public. The Sears Customer Information Privacy Policy lists specific circumstances in which Sears may share customer information. These circumstances are relatively broad — allowing Sears to share customer data "with members of the Sears family of businesses … to provide …
+promotional offers that we believe will be of interest." Disclosures are also permitted "to provide [users] with products or services that [they] have requested," to "trusted service providers that need access to your information to provide operational or other support services," to credit bureaus, and to regulatory authorities and law enforcement. But none of these provisions grants Sears the right to share users’ purchases with the general public.
+Sears may argue that its web site privacy policy only applies to users’ online purchases, and does not govern purchases made in
+retail stores. Perhaps. But I doubt in-store customers expect their friends, neighbors, and the general public to be able to find out what they bought. I’m still trying to determine what privacy (if any) Sears promises its in-store customers.
+Sears’s Privacy Breach in Context
+Sears’s exposure of customer purchase history fits within a long history of unintended web site disclosures. For example, in October 2000 I showed that Buy.com’s return system was revealing customer names, addresses, and phone numbers at publicly-available URLs. But Sears’s disclosure is more troubling: Sears
+discloses the specific products users purchased. Sears’s disclosures apply to all users, not just those who return products. And Sears’s disclosures come some 7+ years after Buy.com’s breach — a period of great advance in online security.
+The combination of data Sears provides could open the door to serious harms to Sears customers. ManageMyHome reports the specific products customers purchased, as well as the dates of each such purchase. With this information, a miscreant could approach a customer and pretend to be a Sears representative. Consider: "Your washing machine was recalled, and I need to install a new motor." Or, "I’m here to provide the free one-year check-up on your dishwasher."
+Assessing Sears’s IT Strategy
+The ManageMyHome site
+offers some useful services: Consolidated information about dates of purchase, clear listing of warranty status, and easy links to product manuals. Sears touted these benefits in its recent coverage of ManageMyHome.
+But as soon as Sears resolved to provide online access to customers’ purchase histories, Sears staff should have recognized the need to determine which users are truly authorized to see this information. Sears’s failure to effecitvely authenticate users is therefore puzzling. Did Sears staff fail to notice the problem? Decide to ignore it when they couldn’t devise an easy solution to protect users’ purchase histories? Resolve to argue that purchase history
+merits no better protection than the current system provides?
+Combining this privacy breach with Sears’s poorly-disclosed installation of ComScore tracking software, it appears that Sears is not effectively protecting its users’ and customers’ privacy. Perhaps that’s no surprise in light of Sears’s recent financial distress — a 99% drop in profits in third quarter 2007, compared with the third quarter of 2006. But users need not accept excuses for Sears’s lackadaisical treatment of their private information. No matter the company’s financial standing, Sears ought to comply with its stated privacy policy and treat user information with the care users rightly expect.
+Sears’s Response
+I wrote to Sears ManageMyHome via the addresses on their Contact Us page. To their credit, they responded quickly (less than ninety minutes). However, their reply does not address the seriousness of this situation. Their reply follows:
+"We appreciate that you have a security concern. Thank you for taking the time to share your comments with us.
+We appreciate hearing feedback from our customers, and will pass this information to the appropriate area to research."
+Update (January 4, 5pm): Sears has disabled the search feature described above. Attempts to retrieve a purchase history now yield the message "We’re sorry, this feature is currently disabled."
+Thanks to an anonymous contributor, using pseudonym Heather H, for the tip that led to this article.
+Late last month, Benjamin Googins (a senior researcher in the Anti-Spyware unit at Computer Associates)
+critiqued a ComScore installation performed by Sears’ "Sears Holdings Community" ("My SHC Community" or "SHC"). After reviewing the installation sequence, Ben concluded that the installation offered "very little mention of software or tracking" and otherwise fell short of CA and industry standards. I agree.
+I write today to add my own critique. I begin by presenting the entire installation sequence in screenshots and video. I then explain why the limited notice provided falls far short of the standards the FTC has established. Finally, I show that Sears’ claims of adequate notice are demonstrably false.
+The SHC Installation Sequence
+The SHC installation proceeds in four steps:
+1) An email from Sears after a user provides an address at Sears.com. In seven
+paragraphs plus a set of bullet points, 582 words in total, the email describes the SHC service
+in general terms. But the paragraphs’ topic sentences make no mention of any downloadable software, nor do the bullet points offer even a general description of what the software does. The only disclosure of the software’s effects comes midway through the fourth paragraph, where the program is described as "research software [that] will confidentially track your online browsing." Sophisticated users who notice this text will probably abandon installation and proceed no further. But novices may mistakenly think the tracking is specific to Sears sites:
+SHC is a research program offered by Sears, so it is difficult to understand why tracking would occur elsewhere. Furthermore,
+the quoted text appears midway through a paragraph — in no way brought to users’ attention via topic sentences, headings, section formatting, or other labels. So it’s strikingly easy to miss.
+2) If a user presses the "Join" button in the email, the user is taken to a
+SHC web-based installation sequence that
+further details SHC’s offerings. The first page describes some aspects of SHC in reasonable detail — with six prominent and clear bullet points. Yet nowhere does this text make any mention whatsoever of downloadable software, market research, or other tracking.
+3) Pressing "Join" in the SHC screen takes a user to a "Welcome to My SHC Community" page which requests the user’s name, address, and household size. The page then presents a document labeled "Privacy Statement and User License Agreement" — 2,971 words of text, shown in a small scroll box with just ten lines visible, requiring fully 54 on-screen pages to view in full. The initial screen of text is consistent with the "privacy statement" heading: The visible text indicates that the document describes "what information [SHC] gather[s and] how [SHC] use[s] it" — typical subjects for a privacy policy. But despite the title and the first screen of text, the document actually proceeds to an entirely different subject, namely downloadable software and its far-reaching effects: The tenth page admits that the application "monitors all of the Internet behavior that occurs on the computer on which you install the application, including … filling a shopping basket, completing an application form, or checking your … personal financial or health information." That’s remarkably comprehensive tracking — but mentioned in a disclosure few users are likely to find, since few users will read through to page 10 of the license.
+Within the Privacy Statement section, a link labeled "Printable version" offers users a full-screen version of the document, requiring "only" ten on-screen pages on my test PC. But nothing in the Privacy Statement caption or visible text suggests that the document merits such thorough review. Due to the labeling and the first screen of text, few users will see any need to click through to the full-screen version.
+4) A user next arrives at a screen labeled "You’re almost finished!" Clicking "Next" triggers an ActiveX screen offering an unnamed program, signed by a company called TMRG, Inc. (nowhere previously mentioned in the installation sequence), authenticated by Thawte (part of VeriSign). Pressing Yes in the ActiveX yields an installation program with no further opportunity to cancel installation. Packet sniffer analysis confirms that ComScore software is installed.
+See also a video of the installation sequence.
+Relevant FTC Rules
+The FTC’s recent settlements with Direct Revenue and Zango explain the disclosure and consent required before installing tracking software on users’ computers. To install such software on users’ PCs, vendors must obtain "express consent" — defined to require "clear[] and prominent[] disclos[ure of] the material terms of such software … including the nature and purpose of the program and the effects it will have … prior to the display of, and separate from, any final End User License Agreement." "Clear[] and prominent[]" installations are defined to be those that are "unavoidable", among other requirements.
+The Sears SHC installation of ComScore falls far short of these rules. The limited SHC disclosure provided by email lacks the required specificity as to the nature, purpose, and effects of the ComScore software. Nor is that disclosure "unavoidable," in that the key text appears midway through a paragraph, without a heading or even a topic sentence to alert users to the important (albeit vague) information that follows.
+The disclosure provided within the Privacy Statement and User License Agreement also cannot satisfy the FTC’s
+requirements. The FTC demands a disclosure "prior to … and separate from" any license agreement, whereas the only disclosure on this page occurs within the license agreement — exactly contrary to FTC instructions. Furthermore, users can easiliy overlook text on page ten of a lengthy license agreement. Such text is the opposite of "unavoidable."
+The SHC/ComScore violation could hardly be simpler. The FTC requires that software makers and distributors provide clear, prominent, unavoidable notice of the key terms. SHC’s installation of ComScore did nothing of the kind.
+Other Installation Deficiencies
+Beyond the problems set out above, the SHC installation also falls short in other important respects.
+Failure to provide the promised additional information. Sears’ initial email
+promises that "during the registration process, you’ll learn more about this application software." In fact, no such information is provided in the visible, on-screen installation sequence. Based on this false promise and users’ general experience, users may reasonably expect that the download link in step 4 will offer additional information about the software at issue, along with an opportunity to cancel installation if desired. In fact no such information is ever provided, nor do users have any such opportunity to cancel.
+Choosing little-known product names that prevent users from learning more. The initial SHC email refers to the ComScore software as "VoiceFive." The license agreement refers to the ComScore software as "our application" and "this application" without ever providing the application’s name. The ActiveX prompt gives no product name, and it reports company name "TMRG, Inc." These conflicting names prevent users from figuring out what software they are asked to accept. Furthermore, none of these names gives users any easy way to determine what the software is or what it does.
+In contrast, if SHC used the company name "ComScore" or the product name "RelevantKnowledge," users could run a search at any search engine. These confusing name-changes fit the trend among spyware vendors: Consider Direct Revenue’s dozens of names (AmazingMerchants, BestDeals, Coolshopping, IPInsight, Blackone Data, Tps108, VX2, etc.).
+Critiquing Sears SHC’s
+Response
+To my surprise, Sears defends the practices described above. In a reply to CA’s Ben Googins,
+Sears SHC VP Rob Harles claims that SHC "goes to great lengths to describe the tracking aspect." In particular, Harles says "[c]lear notice appears in the invitation", "on the first signup page", and "in the privacy policy and user licensing agreement."
+I emphatically disagree. The email invitation provides vague notice midway through a lengthy paragraph that, according to its topic sentence, is otherwise about another topic. The first signup page makes no mention at all of any downloadable software. The privacy policy and license agreement describe the software only in the tenth page of text (where few users are likely to find the disclosures), and even then it fails to reference the program by name.
+Harles further claims that the installer provides "a progress bar that they [users] can abort." Again, I disagree. The video and screenshots are unambiguous: The SHC installer shows no progress bar and offers no abort button.
+The Installation in Context
+In June 2007, I showed other examples of ComScore software installing without consent — including multiple installations through security exploits. TRUSTe responded by removing ComScore’s RelevantKnowledge from TRUSTe’s Trusted Download Program for three months. Now that more than five months have elapsed, I expect that ComScore is seeking readmission. But the installation shown above stands in stark contrast to TRUSTe Trusted Download rules. See especially the requirement that primary notice be "clear, prominent and unavoidable" (Schedule A, sections 3.(a).(iii) and 1.(hh)).
+Why so many problems for ComScore? The basic challenge is that users don’t want ComScore software. ComScore offers users nothing sufficiently valuable to compensate them for the serious privacy invasion ComScore’s software entails. There’s no good reason why users should share such detailed information about their browsing, purchasing, and other online activities. So time and time again, ComScore and its partners resort to trickery (or worse) to get their software onto users’ PCs.
+I recently examined software from Coupons.com. At first glance their approach seems quite handy. Who could oppose free coupons? But a deeper look
+reveals troubling behaviors I can’t endorse. This piece summarizes my key concerns:
+Installing with deceptive filenames and registry entries that hinder users’ efforts to fully remove Coupons’ software. Details.
+Failing to remove all Coupons.com components upon a user’s specific request. Details.
+Assigning each user an ID number, and placing this ID onto each printed coupon, without any meaningful disclosure. Details.
+Allowing third-party web sites to retrieve users’ ID numbers, in violation of Coupons.com’s privacy policy. Details.
+Allowing any person to check whether a given user has printed a given coupon, in violation of Coupons.com’s privacy policy. Details.
+The Coupons.com business
+Coupons.com offers users coupons which they can print at home, then redeem at retailers.
+Coupons.com specifically promises users that they
+may "use as many [coupons] as [they] like." But in fact, Coupons.com takes great pains to limit how many coupons users can print. Rather than simply letting users print GIF or JPG coupons from an ordinary web page, Coupons.com requires that users install a coupon-printing ActiveX control. Coupons.com also customizes each coupon with information about who printed it and when. These design decisions increase the complexity of Coupons.com’s business —
+giving rise to the serious consent and privacy issues set out below.
+Installing with deceptive filenames and registry entries
+On an ordinary test PC that had never previously run any software from Coupons.com, I installed Coupons.com’s Coupon Bar 5.0 software. I requested a coupon to be printed, then ran an "InCtrl" comparison of changes made to my computer. InCtrl revealed the following new files and registry entries:
+c:\windows\uccspecc.sysc:\windows\WindowsShellOld.Manifest.1HKEY_LOCAL_MACHINE\SOFTWARE\ClassesManifest.Template.1HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\uccspeccHKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Controls Folder\Presentation StyleHKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\EnableAutoTrayHistoryHKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\URLDecoding
+Each of these entries consisted of a 30 to 90-letter string of gibberish. For example, the contents of uccspecc.sys exactly matched the contents of the first three registry entries: HtmWSrewvuaCGtKrVlXxMKdbMkLfgHq.
+Others have also noticed these oddly-named files. For example, McAfee SiteAdvisor reports every file and registry entry Coupons.com creates.
+These Coupons.com filenames
+and registry keys are
+deceptive, for at least three different reasons.
+1) The labels falsely suggest that the components are part of Windows, rather than third-party add-ins. For example, the files and registry keys are placed in locations reserved for Windows itself, not for third-party applications. Furthermore, Coupons.com’s choice of filename and registry keys affirmatively misrepresents the function of the specified components.
+2)The labels falsely suggest that the components are system files. For example, the .SYS file extension has a special meaning to Windows (e.g. for device drivers and other system components), but the Coupons.com file serves no such "system" function. Registry keys as to (supposed) Explorer AutoTray, URL encoding, and folder presentation settings all suggest intuitive meanings. But Coupons.com goes on to use these keys for a purpose unrelated to their names.
+3) The labels are confusingly similar to genuine Windows components. For example, WindowsShell.Manifest is a bona fide Windows file, but Coupons.com’s "WindowsShellOld.manifest.1" (emphasis added) has no relationship whatsoever with that file (and is certainly not an "old" version of that file). Similarly, the HKLM\Software\Microsoft\Windows\CurrentVersion\Internet Settings\URLEncoding registry key is required by Internet Explorer, making Coupons’ choice of the similar URLDecoding (emphasis added) especially likely to confuse typical users.
+Coupons.com’s choice of registry keys and filenames has a clear purpose and
+effect: To deter users from deleting the specified keys and files. Even among users sophisticated enough to manually delete unwanted files and registry keys, the chosen registry keys and filenames look so official that removal appears unwise. The
+typical result is that users will elect to retain these files, mistakenly concluding that these files are part of Windows.
+Coupons.com’s
+deceptive filenames flout industry norms. For example, the Anti-Spyware Coalition’s Best Practices invite anti-spyware vendors to consider whether a program’s “files have easy-to-understand names and are easy for users to find on their computers” — a test Coupons.com clearly fails. Anti-spyware statutes in Texas and Arkansas specifically prohibit deceptively-named files and registry entries that prevent users from removing software, and TRUSTe Trusted Download rules (which bind Coupons.com as a Trusted Download sealholder) also prohibit deceptive naming to avoid removal. These Texas, Arkansas, and TRUSTe requirements admittedly limit their prohibitions to deceptively-named "software" and to deception that hinders program removal. Perhaps Coupons.com manages to escape these rules by deceptively naming its configuration files (rather than its executable code) or by making its executable code (though not its configuration files) easy to remove. Nonetheless, these authorities reveal the public’s discomfort with deceptive naming. If users are to know what is on their computers and why, vendors must
+name their files in a way reasonable users can understand. Yet Coupons.com intentionally does exactly the opposite..
+Failing to remove all Coupons.com components when users request uninstall
+On my test PC, I attempted to uninstall the Coupons.com software in the usual way: Control Panel – Add/Remove Programs – Coupon Printer. The uninstaller claimed to have run successfully. Yet my computer retained the two files and five registry entries set out in the prior section. These files and registry entries remained even after I restarted my test PC.
+I had requested an "uninstall" of Coupons.com software — not a partial uninstall, but (for lack of any instruction or indication to the contrary) a complete uninstall. The Coupons.com uninstaller had even paused to ask about a specific "shared system file" it wanted special confirmation to delete — further suggesting a
+thorough removal procedure. The
+uninstaller ultimately reported that the uninstall was "successful." Nonetheless, the specified components were left on my computer after uninstall.
+Coupons.com’s privacy policy fails to disclose that these files and registry keys —
+embodiments of a user’s ID number, as explained in subsequent sections — are left behind even after uninstall. The privacy policy discusses cookies (a more common way to store user information) in a full paragraph, including three sentences about "persistent cookies" and how users can remove them. The privacy policy therefore seems to cover all user information that Coupons.com stores on users’ PCs. Yet the privacy policy is entirely silent as to the files and registry entries set out above, and as to their retention even after a user attempts to remove Coupons.com software. Neither does Coupons.com’s software license agreement mention these hidden files — neither
+their existence nor
+their retention.
+The TRUSTe Trusted Download certification agreement requires "an easy and intuitive means of uninstallation" (provision 7). TRUSTe instructs that uninstallation "must remove the Certified Software from the User’s computer." TRUSTe does not specifically speak to the possibility of a program leaving data files behind after uninstall. But where TRUSTe offers an exception to the requirement of complete removal, that exception is
+tightly limited to serving a user’s direct and immediate interest. (Namely, TRUSTe allows a program to leave behind a shared component that other programs also rely on, since removing that component would disable the other programs.) Furthermore, TRUSTe’s requirement summary demands that "[u]ninstallation must remove all software associated with the particular application" (emphasis added) — broad language suggesting little tolerance for files intentionally left behind.
+Since TRUSTe offers only a single exception to the requirement of complete removal, and since that exception is so narrow, I believe TRUSTe will likely take a dim view of certified software intentionally failing to uninstall any of its components.
+Printing users’ ID numbers onto coupons
+Coupons.com Prints a User’s ID Number on Each Coupon
+Every coupon printed from Coupons.com bears a series of small numbers. These numbers include the user ID of the user who printed the coupon. See an example coupon printed from my computer, repeatedly reporting my user ID: 35415364.
+Coupons.com’s privacy policy does not prominently warn users that Coupons.com will include their user IDs on each printed coupon. As best I can tell, after multiple careful readings of the privacy policy, the only relevant provision is as follows:
+Coupons, Inc. discloses "automatically collected" data (such as coupon print and redeem activity) to its Clients and third-party ad servers and advertisers. These third parties may match this data with information that they have previously collected about you under their own privacy policies, which you should consult on a regular basis.
+I believe Coupons.com considers user ID numbers to be "automatically collected data," and Coupons.com seems to use the word "Clients" to include product manufacturers as well as retail merchants. On such an interpretation, the quoted language might let Coupons.com print user ID numbers on coupons that are given to retailers and ultimately to merchants. But even if consumers read the quoted language, most consumers will be unable to figure out what it means because the wording is so convoluted and vague.
+In lieu of the quoted wording, Coupons.com could simply explain: "We include your user ID on each coupon you print." Such a warning would be clear, concise, and easy to understand. But such a warning would also raise privacy concerns for typical users — perhaps one reason why Coupons.com might prefer more complicated wording.
+Allowing third-party web sites to retrieve user ID numbers, in violation of Coupons.com’s privacy policy
+Coupons.com Allows Third-Party Sites to Retrieve User ID Numbers
+Examining JavaScript code on Coupons.com’s web site, I noticed an apparent design flaw. Testing confirmed my suspicion: Any web page
+can invoke the "GetDeviceID" method of Coupons.com’s coupon-printing software. The web page
+then receives the user ID associated with the user’s installation of Coupons.com software.
+To confirm this data leakage, see my Coupons.com Software Shares User IDs with Arbitrary Third Parties testing page.
+If a
+computer runs current Coupons.com software, this page will
+display the associated Coupons.com user ID. (However, no information is sent to my web server or otherwise stored or preserved.) This is the exact same ID number that is printed onto users’ coupons. (Screenshot.)
+Although Coupons.com user ID numbers appear to be assigned arbitrarily, distribution of these ID numbers raises at least three privacy concerns:
+1) This distribution is not permitted under Coupons.com’s privacy policy. Coupons.com’s privacy policy specifically limits the circumstances in which Coupons.com will share user information, and this is not among the circumstances
+users accept. In particular, Coupons.com says it will disclose certain information to "clients and third-party ad servers and advertisers." But in fact,
+Coupons.com’s program code makes user IDs available to anyone — even to sites with absolutely no relationship to Coupons.com.
+2) Coupons.com user IDs are widespread. As explained in the prior section, a user’s ID is printed onto each coupon the user prints. Broad distribution of user IDs increases the unpredictable consequences of further sharing of ID numbers. For example,
+a merchant’s web site could cross-check users’ computers against coupons — conceivably even connecting users’ computers back to users’ retail purchase histories. Retailers could similarly use Coupons.com ID numbers to connect a user’s online activity to the user’s in-store shopping habits.
+3) Coupons.com user IDs are persistent. Unless a user carefully removes
+the filenames and registry entries set out in the preceding section, uninstalling and reinstalling Coupons.com software will retain the same user ID. A Coupons.com user ID is therefore highly likely to continue to identify the same user over time. In contrast, other identifiers tend to change over time. For example, many ISPs reassign user IP addresses often. Some users their cookies in an attempt to increase their online privacy. Because Coupons.com user IDs
+are unusually hard to remove, Coupons.com user IDs are a particularly effective way for sites to track users over an extended period.
+This violation of Coupons.com’s privacy policy occurred despite Coupons.com’s membership in the TRUSTe Web Privacy Seal Program, the TRUSTe Trusted Download Program, and the BBBOnLine Reliability Program. Knowing that Coupons.com software assigns each user an ID number and that Coupons.com accesses these ID numbers through its web site, the prospect of leakage to other web sites (in specific violation of Coupons.com’s privacy policy) was obvious and intuitive. Yet it seems TRUSTe and BBBOnLine failed to check for this possibility. This failure is particularly disappointing since TRUSTe’s Trusted Download program claims to specialize in software testing.
+Allowing any person to check whether a given user has printed a given coupon
+Coupons.com Confirms that a Given User Has Printed a Given Coupon
+Coupons.com Reports that a User Has Not Printed a Given Coupon
+Coupons.com’s Veri-fi service, veri-fi.com, lets any interested person determine whether the coupon is (in Coupons.com’s view) "counterfeit [or] fraudulently-altered." But this same mechanism also lets any person check whether a given Coupons.com user (identified only by the user’s Coupons.com user ID) has printed a given coupon — potentially revealing significant information about the user’s purchasing interests.
+To confirm the effect of Coupons.com’s Veri-fi service, I entered the codes from the example coupon shown above. I received the first confirmation shown at right — indicating that the specified user ID (me) had printed the specified coupon.
+I then entered the same user ID, but a different coupon code. In particular, I chose a coupon code associated with a valid Coupons.com coupon that I had never printed using the specified user ID. As shown in the second screenshot at right, Veri-fi reported that this second code was invalid. That is, Veri-fi reported that the specified user ID had never printed the specified coupon.
+Veri-fi seems to work just as Coupons.com intended. However, combining the Veri-fi verification system with the widespread distribution of Coupons.com user IDs (both in print and through JavaScript), Coupons.com reveals detailed information about which users have requested which coupons. Via the JavaScript interface, a web site can easily extract a user’s Coupons.com user ID. Then, via Veri-fi, the web site can check which coupons the user has printed. The web site can thereby build a rich profile of the user’s purchasing interests — despite the promise in Coupons.com’s privacy policy that such information would be distributed only to Coupons.com’s clients, ad servers, and advertisers.
+Strikingly, Coupons.com fails to limit Veri-fi to bona fide coupon validators (e.g. retailers and manufacturers). In fact, Veri-fi lacks even a Terms of Service document or a license agreement to attempt to limit who uses the site.
+Update (August 28, 2007 – 3:35pm): Coupons.com has contacted me to report that the Veri-fi site no longer allows the data retrieval described above.
+Implications & Consequences
+A user visiting Coupons.com reasonably expects to get free coupons. Unfortunately, Coupons.com’s practices far exceed anything described in marketing materials, EULA, or privacy policy. Would users join Coupons.com if they knew they had to receive deceptively-named files? That uninstall would leave files behind for possible use later? That every printout would carry a user ID that could be linked to a user’s full coupon-printing history? That Coupons.com’s software and web site would distribute user information in ways even Coupons.com probably didn’t anticipate? We can’t know the answers to these questions because Coupons.com never gave users the opportunity to decide. But with full disclosure, users might well choose to get their coupons elsewhere.
+Coupons.com prominently touts its certifications from TRUSTe (including TRUSTe’s new Trusted Download Program) and BBBOnLine. But when these organizations learn of Coupons.com’s
+specific practices, I doubt they’ll be impressed. Coupons.com’s practices are in tension with various TRUSTe rules, including a Trusted Download prohibition on certain deceptive filenames and registry keys, as well as TRUSTe’s general prohibition on privacy policy violations. More generally, it’s hard to call a program "trusted" when it uses deceptive names to hide some of its key files, when it fails to remove itself fully upon a user’s specific request, and when it makes available users’ identifying information despite privacy policy promises to the contrary. Retaining the credibility of Trusted Download probably requires that TRUSTe take action either to correct Coupons.com’s practices or to sever TRUSTe’s ties to Coupons.com.
+Coupons.com could easily fix some of these bad practices. A new version of Coupons.com’s software could prevent arbitrary web sites from retrieving user ID numbers. Coupons.com could
+stop printing users’ ID numbers on each coupon, or could prominently tell users that each coupon bears a user ID. Coupons.com could limit Veri-fi access to
+retailers and manufacturers.
+With
+effort, Coupons.com could track users’ coupon-printing without
+underhanded tactics like deceptive files and registry entries. For one, Coupons.com could label its files and registry keys appropriately — treating its users with dignity and respect, rather than assuming users will try to cheat. Alternatively, Coupons.com could use recognize computers on which it has previously been installed, without resorting to deceptive files or registry entries. (Direct Revenue built such a system — checking a user’s ethernet address, Windows product key, etc. in order to identify repeat installations.) Simpler yet, Coupons.com could request users’ email addresses, and use duplicate addresses to recognize repeat users. Coupons.com may worry that email addresses offer inadequate security, but
+eBay (Paypal), Google, and others have used this method even for larger offers (as large as $5 – $10).
+Coupons.com’s practices
+fit the historical problems with digital rights management (DRM) software that attempts to constrain what users can do with their own computers. Compare Coupons.com’s approach to the notorious Sony CDs which used a rootkit to conceal Sony’s DRM software.
+Just as Sony had to rely on a rootkit to hide its
+DRM software from users who otherwise would have chosen to remove it, Coupons.com
+hides user IDs in obscure files and registry keys. Just as Sony’s disclosures
+were less than forthright, so too does Coupons.com fail to tell users what it is doing and how. Based on their examination of software to constrain access to digital music, Ed Felten and Alex Halderman previously
+explained the core problem: So long as users don’t want a given piece of code on their computers, vendors are forced to conceal their efforts to put it there and to keep it there. As to Coupons.com, some users do	 want the core functionality. But tracking users after uninstall is sufficiently noxious that Coupons.com knows it must cover its tracks lest users notice. Coupons.com thus finds itself in the same DRM predicament that ensnared Sony.
+FullContext Spyware Injects Coupons.com Ads Into Google
+Coupons.com is currently suing John Stottlemire, who Coupons.com claims told users "how to beat the limitation imposed by the software provided by coupons.com." (Complaint paragraph 20.) Coupons.com alleges that Stottlemire "created and used software that purported to remove Plaintiff’s security features, for the purpose of printing more coupons than [Coupons.com’s] security features allow." (Paragraph 21) Coupons.com claims that Stottlemire’s practices violate the Digital Millennium Copyright Act, among other causes of action. I can’t speak to the merits of Coupons.com’s claim. But
+perhaps Coupons.com would do better to focus on protecting users’ privacy and on complying with its privacy policy.
+Coupons.com’s behaviors are particularly notable because they
+extend to multiple coupon-printing programs distributed by literally thousands of web sites. Although I primarily tested Coupons.com’s Coupon Bar software (version 5.0), it seems Coupons.com’s Coupon Printer 4.1 shares all relevant characteristics. (These are the two Coupons.com programs that have been certified by TRUSTe’s Trusted Download.) In addition to distribution at the Coupons.com web site, these programs are also offered by numerous partner sites. Coupons.com’s marketing materials claim
+more than 1500 such sites, including
+the LA Times, Washington Times, and Philly.com.
+Coupons.com’s online advertising strategy raises
+trust and privacy questions similar to those presented by Coupons.com’s coupon-printing software. Twice this year I’ve seen and recorded Coupons.com ads shown through
+spyware: First through the FullContext ad injector (which put Coupons.com ads into the top of Google.com, above Google’s logo), and later through Targetsaver full-screen pop-up ads. Screenshots. Both programs are widespread and known for installing without consent, among other anti-consumer practices. To be a respected player in the online advertising economy, Coupons.com must do more to avoid funding these spyware vendors and the unsavory ecosystem they represent.
+Update on Coupons.com’s Response, My Critique, and TRUSTe’s Decision (September 23, 2007)
+After I posted the article above, Coupons.com circulated a two-page response. Among other claims, the response argues that the
+specified registry keys and filenames are "not deceptive." I emphatically disagree. The components are intentionally
+named to look like they’re part of Windows, and they’re placed in locations where
+Windows components ordinarily appear. These practices are exactly intended to mislead users as to the components’ purpose. That’s the essence of deception.
+Coupons further claims the "user ID" I describe is in fact a "device ID." As a threshhold matter, that would change none of my analysis. But the word "user" comes directly from Coupons.com’s own source code. Coupons’
+JavaScript code references a function called "GetUserCode()" (emphasis added) and passes a OBJECT PARAM tag with value USERID (emphasis added). Elsewhere, Coupons.com uses the abbreviation "txtUID" — i.e. a text field storing a user ID. With these repeated "user" references appearing in code written by Coupons.com,
+Coupons.com cannot credibly claim I err in my use of that same term.
+Coupons.com goes on to argue it ought not be responsible for third parties using Coupons.com’s software to obtain user IDs. Coupons says "it is hard to imagine how a third party’s unauthorized use of our software — a sort of trespass … — constitutes our violation of our own privacy policy." I disagree. Perhaps Coupons.com should begin by rereading its privacy policy. Within the heading "our commitment to data security," Coupons.com specifically promises to "use[] commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information." Coupons.com cannot in good conscience claim it is a "commercially reasonable" "technical safeguard" to allow any web site to invoke a simple JavaScript method of Coupons.com’s software. Quite the contrary, this is poor design — falling far short of industry norms for data protection.
+Meanwhile, Coupons.com has updated its installer to show a new license agreement. If a user scrolls to the second screen of the license agreement, the user is told of "License Keys" to be placed on the user’s computer. To Coupons.com’s credit, the installer now discloses that these files will not be removed upon uninstall. But the files continue to be placed in deceptive locations in the user’s Windows directory and in the dedicated Windows section of the user’s registry — a fact nowhere disclosed to users.
+On August 31, I filed a watchdog complaint with TRUSTe as to the Coupons.com practices set out above. In response, TRUSTe told me it will require Coupons.com
+to change its naming system "to avoid looking like … other popular software" (i.e. Windows). TRUSTe will also require Coupons.com to offer a new version of its software that removes
+deceptive files and registry entries leftover from prior versions. (TRUSTe’s blog describes these same requirements, albeit in terms
+less stark than the email TRUSTe sent me.) These are certainly steps in the right direction. Were the decision mine to make, I doubt I’d keep Coupons.com on the Trusted Download whitelist during a period when the company’s practices are known to fall short. But that’s a topic for another day.
+Meanwhile, Coupons.com continues litigation against John Stottlemire. I’ve been in touch with John. I’ve learned that his software — which would have removed Coupons.com’s deceptive files and registry entries upon a user’s specific request — was actually never distributed to anyone but Coupons.com. (John’s web server detected Coupons.com’s IP addresses and granted them access, even before John was prepared to make the software available to anyone else.) This fact leaves me all the more doubtful of Coupons.com’s litigation strategy.
+John’s software was never used by even a single user. And John’s software would have done nothing more than remove the deceptively-named components TRUSTe is now ordering Coupons.com to remove itself. I remain hopeful that Coupons.com will withdraw this ill-fated attempt to silence a critic. Pending that, I’ve added John’s plight to my spyware threats page.
+Finally, Coupons.com’s
+sneaky tactics continue to undermine its standing in the security community. Some top anti-spyware programs now detect Coupons.com — and rightly so, in my view. Users with Coupons.com software deserve extra information — not forthcoming from Coupons.com — about what the software does and why users might not want it.
+This past Wednesday, ComScore raised $82 million in an IPO that jumped 42% in its first day of trading. Some investors clearly like ComScore’s business, but I wonder whether they fully understand ComScore’s business model, privacy implications, and poor track record of nonconsensual installations.
+ComScore’s tracking software is remarkably invasive. The privacy policy for ComScore’s RelevantKnowledge tracking program purports to grant ComScore the right to track users’ name and address, browsing, shopping, and even "online accounts … includ[ing] personal financial [and] health information." Based on these privacy concerns, well-respected security researchers have long warned about ComScore’s software. For example, in 2004 Cornell University began blocking all communications with ComScore’s MarketScore tracking servers. Multiple other universities (including Columbia University and
+Indiana University) followed up with special warnings to their users.
+At least as serious are ComScore’s installation practices. ComScore pays independent distributors to install ComScore software onto users’ computers. Predictably, some of these distributors install ComScore software without getting user consent. Some specific examples:
+On Wednesday (June 27, 2007), I browsed ExitExchange, a well-known banner farm widely loaded in popups and popunders by various sites (as well as some spyware programs). ExitExchange showed several ads, one of which performed a security exploit that installed ComScore’s RelevantKnowledge. See video proof. Notice the exploit beginning at 0:12. When I
+ran a HijackThis scan to check for infections (0:29), I found RelevantKnowledge’s "rk.exe" already running (1:10), even though I had not granted permission for it to install.
+Packet log analysis indicates that the installation was performed by Topinstalls and by Searchclickads. The installation was predicated on two simultaneous attempted exploits — one using a Java vulnerability, another using a Microsoft MSXML vulnerability. Also installed (all without my consent): Deskwizz/Searchingbooth, Look2me, and WebBuying, among others not yet identified.
+I previously observed and recorded a substantially similar nonconsensual installation of RelevantKnowledge (by these same distributors) on April 26, 2007.
+Spyware researchers at Sunbelt Software observed a nonconsensual installation of RelevantKnowledge, seemingly by these same distributors, earlier in June 2007. Sunbelt staff browsed FirstStolz and received an exploit that installed TopInstalls and Searchclickads, which in turn installed RelevantKnowledge.
+In August-September 2006, I repeatedly observed RelevantKnowledge installed by DollarRevenue, a notorious spyware bundler (subsequently shut down by Dutch law enforcement). In my testing, DollarRevenue installed RelevantKnowledge software without users’ consent.
+ComScore staff later admitted they had "engaged in partnership negotiations with DollarRevenue." ComScore claims it never paid DollarRevenue — but I personally observed and recorded DollarRevenue installing ComScore software onto my testing systems.
+In November 2005, I observed ComScore’s MarketScore software installed by PacerD, a notorious spyware bundler that installed through widespread exploits syndicated through ad networks. PacerD installed RelevantKnowledge without user consent.
+In April 2007, I observed ComScore’s MarketScore software installed when users request and install a media converter program. The inclusion of MarketScore was disclosed only if users scrolled to page four of a box simply labeled "License Agreement." No on-screen label indicated that multiple documents were concatenated into that single scroll box, nor did any short notice or other prominent text make any mention of RelevantKnowledge’s presence or effects. These omissions stand in stark contrast to recent FTC precedent requiring "clear and prominent disclosure of material terms prior to and separate from any end user license agreement."
+ComScore’s nonconsensual installations are particularly notable because TRUSTe’s Trusted Download program recently granted a certification (albeit "provisional") to ComScore’s RelevantKnowledge software. I’ve previously criticized
+other TRUSTe certifications — concerned that TRUSTe-certified sites may be no safer than other sites, and arguably
+less safe. That said, to TRUSTe’s credit, Integrated Search Technologies’ Vomba is no longer on TRUSTe’s Trusted Download list — albeit a result that TRUSTe attributes to Vomba’s financial concerns rather than to security researchers‘ critique of Vomba’s practices and lineage. Whatever the reasons for IST’s removal, perhaps ComScore’s MarketScorecould stand for an equally thorough review.
+ComScore also boasts a "WebTrust" seal from Ernst & Young. See the associated Audit Report. Ernst & Young indicates that it "test[ed] and evaluat[ed] the operating effectiveness" of ComSCore’s internal controls but concedes that "error or fraud may occur and not be detected."
+Update – TRUSTe’s Response (July 26, 2007)
+On Friday July 20 — well after the close of the East Coast business day, and fully three weeks after I first reported the nonconsensual installs described above — TRUSTe announced that ComScore’s RelevantKnowledge has been removed from the Trusted Download whitelist for three months.
+I have mixed views about this outcome.
+On one hand, it’s certainly an improvement from prior TRUSTe practice, during which companies as notorious as Direct Revenue were allowed to continue to hold TRUSTe privacy seals despite widespread nonconsensual installations.
+But a comment from Sunbelt Software’s Eric Howes offers compelling concerns. Eric explains:
+[TRUSTe has]
+essentially decided to continue working with ComScore, provided ComScore spends a token amount of time in the “naughty corner.” …
+Who loses as a result? Consumers and web surfers ultimately, as ComScore will be allowed to continue plying its trade of surreptitious, underhanded installs of its RelevantKnowledge software to support some very aggressive and intrusive data collection on unsuspecting users’ machines, all with PR cover from TRUSTe.
+Eric also cites a June 27 exchange between Sunbelt CEO Alex Eckleberry and TRUSTe’s Colin O’Malley.
+Transcribing from the audio recording of the Anti-Spyware Coalition‘s public workshop :
+Alex Eckelberry: “So what if you have an application that is installing through an exploit? Do those guys go through a probationary process, or do they just get cut off? Are they just gone?”
+Colin O’Malley: “If they’re installing through an exploit, that’s covered in what’s described in what we describe as our prohibited activities. That’s not an activity that is acceptable by any level of notice, and so they’re terminated immediately.”
+Alex
+Eckelberry: “Good. OK.”
+Remarkably, TRUSTe’s spokesperson now claims Colin promised termination only when a vendor itself uses exploits, but not when its distributors do so. Reports Vnunet: "’Colin [O’Malley]’s remarks were specifically about a company that is directly responsible,’ the spokesperson explained. ‘In this case, it was the affiliate that was exploiting the flaw.'”
+I’ve read and reread the exchange, and listened repeatedly for good measure. On my interpretation, Colin plainly promised to terminate any vendor whose software is becoming installed through exploits — no matter whether the vendor itself performs the exploit, or whether the exploit is performed by one of the vendor’s distributors. I reach this conclusion for two separate reasons:
+1) The plain language of Alex’s question is intentionally inclusive as to who is doing the installation. Notice the broad "that is installing" — vague as to how exactly the installation is occurring.
+2) Distributor-perpetrated exploit installs have been standard practice in the "adware" industrry. That’s what I widely observed as to 180solutions, Direct Revenue, eXact Advertising, and so many others. Meanwhile, vendor-perpetrated exploit installs are few and far between — common only among little-known companies, and even then usually comingled with installing third parties’ software. So if Colin had wanted to remark only on the (unusual or unprecedented) vendor-perpetrated exploits, he would have needed to say that specifically.
+Perhaps TRUSTe regrets the breadth of Colin’s promise. But Colin made a tough commitment for good reason: As Colin spoke to dozens of anti-spyware researchers already suspicious of Trusted Download, his big promises helped bolster TRUSTe’s credibility. Had Colin told the ASC what now seems to be TRUSTe’s policy — that some exploit-based installs yield only a temporary suspension — I gather Alex would have questioned Colin further to emphasize the need for a tougher response. Other meeting attendees would probably have done the same.
+In any event, if Colin’s goal was to build support among anti-spyware researchers, his efforts don’t seem to be succeeding. Eric continues:
+Th[is] case was significant in that it was the first big public test of how well TRUSTe would perform when called to defend the standards that allegedly undergird the Trusted Download program. When push came to shove, though, TRUSTe demonstrated itself to be lacking the backbone to deliver on its word. [This is]
+another illustration of why we at Sunbelt place no value whatsoever in TRUSTe’s whitelisting and certifications.
+Added FaceTime’s Chris Boyd:
+For Gods sake, when are we going to stop gimping around and actually break out some actual punishments for people? Either kick someone from your program and be done with it, or … just give up already.
+TRUSTe’s extreme delay further compromises the standing of Trusted Download: Three weeks elapsed before TRUSTe responded to my documentation and proof of nonconsensual ComScore RelevantKnowledge installations. Throughout that period, the Trusted Download whitelist continued to list RelevantKnowledge — falsely suggesting that RelevantKnowledge was in good standing. Internet users deserve better: When TRUSTe learns of an infraction of such seriousness, all applicable web pages ought to be updated promptly, lest the Internet community mistakenly proceed in reliance on TRUSTe’s supposed diligence.
+In July 2003, I noticed — and shortly notified WhenU — that WhenU’s software
+transmits to its servers the URLs that users visit, and that it does so every
+time it shows a user an ad. What’s the big deal? WhenU’s privacy
+policy said it wouldn’t do this: "URLs visited … are not transmitted
+to whenu.com or any third party server." Many of WhenU’s software installers
+carry an even more explicit, but equally false, statement: "… does not
+track, collect or send your browsing activity anywhere." What did WhenU
+do in response to my notification? Nothing, so far as I know.
+Fast-forward eight months. I mentioned WhenU’s privacy violation in my FTC
+comments (PDF), and an FTC workshop speaker mentioned
+it (citing me) in his oral comments, with WhenU’s CEO and counsel present in
+the room. What did WhenU do? Again, nothing, so far as I know.
+But this past Friday, I released to the public my new WhenU
+Violates Own Privacy Policy. I’ve revised my research of last summer and
+this spring — explaining things a bit more clearly, better tracking the duration
+and scope of the violation, and adding formatting to make the work easier to
+read. What did WhenU do? This time, finally, WhenU changed its privacy policy,
+to better describe its actual practice. But WhenU only made the change in some
+places — namely only on its web site, but not in the installer screens users
+look at as they decide whether or not to install WhenU software. So even today,
+as users install WhenU software, they are told — falsely — that WhenU doesn’t
+track, collect, or send their browsing activity. (screen-shots)
+This is a troubling situation: For one, there’s the ten month lag between the
+violation first being brought to WhenU’s attention, and WhenU doing anything
+to even begin to address it. Then there are the thirty million users who reportedly
+run WhenU software. As users installed WhenU’s programs, WhenU promised not
+to send or track which URLs they visited. Instead, WhenU sent this information
+all along, and even continues sending it this very minute. Can WhenU correct
+the violation merely by changing its privacy policy web page?
+Details, including HTTP logs and screen-shots, are in my WhenU
+Violates Own Privacy Policy.
+Posts navigation
+Page 1
+Page 2
+Next page
+Topics
+ad platforms
+advertising
+advertising fraud
+adware
+anti-spyware
+installation methods
+litigation
+loyalty
+regulation and legislation
+revenue sources
+toolbars
+affiliate marketing
+bias
+certifications
+competition
+consumer protection
+copyright
+data portability
+decentralized marketplaces
+deception
+disclosures
+display marketing
+domain names
+enforcement
+ICANN meetings
+institutions
+registrar competition
+registries
+typosquatting
+whois
+entrepreneurship
+filtering
+internet infrastructure
+license agreements
+marketing
+marketplaces
+naming names
+network effects
+payments
+privacy
+regulation
+retransmission
+search engines
+security
+trademark
+trust
+adult
+kids
+transportation
+aviation
+PRT
+ride-hailing
+genres
+academic articles
+CS and IS
+economics
+law
+management
+teaching materials
+litigation
+testimony
+specific companies
+Airbnb
+Facebook
+Google
+Groupon
+Microsoft
+Uber
+Yahoo
+site admin
+Recent Posts
+Revisiting Barlow’s Misplaced Optimism
+Class Action Settlement — Phone Calls and Text Messages Recorded by Twilio
+An Introduction to the Competition Law and Economics of “Free”
+Class Action Settlement — Refunds for Certain American Airlines Checked Bag Fees
+Updated Research on Discrimination at Airbnb
+Subscribe

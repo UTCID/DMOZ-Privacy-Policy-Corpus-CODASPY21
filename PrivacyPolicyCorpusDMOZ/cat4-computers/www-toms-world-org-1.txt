@@ -1,0 +1,95 @@
+https://www.toms-world.org/blog/httphelper/
+Skip to content
+Tom's World Tech Blog Home of my tech rants, free programs, and a story or two…
+Home
+Search our site...
+Tom's World Tech BlogHTTPHelper
+The HTTPHelper library is a .NET Class that helps programmers do complex HTTP functions such as getting HTTP data from a web server, posting data to a web server, downloading files from a web server, and uploading files to a web server all without having to think about doing all of the complex things.
+The HTTPHelper class is now fully open source and all source is available on Bitbucket.org. You can find it at https://bitbucket.org/trparky/httphelper/overview. You can pull down the source and even commit patches to the repository if you find issues with it. Just please, update the version number of the class (the variable name is classVersion) if you happen to submit patches. Patches will have to be approved by me, the maintainer of the code repository, so when you submit patches those patches will not immediately be submitted to the code; I have to approve the patches before it’s pushed to the code tree. Also, if you submit patches try and submit the same patch/fix for both branches, both the VB.NET and C# branches. If you don’t I will apply any and all patches to whatever branch that didn’t get the patch.
+There is an extensive API for the Class that allows for simple calls of subroutines to add and delete data from the Class instance to prepare your HTTP request.
+Adding additional HTTP headers for your HTTP request is as easy as calling…
+Dim httpHelper As New Tom.httpHelper()
+httpHelper.addHTTPHeader("myheader", "my header contents")
+Adding a cookie is also easy…
+httpHelper.addHTTPCookie("mycookie", "my cookie contents", "www.domain.com", "/")
+Setting up for GET and POST data is also just as easy…
+httpHelper.addGETData("test3", "value3")
+httpHelper.addPOSTData("test3", "value3")
+Even setting a custom User Agent String is simple…
+httpHelper.setUserAgent = "Microsoft .NET"
+Once you have set up your Class instance with all of the data you want to send in your HTTP Request, you simply call the getWebData() function like this…
+Dim strServerResponse As String = Nothing
+If httpHelper.getWebData("http://www.domain.com/", strServerResponse) Then
+' Put the things you want to do with your HTTP data once you have it here.
+End If
+Adding a file to upload is also easy…
+httpHelper.addFileUpload("myfileupload", "C:\Path\To\Filename", Nothing, Nothing)
+And then call the uploadData() function like so…
+httpHelper.uploadData()
+Downloading files using this Class library is also just as easy and provides for up-to-the-second status on your download. No more wondering if the download is complete or how long you have left to download it, the Class library keeps you up to date on your download.
+The entire library is fully documented with hints and clues as to how to use the Class library while using the IntelliSense support in Visual Studio.
+ProgramsOpen Source
+Hasher
+Virus Reports
+Restore Point Creator (DISCONTINUED!)
+HTTPHelper
+Source Code Repository
+VB.NET Source Code
+C# Source Code
+VB.NET Examples
+C# Examples
+Windows Checksum
+Privacy Policy
+Official Contact Form
+How to Submit Crash Reports
+Printer Fixer
+PHP Script: Parse User Agent String
+SimpleQR
+YAWA2 Updater
+Scheduled Task Scanner
+Start Program at Startup without UAC Prompt
+Space 2315Main Page
+Prologue
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
+Chapter 7
+Chapter 8
+Chapter 9
+Chapter 10
+Chapter 11
+Chapter 12
+Chapter 13
+Chapter 14
+Chapter 15
+Chapter 16
+Chapter 17
+Chapter 18
+Chapter 19
+Chapter 20
+Chapter 21
+Space 2315… PeaceMain Page
+Prologue
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+ToolsNATO Phonetics
+cssMin
+jsMin
+Whois
+What’s My IP Address?
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Cookie settingsACCEPTPrivacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+Necessary
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.

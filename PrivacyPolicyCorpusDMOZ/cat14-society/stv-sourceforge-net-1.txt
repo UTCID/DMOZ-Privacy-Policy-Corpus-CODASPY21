@@ -1,0 +1,123 @@
+http://stv.sourceforge.net/help/faq
+FAQ for OpaVote Online Voting
+Toggle navigation
+About
+Help
+Overview
+Elections
+Polls
+Counts
+FAQ
+Forum
+Support
+API
+Methods
+Overview
+Recommendations
+Checkbox Voting
+Ranked-Choice Voting
+Instant Runoff Voting
+Single Transferable Vote
+Condorcet Voting
+Approval Voting
+Other Methods
+Blog
+Pricing
+Login
+Overview
+Items
+Logging In
+Management Console
+Expiration of Items
+Payments
+Election Results
+BLT File Format
+Elections
+Editing
+Voting
+End
+Polls
+Editing
+Voting
+End
+Poll Widget
+Counts
+Editing
+End
+Counting Options
+FAQ
+Forum
+Support
+API
+Frequently Asked Questions
+What can I do with OpaVote?
+How many voters can I have?
+What is the difference between an election and a poll?
+How do I get help?
+I made a mistake.
+Can you fix it?
+A voter made a mistake.
+Can you remove a vote?
+Is it secure?
+What about privacy?
+Are the votes anonymous?
+What if two voters share an email address or a voter
+does not have an email address?
+What can I do with OpaVote?
+OpaVote allows you to run elections online. You provide the
+information about your election (candidate names, etc.) and the email
+addresses of the voters, and OpaVote takes care of the rest. OpaVote sends
+each voter a private link that allows the voter to cast his or her vote. You
+can also run polls (where anyone can vote) and count ballots that you have collected in other ways (e.g. paper ballots).
+How many voters can I have?
+OpaVote can currently support up to one million voters per election.
+What is the difference between an election and
+a poll?
+An election has a voter list, sends emails to voters, and ensures each
+voter can vote only once. A poll does not have a voter list and allows anyone
+to vote. For a poll, you must publicize the voting link to allow people to vote
+(e.g., on a web page or via email).
+How do I get help?
+To see how OpaVote works, you can try this
+example poll.
+You can also create an election, use your own email address as a single voter,
+and try out the whole process from beginning to end.
+Paid support is also
+available. See our support page for more
+information.
+I made a mistake.
+Can you fix it?
+Because of the extremely low prices, technical support is not included.
+Please run a test election to make sure you understand the process and do not
+make any mistakes for a real election.
+Information about paid support is
+available on our support page.
+A voter made a mistake.
+Can you remove a vote?
+No. All votes are anonymous.
+After a vote is cast, it is not possible to
+determine which voter it belongs to, and therefore it cannot be removed.
+Are elections secure?
+Yes.
+Each voter is sent a secret code that is required in order to cast a
+vote.
+Encryption (SSL) is used for casting votes in elections.
+What about privacy?
+In order to run an election with OpaVote, you must provide an email address
+of the election manager and each voter.
+OpaVote uses this information only for
+purposes of running the election, and after the election manager deletes the
+election, all email addresses, votes, and election results are permanently
+deleted from OpaVote.
+OpaVote may publicize the fact that your organization
+used OpaVote along with information about your election (e.g., date and election title). See our
+privacy policy for more information.
+Are the votes anonymous?
+Yes, by default, each vote is stored independent of the voters, so votes cannot be linked back to voters. We also have a non-anonymous voting option if you need that.
+For an election, what if two voters share an email address
+or a voter does not have an email address?
+OpaVote allows you to create "code" voters in addition to email voters.
+A unique, secret code is created for each code voter, and you can provide the
+secret code to the voter to allow him or her to vote.
+Terms
+Privacy

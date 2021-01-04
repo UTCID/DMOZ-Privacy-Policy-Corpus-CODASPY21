@@ -1,0 +1,151 @@
+https://searchdatamanagement.techtarget.com/ehandbook/Big-data-security-management-embraces-governance-privacy
+Big data security management embraces governance, privacy
+SearchDataManagement
+Search the TechTarget Network
+Sign-up now. Start my free, unlimited access.
+Login
+Register
+Techtarget Network
+News
+Features
+Tips
+More Content
+Answers
+Buyer's Guides
+Definitions
+Essential Guides
+Opinions
+Photo Stories
+Podcasts
+Quizzes
+Tutorials
+Sponsored Communities
+Multimedia
+SearchDataManagement
+Topic
+Quality / governance
+Integration
+Resources
+DBMS
+BI
+ECM
+Data warehouse
+MDM
+Verticals
+All Topics
+SubTopic
+Data quality best practices
+Data governance
+Data prep
+Data profiling
+Data quality tools
+Data quality best practices
+Data stewardship
+All Subtopics
+Follow:
+E-Handbook:
+Big data security management embraces governance, privacy
+Article 1 of 4
+Share this item with your network:
+Minding the data store on multiple fronts
+Data managers are forever vigilant when it comes to protecting the integrity and privacy of their precious data stores. The security and privacy challenges sparked by an onslaught of data breaches and malware attacks over the past few years and the new wave of consumer privacy regulations have been exacerbated by the effects of the COVID-19 pandemic, which accelerated the transition of the digital workforce to a remote work environment.
+Companies with solid data governance policies as part of their overall big data security management strategy are better prepared to cope with attacks that penetrate multiple ports of entry and compromise the integrity of data used for analytics, strategic planning and operational decision-making. But governance policies aren't enough. As vendors and service providers acclimate to the scope of cyberattacks as well as GDPR and California Consumer Privacy Act (CCPA) regulations, traditional data management tools and services are being contorted and extended. They're also being increasingly injected with AI and machine learning capabilities to keep pace with the increased number of petabyte-sized applications, particularly in the cloud.
+"Shifting of workloads to the cloud is shifting consumption of managed security services (MSS), and by 2022, 35% of MSS customers will be served by cloudified MSS providers," IDC's Frank Dickson, program vice president, cybersecurity products, predicted during a FutureScape 2020 webinar. "Explosions in data and analysis force the adoption of edge computing. To guarantee data provenance and security, 25% of enterprise data will reside in distributed ledger systems by 2025."
+Gartner projected that 60% of organizations will invest in multiple data security tools this year for data loss prevention, encryption and data-centric audits. The analyst firm also predicted that the global information security market will surpass $170 billion by 2022.
+This handbook examines the effect of cyberattacks, data privacy laws and COVID-19 on evolving big data security management tools and techniques. First, data managers step up measures to protect the integrity of their data, while complying with GDPR and CCPA regulations. Next, companies turn to existing data governance and security best practices in the wake of the pandemic. Finally, we look at the importance of corporate culture, communication and education in determining the success of data governance and its parent, data management.
+By
+Ron Karjian,
+Managing Editor
+GDPR, CCPA, cloud drive security management tool makeovers
+As data protection and privacy laws like GDPR and CCPA take hold, data managers refine governance practices, while vendors enhance traditional big data security tools.
+Data governance and COVID-19 data security challenges
+Maintaining data governance and data security best practices is essential now more than ever. But the increase in working from home can put a strain on those practices.
+How data governance and data management work together
+Data governance is an important part of data management. These recommendations will help build a strong complementary relationship between the two strategies.
+E-Handbook: Big data security management embraces governance, privacy
+Article1 of 4
+Up Next
+Minding the data store on multiple fronts
+Cyberattacks, GDPR and CCPA compliance, and COVID-19 present serious security and privacy challenges for managers tasked with protecting their data stores.
+GDPR, CCPA, cloud drive security management tool makeovers
+As data protection and privacy laws like GDPR and CCPA take hold, data managers refine governance practices, while vendors enhance traditional big data security tools.
+Data governance and COVID-19 data security challenges
+Maintaining data governance and data security best practices is essential now more than ever. But the increase in working from home can put a strain on those practices.
+How data governance and data management work together
+Data governance is an important part of data management. These recommendations will help build a strong complementary relationship between the two strategies.
+Latest TechTarget resources
+Business Analytics
+AWS
+Content Management
+Oracle
+SAP
+SQL Server
+SearchBusinessAnalytics
+Tableau, Salesforce integration now in full swing
+Tableau and its new owner unveiled their first collaboration during Tableau's user conference, but due to COVID-19 the vendors ...
+Tableau roadmap features improved browser capabilities
+Tableau's plans for 2021 include providing an end-to-end analytics experience on the web that mimics what users are able to do ...
+Tableau unveils first integration with Einstein Analytics
+Tableau adds AI power via an integration with Salesforce's predictive BI tool, the first collaboration between Salesforce and ...
+SearchAWS
+New Amazon grocery stores run on computer vision, apps
+Amazon dives deeper into the grocery business with its first 'new concept' grocery store, driven by automation, computer vision ...
+Amazon's sustainability initiatives: Half empty or half full?
+Amazon's public perception and investment profile are at stake as altruism and self-interest mix in its efforts to become a more ...
+How Amazon launched the warehouse robotics industry
+In 2012, the warehouse robotics industry consisted of Kiva Systems, the sole supplier to serve all e-commerce companies. When ...
+SearchContentManagement
+Hyland Software CEO discusses acquisitions, RPA, blockchain credentials
+Hyland moves on incorporating Another Monday RPA, Learning Machine blockchain credentials into its platform. Alfresco integration...
+How businesses can best build a WordPress knowledge base
+A WordPress knowledge base can be useful for companies that want an easy-to-use and customizable product with many plugins that ...
+Knowledge bases benefit customer service, call center training
+Knowledge bases provide call center agents with training documents and answers to frequently asked questions as they continue to ...
+SearchOracle
+Oracle Autonomous Database shifts IT focus to strategic planning
+This handbook looks at what Oracle Autonomous Database offers to Oracle users and issues that organizations should consider ...
+Oracle Autonomous Database features free DBAs from routine tasks
+Oracle Autonomous Database can automate routine administrative and operational tasks for DBAs and improve productivity, but ...
+Oracle co-CEO Mark Hurd dead at 62, succession plan looms
+Oracle co-CEO Mark Hurd's abrupt death at 62 has put the software giant in the position of naming his replacement, and the ...
+SearchSAP
+Wookey returns to SAP to head Intelligent Spend unit
+Industry veteran John Wookey is back at SAP to run the newly formed SAP Intelligent Spend and Business Network as SAP Ariba ...
+In a time of crisis, S/4HANA implementation strategies shift
+During a pandemic, organizations may consider pausing a major project like an S/4HANA migration, but experts believe they can use...
+SAP Digital Boardroom helps Parkland Health manage pandemic
+Parkland Health managed a surge of cases caused by the COVID-19 pandemic by using data analytics based on SAP Analytics Cloud and...
+SearchSQLServer
+SQL Server database design best practices and tips for DBAs
+Good database design is a must to meet processing needs in SQL Server systems. In a webinar, consultant Koen Verbeeck offered ...
+SQL Server in Azure database choices and what they offer users
+SQL Server databases can be moved to the Azure cloud in several different ways. Here's what you'll get from each of the options ...
+Using a LEFT OUTER JOIN vs. RIGHT OUTER JOIN in SQL
+In this book excerpt, you'll learn LEFT OUTER JOIN vs. RIGHT OUTER JOIN techniques and find various examples for creating SQL ...
+About Us
+Meet The Editors
+Contact Us
+Advertisers
+Business Partners
+Media Kit
+Corporate Site
+Contributors
+Reprints
+Answers
+Definitions
+E-Products
+Events
+Features
+Guides
+Opinions
+Photo Stories
+Quizzes
+Tips
+Tutorials
+Videos
+All Rights Reserved,
+Copyright 2005 - 2020, TechTarget
+Privacy Policy
+Cookie Preferences
+Do Not Sell My Personal Info
+Close

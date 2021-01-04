@@ -1,0 +1,324 @@
+http://www.cybersoft.com/about/legal/
+MyCybersoft
+Legal
+End User License Agreement (EULA)
+Combined EULA and Maintenance and Support Agreement
+IMPORTANT - - READ CAREFULLY:
+This End User License Agreement (“License Agreement”) is a legally enforceable agreement between you (either an
+individual or a single entity) (“you” or “LICENSEE”) and CyberSoft Operating Corporation (“CyberSoft”), regarding
+the use of the Licensed Software (as defined below) included or supplied with or on, or incorporated into, this
+media and/or downloaded by or otherwise provided to you in electronic form or otherwise. By installing or otherwise
+using the Licensed Software, you agree to be bound by the terms of this License Agreement. If you do not agree to
+the terms of this License Agreement, do not install or use the Licensed Software; however, you may return it to
+CyberSoft or the third party distributor, dealer or supplier (“Distributor”) from whom you purchased the Licensed
+Software for a full refund.
+1. DEFINITIONS:
+1.2. “Invoice” means the purchase order, invoice or other documentation pursuant to which you licensed the Licensed
+Software.
+1.3. “Licensed Software” means (i) CyberSoft’s proprietary software, which may include but is not limited to VFind
+Security ToolKit Standard Edition (VSTK), VFind Security ToolKit Turbo (VSTK-T), VFind Security ToolKit Lite (VSTK-L),
+VSTK for Windows (VSTK-W), Avatar (Avatar), VFind Security ToolKit Standard Special (VSTK-SS), VFind Security ToolKit
+Turbo Special (VSTK-TS), VFind Security ToolKit Lite Special (VSTK-LS), VSTK for Windows Special (VSTK-WS), Avatar
+Special (Avatar-S), VFind VStick SysAdmin (VSTICK-S), VFind VStick Financial (VSTICK-F) and/or other CyberSoft-branded
+products, as applicable, (ii) the Embedded Programs, (iii) the Updates, and (iv) all documentation, instructions, manuals,
+diagrams and other materials, in whatever medium or format, pertaining to the foregoing.
+1.4. “System” means a single computer system with one or more cpu processors sharing a common motherboard or backplane
+(but in no event shall a network constitute a motherboard or backplane hereunder).
+1.5. “Updates” means any virus definition updates, hash codes and/or product updates/upgrades included in the Support
+Services as solely determined by CyberSoft.
+1.6. “Users” means all persons or entities gaining access to the Licensed Software by or through you and/or any of your
+Systems.
+1.7. ”Maintenance” means Upgrades that are included in the Support Services as solely determined by CyberSoft.
+1.8. “Support” means a reasonable amount of contact by email, postal mail, courier delivery, in-person, fax, telephone
+or other communications medium. Reasonable shall be determined solely by CyberSoft. CyberSoft reserves the right to
+discontinue support to any individual, without cause or notice. In addition, CyberSoft solely reserves the right to limit
+the number of individuals who may contact CyberSoft for Support.
+1.9. “Modified Support” means a reasonable, limited and restricted amount of contact by email, postal mail, courier delivery,
+in-person, fax, telephone or other communications medium. Reasonable shall be determined solely by CyberSoft. Limited is
+defined as 30 calendar days from the date of the CyberSoft Invoice. After the 30 calendar day period Modified-Support is
+only available by means of email and only for the term of the contact as determined by the CyberSoft Invoice. Verbal
+communications is not available after the initial 30-day period. Restricted is defined as topic restrictions as determined
+solely by CyberSoft on a case-by-case basis. Determination of Restricted on one case does not influence the determination of
+Restricted on any other case and can be modified without notice by CyberSoft. CyberSoft reserves the right to discontinue support
+to any individual, without cause or notice. In addition, CyberSoft solely reserves the right to limit the number of individuals
+who may contact CyberSoft for Modified-Support.
+2. LICENSE GRANTED:
+2.1. Subject to the conditions herein, CyberSoft hereby grants to you, as LICENSEE, a non-transferable, non-exclusive, limited
+license to use the Licensed Software in machine-readable form on one System (the “License”) located at the site, if any, designated
+in the Invoice (the “Designated Site”). The License granted herein is subject to all further restrictions as set forth in the Invoice.
+You shall cause all Users to comply with the terms of this License Agreement and shall be liable for all acts and omissions of such
+Users. No license, right or interest in any trademark, trade name or service mark of CyberSoft is granted under this License.
+2.2. You may use the Licensed Software solely for your own internal use. Any other use of the Licensed Software (including without
+limitation timesharing, rental, facility management or service bureau usage) is strictly prohibited.
+2.3. Except as otherwise set forth in the Invoice or as agreed by Cybersoft in writing, you may not sell, lease, assign, sublicense
+or otherwise transfer, in whole or in part, this License Agreement, the License, the Licensed Software and other CyberSoft-provided
+materials, or any licenses or rights granted hereunder; provided, however, that (a) if the Licensed Software is licensed for the
+express purpose of integration into a larger system, Licensee is permitted to sublicense the Licensed Software solely as part of such
+system (and not as a stand-alone product) subject to all other terms and conditions hereof, (b) if Licensee is a dealer or reseller
+of software and is licensing the Licensed Software for the express purpose of resale, Licensee may sublicense the Licensed Software
+to its customers subject to all other terms and conditions hereof (including, without limitation, that such customers may not
+sublicense the Licensed Software), and (c) transfer to the United States Government as a designated end user when part of a turnkey
+system is expressly permitted, subject to Section 12 hereof on U.S. Government Restricted Rights.
+2.4. The License granted hereunder is for the object code version of the Licensed Software only. You shall not, and shall not permit
+anyone under your direction or control to, reverse engineer, disassemble or de-compile the Licensed Software or attempt to do so.
+LICENSEE may not modify, adapt, translate or create derivative works of the Licensed Software without CyberSoft’s express written consent;
+provided, however, that if the Licensed Software is licensed for the express purpose of integration into a larger system, Licensee is
+permitted to do so. The Licensed Software is licensed as a single product. Embedded Programs may be used only for purposes of (i) running
+the Licensed Software, and (ii) extracting data from the Licensed Software for use with other programs. Embedded Programs may not be used
+for purposes of application development, modification or customization, or running programs other than the Licensed Software.
+2.5. LICENSEE may make a reasonable number of copies of the Licensed Software for backup and archival purposes only, and must include on
+all copies of the Licensed Software all copyright, government restricted rights and other proprietary notices or legends included on or
+in the Licensed Software as provided to LICENSEE.
+2.6. Notwithstanding anything to the contrary herein, LICENSEE’s access to and use of the Embedded Programs shall be and remain subject to
+all third party and/or open source licenses applicable to such Embedded Programs, and LICENSEE shall comply with same.
+2.7. LICENSEE shall be solely responsible for ensuring that performance of its obligations and exercise of its rights (including without
+limitation its use of the Licensed Software) under this License Agreement comply with all applicable federal, state, local and
+international laws, rules, regulations and orders (collectively, “Laws”), including without limitation all present and future laws and
+regulations relating to protection of intellectual property and privacy.
+3. DELIVERY, INSTALLATION, ACCEPTANCE AND RISK OF LOSS:
+If CyberSoft delivers the Licensed Software on CD-ROM or other tangible media, (i) CyberSoft shall deliver the Licensed Software to a
+common carrier, (ii) LICENSEE assumes all risk of loss or damage upon delivery of the Licensed Software by CyberSoft to the common carrier,
+and (iii) acceptance shall occur upon delivery of the Licensed Software by CyberSoft to the common carrier. In all other cases, acceptance
+shall occur immediately upon installation of the Licensed Software by LICENSEE. LICENSEE shall be solely responsible for installation of
+the Licensed Software.
+4. SUPPORT SERVICES:
+4.1. Limited to the products identified with the part numbers VSTK, VSTK-T, VSTK-L, VSTK-W, and AVATAR, for a period of twelve (12)
+months following the Invoice date, CyberSoft will provide to you, free of charge, Maintenance and Support services related to the Licensed
+Software as further described at www.cybersoft.com/purchase/prices (“Support Services”). Licensees desiring extended Support Services may
+purchase same at the www.cybersoft.com. All terms and conditions of this License Agreement will apply.
+4.2. Limited to the products identified with the part numbers VSTK-SS, VSTK-LS, VSTK-WS, VSTK-TS, AVATAR-S, VSTICK-S and VSTICK-F,
+for a period of time specified in the CyberSoft Invoice, CyberSoft will provide to you, free of charge, Maintenance and Modified-
+Support services related to the Licensed Software as further described at www.cybersoft.com/purchase/prices (“Support Services”).
+In no extent will free services exceed twelve (12) months following the Invoice date. Licensees desiring extended Support Services
+may purchase same at the www.cybersoft.com. All terms and conditions of this License Agreement will apply.
+4.3. LICENSEE shall be solely responsible for providing all necessary hardware and software to run the Licensed Software and to
+obtain the Support Services. All telephone and connection arrangements and charges from LICENSEE’s facility to CyberSoft shall be
+LICENSEE’s responsibility.
+4.4. Except as otherwise provided in Section 8.1 hereof with respect to the Updates, all Support Services are provided on an “as is”,
+“where is” basis, and CyberSoft makes no warranties with respect to such Support Services.
+4.5. CyberSoft may, in its sole discretion, require LICENSEE to purchase and/or install certain Updates within a specified time
+period after their release, and may modify, suspend or terminate the Support Services, in whole or in part, upon LICENSEE’s failure
+to timely do so, without liability or obligation to LICENSEE. Nothing herein shall be construed as requiring CyberSoft to support
+more than the most recent release of the Licensed Software.
+4.6. Any technical information you provide to CyberSoft as part of the Support Services may be used by CyberSoft for product support
+and development; provided, however, that CyberSoft will not use such technical information in a form that personally identifies you.
+By providing utility or other programs created by or for you to operate in conjunction with the Licensed Software, you grant CyberSoft
+a perpetual, non-exclusive, irrevocable, worldwide, transferable, royal-free, fully paid-up license (with right to sublicense) to use,
+reproduce, distribute, display, perform, create derivative works of, and modify the source code and executable code versions of such
+programs.
+5. TERM AND TERMINATION:
+5.1. Limited to the products identified with the part numbers VSTK, VSTK-T, VSTK-L, VSTK-W, and AVATAR, the effective date of this
+License shall be the date of the CyberSoft Invoice date or the date of the initial use, whichever is earlier, of the Licensed Software
+and its term is perpetual, subject to the termination provisions of this Section 5.
+5.2. Limited to the products identified with the part numbers VSTK-SS, VSTK-LS, VSTK-WS, VSTK-TS, AVATAR-S, VSTICK-S and VSTICK-F, the
+effective date of this License shall be the CyberSoft Invoice date or the date of the initial use, whichever is earlier, of the Licensed
+Software and its term is as specified on the CyberSoft Invoice, subject to the termination provisions of this Section 5. If no term is
+specified in the CyberSoft Invoice then the term shall be twelve (12) months from the CyberSoft Invoice date.
+5.3. This License will terminate automatically upon your failure to comply with any term of this License Agreement. Upon termination
+of this License, you shall discontinue all use of the Licensed Software. In such event, the License and rights granted hereunder
+shall expire and you shall have no further rights or access to the Licensed Software.
+5.4. CyberSoft may terminate provision of the Support Services at any time, without notice to you, if it ceases to provide such
+services to its licensees generally.
+6. PAYMENTS:
+6.1. In consideration of the License and other rights granted by CyberSoft hereunder, you agree to pay the license fee specified
+in the Invoice and/or otherwise imposed by CyberSoft or any Distributor in connection herewith (“License Fees”). Unless otherwise
+provided in the Invoice, LICENSEE shall pay all License Fees within thirty (30) days after the date of CyberSoft’s or Distributor’s
+invoice therefor.
+6.2. All payments shall be made in U.S. currency. Any sum not paid by LICENSEE when due shall bear interest until paid at a rate
+of 1.5% per month (18% per annum), or the maximum rate permitted by law, whichever is less. LICENSEE shall be responsible for the
+costs, including without limitation, reasonable attorneys’ fees and court costs, incurred by CyberSoft in connection with
+CyberSoft’s collection of any past-due amounts under this License Agreement. If LICENSEE is the United States Government,
+FAR 52.232-25 PROMPT PAYMENT (OCT. 2003) applies and is incorporated herein by reference, in lieu of the forgoing payment
+provisions of this Section 6.2.
+6.3. All payments required under Section 6.1 and/or Section 6.2 or otherwise under this License are exclusive of taxes and
+you agree to bear and be responsible for the payment of all such taxes (except for taxes based upon CyberSoft’s income) including,
+but not limited to, all sales, use, rental receipt, personal property, import and value-added or other taxes which may be levied or
+assessed in connection with this License.
+7. PROPRIETARY RIGHTS; CONFIDENTIALITY:
+7.1. CyberSoft is a licensee of CyberSoft, Inc., the owner of the Licensed Software. As between LICENSEE and CyberSoft, CyberSoft
+and its licensors (including but not limited to CyberSoft, Inc.) shall be the sole owners of all patent, copyright, trademark,
+trade secret and other proprietary rights in and to the Licensed Software, and all modifications thereto and derivative works
+thereof. The Licensed Software is protected under the copyright laws of the United States and equivalent or similar international
+laws and treaties, including without limitation, the Berne Convention. CyberSoft and its licensors (including but not limited to
+CyberSoft, Inc.) may utilize all ideas, suggestions, feedback, improvements, data, reports or the like that LICENSEE provides to
+CyberSoft with respect to the Licensed Software without any obligation to LICENSEE.
+7.2. Although copyrighted, the Licensed Software (and Embedded Programs) is unpublished and contains proprietary and confidential
+information of CyberSoft and its licensors (including but not limited to CyberSoft, Inc.). LICENSEE agrees to maintain the Licensed
+Software (including Embedded Programs) in confidence and to use a reasonable degree of care to protect the confidentiality of the
+Licensed Software (and the Embedded Programs).
+8. LIMITED WARRANTY:
+8.1. CyberSoft warrants the media on which the Licensed Software is provided, if any, to be free from defects in materials and
+workmanship for ninety (90) days after delivery. Defective media may be returned for replacement without charge during the ninety
+(90) day warranty period unless the media have been damaged by accident or misuse. In addition, CyberSoft warrants, for ninety
+(90) days after acceptance, that the unaltered Licensed Software substantially conforms to the documentation that accompanies it
+(CyberSoft expressly reserves the right to provide the documentation on the same media as the Licensed Software). Any implied
+warranties not effectively disclaimed pursuant to Section 8.3 hereof are limited to the duration of the express warranties stated
+in this Section 8.1 NOTWITHSTANDING ANYTHING TO THE CONTRARY HEREIN, THE WARRANTIES SET FORTH IN THIS SECTION 8.1 DO NOT APPLY WITH
+RESPECT TO FREE, DEMONSTRATION OR ILLEGALLY OBTAINED COPIES OF THE LICENSED SOFTWARE.
+8.2. CyberSoft’s entire liability and your exclusive remedy for breach of the foregoing warranties shall be, at the option of
+CyberSoft, repair or replacement of the Licensed Software (or the part thereof that does not meet the warranty), when returned to
+CyberSoft or, if repair or replacement is not reasonably practicable (as determined by CyberSoft in its sole discretion) return of
+the price paid for such nonconforming portion of the Licensed Software. Your Invoice must accompany any warranty claim. This limited
+warranty is void if failure of the Licensed Software has resulted from accident, misuse, misapplication or breach of this License
+Agreement. Any replacement software will be warranted for the remainder of the original warranty period or thirty (30) days, whichever
+is longer. Outside of the United States, neither these remedies nor any Support Services offered by CyberSoft are available without
+proof of purchase from an authorized international source.
+8.3. THE EXPRESS LIMITED WARRANTIES SET FORTH IN SECTION 8.1 ARE IN LIEU OF AND, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
+CYBERSOFT, ITS DISTRIBUTORS AND LICENSORS (including but not limited to CyberSoft, Inc.) SPECIFICALLY DISCLAIM, ANY AND ALL OTHER
+WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF TITLE, NONINFRINGEMENT, MERCHANTABILITY AND FITNESS
+FOR A PARTICULAR PURPOSE, WITH REGARD TO THE LICENSED SOFTWARE AND THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT SERVICES. Without
+limiting the generality of the foregoing, none of CyberSoft, its Distributors or licensors (including but not limited to CyberSoft, Inc.)
+warrant that: (i) operation of any of the Licensed Software shall be uninterrupted or error free, (ii) that functions contained in the
+Licensed Software shall operate in combinations which may be selected for use by LICENSEE or meet LICENSEE’s requirements, or (iii)
+that the Licensed Software will detect all hacker attacks, viruses, Trojan horses, worms or other software routines or hardware
+components designed to permit unauthorized access to or to disable, erase or otherwise harm any software, hardware or data, if
+applicable.
+8.4. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL CYBERSOFT OR ITS DISTRIBUTORS OR LICENSORS (including but
+not limited to CyberSoft, Inc.) BE LIABLE TO LICENSEE, USERS OR ANY THIRD PARTY FOR SPECIAL, INCIDENTAL, INDIRECT, EXEMPLARY, PUNITIVE
+OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF INCOME, PROFITS, USE OF INFORMATION OR ANY
+OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE LICENSED SOFTWARE OR THE PROVISION OF OR FAILURE TO PROVIDE
+SUPPORT SERVICES, EVEN IF CYBERSOFT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. CYBERSOFT’S AND ITS DISTRIBUTORS’ AND LICENSORS’
+(including but not limited to CyberSoft, Inc.’s) ENTIRE LIABILITY WITH RESPECT TO THE LICENSED SOFTWARE, THE SUPPORT SERVICES AND THIS
+LICENSE AGREEMENT SHALL BE LIMITED, IN THE AGGREGATE, TO THE LICENSE FEES ACTUALLY PAID BY LICENSEE FOR THE LICENSED SOFTWARE.
+9. COPYRIGHT AND TRADEMARK INDEMNIFICATION:
+9.1. CyberSoft will defend, at its expense, any action brought against LICENSEE to the extent that it is based on a claim that the
+use of the Licensed Software within the scope of the License infringes any United States copyright or trademark. CyberSoft will
+indemnify LICENSEE from any costs, damages and fees incurred by LICENSEE which are attributable to such claim, provided that LICENSEE
+notifies CyberSoft promptly in writing of the claim. LICENSEE shall permit CyberSoft to defend, compromise or settle the claim and
+provide all available information, assistance and authority to enable CyberSoft to do so, provided CyberSoft reimburses LICENSEE for
+such activity. LICENSEE shall have no authority to settle any claim on behalf of CyberSoft.
+9.2. Should the Licensed Software become or in CyberSoft’s opinion, be likely to become the subject of a claim of infringement of a
+U.S. copyright or trademark, CyberSoft may (i) procure for LICENSEE, at no cost to LICENSEE, the right to continue to use the Licensed
+Software, (ii) replace or modify the Licensed Software, at no cost to LICENSEE, to make same non-infringing, or (iii) if the right to
+continue to use cannot be procured or the Licensed Software cannot be replaced or modified, terminate the License to use such Licensed
+Software, remove the Licensed Software, and where a specified License Fee was paid by LICENSEE, grant LICENSEE credit thereon as
+depreciated on a straight-line three (3) year basis.
+9.3. CyberSoft shall have no liability for any claim of copyright or trademark infringement based on the (i) use of other than the
+then latest release of the Licensed Software from CyberSoft, if such infringement could have been avoided by the use of the latest
+release of the Licensed Software and such latest version had been made available to LICENSEE, (ii) use or combination of the Licensed
+Software with software, hardware or other materials not provided by CyberSoft, or (iii) modifications to the Licensed Software made
+by persons other than CyberSoft.
+9.4. THIS SECTION 9 STATES THE ENTIRE LIABILITY OF CYBERSOFT AND ITS DISTRIBUTORS AND LICENSORS (including but not limited to
+CyberSoft, Inc.) WITH RESPECT TO INFRINGEMENT BY THE LICENSED SOFTWARE OR ANY PART THEREOF AND NONE OF CYBERSOFT, ITS DISTRIBUTORS
+OR LICENSORS (including but not limited to CyberSoft, Inc.) SHALL HAVE ANY ADDITIONAL LIABILITY WITH RESPECT TO ANY ALLEGED OR
+PROVEN INFRINGEMENT.
+10. INDEMNIFICATION BY LICENSEE:
+LICENSEE shall defend, indemnify and hold CyberSoft, its Distributors and licensors (including but not limited to CyberSoft,
+Inc.) and their respective officers, directors, shareholders, employees, agents and representatives harmless from and against any
+losses, liabilities, damages, demands, penalties and expenses (including, without limitation, court costs and attorneys’ fees)
+arising out of or in connection with (i) LICENSEE’s or Users’ use of the Licensed Software, or (ii) any breach by LICENSEE, its Users,
+employees, agents or contractors of any representation, warranty or covenant of LICENSEE hereunder. Provided, however, if LICENSEE
+is the United States Government, the provisions of this Section 10 shall not apply.
+11. EXPORT:
+LICENSEE shall comply with all export or re-export restrictions and regulations imposed by the government of the United States.
+Without limiting the generality of the foregoing and regardless of any disclosure made by LICENSEE to CyberSoft, its Distributors
+or licensors (including but not limited to CyberSoft, Inc.) of an ultimate destination of the Licensed Software, LICENSEE shall not
+re-export or transfer, whether directly or indirectly, the Licensed Software or any system containing such Licensed Software, to
+anyone outside the United States of America without first obtaining a license from the U.S. Department of Commerce or any other agency
+or department of the United States Government, as required. The VFind™ Security ToolKit has been approved for export under General
+License GTDU, ECCN 5D002C. A special license is required for export to certain countries.
+12. U.S. GOVERNMENT RIGHTS:
+All CyberSoft products and documentation are commercial in nature. The Licensed Software is “Commercial Computer Software,” as that
+term is defined in FAR 2.101. Where Licensee is an agency of the United States Government other than the Department of Defense, the
+clause at FAR 52.227-19 COMMERCIAL COMPUTER SOFTWARE (DEC. 2007) applies and is incorporated herein by reference. Except as expressly
+provided in FAR 52.227-19, as applicable, the Licensed Software is licensed to United States Government end users with only those
+rights as granted to all other end users, according to the terms and conditions contained in this License Agreement. Manufacturer is
+CyberSoft Operating Corporation, 1958 Butler Pike, Suite 100, Conshohocken, Pennsylvania 19428, U.S.A.
+13. FORCE MAJEURE:
+CyberSoft shall not be liable to LICENSEE for any failure or delay caused by events beyond CyberSoft’s reasonable control, including,
+without limitation, acts or omissions of LICENSEE or its Users, acts of God, acts of government, acts of war or terrorism, sabotage,
+outages suffered by electric utilities, breakdown or damage to machinery, equipment or software, malfunctioning of software, corruption
+of data, unavailability of or interruption or delay in the Internet, telecommunications or third party services, failure of third party
+software, labor disputes, accidents, shortages of labor, fuel, raw materials or equipment, or technical failures (including, without
+limitation, defects in any Embedded Software).
+14. GOVERNING LAW:
+This License Agreement is made under and shall be governed by and construed in accordance with the laws of the Commonwealth of
+Pennsylvania, United States of America. Any dispute arising out of or in connection with this License Agreement shall be adjudicated
+exclusively in the state or federal courts located in Montgomery County, Pennsylvania, and all parties irrevocably consent to
+personal jurisdiction and venue therein. Provided, however, if LICENSEE is the United States Government, in lieu of the foregoing,
+this License Agreement shall be governed by the laws of the United States of America and the cases decided thereunder; and any
+dispute arising out of or in connection with this License Agreement shall be adjudicated in the Court of Federal Claims or the
+appropriate Board of Contract Appeals.
+15. AMENDMENT:
+The terms of this License Agreement may not be amended except in a writing signed by you and an authorized representative of
+CyberSoft. For purposes of this Section 15, Frank A. Amabile, COO/President or Peter V. Radatti, CEO/Chairman or a person expressly
+designated by either of them in writing shall be an authorized representative of CyberSoft.
+16. ENTIRE AGREEMENT:
+This License Agreement and the Invoice, if any, constitute the entire agreement between you and CyberSoft with respect to the
+subject matter hereof and supersede all prior agreements, oral or written, with respect to the matters contained herein or relating
+thereto. In the event of a conflict between the Invoice and this License Agreement, the terms of this License Agreement shall govern.
+17. NO WAIVER:
+No failure or delay of CyberSoft to exercise any right, power or remedy, or partial exercise of any right, power or remedy, will
+preclude any future exercise of any such right, power or remedy. No express waiver or assent by CyberSoft to any default in any
+term or condition of this License Agreement shall constitute a waiver or assent to any succeeding default in the same or any other
+term or condition hereof.
+18. BINDING EFFECT:
+This License Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their successors and
+permitted assigns. Except as otherwise expressly provided herein, the provisions of this License Agreement will not be
+construed as conferring any rights on any other persons.
+19. SEVERABILITY:
+If any provision of this License Agreement will be held illegal, unenforceable, or in conflict with any law of a
+federal, state, local or international government having jurisdiction over this License Agreement, the validity of
+the remaining portions or provisions hereof will not be affected thereby. IT IS EXPRESSLY UNDERSTOOD AND AGREED
+THAT EACH PROVISION OF THIS LICENSE AGREEMENT WHICH PROVIDES FOR A LIMITATION OF LIABILITY, DISCLAIMER OF WARRANTIES,
+INDEMNIFICATION OR EXCLUSION OF DAMAGES OR OTHER REMEDY IS INTENDED TO BE ENFORCED AS SUCH. FURTHER, IT IS EXPRESSLY
+UNDERSTOOD AND AGREED THAT IN THE EVENT ANY REMEDY UNDER THIS LICENSE AGREEMENT IS DETERMINED TO HAVE FAILED OF ITS
+ESSENTIAL PURPOSE, ALL LIMITATIONS OF LIABILITY AND EXCLUSIONS OF DAMAGES OR OTHER REMEDIES SHALL REMAIN IN EFFECT.
+20. NOTICES:
+All notices from you to CyberSoft must be in writing and sent by registered or certified mail, return receipt
+requested, or international equivalent, or by facsimile or electronic mail (receipt confirmed).
+END OF DOCUMENT
+508 Compliance
+What is Section 508 Compliance?
+Taken from www.section508.gov - the US Government's 508 Compliance website...
+"Section 508 generally requires Federal agencies to ensure that their procurement of EIT takes into account
+the needs of all end users - including people with disabilities. Doing so enhances the ability of Federal
+employees with disabilities to have access to and use of information and data that is comparable to that
+provided to others. Similarly, agency procurement of accessible EIT enhances the ability of members of the
+public with disabilities who are seeking information or services from a Federal agency to have access to and
+use of information and data that is comparable to that provided to others. Comparable access is not required
+if it would impose an "undue burden" on the agency. If an agency invokes the undue burden exception, the
+statute requires the information and data to be provided to individuals with disabilities by an alternative
+means of access."
+"The goal of section 508 is that [Electronic and Information Technology (EIT)] be compatible with assistive
+technology. In some cases, the standards require that the acquired EIT be readily usable without the need for
+assistive devices. For example, products covered by section 1194.25, Self Contained, Closed Products, must
+have the access features built into the product. These products, such as information kiosks, copiers, or other
+similar products that do not permit a user to install or connect assistive technology, must be designed so that
+an end user can operate the product, without having to modify it. Also, multimedia presentations that require
+captioning and descriptive video, must have these features built into the product, as it is impractical to
+expect end users to add on their own captions or descriptions. However, for most products -- such as software,
+web pages, and computers -- achieving compatibility with assistive technology is the goal of the standards."
+What makes CyberSoft Section 508 Compliant?
+CyberSoft, and all it's websites and browser-based products, adhere to the regulations governing Section 508 of
+the Rehabilitation Act, which require computer software products developed by (or for) any federal agencies to be
+designed for equal accessibility by anyone with a vision, hearing, or motor skill disability - we have taken measures
+to identify any and all possible accessibility issues that may arrise and have included features in our website
+allowing easy navigation with assistive technology. CyberSoft websites are tested monthly using SortSite to fully
+implement the U.S. Access Board's final accessibility standards for electronic and information technology covered by
+Section 508 of the Rehabilitation Act Amendments of 1998 (primarily §1194.22).
+TAA Compliance
+What is TAA Compliance?
+TAA refers to the Trade Agreements Act of 1979 (19 U.S.C. §§ 2501–2581), which is intended to foster fair and open
+international trade. The TAA requires that products must be either produced or undergo "substantial transformation"
+within the United States or a designated country (as listed in FAR 25.003).
+What makes CyberSoft TAA compliant?
+CyberSoft's VFind Security Toolkit (VSTK) is entirely developed, produced, and manufactured within the Unite States
+of America, therefore making it fully compliant with TAA guidelines
+Affirmative Action Policy
+CyberSoft, Inc.
+Date of First Issue: September 1, 2000
+Date of Revision: None
+All CyberSoft employees are expected to be treated with respect as individuals by both their peers and the
+management of CyberSoft and should be appreciated for their contributions to the company and its mission.
+Conversely, employees are expected to treat others with respect and consideration.
+It is CyberSoft's policy to provide equal opportunities to all employees, contractors, and applicants for
+employment. Discrimination against anyone on the basis of race, color, creed, religion, ancestry, national
+origin, sex, sexual orientation, disability, age, marital status or other characteristic protected by applicable
+federal, state or local law by any manager or employee of CyberSoft will not be tolerated and will be cause for
+disciplinary action to the fullest extent of policy. CyberSoft takes affirmative actions to prevent
+discrimination in all employment areas and practices.
+CyberSoft is determined to provide an environment free from all types of harassment, intimidation, hostility,
+and/or offensive behavior either by or toward any person involved in its functions. Any harassment based on sex,
+religion, race, sexual orientation, disability, age or any other protected state is against CyberSoft policy and
+will result in disciplinary action to the fullest extent of policy.

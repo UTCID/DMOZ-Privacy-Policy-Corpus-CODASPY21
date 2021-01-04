@@ -1,0 +1,248 @@
+https://epic.org/privacy/litigation/consumer/epic-v-accuweather/
+Defend Privacy. Donate Now.
+Policy Issues
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Program
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+All Policy Issues
+Our Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+Privacy Campaigns
+Congressional Testimony
+EPIC Publications
+Spotlight on Surveillance
+Press
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+Events
+EPIC Blog
+EPIC Bookstore
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+Public Voice Fund
+Contact EPIC
+Support EPIC
+EPIC v. AccuWeather
+Challenging the unlawful collection, use, and disclosure of personal location data by AccuWeather through its mobile iOS App
+Background |
+EPIC's Complaint |
+EPIC's Interest |
+Litigation Documents |
+News |
+Resources
+Summary
+On March 16, 2018, EPIC filed a consumer protection lawsuit against AccuWeather International, Inc. alleging that the company engaged in unlawful and deceptive practices in tracking consumers’ locations. Specifically, EPIC alleged that AccuWeather tracked the location of consumers who had expressly opted out of location tracking. EPIC also alleged that AccuWeather misled consumers when it sent their personal location data to third-party companies for targeted advertising. EPIC alleges that these practices violated the District of Columbia Consumer Protection Procedures Act (DC DCPPA).
+Factual Background
+AccuWeather is one of the world’s largest weather media companies. It offers a weather app for mobile devices that provides local weather updates.
+Revelation of AccuWeather’s Tracking Practices in 2017
+On August 17, 2017, a security researcher discovered that AccuWeather was tracking consumers location in the background even when they had disabled location services. Specifically, AccuWeather was collecting and disclosing the unique identification number of the nearby WiFi router that an iPhone user was connected to. This Basic Service Set Identifier (BSSID) data can be used to track the location of a consumer based on widely available maps of WiFi devices.
+The researcher also discovered that when AccuWeather was given permission to access personal location data on the iPhone, the company was also disclosing the consumer’s geographic coordinates, including latitude, longitude, altitude and speed, to a company called Reveal Mobile, Inc. Reveal markets itself as a “mobile analytics platform” that can increase ad revenue for app publishers like AccuWeather by facilitating location-based targeted ads. The researcher found that even when he denied AccuWeather permission to access his location, the company still disclosed his Wi-Fi BSSID to Reveal.
+AccuWeather’s Representations in 2017
+Prior to this revelation, AccuWeather did not disclose any of these practices to consumers. When consumers opened the app for the first time, AccuWeather displayed the following in-app notification:
+And even when consumers selected “Don’t Allow,” AccuWeather was still tracking their location by collecting WiFi data and sending that information to Reveal. More precisely, AccuWeather integrated Reveal’s software into its app and programmed the software to collect the consumers BSSID data.
+AccuWeather also did not disclose to consumers that when they selected “Allow” location access, the company was sending their personal location data to Reveal for targeted advertising. AccuWeather gave consumers the false impression that it was collecting their location only for in-app uses (i.e. to “alert you to severe weather in your area, provide critical updates, make the app launch faster, and more!”).
+AccuWeather’s Response in 2017
+Following public outcry over the location tracking discovery, AccuWeather issued a response, stating “if a user opts out of location tracking on AccuWeather, no GPS coordinates are collected or passed.” (emphasis added). This response did not address the location tracking using WiFi data. As one reporter noted at the time, “claiming this is about GPS coordinates is like if they were caught stealing debit cards and they issued a denial that they never stole anyone’s cash.” In fact, AccuWeather admitted that “Wi-Fi network information … was for a short period available on the Reveal SDK.”
+AccuWeather’s Location Tracking in 2018
+Although AccuWeather removed Reveal Mobile’s software from the current version of its app, the company continued in 2018 to collect, use, and disclose consumers’ personal location data to third parties for targeted advertising purposes. In the 2018 version of the app, AccuWeather stated that for consumers who grant permission under the Location Services “Always” option, the company will collect, use, and disclose location data to third parties for targeted advertising. But AccuWeather explicitly omits those terms for consumers who only grant permission for Location Services “While Using the App.” These statements indicated that consumers will not have their personal location data used or disclosed for advertising purposes when they grant “While Using the App” permissions.
+In fact, AccuWeather continued in 2018 to use and disclose consumers’ personal location data to third party advertisers even when they are only given permission to access location “While Using the App.”
+Changes to AccuWeather’s Location Tracking Practices Following EPIC's Suit
+After EPIC filed its suit against AccuWeather in 2018, the company overhauled their app and changed their location tracking practices. One of the key changes in the current AccuWeather app is the separation of location services controls for functional vs. advertising purposes.
+In addition to changing the user location data authentication process and controls, AccuWeather also added new data access and deletion controls.
+These types of changes are necessary to put users in control of their cell phone location data. It is not appropriate for a mobile app to collect, use, or disseminate location data for non-functional purposes based solely on a user giving location permissions to enable the functions of the app.
+EPIC’s Complaint
+EPIC filed suit against AccuWeather under the District of Columbia Consumer Protection Procedures Act (“DC CPPA”) for its false and misleading statements regarding location tracking. Section 28-3905(k)(1)(C) of the DC CPPA allows a nonprofit organization to bring suit “on behalf of the general public.” EPIC alleged that AccuWeather’s collection of location data from consumers who had expressly opted out of location tracking violated § 28-3904(e) of the DC CPPA, which makes it unlawful to “misrepresent as to a material fact which has a tendency to mislead.” EPIC also alleged that AccuWeather’s failure to disclose that it was sending consumers’ location data to third parties for targeted advertising violated § 28-3904(f), which makes it unlawful to “fail to state a material fact if such failure tends to mislead.”
+EPIC asked the court to enjoin AccuWeather from tracking consumers’ location or transmitting their location to third parties without clearly and prominently disclosing it and obtaining consumers’ affirmative consent.
+EPIC’s Interest
+EPIC has a strong interest in the protection of personal location data—particularly where an app company is defying user preferences to secretly track them. EPIC has submitted numerous complaints to the FTC and filed numerous amicus briefs around the issues of location privacy and the monetization of user data. EPIC also maintains a comprehensive webpage on location privacy.
+FTC Complaints
+In re: Uber Privacy Policy: EPIC submitted a complaint to the FTC regarding Uber’s myriad abuses of consumer privacy. Specifically, EPIC alleged that Uber deceptively changed its privacy settings to enable its app to track users while the app was not in use, misrepresented users’ ability to opt out of targeted advertising, failed to protect user data, and did not monitor its employees misuse of personal data. As a result of EPIC’s complaint, the FTC filed a formal complaint against Uber and entered into a settlement agreement with the company that required it to implement a comprehensive privacy program.
+Google Purchase Tracking: EPIC filed an FTC complaint regarding Google’s Google’s “Store Sales Measurement,” which correlates in-store credit card transactions with online advertising clicks, enabling Google to track when a consumer clicked on an ad and subsequently made an in-store purchase. EPIC’s complaint challenged Google’s deceptive claim “that consumers can opt out of Google tracking their in-store purchases,” as well as Google “not revealing the identities of its third-party partners.”
+EPIC Amicus Briefs
+Carpenter v. United States: EPIC filed an amicus brief with the United States Supreme Court in a case concerning the Fourth Amendment and location data. The question presented was whether the warrantless seizure and search of historical cell-phone records revealing the location and movements of a cell-phone user over the course of 127 days is permitted under the Fourth Amendment. EPIC urged the Supreme Court to extend Constitutional protection to cell phone location data.
+Riley v. California: EPIC and twenty-four legal scholars and technical experts argued to the Supreme Court that the Fourth Amendment protects the privacy of an individual’s cell phone in a search incident to arrest. The Supreme Court unanimously sided with EPIC, holding that a warrant is required to search a cell phone. The Court twice cited EPIC’s brief in its opinion.
+United States v. Jones: EPIC submitted an amicus brief to the Supreme Court in a case concerning the warrantless tracking on a suspect’s vehicle using a GPS device. The Supreme Court unanimously held that the Fourth Amendment requires a warrant to track a vehicle using GPS.
+Ben Joffe v. Google: Google was allegedly using its Street View project to intercept vast amounts of Wi-Fi data from nearby home networks. EPIC filed an amicus brief with the Ninth Circuit Court of Appeals arguing that Wi-Fi communications are not exempt from protection under the Wiretap Act. The Ninth Circuit agreed and held that the wiretap exception for access to "radio communications" does not apply to Wi-Fi networks.
+Resources
+EPIC: Online Tracking and Behavioral Profiling
+EPIC: Locational Privacy
+EPIC: Location Privacy: Apple iPhone/iPad
+U.S. Government Accountability Office, Consumers’ Location Data: Companies take steps to protect privacy, but practices are inconsistent, and risks may not be clear to consumers, (Jun. 4, 2014)
+Legal Documents
+EPIC v. AccuWeather, No. 2018 CA 001870 B (D.C. Super. Ct. filed Mar. 16, 2018)
+EPIC’s Complaint (Mar. 16, 2018)
+News
+Bob Unruh, Even AccuWeather is Spying On You Now, WND (Apr. 3, 2018)
+Aaron Mamiit, Smartphone Apps are selling your location data: can you do anything to protect your privacy? Tech Times (Mar. 5, 2018)
+Angela Fritz, A security researcher discovered AccuWeather app tracked, shared your location — even if you ‘opt out’, Washington Post, (Aug. 24, 2017)
+Greg Barbosa, AccuWeather iOS app misleads users as it sends location data even when denied access, 9to5Mac, (Aug. 21, 2017)
+Juli Clover, AccuWeather for iOS Sending Location Data to Monetization Company Even When Location Sharing is Off, MacRumors, (Aug. 22, 2017)
+Zach Whittaker, AccuWeather caugh sending user location data, even when location sharing is off, ZDNet, (Aug. 22, 2017)
+Taylor Hatmaker, AccuWeather updates its iOS app to address privacy outcry, TechCrunch, (Aug. 24, 2017)
+Ashley Carman, AccuWeather deflects blame after selling users’ data, even if they opt out, The Verge, (Aug. 24, 2017)
+Andy Greenberg, It takes just $1,000 to track someone’s location with mobile ads, Wired, (Oct. 18, 2017)
+Steven J. Vaughan-Nichols, How Google—and everyone else—gets Wi-Fi location data, ZDNet (Nov. 16, 2011)
+Share this page:
+Subscribe to the EPIC Alert
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+EPIC Alert archive »
+Electronic Privacy Information Center
+1519 New Hampshire Avenue NW
+Washington, DC 20036
+202.483.1140
+info[at]epic[dot]org
+© 1994 - 2020 EPIC, all rights reserved.
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+EPIC Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+Electronic Privacy Information Center1519 New Hampshire Avenue NW Washington, DC 20036More info
+EPIC's Work
+Litigation Docket
+Amicus Briefs
+APA Comments
+Open Government Cases
+EPIC Congressional Testimony
+EPIC Consumer Privacy Project
+EPIC Domestic Surveillance Project
+EPIC International Privacy Project
+EPIC Open Government Project
+EPIC Policy Project
+EPIC Student Privacy Project
+EPIC Publications
+Privacy Campaigns
+Spotlight on Surveillance
+Press Center
+EPIC in the News
+Press Kit
+EPIC Alert
+EPIC Commentaries
+Videos
+EPIC Blog
+Events
+Privacy Infographics
+Affiliated Sites
+Thepublicvoice.org
+foia.rocks
+privacycoalition.org
+csisac.org
+FOIA Documents
+EPIC FOIA Notes
+EPIC Former Secrets
+Hot Policy Issues
+2020 Election Security
+Algorithmic Transparency
+Big Data
+Cloud Computing
+Consumer Privacy Bill of Rights
+Cybersecurity
+Donor Privacy
+Drones and UAVs
+Equifax Data Breach
+EU Data Protection Directive
+Facebook
+GDPR
+Google Purchase Tracking
+Government Surveillance
+Internet of Things
+Location Privacy
+Right to be Forgotten
+Privacy Shield
+Search Engine Privacy
+Schrems Case (Safe Harbor)
+Social Media Monitoring
+Student Privacy
+Voter ID Laws
+About EPIC
+About EPIC
+EPIC Advisory Board
+EPIC Board and Staff
+Fellowships and Clerkships
+EPIC Bookstore
+Privacy Policy
+EPIC Testimonials
+EPIC Guidestar Listing
+EPIC Charity Navigator Listing
+EPIC 2013 Annual Report
+EPIC Image Archive
+Contact EPIC
+EPIC Bookstore
+Support EPIC

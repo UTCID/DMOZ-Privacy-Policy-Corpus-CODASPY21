@@ -1,0 +1,70 @@
+https://www.hbarel.com/analysis/policy/
+Hagai Bar-El on SecurityThought Leadership in Information Security
+Category: "Security Policies"
+About the Security Policies category
+By Hagai Bar-El   , 40 words
+Categories: Security Policies
+This category contains articles that discuss security policy issues, both at the corporate level and at the national and international levels. This domain contains security guidelines and procedures, as well as national policy considerations addressing national security, privacy, and more.
+Permalink
+Pages:
+1 2 3 4 5 >>
+2020-09-26
+Your Bitcoin wallet will never be your bank account
+By Hagai Bar-El   , 1399 words
+Categories: Analysis, Security Policies, Security, Counter-media
+Don’t get me wrong; Bitcoin and crypto currencies are a big deal, at least technology-wise. Bitcoin and blockchains taught us a lot on what can be done with security protocols, and at a lower level, it even taught us that computation inefficiency is not always a bad word, but something that can yield benefits, if that inefficiency is properly orchestrated and exploited. It was also the most prevalent demonstration of scarcity being artificially created by technology alone. As I wrote before, blockchains will probably have some novel use-cases one day, and Bitcoin, aside of being a mechanism for transferring money, also provides a target of speculation, which in itself can be (and is) monetized.
+What I truly do not understand are the advocates who see Bitcoin wallets as the near-future replacement for bank accounts, and Bitcoin replacing banks (and other financial institutions) in the near future. I understand the motivation, as those are dreams easy to fall for, but for crypto-currency wallets to replace financial institutions much more is needed, and for the sake of this discussion I will not even delve into the many technical difficulties.
+Read more »
+PermalinkLeave a comment »
+2020-04-17
+The Fake News problem will not be solved by technology
+By Hagai Bar-El   , 903 words
+Categories: Analysis, Security Policies, Counter-media
+One reason we struggle with finding a solution to the fake news problem is that we have never defined the problem properly. The term “fake news” started as referring to publications that look like news but are entirely fabricated. It then migrated to consist also of news articles that are just grossly inaccurate, to later expand further into consisting also of news one doesn’t like and tries to dispute.
+It is amusing to see how we seek technical mitigation towards a problem which is entirely semantic. Just like a lie detector does not detect untruths but only the artifacts of a lying person, all technologies that are considered for fighting fake news do not detect untruths but mostly willful propaganda. However, just like plain deceiving, publishing propaganda also consists of many shades of grey, implying that whatever solutions we find, we will never be happy with them.
+We should recalculate our route.Read more »
+PermalinkLeave a comment »
+2019-12-31
+Time to reclaim the Internet
+By Hagai Bar-El   , 2015 words
+Categories: Security Engineering, Security Policies
+We grow increasingly reliant on quite a few Internet-based services: social networks, messaging, photo sharing, and the rest. The challenges we face with privacy, data ownership enforcement, surveillance, and other aspects of digital abuse could all be substantially reduced if those data sharing needs were addressed by the Internet as it was originally architected: decentralized and open. We have waited very long, and so remediation would take more than just new standards, but it is doable.
+Read more »
+PermalinkLeave a comment »
+2016-01-12
+Bruce Schneier on Israeli export control
+By Hagai Bar-El   , 650 words
+Categories: Security Policies, Counter-media
+I usually agree with the opinions expressed by Bruce Schneier. Seldom do I think that he is dead wrong, and yet less often do I think that an essay of his is bluntly unsubstantiated. About a month ago, he published such a post, titled: How Israel Regulates Encryption. He quoted a research that sounds sensible, but ended up interpreting it entirely wrongly, in my opinion.
+Read more »
+PermalinkLeave a comment »
+2015-07-22
+Why secure e-voting is so hard to get
+By Hagai Bar-El   , 1708 words
+Categories: Security Engineering, Security Policies, Cyber Security
+A few days ago I gave a lecture about innovation and one topic that came up was the security of e-voting. It is widely accepted by the security community that e-voting cannot be made secure enough, and yet existing literature on the topic seems to lack high level discussion on the basis for this assumption.
+Following is my opinion on why reliable fully digital e-voting cannot be accomplished given its threat and security models. Read more »
+Permalink1 comment »
+2015-02-16
+TEDTalk review: "Why Privacy Matters" by Glenn Greenwald
+By Hagai Bar-El   , 324 words
+Categories: Security Policies, Sources
+TED published an excellent talk: Why Privacy Matters, by Glenn Greenwald.
+Seldom do I call an online lecture “a must for all audience", but the TED lecture by Glenn Greenwald is worth such an enforcement. Glenn Greenwald is one of the key reporters who published material based on the leaks of Edward Snowden. He also wrote a good book about it called “No Place to Hide"; a book on which I wrote a review about 6 months ago.
+If you know that privacy is important, but cannot explain why people who’ve done nothing wrong need it, or worse yet, if you really do not see why a surveillance state is bad also for law-abiding citizens, then you must listen to this. It packs hours of social, psychological, and public policy discussions into a few minutes.
+Read more »
+PermalinkLeave a comment »
+2015-02-11
+Data about you is never thrown away
+By Hagai Bar-El   , 114 words
+Categories: Personal News, Security Policies
+I was quoted by The Enquirer saying that we shall all assume that data (from wearables and otherwise) that is collected by service providers will never be deleted. The data collected by wearables is only as protected as the network that holds it – and it is likely to be stored indefinitely.
+“The trend today, given the ever-decreasing cost of storage, is to store data forever. A CIO will prefer to pay a bit more for a little more disk space than risk his job and company prosperity by deciding to discard data that is one day determined to have been useful.”
+EDITED TO ADD: This story was also pubished by USA Today, and others.
+PermalinkLeave a comment »
+1 2 3 4 5 >>
+InformationAbout this blogRecent PublicationsContact InformationAbout Hagai Bar-ElCategoriesAllAnalysisCounter-mediaCyber SecurityIT SecurityManagementSecurity EngineeringSecurity PoliciesDay-to-Day Security AdviceEndorsementEventsProductsSourcesGeneralJobsMiscellaneousSecurityInformationPersonal NewsForm is loading...
+XML FeedsRSS 2.0: PostsAtom: PostsSearch
+LicenseAll contents are licensed under the Creative Commons Attribution license.
+©2005-2020 by Hagai Bar-El •
+Contact •

@@ -1,0 +1,30 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch07s03.html#websec2-CHP-7-SECT-3.4
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Public Key InfrastructurePublic key infrastructure
+(PKI) is the system of digital certificates,
+certification authorities, tools, systems, and hardware that are used
+to deploy public key technology.The word “public” in PKI has had an ambiguous history. Many of
+the early proponents of PKI envisioned a single PKI, operated by or
+for the government, which would provide state-certified certificates.
+In one vision, each person in the United States would be issued a
+certificate. These certificates could be used for digitally signing
+tax returns, for conducting online business, and for other official
+purposes. As acceptance increased, it was envisioned that PKI
+certificates would become the electronic equivalent of driver’s
+licenses.The public PKI was a grand vision, but so far it hasn’t
+happened. Companies such as VeriSign have issued millions of
+certificates to verify the identity of individuals and organizations,
+and the keys to sign these certificates have been widely distributed.
+Some of these so-called trust hierarchies
+, such as the trust hierarchy used to certify web server
+certificates, are used by more than a hundred million people. But they
+are run by private businesses, and not by
+governments. The word “public” in PKI refers to public keys, rather than to the public at large.To understand the issues involved in PKI today, it’s helpful to
+look back at how we got where we are today.Certification Authorities: Some HistoryWhen Netscape Communications started business in 1995, ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

@@ -1,0 +1,138 @@
+https://rtos.com/data-privacy/
+Home
+Services
+Azure RTOS
+Azure RTOS
+Get high-performance devices to market faster and at lower cost
+Contact us
+Product overview
+Features
+Components
+Security
+Partners
+Pricing
+Resources
+Customer stories
+FAQs
+More
+Free account
+Embedded IoT device development made easy
+Azure RTOS is an embedded development suite including a small but powerful operating system that provides reliable, ultra-fast performance for resource-constrained devices. It’s easy-to-use and market-proven, having been deployed on more than 6.2 billion devices worldwide. Azure RTOS supports the most popular 32-bit microcontrollers and embedded development tools, so you can make the most of your team’s existing skills.
+What is a RTOS?
+Predictably fast performance and a remarkably small footprint
+Easily connect to cloud and local networks, develop durable flash file systems, and design elegant user interfaces
+Seamlessly connect the most popular MCUs and MPUs to the power of Azure IoT
+Code that has been certified to meet stringent industry safety and security standards
+Azure RTOS components
+Azure RTOS ThreadX
+Azure RTOS FileX
+Azure RTOS GUIX Studio and GUIX
+Azure RTOS TraceX
+Azure RTOS NetX
+Azure RTOS NetX Duo
+Azure RTOS USBX
+Azure RTOS ThreadX
+Azure RTOS ThreadX
+This advanced real-time operating system (RTOS) is designed specifically for deeply embedded applications. Among the multiple benefits it provides are real-time multithreading, inter-thread communication and synchronization, and memory management. Azure RTOS ThreadX has many advanced features, including picokernel architecture, preemption threshold, event chaining, and a rich set of system services.
+Learn more
+Azure RTOS FileX
+Azure RTOS FileX
+This is a high-performance, file allocation table (FAT)-compatible file system that’s fully integrated with Azure RTOS ThreadX and available for all supported processors. Like Azure RTOS ThreadX, Azure RTOS FileX is designed to have a small footprint and high performance, making it ideal for today’s deeply embedded applications that require file management operations.
+Learn more
+Azure RTOS GUIX Studio and GUIX
+Azure RTOS GUIX Studio and GUIX
+Azure RTOS GUIX Studio provides a complete, embedded graphical user interface (GUI) application design environment, facilitating the creation and maintenance of all graphical elements in the application’s GUI. Azure RTOS GUIX Studio automatically generates C code that’s compatible with the Azure RTOS GUIX library, ready to be compiled and run on the target.
+Learn more
+Azure RTOS TraceX
+Azure RTOS TraceX
+Azure TraceX is a Windows-based analysis tool. It provides embedded developers with a graphical view of real-time system events and enables them to visualize and better understand the behavior of their real-time systems. With TraceX, embedded developers can clearly see the occurrence of system events like interrupts and context switches that occur out of view of standard debugging tools.
+Learn more
+Azure RTOS NetX
+Azure RTOS NetX
+A high-performance implementation of TCP/IP protocol standards (IPv4 only), Azure RTOS NetX is fully integrated with Azure RTOS ThreadX and available for all supported processors. It has a unique piconet architecture. Combined with a zero-copy API, it makes it a perfect fit for today’s deeply embedded applications that require network connectivity.
+Learn more
+Azure RTOS NetX Duo
+Azure RTOS NetX Duo
+This advanced, industrial-grade TCP/IP network stack is designed specifically for deeply embedded real-time and IoT applications. Azure RTOS NetX Duo is a dual IPv4 and IPv6 network stack that provides a rich set of protocols, including security and cloud protocols.
+Learn more
+Azure RTOS USBX
+Azure RTOS USBX
+A high-performance USB host and device embedded stack, Azure RTOS USBX is fully integrated with Azure RTOS ThreadX and available for all Azure RTOS ThreadX–supported processors. Like Azure RTOS ThreadX, Azure RTOS USBX is designed to have a small footprint and high performance, making it ideal for deeply embedded applications that require an interface with USB devices.
+Learn more
+Reliable, real-time performance for resource-constrained devices
+Achieve ultra-fast, predictable run-time performance with minimum resource consumption. Azure RTOS ThreadX offers sub-microsecond context switching, while Azure RTOS NetX Duo offers near-wire-speed network performance. All components are designed to be deterministic and perform in a fast, predictable manner, regardless of system load.
+Preemption-threshold scheduling
+Event chaining
+Access to source code with simple licensing options
+The full source code for all Azure RTOS components is available on GitHub to test and explore. When you’re ready to take your code into production, there’s no charge for the production license if deploying to pre-licensed devices. Simple licensing options are available for all other devices.
+Access Azure RTOS code on GitHub
+See a list of pre-licensed devices
+High-quality, safety-certified code, right out of the box
+Clean, clear code is easier to use and maintain and can lower total cost of ownership. Most safety-related certifications require you to submit the complete source code for your software, including the RTOS. With Azure RTOS, you not only get high-quality code—you can also access full reports that verify the code meets stringent requirements that govern automotive, railway, medical, energy, and consumer safety standards.
+Evaluating source code quality in an RTOS
+Reduce the complexity of connecting to the cloud
+Devices are becoming smarter and more powerful than ever. They can collect data and act on it, learn, and make predictions—but only if they’re connected to a robust cloud service. Transitioning to the Internet of Things can feel overwhelming. We’ve made it easy for you. Azure RTOS is seamlessly integrated with Azure IoT so you can connect, monitor, and control your IoT products. Connect via IoT protocols, reference templates, or IoT Plug and Play with the Azure IoT device SDK.
+Learn more about Azure IoT
+Security for real-time embedded applications
+Azure RTOS provides IP and socket-layer security via industry standard protocols and compliance standards. In addition, Azure RTOS uses hardware cryptographic and memory protection capabilities.
+Supports IP layer security (IPsec) and socket layer security (TLS and DTLS) protocols
+Methodically tested and certified to meet international security assurance requirements
+Integrated with Azure Defender to detect threats and remediate issues before they’re exploited
+Learn more about Azure IoT Security
+Azure RTOS hardware partners
+These partners will provide integrated solutions to help you quickly start prototyping and developing enterprise-ready solutions.
+Microchip Technology
+NXP Semiconductors
+Qualcomm
+Renesas Electronics
+STMicroelectronics
+Azure RTOS pricing
+Robust components, one simple license.
+No cost for testing and exploring of source code
+No cost for production licenses when deployed to pre-licensed devices
+Simple annual licensing for all other devices
+Learn more about Azure RTOS pricing
+Azure RTOS resources and documentation
+White papers
+What is a RTOS
+Preemption-threshold scheduling
+Event chaining
+Consider the Source
+Developer resources
+How-to guides, tutorials, and API reference documentation
+Azure RTOS source code on GitHub
+Trusted by companies of all sizes
+Consumer: HTC fitness device
+"We used ThreadX RTOS in our wearable product. It provided good performance. Having full source code and prompt technical support saved development effort a lot."
+Garfield Hsieh, Software Sourcing, Fitness Devices, HTC
+Medical: Welch Allyn wearable wireless monitor
+"Using ThreadX was just one less thing for us to worry about. This project originally started with a behemoth of an OS that had numerous implementation and configuration problems. Switching to ThreadX was a welcome relief and allowed us to concentrate on implementing our application rather than debugging third-party software. ThreadX is something an engineer can easily get their hands around."
+Jay Rasmussen, Senior Software Engineer, Welch Allyn Protocol Inc.
+Semi-conductor: Broadcom WICEDTM system on chip (SOC)
+"Broadcom's WICED line of development platforms are enabling breakthrough innovation in a vast number of end applications throughout the IoT ecosystem. By combining our integrated Wi-Fi and Bluetooth technology with a ThreadX real-time operating system and complete network stack (NetX Duo) in a single, highly integrated platform, developers are armed with all the tools they need to streamline the development process and get to market quickly."
+Jeff Baer, Director of Business Development, Broadcom
+Industrial and automotive: Autotalks V2X
+"Autotalks is a V2X (vehicle-to-everything) chipset market pioneer and leader, offering the most advanced, truly secure V2X communication solution created for autonomous vehicles. ThreadX is used in our SECTON product for its very good real-time performance."
+Sagit Adler, Autotalks
+Networking IoT: Aethra telecommunications
+"My experience with ThreadX was very good. In the past, I used other real-time operating systems, but I found ThreadX to be very powerful, robust, and [with] strong real-time—and easy to understand and explain to other team members. We have utilized an object-oriented framework (using C++) around ThreadX to encapsulate it and to add some specific features for multi-applications management."
+Bruno Cesanelli, Software Engineer, Aethra
+Aerospace/defense: NASA Mars Reconnaissance Orbiter
+"We found ThreadX to be a proven solution based on its demonstrated success for the Deep Impact mission, so using it for the High-Resolution Imaging Science Experiment (HiRISE) instrument aboard the Mars Reconnaissance Orbiter (MRO) was a logical decision. ThreadX delivered a first-rate performance for us and helped the MRO mission return extraordinary, high-resolution images from Mars."
+Steve Tarr, HiRISE Software Lead, Ball Aerospace and Technologies Corp.
+Frequently asked questions about Azure RTOS
+When did Microsoft acquire Express Logic?
+Microsoft acquired Express Logic, a leading developer of RTOS and middleware products for embedded IoT applications, in April 2019. Read the announcement.
+How does Azure RTOS differ from Express Logic X-WARE IoT Platform and ThreadX RTOS?
+The X-WARE IoT Platform was a suite of embedded development products from Express Logic that included ThreadX RTOS. The suite is now Azure RTOS, and ThreadX RTOS is now Azure RTOS ThreadX. The products have improved connectivity to Azure IoT Hub and Azure IoT Central and seamless access to the benefits of Azure IoT. We will continue to enhance the value that Azure RTOS brings to customers and to grow the ecosystem of partners.
+Does Azure RTOS only work with Azure cloud services?
+No, Azure RTOS integrates with other cloud services, but it offers superior integration with Azure IoT.
+When should I use Azure Sphere versus Azure RTOS?
+We recommend Azure Sphere for embedded developers who need to build highly secured devices fully prepared for the evolving cybersecurity challenges of the internet for MCU class devices. We recommend Azure RTOS in applications where Azure Sphere isn’t available or a good fit. Azure RTOS provides embedded developers a rich set of real-time multitasking, FAT file system, GUI, USB and networking components to quickly build applications on resource constrained devices – with out-of-the-box connectivity to Azure IoT. Azure RTOS also provides a rich set of pre-certified security components, however, the embedded developer is ultimately responsible for the proper usage of these components and the overall security of the device. Azure Sphere and Azure RTOS are ideal together for embedded developers who need a highly secure device with real-time processing capabilities.
+I’m already using devices with ThreadX RTOS from Express Logic. Will Microsoft continue to offer software support?
+Support on existing paid contracts will be available through your existing channels (RTOS.com and support@expresslogic.com).
+When does it make sense to use a real-time operating system?
+Embedded developers typically use a RTOS when they require real-time capability. A RTOS should offer consistently fast response times (in microseconds), a small memory footprint (less than 2 MB), and a level of security that effectively protects users and connected systems.
+Ready when you are—let's set up your Azure free account
+Contact us
+Chat with Sales

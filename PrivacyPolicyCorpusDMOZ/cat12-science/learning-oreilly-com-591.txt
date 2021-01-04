@@ -1,0 +1,23 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch23s02.html#websec2-CHP-23-SECT-2.2
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+PICSMost filtering software was hurriedly developed in response to a
+perceived market opportunity and, to a lesser extent, to political
+need. Access control software was used to explain in courts and
+legislatures why more direct political limitations on the Internet’s
+content were unnecessary and unworkable. Because of the rush to
+market, most of the filtering rules and lists were largely ad hoc, as
+demonstrated by the example of the blocked ISDN web pages.The Platform for Internet Content Selection (PICS) is an
+effort of the World Wide Web Consortium to develop an open Internet
+infrastructure for the exchange of information about web content and
+the creation of automated blocking software.When the PICS project was first launched, it was heralded as a
+voluntary industry effort that was an alternative to government
+regulation. When Congress passed the Communications Decency Act,
+making it a federal crime to put pornography on the Internet where it
+could be accessed by children,[197] PICS became the subject of courtroom testimony.PICS was also by far the most controversial project that the W3C pursued during its first five years. Although PICS was designed as an alternative to state regulation and censorship of the Internet, critics argued that PICS could itself become a powerful tool for supporting state-sponsored censorship. That’s because PICS is a general-purpose system that can be used to filter out all sorts of material, from neo-Nazi propaganda to information about clean elections ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

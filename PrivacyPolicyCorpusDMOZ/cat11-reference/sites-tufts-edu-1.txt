@@ -1,0 +1,110 @@
+https://sites.tufts.edu/terms-of-use/
+Home
+Site Templates
+Quick Start Guide
+FAQ
+Change Log
+Terms of Use
+Special Requirements
+Content Disclaimer
+Your Blogs Feed
+Support
+My Sites
+Log in to create or edit your sites.
+Tufts Login
+Guest Login
+Guest Login
+Username: (ex: jsmith01)
+Password:
+Back to Tufts Login
+Need Help? Email edtech@tufts.edu
+Terms of Use
+Revised 09/10/2019
+Owners and administrators of sites hosted on sites.tufts.edu are required to agree to the following obligations with respect to their Site.
+Contents1 Accessibility2 Applicable Laws and Regulations and Tufts Policies and Guidelines3 Limitations on Use of a Site4 Privacy Statement and Terms of Use for Users of the Site. Non-Discrimination Statement5 Copyrighted Information, Trademarks and Trade Secrets6 Use of Tufts Name, Logo and Trademarks7 Publication Limited to Public Information8 Content Retention and Removal; Site Retirement and Removal9 Retirement Process for Inactive Sites10 Content and Site Removal11 Plugin/Theme policy11.0.1 Adding new themes/plugins11.0.2 Licensing11.0.3 Frameworks12 Upgrades13 Caching14 Grant of Copyright License15 User Accounts16 Obligation to Protect Information Collected from Users of the Site17 Blogs17.0.1 Course Blogs17.0.2 All Other Blogs17.0.3 All Blogs18 Liability and Indemnification 19 Abuse20 sites.tufts.edu Mailing List21 Changes to these Terms
+Accessibility
+All Sites must conform to the Tufts University Digital Accessibility Policy, a copy of which is available from this page: Digital Accessibility Guidelines. This requirement must be met prior to launch of your Site and continue to be met throughout the hosting of the Site on sites.tufts.edu. Should you need help assessing your Site’s accessibility please contact edtech@tufts.edu.
+Applicable Laws and Regulations and Tufts Policies and Guidelines
+Site owners and administrators are required to comply with all applicable laws, regulations and University policies and guidelines. These include those available at https://access.tufts.edu/policies and https://access.tufts.edu/policies, for employees, also the Business Conduct Policy and the Standards of Professional Conduct and Integrity, and for students, also their school’s student handbook.
+Limitations on Use of a Site
+Sites may only be used for activities officially recognized and associated with Tufts.
+A Site may not include any of the following content:
+Content that defames or threatens others
+Harassing statements or content that violates federal or state law
+Content that discusses illegal activities with the intent to commit them
+Material that contains obscene (i.e. pornographic) language or images
+Content that is otherwise unlawful
+Content or software that attempts to circumvent security protections or malicious software.
+You cannot use a Site to operate or promote a business. Your Site may not include any advertising, except for the promotion of activities officially recognized and associated with Tufts. In no event may your Site include any form of commercial solicitation.
+Site owners and administrators are required to review and comply with the Special Requirements that apply to Sites that may involve a conference, political activities, health information or diagnosing or treating a disease, research studies, or may be directed to minors.
+Privacy Statement and Terms of Use for Users of the Site. Non-Discrimination Statement
+All Sites will automatically include a link to the University’s Privacy Statements and Terms of Use and Non-discrimination Statement. Those links may not be removed. Site owners and administrators should review those statements and terms and manage their Site in accordance with the statements and terms.
+Copyrighted Information, Trademarks and Trade Secrets
+Copyrighted material, including, without limitation, software, graphics, text, photographs, sound, video and musical recordings; trademarked material; trade secrets; and other content that would infringe another’s intellectual property, may not be placed on a Site without the express permission of the owner of the copyright, trademark, trade secret or other legal entitlement to use the material.
+Use of Tufts Name, Logo and Trademarks
+Any use of a Tufts name, logo or trademark is required to comply with the Policy on the Use of Tufts University Name and Insignias and the Tufts Style Guide.
+Publication Limited to Public Information
+The Tufts Information Classification and Handling Policy defines three categories of information: Restricted, Confidential and Public. Sites are an appropriate location only for Public data, and Site owners and administrators agree to only publish Public data on the Site.
+Content Retention and Removal; Site Retirement and Removal
+Sites hosted on sites.tufts.edu will remain available so long as they are actively updated and in compliance with these Terms for Creating and Maintaining Sites. However, Tufts is not obligated to continue to provide the sites.tufts.edu service and may terminate its availability at any time.
+Retirement Process for Inactive Sites
+Once a Site has been inactive for two years, we begin a retirement process:
+After 2 years of inactivity, all reachable users with Administrator privileges and registered site_owner for the site are notified via email
+After 2 years + 2 weeks of inactivity, a second warning is emailed
+After 2 years + 4 weeks of inactivity, the site is marked “archived” which makes the site unavailable, but easily recoverable.   A final email is sent.
+After 2 years + 8 weeks of inactivity, the site is deleted from the system.
+At any point, a user can freshen the Site by making/editing a post, which resets the inactivity period.   A user can also take the opportunity to delete any Sites they administer which are no longer in use.
+Content and Site Removal
+Site owners and administrators are responsible for monitoring the content posted on their Site and for complying with these Terms. While Tufts does not routinely screen or monitor the content posted to the Sites, Tufts has the right and discretion, but not the obligation, to monitor any activity and content associated with the Sites. Tufts may investigate any violation of these Terms or complaints relating to a Site, the content on a Site, and any services associated with a Site.
+Tufts may, in its discretion and at any time, take any action with respect to a Site it believes is appropriate, with or without an investigation and without prior notice, including but not limited to, removing materials from a Site, terminating and/or suspending access by any owner or administrator or other person to a Site, and removing the Site from sites.tufts.edu.
+Plugin/Theme policy
+Plugins and Themes are developed by many members from the broader WordPress community.  ETS has installed a collection of plugins and themes from the community that we hope you will find useful.  Due to the large number of combinations and permutations in which plugins and themes can be applied, ETS cannot provide any assurance that all plugins will work well together.  If a plugin or theme causes problems for the system, we will try to update it or uninstall it.
+Adding new themes/plugins
+If a site owner/administrator needs a new plugin or theme installed, they can submit a request.  ETS will evaluate the request, checking for the following key requirements:
+Be actively maintained – plugins that have not been updated in years are discouraged
+Not duplicate features already available (we don’t need 5 Facebook Like button plugins)
+Be multi-site compatible
+Be available via the wordpress.org plugin/theme directory
+Be a focused, limited-purpose plugin (no plugins that claim to do everything)
+Licensing
+Unless ETS purchases and enables a site-wide licensed plugin/theme, site owners will be responsible for purchasing/maintaining/renewing license codes/keys/etc.
+Frameworks
+Plugins/Themes that provide frameworks with their own plugins and modules are strongly discouraged.  These solutions have not been manageable in the past.
+Upgrades
+WordPress.org releases major updates (with feature changes) 2 or 3 times per year and minor updates (usually bug fixes and security updates) far more frequently.  It is important for security reasons that we keep up-to-date with these releases.  We will strive to update WordPress core code soon after updates are published.
+For minor updates within a couple of business days of the release
+For major updates within a couple of weeks of the release
+We will apply plugins and themes updates as the are published (manually, as part of weekly maintenance)
+Some plugins and themes may have compatibility issues with an upgrade.  In general, an incompatible plugin/theme will not prevent us from applying an upgrade.
+Caching
+sites.tufts.edu is fronted by a caching service, which helps the server cope with user requests.   When a change is made to a page or post, other viewers might not see the change immediately, but the change should be visible to all within 2 minutes.
+Grant of Copyright License
+Tufts’ Policy of Rights and Responsibilities with respect to Intellectual Property describes circumstances when the University owns or is entitled to a license for copyrightable material, such as the content posted on a Site. Users of the sites.tufts.edu service are encouraged to review that policy.
+User Accounts
+Tufts usernames and passwords and WordPress accounts and passwords are specific to the individual and may not be shared with others.
+Obligation to Protect Information Collected from Users of the Site
+If users of your Site will be able to submit information that identifies them in any manner, then that information may be subject to privacy regulations. It will be your responsibility to comply with those regulations. For example, if your Site will include a form that permits users of the Site from the European Economic Area to submit an email address, then that information will be protected by the European General Data Protection Regulation (the GDPR, also known as the EU Data Privacy Law). In that case, you are required to review and follow the steps in GDPR(+) Tasks for Tufts University Mailing Lists.
+Blogs
+Course Blogs
+If a faculty member enables a Site blog for use in a Tufts course as part of the curriculum, the faculty member(s) shall be responsible for the compliance of the blog’s posted content with Tufts’ Use of Information Systems Policy, the University’s Terms and Conditions of Use, and these Terms.  Faculty members are encouraged to expressly inform their students of the students’ responsibilities under Tufts’ Use of Information Systems Policy, the University’s Terms and Conditions of Use,and these Terms. Faculty members are also encouraged to moderate the content of the course blog.
+All Other Blogs
+If the Site will include a blog, then the Site owner and administrators must follow these guidelines:
+All blog comments must be moderated prior to publication and blogs will be set up with moderation enabled.
+The blog owner has sole responsibility for informing participants in the blog about the nature of its availability – i.e. whether it is generally available, viewable by authorized users, etc.
+All Blogs
+Access may be revoked by Tufts for any blog participant (whether from Tufts or from outside of Tufts), including, without limitation, for a participant who does not follow Tufts’ Use of Information Systems Policy, the University’s Terms and Conditions of Use and these Terms.
+Liability and Indemnification
+You are personally liable for, and agree to indemnify and hold Tufts harmless from, any claims, losses or damages, including legal fees, resulting from your violation of these Terms, your use of a Site, your placement of any content on a Site, and you agree to fully cooperate in Tufts’ defense against any such claims.
+Without limiting the generality of the previous paragraph, you are personally liable for infringing any third-party copyright, trademark, trade secret or other intellectual property rights, including, without limitation, with respect to software, graphics, text, photographs, sound, video and musical recordings; trademarked material; and trade secrets, by using the intellectual property without the express permission of the owner of that intellectual property.
+Abuse
+If a site hosted on sites.tufts.edu becomes a target of abuse (i.e. comment spam), ETS reserves the right to make changes to the site configuration to protect the service.
+sites.tufts.edu Mailing List
+Users of the sites.tufts.edu service will be added to a mailing list in order to receive periodic notifications of upgrades and major changes to the service. Membership on this list is required as long as a user manages or owns a Site that is hosted or archived through the sites.tufts.edu service.
+Changes to these Terms
+Tufts reserves the right to change, modify or otherwise alter these Terms at its sole discretion and at any time as it deems circumstances warrant.
+Copyright © 2020 Tufts University
+Terms of Use
+Disclaimer |
+Non-Discrimination |
+Privacy |
+Terms for Creating and Maintaining Sites

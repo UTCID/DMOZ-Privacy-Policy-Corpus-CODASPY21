@@ -1,0 +1,148 @@
+https://sdtimes.com/softwaredev/apple-wwdc-20-custom-processor-for-macs-new-privacy-requirements-and-annual-software-updates/
+Toggle navigation
+ITOps Times
+Features
+In-Depth
+Buyer’s Guide
+Special Report
+SD Times 100
+Deeper Look
+Industry Spotlight
+Subscribe
+Read The Latest Issue
+Subscribe to SD Times
+Back Issues
+SD Times 100 Guide
+Working with the Editors
+Advertise
+Guest View Guidelines
+Cancel My Subscription
+Learning Center
+White Papers
+Webinars
+Data Quality
+Continuous Testing
+Podcasts
+Events
+Value Stream DevCon
+API
+Agile
+Containers
+Data
+DevOps
+DevSecOps
+Low Code
+Microservices
+Monitor
+Security
+Serverless
+Test
+Value Stream
+ITOps Times
+Features
+In-Depth
+Buyer’s Guide
+Special Report
+SD Times 100
+Deeper Look
+Industry Spotlight
+Subscribe
+Read The Latest Issue
+Subscribe to SD Times
+Back Issues
+SD Times 100 Guide
+Working with the Editors
+Advertise
+Guest View Guidelines
+Cancel My Subscription
+Learning Center
+White Papers
+Webinars
+Data Quality
+Continuous Testing
+Podcasts
+Events
+Value Stream DevCon
+Search
+API
+Agile
+Containers
+Data
+DevOps
+DevSecOps
+Low Code
+Microservices
+Monitor
+Security
+Serverless
+Test
+Value Stream
+Apple WWDC 20: Custom processor for Macs, new privacy requirements, and annual software updates
+Latest News
+Published: June 22nd, 2020
+- Jakub Lewkowicz
+Today, Apple’s virtual WWDC 20 keynote event revealed that all Apple Macs launching after 2022 will be powered by a custom processor as well as other incremental updates to its software lineup.
+“At Apple, integrating hardware and software is fundamental to everything we do…and silicon is at the heart of our hardware,” Tim Cook, CEO of Apple, said. “So having a world-class silicon design team is a game changer.”
+To smooth the transition from Mac infrastructure, Apple introduced Rosetta 2 to run Intel-compatible apps on the new Apple silicone, and Xcode will contain the tools developers need for the transition.
+Macs will join iPhones, iPads and Apple Watches in having custom-made chipsets. With the new Apple processors, the company claims that Mac computers will be able to achieve higher performance while consuming low power.
+Developers can apply to get a Developer Transition Kit, which is a Mac Mini that is powered by the A12Z processor paired with 16GB RAM and 512GB SSD storage, and units will start shipping next week.
+Microsoft and Adobe already plan to bring their flagship softwares to the new ARM-based computers.
+New virtualization capabilities make it easier to run environments such as Linux on Mac and iPhone and iPad apps are also now available on Macs.
+In addition, Apple unveiled its updated operating system macOS Big Sur with updates to its iOS porting tool Mac Catalyst. The developer beta is out this week.
+The updated Extensions API includes more granular controls over how long users are granted privileges on a Safari site last on Safari, similar to how app permissions work on iOS.
+When it comes to security this year, Apple focused on data minimization and on-device intelligence.
+“Privacy matters now more than ever, and because our devices contain our most sensitive information, all of our product work is grounded in a set of privacy principles,” said Craig Federighi, the senior vice president of software engineering at Apple.
+First of these principles is data minimization, which uses technologies and techniques to minimize the personal data users or anyone else can access. Second is on-device intelligence to avoid data collection by processing as much information on-device as possible rather than sending it to a server. Third, Apple added extra security protections. The company also stressed the importance of security protections and transparency and control.
+This year, customers can use ‘Sign in to Apple’ with already existing accounts on apps.
+Users can also opt for apps to use their approximate location rather than their exact locations. If an app uses the microphone or camera, it will be indicated in the status bar. App Store policy will require apps to ask the user before tracking them across apps and websites owned by other companies.
+Applications now have to be more accountable with how they use their customer’s data. Developers will have to show if they’re tracking users at any time and need to self-report the app’s tracking practices – information which will be available for customers on the App Store.
+Users will be able to see how much data an app is collecting on them and whether the data is used to track them.
+Apple also announced new capabilities for its device softwares that developers can utilize to create new apps.
+The company announced that it is working on a smart home interoperability standard with Amazon and Google and that it open-sourced HomeKit, the software framework that enables users to control smart-home applications through a simple voice command to Siri  or through the Home app.
+Meanwhile, iOS 14 will offer new capabilities such as the addition of a Translation app for live conversational translations through Siri, App Clips, which are quickly reachable instances of an app for immediate use and are less than 10MB in size, and updates to CarPlay.
+With the new iPadOS 14 update, Apple has improved the Apple Pencil by adding features like scribble, improved handwriting recognition, smart selection, scratch to delete, copy as text and better cut-paste options. It also brings all of the major features that have come to iOS 14.
+Article Tags
+APIs, Apple, developers, security
+Subscribe to SDTimes
+About Jakub Lewkowicz
+Jakub Lewkowicz is a multimedia journalist who loves all things tech. Polish-born and Long Island-bred, he is an Online and Social Media Editor for SD Times. He is also a Carnegie Hall pianist and music producer.
+View all posts by Jakub Lewkowicz
+Trending Stories
+1
+Kubernetes to deprecate Docker container runtime in v1.22
+2
+Guest View: Relational vs. graph databases: Which to use and when?
+3
+2020: Testing goes hands off during the pandemic with with more AI and automation
+4
+Securing Microservices: The API gateway, authentication and authorization
+Related Articles
+Microsoft announces new steps to protect data
+SD Times news digest: Electron JS 11.0 released, CodeBot UX is available to early access users, and Build.security emerges from stealth
+Environment-free computing company Gravitational rebrands as Teleport
+Apple to reduce commission for small businesses with new App Store program
+SD TimesAbout Us
+Contact Us
+Privacy Policy
+Site Map
+Advertise
+Subscribe
+Manage My Preferences
+Subscribe to SD Times
+Ready for your SD Times magazine? It's just a click away!
+Subscribe
+Read Current Issue
+Read Back Issues
+Tweets by @sdtimes
+© 2020 D2 Emerge LLC.
+Subscribe
+Contact Us
+Site Map
+Privacy Policy
+Ad will close in
+seconds
+Continue to site
+HTML Snippets Powered By : XYZScripts.com
+Get access to this and other exclusive articles for FREE!
+There's no charge and it only takes a few seconds.
+Sign up now!

@@ -1,0 +1,416 @@
+http://www.kroll-software.de/support/help/fuzzydupes/
+Welcome to the FuzzyDupes 2020 Help
+Download of the current version.
+FuzzyDupes (fuzzy duplicates) searches for similar data records –
+especially in address databases.
+How the program works
+If you would like to learn more about how the program works,
+please first read the chapter Glossary.
+This is very helpful to understand some functions and settings of the program.
+Backup your data regularly
+This version opens your database read only an can be used without risk.
+Only some function delete records physically from your database. This action cannot be made undone.
+A warning message is always displayed in this case.
+Please make regularly backup copies from your databases. This is always a good advice.
+Sample Search Result
+(FuzzyDupes finds similar records in address databases.)
+Have fun and much success!
+Detlef Kroll - Kroll Software-Entwicklung
+Project Wizard
+Select in main menu "File->New Project".
+This launches the Project Wizard.
+Database Connection
+Data Source
+Select one of the following data sources:
+MS-Access Database
+MS SQL-Server Database
+MS-Excel Workbook
+Text file with delimiter (CSV files)
+MS-Outlook Contact Folder
+Windows Addressbook
+SharePoint Server
+BulkMailer Addresses Database
+Other (Datalink Dialog)
+Click on Connect to continue. More options follow, depending on the selected data source.
+You can connect to all databases that come with an ODBC driver or OLEdb-Provider, e.g. Oracle, MySQL and many more.
+Download and install the ODBC-driver from the databases manufacturers website.
+Use the ODBC-Manager to create a System Data Source.
+In this dialog, select "Other (Datalink Dialog)"
+Connect to your database
+In the Datalink Dialog check Save Password, so that the application has further access to the database.
+Table
+Subsequently select the Table or View/Query, which contains the data.
+Then click on "Next".
+Special Fields
+Identity Column
+Choose a column from your table which contains distinct values (identity column).
+This column should also contain a primary key.
+Duplicate Fields
+Cluster
+Select 2-4 columns for cluster creation.
+These columns should be filled with data very well.
+Only select columns of type character/string. ZIP-codes are unsuitable for cluster creation. With address data select e.g. LastName, Street, City
+Duplicate Search Columns
+Select some columns for the duplicate search.
+Select at last all columns, that are marked for cluster creation, and some more.
+With address data you typically select
+LastName
+FirstName
+(Company)
+ZIP
+Street Address
+City
+[Phone]
+[..]
+Using fuzzy comparison algorithms, the program will calculate the correspondence
+in each of the selected fields. The program then uses these results to calculate
+the average correspondence between two records.
+Weights
+Most of the time, leave all quantifiers on Normal.
+If you want, you can place more or less emphasis on an individual column.
+Select Identical, if exact correspondence is required for a particular column.
+The "Identical" option is especially useful with grouped data sets,
+although duplicates can then only appear within defined groups.
+Select Identical for the group column.
+NULL Comparison
+Select NULL Comparison for columns that contain values in (nearly) all rows
+(e.g. Last Name, Street, ZIP, City).
+For other columns which may contain NULLs in many rows don't select NULL Comparison
+(e.g. First Name, Phone, Fax, ...)
+With NULL Comparison, empty values (NULL-Values) are used for the
+calculation of the average correspondence between two records.
+Click on "Next" to continue.
+Normaization
+Standard
+Standard normalization converts all characters to uppercase, replaces special characters and umlauts etc. Standard normalization should usually checked for all columns.
+Normalization 1.. 3
+Select up to 3 different normalization rules for each column.
+Use "default" on address data when you're not sure and when you don't have user defined normalization rules.
+Use the Normalization Rules Editor to customize rules or add new rules.
+Options
+Threshold Cluster
+With this slider you can influence the cluster size.
+In most cases you will leave this at normal position.
+It is not a good idea to set it to the most right position, because this will only slow down the search but gives no better results.
+With large databases, you may want to set it a little bit to "faster" to speed up the search.
+Threshold Duplicates
+This setting has the most relevant effect on the search results.
+Default is 90. Later you can repeat the duplicate search with a different
+threshold value. Increase this value if too many duplicates were found.
+Choose a lower value if not enough duplicates were found.
+Check your settings and click on "OK", to complete this wizard.
+Duplicate Search
+Options
+Show Results
+Duplicates (default): The duplicate search only returns duplicate rows.
+All records with duplicates tag:
+The duplicate search returns all rows. A new column FuzzyDupesID contains GUID's that are
+distinct for different rows and identical for similar rows.
+Thresholds
+Here you can again set the thresholds. The settings come from the project settings.
+See Project Wizard for a description of these thresholds.
+Start Duplicate Search
+Click on "OK" to start the duplicate search.
+Search Results
+Following the duplicate search, the program will display the search results
+grouped by duplicates. Later you can select View->Duplicates to call up this view. Select View->Export to save the result to a CSV file.
+(Example: Results View in FuzzyDupes)
+Menu “View”
+Show / Hide Columns
+Select main menu "View->Show Columns..." or
+click on the corresponding icon, in order to show or hide desired columns in the database table.
+Export
+Select main menu "View->Export..." to save the current view to a Text/CSV-File.
+Edit Duplicates
+After a successful duplicate search, the program switches to duplicate view
+and shows the duplicates in groups. Later you can return to this view
+at the menu item "View->Dubletten".
+Here you will be able to
+Manually review the duplicates to check the results
+during the review cancel the allocation of individual records, if they are found not to be duplicates.
+automatically delete duplicates from each set apart from one.
+Manual Review of Duplicates
+When you are searching for duplicates in important customer databases,
+it is advisable to perform a manual review of the results. In this case you
+should perform a search with a somewhat lower threshold value (80-85%),
+which will produce a result with too many duplicates.
+During the manual review you can deallocate sets which are not
+actually duplicates (see below).
+(You will realize that with some data sets it is also difficult for a human to determine
+whether they are duplicates or not). Through the clear presentation of duplicates,
+a manual review can be carried out quickly and is well worth the effort.
+With addresses used for marketing or similar data, where it doesn’t matter
+if some records are eliminated, a manual review is probably not necessary.
+In this case, you would select a somewhat higher threshold value (90-95%)
+for the duplicate search so that only certain duplicates are found.
+You can then go ahead and automatically correct these
+(i.e. automatically delete sets in a pair of duplicates, see below).
+Unassigning Individual Sets
+To remove the duplicate status of two records (in other words, saying: this is not a duplicate),
+mark one of the records and select "Review->Unassign Duplicate".
+TIP: You also find this menu by right-clicking the mouse on a record.
+Create Deletion List
+After the manual review you want to delete all duplicates.
+After performing a manual review and deallocating invalid duplicates,
+as a last step you will want to delete all records which have duplicate entries,
+so that only one record per duplicate remains (all similar records deleted).
+Following this deletion process your database will be free of duplicates.
+To do this select main menu Duplicates->Create Deletion List, to create a list of records that can be deleted in the next step.
+In order to keep the oldest/newest record, provide the program with a corresponding
+column for the sorting order. Select, for example, a column named created,
+provided that your database contains a column with the date of creation for every record.
+The Autonumber-column in Access and SQL-Server databases also contain values
+in chronologically ascending order and can be used for this purpose.
+Delete Duplicate Records
+After creating the deletion list select main menu Duplicates->Delete Duplicate Records, in order to delete these records physically from your database or to create a purged temporary list.
+Please check before whether deletion in your table is at all permitted.
+This may not be the case, for example, if the table has relations to other tables in your database. Also be aware that other data could be deleted because of relations to other tables.
+Check your data model or clarify with the database developer whether you can simply delete records in the table without further problems.
+On the other hand is the creation of a purged list without any risks because it makes no changes to your database.
+Export List
+To export the search result, select the Menu
+"View->Export". After specifying a filename,
+the export options dialog box appears:
+FuzzyDupes saves the table in a delimited text file (CSV).
+These files can be read by most database programs and MS-Excel.
+Select the "*.csv" file extension, if you want to create a CSV file, for example, for use in MS-Excel.
+Select a delimiter - for CSV files, a comma (,) or Semi-colon (;).
+Beforehand, use the icon "Field list" to select individual columns and choose
+in this dialog box "Export visible columns only", in order to export selected columns.
+Fuzzy Merge (Import)
+Besides searching for duplicates, FuzzyDupes enables the fuzzy import of data.
+This makes it possible to merge two databases without creating duplicates.
+Select main menu "Duplicates->Fuzzy Merge Database"
+Establish a connection to your database
+Select a table or view/query
+Assign the fields of the source to those of the target table
+(At least all cluster and duplicate search columns are required.
+See Project Settings.)
+Click on OK
+A dialog box containing the import options will appear:
+Show Results
+Please select an option for the return values of this operation:
+New Records: Only new records from your import source will be displayed after the search.
+All Records with Source Tag: All records from your project database merged with all records from your import source
+will be displayed. You can see an additional column containing Zero (0) for records from the project database and (1) for records from the
+import source.
+Duplicates:
+Only records from your import source are displayed, that were found (similar) in the project database.
+Merged result without any dupes: The result is a merged and purged list.
+Thresholds
+Here you can again set the thresholds. The settings come from the project settings.
+See Project Wizard for a description of these thresholds.
+Fuzzy Match
+Besides searching for duplicates, FuzzyDupes can also perform a comparison with an external list (Robinson list).
+In this way you can remove addresses in the external list from your database.
+Select the menu item "Duplicates->Match with External List".
+Establish a connection to your database
+Select a table or view/query
+Assign the fields of the source to those in the target table.
+(At least all cluster and duplicate search columns are required.
+See Project Settings.)
+Click on OK
+A dialog box with some options will appear:
+Show Results
+Please select an option for the return values of this operation:
+Negative Match (default): Only records from your project database are displayed, that are not contained (with fuzzyness) in the external list.
+Positive Match:
+Only records from your project database are displayed, that have matches in the external list.
+All Records (tagged):
+All records from your project database are displayed.
+An additional column has Zero (0) values, if no matching record was found in the external list, or a non zero value
+containing the row number of the matching record in the external list.
+Thresholds
+Here you can again set the thresholds. The settings come from the project settings.
+See Project Wizard for a description of these thresholds.
+Normalization Rules Editor
+Select in main menu
+"Extras->Edit Normalization Rules".
+This launches the Normalization Rules Editor.
+Edit Normalization Rules
+For each named format you can add a description, 3 different parent formats and an unlimited number of search/replacements.
+The Description is only for documentation purposes and has no effect.
+Inherits from:
+The current format will inherit all search/replace rules from the selected parent formats.
+Search / Replace:
+Enter the search and the replace string.
+Enter en empty string, if the search string should be discarded.
+If the current format includes Standard Normalization, your entry will be
+adjusted when entering the data.
+Create new Format
+Select New to create a new format.
+Check Requires Standard Normalization for all formats by default.
+Standard Normalization will connvert the data to upperstring, replace
+special characters and umlauts, etc.
+This is normally required for any kind of address data.
+Glossary
+Cluster Creation
+A fuzzy comparison of all records in a database with all others
+is impossible because the number of the individual comparisons would quickly
+reach an astronomical figure.
+Any software for duplicate searches must perform a pre-selection,
+in which data sets are grouped in blocks which are appropriate for performing fuzzy comparison.
+FuzzyDupes uses a method for cluster creation, which calculates reliable and small clusters very fast.
+The method is based on N-Grams, that are small partial strings, which the program can process very efficiently.
+This method is mathematically exact and the cluster size can be freely adjusted.
+The current, average and maximal cluster size are displayed during the duplicate search.
+You should experiment a little with different cluster columns or thresholds to see, if you can still improve the results.
+Normalization
+Before the strings of the individual columns can undergo the fuzzy comparison process,
+the data is (temporarily, in memory) normalized. Here special characters and umlauts are
+replaced and many normal abbreviations and spellings are transformed.
+(e.g. street -> st.)
+Fuzzy comparison
+Here the correspondence (in percent) between individual columns is calculated
+with suitable algorithms. This is used to calculate (taking different weightings into consideration),
+the average correspondence.
+Several different pattern-matching algorithms exist which are more or less well-suited for this purpose.
+Every duplicate software maker implements his own process. A well-suited process should be able to deal
+well with permutations of characters in order to achieve a high selectivity.
+If, at the end, the correspondence (in percentage) lies over the established threshold value,
+these records are marked at duplicates. (they get the same fuzzydupes_ID).
+Selectivity
+The quality of a duplicate search is not only measured by how many duplicates are discovered,
+but also by how reliable the result is, or how many false duplicates are found.
+Also important is the influence changes in the threshold value have on the search result.
+It would be disadvantageous if small changes in the threshold value led to drastic differences
+in the search result and if the selectivity was negatively influenced by lower threshold values.
+You will soon realize that in FuzzyDupes the threshold value has no significant influence
+on the search result (perhaps tiny differences in the value after the decimal point).
+Even with lower threshold values, FuzzyDupes achieve a very good degree of selectivity.
+FuzzyDupes EULA
+License Agreement
+§ 1 Object
+The object of these Licensing Conditions is the computer program
+FuzzyDupes, it's online user documentation and other
+written materials associated with it, which are together referred to below as the software.
+§ 2 Guarantees
+(1) This software is provided to the licensee "as is".
+(2) Kroll Software-Development makes no guarantees whatsoever
+in terms of functional capability, freedom from error or applicability
+for any particular purpose.
+§ 3 Evaluation
+(1) A free and demo version is provided without any obligation.
+This demo version is only intended for evaluation purposes and must not be used
+in a productive environment.
+(2) Already the use of the search results requires a utilization license,
+that is available for purchase.
+§ 4 Utilization License
+(1) This Utilization License grants the right to use the software on a single workstation for an unlimited time. Simultaneous utilization at more than one hardware requires a multiple license.
+§ 5 Delivery
+(1) This software is offered exclusively online for downloading. No data carriers or printed manuals will be provided to the customer, even in the event of licensing.
+§ 6 Decompiling and Program Modifications
+(1) No reverse translation of the program code made over to
+the licensee into other code forms (decompiling) or any other types
+of reverse engineering of the different production stages of the software,
+to include any program modification, is permitted.
+(2) The removal of any protection device against copying or of any
+similar protective routines is not permitted.
+(3) Originator notices, serial numbers and any other characteristics which
+serve program identification shall not be removed or altered under any circumstances.
+§ 7 Liability
+(1) In the event of damages or indirect damages arising from the
+utilization of this software, the liability
+of Kroll Software-Development is limited to a
+maximum of 1-times the purchase price.
+(2) Liability for data loss is limited to the typical recovery
+expense arising from restoration from backups made at
+regularly scheduled intervals in accordance with the risk involved.
+§ 8 Agreements in written form only
+(1) No modifications or extensions of these contractual conditions,
+in particular any agreements which extend beyond the usual
+contract execution processes, nor any other special guarantees and
+agreements shall be made by the employees of the supplier.
+Such modifications, extensions or agreements are only binding
+in conjunction with specific written confirmations from the supplier.
+§ 9 Area of Jurisdiction
+Area of Jurisdiction is in any case Altdorf (URI), Switzerland.
+Kroll Software-Development, Altdorf/CH, den 15.11.2019
+Products
+BulkMailer 2020 Professional
+FuzzyDupes 2020
+KS-ProjectPlanner Pro 2020
+KS-ProjectPlanner 2014 FreeWare
+KS.CRM
+KS.CRM Core Framework
+KS.CRM Opportunities PlugIn
+KS.CRM Products PlugIn
+KS.CRM Sales PlugIn
+KS.CRM DeDupe PlugIn
+KS.CRM Plug-In Bundle
+MP3db – The MP3-Database
+InterReg 2014
+Developer Products
+Summer GUI X-Platform
+Gantt Control for DotNet Windows Forms
+FuzzyDupes:NET
+Research
+Protein Folding by a Neural Network
+Detecting the Chirality of a Protein by a Neural Network
+The Brain – A Spiking Neural Network (SNN)
+Pages
+Sitemap
+Imprint
+Languagesdeutsch | english
+Search
+Recent Posts
+Detecting the Chirality of a Protein by a Neural Network
+BulkMailer PlugIn for ACT! CRM
+Protein Folding by a Neural Network
+Kroll-Software on GitHub
+SummerGUI
+BulkMailer Network Installation
+My recommendation for WordPress sites with dynamic content and custom types
+Categories
+Business / Office
+Customer-Relationship-Management
+Data Quality
+Home / Entertainment
+Project Management
+Research
+Software Development
+Uncategorised
+TagsBM-Feedback
+BulkMailer
+Bundle
+Contacts
+CRM
+Customers
+data-cleansing
+Database
+dedupe
+Development
+E-Mail
+EULA
+extensible
+free
+FreeWare
+FuzzyDupes
+FuzzyDupes.NET
+Gantt
+Industry
+interpolation
+InterReg
+KS.CRM
+math
+MP3
+MP3db
+Music
+Office
+Opportunities
+Plug-In
+Project Management
+ProjectPlanner
+Project Planning
+regression
+Sales
+WordPress
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept Imprint / Privacy PolicyImprint / Privacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.

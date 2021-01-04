@@ -1,0 +1,766 @@
+https://extensionworkshop.com/documentation/publish/add-on-policies/
+Select a section
+Page Name
+Extension Basics
+Getting started
+Mozilla Developer Network
+Documentation Topics
+Develop
+Firefox Tools
+User Experience
+Firefox for Android
+Port to Firefox
+Test and debug
+Getting Started
+Unique Firefox Capabilities
+Firefox Workflow Overview
+About the WebExtensions API
+Cross-Browser Development
+Browser Compatibility
+Namespace
+Asynchronous
+API Coverage
+Manifest keys
+More information
+Build cross-browser extensions
+Firefox Tools
+Build an extension in 5 minutes
+Browser Extension Development Tools
+Boilerplating tools
+Coding tools
+Testing and debugging tools
+Translation tools
+Tools for Firefox for Android
+Choosing a Firefox version for extension development
+Firefox editions
+Firefox version and their web extension development capabilities
+Getting started with web-ext
+Installation
+Using web-ext
+See also
+web-ext command reference
+Commands
+Global options
+Setting option environment variables
+See also
+Web-ext Webpack plug-in
+Browser API Polyfill
+Extensions and the Add-on ID
+Basic workflow with no add-on ID
+When do you need an add-on ID?
+User Experience
+Build a secure extension
+Request the right permissions
+Introduction
+Advised permissions
+Avoid unnecessary permissions
+Request permissions at runtime
+Add information about permissions to your extensions AMO page
+Best practices for collecting user data consents
+Know your privacy settings
+Get prepared
+Create a privacy policy
+Prompt after install or on first use
+Determine your consent flow
+Your consent dialogs
+Build an accessible extension
+Onboard, upboard, offboard users
+Onboarding
+Upboarding
+Offboarding
+User experience best practices
+1. Keep it focused
+2. Give users what they need, where they need it
+3. Keep the user informed
+4. Be Firefoxy in look and feel
+5. Great onboarding experience
+6. Test, test, and then test again
+What’s great content and design?
+Create an appealing listing
+Your add-on’s name
+Create a captivating icon
+Create a meaningful set of keywords
+Make sure your summary is just long enough
+Focus on key features in your screenshots
+The add-on description can be longer, but not too long
+Make it local
+Make it experimental
+Select the right platforms and versions
+Categorize well
+Be prepared to provide support
+Set up a developer profile
+Use plain language in any privacy policy or license agreement
+Gently ask for a review
+Some other points
+Mobile
+Differences between desktop and Android extensions
+Introduction
+User interface
+Native application interaction
+Permissions
+Other notes
+User experience guidelines for mobile extensions
+Introduction
+The basics
+The extra mile
+The last mile
+Developing extensions for Firefox for Android
+Set up your computer and Android emulator or device
+Check for Firefox for Android compatibility
+Install and run your extension in Firefox for Android
+Debug your extension
+Developing extensions for Firefox for Android (Fennec)
+Set up your computer and Android emulator or device
+Set up your computer and Android emulator or device
+Check for Firefox for Android compatibility
+Install and run your extension in Firefox for Android
+Debug your extension
+GeckoView Extensions (Android library)
+Port Your Extension
+Extension compatibility test
+Porting a Google Chrome Extension
+Porting a legacy Firefox extension
+Quick start
+Migration paths
+Don't see the WebExtensions APIs you need?
+Tools
+Documentation
+Contact
+Comparison with the Add-on SDK
+Manifest files
+Persistent scripts
+Content scripts
+UI elements
+Settings
+Internationalization
+Command-line tool
+JavaScript APIs
+Comparison with XUL/XPCOM extensions
+Manifest
+UI
+Privileged APIs
+Interacting with web content
+Localization
+Settings
+Debug and Test
+Debugging
+Developer tools toolbox
+Debugging background scripts
+Debugging options pages
+Debugging popups
+Debugging content scripts
+Debugging sidebars
+Debugging storage
+Debugging developer tools pages and panels
+Debug permission requests
+Debugging browser restarts
+Temporary Installation in Firefox
+Reloading a temporary extension
+Using the command line
+Detecting temporary installation
+Limitations
+Testing persistent and restart features
+What is an add-on ID?
+What is a Firefox profile?
+Extension behavior in Firefox
+What do I do to ensure I can test my extension?
+Test permission requests
+Permission grant behavior during testing
+Observe or verify install time permission requests
+Retest runtime permission grants
+Publish
+Get your extension signed
+Distribute your signed extension
+Promote your extension
+Policies
+Add-on Policies
+No Surprises
+Content
+Submission Guidelines
+Development Practices
+Data Disclosure, Collection and Management
+Security Vulnerabilities
+Monetization
+Compliance & Blocking
+Firefox Add-on Distribution Agreement
+1. Introduction
+2. Accounts
+3. Privacy Policy
+4. Distribution, certificates, & review process
+5. Your obligations
+6. Licenses; proprietary rights
+7. Content removal
+8. Disclaimer of warranties
+9. Limitation of liability
+10. Release; indemnification
+11. General legal terms
+Add-ons Blocking Process
+Security Over Choice
+Blocking Criteria
+Developer Outreach
+Requesting a Block
+Blocking Other Types of Third Party Software
+Third Party Library Usage
+When must links for third-party libraries be provided?
+How to determine the third-party library link
+Communicating third-party library links to reviewers
+What does review rejection mean to users?
+Review overview
+Impact of review rejection
+Blocklisting
+Sign
+Signing and distribution overview
+Signing your add-ons
+Distributing your add-on
+More information about AMO
+Package your extension
+Windows
+Mac OSX
+Linux / Mac OSX Terminal
+Distribute
+Distribute pre-release versions
+Submitting an add-on
+Listing on AMO
+Self-distribution
+Get help
+Source code submission
+Provide your extension source code
+Use of obfuscated code
+Source code checklist
+Add-on ownership
+Transfer ownership
+Code disputes
+Developer accounts
+Setting a display name
+Blocked accounts
+Self-Distribution
+Self-distribution options
+Sideloading
+Preparing your add-on
+Install add-on from file
+Installation using the standard extension folders
+For desktop apps
+Promote
+Promoting your extension
+Promote your add-on from your website
+Friends, family, and colleagues
+Events and meetups
+Current users
+Social media
+Engage with your users
+Create a forum, user group, or similar
+Engage with bloggers and news media
+Advertising
+Promoted Add-ons program
+Make money from browser extensions
+Will I ever be able to sell through AMO?
+What can't you do
+What can you do
+Unsolicited offers
+How can I maximize my income?
+Recommended extensions
+Overview
+Criteria for Recommended extensions
+Developer partnership
+Selection process
+Manage
+Stay informed when Firefox changes
+Publish extension updates
+Manage authors of your extension
+Promote your extension
+Removing your extension from distribution
+Resources
+Updating your extension
+Enabling updates to your extension
+Manifest structure
+Testing automatic updating
+Best practices for updating your extension
+Monitoring extension usage statistics
+Accessing the statistics dashboard
+Tracking external sources
+Add-on listing example
+Resources for publishers
+Retiring your extension
+Reasons for withdrawing your extension
+Steps to retiring an extension
+Suggested retirement timetable
+Enterprise
+Developing your enterprise extension
+Distributing your enterprise extension
+Enterprise support
+Manage add-ons for Firefox for Enterprise
+Install system add-ons for Firefox for Enterprise
+Enterprise resources
+Enterprise policies that impact extensions
+Relevant policies
+Other relevant policies
+Enterprise distribution
+Signed vs. unsigned extensions
+Sideloading
+Installation using the Windows registry
+Firefox settings
+Bundling add-ons with a custom Firefox
+Themes
+Creating themes
+Theme concepts
+Using the AMO theme generator
+Getting Started
+Submitting your theme
+Community
+Who is part of the community?
+Connect with the community
+Get involved in the community
+Get in touch
+Community Forum
+Add-ons Blog
+Stack Overflow
+Communication Calendar
+Dev Mailing List
+Contribute
+Contribution opportunities
+Onboard to the WebExtensions codebase
+Hacking guide for WebExtensions code contributions
+WebExtensions Experiments
+Find or create a bug
+Extension Basics
+Getting started
+Mozilla Developer Network
+Documentation Topics
+Develop
+Firefox Tools
+User Experience
+Firefox for Android
+Port to Firefox
+Test and debug
+Getting Started
+Unique Firefox Capabilities
+Firefox Workflow Overview
+About the WebExtensions API
+Cross-Browser Development
+Browser Compatibility
+Namespace
+Asynchronous
+API Coverage
+Manifest keys
+More information
+Build cross-browser extensions
+Firefox Tools
+Build an extension in 5 minutes
+Browser Extension Development Tools
+Boilerplating tools
+Coding tools
+Testing and debugging tools
+Translation tools
+Tools for Firefox for Android
+Choosing a Firefox version for extension development
+Firefox editions
+Firefox version and their web extension development capabilities
+Getting started with web-ext
+Installation
+Using web-ext
+See also
+web-ext command reference
+Commands
+Global options
+Setting option environment variables
+See also
+Web-ext Webpack plug-in
+Browser API Polyfill
+Extensions and the Add-on ID
+Basic workflow with no add-on ID
+When do you need an add-on ID?
+User Experience
+Build a secure extension
+Request the right permissions
+Introduction
+Advised permissions
+Avoid unnecessary permissions
+Request permissions at runtime
+Add information about permissions to your extensions AMO page
+Best practices for collecting user data consents
+Know your privacy settings
+Get prepared
+Create a privacy policy
+Prompt after install or on first use
+Determine your consent flow
+Your consent dialogs
+Build an accessible extension
+Onboard, upboard, offboard users
+Onboarding
+Upboarding
+Offboarding
+User experience best practices
+1. Keep it focused
+2. Give users what they need, where they need it
+3. Keep the user informed
+4. Be Firefoxy in look and feel
+5. Great onboarding experience
+6. Test, test, and then test again
+What’s great content and design?
+Create an appealing listing
+Your add-on’s name
+Create a captivating icon
+Create a meaningful set of keywords
+Make sure your summary is just long enough
+Focus on key features in your screenshots
+The add-on description can be longer, but not too long
+Make it local
+Make it experimental
+Select the right platforms and versions
+Categorize well
+Be prepared to provide support
+Set up a developer profile
+Use plain language in any privacy policy or license agreement
+Gently ask for a review
+Some other points
+Mobile
+Differences between desktop and Android extensions
+Introduction
+User interface
+Native application interaction
+Permissions
+Other notes
+User experience guidelines for mobile extensions
+Introduction
+The basics
+The extra mile
+The last mile
+Developing extensions for Firefox for Android
+Set up your computer and Android emulator or device
+Check for Firefox for Android compatibility
+Install and run your extension in Firefox for Android
+Debug your extension
+Developing extensions for Firefox for Android (Fennec)
+Set up your computer and Android emulator or device
+Set up your computer and Android emulator or device
+Check for Firefox for Android compatibility
+Install and run your extension in Firefox for Android
+Debug your extension
+GeckoView Extensions (Android library)
+Port Your Extension
+Extension compatibility test
+Porting a Google Chrome Extension
+Porting a legacy Firefox extension
+Quick start
+Migration paths
+Don't see the WebExtensions APIs you need?
+Tools
+Documentation
+Contact
+Comparison with the Add-on SDK
+Manifest files
+Persistent scripts
+Content scripts
+UI elements
+Settings
+Internationalization
+Command-line tool
+JavaScript APIs
+Comparison with XUL/XPCOM extensions
+Manifest
+UI
+Privileged APIs
+Interacting with web content
+Localization
+Settings
+Debug and Test
+Debugging
+Developer tools toolbox
+Debugging background scripts
+Debugging options pages
+Debugging popups
+Debugging content scripts
+Debugging sidebars
+Debugging storage
+Debugging developer tools pages and panels
+Debug permission requests
+Debugging browser restarts
+Temporary Installation in Firefox
+Reloading a temporary extension
+Using the command line
+Detecting temporary installation
+Limitations
+Testing persistent and restart features
+What is an add-on ID?
+What is a Firefox profile?
+Extension behavior in Firefox
+What do I do to ensure I can test my extension?
+Test permission requests
+Permission grant behavior during testing
+Observe or verify install time permission requests
+Retest runtime permission grants
+Publish
+Get your extension signed
+Distribute your signed extension
+Promote your extension
+Policies
+Add-on Policies
+No Surprises
+Content
+Submission Guidelines
+Development Practices
+Data Disclosure, Collection and Management
+Security Vulnerabilities
+Monetization
+Compliance & Blocking
+Firefox Add-on Distribution Agreement
+1. Introduction
+2. Accounts
+3. Privacy Policy
+4. Distribution, certificates, & review process
+5. Your obligations
+6. Licenses; proprietary rights
+7. Content removal
+8. Disclaimer of warranties
+9. Limitation of liability
+10. Release; indemnification
+11. General legal terms
+Add-ons Blocking Process
+Security Over Choice
+Blocking Criteria
+Developer Outreach
+Requesting a Block
+Blocking Other Types of Third Party Software
+Third Party Library Usage
+When must links for third-party libraries be provided?
+How to determine the third-party library link
+Communicating third-party library links to reviewers
+What does review rejection mean to users?
+Review overview
+Impact of review rejection
+Blocklisting
+Sign
+Signing and distribution overview
+Signing your add-ons
+Distributing your add-on
+More information about AMO
+Package your extension
+Windows
+Mac OSX
+Linux / Mac OSX Terminal
+Distribute
+Distribute pre-release versions
+Submitting an add-on
+Listing on AMO
+Self-distribution
+Get help
+Source code submission
+Provide your extension source code
+Use of obfuscated code
+Source code checklist
+Add-on ownership
+Transfer ownership
+Code disputes
+Developer accounts
+Setting a display name
+Blocked accounts
+Self-Distribution
+Self-distribution options
+Sideloading
+Preparing your add-on
+Install add-on from file
+Installation using the standard extension folders
+For desktop apps
+Promote
+Promoting your extension
+Promote your add-on from your website
+Friends, family, and colleagues
+Events and meetups
+Current users
+Social media
+Engage with your users
+Create a forum, user group, or similar
+Engage with bloggers and news media
+Advertising
+Promoted Add-ons program
+Make money from browser extensions
+Will I ever be able to sell through AMO?
+What can't you do
+What can you do
+Unsolicited offers
+How can I maximize my income?
+Recommended extensions
+Overview
+Criteria for Recommended extensions
+Developer partnership
+Selection process
+Manage
+Stay informed when Firefox changes
+Publish extension updates
+Manage authors of your extension
+Promote your extension
+Removing your extension from distribution
+Resources
+Updating your extension
+Enabling updates to your extension
+Manifest structure
+Testing automatic updating
+Best practices for updating your extension
+Monitoring extension usage statistics
+Accessing the statistics dashboard
+Tracking external sources
+Add-on listing example
+Resources for publishers
+Retiring your extension
+Reasons for withdrawing your extension
+Steps to retiring an extension
+Suggested retirement timetable
+Enterprise
+Developing your enterprise extension
+Distributing your enterprise extension
+Enterprise support
+Manage add-ons for Firefox for Enterprise
+Install system add-ons for Firefox for Enterprise
+Enterprise resources
+Enterprise policies that impact extensions
+Relevant policies
+Other relevant policies
+Enterprise distribution
+Signed vs. unsigned extensions
+Sideloading
+Installation using the Windows registry
+Firefox settings
+Bundling add-ons with a custom Firefox
+Themes
+Creating themes
+Theme concepts
+Using the AMO theme generator
+Getting Started
+Submitting your theme
+Community
+Who is part of the community?
+Connect with the community
+Get involved in the community
+Get in touch
+Community Forum
+Add-ons Blog
+Stack Overflow
+Communication Calendar
+Dev Mailing List
+Contribute
+Contribution opportunities
+Onboard to the WebExtensions codebase
+Hacking guide for WebExtensions code contributions
+WebExtensions Experiments
+Find or create a bug
+Add-on Policies
+Add-ons extend the core capabilities of Firefox, enabling users to modify and personalize their web experience. A healthy ecosystem, built on trust, is vital for developers to be successful and users to feel safe making Firefox their own. For these reasons, Mozilla requires all add-ons to comply with the following policies on acceptable practices. These policies are not intended to serve as legal advice, nor as a comprehensive list of terms to include in your add-on’s privacy policy.
+All add-ons are subject to these policies, regardless of how they are distributed. When an add-on is given human review or otherwise assessed by Mozilla, these policies act as guiding principles for those reviews. Add-ons that do not comply with these policies may be rejected or disabled by Mozilla. Therefore, follow these policies when making add-on design and development decisions.
+Contents
+No SurprisesContentSubmission GuidelinesDevelopment PracticesData Disclosure, Collection and ManagementSecurity VulnerabilitiesMonetizationCompliance & Blocking
+No Surprises
+Surprises can be appropriate in many situations, but they are not welcome when user security, privacy and control are at stake. It is extremely important to be as transparent as possible when submitting an add-on. The user should be able to easily discern what the functionality of your add-on is and not be presented with unexpected user experiences after installing it.
+Unexpected features
+“Unexpected” features are those that are unrelated to the add-on’s primary function, and are not likely from the add-on name or description to be expected by a user installing that add-on.
+Should an add-on include any unexpected feature that falls into one of the following categories:
+Potentially compromises user privacy or security (like sending data to third parties)
+Changes default settings like the new tab page, homepage or search engine
+Makes unexpected changes to the browser or web content
+Includes features or functionality not related to the add-on’s core function(s)
+Then the “unexpected” feature(s) must adhere to all of the following requirements:
+The add-on description must clearly state what changes the add-on makes.
+All changes must be “opt-in”, meaning the user has to take non-default action to enact the change. Changes that prompt the user via the permissions system don’t require an additional opt-in.
+The opt-in interface must clearly state the name of the add-on requesting the change.
+Content
+Add-ons that make use of Mozilla trademarks must comply with the Mozilla Trademark Policy. If the add-on uses “Firefox” in its name, the naming standard the add-on is expected to follow is “<Add-on name> for Firefox”.
+In addition, add-ons listed on addons.mozilla.org (AMO) must adhere to the following policies:
+All add-ons submitted for listing on AMO are subject to Mozilla’s Conditions of Use.
+Add-ons must disclose when payment is required to enable any functionality.
+Any add-ons, or add-on content, hosted on Mozilla site(s) must conform to the laws of the United States.
+The add-on listing should have an easy-to-read description about everything it does, and any information it collects. Please consult our best practices guide for creating an appealing listing.
+Add-ons that are intended for internal or private use, are only accessible to a closed user group, or for distribution testing may not be listed on AMO. Such add-ons may be uploaded for self-distribution instead.
+If the add-on is a fork of another add-on, the name must clearly distinguish it from the original and provide a significant difference in functionality and/or code.
+Submission Guidelines
+Add-ons must function only as described, and should provide an appealing user experience. Based on the description of the add-on, a user must be able to understand and use the add-on’s features without requiring expert knowledge. Tips on how to create a good user experience for your add-on can be found here.
+During review, the add-on undergoes basic testing in addition to code review. To facilitate the functional testing, the add-on author must provide testing information and, if applicable, testing credentials required to use the add-on if an account is needed for any part of the add-on’s functionality.
+Issues brought up during review must be addressed using best efforts. If corrections have been requested, the new version should not contain unrelated changes, as this complicates the review process and can lead to further rejections.
+Source Code Submission
+Add-ons may contain transpiled, minified or otherwise machine-generated code, but Mozilla needs to review a copy of the human-readable source code. The author must provide this information to Mozilla during submission along with instructions on how to reproduce the build.
+The provided source code will be reviewed by an administrator and will not be redistributed in any way. The code will only be used for the purpose of reviewing the add-on. Failure to provide this information will result in rejection.
+Add-ons are not allowed to contain obfuscated code, nor code that hides the purpose of the functionality involved. If external resources are used in combination with add-on code, the functionality of the code must not be obscured. To the contrary, minification of code with the intent to reduce file size is permitted.
+Please read our Source Code Submission guidelines to avoid unexpected rejections or blocks.
+Development Practices
+In general, developers are free to maintain their add-ons in the manner they choose. However, in order to maintain appropriate data security and effectively review code, we do have certain technical requirements that all add-ons must meet. In particular, potentially dangerous APIs may only be used in ways that are demonstrably safe, and code within add-ons that cannot be verified as behaving safely and correctly may need to be refactored.
+While any code, method or practice in a submitted add-on is subject to review and rejection, the following requirements are of particular importance:
+Add-ons must only request those permissions that are necessary for function
+Add-ons must be self-contained and not load remote code for execution
+Add-ons must not load or redirect to a remote new tab page. The new tab page must be contained within the add-on.
+Add-ons must use encrypted channels for sending sensitive user data
+Add-ons should avoid including duplicate or unnecessary files
+Add-on code must be written in a way that is reviewable and understandable. Reviewers may ask you to refactor parts of the code if it is not reviewable.
+Add-ons must not negatively impact the performance or stability of Firefox.
+Only release versions of third-party libraries and/or frameworks may be included with an add-on. Modifications to these libraries/frameworks are not permitted.
+Please read our third party library guidelines to avoid unexpected rejections.
+Data Disclosure, Collection and Management
+You must disclose how the add-on collects, uses, stores and shares user data in the privacy policy field on AMO. Mozilla expects that the add-on limits data collection whenever possible, in keeping with Mozilla’s Lean Data Practices and Mozilla’s Data Privacy Principles, and uses the data only for the purpose for which it was originally collected.
+User data includes all information the add-on collects, regardless of the manner. It can be personal data actively provided by the user (such as a name or email address), technical data (such as operating system, build ID, version numbers, crash reports, activation, updates), and interaction or activity data (add-on activity data, visited URLs, console logs), including interactions with Firefox.
+The add-on’s privacy policy must be the full policy text; it cannot be a link to an externally hosted privacy policy. In addition, the privacy policy must:
+be specific and exclusive to the add-on,
+clearly describe the purpose of the data collection,
+set forth the exact data to be collected,
+address the add-on’s particular privacy properties.
+A summary of this information must be included in the add-on’s listing description. Finally, you and your add-on must also comply with all applicable data privacy laws as well as any other laws that may apply to your specific add-on.
+Please refer to our best practices for advice and examples on how to design and implement a data collection consent prompt.
+User Interactions & Technical Data
+The user must be provided a clear way to control this data collection. The control mechanism must be shown at first-run of the add-on.
+Add-ons must only collect information about add-on performance and/or use.
+Search functionality provided or loaded by the add-on must not collect search terms or intercept searches that are going to a third-party search provider.
+If the collection of visited URLs or user search terms is required for the add-on to work, the user must provide affirmative consent (i.e., explicit opt-in from the user) at first-run, since that information can contain personal information.
+Collecting ancillary information (e.g. any data not explicitly required for the add-on’s basic functionality) is prohibited.
+Cookies
+If your add-on installs cookies, this must also be disclosed in the add-on’s privacy policy.
+The add-on privacy policy must clearly express the placing and purposes of the cookie(s). It is highly recommended that you disclose the types of cookies being used.
+The user must be provided an opportunity to refuse the storage of or access to cookies, and must be informed of the consequences of doing so (e.g., without a functional cookie, the add-on may not work).
+Installing cookies that are not explicitly required for the add-on’s functionality is prohibited.
+Personal Data
+If you are collecting any personal information, the user must provide affirmative consent (i.e., explicit opt-in from the user). It must be clear to the user that they give consent to the collection of personal data.
+Collecting ancillary personal information (e.g., any data not explicitly required for the add-on’s basic functionality) is prohibited.
+Any transmission of this type of data must use secure, encrypted connections.
+Additional Privacy Protocols
+Leaking local or user-sensitive information to websites or other processes (e.g., using native messaging) is prohibited.
+If the add-on uses native messaging, the privacy policy must clearly disclose which information is being exchanged with the native application. Data exchanged with the native application must be in accordance with our No Surprises policy.
+HTTPS must be used for security and privacy-sensitive operations such as transmitting passwords or tokens.
+Browsing data from private browsing sessions must not be stored.
+Identity information must not be leaked to web content in private browsing sessions.
+Security Vulnerabilities
+Because add-ons run in an environment with elevated privileges relative to ordinary web pages, they present a very serious set of security considerations. They have the potential to open security holes not only in the add-ons themselves, but also in the browser, in web pages, and, in particularly distressing cases, the entire system the browser is running on.
+As a result, we take our security policies very seriously and apply them to all add-ons, whether hosted on AMO or not. We expect all add-ons to be secure and well-maintained in handling both their own data and their user’s data. They must also securely manage all of their interactions with the web, the browser and the operating system.
+Monetization
+Monetization mechanisms must comply with the policies in the Data Disclosure, Collection and Management section. In particular, an add-on must be accompanied with a clear user control mechanism (and opt-in for personal data) presented at first-run of the add-on. Collecting ancillary information for monetization is prohibited.
+An add-on injecting advertising into web page content must clearly identify the injected content as originating from the add-on.
+The inclusion of any cryptocurrency miners or similar functionality in an add-on is prohibited.
+Modifying web content or facilitating redirects to include affiliate promotion tags is not permitted. Conversely, the use of affiliate promotion in user interface elements clearly identified as belonging to the add-on are acceptable.
+Compliance & Blocking
+Mozilla may reject or block affected versions or entire add-ons that don’t meet these policies, depending on the extent of their non-compliance.
+Mozilla may attempt to contact the add-on’s developer(s) and provide a reasonable time frame for the problems to be corrected before a block is deployed. If an add-on appears to intentionally violate the policies or its developers have proven unreachable, unresponsive, or uncooperative, or in case of repeat violations, blocking may be immediate.
+Mozilla reserves the right to block or delete any developer’s account on addons.mozilla.org, thereby preventing further use of the service.
+For information about how rejection and blocking affects users, see What does review rejection mean to users?
+Tags:
+add-ons
+review-policy Contributors: kewisch rebloor wagnerand atsay jvillalobos wbamberg kmaglione Last update: wagnerand Dec 02, 2019
+Up Next
+PublishFirefox Add-on Distribution Agreement
+PublishAdd-ons Blocking Process
+PublishThird Party Library Usage
+Documentation Topics
+Develop
+Publish
+Manage
+Enterprise
+Themes
+Connect With Us
+Twitter
+For developers:
+@mozamo
+For end users:
+@rockyourfirefox
+More
+Matrix
+Community forum
+Extensions Developer Newsletter
+Stay up-to-date on news and events for Firefox extension developers.
+Email Address
+I’m okay with Mozilla handling my info as explained in this Privacy Notice.
+Sign up
+Thanks! Please check your inbox to confirm your subscription.
+If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.

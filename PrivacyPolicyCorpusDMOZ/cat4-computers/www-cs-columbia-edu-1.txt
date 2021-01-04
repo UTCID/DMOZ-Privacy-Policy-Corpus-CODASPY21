@@ -1,0 +1,354 @@
+https://www.cs.columbia.edu/procedures-and-policies-adjunct-teaching-harassment-cyberbullying-purchasing/
+Skip to content
+Toggle navigation
+General
+Academic Advising
+Computing Research Facilities (CRF)
+Directory
+Other
+Photo Gallery
+Purchasing
+Technical Reports
+Travel and Business Expense Reimbursement
+Procedures and Policies
+Academics
+BS/BA Programs
+MS Program
+PhD Program
+CS@CU MS Bridge Program in Computer Science
+Computer Engineering Program
+Dual MS in Journalism and Computer Science Program
+Doctor of Engineering Science (DES)
+Apply for MS and PhD Programs
+Admissions Information
+Courses
+Prospective Students FAQ
+Faculty
+Faculty
+Affiliates
+Faculty Achievements
+Adjunct Teaching
+Procedures and Policies
+News & Events
+Department Lectures
+Department Events
+News
+Newsletters
+Press Mentions
+Advising & Student Services
+Academic Advising
+Student Services Staff
+Student Life
+Student Services Events
+Community Service
+Student Organizations
+Careers
+Life After CS@CU
+Affiliated Programs
+Computer Engineering
+Data Science Institute
+Journalism & Computer Science
+Entrepreneurship
+Research Areas
+Machine Learning
+Vision & Robotics
+Networking
+Computer Engineering
+Software Systems
+Computational Biology
+Security & Privacy
+NLP & Speech
+Theory
+Graphics & User Interfaces
+Theory
+Graphics & User Interfaces
+NLP &Speech
+Security &Privacy
+ComputationalBiology
+SoftwareSystems
+ComputerEngineering
+Networking
+Vision &Robotics
+MachineLearning
+ArtificialIntelligence
+Academic honestyAdjunct teaching
+CyberbullyingReporting discrimination, harassment, sexual assault
+Purchasing
+Travel and business expense reimbursement
+Intra-department procedures (A-Z)
+Academic honesty
+As a professor, you should discuss general and your own additional academic integrity policy in the first class. This will provide an opportunity for students to ask questions and for you to clarify expectations. If you have questions, contact the Associate Director of Academic Administration and Student Services or your faculty sponsor.
+When you suspect an academic honesty policy violation, contact the chair of the CS Academic Committee, Adam Cannon.
+The Department of Computer Science Policies and Procedures Regarding Academic Honesty is available here. More information on the SEAS academic integrity policy can be found here.
+Adjunct teaching
+A primer on terminology and systems
+UNI – A unique Columbia-wide ID that is based on your initials and random numbers and used to access Courseworks, salary payment, ID card, swipe access, etc.
+Courseworks (also called Canvas) – Columbia University’s online course system for managing course materials, class meetings, assignments, and student collaborations. This single website, which you access with your UNI, is accessible to both faculty and students.
+Computing Research Facilities (CRF) – The computer operations staff for the CS Department. From the CRF site, you can obtain VPN access, get swipe access into CS offices and rooms, and request help with software and hardware issues.
+MICE – The CS Department’s internal system for sharing information and record keeping.
+Piazza – A private-company Web tool for communicating with students. Though more limited than Courseworks–Piazza does not post homework or test grades, for example–some professors prefer for it for communicating with students, who can post questions anonymously and where discussions can be seen by all students.
+Student Services Online (SSOL) – A web-based, multi-purpose tool used mostly by students to register for classes, view bills, and update address. Adjuncts use SSOL to check who is registered in their classes and currently on a wait list and also use it to post grades at the end of the class.
+Getting started
+Those looking to teach as an adjunct professor within Columbia’s Computer Science Department must first be recommended to the Department Chair by a faculty member who will serve as a sponsor.
+Adjuncts who have been notified by the department chair or a sponsor to apply must follow the steps outlined below. Allow at least one month for the employment process; if a J1 Visa is required, allow at least three months.
+Send your CV to Maria Joanta. After reviewing it, she will direct you to complete the Instructor Online Form, which prompts you for the name of your sponsor, the name of the class, the class size, and other information, including a preferred time and day of the week for holding the class. Before doing so, it may be helpful to check the academic calendar (be sure to select the School of Engineering and Applied Science and the correct semester).
+Upon completion of the form, Maria will contact you for your date of birth and use this information to assign you a UNI.
+Once your UNI has been assigned, activate it from the UNI activation screen. This sets up your Columbia email, which follows the form <your-uni>@columbia.edu. Email aliases can be obtained to make your email more user-friendly.
+Contact Justin Merced at the Office of the University Registrar (1 212 854 3238 or jmm2238@columbia.edu) to have your UNI posted to the university-wide Student Information Systems and to request a classroom (you will again be asked for date of birth).
+Notify Stephen Edwards that you’ve been approved and have a UNI and he will confirm the class time.
+The class, once registered, will be listed in the SSOL class scheduling system, which you can access using your UNI to find out the classroom. Note that classes are also listed, with some delay possible, in Courseworks and also in Piazza.
+Once the class is registered and posted, Maria Joanta will incorporate the class title, the start and end times, and the class caps into the formal offer letter. The offer letter will be sent out by Maria Joanta or Teresa Wells along with other hiring documents. Sign and return as promptly as you can.
+Meanwhile, obtain the necessary access and accounts and post textbook information as follows:
+Get a Columbia ID card at 210 Kent. You will need to bring a photo ID.
+Apply for a CS account using the Account creation/extension form. (Also available from the CS department website by opening the General menu->Computing ->CS accounts page ->Apply for a CS account.)
+Enter information as prompted, and fill in the following as shown here:
+Account type: AdjunctsSponsor: Choose the appropriate faculty member from the dropdown listuser-ID: [make up your own unique user-ID]password: [read section below]Payment: others (NO PAYMENT). Please do not pay for your account.
+Password/RSA keyImportant. Choose a password that is longer than 10 chars with a combination of upper-case, lower-case, numbers, and special chars. Do not include dictionary words. Columbia does not have a firewall, making your password the only protection on your account. Better yet, use public/private key instead of password.
+When your CS account is created, a MICE account is also created for you (the password will be the same as the CS account password).
+You will also be given swipe access to all entrance doors of the CS Department (CSB and CEPSR). If you have problems with access to these sites, contact Public Safety. Separately you will need to apply for swipe access to individual classrooms and labs as described in the next step. For a key to the Adjunct Office (CEPSR 7LW1A), contact Elias Tesfaye.
+Set up Duo multi-factor authentication for logging into MICE. Visit this website and log in with your Columbia UNI. (For more information on installing and using Duo, go here.)
+Apply for swipe access for individual offices and labs. Log into MICE and under Facilities, select the option for Card Access –> Request. If you have any problems, contact Elias Tesfaye.
+Apply for VPN remote access (optional). From the CS website, open the General menu and select Computing. The option for VPN is listed under General Information.
+Post textbook information online, allowing enough time so students can get the textbooks needed for the course. To do so, log into Courseworks, which provides a tool for this purpose.
+Note that Federal law requires that the university provide students with information on the textbooks their instructors expect or recommend that they purchase.
+Apply for teaching (or course) assistants for your class. Log into MICE, and from the Students menu, select IA requests to see students applying to be TAs. Select the student you want. If you need help, contact the TA coordinator (Tal Malkin). Classes with at least 25 students will be assigned a teaching assistant; smaller classes can share an assistant.
+Grading
+Final grades are uploaded to SSOL. All grades must be official (no interim grades, for example) and must conform to the grading schema of the student’s school, which can differ slightly. SEAS for example allows Pass/D/Fail or P/F while other undergraduate schools do not. For more on grading, see the Web Grading Guide or refer to the legend on the SSOL Web Grading page.
+Note that once grades are formally submitted, it is not easy to change them.
+You can enter grades directly into SSOL, or you can upload them in one of two ways.
+Directly from the grade sheet maintained in Courseworks
+Uploading grades directly from within Courseworks/Canvas assigns equal weight to all exams and homework assignments. To assign varying weights, you must explicitly set the number of points in each case.
+1. Log into SSOL with your UNI and select Web Grading (under Faculty Services) near the bottom of the option list.2. Click “Upload File.”3. Click “Import Grades from Courseworks” for the course you are grading.
+Be sure the numerical grades in Courseworks are translated to letter grades as intended. It is very difficult to change a grade once it is submitted.
+Upload your own file
+1. Log into SSOL with your UNI and select Web Grading (under Faculty Services) near the bottom of the option list.2. Click “Upload File” and follow the instructions provided.
+Frequently asked questions
+For answers to questions not listed here, contact Dan Rubenstein, who is faculty liaison to adjuncts.
+Where is my office?Adjunct professors have an Adjunct Office (CEPSR 7LW1A). For a key, contact Elias Tesfaye.
+Is parking available on the days I teach?Yes. Contact Maria Joanta or Teresa Wells.
+How do I find out where finals for my class will be held?Depending on scheduling, finals are sometimes held in classrooms other than the ones the class is being held. Classroom assignments are listed in SSOL. Log in with your UNI and locate your class by name (use the alphabetical letters at the top of the screen to list classes).
+When, how, and how much will I be paid?Salary is payable at the end of month and is divided up into equal monthly installments; it is either directly transmitted to the bank via the direct deposit form or via a check delivered to the Department. The amount is dependent on many factors, including the size of the class. Contact Maria Joanta for more information.
+How do I set up Direct Deposit?Access the my.columbia.edu account with your UNI and UNI password to set up the direct deposit through that site. Contact Maria Joanta if you have questions. Direct deposit is highly recommended as check pickup is available only on Wednesdays (10am – 4pm) and Fridays (1pm – 4pm).
+Who do I contact for administrative/payroll questions not covered here?Maria Joanta
+How do I cancel a classes in case of an emergency or inclement weather?Send email to students that class will be rescheduled for another time or made up by extending regular class by 15 minutes.
+What if I have questions about computing services?Contact CRF.
+How do I see who is registered for my class?Log into either SSOL or Courseworks with your UNI. Note that SSOL updates more quickly than Courseworks.
+I need an assistant or to change one I have. Who should I contact?Classes with at least 25 students will be assigned a teaching assistant. Smaller classes may share a teaching assistant with another class. The TA coordinator coordinates TA assignments based on current enrollment information and history.
+What is the Change of Program Period?It is the first two weeks of the semester during which students can add/drop courses without financial penalty. Expect to see more students attending your class than what the roster says.
+I have a waiting list for my course in SSOL, but a student asked me to sign an add/drop form. Should I sign?If your class has a waiting list in SSOL, do NOT sign the add/drop form without discussing it with Student Services: advising@cs.columbia.edu. By signing the add/drop form, you are allowing the student to bypass the waiting period.
+Note that the wait list operates in two modes: by default automatic, where people from the wait list get automatically added to the class as others drop, and in manual mode, where you explicitly promote selected people from the wait list. The manual mode is often used to give priority to people about to graduate.
+The last day to drop classes is listed under Upcoming Events on the CS website and on the academic calendar.
+Students say they cannot register for the course as the course is restricted/blocked. What does this mean?Some courses are reserved for CS students only, and that is the most likely reason those students cannot register for the course. Contact Student Services for more info.
+I have serious issues with the assigned classroom. What can I do?Contact the registrar.
+A student is requesting to drop a class after the drop date.Registration issues such as this (or whether to allow an incomplete) are under the control of the dean of the individual school. Contact the relevant individual.
+Should I allow students to audit the class?It is up to you. To discuss the implications, contact Student Services.
+Who do I contact with questions about different grading options (e.g., difference between CP/IN)?Student Services
+I have general questions about academic policy. Who should I contact?Student Services
+Academic dishonesty
+It is highly recommended that you discuss general and your own additional academic integrity policy in the first class. This will provide an opportunity for students to ask questions and for you to clarify expectations. If you have questions, contact the Associate Director of Academic Administration and Student Services or your faculty sponsor.
+When you suspect an academic honesty policy violation, contact the chair of the CS Academic Committee, Jae Woo Lee.
+Adjunct teaching last updated 07/05/2017
+Cyberbullying
+Cyberbullying is any communication received via social media or email that seeks to intimidate, harass, threaten, or otherwise do harm. It also encompasses transmitting materials in violation of the University’s sexual harassment, hostile workplace or protection of minors policies, or that violates the policies of external networks and resources.
+Report cyberbullying to the CUIT Service Desk (https://cuit.columbia.edu/service-desk), either by calling 212-854-1919 during daytime hours, visiting the Walk-in Center at 202 Philosophy Hall (daytime hours only), or submitting a ticket at https://cuit.columbia.edu/service-desk.
+CUIT will forward cyberbullying complaints to the Director of Computer Security in the CISO office. The Director, working with Public Safety, OGC and Student Conduct and Community Standards, will determine if the offensive material exists on a University resources.
+Material stored on external systems (e.g., Facebook, LinkedIn, Snap Chat, etc.) cannot be directly mitigated by Columbia.
+Other departments may be involved depending on the target of the bullying.
+Updated 02/06/2018
+Reporting discrimination, harassment, sexual assault
+Report incidents to the University’s Office of Equal Opportunity and Affirmative Action (EOAA) at http://eoaa.columbia.edu/eoaa-policies-and-procedures.
+The EOAA has overall responsibility for the University’s Employee Policy and Procedures on Discrimination, Harassment, Sexual Assault, Domestic Violence, Dating Violence and Stalking.
+The Policy (available here) specifies prohibited conduct, and delineates other duties and obligations of University employees and other members of the University community, and describes reporting options and available resources, including the availability of accommodations and interim measures. The Procedure section spells out the investigation and disciplinary process for matters in which employees or third parties are accused of misconduct and includes supplemental procedures for certain types of claims.  Following the Procedures are additional sections with definitions of key terms, a list of resources for those affected by conduct prohibited by this Policy, and a list of applicable discrimination laws and contact information.
+See also the Notice of Nondiscrimination.
+Office of Equal Opportunity and Affirmative Action103 Low Library, MC 4333212-854-5511http://eoaa.columbia.edu/
+Updated 02/06/2018
+Purchasing
+Please do not use the below to submit expenses. It is only to request a new purchase. For expenses, please go here.
+All purchasing requests must be sent by email to purchasing@cs.columbia.edu. Please attach quotes and/or links to the email. We also need the project to charge and you will receive a ticket number.
+You can find the CU preferred vendors list here.
+Faculty seeking teaching support should use the Teaching Academic Support Form.
+Travel and business expense reimbursement
+Columbia University students, employees, and visitors can be reimbursed for valid business- and research-related expenses. Prior approval must be obtained from the professor or department that is providing funding.
+Non-U.S. citizens need to confirm their reimbursement eligibility here
+Please use the below links for general guidelines, forms, questions and online submission. You may also submit documentation in person to our Financial Assistants in room 450 Computer Science Building.
+Guidelines
+Which reimbursement form to use?
+Columbia University students and employees use the Reimbursement Form (xls)
+Non-employees and visitors use the Non-Employee Expense Work-Sheet (xls)
+Are my reimbursement expenses taxable?
+No, you will not be charged tax. Columbia University requires everyone to submit a W-8 or W-9 form along with their first reimbursement. This information is only used to process your payment. However, reimbursements submitted past 120 days from the date of the last expense are considered taxable income and may be taxed.
+Which form, W-8 or W-9?
+U.S. citizens complete a W-9 form (pdf)
+Non-U.S. citizens complete a W-8 form (pdf)
+General Guidelines
+Provide account number & professor name, your UNI, valid mailing address
+Indicate the purpose, why it is considered a business or research expense
+Always provide conference flyer or emails to indicate business purpose
+Group and submit all expenses related to one event as one reimbursement
+Separate each expense onto its own line- one expense per line item
+Submit reimbursement within 120 days from date of the last expense
+Receipts
+Save all receipts related to business and travel expenses
+All receipts must be taped to an 8.5 × 11 piece of paper- NO staples
+Number each receipt to match the expense number on the reimbursement form
+Provide an invoice PLUS proof of payment. Just an invoice is NOT acceptable
+Proof of payment (receipt) requirements:
+Name of company items were purchased from
+Date of charge
+Amount paid to company
+Name of items purchased (itemized receipt)
+Credit card number (xxxx-xxxx-xxxx-1234)
+Name of payee (your name)
+A credit card or bank statement or a receipt will usually have all of the required information. If item was paid for with cash, please provide the receipt given to you and indicate you paid cash.
+Segregated or Unsegregated?
+Most of your items will be “Unsegregated” and should be placed in this column. Place items in “Segregated” column if they are alcohol, entertainment, flowers, gifts or other charges a grant or contract would deem unallowable.
+Meals
+List each meal per line item, and indicate which meal it is (breakfast, lunch or dinner).
+Do not group meals together as one line item. Please separate each meal type per expense line.
+Limit: Breakfast – $25, Lunch- $35, Dinner- $50 (BEFORE tax and tip)
+Names of people eating if under ten people (over ten give number of people)
+Indicate if alcohol was purchased and how much money it cost
+Expenses for business meals involving external parties should not exceed $100 per person, excluding tax or tip. Such events include fundraising, recruitment or speaking engagements that are hosted and paid for by a University employee and attended by business colleagues, donors, students, or prospective employees, which result in a business benefit to the University.
+Provide itemized receipt for all meals, not just credit card receipt
+Travel
+Always take the cheapest flight/train/car/hotel possible, no first or business class
+Taxi or train fare needs to indicate where you went, purpose
+Flight/hotel dates need to correspond to conference dates, no extended stays
+Itemized hotel receipt needs to be obtained from the hotel upon check-out
+International flights: ALWAYS select a US Airline if charging a Gov’t grant
+Hotel limits: $350/night in the US, $400/night in international locations
+Car Rental
+Always try to rent Hertz and DO NOT purchase the insurance. Columbia University has their own rate with Hertz and insurance is covered. Insurance will be reimbursed for all other vendors, or if you are using Hertz internationally. Gas can be reimbursed when using a rental car.
+Personal Vehicle
+Instead of a car rental, you may want to use your own personal vehicle. Reimbursement rates are based on total miles traveled and you cannot be reimbursed the cost of gas when using this method. The personal vehicle mileage rate changes each year, hovering around $.555/mile. For the current rate, please check with our Financial Assistants. In addition:
+Provide an online printed map indicating the total mileage between your home and conference/trip destination
+Place the total number of miles on the first page of the reimbursement in the “Personal Vehicle Mileage” section
+Write the total amount as a new expense number with the business purpose, “Personal Vehicle Mileage”
+Foreign Currency Conversion
+Expense Reports can only be submitted in US dollars. Receipts of foreign currency must be accompanied by a translation of text and their conversions.For the conversion, you can find the appropriate rates by using www.oanda.com. Please print and submit the conversion rates for the travel dates used. You can either print and use the conversion rate for each expense date, or take the conversion rate average of the first date and the last date of the trip and use that number for all expenses within this date range. Please use the “Avg_Rate” or “Daily_Rate” tab on the Reimbursement Form accordingly.
+Missing Receipts
+Receipts for all items over $25 are required. If you are missing a receipt, please fill out the [Missing Receipt Worksheet]. Include the item number from the Reimbursement Form on the Missing Receipts Worksheet, and sign the document before submission.
+Official Columbia University Policy
+The complete travel and business expense reimbursement policy for Columbia University can be downloaded here:
+Travel Expenses (pdf)
+Business Expenses (pdf)
+Forms
+First-time getting reimbursed? Please submit the following:
+U.S. citizens complete a W-9 form (pdf)
+Non-U.S. citizens complete a W-8 form (pdf)
+Reimbursement Forms:
+Columbia University students and employees use the Reimbursement Form (xls)
+Non-employees and visitors use the Non-Employee Expense Work-Sheet (xls)
+For expenses over $25 without receipts, please complete the Missing Receipt Worksheet (xls)
+Booking Flights and Hotels
+If you are paying for the flight or hotel yourself, please follow these general rules:
+Always take the cheapest flight/train/car/hotel possible, no first or business class
+Flight/hotel dates need to correspond to conference dates, no extended stays
+Itemized hotel receipt needs to be obtained from the hotel upon check-out
+International flights: ALWAYS select a US Airline if charging a Gov’t grant
+Hotel limits: $350/night in the US, $400/night in international locations
+Other, miscellaneous procedures
+Access, swipe cards
+Key card access to the department requires filling out a web form on MICE (see ‘Access’ menu). Your advisor, sponsor, or student services staff will be notified by email and can then approve the request. You will receive an email when the request has been approved. After that, it can take the University access control office several days to enter your information into the system.
+If an existing access level does not work, contact Controlled Access at 854-8500.Updated 12/12/12
+Copying, scanning, faxing
+The department has three high-volume copiers, one is in the CS building (4th floor), and two in CEPSR (6th &7th floors). Copier codes for classes and individuals are assigned by the department. For codes and to report problems, send email to facilities@cs.columbia.edu.
+The fax machine (fax no: 9+1 212-666-0140) is located in the CS main office. The staff at the front desk will notify fax recipients by email. The fax cover sheet can be found in the front office.
+It is recommended that you obtain a personal fax number for incoming faxes. For example, Efax offers such a service.Updated 8/3/16
+Copyright
+This FAQ discusses copyright issues for projects and technical reports.Updated 10/17/08
+Courier (FedEx, DHL, UPS & USPS)
+The front office staff in 450 Computer Science Building (main office) receive courier and package deliveries such as FedEx, DHL,UPS and USPS. You will be notified by email when a package arrives.
+For outgoing packages, the department has accounts with FedEx. Outgoing courier packages can be deposited at the front office or in the FedEx box outside of Low Library.Updated 8/3/16
+Dining cards (Faculty House)
+The dining card for the Faculty House restaurant can be picked up from Rosemary Addarich. If she is not available, check with Elias Tesfaye as he may have some cards available. Return it immediately with a receipt after enjoying your meal, as the number of cards is limited. Unless the meal was for a faculty candidate or distinguished visitor, you also need to provide a project number to be charged.Updated 8/3/16
+Funding Issues
+For GRA or TA funding issues, contact Maria Joanta (maria.joanta@columbia.edu).Updated 9/28/17
+Housing
+Full-time, compensated Officers of Instruction and Research, including those with visiting appointments, full-time Officers of the libraries, and Senior Officers of Administration (Grades 14 and above) are eligible to apply for university housing. Visit http://www.columbia.edu/cu/ire/ for more information, or contact Columbia Human Resources at (212)870-3074.
+Incoming students or current students should contact SEAS Graduate Student Services for housing inquiries. The general SEAS office number is: (212)854-6438.
+Craigslist is a good off-campus housing resource, as is OCHA.
+Updated 7/08
+Mailboxes
+Class mailbox for assignments are in the TA room. There are 16 (8 large with drop slots, 4 large without drop slots, 4 small without drop slots). The TA Coordinator can assign boxes and keeps the keys. tacoord@cs.columbia.eduUpdated 2/17/12
+Reserving rooms and other spaces
+To reserve the department’s two conference rooms (620 CEPSR and CS Conference room) or 477 CSB, which is a large open meeting area, go through through MICE (Rooms/Reserve a meeting room).
+For larger events, you can reserve the Davis Auditorium and the Interschool Lab (7th floor CEPSR) through the Dean’s office, using the on-line reservation form at the SEAS web site (under quick links).
+The lounge and court yard, which are normally open to students, faculty, staff, may also be used for events hosted by the department. Reserve the lounge and courtyard in MICE under Rooms (Reserve a room).Updated 8/3/16
+Website (updates, new info, request articles)
+For changes in Undergraduate and MS program descriptions and in PhD course descriptions, contact Clarissa Pena.To report news about a professor or project, send an email to visibility@cs.columbia.edu.Updated 02/15/2018
+Workplace issues
+The University Ombuds Office offers a safe place for any member of the Columbia community to discuss workplace issues, interpersonal conflict, academic concerns, bureaucratic runarounds, and many other problems. This office promises to keep discussions confidential and it is not part of any formal University process.Updated 9/2/13
+COVID-19 Response
+The Columbia Engineering community has come together to combat the coronavirus pandemic on multiple fronts. In close collabo-ration with the Columbia University Irving Medical Center, we’re leveraging our expertise and innovation to address short term medical needs and long term societal impacts.
+Learn more about the COVID-19 Response
+Upcoming Events
+Dec
+11
+NLP - Faisal Ladhak
+Friday 12:00 pm
+Online lecture
+Faisal Ladhak, Columbia University
+Dec
+14
+Demystifying the Dissertation - Yuchi Tian
+Demystifying the Dissertation: PhD Research Discussions
+Monday 11:00 am
+https://columbiauniversity.zoom.us/s/91230045928?pwd=cmtqcjQrdjh5VHdNcEp3bWtSNWRCQT09
+Yuchi Tian
+Dec
+14
+CS@CU MS Bridge Info Session
+Monday 3:00 pm
+Online Event
+Prof. Tony Dear, https://www.cs.columbia.edu/ms-bridge/
+Dec
+15
+Demystifying the PhD - Elsbeth Turcan
+Tuesday 1:00 pm
+https://columbiauniversity.zoom.us/s/98163303253?pwd=OXRYdjRSd3NVSmpTeXppdm02SGFJZz09#success
+Elsbeth Turcan
+View All >>
+Around the Department
+In the News
+Press Mentions
+© Columbia
+Webmaster
+Privacy Policy
+This website uses cookies and similar tools and technologies to improve your experience and to help us understand how you use our site. By continuing to use this website, you consent to Columbia University's use of cookies and similar technologies. For more information about Columbia University website cookie policy, please visit our Cookie PolicyOk
+Dean Boyce's statement on amicus brief filed by President Bollinger
+President Bollinger announced that Columbia University along with many other academic institutions (sixteen, including all Ivy League universities) filed an amicus brief in the U.S. District Court for the Eastern District of New York challenging the Executive Order regarding immigrants from seven designated countries and refugees. Among other things, the brief asserts that “safety and security concerns can be addressed in a manner that is consistent with the values America has always stood for, including the free flow of ideas and people across borders and the welcoming of immigrants to our universities.”
+This recent action provides a moment for us to collectively reflect on our community within Columbia Engineering and the importance of our commitment to maintaining an open and welcoming community for all students, faculty, researchers and administrative staff. As a School of Engineering and Applied Science, we are fortunate to attract students and faculty from diverse backgrounds, from across the country, and from around the world. It is a great benefit to be able to gather engineers and scientists of so many different perspectives and talents – all with a commitment to learning, a focus on pushing the frontiers of knowledge and discovery, and with a passion for translating our work to impact humanity.
+I am proud of our community, and wish to take this opportunity to reinforce our collective commitment to maintaining an open and collegial environment. We are fortunate to have the privilege to learn from one another, and to study, work, and live together in such a dynamic and vibrant place as Columbia.
+Sincerely,
+Mary C. Boyce
+Dean of Engineering
+Morris A. and Alma Schapiro Professor
+{{title}}
+{{month}} {{#doyear}}{{year}}{{/doyear}}
+{{day}}
+{{start}} - {{end}}
+{{#location}}Location: {{location}}{{/location}}
+{{#speaker}}Speaker: {{{speaker}}}{{#organization}}, {{organization}}{{/organization}}{{/speaker}}
+{{#series}}Series: {{series}}{{/series}}
+{{#nlToBr}}{{{abstract}}}{{/nlToBr}}
+{{#speaker}}{{#biography}}
+Bio
+{{{biography}}}{{/biography}}{{/speaker}}
+Add to GMail
+Close
+{{title}} {{fullname}}
+{{#wwwLink}}{{personal_uri}}{{/wwwLink}} {{#cvLink}}{{cv_uri}}{{/cvLink}} {{#scholarLink}}{{scholar_uri}}{{/scholarLink}}
+{{longtitle}}
+Interests: {{interests}}
+{{#addRoom}}{{room}}{{/addRoom}}
+{{#addPhone}}{{phone}}{{/addPhone}}
+{{{bio2}}}
+{{#showCourses}}
+Courses This Semester
+{{#courses}}
+{{title}} ({{dept}} {{prefix}}{{course_num}}-{{section}})
+{{/courses}}
+{{/showCourses}}
+{{#showBlogs}}{{{blog_posts}}}{{/showBlogs}}
+Close

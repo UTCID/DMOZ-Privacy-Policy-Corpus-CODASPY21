@@ -1,0 +1,22 @@
+https://learning.oreilly.com/library/view/web-security-privacy/0596000456/ch13s03.html
+Skip to main content
+Web Security, Privacy & Commerce, 2nd Edition by
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial
+Flash and ShockwaveMacromedia’s Flash and Shockwave plug-ins offer yet another form of rich media
+for many web designers. Both of these systems are designed to allow
+web designers to create complex animations that can interact with the
+user. Programs written in Flash and Shockwave can display graphics,
+read the mouse, have the user fill out forms, and control the web
+browser.Conceptually, Flash and Shockwave are similar to Java in that
+these systems use bytecode that is downloaded from the web site to the
+computer and run with a special plug-in or “player.” Their security is
+supposed to come from the fact that there is a limited repertoire of
+commands available to Flash and Shockwave programs. Unfortunately, the
+security is somewhat compromised by the lack of peer review for these
+proprietary products.Consider the
+Macromedia Shockwave plug-in. In January 1997, Simson learned that the Shockwave plug-in contained instructions for reading and writing directly to the filesystems of the computer on which the web browser is running. This would seem to be a security problem. So Simson contacted Macromedia, spoke with an engineer, and was told that the Shockwave plug-in could only read and write to files stored in a particular directory in the Shockwave folder. The engineer said that Macromedia had been very careful to ensure that the plug-in could read and write to no other files on the system. The engineer further said that there was no way to use the system to store executable files. ...
+Get Web Security, Privacy & Commerce, 2nd Edition now with O’Reilly online learning.
+O’Reilly members experience live online training, plus books, videos, and digital content from 200+ publishers.
+Start your free trial

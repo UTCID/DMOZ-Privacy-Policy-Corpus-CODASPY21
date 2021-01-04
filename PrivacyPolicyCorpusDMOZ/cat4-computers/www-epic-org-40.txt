@@ -1,0 +1,428 @@
+http://www.epic.org/privacy/surveillance/spotlight/1105/
+Spotlight on Surveillance
+November
+2005:
+Facial Recognition Systems Have an Ugly Effect on Personal Privacy
+The federal government is spending an increasing amount of
+money on surveillance technology and programs at the expense of other projects.
+EPIC's "Spotlight on Surveillance" project scrutinizes these surveillance
+programs. For more information, see previous
+Spotlights on Surveillance.1
+This
+month, Spotlight focuses upon the government’s use of facial recognition
+systems.2 The Departments
+of State, Energy, Justice and Defense have spent at least $47 million on such
+systems.3 In
+Fiscal Year 2006, the federal government plans to add facial recognition checks
+to all visa applications, which already include fingerprint biometrics.4 This
+is despite the Government Accountability Office’s estimate that incorporating
+biometric systems into visas would cost from $1.3 billion to $2.9 billion for
+startup, and $700 million to $1.5 billion for annual operating costs.5 Federal
+funds have been used by cities and states to buy facial recognition devices
+for motor vehicle and police departments.6 New
+U.S. passports and national identification cards created under the REAL ID Act
+of 2005 will both include digital photographs that can be linked to facial recognition
+systems.7 However, several
+tests, including those conducted by the National Institute for Standards and
+Technology (NIST) and the Department of Defense, show that facial recognition
+systems can be easily befuddled by uncooperative subjects and changes in the
+environment, such as positioning or lighting.8 Such
+facial recognition systems create significant privacy risks because the technique
+is surreptitious, the prospects for extensive profiling are clear, and there
+are no laws that currently regulate these systems to prevent abuse.
+Face
+recognition technology vendor Identix admits that when
+there
+is an angle difference between images "[f]rom 15 to
+35
+degrees, the face recognition discrimination power decreases,"
+and "[a]ngled
+faces beyond 35 degrees do not match well to
+frontal faces
+with" its current technology. See Identix's
+FAQs
+about facial recognition (pdf).
+Source: http://www.identix.com/
+In simplified terms, a facial recognition system compares a digital pattern
+(a computerized estimate) of the face of a person walking down the
+street or standing in a crowd to images stored in databases. Changes in
+the environment, such as positioning, lighting and shadows, can affect biometric
+data collection.9 Changes
+in facial expression, angle of head to camera, hairstyle, and beards
+are particularly effective at confounding facial recognition systems.10 In
+one test, the Government Accountability Office found that a person “moving
+his head slightly left and right also fooled the system.”11 The
+Defense Department’s face recognition technology tests found that
+a 45-degree difference in position between the current and database
+images renders the technology ineffective, and a 15-degree difference
+is all that is needed to adversely affect the facial recognition technology.12
+In
+Congressional testimony, EPIC Executive Director Marc Rotenberg said
+the effectiveness of a system of biometric identification would be determined
+by how the system is set up, protected and maintained.13 He
+explained there are several ways to compromise the effectiveness of a biometric
+system – by false identification at enrollment, physical alteration of a
+personal biometric, stewing the sample collection by not cooperating, and hacking
+into of falsifying data.14 Face recognition
+system errors lead to innocent people being falsely matched to watchlists or
+databases, and suspects being able to pass through the system unrecognized.
+In 2002, NIST conducted a comprehensive study of facial recognition systems.
+NIST found that the recognition rate for faces captured in uncontrolled
+environments, such as outdoors, could be as low as 50%.15 NIST
+also determined that, because of the high failure rates when applied to
+large groups of people, facial recognition was not a viable technology
+for “large-scale identification.”16 Time
+also affects facial recognition systems. The longer the time between the
+original photograph in the database and the new image captured, the less
+likely the facial recognition system will make a correct match.17
+According
+to biometrics technology company Viisage, its
+FaceFINDER system "scans
+crowds of people and matches
+individuals to selected faces previously
+stored in an image
+database," and "[w]ithout the visitor specifically
+being
+requested to look into the camera, the system can be
+deployed
+effectively."
+[click to view full brochure in
+pdf]
+Source: http://viisage.com
+Tampa is one of the U.S. cities that has used facial recognition technology
+in concert with camera surveillance systems to surreptitiously scan
+the public.18 Tampa used a facial
+recognition camera system to scan the faces of people at the Super Bowl
+in 2001, and the police department subsequently used such a system to
+watch people in the Ybor City nightlife district.19 A
+report by the American Civil Liberties Union found that:
+[t]he system
+has never correctly identified a single face in its database of suspects,
+let alone resulted in any arrests … [and its] photographic
+database contains a broader selection of the population that just criminals
+wanted by the police, including such people as those who might have ‘valuable
+intelligence’ for
+the police or who have criminal records.20
+In
+August 2003, Tampa stopped using the system, supplied by Identix, because of
+its failures. “It’s just proven not to have any benefit to us,” said
+a police department spokesman.21
+The mission
+creep of the Tampa system is an example of the privacy risks created by such
+facial recognition systems. What began as system to catch criminals became
+a system to find people who might have information for which
+the police are searching. That is a poor reason to invade the privacy of
+the general public. With such systems, a person can be scanned without her
+knowledge or consent. A person’s “suspect activity” may be
+no more than walking around a popular nightlife area.
+Boston’s Logan Airport ran two separate tests of face recognition
+systems – supplied by Viisage Technology and Identix – in 2002.22 Both
+systems had such high error rates that the airport dropped the technology.23 Facial
+recognition systems also failed tests at airports in Dallas/Fort Worth,
+Fresno, Calif., and Palm Beach County, Fla.24 One
+glaring example of a facial recognition system failure occurred when
+two people swapped passports at an Australia airport as a joke. Their
+deception was not caught by the facial recognition systems.25 Yet
+Australian authorities continue to test the technology, and the “trial” has
+encompassed three years.26
+Despite
+this poor history, facial recognition systems still are being used. The
+Defense Department spent $1.6 million to pay Identix for researching facial
+recognition technology.27 The
+Massachusetts Registry of Motor Vehicles recently spent $1.5 million
+in federal funds for facial recognition systems supplied by Digimarc.28 Virginia
+Beach, Va. used $150,000 in federal funds, plus $50,000 of its own funds, for
+a facial recognition technology-enabled camera surveillance system supplied by
+Identix.29 The Texas Department of Public
+Safety recently contracted with Identix to pay $1.8 million to upgrade its systems
+to include facial recognition capabilities.30 Pinellas
+County, Fla. used $8 million in federal grants to outfit patrol cars, jails and
+an airport with computerized facial recognition systems supplied by Viisage Technology.31 The
+Los Angeles police department is using handheld facial recognition devices supplied
+Neven Visions.32 Once again, a person could
+be merely walking down the street and have a facial recognition device focused
+on her.
+A
+Department of Defense study shows that changes in lighting and
+time lapse between the capture of each image can significantly
+affect
+face recognition performance.
+Source: P. Jonathon Phillips, et al., An Introduction to
+Evaluating
+Biometric Systems, Computer at 61 (Feb. 2000) available
+at
+http://www.frvt.org/DLs/FERET7.pdf and
+http://www.epic.org/privacy/surveillance/spotlight/1105/feret7.pdf
+The two major companies supplying face recognition technology are Massachusetts-based
+Viisage Technology and Minnesota-based Identix. Identix’s technology
+includes: FaceIt SDK, used in developing enrollment, one-to-one and one-to-many
+applications; FaceIt Surveillance SDK, when added on to FaceIt SDK, used
+to develop facial screening applications; FaceIt Quality Assessment SDK;
+ABIS System, a web-based multi-biometric search engine used to conduct
+one-to-many searches; FaceIt ARGUS, facial screening software for real-time
+verification.33 Identix’s facial
+recognition systems have not solved the technology’s failures. The
+company admits that when there is an angle difference “[f]rom 15
+to 35 degrees, the face recognitions discrimination power decreases,” and “[a]ngled
+faces beyond 35 degrees do not match well to frontal faces with” its
+current technology.34
+Viisage’s facial recognition systems include: FaceEXPLORER for large
+digital image database management, FaceTools SDK designed for non-distributed
+environments, FaceFINDER for screening and surveillance, and FacePASS for access
+control.35 Viisage’s
+FaceFINDER system is especially troubling. The facial recognition system “scans
+crowds of people and matches individuals to selected faces previously stored
+in an image database,” and “[w]ithout the visitor specifically being
+requested to look into the camera, the system can be deployed effectively.”36
+Places
+in the U.S. where face recognition
+has been, is being or will be used:
+Federal government:
+Departments of Defense, Energy,
+Homeland Security,
+Justice, State
+California:
+Fresno;
+Los Angeles
+Florida:
+Palm
+Beach County; Pinellas County; Tampa
+Massachusetts:
+Boston;
+state motor vehicle registry
+Texas:
+Dallas/Fort
+Worth
+Virginia:
+Virginia
+Beach
+Source:
+News reports
+Spotlight
+on Surveillance has previously discussed the increasing use of camera surveillance
+systems throughout the United States.37 Cities
+such as Chicago and Baltimore used money from homeland security grants to create
+networks of surveillance cameras to watch over the public in the streets, shopping
+centers, at airports and more.38 However,
+studies have found that such surveillance systems have little effect on crime,
+and that it is more effective to place more officers on the streets and improve
+lighting in high-crime areas.39
+Facial
+recognition software is also increasingly used internationally as well. The
+International Civil Aviation Organization has set standards suggesting fingerprints
+and face recognition technology be incorporated into all passports.40 The
+United Kingdom, which has an extensive camera surveillance network, has added
+face recognition technology to the system.41 London
+has 200,000 cameras, and more than 4 million cameras have been deployed throughout
+the country.42 It is estimated that
+there is one camera for every 14 people, and the average Briton is seen by
+300 cameras per day, according to estimates.43
+The
+State Department has recently issued new standards for U.S. passports that
+mandate digital photographs. It could add these photographs to its current
+large database of digital images, collected during the past 10 years from
+passport applications submitted by 70 million Americans.44 The
+recently passed REAL ID Act mandates digital photographs in its national
+identification cards. Soon, every person who holds a U.S. passport or a REAL
+ID card will have his or her face placed into a database. Internationally, “[t]here
+are 1.2 billion digitized photos of people in databases around the world,” according
+to the president of Identix.45
+Facial
+recognition systems have already been used in one test to scan crowds for
+more than just suspected criminals or terrorists, but also for “such
+people as those who might have ‘valuable intelligence’ for the
+police,” whatever “valuable
+intelligence” may mean. It is a small step for the government to take
+to continually use the networks of facial recognition-enabled surveillance
+cameras to surreptitiously search crowds for anyone in a database containing
+millions of people’s faces, though they are suspected of no crime and
+no legal basis to monitor them has been established.
+EPIC recommends that
+funding for these systems be suspended until a comprehensive evaluation of
+their utility and effectiveness is completed. EPIC further recommends that
+a Privacy Impact Assessment that specifically examines the likelihood of “mission
+creep” be conducted before any facial recognition system is deployed.
+Finally, EPIC recommends that legal guidelines are established for the use
+of facial recognition systems.
+1
+EPIC, “Spotlight
+on Surveillance,” available at http://www.epic.org/privacy/surveillance/spotlight/
+2
+See,
+EPIC and Privacy International, Privacy and Human Rights:
+An International Survey of Privacy Laws and Developments at
+103-104 (EPIC 2004) available
+at http://www.privacyinternational.org/phr/; EPIC’s Facial
+Recognition page at http://www.epic.org/privacy/facerecognition/.
+3
+Letter from the General
+Accounting Office to Dick Armey, Majority Leader, House of Representatives
+at 4 (Mar. 14, 2002).
+4
+Department of State and
+Agency for International Development, Performance Summary: Fiscal
+Year 2006, 11206 (Feb. 7, 2005) available at http://www.state.gov/s/d/rm/rls/perfplan/2006/pdf/ and http://www.epic.org/privacy/surveillance/spotlight/1105/statefy06.pdf;
+Department of State, Daniel B. Smith, Principal Deputy Assistant
+Secretary for Consular Affairs, Testimony on the Department
+of State’s Border Security Program: Remarks before
+the House Committee on International Relations Subcommittee on
+Africa, Global Human Rights and International Operations (May
+12, 2005) available at http://www.state.gov/r/pa/ei/othertstmy/48735.htm;
+for more on border security, see EPIC’s US-VISIT page at http://www.epic.org/privacy/us-visit/.
+5
+The Government Accountability
+Office was previously called the General Accounting Office. General
+Accounting Office, Technology Assessment: Using Biometrics for
+Border Security, GAO 03-174 (Nov. 2002) available at http://www.gao.gov/cgi-bin/getrpt?GAO-03-174 and http://www.epic.org/privacy/surveillance/spotlight/1105/gao03174.pdf
+(hereinafter “GAO Biometrics Report”).
+6
+Infra.
+7
+Public Notice of Final Rule:
+Electronic Passport, 70 Fed. Reg. 61553 (Oct. 25, 2005) available
+at http://edocket.access.gpo.gov/2005/05-21284.htm; REAL ID
+Act of 2005, Pub. L. No. 109-13 (2005) available at http://thomas.loc.gov/cgi-bin/bdquery/z?d109:h.r.00418:;
+for more on these plans, see EPIC’s RFID and National
+ID pages at http://www.epic.org/privacy/rfid/ and http://www.epic.org/privacy/id_cards/.
+8
+P. Jonathon Phillips, et
+al., National Institute of Standards and Technology, Face
+Recognition Vendor Test 2002: Overview and Summary (Mar.
+2003) available at http://www.frvt.org/DLs/FRVT_2002_Overview_and_Summary.pdf and http://www.epic.org/privacy/surveillance/spotlight/1105/nist0303.pdf
+(hereinafter “NIST Face Recognition Study”).
+9
+GAO Biometrics Report at
+173, supra note 4.
+10
+Id.
+11
+Id.
+12
+P. Jonathon Phillips, et
+al., An Introduction to Evaluating Biometric Systems,
+Computer at 61 (Feb. 2000) available at http://www.frvt.org/DLs/FERET7.pdf and http://www.epic.org/privacy/surveillance/spotlight/1105/feret7.pdf.
+13
+Statement of Marc Rotenberg,
+Executive Director, Electronic Privacy Information Center, and
+Carla Meninsky, EPIC IPIOP Fellow, at a Joint Hearing on Identity
+Theft Involving Elderly Victims Before the Special Committee on
+Aging (July 18, 2002) available at http://www.epic.org/privacy/biometrics/testimony_071802.html.
+14
+Id.
+15
+NIST Face Recognition
+Study at 2, supra note 7.
+16
+National Institute of
+Standards and Technology, Summary of NIST Standards for Biometric
+Accuracy, Tamper Resistance, and Interoperability, at 6 (Nov.
+13, 2002) available at ftp://sequoyah.nist.gov/pub/nist_internal_reports/NISTAPP_Nov02.pdf and http://www.epic.org/privacy/surveillance/spotlight/1105/nist1102.pdf
+17
+NIST Face Recognition
+Study at 2, supra note 7.
+18
+Thomas W. Krause, City
+Unplugs Camera Software, Tampa Tribune, Aug. 20, 2003.
+19
+Id.
+20
+Jay Stanley
+and Barry Steinhardt, American Civil Liberties Union, Drawing
+a Blank: The failure of facial recognition technology in Tampa,
+Florida at
+1 (Jan. 3, 2002) available at http://www.epic.org/privacy/surveillance/spotlight/1105/aclu0302.pdf
+(originally available at http://archive.aclu.org/issues/privacy/drawing_blank.pdf).
+21
+Thomas W. Krause, City
+Unplugs Camera Software, Tampa Tribune, Aug. 20, 2003.
+22
+Richard Willing, Airport
+anti-terror systems flub tests, USA Today, Sept. 2, 2003.
+23
+Id.
+24
+Id.
+25
+Karen Dearne, SmartGate
+joke a serious concern, The Australian, Mar. 4, 2003.
+26
+Fed: Govt extends trial
+of faster passenger screening, Australian Associated Press,
+Feb. 2, 2005; Australia steps up border security with biometrics
+trial, Kyodo News Service, Sept. 29, 2005.
+27
+Identix Gets DOD $1.6
+Million For Researching Facial Recognition Technology, FinancialWire,
+Sept. 8, 2005.
+28
+Jesse Noyes, Registry
+eyes new line: Is that the real you?, Boston Herald, Oct.
+19, 2005.
+29
+Fred Guterl and William
+Underhill, Taking a Closer Look, Newsweek, Mar. 8, 2004.
+30
+Identix Recognition
+Technology Selected For $1.8 Million Upgrade By Texas Department,
+Financial Wire, Sept. 15, 2005.
+31
+Richard Winton, ID
+System Gets in Face of Criminals, L.A. Times, Dec. 25, 2004.
+32
+Id.
+33
+Identix Inc.: http://www.identix.com.
+34
+Identix Inc., FaceIt® G6
+Frequently Asked Technical Questions (last updated May 20,
+2005) available at http://www.identix.com/trends/faqs/faceit_faqs.pdf and http://www.epic.org/privacy/surveillance/spotlight/1105/facefaqs.pdf.
+35
+Viisage Technology: http://www.viisage.com.
+36
+Viisage Technology, FaceFinder
+2.5 Data Sheet (2004) available at http://www.viisage.com/en/data/pdf/en_datasheet_facefinder_2-5.pdf and http://www.epic.org/privacy/surveillance/spotlight/1105/facefinder.pdf.
+37
+EPIC, Spotlight on Surveillance: More
+Cities Deploy Camera Surveillance Systems with Federal Grant
+Money (May 2005) at http://www.epic.org/privacy/surveillance/spotlight/0505/.
+38
+Privacy and Human Rights
+at 102-103, supra note 1.
+39
+See generally Privacy
+and Human Rights at 95-104,supra note 1; Brandon C. Welsh
+and David P. Farrington, Home Office Research, Development and
+Statistics Directorate, Crime prevention effects of closed circuit
+television: a systematic review, Research Study 252 (Aug. 2002) available
+at http://www.homeoffice.gov.uk/rds/pdfs2/hors252.pdf; National
+Association for the Criminal Rehabilitation of Offenders, To
+CCTV or not to CCTV? A review of current research into the effectiveness
+of CCTV systems in reducing crime (June 28, 2002) available
+at http://www.epic.org/privacy/surveillance/spotlight/0505/nacro02.pdf.
+40
+International Civil Aviation
+Organization, Biometrics Deployment of Machine Readable Travel
+Documents: Technical Report Version 2.0, Doc. 9303 (2004) available
+at http://www.icao.int/mrtd/publications/doc.cfm.
+41
+Privacy and Human Rights
+at 703-704, supra note 1.
+42
+Fran Spielman and Frank
+Main, City plans camera surveillance web, Chicago
+Sun-Times, Sept. 10, 2004; see generally Privacy International, Overview:
+CCTV and Beyond available at http://www.privacyinternational.org/article.shtml?cmd[347]=x-347-65433.
+43
+Id.; Tara Burghart, Chicago
+Mayor Unveils Surveillance Plan, Associated Press, Sept.
+10, 2004.
+44
+Eric Lipton, Hurdles
+for Technology in U.S. Security Efforts, N.Y. Times, Aug.
+10, 2005.
+45
+Barnaby J. Feder, Technology
+Strains to Find Menace in the Crowd, N.Y. Times, May 31,
+2004.
+EPIC Spotlight on Surveillance Page | EPIC Privacy Page
+| EPIC Home Page

@@ -1,0 +1,146 @@
+http://www.icsi.berkeley.edu/icsi/projects/privacy/mobile-contextual-privacy
+Skip to main content area
+Current users login here
+Search form
+Search
+Main menu
+About ICSIICSI Sponsors and Research PartnersDirectionsJob OpportunitiesPeopleBoard of TrusteesEmeritus TrusteesManagementResearch StaffResearch Areas2i2cAIAudio and MultimediaBig DataNetworking and SecurityResearch InitiativesUsable Security and PrivacyVisionProjectsAI2i2cAudio and MultimediaBig DataNetworking and SecurityResearch InitiativesUsable Security and PrivacyVisionPublicationsVisitingMentorsVisa ProcessAccommodationsNews
+and
+EventsNewsEventsPress
+AIBFOIT
+California Connects
+Color, Language, and Thought
+Extracting Event Attributes from Unstructured Textual Data for Persistent Situational Awareness
+FrameNet
+MetaNet: A Multilingual Metaphor Repository
+NTL
+Identifying semantic components from cross-language variation, structured lexical resources, and corpora
+Multilingual FrameNet: Merging FrameNets for Cross-linguistic Research
+Preserving Unwritten Languages
+Audio and MultimediaGeoTube
+Knowledge-Aided Interface for Big Data Streams
+Multimodal Feature Learning for Understanding Consumer Produced Multimedia Data
+Multimodal Location Estimation
+Privacy Literacy with San Jose Public Library
+Shining Light on Non-Public Data Flows
+SMASH
+Teaching Resources for Online Privacy Education (TROPE)
+Video Concept Detection
+Multi Modal Video Summarization
+Big Data
+Core Technology for TCS
+Networking and SecurityAccountable Information Use: Privacy and Fairness in Decision-Making Systems
+Bro Center of Expertise for the NSF Community
+Bro Intrusion Detection System Refinements
+Censorship Counterstrike via Measurement, Filtering, Evasion, and Protocol Enhancement
+CESR: The Center for Evidence-based Security Research
+Characterizing Enterprise Networks
+Co-Design of Network, Storage and Computation Fabrics for Disaggregated Datacenters
+Creating an Evolvable, Diverse, and Dynamic Internet
+De-Mystifying and Hardening the Domain Name System
+The Design and Implementation of a Consolidated MiddleBox Architecture
+Detecting and Preventing Network Attacks
+Developing Security Science from Measurement
+Effective and Economical Protection for High-Performance Research and Education Networks
+Enhancing Bro for Operational Network Security Monitoring in Scientific Environments
+Evaluating Price Mechanisms for Clouds
+Exploring Internet Balkanization through the Lens of Regional Discrimination
+Future Internet Architecture
+Internet-Wide Vulnerability Measurement, Assessment, and Notification
+Investigating the Underground Economy
+Lumen Privacy Monitor
+Network Virtualization for OpenCloud
+Open Software-Defined Networks
+Semantic Security Monitoring for Industrial Control Systems
+Shining Light on Non-Public Data Flows
+A Software-Defined Internet Exchange
+Towards Programming Datacenters
+Towards a Science of Censorship Resistance
+Understanding and Exploiting Parallelism in Deep Packet Inspection on Concurrent Architectures
+Understanding the State of TLS Using Large-scale Passive Measurements
+Understanding and Taming the Privacy Footprint
+Universal Packet Scheduling
+User-Centric Networking
+When do Computers Discriminate? Toward Informing Users About Algorithmic Discrimination
+PacketLab: A Universal Measurement Endpoint Interface
+Privacy Risk in Machine Learning Pipelines
+Rethinking Home Networking for the Ultrabroadband Era
+Research InitiativesAnalysis of Genome-Wide Association Studies for Common Diseases
+Cybermanufacturing: Abstractions and Architectures for Open Composable Services
+Deep Learning-Based Self-Organizing Network for B5G Communications with Massive IoT Devices
+Evaluating Price Mechanisms for Clouds
+Finding Conserved Protein Modules
+Interoperability Challenges and Scenarios in Computational Design and Manufacturing
+Limiting Manipulation in Data Centers and the Cloud
+Tactile Internet Islands
+Towards Automated Testing and Discovery of Interoperability
+Undermining Political “Scratch” Effects with Technology (UPSET)
+Variable Precision Computing LDRD Project
+SpeechAutomatic Recognition of Camera Speech (ARCS)
+COSMOS
+How does deep learning improve speech recognition accuracy?
+Project Ouch - Outing Unfortunate Characteristics of HMMs (Used for Speech Recognition)
+Robust Automatic Transcription of Speech
+Speaker Recognition
+SWORDFISH
+Towards Modeling Human Speech Confusions in Noise
+Deep and Wide Learning for Automatic Speech Recognition
+Word Bug
+Usable Security and PrivacyAppCensus: Learn the Privacy Costs of Free Apps
+Increasing Users' Cyber-Security Compliance by Reducing Present Bias
+Mobile Contextual Privacy
+Mobile Dynamic Privacy and Security Analysis at Scale
+Privacy Literacy wtih San Jose Public Library
+Scaling Contextual Privacy to MDM Environments
+Science of Security
+Security and Privacy for Wearable and Continuous Sensing Platforms
+Teaching Resources for Online Privacy Education
+The Science of Privacy: Implications for Data Usage
+Usable Security of Emerging Healthcare Technologies for Seniors
+Using Individual Differences to Personalize Security Mitigations
+Exploring the Boundaries of Passive Listening in Voice Assistants
+VisionDomain Adaptation
+Fine-grained Recognition
+Representation Learning
+Robotic Vision
+2i2c
+ICSI Home
+Contact ICSI
+Publications
+Previous Work: Mobile Contextual Privacy
+Principal Investigator(s): Serge EgelmanThis project is rethinking how smartphones grant third-party applications access to sensitive user data. Currently, mobile platforms ask the user for permission the first time an application attempts to access certain data types; when access is granted, the user is never asked to make this decision again, even if the context in which subsequent data requests occur are substantially different from the context of the first request. For example, no distinction is made between using location data for location-based features and user tracking. ICSI researchers are rethinking permission models to support a notion of "contextual integrity." That is, users should only be confronted with permission decisions when data is requested in inappropriate contexts. The challenge is in inferring what constitutes an "inappropriate" context. To solve this problem, the researchers are performing user studies to better understand users' expectations, privacy preferences, and needs, as well as applying machine learning techniques to predict the varying contexts in which data is requested.
+Funding provided by DHS/AFRL.
+Quick Links
+ICSI Home
+Contact ICSI
+Board of Trustees
+Research Areas
+AI
+Audio and Multimedia
+Big Data
+Core Technology for TCS
+Networking and Security
+Research Initiatives
+Speech
+Usable Security and Privacy
+Vision
+Projects
+AI
+Audio and Multimedia
+Big Data
+Core Technology for TCS
+Networking and Security
+Research Initiatives
+Speech
+Usable Security and Privacy
+Vision
+Visitor Information
+Visiting
+Directions
+Accommodations
+Visa Process
+Follow ICSI
+Twitter
+Facebook
+YouTube
+Copyright © 2012-2020 International Computer Science Institute (ICSI). All Rights Reserved.

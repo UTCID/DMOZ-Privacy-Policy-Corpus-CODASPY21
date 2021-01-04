@@ -1,0 +1,78 @@
+http://www.hfea.gov.uk/privacy-policy-cookies-and-accessibility/accessibility-statement/
+HFEA.gov.uk uses cookies to deliver content and make improvements to the website.
+Accept
+Configure
+Skip to main content
+Accessibility statement
+This accessibility statement applies to hfea.gov.uk.
+This website is run by the Human Fertilisation and Embryology Authority. We want as many people as possible to be able to use this website.
+AbilityNet has advice on making your device easier to use if you have a disability.
+How accessible this website is
+We know some parts of this website are not fully accessible:
+Most PDF documents are not fully accessible.
+There are occurrences of incorrectly marked up text throughout hfea.gov.uk.
+There are occurrences of multiple headings at level one throughout hfea.gov.uk.
+Some of our online forms and elements are difficult to navigate using just a keyboard, for example, the star rating feature at the bottom of many pages.
+Some icons do not meet minimum colour contrast requirements.
+Some link text does not have a sufficient contrast ratio with surrounding text.
+On our Choose a Fertility Clinic service, the compare buttons when viewing clinic search results are ambiguous when navigating out of context. These compare buttons allow you to compare the clinic you are currently viewing with another.
+Text throughout the service, while meeting WCAG 2.1 AA standards, is still difficult for users with impaired vision to perceive due to low luminosity.
+Some custom elements are not accessible to all users. For example:
+The ‘Accept’ buttons on the privacy policy page cannot be accessed via keyboard navigation or voice activation technology.
+The ‘close’ button for the cookie banner cannot be focused on or selected by keyboard only navigation using the tab key.
+Some frames containing videos do not have a title attribute.
+When viewing the Choose a Fertility Clinic search results, the focus order of the actionable elements is incorrect. This may cause some confusion for visitors using keyboard only, however the order of these elements is not significant to their use.
+Some links are ambiguous, meaning they are not sufficiently descriptive of their purpose. This may make the purpose of these links difficult to understand for visitors using screen readers if navigating out of context.
+The heading structure of some pages does not always follow a sequential order.
+Abbreviations do not always appear in their expanded form in the first instance.
+On the homepage the flyout relating to ‘I am seeking information for..’ has an ambiguous instruction for visitors using screen readers, prompting them to use alt + enter. It is only necessary to us enter to navigate this.
+The ‘Accept’ buttons on the privacy policy page cannot be accessed via keyboard navigation, or voice activation technology.
+The ‘open’ and ‘close’ accordion buttons on some pages do not announce as expanded or collapsed when initiated by visitors using screen readers.
+Feedback and contact information
+If you need information on this website in a different format that’s accessible for you:
+Email communications@hfea.gov.uk.
+We’ll consider your request and get back to you in 10 working days.
+Reporting accessibility problems with this website
+We’re always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, contact the Communications team by email at communications@hfea.gov.uk.
+Enforcement procedure
+The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’). If you’re not happy with how we respond to your complaint, contact the Equality Advisory and Support Service (EASS).
+Technical information about this website’s accessibility
+The Human Fertilisation and Embryology Authority is committed to making its website accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.
+Compliance status
+This website is partially compliant with the Web Content Accessibility Guidelines version 2.1 AA standard, due to the non-compliances listed below.
+Non-accessible content
+The content that is not accessible is outlined below with details of:
+where it fails the success criteria
+our plans to fix these issues.
+Focused links and buttons sometimes do not have enough contrast. This fails WCAG 1.4.11 AA (Non-text Contrast). We have had this issue appraised by external developers and the work will be considered in the 2021/22 financial year.
+Some pages contain incorrect use of headings and some forms do not have a programmatic label. This fails WCAG 1.3.1 A (Info and Relationships). We have had this issue appraised by external developers and the work will be considered in the 2021/22 financial year.
+Some link text is identified by colour alone and does not have a sufficient contrast ratio with surrounding text to. This fails WCAG 1.4.1 A (Use of Colour). We have had this issue appraised by external developers and the work will be considered in the 2021/22 financial year.
+There are instances where non-text icons do not meet minimum colour contrast requirements. This fails WCAG 1.4.11 AA (Non-text Contrast). We have had these issues appraised by external developers and the work will be considered in the 2021/22 financial year.
+Some custom elements are note accessible to all users and some elements are incorrectly labelled. This fails WCAG 2.1.1 A (Keyboard). We have had these issues appraised by external developers and the work will be considered in the 2021/22 financial year.
+Some <iframe> elements do not contain a title attribute value. This fails WCAG 2.4.2 A (Untitled Frames). We plan to fix this by 31 December 2020.
+Some elements do not receive keyboard focus in the expected order and some non-interactive elements receive focus. This fails WCAG 2.4.3 A (Focus Order). We have had this issue appraised by external developers and the work will be considered in the 2021/22 financial year.
+On some pages there are multiple headings at level one. This fails WCAG 2.4.6 AA (Headings and Labels). We have had this issue appraised by external developers and the work will be considered in the 2021/22 financial year.
+On the homepage, visitors using a screen reader are prompted with a misleading instruction. This fails WCAG 3.3.2 A (Ambiguous Instructions). We have had this issue appraised by external developers and the work will be considered in the 2021/22 financial year.
+The current state of some interactive elements is not announced to visitors using screen reader users. This fails WGAC 4.1.2 A (Name, Role, Value). We have had this issue appraised by external developers and the work will be considered in the 2021/22 financial year.
+Disproportionate burden
+PDFs and other documents
+Some of our PDFs and Word documents are not accessible. These PDFs are typically not essential to providing our services. For example, we publish minutes, inspection reports and corporate and research publications in PDF format.
+These documents typically don’t meet the following WCAG 2.1 success criteria:
+1.2 Name, Role, Value – Level A
+4.4 Link Purpose (In Context) – Level A
+4.6 Headings and Labels – Level AA
+4.10 Section Headings – Level AAA
+We have assessed the cost required to make these PDFs accessible and believe that doing so now would be a disproportionate burden within the meaning of the accessibility regulations. We will continuously assess this for various documents as they are updated. If you require information in an accessible format please contact the Communications team by email at communications@hfea.gov.uk.
+What we’re doing to improve accessibility
+The website, hfea.gov.uk was tested on 6 April 2020 and several issues were identified. These issues will be appraised and fixed in order of priority, starting with level A criteria. We will update this statement as these issues are resolved.
+We will be continuously monitoring the accessibility of our website and retesting when issues are resolved, or new issues identified.
+Preparation of this accessibility statement
+This statement was prepared on 6 August. It was last reviewed on 19 August 2020.
+This website was last tested on 6 April 2020. The test was carried out by the Digital Accessibility Centre.
+You can read the full accessibility test report here (PDF 1,510KB).
+;
+;
+Publication date: 16 September 2020
+Review date: 16 September 2022
+Send to a friend
+Print this page
