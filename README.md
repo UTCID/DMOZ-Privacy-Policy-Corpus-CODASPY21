@@ -27,9 +27,29 @@ The URL used in the file names is a variant of the actual URL in which all dots 
 The first line of each text file is the URL of the privacy policy.
 The rest of the text file is the privacy policy text.
 
-The dataset is made available for research, teaching, and scholarship purposes only, with further parameters in the spirit of a Creative Commons Attribution-NonCommercial License.
-
 If you use this dataset as part of a publication, you must cite the following paper:
 Zaeem, R. N., & Barber, K. S. A Large Publicly Available Corpus of Website Privacy Policies Based on DMOZ. In the 11th ACM Conference on Data and Application Security and Privacy (CODASPY 2021).
 
 For more details about the dataset please see the paper and contact the authors: razieh@identity.utexas.edu (personal email nokhbeh@gmail.com).
+
+The dataset is made available for research, teaching, and scholarship purposes only, with further parameters in the spirit of a Creative Commons Attribution-NonCommercial License.
+
+This dataset is partically based on DMOZ, later inherited by Curlie.
+
+<table border="0" bgcolor="#bc001f" cellpadding="3" cellspacing="0">
+<tr><td>
+<table width="100%" cellpadding="2" cellspacing="0" border="0">
+<tr align="center"><td>
+<font face="sans-serif, Arial, Helvetica" size="2" color="#ffffff">
+Be part of the largest human-edited directory on the web.
+</font>
+</td></tr>
+<tr bgcolor="#f9f9f9" align="center">
+<td><font face="sans-serif, Arial, Helvetica" size="2">
+<a href="https://curlie.org/docs/en/help/become.html">Suggest a Site</a> -
+<a href="https:/curlie.org/about.html"><b>Curlie Directory</b></a> -
+<a href="https://curlie.org/docs/en/help/become.html">Become an Editor</a>
+</font></td></tr>
+</table>
+</td></tr>
+</table>
